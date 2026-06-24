@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BINEAID — Paper Library</title>
+<style>
+  :root { --bg:#fdf6e3; --ink:#073642; --soft:#586e75; --accent:#268bd2; --border:#d6cfb8; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#002b36; --ink:#eee8d5; --soft:#93a1a1; --border:#073642; } }
+  * { box-sizing:border-box; }
+  body { margin:0; font-family:-apple-system,"Segoe UI",system-ui,sans-serif; background:var(--bg); color:var(--ink); line-height:1.6; }
+  .wrap { max-width:760px; margin:0 auto; padding:48px 22px; }
+  h1 { font-size:30px; margin:0 0 4px; }
+  .sub { color:var(--soft); margin:0 0 32px; }
+  .cards { display:grid; gap:16px; }
+  a.card { display:block; padding:22px; border:1px solid var(--border); border-radius:12px;
+            text-decoration:none; color:inherit; background:rgba(127,127,127,0.04); transition:transform .1s; }
+  a.card:hover { transform:translateY(-2px); border-color:var(--accent); }
+  a.card h2 { margin:0 0 6px; font-size:20px; }
+  a.card p { margin:0; color:var(--soft); font-size:14px; }
+  .stats { margin-top:32px; color:var(--soft); font-size:13px; }
+  .stats b { color:var(--ink); }
+</style></head><body>
+<div class="wrap">
+  <h1>BINEAID — Paper Library</h1>
+  <p class="sub">Higher-education research corpus · converted, indexed, and readable</p>
+  <div class="cards">
+    <a class="card" href="paper_reader.html">
+      <h2>📖 Paper Reader</h2>
+      <p>ADHD-friendly reader: bionic text, dyslexia font, focus mode, read-aloud, English↔Arabic toggle.</p>
+    </a>
+    <a class="card" href="csv_viewer.html">
+      <h2>🗂 Data Browser</h2>
+      <p>Sort and filter the paper index (open <code>data/file_index.csv</code>).</p>
+    </a>
+  </div>
+  <p class="stats"><b>38</b> papers · <b>5</b> with Arabic translation · A1, A2, A3 collections</p>
+</div></body></html>
