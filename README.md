@@ -1,7 +1,7 @@
 # BINEAID — Paper Library
 
 Static reading site for a higher-education research corpus (211 papers,
-89 with Arabic translations).
+147 with Arabic translations).
 
 - **paper_reader.html** — ADHD-friendly reader (bionic text, dyslexia font, focus
   mode, read-aloud, EN↔AR toggle). Reads `papers_md/`, `papers_md_ar/`, `figures/`.
