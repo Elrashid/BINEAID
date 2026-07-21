@@ -405,6 +405,13 @@
       <span class="filter-chip" data-filter="cite">To cite</span>
       <span class="filter-chip" data-filter="ar">Has Arabic</span>
     </div>
+    <div class="filter-chips" id="collectionFilters">
+      <span class="filter-chip active" data-collection="all">All collections</span>
+      <span class="filter-chip" data-collection="A1">A1</span>
+      <span class="filter-chip" data-collection="A2">A2</span>
+      <span class="filter-chip" data-collection="A3">A3</span>
+      <span class="filter-chip" data-collection="A4">A4</span>
+    </div>
   </div>
   <div class="drawer-list" id="paperList"><div class="loading">Loading…</div></div>
 </aside>
@@ -478,11 +485,14 @@ async function loadManifest() {
 
 function renderPaperList() {
   const f = ($('#search').value || '').toLowerCase();
-  const activeFilter = $('.filter-chip.active')?.dataset.filter || 'all';
+  const activeFilter = $('#filters .filter-chip.active')?.dataset.filter || 'all';
+  const activeCollection = $('#collectionFilters .filter-chip.active')?.dataset.collection || 'all';
   const bookmarks = LS.bookmarks();
   const tags = LS.tags();
   const progress = LS.progress();
   const html = manifest.map((p, i) => {
+    // Filter by collection (rp_id prefix, e.g. "A1.R01" -> "A1")
+    if (activeCollection !== 'all' && !p.rp_id.startsWith(activeCollection + '.')) return '';
     // Filter by chip
     if (activeFilter === 'starred' && !bookmarks[p.rp_id]) return '';
     if (activeFilter === 'unread' && progress[p.rp_id] >= 80) return '';
@@ -1160,10 +1170,11 @@ document.addEventListener('keydown', e => {
   }
 });
 
-// Filter chips
+// Filter chips (each chip group — status filters, collection filters — toggles independently)
 document.addEventListener('click', (e) => {
   if (e.target.classList.contains('filter-chip')) {
-    $$('.filter-chip').forEach(c => c.classList.remove('active'));
+    const group = e.target.closest('.filter-chips');
+    group.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
     e.target.classList.add('active');
     renderPaperList();
   }
