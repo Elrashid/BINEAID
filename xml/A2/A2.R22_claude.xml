@@ -1,0 +1,342 @@
+<paper source_file="A2.R22" title="" total_pages="8" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A2.R22_fig01.jpg">[FIGURE: see A2.R22_fig01.jpg]</figure>
+
+
+<heading page="1" section="" source="author" id="/page/0/SectionHeader/1" level="2">
+## 
+</heading>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+**Policy Brief No. 20** **August 2010**
+</text>
+
+
+<heading page="1" section="" source="author" id="/page/0/SectionHeader/3" level="2">
+## 
+</heading>
+
+<text page="1" section="" source="author" id="/page/0/Text/4">
+International branch campuses (IBCs) have a  signiicant presence in Dubai's higher education  sector, yet the role of these institutions is not yet  fully understood. Moreover, the evolution of the  roles of IBCs in Dubai may be strongly inluenced  by public policy designs. This brief deines three  key issues inluencing the development of the  education sector and relevant public policy.  First, in most importing nations, IBCs account  for only a small proportion of the total number  of postsecondary educational institutions, and  most countries already have well established  public and private higher education sectors. In  Dubai, however, the private higher education  sector has developed rapidly and the number  of IBCs is nearly half of the total number of  education institutions licensed to operate in the  Emirate. Second, foreign education providers  engage in a variety of capacity-building roles  in Dubai, ranging from providing access to  expatriates excluded from the public system  to signaling the increasing modernity of the  Emirate to the world. Consideration should be  given to how future public policy decisions may  afect these roles. Third, the use of free zones to  facilitate the importation of foreign education  providers has resulted in dual quality assurance  mechanisms at the federal and local levels, as well  as a lack of coordination throughout the sector.  This has created an environment where there  is signiicant duplication of degree oferings,  confusion over regulation, and concern about  the quality of some programs. While such  constraints are common in rapidly developing  educational systems, left unaddressed they  can challenge the efective contribution of  the entire sector to the development of the  Emirate and the nation, as well as the long-term  sustainability of each institution.* This brief  provides an overview of key public policy issues  and presents a set of questions to help frame  the ongoing conversation.
+</text>
+
+
+<heading page="1" section="**International Branch ** **Campuses, Free Zones,** **and Quality Assurance: ** **Policy Issues for Dubai** **and the UAE**" source="author" id="/page/0/SectionHeader/5" level="1">
+# **International Branch ** **Campuses, Free Zones,** **and Quality Assurance: ** **Policy Issues for Dubai** **and the UAE**
+</heading>
+
+<text page="1" section="**International Branch ** **Campuses, Free Zones,** **and Quality Assurance: ** **Policy Issues for Dubai** **and the UAE**" source="author" id="/page/0/Text/6">
+*By Jason E. Lane*
+</text>
+
+
+<heading page="1" section="**Introduction**" source="author" id="/page/0/SectionHeader/7" level="1">
+# **Introduction**
+</heading>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/8">
+The higher education landscape in the United Arab Emirates  has changed signiicantly since the founding of the country's  irst university, the United Arab Emirates University (UAEU), in  1976. During the irst half of the country's history, access to  higher education was limited, available almost exclusively to  Emiratis through two federal institutions (i.e., UAEU and the  Higher Colleges of Technology, or HCT).^(1)  Since then, however,  there has been a rapid increase in the number of private  higher education institutions throughout the country, with  some emirates seeking to build their educational capacities  by attracting outposts of foreign colleges and universities  (e.g., London Business School, Michigan State University and  New York University). The largest transformation of the private  higher education sector has occurred in Dubai, where there are  now more than 50 institutions licensed by Dubai's Knowledge  and Human Development Authority (KHDA) to award  postsecondary degrees and diplomas.
+</text>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/9">
+How a government regulates its higher education sector can  have a lasting efect on educational access and workforce  development. To date, the rapid expansion of the private  higher education system in the UAE has been accompanied by  a delay in government regulation, as it would be in any rapidly  changing system.^(2)  The UAE now faces challenges in aligning  government regulation with its strategic priorities, while  simultaneously deining the limits of national and local authority  within the higher education sector. In particular, there is minimal  diversiication of degree levels or academic programs, which
+</text>
+
+<footnote page="1" section="**Introduction**" source="author" id="/page/0/Footnote/10">
+^(*)For instance, Michigan State University Dubai closed most of its academic operations in July  2010 prior to graduating any students
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/1">
+makes cultivating a dynamic and lexible  workforce diicult. Moreover, the lack of  regulatory clarity creates confusion among  students and institutions about local degree  recognition. Dubai, as the largest importer of  educational institutions among the emirates,  must deal with the quality assurance issues  associated with a rapidly developing private  higher education sector populated by the  largest number of IBCs of any region in the  world. As such, there are no similar models  to use as guides. The ongoing development  of the system and current tensions in the  quality assurance discussions suggest that  both the local and federal governments will  continue to look at new policies in this area.
+</text>
+
+
+<heading page="2" section="**International Branch Campuses**" source="author" id="/page/1/SectionHeader/2" level="1">
+# **International Branch Campuses**
+</heading>
+
+<text page="2" section="**International Branch Campuses**" source="author" id="/page/1/Text/3">
+Over the past two decades, an increasing  number of developing countries have sought  to attract universities from the developed  world (mainly from Australia, the United  Kingdom and the United States) to establish  educational outposts and partnerships  within their borders. The most prominent  form taken by these cross-border initiatives is  the international branch campus (IBC). In its  basic form, the IBC is a foreign outpost of a  university which is owned (at least in part) by  the home campus. Further, the outpost must  be a physical location in the foreign country  from which a student can take courses and  receive a degree from the home campus.^(3)
+</text>
+
+<text page="2" section="**International Branch Campuses**" source="author" id="/page/1/Text/4">
+A 2009 report from the Observatory for  Borderless Higher Education (OBHE)  documents more than 160 IBCs operating  around the world, which is almost double the  number that the OBHE reported three years  earlier.^(4)  Forty-one of the campuses identiied  in the OBHE report were located in the UAE,  making it the largest importer of IBCs in the  world. This number does not account for  those IBCs which have opened since the last  count, nor does it portray the signiicant role  such institutions play within the education  sector in Dubai and the UAE.
+</text>
+
+
+<heading page="2" section="**Overview of Private Higher ** **Education in Dubai**" source="author" id="/page/1/SectionHeader/5" level="1">
+# **Overview of Private Higher ** **Education in Dubai**
+</heading>
+
+<text page="2" section="**Overview of Private Higher ** **Education in Dubai**" source="author" id="/page/1/Text/6">
+As of May 2010, KHDA reported 53  postsecondary educational institutions  licensed to award degrees or diplomas in  Dubai. Of these, only three are part of the  federal public higher education system  (Zayed University and two HCT campuses  – Dubai's Men's College and Dubai's  Women's College). The remaining 50 are  part of the private higher education sector.  Approximately half of these institutions are  outposts of foreign education providers and  exist within designated free zone arenas  that exempt them from federal regulation  (discussed below).
+</text>
+
+<text page="2" section="**Overview of Private Higher ** **Education in Dubai**" source="author" id="/page/1/Text/7">
+The IBCs vary in terms of enrollment size,  level of degree awarded, and breadth of  program oferings. Although there has  been no systematic collection of enrollment  numbers to date, data collected by this  author from the diferent campuses suggest  that enrollments range from fewer than 100  to several thousand. Campuses have been  approved to ofer degrees at the diploma/ associate, baccalaureate, and doctoral  levels. Most campuses ofer degrees at  the bachelor's and master's level. A small  but growing number of institutions ofer  doctorates in education and business. Access  to associate and diploma degrees is limited  in Dubai, and they are provided almost  exclusively by local institutions.^(5)
+</text>
+
+<text page="2" section="**Overview of Private Higher ** **Education in Dubai**" source="author" id="/page/1/Text/8">
+The breadth of programmatic oferings  at the IBCs in Dubai is limited. Almost all  programs ofered by foreign providers  are professionally focused (e.g., business,  engineering, and education) and appear to  be market-driven. Real estate, inance, and  business have been the largest areas of job  growth in Dubai over the last decade, and  the growing number of expatriates with  children is fostering the desire for more  well-educated teachers at the primary  and secondary levels. There are 31 private
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Overview of Private Higher ** **Education in Dubai**" source="author" id="/page/2/Text/1">
+institutions ofering business-related master's  degrees in Dubai; 23 of these are foreign  education providers. In contrast, academic  programs in the arts, humanities, and social  sciences are almost non-existent in the private  education sector.
+</text>
+
+
+<heading page="3" section="**The Roles of IBCs in Dubai**" source="author" id="/page/2/SectionHeader/2" level="2">
+## **The Roles of IBCs in Dubai**
+</heading>
+
+<text page="3" section="**The Roles of IBCs in Dubai**" source="author" id="/page/2/Text/3">
+IBCs are increasingly seen as integral  components of economic development policy  in developing economies. This is true for Dubai.  However, in Dubai, these institutions have  quickly evolved to serve a number of roles not  typically seen among private higher education  providers. Four particular roles played by IBCs in  Dubai are detailed below:^(6)
+</text>
+
+
+<heading page="3" section="**Demand Absorption **" source="author" id="/page/2/SectionHeader/4" level="3">
+### **Demand Absorption **
+</heading>
+
+<text page="3" section="**Demand Absorption **" source="author" id="/page/2/Text/5">
+Like all of the private higher education  institutions in Dubai, IBCs play an important role  in meeting the demands for higher education  among the large expatriate population. As the  three federal institutions are restricted to only  Emirati students, private institutions (including  the foreign education providers) absorb the  demand for higher education from expatriates  living and working in Dubai, providing them  with the opportunity to access higher education  without having to leave the Emirate or engage  in distance learning.
+</text>
+
+
+<heading page="3" section="**Provision of Something Diferent **" source="author" id="/page/2/SectionHeader/6" level="3">
+### **Provision of Something Diferent **
+</heading>
+
+<text page="3" section="**Provision of Something Diferent **" source="author" id="/page/2/Text/7">
+Another reason for the development of  private higher education is to provide a type  of education that is not available in the public  sector. Internationally, institutions in this  category generally provide access to a religiousbased education experience, and a few private  higher education institutions in Dubai have  developed degrees with a religious focus (i.e.,  Islamic Studies or Shari'a Finance). However,  most IBCs in Dubai provide something diferent,  in that they provide access to curricula from  other countries.
+</text>
+
+<text page="3" section="**Provision of Something Diferent **" source="author" id="/page/2/Text/8">
+Indeed, IBCs in Dubai provide access to curricula  from at least 11 diferent countries, including
+</text>
+
+<text page="3" section="**Provision of Something Diferent **" source="author" id="/page/2/Text/9">
+Australia, Belgium, France, India, Iran, Ireland,  Lebanon, Pakistan, Russia, the United Kingdom  and the United States. This is particularly  important for Dubai given the ethnic diversity  of its expatriate population and the fact that  the private primary and secondary education  system educates children in 13 diferent national  curricula. When these students graduate from  high school, they are seeking to continue their  education in a familiar educational environment.
+</text>
+
+<text page="3" section="**Provision of Something Diferent **" source="author" id="/page/2/Text/10">
+Moreover, there are a growing number of  Emirati students interested in pursuing a  diferent education than is provided at the  federal institutions, but who are, for a variety  of reasons, not able to pursue such options in  other countries. IBCs provide them with access  to a foreign degree without having to leave their  home.
+</text>
+
+
+<heading page="3" section="**Signaling Modernity**" source="author" id="/page/2/SectionHeader/11" level="3">
+### **Signaling Modernity**
+</heading>
+
+<text page="3" section="**Signaling Modernity**" source="author" id="/page/2/Text/12">
+For many governments, including that of Dubai,  IBCs are a way to signal their growing modernity  to the outside world. This may happen in three  ways. First, in its simplest form, the opening  of IBCs garners international press, bringing  more attention to both educational and noneducational activities within the Emirate.  Second, associating with a university that has  a strong international reputation can suggest  (whether true or not) a certain level of quality  within the broader education sector.^(7)  Michigan  State University from the United States or S.P.  Jain from India choosing to locate a campus  within Dubai may signal to outsiders that Dubai  is of a suicient level of global importance and  educational signiicance that it warrants those  institutions becoming a part of its educational  sector. Third, having a diversity of nations  represented among the IBCs may serve as  tacit acknowledgement of the Emirate's global  orientation and increasing diversity.
+</text>
+
+
+<heading page="3" section="**Demand Creation **" source="author" id="/page/2/SectionHeader/13" level="3">
+### **Demand Creation **
+</heading>
+
+<text page="3" section="**Demand Creation **" source="author" id="/page/2/Text/14">
+Unlike other types of private higher education,  a unique role of IBCs is to create demand for  themselves and for the local system. The fact
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Demand Creation **" source="author" id="/page/3/Text/1">
+that IBCs have an existing reputation of quality  and provide an educational experience that  might not be available anywhere else in the  region may attract new students to Dubai.  Thus, the presence of the IBCs may create a  demand from students that might otherwise  have chosen to pursue their educations  elsewhere.
+</text>
+
+
+<heading page="4" section="**Free Zones**" source="author" id="/page/3/SectionHeader/2" level="1">
+# **Free Zones**
+</heading>
+
+<text page="4" section="**Free Zones**" source="author" id="/page/3/Text/3">
+Free zones, an economic development tool  designed to exempt companies from federal  regulation, have been one of the most  important factors in the growth of foreign  education providers in Dubai. Yet, the use of  free zones has created a range of challenges,  including the rise of multiple accountability  schemes. This has fostered discussions about  the appropriate role of the local and federal  governments, and has restricted systemwide coordination by creating several fairly  autonomous subsectors within the education  system.
+</text>
+
+<text page="4" section="**Free Zones**" source="author" id="/page/3/Text/4">
+Four free zones currently house IBCs in  Dubai. Dubai International Academic City/ Dubai Knowledge Village (DIAC/DKV) hosts  the largest number of IBCs, and it is the only  free zone dedicated to education. DIAC/ DKV attracts a wide range of institutions  from multiple countries. Undergraduate and  graduate degrees are ofered and students  come from throughout the Arab region and  around the world. Some institutions ofer  similar programs, which creates a degree of  competition among the various institutions.  There is also limited collaboration between  some of the institutions, but this is mostly in  the area of student activities (e.g., football  games).
+</text>
+
+<text page="4" section="**Free Zones**" source="author" id="/page/3/Text/5">
+The other free zones are more strategic  in their selection of institutions and more  restrictive in the types of programs ofered.  For example, the Center for Excellence at the  Dubai International Financial City (DIFC) serves  to attract and retain a diversity of graduate-
+</text>
+
+<text page="4" section="**Free Zones**" source="author" id="/page/3/Text/6">
+level business programs from highly ranked  international business schools. There are no  duplicate programs. Further, the programs  serve not only those employed by businesses  within DIFC, but also students from many  other countries. The purpose is to help build  leadership capacity within DIFC as well as  increase the social capital and international  networks of all individuals working within  DIFC. Similarly, Dubai Health Care City (DHCC)  hosts a branch of Boston College's Institute  for Dental Research and Education, which  supports DHCC's mission to, in part, improve  the overall level of dental health within  the region. Finally, Rochester Institute of  Technology, from the United States, provides  an array of business and technology degrees  within Silicon Oasis, a business technologyoriented free zone.
+</text>
+
+
+<heading page="4" section="**Regulating Free Zone Education**" source="author" id="/page/3/SectionHeader/7" level="2">
+## **Regulating Free Zone Education**
+</heading>
+
+<text page="4" section="**Regulating Free Zone Education**" source="author" id="/page/3/Text/8">
+Given the exemption of IBCs operating in  free zones from federal quality assurance  mechanisms, each free zone has established  speciic requirements about branch  campuses having to provide academic  programs comparable in quality to the main  campus. However, the enforcement of these  requirements has been unequal and sporadic.  Moreover, since each of the four free zones is  administered by diferent authorities, there  has been a lack of coordination in regard  to this enforcement and each free zone has  developed its own regulatory structure. For  example, DHCC runs its own human subject  review board for research conducted by  their universities, though no other free zone  has a separate human subject review board.  Similarly, DIFC restricts its IBCs from ofering  competitive degrees, while several DIAC/DKV  institutions ofer the same academic programs.  The overall lack of local regulations has created  a need for an emirate-level quality assurance  mechanism within Dubai.
+</text>
+
+<text page="4" section="**Regulating Free Zone Education**" source="author" id="/page/3/Text/9">
+To address concerns about quality, while  recognizing that campuses are based on
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Text/1">
+diferent assumptions about learning and  teaching styles, KHDA created a new quality  assurance mechanism in 2008. The University  Quality Assurance International Board (UQAIB),  comprised of members from various countries,  audits institutions to ensure that mechanisms  are in place to ensure that the quality of the  education provided at the branch campus  is comparable to that of the home campus.  However, receiving licensure from this body  does not attest to a minimum level of quality,  merely that the quality of an institution's  program is comparable to its home campus.
+</text>
+
+<text page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Text/2">
+At the federal level, the Commission for  Academic Accreditation (CAA), part of the  Ministry for Higher Education and Scientiic  Research, is responsible for the licensure  and accreditation of all institutions of higher  learning in the UAE. The CAA is responsible  for ensuring institutions and their programs  meet the same set of quality assurance  requirements. As noted above, locating  within a free zone exempts an IBC from CAA  requirements. This exemption, while allowing
+</text>
+
+<text page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Text/3">
+institutions to operate without interference  from the federal government, has created  problems, with degrees from these institutions  not being recognized by the government  (particularly important for those applying for  public sector jobs) or inancial aid not being  made available to Emirati students attending  these institutions. Notably, even though the  free zones exempt institutions from CAA  requirements, several IBCs have sought and  been granted institutional licensure and  academic program accreditation from the CAA.  Of the 51 postsecondary institutions listed by  KHDA as being approved to operate in Dubai,  29 are licensed by the federal government  through the CAA.
+</text>
+
+<text page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Text/4">
+The multiple layers of governmental and  non-governmental regulation of education  underline the challenges facing the  development and accountability of IBCs in  Dubai and the UAE as a whole. A signiicant  component of the current accountability  debate is whether the local or federal  government is responsible for the licensure and
+</text>
+
+<figure_group page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/FigureGroup/197">
+<figure page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Figure/5" image="A2.R22_fig02.jpg">[FIGURE: see A2.R22_fig02.jpg]</figure>
+<caption page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Caption/6">
+**Figure 1: Licensing Authorities for Dubai**'**s Institutions of Higher Learning**
+</caption>
+</figure_group>
+
+<text page="5" section="**Regulating Free Zone Education**" source="author" id="/page/4/Text/7">
+**Source:** This information comes from the list of licensed institutions on the CAA portal (www.caa.ae) and the KHDA Web site  (www.khda.gov.ae). Data was collected from each Web site on May 11, 2010.
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**Regulating Free Zone Education**" source="author" id="/page/5/Text/1">
+accreditation of higher education institutions.  The accounting of "licensed" institutions  partially demonstrates this divide. Further,  coordination within the system is minimal. The  difering regulations between CAA and UQAIB  makes harmonization throughout the system  diicult, particularly between free zone and  non-free zone institutions. Moreover, the fact  that IBCs are spread among four diferent free  zones with four diferent special authorities  and sets of regulations makes it diicult to  coordinate among the free zone institutions.
+</text>
+
+
+<heading page="6" section="**Moving Forward**" source="author" id="/page/5/SectionHeader/2" level="1">
+# **Moving Forward**
+</heading>
+
+<text page="6" section="**Moving Forward**" source="author" id="/page/5/Text/3">
+A number of factors combine to create an  education environment in the UAE quite  diferent from that of most other countries.  This is particularly true in Dubai, where the  number of foreign education providers is  about the same as indigenous institutions,  and where most foreign education providers  operate within free zones. Importantly, in the  context of the sector's rapid development,  the role of the local and federal governments  in regulating these entities is not yet clear;  nor is the route by which foreign education  providers can help the government to achieve  its strategic priorities. In fact, the approaches  of the federal and local quality assurance  agencies demonstrate a fundamental  diference in approach. Dubai's quality  assurance mechanism, UQAIB, seeks to ensure  that each foreign institution provides an  educational experience comparable to that  of its home campus, leaving it to the student  to decide which education he or she wants  to pursue. The federal quality assurance  mechanism, CAA, licenses institutions based  on meeting a common set of minimum  standards. This insures that there is a  minimum level of quality, and that there is  some commonality among all institutions in  the country.
+</text>
+
+<text page="6" section="**Moving Forward**" source="author" id="/page/5/Text/4">
+From an international perspective, most  quality assurance mechanisms are designed
+</text>
+
+<text page="6" section="**Moving Forward**" source="author" id="/page/5/Text/5">
+for a postsecondary education sector that  consists primarily of mostly indigenous  institutions serving predominantly indigenous  students. Moreover, in this context, a vast  majority of the students can be expected to  spend most of their lives in the country which  designs the quality assurance mechanisms.  In Dubai and the wider UAE, this does not  necessarily hold true. While the necessary  data is not yet available to provide an accurate  proile of students in Dubai, data collected  by this author suggests that only a minority  of students are Emirati, and that many  expatriate students expect to return to their  home countries after inishing their degrees in  Dubai.
+</text>
+
+<text page="6" section="**Moving Forward**" source="author" id="/page/5/Text/6">
+This is not to suggest that existing quality  assurance schemes in other nations would  not work in Dubai. However, those making  decisions in the UAE about the structure  of such schemes should be aware of the  fundamental diferences between their  system and most others, and they need to  make decisions with full knowledge of how  the regulatory system may afect future  development of the education sector. For  example, the goal to educate a workforce  for the UAE may be diferent than the goal  of attracting students to the UAE to take  advantage of a choice of institutions from  almost anywhere in the world. On the one  hand, allowing a diversity of institutional  requirements and quality levels may  inhibit the development of a cohesive and  efective workforce. On the other hand,  creating a system of institutions with similar  requirements may make the international  diversity of institution less attractive to  foreign students and work against the goal of  becoming an educational hub.^(9)  The following  questions are meant to help guide ongoing  public policy discussions:
+</text>
+
+<text page="6" section="**Moving Forward**" source="author" id="/page/5/Text/7">
+1. Who are the students being served by  international branch campuses and what  are their aspirations?
+</text>
+
+</page>
+<page number="7">
+<list page="7" section="**Moving Forward**" source="author" id="/page/6/ListGroup/204">
+- 2. What are the reasons for importing  educational providers from other  countries? Is it to help achieve the  Emiratization policies by increasing  access to high quality programs? Is it to  encourage more Emiratis to study in the  UAE? Is it to attract foreign students or  retain expatriates already living in the  country?
+- 3. When assessing the role of education for  expatriate students, how many of them  desire to stay and work in the UAE upon  graduation? How many will actually stay,  and how long will they stay?
+</list>
+
+<list page="7" section="**Moving Forward**" source="author" id="/page/6/ListGroup/205">
+- 4. What are the advantages/disadvantages  of having academic programs based on  several diferent national curricula?
+- 5. What are the advantages/disadvantages of  having a common regulatory framework  (versus diferent frameworks for foreign/ indigenous institutions)?
+- 6. How does any new regulatory framework  align IBCs with the government's strategic  priorities? And, how does such a framework  alter the existing role of IBCs?
+- 7. How does the existence of IBCs afect the  indigenous education providers?
+</list>
+
+
+<heading page="7" section="**Moving Forward**" source="author" id="/page/6/SectionHeader/7" level="2">
+## 
+</heading>
+
+<list page="7" section="**Moving Forward**" source="author" id="/page/6/ListGroup/206">
+- The United Arab Emirates was established in 1971 as a confederation of six formerly independent  emirates: Abu Dhabi, Ajman, Dubai, Fujairah, Sharjah and Umm Al-Quwain. Ras Al-Khaimah joined  the union in 1972. UAEU was the country's only public institution of higher learning until the Higher  Colleges of Technology were established in 1988. The country's other public institution of higher  learning, Zayed University, was not founded until 1999. 1
+- Levy, Daniel A. 2006. The unanticipated explosion: private higher education's global surge.  Comparative Education Review 50, 2: 217-240.  2
+- Not all of the foreign education providers in Dubai use the term "branch campus." Its use here  is only for identification of a specific subset of private higher education institutions that meet the  previous definition, and is not meant to imply any specific type of organizational arrangement. The  term is used to differentiate from collaborative or twinning arrangements, as well as researchonly ventures such as the research centers being established by the Massachusetts Institute of  Technology (MIT) around the world.  3
+- The increase is likely due to both the development of new institutions and better information about  the existence of IBCs.  4
+- According to the KHDA, only eight public and private higher education institutions offer associate  or diploma degrees.  5
+- This information comes from a forthcoming article by the author. See Lane, J. E. (forthcoming)  Importing private higher education: international branch campuses. Journal of Comparative Policy  Analysis.  6
+- Such an association may imply a level of quality about the educational programs, the types of  students enrolled in the sector, or the quality of graduates in the work force. More work is needed  to more fully understand the reputational effects of IBCs on the host government.  7
+- UQAIB membership is comprised of a chairman and ten additional members appointed for a term  of not less than four years. According to the International Network of Quality Assurance Agencies  in Higher Education (INQAAHE), the initial members were drawn from Australia, Asia, New Zealand,  South Africa, United Kingdom, and the United States. (Asian countries are not listed separately.)  8
+</list>
+
+</page>
+<page number="8">
+
+<heading page="8" section="**Moving Forward**" source="author" id="/page/7/SectionHeader/0" level="2">
+## 
+</heading>
+
+<text page="8" section="**Moving Forward**" source="author" id="/page/7/Text/1">
+9 Countries such as the United States and the United Kingdom have become educational hubs  because of the type of education their system provides, which is different from most other  countries. This allows them to create quality assurance mechanisms based on similar beliefs about  education. However, Dubai has adopted a different strategy, providing access to the educational  systems of a number of different countries in one location.
+</text>
+
+<text page="8" section="**Moving Forward**" source="author" id="/page/7/Text/2">
+**Jason E. Lane** is Assistant Professor of Educational Administration and Policy Studies and the co-leader  of the Cross-Border Education Research Team (C-BERT) at the State University of New York at Albany. He and his team are investigating the development of higher education institutions moving across national boundaries, and have performed site visits at more than 40 IBCs in 10 countries. Over the past year, Dr.  Lane spent several months in the Middle East as a Fulbright New Century Scholar studying the development  of international branch campuses. He has written more than 20 articles, and has edited/authored five  books on educational organizations, administration, globalization and policy.
+</text>
+
+<text page="8" section="**Moving Forward**" source="author" id="/page/7/Text/3">
+The views expressed in this policy brief are those of the author and do not necessarily reflect those of the  trustees, officers and other staff of the Dubai School of Government.
+</text>
+
+
+<heading page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/SectionHeader/4" level="3">
+### © 2010 Dubai School of Government
+</heading>
+
+<text page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Text/5">
+The Dubai School of Government (DSG) is a research and teaching institution focusing on public policy in the  Arab world. Established in 2005 under the patronage of HH Sheikh Mohammed Bin Rashid Al Maktoum,  Vice President and Prime Minister of the United Arab Emirates and Ruler of Dubai, in cooperation with the  Harvard Kennedy School, DSG aims to promote good governance through enhancing the region's capacity  for effective public policy.
+</text>
+
+<text page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Text/6">
+Toward this goal, the Dubai School of Government also collaborates with regional and global institutions  in delivering its research and training programs. In addition, the School organizes policy forums and  international conferences to facilitate the exchange of ideas and promote critical debate on public policy in  the Arab world.
+</text>
+
+<text page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Text/7">
+The School is committed to the creation of knowledge, the dissemination of best practice and the training  of policy makers in the Arab world. To achieve this mission, the School is developing strong capabilities to  support research and teaching programs, including
+</text>
+
+<list page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/ListGroup/134">
+- applied research in public policy and management;
+- master's degrees in public policy and public administration;
+- executive education for senior officials and executives; and,
+- knowledge forums for scholars and policy makers.
+</list>
+
+<text page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Text/12">
+To receive newsletters about events, publications and news at the Dubai School of Government, sign up online at www.dsg.ae.
+</text>
+
+<text page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Text/13">
+Dubai School of Government  Convention Tower, Level 13  P.O. Box 72229  Dubai, United Arab Emirates  Tel: 971-4-329-3290 Fax: 971-4-329-3291
+</text>
+
+<figure page="8" section="© 2010 Dubai School of Government" source="author" id="/page/7/Picture/14" image="A2.R22_fig03.jpg">[FIGURE: see A2.R22_fig03.jpg]</figure>
+
+</page>
+</paper>

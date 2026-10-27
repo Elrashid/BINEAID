@@ -1,0 +1,1010 @@
+<paper source_file="A3.R94" title="Future Generation Computer Systems" total_pages="13" figures="14" figures_with_images="14">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 14 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<text page="1" section="" source="author" id="/page/0/Text/2">
+Contents lists available at [ScienceDirect](https://www.elsevier.com/locate/fgcs)
+</text>
+
+
+<heading page="1" section="Future Generation Computer Systems" source="author" id="/page/0/SectionHeader/3" level="1">
+# Future Generation Computer Systems
+</heading>
+
+<text page="1" section="Future Generation Computer Systems" source="author" id="/page/0/Text/4">
+journal homepage: [www.elsevier.com/locate/fgcs](https://www.elsevier.com/locate/fgcs)
+</text>
+
+<figure page="1" section="Future Generation Computer Systems" source="author" id="/page/0/Picture/5" image="A3.R94_fig01.jpg">[FIGURE: see A3.R94_fig01.jpg]</figure>
+
+<figure page="1" section="Future Generation Computer Systems" source="author" id="/page/0/Picture/6" image="A3.R94_fig02.jpg">[FIGURE: see A3.R94_fig02.jpg]</figure>
+
+
+<heading page="1" section="Keyed watermarks: A fine-grained watermark generation for Apache Flink" source="author" id="/page/0/SectionHeader/7" level="1">
+# Keyed watermarks: A fine-grained watermark generation for Apache Flink
+</heading>
+
+<text page="1" section="Keyed watermarks: A fine-grained watermark generation for Apache Flink" source="author" id="/page/0/Text/8">
+[Tawfik](#page-12-0) [Yasser](#page-12-0) [a](#page-0-0) ,[∗](#page-0-1) , [Tamer](#page-12-1) [Arafa](#page-12-1) [a](#page-0-0) , [Mohamed](#page-12-2) [ElHelw](#page-12-2) [a](#page-0-0) , [Ahmed](#page-12-3) [Awad](#page-12-3) [b](#page-0-2),[c](#page-0-3)
+</text>
+
+<list page="1" section="Keyed watermarks: A fine-grained watermark generation for Apache Flink" source="author" id="/page/0/ListGroup/1569">
+- ^(a) *School* *of* *Information* *Technology* *and* *Computer* *Science,* *Nile* *University, Giza, Egypt*
+- ^(b) *The* *British* *University* *in* *Dubai, Dubai, United* *Arab* *Emirates*
+- ^(c) *Cairo* *University, Giza, Egypt*
+</list>
+
+
+<heading page="1" section="A R T I C L E I N F O" source="author" id="/page/0/SectionHeader/12" level="1">
+# A R T I C L E I N F O
+</heading>
+
+<text page="1" section="A R T I C L E I N F O" source="author" id="/page/0/Text/13">
+*Keywords:* Keyed watermarks Big data stream processing Event-time tracking Apache Flink
+</text>
+
+
+<heading page="1" section="A B S T R A C T" source="author" id="/page/0/SectionHeader/14" level="1">
+# A B S T R A C T
+</heading>
+
+<text page="1" section="A B S T R A C T" source="author" id="/page/0/Text/15">
+Big Data Stream processing engines, exemplified by tools like Apache Flink, employ windowing techniques to manage unbounded streams of events. Aggregating relevant data within Windows is important for event-time windowing due to its impact on result accuracy. A pivotal role in this process is attributed to watermarks, unique timestamps signifying event progression in time. Nonetheless, the existing watermark generation method within Apache Flink, operating at the input stream level, exhibits a bias towards faster sub-streams, causing the omission of events from slower counterparts. Our analysis determined that Apache Flink's standard watermark generation approach results in an approximate 33% data loss when 50% of median-proximate keys experience delays. Furthermore, this loss exceeds 37% in cases where 50% of randomly selected keys encounter delays. In this paper, we introduce a pioneering approach termed *keyed* *watermarks* to address data loss concerns and enhance data processing precision to a minimum of 99% in most scenarios. Our strategy facilitates distinct progress monitoring by creating individualized watermarks for each sub-stream (key). Within our investigation, we delineate the essential architectural and API modifications requisite for integrating keyed watermarks while also highlighting our experience in navigating the expansion of Apache Flink's extensive codebase. Moreover, we conduct a comparative evaluation between the efficacy of our approach and the conventional watermark generation technique concerning the accuracy of event-time tracking, the latency of watermark processing, and the growth of Flink's maintained state.
+</text>
+
+
+<heading page="1" section="**1.** **Introduction**" source="author" id="/page/0/SectionHeader/16" level="1">
+# **1.** **Introduction**
+</heading>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/17">
+The exponential growth of Internet of Things (IoT) interconnected devices, exceeding a count of 70 billion, introduces an array of formidable challenges and substantial considerations within the domain of data stream processing and computational infrastructure [[1]](#page-11-0). In response, we witnessed the emergence of several distributed stream processing systems, often referred to as stream processing engines (SPE), owing to the escalating complexities associated with the rapid processing of extensive data volumes. Illustrative instances of these systems encompass Apache Spark Streaming [[2]](#page-11-1), Apache Flink [[3]](#page-11-2), and Apache Samza [[4](#page-11-3)], to name but a selection. These systems offer scalable and distributed processing capabilities for data streams, demonstrating fault-tolerance and operating in a near real-time fashion aligned with the data's generation speed.
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/18">
+Given the virtually boundless nature of data streams, SPEs must partition them into finite segments. Within this context, the system continuously generates updates on the outcomes associated with this segments [[5](#page-11-4)]. Chunking the stream takes place by applying so-called time-windowing [[6,](#page-11-5)[7]](#page-11-6) on the data stream. As an example of stream
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/19">
+processing applications, the computation of average temperature values provided by deployed sensors situated within designated geographic regions. To accomplish this objective, SPEs continuously update their computation by slicing the data into, e.g., five minutes window of temperature readings and computing a new average on the window content. The slicing of arriving temperature events is based on socalled *event* *time*. That is by tracking a timestamp attribute in the event payload.
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/20">
+Following an event-time based processing model [[8]](#page-11-7), SPEs keeps buffering the arriving data until it gets a degree of certainty that no further arriving stream events will belong to the current window. That is, the SPE believes that the event-time clock has progressed beyond the window end. The common approach to track the event-time progress is so-called watermarks [[8](#page-11-7)[,9]](#page-11-8). Newly arriving records with a timestamp earlier than the current watermark are considered late and are basically ignored by SPEs.
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/21">
+Watermarking stands as a prevalent technique for tracking the progression of event time across data streams. Essentially, a watermark functions as a timestamp that signifies the absence of any forthcoming
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/23">
+*E-mail* *address:* [tawfekyassertawfek@gmail.com](mailto:tawfekyassertawfek@gmail.com) (T. Yasser).
+</text>
+
+<footnote page="1" section="**1.** **Introduction**" source="author" id="/page/0/Footnote/22">
+^(∗) Corresponding author.
+</footnote>
+
+</page>
+<page number="2">
+<figure_group page="2" section="**1.** **Introduction**" source="author" id="/page/1/FigureGroup/1970">
+<figure page="2" section="**1.** **Introduction**" source="author" id="/page/1/Figure/2" image="A3.R94_fig03.jpg">[FIGURE: see A3.R94_fig03.jpg]</figure>
+<caption page="2" section="**1.** **Introduction**" source="author" id="/page/1/Caption/3">
+**Fig.** **1.** Watermarks tracking and generation in Apache Flink and in most SPEs on the top (the vanilla approach). Keyed watermarks tracking and generated on the bottom (contribution). ETS means event timestamp and MTS means maximum timestamp. W stands for the watermark value. In this example, the delay is set to three seconds.
+</caption>
+</figure_group>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/4">
+data preceding the watermark's timestamp. Upon receiving a watermark, the process involves concluding all windows that terminate prior to the watermark and employing their contents for updating analytical results. The advancement of watermarks has a dual impact on stream processing metrics: latency and the tardiness of data item arrivals, ultimately influencing accuracy. The balance between watermark generation frequency and accuracy manifests in a trade-off scenario. Inadequate watermark generation elevates latency, while excess watermark generation leads to the tardy arrival of data items. Consequently, accuracy is compromised as an overabundance of watermarks results in the neglect and subsequent omission of elements, engendering diminished precision. The computation of watermark progress is essentially a heuristic approach that depends on domain knowledge. In general, the application developer chooses a fixed delay time which she believes that data will never arrive later to. Each arriving record's (event) timestamp is compared to the current watermark. If it is greater than or equal to the watermark, the event is added to the buffer and its timestamp is used to update the watermark value, by choosing the maximum between them. Otherwise, the record is considered late and dropped from further processing. Some SPEs provide more sophisticated watermarking policies. However, they are variations of the approach described above. [Fig.](#page-1-0) [1](#page-1-0) visualizes the computation and tracking of watermarks. The top part of the figure shows how the stateof-the-art SPEs track watermarks. Event 3, in red, is arriving late and therefore will be excluded from further processing.
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/5">
+The majority of open-source stream processing engines (SPEs) offer support for watermarks and equip application developers with a range of policies to regulate their advancement. However, the progress of watermarks exerts its influence on the stream at a more nuanced level. In instances such as that of a temperature stream, numerous physical sensors contribute their readings to a common SPE through a unified logical stream. Consequently, the subsequent watermark value (timestamp) holds sway over the data emanating from all these individual physical streams. Here, the overall temperature stream is the logical stream, whereas the temperature readings from each sensor, distinguished by an ID a.k.a key, is considered the physical sub-stream. Consequently, measurements from sensors with slower reporting rates are discarded due to their delayed arrival. Therefore, slower physical sub-streams are punished and analytical results based thereon are flawed.
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/6">
+This paper presents a novel approach for tracking and generating watermarks at a finer level of granularity, referred to as *keyed* *watermarks*. This method involves creating and monitoring distinct watermarks for each distinct physical sub-stream (See the bottom part of [Fig.](#page-1-0) [1](#page-1-0)). Following keyed watermarks, event 3 that is dropped by the conventional watermarking (top part of [Fig.](#page-1-0) [1)](#page-1-0), will still be considered for processing.
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/7">
+Our proposed approach is realized in Apache Flink, a leading-edge platform in the realm of distributed stream processing. However, the contribution can be applied to other SPEs that support event-time processing and watermarking for event-time progress tracking. Our contributions in this paper are as follows:
+</text>
+
+<list page="2" section="**1.** **Introduction**" source="author" id="/page/1/ListGroup/1971">
+- Keyed watermarks are a fine-grained approach for event-time progress tracking that allow more accurate results due to lessdropped events,
+- As navigating and understanding the huge codebase of Apache Flink took a considerable amount of time in this work due to lack of documentation [[10](#page-11-9)], we report about the technical contribution of extending Flink's to realize keyed watermarks. We believe that this should pave the way for future contributions that aim to extend Flink,
+- We provide an extensive evaluation of our keyed watermarks approach compared to the vanilla approach in Flink. Using different datasets with both synthetic and natural out-of-order, we compare the accuracy of generated results, latency in watermark processing, and the growth of Flink's maintained state (memory consumption). Our results show that keyed watermarks can achieve near 0% data loss where vanilla watermarks can reach 37% data loss with negligible overhead on watermark processing and moderate state size.
+</list>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/11">
+The subsequent sections of this paper are structured as follows: Section [2](#page-1-1) explains concepts related to stream processing, notions of time, windowing, and watermarks. Section [3](#page-4-0) delves into the specifics of keyed watermarks, elucidates the necessary modifications made to the internal workings and APIs of Flink. Experimental evaluation against vanilla Flink watermark is discussed in Section [4](#page-6-0). Related work is presented in Section [5](#page-8-0) before we conclude the paper and discuss future work in Section [6.](#page-10-0)
+</text>
+
+
+<heading page="2" section="**2.** **Background**" source="cited" id="/page/1/SectionHeader/12" level="4">
+#### **2.** **Background**
+</heading>
+
+<text page="2" section="**2.** **Background**" source="cited" id="/page/1/Text/13">
+Data stream processing [[11](#page-11-10)[–13](#page-11-11)] is about analyzing data as soon as they are generated. Therefore, it follows a continuous form of query processing [[5](#page-11-4)]. A query can be as simple as computing aggregates, all the way to training an online machine learning model. A key challenge is the virtually unbounded nature of the stream. The results of the query is continuously updated as new data arrive. The objective is to get fresh results with the least delay (Section [2.1](#page-2-0)). As we live in the big data era, we need to maximize the number of processed records per unit time (Section [2.2](#page-2-1)). Big data systems achieve low latency and high throughput by utilizing a distributed processing architecture where the data is partitioned into small chunks that are processed in parallel.
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**2.** **Background**" source="cited" id="/page/2/Text/2">
+In data stream processing, partitioning is two-fold. First, the logical stream, e.g., the temperature stream from Section [1,](#page-0-4) is split into a number of physical streams using the sensor identifier (key). Second, the virtually unbounded physical stream is further subdivided into finite subsets of the stream using windowing [2.3.](#page-2-2) Usually, windowing is temporal. The chosen notions of time (Section [2.4](#page-2-3)) used to split the data into windows has implications on the accuracy and reproducibility of results.
+</text>
+
+<text page="3" section="**2.** **Background**" source="cited" id="/page/2/Text/3">
+As Flink will serve as the SPE to realize and implement our approach, Section [2.5](#page-3-0) will give an overview of Flink's pipelines for data stream processing.
+</text>
+
+
+<heading page="3" section="*2.1.* *Latency*" source="author" id="/page/2/SectionHeader/4" level="4">
+#### *2.1.* *Latency*
+</heading>
+
+<text page="3" section="*2.1.* *Latency*" source="author" id="/page/2/Text/5">
+Latency [[14]](#page-11-12) is a key performance metric in data stream processing engines. It measures the time taken for each event to be processed. SPEs compete to offer lower latency as this directly affects the speed of getting updates of the continuous queries. Latency could be measured at a macro or micro level. That is, the end-to-end latency, or latency at a specific operator in the processing pipeline, e.g., latency in the windowing and aggregation operators. Latency is negatively proportional with the scalability of the operators. That is, using operator fission (replication) [[15](#page-11-13)], the load can be distributed among more operator instances therefore reducing the share of an individual instance and reducing the overall latency [[16]](#page-11-14). In this paper, we are interested in measuring the latency of the watermarking operator. As our approach, as will be discussed in Section [3,](#page-4-0) will apply operator fission to the watermarking operator, we expect a positive effect on reducing latency.
+</text>
+
+
+<heading page="3" section="*2.2.* *Throughput*" source="author" id="/page/2/SectionHeader/6" level="2">
+## *2.2.* *Throughput*
+</heading>
+
+<text page="3" section="*2.2.* *Throughput*" source="author" id="/page/2/Text/7">
+Throughput [[17](#page-11-15)] is another performance metric for data processing systems. It is a legacy from offline data processing systems. However, it is still relevant for SPEs performance evaluation. Throughput measures the processed records in unit time. The higher the throughput the better. However, in SPEs, low throughput does not always mean that the system's performance is bad, because it depends on the arrival rate of events which depends on the source generation rate. Similar to latency, in this paper, we want to study the effect of the watermarking operator fission on throughput.
+</text>
+
+
+<heading page="3" section="*2.3.* *Windowing*" source="author" id="/page/2/SectionHeader/8" level="1">
+# *2.3.* *Windowing*
+</heading>
+
+<text page="3" section="*2.3.* *Windowing*" source="author" id="/page/2/Text/9">
+As the stream processing engines work with boundless data streams, in order to produce transformations from these streams, the system processes the unbounded incoming streams as bounded defined intervals called *windows* [[18](#page-11-16)]. A window [[19](#page-11-17)[,20](#page-11-18)] is a defined either time-based or count-based interval, that allows grouping events in a defined finite bucket. Windows enables computations of bounded data streams over boundless data streams.
+</text>
+
+<text page="3" section="*2.3.* *Windowing*" source="author" id="/page/2/Text/10">
+Time-based windows are the most common in stream processing [[18](#page-11-16)]. They can be either of fixed or variable width and overlapping or disjoint content. In the following, we cover the most common time-based window operators, a.k.a assigner in the context of Apache Flink.
+</text>
+
+
+<heading page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/SectionHeader/11" level="4">
+#### *2.3.1.* *Tumbling* *windows*
+</heading>
+
+<text page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Text/12">
+The tumbling window [[21]](#page-11-19) is a fixed, non-overlapping, time or count window. The tumbling window operator chunks the stream into fixed-size windows. The size of each chunk is an operator parameter that is specified at application definition time. [Fig.](#page-2-4) [2](#page-2-4) [1](#page-2-5) visualizes how tumbling windows chunk the stream.
+</text>
+
+<figure_group page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/FigureGroup/1849">
+<figure page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Figure/14" image="A3.R94_fig04.jpg">[FIGURE: see A3.R94_fig04.jpg]</figure>
+<caption page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Caption/15">
+**Fig.** **2.** Tumbling windows where the stream is split into fixed-size non-overlapping windows. Moreover, the logical stream is split into physical streams where each row represents a physical stream and vertical dashed lines represent the boundaries of each window.
+</caption>
+</figure_group>
+
+<figure_group page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/FigureGroup/1850">
+<figure page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Figure/16" image="A3.R94_fig05.jpg">[FIGURE: see A3.R94_fig05.jpg]</figure>
+<caption page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Caption/17">
+**Fig.** **3.** Sliding windows where the stream is split into fixed-size overlapping windows. Moreover, the logical stream is split into physical streams where each row represents a physical stream.
+</caption>
+</figure_group>
+
+<figure_group page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/FigureGroup/1851">
+<figure page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Figure/18" image="A3.R94_fig06.jpg">[FIGURE: see A3.R94_fig06.jpg]</figure>
+<caption page="3" section="*2.3.1.* *Tumbling* *windows*" source="author" id="/page/2/Caption/19">
+**Fig.** **4.** Session windows where the stream is split into variable-size non-overlapping windows. Moreover, the logical stream is split into physical streams where each row represents a physical stream.
+</caption>
+</figure_group>
+
+
+<heading page="3" section="*2.3.2.* *Sliding* *windows*" source="author" id="/page/2/SectionHeader/20" level="1">
+# *2.3.2.* *Sliding* *windows*
+</heading>
+
+<text page="3" section="*2.3.2.* *Sliding* *windows*" source="author" id="/page/2/Text/21">
+The sliding window [[23]](#page-11-21) is a fixed, overlapping, time, or count window. The sliding window operator chunks the stream following two parameters, the window size, same as the tumbling window, and the window slide. If the window slide is equal to the window width, the sliding window reduces to a tumbling window. As usually the window slide is less than the window width, the windows overlap. That is, the same event can belong to one ore more windows. [Fig.](#page-2-6) [3](#page-2-6) visualizes how sliding windows chunk the stream.
+</text>
+
+
+<heading page="3" section="*2.3.3.* *Session* *windows*" source="author" id="/page/2/SectionHeader/22" level="1">
+# *2.3.3.* *Session* *windows*
+</heading>
+
+<text page="3" section="*2.3.3.* *Session* *windows*" source="author" id="/page/2/Text/23">
+The session window [[24](#page-11-22)] is a variable, non-overlapping, time window, the window ends when the pre-defined timeout gap is reached which means no more events are received within the defined interval, see [Fig.](#page-2-7) [4](#page-2-7) for illustration.
+</text>
+
+
+<heading page="3" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/2/SectionHeader/24" level="3">
+### *2.4.* *Notions* *of* *time*
+</heading>
+
+<text page="3" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/2/Text/25">
+In the previous section, we have discussed basic forms of *windowing* the stream based on time. However, there are different notions of time [[25]](#page-11-23). Processing and event time are the common notions of time ([Fig.](#page-3-1) [5)](#page-3-1).
+</text>
+
+<text page="3" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/2/Text/26">
+In processing time [[26](#page-11-24)] mode, the SPE uses its internal clock to track the time progress and to decide opening and closing of temporal windows. In this mode, the SPE does not require a timestamp in the arriving data or simply ignores it. This mode is easier to implement.
+</text>
+
+<footnote page="3" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/2/Footnote/13">
+^(1) [Figs.](#page-2-4) [2,](#page-2-4) [3,](#page-2-6) [4](#page-2-7) are adapted from the Apache Flink Book [[22]](#page-11-20).
+</footnote>
+
+</page>
+<page number="4">
+<figure_group page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/FigureGroup/1621">
+<figure page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Figure/2" image="A3.R94_fig07.jpg">[FIGURE: see A3.R94_fig07.jpg]</figure>
+<caption page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Caption/3">
+**Fig.** **5.** Notions of Time: Processing time - where the clock is internal to the SPE - and Event time - where the clock is external to SPE and a mechanism, e.g., watermarking, is needed to track the progress of time.
+</caption>
+</figure_group>
+
+<figure_group page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/FigureGroup/1622">
+<figure page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Figure/4" image="A3.R94_fig08.jpg">[FIGURE: see A3.R94_fig08.jpg]</figure>
+<caption page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Caption/5">
+**Fig.** **6.** In-order Events: Events timestamp and their arrival order coincide.
+</caption>
+</figure_group>
+
+<figure_group page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/FigureGroup/1623">
+<figure page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Figure/6" image="A3.R94_fig09.jpg">[FIGURE: see A3.R94_fig09.jpg]</figure>
+<caption page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Caption/7">
+**Fig.** **7.** Out-of-order Events: Some events arrive out-of-order. For example, the event with timestamp 9 arrives after the event with timestamp 11.
+</caption>
+</figure_group>
+
+<text page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Text/8">
+However, it is not deterministic in the sense that repeating the stream may result in different grouping of elements and therefore different results.
+</text>
+
+<text page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Text/9">
+On the other hand, event-time [[27]](#page-11-25) processing depends on the timestamp embedded in the event from its source at generation time. Event-time processing is deterministic and more reliable. The challenge is that the SPE needs to reason about the progress of event time for, e.g., opening and closing windows. Moreover, deficiencies such as outof-order and late arrivals handling need to have explicit policies to handle them [[28](#page-11-26)].
+</text>
+
+<text page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Text/10">
+results more accurately.
+</text>
+
+<text page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Text/11">
+In distributed environments, events may be delayed due to network traffic or node failures, resulting in out-of-order events. This means that the events do not arrive in the same order as their timestamps. Stream processing engines need to have the mechanism to handle and process these out-of-order events through out-of-order [[29](#page-11-27)[,30](#page-11-28)] processing techniques to ensure accurate results. [Figs.](#page-3-2) [6](#page-3-2) and [7](#page-3-3) show the difference between in-order and out-of-order events, respectively.
+</text>
+
+<text page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Text/12">
+As stated earlier, the SPE needs a mechanism to track the progress of event time. In literature, there are many mechanisms that have been used by different SPE architectures for reasoning about event time progress and combating out-order-arrival. Examples of such mechanisms are: slack [[31](#page-11-29)], heartbeats [[32]](#page-11-30), punctuations [[33]](#page-11-31), and lowwatermarks [[34](#page-11-32)]. low-watermarks is a generalization of all other mechanisms and therefore it is implemented by modern and open-source SPEs, e.g., Apache Flink.
+</text>
+
+<table_group page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/TableGroup/1624">
+<caption page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Caption/13">
+**Table** **1** Abbreviations for modules, classes, and methods.
+</caption>
+<table page="4" section="*2.4.* *Notions* *of* *time*" source="author" id="/page/3/Table/14">
+| Full Name | Abbreviation |
+| --- | --- |
+| flink-streaming-java, flink-core | FSJmo, FCmo |
+| DataStream, KeyedStream | DS, KS |
+| SingleOutputStreamOperator | SOSO |
+| TimestampsAndWatermarksOperator | TAWO |
+| WindowOperator, WatermarkStrategy | WO, WS |
+| InternalTimerServiceImpl | ITSI |
+| BoundedOutOfOrdernessWatermarks | BOOOW |
+| KeyedBoundedOutOfOrdernessWatermarks | KBOOOW |
+| WatermarkGenerator, WatermarkOutput | WG, WO |
+| TimestampAssigner, WatermarkEmitter | TA, WE |
+| AscendingTimestampsWatermarks | ATW |
+| keyBy(), map() | KBme, Mme |
+| process(), print() | PORme, PRIme |
+| assignTimestampsAndWatermarks() | ATAWme |
+| window(), reduce() | Wme, Rme |
+| assignTimestampsAndKeyedWatermarks() | ATAKWme |
+| withTimestampAssigner() | WTAme |
+| forMonotonousTimestamps() | FMTme |
+| forBoundedOutOfOrderness() | FBOOOme |
+| onPeriodicEmit() | OPEme |
+| onElement(), onEvent() | OELme, OEVme |
+| advanceWatermark(), advanceKeyedWatermark() | AWme, AKWme |
+| emitWatermark() | EMWme |
+</table>
+</table_group>
+
+
+<heading page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/SectionHeader/15" level="4">
+#### *2.5.* *Flink* *pipelines*
+</heading>
+
+<text page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/Text/16">
+In this section, we review the key modules in Apache Flink that relate to watermark generation and usage, including the DataStream API. We investigate the relationship between commonly used classes and methods, emphasizing their functions within these modules. Furthermore, we provide a detailed overview of standard watermark creation in Apache Flink, including a discussion of the relevant classes and methods. And in the next Section [3](#page-4-0), we outline our changes to the vanilla watermark generation process and present our modified approach, *keyed* *watermarks*.
+</text>
+
+<text page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/Text/17">
+In Apache Flink, there are several important modules such as FSJmo, FCmo. The FSJmo module contains classes such as DS, KS, SOSO; it also contains classes that are used in the process of watermark generation and windowing mechanisms, such as TAWO, WO, ITSI, etc. The FCmo module also contains several classes used for watermark generation, such as WS, BOOOW, WG, WO, etc. For more simplicity in referencing modules, classes, and methods, we utilize abbreviations as in [Table](#page-3-4) [1](#page-3-4)
+</text>
+
+<text page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/Text/18">
+The DS class represents the stream of elements, and the transformation that could be performed on the stream contains methods such as KBme, Mme, PROme, ATAWme, and PRIme. The KBme(key) method uses the passed key to create a new *KS*, physical sub-stream, partitioned by that key from the input logical DS; the Mme transformation applies a processFunction to create a new transformed stream, the ATAWme(WS) transformation uses the passed WS strategy to assign timestamps to the elements and to generate the watermarks. The KS class representing the partitioned stream contains several important methods such as: Wme, Rme, and additionally, we added the ATAKWme that we will talk about in detail later in the following sections. The Wme transformation is used to create a windowed stream of the input KS; the Rme transformation reduces the input on the grouped data stream grouped by the given key position. See Listing [1](#page-3-5) that shows an example pipeline API in Apache Flink.
+</text>
+
+<code_block page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/Code/19">
+```
+env. addSource (source).
+   assignTimestampsAndWatermarks (
+   watermarkStrategy ).keyBy(key).window(
+   windowType ).reduce( reduceFunction )...
+```
+</code_block>
+
+<caption page="4" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/3/Caption/20">
+Listing 1: Flink Pipeline API
+</caption>
+
+</page>
+<page number="5">
+<figure_group page="5" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/4/FigureGroup/1550">
+<figure page="5" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/4/Figure/4" image="A3.R94_fig10.jpg">[FIGURE: see A3.R94_fig10.jpg]</figure>
+<caption page="5" section="*2.5.* *Flink* *pipelines*" source="author" id="/page/4/Caption/5">
+**Fig.** **9.** High-level Architecture of Vanilla Watermark.
+</caption>
+</figure_group>
+
+
+<heading page="5" section="**3.** **Keyed** **watermarks**" source="author" id="/page/4/SectionHeader/6" level="4">
+#### **3.** **Keyed** **watermarks**
+</heading>
+
+<text page="5" section="**3.** **Keyed** **watermarks**" source="author" id="/page/4/Text/7">
+In this section, we detail our contribution to enhance and scale the low-watermark generation and tracking in SPEs. As we realize our contribution on top of Apache Flink, we will start off by describing the vanilla watermarking mechanism in Flink. Next, we
+</text>
+
+
+<heading page="5" section="*3.1.* *Watermarking*" source="author" id="/page/4/SectionHeader/8" level="1">
+# *3.1.* *Watermarking*
+</heading>
+
+<text page="5" section="*3.1.* *Watermarking*" source="author" id="/page/4/Text/9">
+In order to allow low-latency processing in stream processing engines the system may have late events that arrive out-of-order which will affect the windows so that they will be kept open until receiving the late events. A technique found in most stream processing engines to solve this issue and allow the window to be closed in order to emit its results is a watermark [[9,](#page-11-8)[34](#page-11-32)[,35](#page-11-33)]. A watermark is a timestamp injected into the stream of events ([Fig.](#page-4-1) [8](#page-4-1)). When the watermark is observed by a stateful operator in the pipeline, e.g., a window operator, it knows that there should be no more events with timestamps less than the watermark are expected to arrive in the future. Therefore, the operator can, e.g., close all open windows whose end timestamp are less than the watermark and deliver the window content for further processing, e.g., computing an average.
+</text>
+
+<text page="5" section="*3.1.* *Watermarking*" source="author" id="/page/4/Text/10">
+A watermark is monotonic. That is, it is a non-decreasing value of the timestamp. This can be achieved by taking the maximum of the current watermarks' value and the timestamp of the newly arriving record on the stream. Periodically, a new watermark is emitted on the stream to be observed and processed by the rest of the operators in the pipeline.
+</text>
+
+
+<heading page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/SectionHeader/11" level="2">
+## *3.2.* *Vanilla* *watermarking* *in* *SPEs*
+</heading>
+
+<text page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Text/12">
+The conventional watermark generation in SPEs, e.g., Apache Flink, tracks the progress of event time on the data source level. In the context of the running example, the data source is the temperature
+</text>
+
+<figure_group page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/FigureGroup/1551">
+<figure page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Figure/13" image="A3.R94_fig11.jpg">[FIGURE: see A3.R94_fig11.jpg]</figure>
+<caption page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Caption/14">
+**Fig.** **10.** Dependency Flow for Pipeline and Vanilla Watermarks. Ovals with solid borders are classes, whereas those with dashed borders are methods.
+</caption>
+</figure_group>
+
+<text page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Text/15">
+data source. As with all distributed stream processing systems, Flink supports splitting the source (logical) stream into several physical substreams. This splitting is the core for scaling the computations and analytics on the data stream. However, the watermark operator WO, remains a singleton operator where only one instance is created that tracks the progress of event time on the logical stream level. [Fig.](#page-4-2) [9](#page-4-2) gives a high-level architectural view on the vanilla watermark generation.
+</text>
+
+<text page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Text/16">
+In Apache Flink, the starting point of conventional watermark generation is the ATAWme(WS) method; the WS defines how to generate watermarks, and it also provides the TA used to assign timestamps to the stream elements. It contains methods such as WTAme, FMTme, and FBOOOme. The WTAme method creates a new WS that uses the TA to assign a timestamp to each element; the FMTme method creates a new WS of type ATW that generates periodic watermarks. The ATW class extends the BOOOW class, which is also used in the FBOOOme method to generate watermarks with user-defined WS.
+</text>
+
+<text page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Text/17">
+The BOOOW contains methods such as the OPEme method, which is called by default every 200 milliseconds; the method uses the defined maxTimestamp variable in BOOOW to generate a new watermark that is passed to BOOOW. Next, the watermark may be emitted by the WE class to find its way to all downstream operators that may use it; this happens in the TAWO class; this class contains several methods such as OELme which accesses each new element sending it to the BOOOW to maintain the maxTimestamp seen so far. See Listing [2](#page-4-3) and [Fig.](#page-4-4) [10.](#page-4-4)
+</text>
+
+<code_block page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Code/18">
+```
+onPeriodicEmit ():
+    emitWatermark ( watermark (maxTimestamp -
+        outOfOrderness -1))
+emitWatermark ():
+    if mark &gt; currentWatermark :
+        currentWatermark = mark
+        emit( watermark (mark))
+```
+</code_block>
+
+<caption page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Caption/19">
+Listing 2: Vanilla Watermark Generation
+</caption>
+
+<text page="5" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/4/Text/20">
+From another point of view, the WO class uses ITSI timer service that maintains a queue of timers (Timer is a window's endTimestamp). The AWme(watermark) method receives the watermark emitted previously and maintains the currentWatermark variable. WO iterates over all in-progress timers and windows. For each timer, if the timer's value is less than or equals the watermark value, this means that the window should be closed and its content is passed for the respective processing, e.g., aggregate, see Listing [3](#page-5-0) for vanilla watermark firing example.
+</text>
+
+</page>
+<page number="6">
+<figure_group page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/FigureGroup/1496">
+<figure page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Figure/2" image="A3.R94_fig12.jpg">[FIGURE: see A3.R94_fig12.jpg]</figure>
+<caption page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Caption/3">
+**Fig.** **11.** High-level Architecture of Keyed Watermark.
+</caption>
+</figure_group>
+
+<figure_group page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/FigureGroup/1497">
+<figure page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Figure/4" image="A3.R94_fig13.jpg">[FIGURE: see A3.R94_fig13.jpg]</figure>
+<caption page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Caption/5">
+**Fig.** **12.** Dependency Flow for Pipeline and Keyed Watermarks.
+</caption>
+</figure_group>
+
+<code_block page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Code/6">
+```
+advanceWatermark (mark):
+    currentWatermark = mark
+    while queue != empty:
+        if queue.timer.ts &lt;= mark:
+            pop(timer)
+            onEventTime (timer)
+```
+</code_block>
+
+<caption page="6" section="*3.2.* *Vanilla* *watermarking* *in* *SPEs*" source="author" id="/page/5/Caption/7">
+Listing 3: Vanilla Watermark Window Firing
+</caption>
+
+
+<heading page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/SectionHeader/8" level="4">
+#### *3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*
+</heading>
+
+<text page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Text/9">
+As discussed in Section [1](#page-0-4), the conventional watermark generation architecture detailed in the previous section has several drawbacks. First, as SPES, e.g. Flink, maintains a singleton operator instance, this goes against the scalable nature of such big data systems. Second, as the watermark value is maintained on the logical stream level, slower physical streams are punished by design as their data will tend to be dropped by the SPE as the records arriving from other faster physical streams will advance the watermark at a higher pace. Last but not least, failure and recovery in the conventional approach is slower and more costly. In case the node hosting the watermark operator fails, all downstream operators will stall, waiting for the watermark operator's recovery.
+</text>
+
+<text page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Text/10">
+Our contribution of *keyed* *watermarks*[2](#page-5-1) solves the above-mentioned limitations. However, we allow the application developer to configure watermark generation using either the conventional (logical) or the keyed approach (physical). Within the context of Flink, our contribution is a fundamental change in the APIs.
+</text>
+
+<text page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Text/11">
+With keyed watermarks, the event time progress of the different physical streams is tracked independently. Therefore, fewer records will be dropped from the slower physical streams. Our experimental evaluation in Section [4](#page-6-0) empirically confirms our claim. To track keyed watermarks, we allow the scaling of the watermark operator. That is, deploy several operator instances. As a result, the latency of watermark processing drops as all operator instances are working simultaneously, a.k.a data parallelism. Our experiments empirically confirm this claim as well. Finally, the recovery from failure should be faster as only downstream operators to the failing watermark operator instance will be stalled. All other operators should continue working normally. [Fig.](#page-5-2) [11](#page-5-2) visualizes the proposed keyed watermarks architecture.
+</text>
+
+<code_block page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Code/12">
+```
+env. addSource (source).keyBy(key).
+   assignTimestampsAndKeyedWatermarks (
+   keyedWatermarkStrategy ).window(
+   windowType )...
+```
+</code_block>
+
+<caption page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Caption/13">
+Listing 4: Keyed Watermark API
+</caption>
+
+<text page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Text/14">
+To implement *keyed* *Watermarks* in Apache Flink, we extended all watermarking classes to accept the key, the class KBOOOW as the keyed version of BOOOW class. Moreover, we created the ATAKWme method for the KS. Listing [4](#page-5-3) shows the changes in the APIs to be used by application developers. Compared to the conventional pipeline in Listing [1](#page-3-5), we can notice the shift of watermark policy indication after the KBme method. This indicates the generation and tracking of watermarks on the physical (keyed) level rather than globally on the source (logical) level. We updated the OEVme method to maintain a Hash Map of keys and maxTimestamps. This allows tracking the maximum timestamp seen per key rather than globally. We updated OPEme to emit a new watermark for each key by iterating over the Hash Map, see Listing [5.](#page-5-4) We emit not only the timestamp but also the key itself. In [Fig.](#page-5-5) [12](#page-5-5) we can see the flow of Flink pipeline in the case of using keyed watermarks; the KBme method is called directly after the addSource method to partition the mainstream into sub-streams, and then the ATAKWme method will use the KeyedWatermarkStrategy class to generate a separate watermark for each incoming sub-stream. The KeyedWatermarkStrategy class uses several methods, like the FMTme method, to define the generation mechanism. One of these mechanisms is being defined by the KBOOOW class, which uses the OPEme, which generates and emits a new watermark for each key (sub-stream) every 200 ms by default. The generated watermark is being sent to the KTAWO class, which uses the KWE class to emit the received watermark for all downstream operators. One of the downstream operators that will use the watermark is the ITSI class, which uses the watermark to fire and start the computations with the help of the WO class for all windows that have an endTimestamp less than the watermark value for that particular key. Less than the watermark value for that particular key.
+</text>
+
+<code_block page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Code/15">
+```
+onPeriodicEmit ():
+    for each k in maxTimestamps :
+        emitWatermark ( watermark (
+            maxTimestamps .get(k),k))
+emitWatermark (mark , key):
+    if mark &gt; keysAndWatermarks .get(key):
+        keysAndWatermarks .put(key , mark)
+```
+</code_block>
+
+<footnote page="6" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/5/Footnote/16">
+^(2) It is named keyed because it tracks the watermark for each partitioning *key* of the physical sub-stream.
+</footnote>
+
+</page>
+<page number="7">
+<code_block page="7" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/6/Code/2">
+```
+emitWatermark ( watermark (mark , key
+    ))
+```
+</code_block>
+
+<caption page="7" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/6/Caption/3">
+Listing 5: Keyed Watermark Generation
+</caption>
+
+<text page="7" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/6/Text/4">
+We added a new method AKWme(key, watermark) in the ITSI class, which is invoked from the parent operator in case the watermark's key is not null, i.e., keyed watermarks; the method maintains a Hash Map for each key and its corresponding watermark timestamp and iterates only on the queue of timers for that key. We fire windows if the timer's timestamp is less than or equals the watermark value; see listing [6.](#page-6-1)
+</text>
+
+<code_block page="7" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/6/Code/5">
+```
+advanceKeyedWatermark (mark , key):
+    watermarksAndKeys .put(key , mark)
+    queue = hashmapOfQueue .get(key)
+    while queue != empty:
+        if queue.timer.ts &lt;= mark:
+            pop(timer)
+            onEventTime (timer) #trigger
+                to fire the window
+```
+</code_block>
+
+<caption page="7" section="*3.3.* *Scaling* *watermarking* *(keyed* *watermarks)*" source="author" id="/page/6/Caption/6">
+Listing 6: Keyed Watermark Window Firing
+</caption>
+
+
+<heading page="7" section="**4.** **Experimental** **evaluation**" source="author" id="/page/6/SectionHeader/7" level="1">
+# **4.** **Experimental** **evaluation**
+</heading>
+
+<text page="7" section="**4.** **Experimental** **evaluation**" source="author" id="/page/6/Text/31">
+of watermark processing?
+</text>
+
+<text page="7" section="**4.** **Experimental** **evaluation**" source="author" id="/page/6/Text/8">
+We have implemented our approach on a fork of Apache Flink. To evaluate the value of keyed watermarks generation over the vanilla (granular) watermark generation, we conducted several experiments to answer the following research questions:
+</text>
+
+<list page="7" section="**4.** **Experimental** **evaluation**" source="author" id="/page/6/ListGroup/2292">
+- **RQ1**: Do keyed watermarks reduce the number of dropped tuples?
+- **RQ2**: How does keyed watermarks generation affect the latency
+- **RQ3**: How does keyed watermarks generation affect the growth of the maintained state size?
+</list>
+
+<text page="7" section="**4.** **Experimental** **evaluation**" source="author" id="/page/6/Text/12">
+**RQ1** evaluates if we fulfilled the ultimate objective of minimizing the number of dropped records caused by out-of-order processing. A direct effect thereof is to increase the accuracy of whatever computation is done on these elements, e.g., windowing them and computing an aggregate. It is expected that the keyed watermark tracking will generate a much higher number of watermarks. **RQ2** is concerned with measuring the effect of processing this larger number of watermarks on their processing latency, whereas **RQ3** is concerned with the potential increase in state size as the engine is expected to retain more open windows compared to the granular watermark tracking.
+</text>
+
+
+<heading page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/SectionHeader/13" level="2">
+## *4.1.* *Experimental* *setup*
+</heading>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/14">
+To answer the above-mentioned research question, we have developed a simple pipeline where we read from a streaming source and count the number of elements in a 10 s window. We run the pipeline for the original Flink watermark tracking and our keyed watermarks.
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/15">
+We have run our experiments on a Google Cloud Platform virtual machine with 8 CPU Intel Cascade Lake cores x86/64-bit architecture with 32 GB of main memory running Ubuntu 22.10 and disk size of 100 GB. We used Docker to build an Apache Flink cluster. We created a docker image from the Flink build modified by adding keyed watermarks, and from that image, we created three containers. One serves as the job manager, with 4 GB memory and one CPU core, and the other two as task managers with 12 GB and four CPUs each.
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/16">
+We used the dataset of the linear road benchmark.[3](#page-6-2) Linear Road is a simulation of a large metropolitan city that is 100 miles wide and
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/17">
+long and consists of 10 parallel expressways. Each tuple in the data set describes a car ID, speed, road, direction, and the record's timestamp. The data set contains around 6 records. For our experiments, we project only the car ID (as the data source key), the record's timestamp, and the speed. The data set contains over
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/18">
+Linear road data is ordered. To introduce out-of-order data, we prepared six variants of the data set. In the first and second variants, we randomly picked 20% and 50% of the unique car IDs and deliberately delayed their timestamps by 10 seconds. In the third and fourth variants, we introduced a global delay of 10 seconds within 5% and 50% of the records, respectively. In the fifth and sixth variants, we sorted the data by the number of elements present for each key and then selected 20% and 50% of the keys around the median and deliberately delayed their timestamps by 10 seconds to introduce the delay.
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/19">
+We also used the DEBS 2013 challenge [[36](#page-11-34)], which contains an unknown form of out-of-order. The dataset contains about 50  records. We also projected only the key, the timestamp, and the value of the event's payload.
+</text>
+
+<text page="7" section="*4.1.* *Experimental* *setup*" source="author" id="/page/6/Text/20">
+We run the experiments using different parallelism configurations for the watermark and the window operators. We use 2*,* 4*, * 8 degrees of parallelism. Our GitHub repository[4](#page-6-3) contains all the modified and extended Apache Flink code along with experimental pipelines.
+</text>
+
+
+<heading page="7" section="*4.2.* *Results*" source="author" id="/page/6/SectionHeader/21" level="1">
+# *4.2.* *Results*
+</heading>
+
+<text page="7" section="*4.2.* *Results*" source="author" id="/page/6/Text/22">
+In this section, we report about experiments we conducted to empirically answer the three research questions we raised in the previous section.
+</text>
+
+
+<heading page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/SectionHeader/23" level="1">
+# *4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*
+</heading>
+
+<text page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Text/24">
+As a starting point, we used the ordered linear road dataset to check that vanilla and keyed watermarks compute the same number of windows with the same number of elements. Windows computed following the two approaches have processed 6*,* 178*,* 736 elements with an accuracy of ∼ 99*.*99%. The result shows that on ordered data, the keyed watermark operator acts seamlessly, similar to the vanilla watermark operator. We use these results as the baseline, when we start processing the different unordered data sets.
+</text>
+
+<text page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Text/25">
+[Table](#page-7-0) [2](#page-7-0) summarizes the accuracy results for the out-of-order arrival. Accuracy is computed as the ratio of the total number of records captured within generated windows to the total number of records in the data set.
+</text>
+
+<text page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Text/26">
+For the unordered data sets, the keyed watermark operator drops fewer late records in almost all cases. An exception is the 5% global delay data set. The difference in accuracy in this dataset is negligible compared to the vanilla case. Analyzing the data, we found that the delay is spread amongst all keys in an almost uniform pattern. Therefore, the keyed watermark generation is affected by this uniform out-of-order arrival.
+</text>
+
+<text page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Text/27">
+Another interesting observation is the effect of parallelism on accuracy. For the unordered data, Flink's handling of windows in response to watermarks is generally negatively correlated with the degree of parallelism, whereas keyed watermarks handling of windows gains from the increase of parallelism. This is because Flink deploys only one watermark operator per source. On the other hand, keyed watermarks can deploy as many watermark operators as the degree of parallelism. However, both techniques allocate as many window operators as the degree of parallelism. In Flink's case, the same watermark is communicated to all downstream window operators. Therefore, at the end of the stream processing, more windows per process (thread) are left open, waiting for the next watermark. In the keyed watermark case, Flink allocates the watermark operator and the window operator to the same process, so there is almost no inter-process watermark
+</text>
+
+<footnote page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Footnote/28">
+^(3) [http://infolab.stanford.edu/stream/cql-benchmark.html](http://infolab.stanford.edu/stream/cql-benchmark.html)
+</footnote>
+
+<footnote page="7" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/6/Footnote/29">
+^(4) [https://github.com/TawfikYasser/Keyed-Watermarks-in-Apache-Flink](https://github.com/TawfikYasser/Keyed-Watermarks-in-Apache-Flink)
+</footnote>
+
+</page>
+<page number="8">
+<table_group page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/TableGroup/2644">
+<caption page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/Caption/2">
+**Table** **2** Accuracy of Flink's vanilla watermark operator compared to the keyed watermark operator for the different dataset variants with different parallelism.
+</caption>
+<table page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/Table/3">
+| Dataset | Parallelism | Flink WM | Keyed WM |
+| --- | --- | --- | --- |
+|  | 2 | 87.51% | 𝟗𝟗.𝟗𝟗% |
+| 20% random keys delayed | 4 | 88.42% | 𝟗𝟗.𝟗𝟗% |
+|  | 8 | 87.71% | 𝟗𝟗.𝟗𝟗% |
+|  | 2 | 62.92% | 𝟗𝟗.𝟗𝟗% |
+| 50% random keys delayed | 4 | 64.10% | 𝟗𝟗.𝟗𝟗% |
+|  | 8 | 64.38% | 𝟗𝟗.𝟗𝟗% |
+|  | 2 | 88.04% | 𝟗𝟗.𝟗𝟗% |
+| 20% median keys delayed | 4 | 88.47% | 𝟗𝟗.𝟗𝟗% |
+|  | 8 | 88.09% | 𝟗𝟗.𝟗𝟗% |
+|  | 2 | 67.66% | 𝟗𝟗.𝟗𝟗% |
+| 50% median keys delayed | 4 | 67.03% | 𝟗𝟗.𝟗𝟗% |
+|  | 8 | 67.09% | 𝟗𝟗.𝟗𝟗% |
+|  | 2 | 𝟗𝟗.𝟒𝟕% | 99.43% |
+| 5% global delay | 4 | 𝟗𝟗.𝟒𝟎% | 99.11% |
+|  | 8 | 𝟗𝟗.𝟓𝟏% | 98.87% |
+|  | 2 | 95.48% | 𝟗𝟓.𝟔𝟕% |
+| 50% global delay | 4 | 94.29% | 𝟗𝟔.𝟑𝟑% |
+|  | 8 | 94.96% | 𝟗𝟓.𝟑𝟖% |
+|  | 2 | 95.06% | 𝟗𝟗.𝟖𝟐% |
+| DEBS | 4 | 94.10% | 𝟗𝟗.𝟕𝟕% |
+|  | 8 | 94.38% | 𝟗𝟗.𝟕𝟓% |
+</table>
+</table_group>
+
+<text page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/Text/4">
+transfer and, therefore, a fewer number of unprocessed windows left on each process at the end. This behavior can partially justify why keyed watermark accuracy might fall below Flink's watermarks for low parallelism degree, e.g., the case of 5% global delay. The DEBS dataset contains an unknown percentage of out-or-order data. However, the keyed watermarks approach can process almost all the tuples in the data set, whereas the vanilla approach drops 5% of the tuples in the best case.
+</text>
+
+<text page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/Text/5">
+The gain in accuracy for keyed watermarks is not linear to the degree of parallelism. Studying the reason further requires another set of dedicated experiments with more controlled patterns of out-of-order injection into the input data to understand the behavior better. This is a subject for future work.
+</text>
+
+<text page="8" section="*4.2.1.* *RQ1:* *Do* *keyed* *watermarks* *reduce* *the* *number* *of* *dropped* *tuples?*" source="author" id="/page/7/Text/6">
+Results in [Table](#page-7-0) [2](#page-7-0) empirically answer **RQ1** positively as keyed watermark generation generally drops fewer records compared to the vanilla watermark generation.
+</text>
+
+
+<heading page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/SectionHeader/7" level="2">
+## *4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*
+</heading>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/8">
+Turning to **RQ2**, the vanilla watermark operator generates fewer watermarks than the keyed operator. Flink's default behavior is to check for a new watermark value every 200 milliseconds. Assuming 10 unique keys per source arriving continuously, the keyed watermark operator will generate 10 watermarks every 200 milliseconds compared to one watermark only from the vanilla watermark operator. On the other hand, upon receiving a watermark, the vanilla window operator is expected to process, and not necessarily close, a larger number of window instances than a window operator in the keyed watermark case. Against this observation, we conducted our second set of experiments to track the latency in processing watermarks. We compute the processing time latency [[37]](#page-11-35). We compute the difference between the timestamp when a watermark was generated at the respective watermark operator and the timestamp when the receiving window operator processed the last window in response to receiving the watermark.
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/9">
+[Table](#page-8-1) [3](#page-8-1) contains the latency in seconds for all datasets with parallelisms 2, 4, and 8. We calculated the results by logging the timestamp when the watermark was generated and the timestamp of the last use of the watermark. In the vanilla Flink case, we log the watermark value and timestamp. We log the watermark value, key, and timestamp for the keyed watermark. Therefore, we distinguish between
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/10">
+the minimum and maximum for the keyed watermarks because the same watermark value might show for different keys. Finally, we calculated the *., ., *., and (90*,* 95*,* 99) latency percentiles for Flink by grouping the results by watermark value, and for Keyed watermarks, we grouped results by watermark and key and produced the . and . latency found for each watermark. As shown in [Table](#page-8-1) [3](#page-8-1), keyed watermark processing imposes less overhead. That is less latency. Moreover, the latency reduces as the parallelism increases. Compared to the vanilla case, the latency percentile improves by over 50% in most of the cases. In very few cases, the latency of the keyed watermark processing, the maximum case, is a little over the vanilla case. Nevertheless, KMINWM is always below the vanilla case. This means that the pipeline will start producing results earlier than the pipeline for the vanilla case.
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/11">
+To learn how the processing latency evolves as the stream progresses, we plot the behavior for the highest degree of parallelism in our experiments, i.e., 8. We compare the Flink watermark latency against the minimum and maximum latency for the keyed watermark latencies. Flink Latency is calculated as the difference between the watermark generation time at the watermark operator and the time when the downstream window operator finished processing the last window triggered by the respective watermark. Keyed watermark latency, on the other hand, is calculated the same way but per key so the watermark may appear more than once with different keys; in this case, we grouped the latency results by watermark and key, and for each watermark, we have a latency value with different keys. Therefore, we compute Keyed Max Latency as the watermark with a key with the maximum latency and Keyed Min Latency as the latency for the same watermark but with the key with the minimum latency.
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/12">
+For the ordered data set in [Fig.](#page-9-0) [13(a)](#page-9-0) we can see that even the Keyed Max. Latency started greater than Flink Latency, but over time (across watermarks), the Keyed Max. Latency decreases to reach almost zero, and also it is less than the Flink Latency. Almost the same for 5% data set in [Fig.](#page-9-1) [13(f)](#page-9-1) we can see that Keyed Max. Latency started greater than Flink Latency; however, over time, the latency decreased.
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/13">
+For 20%, 50% random keys delayed data sets, and 50% keys around median delayed data set, we can see that Keyed Max. Latency starts less than Flink Latency and also decreases over time in [Fig.](#page-9-1) [13(b),](#page-9-1) [Fig.](#page-9-1) [13(c)](#page-9-1), and [Fig.](#page-9-1) [13(d)](#page-9-1) respectively.
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/14">
+For the 20% keys around the median delayed data set, we can see that Flink Latency is higher than Keyed Max. Latency and almost the same latency over time, at the same time Keyed Max. Latency is less than Flink Latency and decreases over time, as in [Fig.](#page-9-1) [13(d)](#page-9-1).
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/15">
+For the 50% global delay data set, we found that Keyed Max. Latency is less than Flink Latency and decreases over time, in addition, Flink Latency increases over time, as in [Fig.](#page-9-1) [13(g)](#page-9-1). Finally, for the DEBS data set, we see that although Flink Latency decreases over time, Keyed Max. Latency is almost the same as Keyed Min. Latency and, in general, less than 10 ms, as in [Fig.](#page-9-1) [13(h).](#page-9-1)
+</text>
+
+<text page="8" section="*4.2.2.* *RQ2:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *latency* *of* *watermark* *processing?*" source="author" id="/page/7/Text/16">
+To answer **RQ2**, we can conclude that keyed watermark processing has less overhead, i.e., less latency, than vanilla watermark processing.
+</text>
+
+
+<heading page="8" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/7/SectionHeader/17" level="1">
+# *4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*
+</heading>
+
+<text page="8" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/7/Text/18">
+Turning to **RQ3**, similar to **RQ2**, the vanilla watermark operator keeps the elements of the same window in a state. i.e., in memory, and when the event time passes the window's end timestamp, the window operator cleans up the window state. Keyed watermarks are supposed to keep more elements in the state because we have more than one watermark for unique keys. Based on this observation, we conducted the third set of experiments to track the window operator state size across timestamps during the pipeline run-time. At the arrival of each new element, we store the number of elements kept in the state and send this value to the side output which is written to a file. Finally, we compute the difference between the size of the state in the Flink watermark and the Keyed Watermarks. Our speculation is that keyed
+</text>
+
+</page>
+<page number="9">
+<table_group page="9" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/8/TableGroup/2700">
+<caption page="9" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/8/Caption/2">
+**Table** **3** Latency of Vanilla's watermark against keyed watermarks for the different dataset variants with different parallelism. Numbers shown as 0.00 mean that the value is less than 10 ms. P means Parallelism, FWM means Flink Watermark, KMAWM means Keyed Max. Watermark, KMIWM means Keyed Min. Watermark, RKD means Random Keys Delayed, MKD means Median Keys Delayed, and GD means Global Delay.
+</caption>
+<table page="9" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/8/Table/3">
+|  |  | Vanilla watermark | Keyed watermark (Max.) | Keyed watermark (Min.) |
+| --- | --- | --- | --- | --- |
+|  | P | Max, Avg, Min | P (90, 95, 99) | Max, Avg, Min | P (90, 95, 99) | Max, Avg, Min | P (90, 95, 99) |
+| Ordered | 2 | 0.42, 0.19, 0.04 | (0.34, 0.35, 0.41) | 0.29, 0.06, 0.00 | (0.14, 0.18, 0.25) | 0.23, 0.01, 0.00 | (0.04, 0.07, 0.17) |
+| 4 | 0.27, 0.12, 0.05 | (0.17, 0.20, 0.25) | 0.24, 0.09, 0.00 | (0.14, 0.16, 0.20) | 0.21, 0.03, 0.00 | (0.08, 0.09, 0.14) |
+| 8 | 0.28, 0.14, 0.04 | (0.22, 0.23, 0.27) | 0.30, 0.09, 0.00 | (0.15, 0.17, 0.20) | 0.17, 0.02, 0.00 | (0.06, 0.09, 0.13) |
+| 20% RKD | 2 | 0.09, 0.05, 0.02 | (0.08, 0.08, 0.09) | 0.12, 0.04, 0.00 | (0.07, 0.07, 0.10) | 0.07, 0.01, 0.00 | (0.01, 0.02, 0.04) |
+| 4 | 0.16, 0.08, 0.03 | (0.12, 0.12, 0.15) | 0.07, 0.03, 0.00 | (0.04, 0.05, 0.07) | 0.04, 0.01, 0.00 | (0.01, 0.02, 0.03) |
+| 8 | 0.16, 0.09, 0.03 | (0.14, 0.14, 0.15) | 0.12, 0.05, 0.00 | (0.07, 0.08, 0.10) | 0.08, 0.01, 0.00 | (0.02, 0.04, 0.04) |
+| 50% RKD | 2 | 0.22, 0.11, 0.02 | (0.19, 0.20, 0.22) | 0.08, 0.03, 0.00 | (0.06, 0.07, 0.08) | 0.02, 0.00, 0.00 | (0.01, 0.01, 0.02) |
+| 4 | 0.14, 0.07, 0.03 | (0.12, 0.13, 0.14) | 0.09, 0.04, 0.00 | (0.06, 0.07, 0.09) | 0.05, 0.01, 0.00 | (0.01, 0.02, 0.04) |
+| 8 | 0.16, 0.09, 0.05 | (0.14, 0.15, 0.16) | 0.11, 0.06, 0.00 | (0.09, 0.10, 0.11) | 0.08, 0.01, 0.00 | (0.03, 0.04, 0.07) |
+| 20% MKD | 2 | 0.21, 0.12, 0.03 | (0.19, 0.20, 0.21) | 0.08, 0.03, 0.00 | (0.06, 0.07, 0.07) | 0.04, 0.01, 0.00 | (0.01, 0.02, 0.03) |
+| 4 | 0.14, 0.07, 0.03 | (0.11, 0.12, 0.13) | 0.12, 0.03, 0.00 | (0.05, 0.06, 0.11) | 0.04, 0.00, 0.00 | (0.01, 0.01, 0.02) |
+| 8 | 0.15, 0.08, 0.03 | (0.13, 0.14, 0.15) | 0.09, 0.04, 0.00 | (0.06, 0.07, 0.08) | 0.06, 0.01, 0.00 | (0.02, 0.03, 0.04) |
+| 50% MKD | 2 | 0.11, 0.05, 0.02 | (0.09, 0.09, 0.11) | 0.13, 0.04, 0.00 | (0.08, 0.09, 0.10) | 0.04, 0.00, 0.00 | (0.01, 0.01, 0.02) |
+| 4 | 0.17, 0.09, 0.03 | (0.15, 0.16, 0.17) | 0.15, 0.04, 0.00 | (0.05, 0.06, 0.13) | 0.04, 0.00, 0.00 | (0.01, 0.02, 0.04) |
+| 8 | 0.16, 0.10, 0.04 | (0.14, 0.15, 0.16) | 0.12, 0.06, 0.00 | (0.09, 0.10, 0.10) | 0.09, 0.01, 0.00 | (0.02, 0.04, 0.08) |
+|  | 2 | 0.13, 0.07, 0.04 | (0.11, 0.11, 0.12) | 0.15, 0.06, 0.00 | (0.09, 0.11, 0.14) | 0.09, 0.01, 0.00 | (0.04, 0.05, 0.08) |
+| 5% GD | 4 | 0.22, 0.10, 0.04 | (0.12, 0.14, 0.20) | 0.28, 0.08, 0.00 | (0.15, 0.18, 0.24) | 0.17, 0.02, 0.00 | (0.06, 0.09, 0.14) |
+|  | 8 | 0.23, 0.12, 0.06 | (0.15, 0.18, 0.20) | 0.23, 0.08, 0.00 | (0.12, 0.14, 0.21) | 0.22, 0.02, 0.00 | (0.05, 0.07, 0.11) |
+| 50% GD | 2 | 0.15, 0.07, 0.04 | (0.10, 0.12, 0.14) | 0.14, 0.06, 0.00 | (0.10, 0.11, 0.13) | 0.12, 0.01, 0.00 | (0.04, 0.05, 0.10) |
+| 4 | 0.36, 0.10, 0.04 | (0.12, 0.14, 0.25) | 0.17, 0.07, 0.00 | (0.10, 0.11, 0.16) | 0.11, 0.01, 0.00 | (0.03, 0.05, 0.08) |
+| 8 | 0.29, 0.13, 0.04 | (0.18, 0.25, 0.28) | 0.15, 0.08, 0.00 | (0.12, 0.13, 0.14) | 0.13, 0.01, 0.00 | (0.02, 0.05, 0.08) |
+|  | 2 | 0.06, 0.00, 0.00 | (0.00, 0.00, 0.00) | 0.01, 0.00, 0.00 | (0.00, 0.00, 0.00) | 0.01, 0.00, 0.00 | (0.00, 0.00, 0.00) |
+| DEBS | 4 | 0.06, 0.01, 0.00 | (0.01, 0.01, 0.01) | 0.03, 0.00, 0.00 | (0.01, 0.01, 0.01) | 0.03, 0.00, 0.00 | (0.01, 0.01, 0.01) |
+| 8 | 0.04, 0.02, 0.00 | (0.03, 0.03, 0.03) | 0.04, 0.01, 0.00 | (0.01, 0.02, 0.03) | 0.04, 0.01, 0.00 | (0.01, 0.02, 0.03) |
+</table>
+</table_group>
+
+<text page="9" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/8/Text/4">
+watermarks is, in general, going to maintain a larger state as more windows will be kept open. The plots in [14](#page-10-1) generally confirm our speculation. For the ordered dataset, [Fig.](#page-10-2) [14(a)](#page-10-2), we can see a horizontal line at 0, indicating that both approaches maintain the same state size. For the datasets with delays for specific keys, we can observe that keyed watermarks maintains a larger state, [Figs.](#page-10-3) [14(b)](#page-10-3), [14(c)](#page-10-3), [14(d)](#page-10-3), [14(e)](#page-10-3). Obviously, the state size increases as the percentage of out-oforder increases. Nevertheless, the largest state size maintained by keyed watermarks is around 70K tuples more than the vanilla watermark, which, overall, is not a significant overhead. We observe a different state size growth for the datasets with global delay, [Figs.](#page-10-3) [14(f)](#page-10-3) and [14(g).](#page-10-3) In some cases, the pipeline for the vanilla watermark approach maintains a larger state than that for the keyed watermarks. This is affected by the distribution of out-of-order across the different keys and their effect on window closure and state clearance. The state difference's maximum value is comparable and insignificant overall, with only 2K tuples. A weaker form of this behavior is observed for the DEBS dataset, [Fig.](#page-10-3) [14(h)](#page-10-3). The keyed watermark pipeline usually maintains a larger state with up to 170K more tuples. Again, this is based on the distribution of out-of-order arrival of tuples across the different keys.
+</text>
+
+<text page="9" section="*4.2.3.* *RQ3:* *How* *does* *keyed* *watermarks* *generation* *affect* *the* *growth* *of* *the* *maintained* *state* *size?*" source="author" id="/page/8/Text/5">
+To answer **RQ3**, we can conclude that keyed watermark processing imposes a larger state overhead compared to the vanilla approach. This is expected, as we discussed earlier. However, the overhead in most of the cases is not significant. It is interesting to study the effect of out-oforder distribution within and across keys on the growth of state size. However, this is a subject for future research.
+</text>
+
+
+<heading page="9" section="**5.** **Related** **work**" source="author" id="/page/8/SectionHeader/6" level="1">
+# **5.** **Related** **work**
+</heading>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/7">
+Handling late and out-of-order data on a data stream caught the attention of researchers a long time ago. Generally, there are three basic techniques to account for late data: punctuations [[33]](#page-11-31), slacktime [[38]](#page-11-36), a.k.a buffering, monotonic watermarks [[8](#page-11-7),[39–](#page-11-37)[41]](#page-11-38), orderagnostic processing [[42]](#page-11-39), ordered processing [[43](#page-11-40)[–46](#page-12-4)], [[47]](#page-12-5), timestamp frontiers [[48](#page-12-6)].
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/8">
+Punctuations can reason completeness by assuming that no more events fulfilling a given condition or predicate will come in the future using the punctuation technique. Punctuations, on the other hand, can combine the usage of watermarks and timestamp borders with other functions such as establishing constraints. The SPE can reason about completeness by observing the existence or absence of conditions, markers, and so forth. Punctuations cannot be generalized as they depend on the semantics of the data.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/9">
+Buffering is rigid. An inaccurate guess of the buffering time can either introduce unnecessary delays, when the buffer is large, or severely affects accuracy when the buffer is small.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/10">
+Monotonic watermarks are employed to address the issue of outof-orderness in the events received by the SPE. The SPE can use watermarks to ensure that no more events with timestamps older than the watermark's timestamp occur in the future. So that the SPE can broadcast the contents of the window for further processing.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/11">
+Order-agnostic processing the SPE can handle the events without regard for their order using this strategy. This is an important capability for reasoning about the completeness, because determining that all relevant events are processed, this technique could be achieved using several methods such as buffering, event-time stamping, and windowing, so the SPE should collect and arrange the events before processing ordering the events according to their timestamps then grouping them into a specific window. As a result, in the case of outof-order occurrences, the SPE can process the events and reason about completeness.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/12">
+Ordered processing the SPE assumes that the events are ordered in this manner, ensuring completeness and excellent accuracy of the results because no unprocessed prior events are expected.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/13">
+The timestamp frontiers concept is derived from the Timely Dataflow model, which employs a multidimensional and flexible approach to completion reasoning. It goes beyond watermarks to allow the independent usage of different time conceptions. As a result, each temporal dimension can advance at its own pace, allowing for more coordination and control over incoming events.
+</text>
+
+<text page="9" section="**5.** **Related** **work**" source="author" id="/page/8/Text/14">
+Nevertheless, the keyed approach introduced in this paper can be applied to both punctuations and buffering, virtually increasing accuracy.
+</text>
+
+</page>
+<page number="10">
+<figure_group page="10" section="**5.** **Related** **work**" source="author" id="/page/9/FigureGroup/366">
+<figure page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Figure/2" image="A3.R94_fig14.jpg">[FIGURE: see A3.R94_fig14.jpg]</figure>
+<caption page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Caption/3">
+**Fig.** **13.** Latency results for the different datasets. On the X-axis is the logarithm of the number of generated watermarks; on the Y-axis is the latency in seconds.
+</caption>
+</figure_group>
+
+<text page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Text/4">
+Several other approaches have addressed out-of-order handling. In [[49](#page-12-7)], the authors propose a sophisticated data-parallel approach that spawns independent instances of the application upon the reception of late data. Later on, a consolidation layer augments the results.
+</text>
+
+<text page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Text/5">
+An approach based on buffering and immediate recomputation is proposed in [[50](#page-12-8)] to handle late data in the context of complex event processing applications.
+</text>
+
+<text page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Text/6">
+Machine learning has been used in [[51](#page-12-9)] to predict whether it is time to emit a new watermark by learning from several features in the input data stream. Keyed watermarks can easily be integrated with this approach.
+</text>
+
+<text page="10" section="**5.** **Related** **work**" source="author" id="/page/9/Text/7">
+The authors in [[9]](#page-11-8) have surveyed the different approaches to generate watermarks for event-time processing. They have indicated the lack of fine tracking of watermarks. Our approach fills this gap.
+</text>
+
+</page>
+<page number="11">
+<figure_group page="11" section="**5.** **Related** **work**" source="author" id="/page/10/FigureGroup/642">
+<figure page="11" section="**5.** **Related** **work**" source="author" id="/page/10/Figure/2" image="A3.R94_fig15.jpg">[FIGURE: see A3.R94_fig15.jpg]</figure>
+<caption page="11" section="**5.** **Related** **work**" source="author" id="/page/10/Caption/3">
+**Fig.** **14.** State size for the different datasets between Flink and Keyed watermarks. On the X-axis, the number of generated watermarks; on the Y-axis, positive values mean keyed watermarks maintain a larger state and negative values mean Flink maintains a larger state.
+</caption>
+</figure_group>
+
+
+<heading page="11" section="**6.** **Conclusion**" source="author" id="/page/10/SectionHeader/4" level="1">
+# **6.** **Conclusion**
+</heading>
+
+<text page="11" section="**6.** **Conclusion**" source="author" id="/page/10/Text/5">
+In this paper, we propose a novel method called ''keyed watermarks'', which enhances the accuracy of data processing in Big Data Stream systems. By introducing distinct watermarks for each logical sub-stream, we enable separate progress tracking for various data sources while mitigating the data loss problem seen in Apache Flink's default watermark generation method. Our analysis shows that when 50% of the keys around the median are delayed, the standard approach caused a significant data loss of around 33%, which increased to more than 37% when 50% of random keys are delayed. Our technique is able to reduce data loss to less than 1%. To implement keyed watermarks, we outline the necessary architectural and API changes and discuss our experience extending Apache Flink's large code base. Future research should concentrate on assessing the scalability and performance of keyed watermarks across diverse datasets, as well as their effectiveness
+</text>
+
+<text page="11" section="**6.** **Conclusion**" source="author" id="/page/10/Text/6">
+in handling larger volumes of data. Also, exploring adaptive techniques for dynamically adjusting watermark generation interval based on the unique characteristics of each sub-stream has the potential to improve the accuracy and efficiency of event-time processing in Big Data Stream systems even further.
+</text>
+
+
+<heading page="11" section="**CRediT** **authorship** **contribution** **statement**" source="author" id="/page/10/SectionHeader/7" level="4">
+#### **CRediT** **authorship** **contribution** **statement**
+</heading>
+
+<text page="11" section="**CRediT** **authorship** **contribution** **statement**" source="author" id="/page/10/Text/8">
+**Tawfik** **Yasser:** Writing – review &amp; editing, Writing – original draft, Visualization, Validation, Software, Investigation, Data curation. **Tamer** **Arafa:** Writing – review &amp; editing, Supervision, Methodology. **Mohamed** **ElHelw:** Writing – review &amp; editing, Supervision, Methodology. **Ahmed** **Awad:** Writing – review &amp; editing, Writing – original draft, Supervision, Methodology, Conceptualization.
+</text>
+
+</page>
+<page number="12">
+
+<heading page="12" section="**Declaration** **of** **competing** **interest**" source="author" id="/page/11/SectionHeader/2" level="1">
+# **Declaration** **of** **competing** **interest**
+</heading>
+
+<text page="12" section="**Declaration** **of** **competing** **interest**" source="author" id="/page/11/Text/3">
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+</text>
+
+
+<heading page="12" section="**Acknowledgments**" source="author" id="/page/11/SectionHeader/4" level="4">
+#### **Acknowledgments**
+</heading>
+
+<text page="12" section="**Acknowledgments**" source="author" id="/page/11/Text/5">
+Not applicable.
+</text>
+
+
+<heading page="12" section="**Data** **availability**" source="author" id="/page/11/SectionHeader/6" level="2">
+## **Data** **availability**
+</heading>
+
+<text page="12" section="**Data** **availability**" source="author" id="/page/11/Text/7">
+We used public data such as linear road and the link to the data source will be in the GitHub repo.
+</text>
+
+
+<heading page="12" section="**References**" source="author" id="/page/11/SectionHeader/8" level="4">
+#### **References**
+</heading>
+
+<list page="12" section="**References**" source="author" id="/page/11/ListGroup/2911">
+- [1] Y. Wu, Cloud-edge orchestration for the internet-of-things: Architecture and AIpowered data processing, IEEE Internet Things J. (2020) 1, [http://dx.doi.org/](http://dx.doi.org/10.1109/JIOT.2020.3014845) [10.1109/JIOT.2020.3014845.](http://dx.doi.org/10.1109/JIOT.2020.3014845)
+- [2] M. [Armbrust,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb2) R.S. Xin, C. Lian, Y. Huai, D. Liu, J.K. Bradley, X. Meng, T. Kaftan, M.J. Franklin, A. Ghodsi, M. Zaharia, Spark sql: Relational data [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb2) in spark, in: SIGMOD, ACM, 2015, pp. [1383–1394.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb2)
+- [3] P. Carbone, A. [Katsifodimos,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb3) S. Ewen, V. Markl, S. Haridi, K. Tzoumas, Apache flink™: Stream and batch [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb3) in a single engine, IEEE Data Eng. Bull. 38 (2015) [28–38.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb3)
+- [4] M. Pathirage, J. Hyde, Y. Pan, B. Plale, Samzasql: Scalable fast data [management](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb4) with streaming SQL, in: IPDPSW, 2016, pp. [1627–1636.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb4)
+- [5] A. Arasu, et al., The CQL continuous query language: semantic [foundations](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb5) and query [execution,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb5) VLDB J. 15 (2006) 121–142.
+- [6] N. Dindar, N. Tatbul, R.J. Miller, L.M. Haas, I. Botan, Modeling the [execution](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb6) semantics of stream [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb6) engines with secret, VLDB J. 22 (2013).
+- [7] M. Hirzel, G. Baudart, A. Bonifati, E. Della Valle, S. Sakr, A. [Vlachou,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb7) Stream [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb7) languages in the big data era, SIGMOD Rec. 47 (2018) 29.
+- [8] T. Akidau, et al., The dataflow model: a practical approach to [balancing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb8) correctness, latency, and cost in [massive-scale,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb8) unbounded, out-of-order data [processing,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb8) Process. PVLDB 8 (2015).
+- [9] E. Begoli, T. Akidau, S. [Chernyak,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb9) F. Hueske, K. Knight, K.L. Knowles, D. Mills, D. Sotolongo, Watermarks in stream processing systems: Semantics and [comparative](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb9) analysis of apache flink and Google cloud [dataflow,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb9) Proc. VLDB Endow. 14 (2021) [3135–3147.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb9)
+- [10] I. Steinmacher, M.A.G. Silva, M.A. Gerosa, D.F. Redmiles, A systematic literature review on the barriers faced by newcomers to open source software projects, Inf. Softw. Technol. 59 (2015) 67–85, [http://dx.doi.org/10.1016/J.INFSOF.2014.11.](http://dx.doi.org/10.1016/J.INFSOF.2014.11.001) [001](http://dx.doi.org/10.1016/J.INFSOF.2014.11.001).
+- [11] R. Stephens, A survey of stream [processing,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb11) Acta Inform. 34 (1997) 491–541.
+- [12] M. Cherniack, H. [Balakrishnan,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb12) M. Balazinska, D. Carney, U. Cetintemel, Y. Xing, S.B. Zdonik, Scalable distributed stream [processing,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb12) in: CIDR, Citeseer, 2003, pp. [257–268.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb12)
+- [13] H. Isah, T. Abughofa, S. Mahfuz, D. Ajerla, F. [Zulkernine,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb13) S. Khan, A survey of distributed data stream processing [frameworks,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb13) IEEE Access 7 (2019) [154300–154316.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb13)
+- [14] P. Córdova, Analysis of Real Time Stream Processing Systems [Considering](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb14) Latency, [University](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb14) of Toronto patricio@ cs. toronto. edu, 2015.
+- [15] M. Hirzel, R. Soulé, S. Schneider, B. Gedik, R. Grimm, A catalog of stream processing optimizations, ACM Comput. Surv. (2013) 46:1–46:34, [http://dx.](http://dx.doi.org/10.1145/2528412) [doi.org/10.1145/2528412](http://dx.doi.org/10.1145/2528412).
+- [16] P. Basanta-Val, N.F. García, L.S. Fernández, Predictable remote invocations for distributed stream processing, Future Gener. Comput. Syst. 107 (2020) 716–729, [http://dx.doi.org/10.1016/J.FUTURE.2017.08.023](http://dx.doi.org/10.1016/J.FUTURE.2017.08.023).
+- [17] F. Guirado, C. Roig, A. Ripoll, Enhancing throughput for streaming [applications](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb17) running on cluster systems, J. Parallel Distrib. Comput. 73 (2013) [1092–1105.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb17)
+- [18] J. [Verwiebe,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb18) P.M. Grulich, J. Traub, V. Markl, Survey of window types for [aggregation](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb18) in stream processing systems, VLDB J. (2023) 1–27.
+- [19] I. Botan, R. [Derakhshan,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb19) N. Dindar, L. Haas, R.J. Miller, N. Tatbul, Secret: a model for analysis of the execution semantics of stream [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb19) systems, Proc. the VLDB Endow. 3 (2010) [232–243.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb19)
+- [20] J. Verwiebe, P.M. Grulich, J. Traub, V. Markl, [Algorithms](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb20) for windowed [aggregations](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb20) and joins on distributed stream processing systems, Datenbank-[Spektrum](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb20) 22 (2022) 99–107.
+- [21] J. Traub, P.M. Grulich, A.R. Cuellar, S. Breß, A. [Katsifodimos,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb21) T. Rabl, V. Markl, Scotty: Efficient window aggregation for [out-of-order](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb21) stream processing, in: 2018 IEEE 34th [International](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb21) Conference on Data Engineering, ICDE, IEEE, 2018, pp. [1300–1303.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb21)
+- [22] F. Hueske, V. Kalavri, Stream Processing with Apache Flink: [Fundamentals,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb22) [Implementation,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb22) and Operation of Streaming Applications, O'Reilly Media, 2019.
+</list>
+
+<list page="12" section="**References**" source="author" id="/page/11/ListGroup/2912">
+- [23] L. Golab, Sliding Window Query Processing over Data Streams, (Ph.D. thesis), University of Waterloo, Ontario, Canada, 2006, URL [https://hdl.handle.net/](https://hdl.handle.net/10012/2930) [10012/2930.](https://hdl.handle.net/10012/2930)
+- [24] A. [Maslennikova,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb24) D. Rotelli, A. Monreale, Session-based time-window identification in virtual learning [environments,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb24) J. Learn. Anal. 10 (2023) [7–27.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb24)
+- [25] N. Tatbul, Streaming data integration: Challenges and [opportunities,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb25) in: 2010 IEEE 26th [International](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb25) Conference on Data Engineering Workshops, ICDEW 2010, IEEE, 2010, pp. [155–158.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb25)
+- [26] A.A. Safaei, Real-time [processing](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb26) of streaming big data, Real-Time Syst. 53 [(2017)](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb26) 1–44.
+- [27] S. Shahrivari, Beyond batch [processing:](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb27) towards real-time and streaming big data, [Computers](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb27) 3 (2014) 117–129.
+- [28] M. Fragkoulis, P. Carbone, V. Kalavri, A. Katsifodimos, A survey on the evolution of stream processing systems, VLDB J. 33 (2024) 507–541, [http://dx.doi.org/10.](http://dx.doi.org/10.1007/S00778-023-00819-8) [1007/S00778-023-00819-8.](http://dx.doi.org/10.1007/S00778-023-00819-8)
+- [29] M. Li, M. Liu, L. Ding, E.A. [Rundensteiner,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb29) M. Mani, Event stream processing with out-of-order data arrival, in: 27th [International](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb29) Conference on Distributed Computing Systems Workshops, [ICDCSW'07,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb29) IEEE, 2007, p. 67.
+- [30] I.E. Kuralenok, N. [Marshalkin,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb30) A. Trofimov, B. Novikov, An optimistic approach to handle [out-of-order](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb30) events within analytical stream processing, in: Software Engineering and Information [Management,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb30) CEUR Workshop, 2018, pp. 22–29.
+- [31] D.J. Abadi, D. Carney, U. Çetintemel, M. Cherniack, C. Convey, S. Lee, M. Stonebraker, N. Tatbul, S.B. Zdonik, Aurora: a new model and architecture for data stream management, VLDB J. ^(12) (2003) 120–139, [http://dx.doi.org/10.](http://dx.doi.org/10.1007/S00778-003-0095-Z) [1007/S00778-003-0095-Z](http://dx.doi.org/10.1007/S00778-003-0095-Z).
+- [32] J. Spenger, C. Huang, P. Haller, P. Carbone, Portals: A showcase of multidataflow stateful serverless, Proc. VLDB Endow. 16 (2023) 4054–4057, [http://dx.](http://dx.doi.org/10.14778/3611540.3611619) [doi.org/10.14778/3611540.3611619,](http://dx.doi.org/10.14778/3611540.3611619) URL [https://www.vldb.org/pvldb/vol16/](https://www.vldb.org/pvldb/vol16/p4054-spenger.pdf) [p4054-spenger.pdf](https://www.vldb.org/pvldb/vol16/p4054-spenger.pdf).
+- [33] P.A. Tucker, D. Maier, T. Sheard, L. Fegaras, Exploiting [punctuation](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb33) semantics in [continuous](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb33) data streams, IEEE Trans. Knowl. Data Eng. ^(15) (2003) 555–568.
+- [34] J. Li, K. Tufte, V. Shkapenyuk, V. Papadimos, T. Johnson, D. Maier, Out-of-order processing: a new architecture for high-performance stream systems, Proc. VLDB Endow. 1 (2008) 274–288, [http://dx.doi.org/10.14778/1453856.1453890,](http://dx.doi.org/10.14778/1453856.1453890) URL [http://www.vldb.org/pvldb/vol1/1453890.pdf](http://www.vldb.org/pvldb/vol1/1453890.pdf).
+- [35] T. Yasser, T. Arafa, M. El-Helw, A. Awad, Keyed [watermarks:](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb35) A fine-grained tracking of [event-time](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb35) in apache flink, in: 2023 5th Novel Intelligent and Leading Emerging Sciences [Conference,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb35) NILES, IEEE, 2023, pp. 23–28.
+- [36] C. Mutschler, H. Ziekow, Z. Jerzak, The DEBS 2013 grand challenge, in: S. Chakravarthy, S.D. Urban, P.R. Pietzuch, E.A. Rundensteiner (Eds.), The 7th ACM International Conference on Distributed Event-Based Systems, DEBS '13, Arlington, TX, USA - June 29 - July 03, 2013, ACM, 2013, pp. 289–294, [http://dx.doi.org/10.1145/2488222.2488283](http://dx.doi.org/10.1145/2488222.2488283).
+- [37] J. Karimov, T. Rabl, A. [Katsifodimos,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb37) R. Samarev, H. Heiskanen, V. Markl, Benchmarking [distributed](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb37) stream data processing systems, in: ICDE, IEEE Computer Society, 2018, pp. [1507–1518.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb37)
+- [38] S. Babu, U. Srivastava, J. Widom, Exploiting k-constraints to reduce memory overhead in continuous queries over data streams, ACM Trans. Database Syst. 29 (2004) 545–580, [http://dx.doi.org/10.1145/1016028.1016032,](http://dx.doi.org/10.1145/1016028.1016032) URL [http://](http://doi.acm.org/10.1145/1016028.1016032) [doi.acm.org/10.1145/1016028.1016032.](http://doi.acm.org/10.1145/1016028.1016032)
+- [39] T. Akidau, A. Balikov, K. Bekiroğlu, S. Chernyak, J. Haberman, R. Lax, S. McVeety, D. Mills, P. Nordstrom, S. Whittle, Millwheel: Fault-tolerant stream processing at internet scale, Proc. VLDB Endow. 6 (2013) 1033–1044, [http:](http://dx.doi.org/10.14778/2536222.2536229) [//dx.doi.org/10.14778/2536222.2536229.](http://dx.doi.org/10.14778/2536222.2536229)
+- [40] U. Srivastava, J. Widom, Flexible time management in data stream systems, in: Proceedings of the Twenty-Third ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, Association for Computing Machinery, New York, NY, USA, 2004, pp. 263–274, [http://dx.doi.org/10.1145/1055558.1055596.](http://dx.doi.org/10.1145/1055558.1055596)
+- [41] G. Wang, L. Chen, A. Dikshit, J. Gustafson, B. Chen, M.J. Sax, J. Roesler, S. Blee-Goldman, B. Cadonna, A. Mehta, V. Madan, J. Rao, Consistency and completeness: Rethinking distributed stream processing in apache kafka, in: Proceedings of the 2021 International Conference on Management of Data, Association for Computing Machinery, New York, NY, USA, 2021, pp. 2602–2613, [http://dx.doi.org/10.1145/3448016.3457556](http://dx.doi.org/10.1145/3448016.3457556).
+- [42] H.M. Gomes, J.P. Barddal, F. Enembreck, A. Bifet, A survey on ensemble learning for data stream classification, ACM Comput. Surv. 50 (2017) 23:1–23:36, [http:](http://dx.doi.org/10.1145/3054925) [//dx.doi.org/10.1145/3054925](http://dx.doi.org/10.1145/3054925).
+- [43] B. Babcock, S. Babu, M. Datar, R. Motwani, J. Widom, Models and issues in data stream systems, in: L. Popa, S. Abiteboul, P.G. Kolaitis (Eds.), Proceedings of the Twenty-First ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 3-5, Madison, Wisconsin, USA, ACM, 2002, pp. 1–16, [http://dx.doi.org/10.1145/543613.543615](http://dx.doi.org/10.1145/543613.543615).
+- [44] D. Anicic, S. Rudolph, P. Fodor, N. Stojanovic, Stream reasoning and complex event processing in ETALIS, Semant. Web 3 (2012) 397–407, [http://dx.doi.org/](http://dx.doi.org/10.3233/SW-2011-0053) [10.3233/SW-2011-0053](http://dx.doi.org/10.3233/SW-2011-0053).
+- [45] B. Chandramouli, J. Goldstein, M. Barnett, R. DeLine, D. Fisher, J.C. Platt, J.F. Terwilliger, J. Wernsing, Trill: A high-performance incremental query processor for diverse analytics, Proc. VLDB Endow 8 (2014) 401–412, [http://dx.doi.org/](http://dx.doi.org/10.14778/2735496.2735503) [10.14778/2735496.2735503.](http://dx.doi.org/10.14778/2735496.2735503)
+</list>
+
+</page>
+<page number="13">
+<list page="13" section="**References**" source="author" id="/page/12/ListGroup/1345">
+- [46] J. Teich, L. Thiele, E.A. Lee, Modeling and simulation of heterogeneous real-time systems based on a deterministic discrete event model, in: Proceedings of the 8th International Symposium on System Synthesis, Association for Computing Machinery, New York, NY, USA, 1995, pp. 156–161, [http://dx.doi.org/10.1145/](http://dx.doi.org/10.1145/224486.224535) [224486.224535](http://dx.doi.org/10.1145/224486.224535).
+- [47] E. Wu, Y. Diao, S. Rizvi, High-performance complex event processing over streams, in: Proceedings of the 2006 ACM SIGMOD International Conference on Management of Data, Association for Computing Machinery, New York, NY, USA, 2006, pp. 407–418, [http://dx.doi.org/10.1145/1142473.1142520.](http://dx.doi.org/10.1145/1142473.1142520)
+- [48] D.G. Murray, F. McSherry, R. Isaacs, M. Isard, P. Barham, M. Abadi, Naiad: A timely dataflow system, in: Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles, Association for Computing Machinery, New York, NY, USA, 2013, pp. 439–455, [http://dx.doi.org/10.1145/2517349.](http://dx.doi.org/10.1145/2517349.2522738) [2522738.](http://dx.doi.org/10.1145/2517349.2522738)
+- [49] S. [Krishnamurthy,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb49) M.J. Franklin, J. Davis, D. Farina, P. Golovko, A. Li, N. Thombre, Continuous analytics over [discontinuous](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb49) streams, in: SIGMOD, ACM, 2010, pp. [1081–1092.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb49)
+- [50] C. Mutschler, M. Philippsen, Adaptive speculative processing of [out-of-order](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb50) event streams, ACM Trans. Internet [Technol.](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb50) 14 (2014) 1–24.
+- [51] A. Awad, J. Traub, S. Sakr, Adaptive [watermarks:](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb51) A concept drift-based approach for predicting [event-time](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb51) progress in data streams, in: EDBT, [OpenProceedings.org,](http://refhub.elsevier.com/S0167-739X(25)00091-3/sb51) 2019, pp. 622–625.
+</list>
+
+<figure page="13" section="**References**" source="author" id="/page/12/Picture/8" image="A3.R94_fig16.jpg">[FIGURE: see A3.R94_fig16.jpg]</figure>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/9">
+**Tawfik** **Yasser** received M.Sc. in Informatics from Nile University in 2024. Currently his research is focused on Big Data and Stream Processing. Also, interested in data engineering.
+</text>
+
+<figure page="13" section="**References**" source="author" id="/page/12/Picture/10" image="A3.R94_fig17.jpg">[FIGURE: see A3.R94_fig17.jpg]</figure>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/11">
+**Dr.** **Tamer** **Arafa** his received B.Sc. and M.Sc. in Electronics and Communications from Cairo University in 1993 and 1997, then received a master's in information systems and MBA from California state university in 2004 and 2005 respectively. Finally, He received Ph.D. from Cairo University in 2020.
+</text>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/12">
+Dr. Arafa is currently an assistant professor of ITCS at Nile University and an adjunct assistant professor of Computing in the University of North Florida. His research interests are Image Processing, Forensic Analysis, Machine Learning, Intelligent Systems, and IoT.
+</text>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/13">
+Dr. Arafa has more than 25 years of Information Technology experience in various roles, including IT software
+</text>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/14">
+development, IT project management, IT program management, and IT delivery excellence. Dr. Arafa worked in different international organizations, including IBM, Ejada, SBM, Edmunds.com, Kaiser Permanente, and Egypt IDSC.
+</text>
+
+<figure page="13" section="**References**" source="author" id="/page/12/Picture/15" image="A3.R94_fig18.jpg">[FIGURE: see A3.R94_fig18.jpg]</figure>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/16">
+**Dr.** **Mohamed** **El-Helw** is CIS director. He joined Nile University as an Assistant Professor in 2008 where he led the Ubiquitous and Visual Computing Group (UbiComp) at the Centre for Informatics Science (CIS). Prior to moving to NU, Dr. El-Helw had been working as post-doctoral researcher at the Department of Computing and the Institute of Biomedical Engineering, Imperial College London where he carried out work on the use of image-based modeling and rendering techniques for medical simulation, understanding visual perception and the development of wireless body sensor networks.
+</text>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/17">
+His research interests are focused on ubiquitous systems, computer vision, 3D computer graphics, deep neural networks, and scientific computing. He has a proven research and development track record in the above areas with more than 60 refereed publications and major research grants totaling more than EGP 10 Million. Dr. El-Helw received B.Sc. in Computer Science from the American University in Cairo, M.Sc. in Computer Science from the University of Hull, UK, and Ph.D. in Computer Science from Imperial College London, University of London in 2006. He also holds a Diploma in Visual Information Processing (DIC) from Imperial College London. He is a full Professor and a Senior Member of the IEEE society.
+</text>
+
+<figure page="13" section="**References**" source="author" id="/page/12/Picture/18" image="A3.R94_fig19.jpg">[FIGURE: see A3.R94_fig19.jpg]</figure>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/19">
+**Dr** **Ahmed** **Awad** is an associate professor of Artificial Intelligence at the British University in Dubai. Formerly, Prof. Awad was a professor of Big Data at the Institute of Computer Science, University of Tartu, Estonia. Before that, Dr. Awad was an associate professor of Information Systems at the faculty of computers and artificial intelligence Cairo University, Egypt.
+</text>
+
+</page>
+</paper>

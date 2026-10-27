@@ -1,0 +1,497 @@
+<paper source_file="A2.R27" title="**Internationalization ** **in Canadian Higher ** **Education Institutions: ** **Ontario**" total_pages="21" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A2.R27_fig01.jpg">[FIGURE: see A2.R27_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/1">
+*Article*
+</text>
+
+
+<heading page="1" section="**Internationalization ** **in Canadian Higher ** **Education Institutions: ** **Ontario**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **Internationalization ** **in Canadian Higher ** **Education Institutions: ** **Ontario**
+</heading>
+
+<text page="1" section="**Internationalization ** **in Canadian Higher ** **Education Institutions: ** **Ontario**" source="author" id="/page/0/Text/3">
+Higher Education for the Future  1–21 © 2020 The Kerala State Higher Education Council Reprints and permissions: in.sagepub.com/journals-permissions-india DOI: 10.1177/2347631120930538 journals.sagepub.com/home/hef
+</text>
+
+<figure page="1" section="**Internationalization ** **in Canadian Higher ** **Education Institutions: ** **Ontario**" source="author" id="/page/0/Picture/4" image="A2.R27_fig02.jpg">[FIGURE: see A2.R27_fig02.jpg]</figure>
+
+
+<heading page="1" section="**Ali Khorsandi Taskoh1**" source="author" id="/page/0/SectionHeader/5" level="2">
+## **Ali Khorsandi Taskoh1**
+</heading>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/6" level="2">
+## **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+Education is a tool for collaboration among nations. The emergence of concepts  as internationalization of educational policies, students-staff exchange programs,  internationalization of curriculum, internationalization at home (IAH) or even the  emergence of multinational agencies to expedite global exchanges in the realm  of Higher Education lead educational policy-makers to confess that segregation  of the educational policies from nations' foreign affairs policies have no promising  results than failure of the nations' educational goals and priorities. Based on  the qualitative and case study research methodologies, we adopted critical  policy analysis (CPA) to address the question of "why does a Canadian public  university engage in internationalization?". The study showed that the decision  to acknowledge internationalization as a priority at a public university in Ontario  is based upon different motives ranging from commercial-economic and sociopolitical to academic-educational and profile-building components. The study also  identified the gradual extension of market-based rationales that have historically  been absent from traditional university policies in the Canadian context to  educational initiatives and academic rationales.
+</text>
+
+
+<heading page="1" section="**Keywords**" source="author" id="/page/0/SectionHeader/8" level="2">
+## **Keywords**
+</heading>
+
+<text page="1" section="**Keywords**" source="author" id="/page/0/Text/9">
+Internationalization, higher education, rationales, policy statements, rhetoric,  perceptions
+</text>
+
+
+<heading page="1" section="**Corresponding author:**" source="author" id="/page/0/SectionHeader/11" level="2">
+## **Corresponding author:**
+</heading>
+
+<text page="1" section="**Corresponding author:**" source="author" id="/page/0/Text/12">
+Ali Khorsandi Taskoh, Department of Educational Administration and Planning, Faculty of Psychology  and Education, Allameh Tabataba'i University (ATU), Olympic Sq., Tehran 14896-84511, Iran. E-mails: ali.khorsandi@atu.ac.ir; khorsandi.higheredu@gmail.com
+</text>
+
+<footnote page="1" section="**Corresponding author:**" source="author" id="/page/0/Footnote/10">
+^( )Department of Educational Administration and Planning, Faculty of Psychology and Education,  Allameh Tabataba'i University (ATU).
+</footnote>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**Introduction**" source="author" id="/page/1/SectionHeader/2" level="2">
+## **Introduction**
+</heading>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/3">
+Internationalization of higher education has been the first policy priority and the  most important agent of change in higher education policy processes and practices  over the last two decades. Hopefully, there is also national and international urge  among educational policymakers to engage almost all higher education institutions  and universities with the practice of internationalization as it seems it is considered  nowadays as a sign of prestige and reputation if the universities' aim and mission  is to compete with other global rivals. However, it seems still there is no clear  understanding of such a practice as Buckner and Stein (2019, p. 1) believe '(a) round the world, faculty, staff, and administrators are being asked to engage with  internationalization on their campuses, often with little understanding of what  internationalization is, should, or could be.' In the same line, Rumbley et al.  (2019, p.10) indicate: '(D)iscussions around internationalization in higher  education in Europe and elsewhere are increasingly focused on understanding the  impact that internationalization has, as well as the processes that higher education  institutions (HEIs) should follow in order to reach their internationalization (and  related) goals.'
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/4">
+It has also become a core element of institutions' initiatives and 'a significant  feature of the Canadian (higher) education landscape' (Beck, 2012, p. 133). Most  institutions in Canada engage in some form of international activity and Today  almost all institutions in Canada and around the world engage to some degree in  activities aimed at forging global connections and building global competencies  among their students, faculty and administrative units (AUCC, 2014; p. 3). Nearly  all Canadian institutions include internationalization as part of their mission  statement and strategic planning and "More than 95% of universities report that  their strategic or longterm planning documents make (89%) or will make (7%)  explicit reference to internationalization and/or global engagement" (AUCC,  2014; p. 9). In addition, the federal government has issued Canada's first-ever  national recommendations for internationalization of higher education (DFAIT,  2012a). Also, one notices a huge increase in the Canadian universities' budget  destined to internationalization as well as in office space and personnel dedicated  to this activity. Accordingly, Canada is planning to be a leading destination for  many international students and the world's leading scholars.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/5">
+Nonetheless, universities may internationalize their campuses, policies and  processes for different reasons. Some rationales of internationalization are  common amongst different institutions worldwide. Each university may, however,  have its own particular rationales and components in the same way and context.  As a common component of institutional mission statements, Canadian higher  education policymakers and administrations have made internationalization a key  aspect of their strategic plans for different reasons. Internationalization, therefore,  seems to be ubiquitous in higher education policy statements and rhetoric in  Canadian higher education institutions. It is, however, not particularly clear what  rationales drive internationalization policies and initiatives in public universities  in the Canadian context. Whereas most Canadian universities are struggling and  vigorously crossing the globe to find new customers and attract more international
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/1">
+students (Coates &amp; Morrison, 2011; Jones &amp; Oleksiyenko, 2011; McNeil, 2013),  the main rationales behind internationalization need to be critically examined.  This article is an attempt to provide a critical policy analysis of why and how a  public university in Ontario engages in internationalization. In a context where  competition in an aggressive market of higher education has been one of the main  characters of universities in the developed world (Beck, 2012; CMEC, 2011;  Fisher et al., 2009; Jones &amp; Oleksiyenko, 2011), this article endeavours to  understand how rationales are positioned in internationalization agendas and  programmes in the context of Ontario.
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/2">
+Following the introductory outline, this paper continues with a review of the  literature and overview of methodology. It continues with summarizing the  findings and developing a critical argument and analysis. It finishes with a  conclusion and policy recommendations.
+</text>
+
+
+<heading page="3" section="**Literature Review**" source="cited" id="/page/2/SectionHeader/3" level="2">
+## **Literature Review**
+</heading>
+
+<text page="3" section="**Literature Review**" source="cited" id="/page/2/Text/4">
+Higher education policymakers in both institutional and governmental levels are  increasingly interested in the variety of benefits associated with internationalization.  A review of the scholarly literature shows that there are a variety of motives why  institutions internationalize their policies and processes. Internationalization on  the one hand generates a competitive and commercialized drive for different  initiatives like student enrolments, whereas on the other, it evokes notions of  transnational connectivity and academic reciprocal flows of individuals  (Matthews, 2002). As the goals and objectives of internationalization are multiple  and somewhat conflicting (Tarc, 2013), there are different categories of rationales  for institutions acknowledging it as a policy priority. Maringe and Gibbs (2006)  classify all the rationales of internationalization in six wide-ranging streams:  economic, political, sociocultural, technological, educational and pedagogical.  Knight (2004, pp. 22–23) develops a categorization of rationales which consist of  two broad stages of: (a) national human resources development, including  strategic alliances, commercial trade, nation building, social/cultural development  and (b) institutional international branding and profile including income  generation, student and staff development, strategic alliances and knowledge  production. According to Knight's (2004) classification, the two broad stages of  rationales, that is national and institutional, are classified in four central rationales  of (a) sociocultural, (b) political, (c) economic growth and (d) academic.
+</text>
+
+<text page="3" section="**Literature Review**" source="cited" id="/page/2/Text/5">
+According to IAU's (2005) survey the main rationales of internationalizing are  to 'increase student and faculty international knowledge capacity and production;  strengthen research and knowledge capacity and production; create international  profile and reputation; contribute to academic quality; broaden and diversify  source of faculty and students; promote curriculum development and innovation;  [and] diversify income generation' (p. 2). Nevertheless, from the perspectives and  observations of most scholars, internationalization in rich northern countries of  the West is increasingly associated with commodification and commercialization  of higher education (Altbach 2002; de Wit, 2011; IAU, 2012; Maringe et al.,
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Literature Review**" source="cited" id="/page/3/Text/2">
+2013). As Knight (2008) argues, the dominant tendency of internationalization in  Anglo-American institutions is mostly towards economic and commercial  rationales. In other words, one of the major rationales of internationalization for  most Anglo-American institutions is economic and business profit. Therefore,  'financial incentives and income generating programs have become purposes of  internationalization in many institutions in the West over the last two decades'  (KhorsandiTaskoh, 2014, p. 40). In a more recent research, Buckner (2019, p.  315) finds:
+</text>
+
+<text page="4" section="**Literature Review**" source="cited" id="/page/3/Text/3">
+Administrators at HEIs in knowledge-intensive economies, and those in the United  States and Anglophone Canada in particular, are more likely to frame benefits in terms  of enhancing students' international awareness, while revenue generation is much more  likely to be cited in other Anglophone contexts. It argues that in Anglophone North  America, higher education is being leveraged to combat histories of parochialism; in  knowledge-intensive economies, it is seen as supporting pipelines of skilled labor; and  in Anglophone contexts outside of North America, it is framed as an economically valuable export.
+</text>
+
+<text page="4" section="**Literature Review**" source="cited" id="/page/3/Text/4">
+In this regard, a wide range of motivations may inform public institutions in the  Canadian context about the internationalization of higher education. Becoming  the 21st century leader on an international stage in order to attract top talent  foreign students and prepare citizens for the global marketplace seems the focal  vision and landscape of Canadian higher education (Chakma et al., 2012).  According to AUCC's (2014) survey concerning the rationals for  internationalization of higher education, 'the other four most-cited reasons are  building strategic alliances and partnerships with key institutions abroad,  promoting an internationalized campus, increasing the university's global profile  and generating revenue' (AUCC, 2014, pp. 12). Other motives are more directly  connected to national well-being and prosperity. Despite AUCC's survey, like  universities in other countries, economic and political rationales and promoting  the country trade and diplomatic agendas play a big role in developing  internationalization initiatives in Canadian universities. For example, a report  from the DFAIT (2012b) shows international students contributed over $8 billion  to Canada's economy in 2010 through tuition, accommodation and discretionary  spending. Tight (2019, p. 1) finds:
+</text>
+
+<text page="4" section="**Literature Review**" source="cited" id="/page/3/Text/5">
+While many interpret the growing globalization and internationalization of higher education as another effect of neo-liberal agendas, the role of higher education institutions  as instigators of further globalization and internationalization should not be ignored,  while the compromises they make in doing so need to be acknowledged.
+</text>
+
+<text page="4" section="**Literature Review**" source="cited" id="/page/3/Text/6">
+Hence, it must be remembered that the role of educational policymakers,  researchers, higher education stakeholders, as well as higher education institutions  where internationalization is to happen in reality must be considered as a key to  success of internationalization that is in alignment with the theme of present  research that investigates such a practice in Ontario. Zha et al. (2019, p. 673) also  introduce the following three spheres in their analytical framework 'to detect
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Literature Review**" source="cited" id="/page/4/Text/1">
+dynamics and currents in the internationalization of Chinese universities' which  confirms the above statements.
+</text>
+
+<text page="5" section="**Literature Review**" source="cited" id="/page/4/Text/2">
+(1) the interaction between local actors and agencies of internationalization and their  immediate environmental conditions, whether of academic/professional, market, or  governmental/managerial nature; (2) the interconnection between those actors and  agencies on all layers, be they local, national, or global; and (3) the interface between  material processes of internationalization and ethical/spiritual orientations.
+</text>
+
+
+<heading page="5" section="**Overview of Conceptual Approach and Methodology**" source="author" id="/page/4/SectionHeader/3" level="2">
+## **Overview of Conceptual Approach and Methodology**
+</heading>
+
+<text page="5" section="**Overview of Conceptual Approach and Methodology**" source="author" id="/page/4/Text/4">
+This study adopted a critical conceptual approach. Critical policy analysis is used  to elicit the 'truth' about policy issues (Chesler &amp; Crowfoot, 2000) and it provides  an opportunity for the researcher to speak with administration about possible  misguided and unjust policy (Ozga, 2000). Critical policy analysis acknowledges  policy as a political and value-laden process (Allan et al., 2010; Marshall, 1997;  Prunty, 1985; Weimer, 1998). Critical policy analysis is chosen as the preferred  conceptual approach and the method of analysis in order to envision why a policy  (e. g., internationalization) is made in a specific period of time and how it is put  into practice. It is significant to know how policy rationales are directed and  organized around a set of policy statements, rhetoric and perceptions regarding  internationalization. In this study, critical policy analysis helps the researcher to  properly understand the implied and indirect rationales of policy text and  discourse. Specifically, it is used to question the perspectives of university  administration and faculty and to critically examine their opinions about  internationalization initiatives. Critical policy analysis in this context (and respect)  exposes the intended versus pretended rationales underlying policy agenda(s) and  their proposed solutions regarding internationalization. This includes an analysis  of how rationales are perceived and framed by the various policy actors, and  understood and experienced by intended practitioners in their daily lives and  professions.
+</text>
+
+<text page="5" section="**Overview of Conceptual Approach and Methodology**" source="author" id="/page/4/Text/5">
+This study uses qualitative and case study research methodology. According to  Denzin and Lincoln (2005), qualitative researchers study things in their real and  natural settings and locations, attempting 'to make sense of, or interpret phenomena  in terms of the meanings people bring to them' (p. 3). A top-tier public university  in Ontario, Canada, that had actively adopted and implemented internationalization  as a policy and has a respective strategic plan was chosen as the research site for  the study. In order to maintain anonymity, Ontario University was chosen as the  pseudonym of the research site. Data collection for this research relied on several  primary sources, which are one-on-one key informant interviews, policy  documents (including strategic and academic plans) and published archival  materials in media. Participants for this study were chosen amongst 'informationrich people' (Patton, 2002; Yin, 2006). To be selected to participate in this study,
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**Overview of Conceptual Approach and Methodology**" source="author" id="/page/5/Text/2">
+they had to have had wide knowledge and experience about internationalization  or have been involved in the university's internationalization programmes. The  total number of participants for the key informant interview was 27 interviewees.  The participants were selected from two main groups of (a) *administrators *(11  participants) including senior administrators, board of governors and the senate,  department chairs and executive managers engaging in international programmes  and offices of the site; and (b) *faculty *(16 participants) including faculty members  and international researchers who were engaged and interested in  internationalization from the four faculties of arts and humanities, engineering,  science and social sciences. The study used two types of sampling: *purposeful * sampling (criterion-based sampling) and *snowball *sampling. The collected data  were analysed in two stages: single case (Merriam, 1998; Yin, 2006) and cross- (sub-) case analysis (Borman et al., 2006; Yin, 2013).
+</text>
+
+
+<heading page="6" section="**Findings: Leading Policy Rationales**" source="author" id="/page/5/SectionHeader/3" level="2">
+## **Findings: Leading Policy Rationales**
+</heading>
+
+<text page="6" section="**Findings: Leading Policy Rationales**" source="author" id="/page/5/Text/4">
+Policy rationales are reasons and motives which indicate why a certain policy is  adopted and preferred over another alternative in a given institution .The findings  in this section are associated with the central question of 'why does a public  university in Ontario engage in internationalization?' I first briefly review and  discuss what the official policy says as it exists in policy documents and archival  materials which reflect Ontario University administration's rhetoric. I then  summarize the findings from the individual interviews and key-informant's  perceptions.
+</text>
+
+
+<heading page="6" section="*The Official Internationalization Policy*" source="author" id="/page/5/SectionHeader/5" level="3">
+### *The Official Internationalization Policy*
+</heading>
+
+<text page="6" section="*The Official Internationalization Policy*" source="author" id="/page/5/Text/6">
+One of the main objectives of internationalization at Ontario University is making  the institution's involvement in international activities in an increasingly  globalized context more comprehensive. According to the university's Strategic  Plan of internationalization, this objective is achieved through 'partnership' and  closer 'interaction' with institutions abroad, especially those located beyond the  frontiers of North America (The University of Western Ontario, 2009).  International academic engagements and enhancing relations and research  collaboration with overseas institutions is, therefore, a significant motive for the  university to acknowledge internationalization a policy priority. In other words,  developing strong 'collaborative research initiatives' in order to benefit the  institution and the country appears to be main rationale of internationalization.  Based on the report *Plan of Engaging the Future* (The University of Western  Ontario, 2010), Ontario University has established an International Research  Fund for research collaborations with institutions with similar research interests  and capacity in countries such as France, India, Mexico, and China, or regions  (e.g. the Caribbean) and continents (e.g. Africa).
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="*The Official Internationalization Policy*" source="author" id="/page/6/Text/1">
+Educational initiatives, developing international teaching and learning  experiences and attracting foreign students of the highest calibre have been the  other central rationale of internationalization at Ontario University. According to  the Strategic Plan, the university is committed to developing the teaching and  learning experience in both undergraduate and graduate studies (The University  of Western Ontario, 2009). Internationalizing the curriculum in order to educate  global citizens appears to be the major objective of internationalization and  international educational initiatives. Through the Plan of Engaging the Future (on  internationalization), the university is committed to supporting and giving its  students an education that will prepare them to live, work and actively contribute  within the global economy and society (The University of Western Ontario). A  vice-provost of the university states that by internationalizing, the Ontario  University aims to educate global-ready citizens (McMullin as cited in Talbot,  2012).Through the Plan, the university has been committed to offering different  educational opportunities to local and international students. The university has  also been committed to prepare students to participate in educational or career  opportunities abroad. Through the International Curriculum Fund Programme, for  example, the university has committed to develop programmes with international  foci at both the undergraduate and graduate levels.
+</text>
+
+<text page="7" section="*The Official Internationalization Policy*" source="author" id="/page/6/Text/2">
+According to the university administration economic motives and incentives  have, in addition, been a basic rationale of internationalization. The President of  Ontario University believes that internationalization, in all its forms, will create  economic prosperity for the benefit of Canadians. Chakma adds that 'The quality  of education offered in Canada can no longer remain a well-kept secret. Attracting  the best international students will ensure the world sees Canada as the place to be  for top talent, global partnerships and business opportunities' (Chakma as cited in  Renaud, 2012). For administration there is certainly some revenue which must be  generated through internationalization activities. According to the president,  international students contribute an estimated $1billion annually to the provincial  economy in Ontario (Chakma, 2010). For the president, focusing only on  educational and research aspects of internationalization cannot be a proper policy  for Ontario University. According to him, only focusing on education (and  teaching), conducting research and doing some community service are not  sufficient for a modern university (Travis, 2009). The president supposes that the  university can be a positive force in ensuring that the economic future of the city  in which the university is located within can be as good as it can. According to  him, if the city economically suffers, sooner or later the institution will suffer.  What is interesting about these quotes is that the economic incentive is not for the  university, but for the city and for the country in which the university is located.  Noteworthy is the fact that the president of the university avoids talking about the  economic benefits of internationalization for the university itself. Regardless of  the president's rhetoric and standpoint, the official policy documents such as  Strategic and Academic Plans are paradoxically silent concerning economic  incentives of internationalization initiates and programmes.
+</text>
+
+<text page="7" section="*The Official Internationalization Policy*" source="author" id="/page/6/Text/3">
+Despite the President's statement there is no concrete consistency between  different resources of the administration rhetoric about the economic motives and
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="*The Official Internationalization Policy*" source="author" id="/page/7/Text/2">
+influences of internationalization. For example, although the president speaks  about the economic impact of internationalization, the vice-provost believes that  existing initiatives are not driven by economic objectives, specifically money and  tuition that international students bring to the system. In her interview in a  university journal, she commented that internationalization is not driven at all by  the tuition fees that international students have to pay. According to her, the tuition  that Ontario University charge international students equals the tuition levels that  domestic students are charged plus the government grants funding that the  university gets for domestic students ((McMullin as cited in Uzielli, 2011)). The  lack of consistency amongst senior administrators' rhetoric implies that the  administration is not coming forward with regards to their reflections about the  economic motives and influences of internationalization. The discrepancy  between rhetoric and facts, and between different etheric strengthen a hypothesis  that economic motives are an embedded and hidden agenda of internationalization  policies and initiatives.
+</text>
+
+
+<heading page="8" section="*Participants' Perceptions (Administrators and Faculty)*" source="author" id="/page/7/SectionHeader/3" level="3">
+### *Participants' Perceptions (Administrators and Faculty)*
+</heading>
+
+
+<heading page="8" section="*Commercial and Financial Incentives*" source="author" id="/page/7/SectionHeader/4" level="4">
+#### *Commercial and Financial Incentives*
+</heading>
+
+<text page="8" section="*Commercial and Financial Incentives*" source="author" id="/page/7/Text/5">
+Economic and commercial-driven motivations appear to be the central rationale  of internationalization at Ontario University. Specifically from the faculty's points  of view, the story of internationalization seems different and more complex than  the official policies. According to faculty members, except for a few from the  Faculty of Engineering, generating revenue is the first and foremost rationale of  the university for adopting internationalization. The faculty supposed that the  recruitment of more international students, particularly at the undergraduate level,  is a basic policy to bring more financial resources to the institution. The university  tends to think of the classrooms as places that need to be filled with what can be  called 'bums-in-seats' model. Dr Adams, a full professor from the Faculty of  Social Science, for example, stated, 'My students are increasingly becoming my  customers; and that is what business transaction is; the bums in seats; we put as  many bums in seats as possible.' According to Dr Hilton, a full professor from the  Faculty of Arts and Humanities, 'A push to internationalization logic has been  linked to broader set of transformation and change the institution's culture and  commitment.' She continued, 'Internationalization has been a part of broader  agenda to monetizing the university's research, teaching and intellectual assets.'
+</text>
+
+<text page="8" section="*Commercial and Financial Incentives*" source="author" id="/page/7/Text/6">
+According to the faculty, the university departments commonly do not actively  recruit international students at the graduate level for financial motivations.  However, the faculties believe that at the undergraduate level, the central  objective of internationalization is to make money. Dr Brennon, an associate  professor from the Faculty of Science, for example, commented: '(The)  undergraduate programme in our department is like an open market and foreign  students are the actual customers… The administration sees international students  like a rich source of consumers.' In other words, for most faculty members, it is
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="*Commercial and Financial Incentives*" source="author" id="/page/8/Text/1">
+obvious that the financial factor is the first and foremost rationale for  internationalization, specifically the recruitment of more international  undergraduate students. According to Dr Adams Ontario University sees students  as a revenue-generating activity at the undergraduate level. Dr Tishman, a  department chair from the Faculty of Arts and Humanities believed that money  (economic incentives) is the central part of internationalization rationales. He  commented: 'The university recruits more international students because they  bring more money to us.' Dr Blatt, an associate professor from the Faculty of  Science also commented, 'From the business point of view, it is tempting to  charge 15 thousand dollars instead of five thousand and get more people who pay  the fifteen thousand dollars.' Faculty suppose that the central rationale of the  university in recruiting more international students at the undergraduate level is  finding and replacing some external resources to inject more money to the system  to run the institution. This perspective is consistent with AUCC's (2014) report  indicating that the most important barrier to internationalization development in  Canadian context is lack of funding opportunities. Boes, a full professor from the  Faculty of Science, for example, said:
+</text>
+
+<text page="9" section="*Commercial and Financial Incentives*" source="author" id="/page/8/Text/2">
+'The provincial funding for Ontario universities is declining; they have been  on a decline for 20 years at least. So, in the environment where the provincial  share of funding is going down and will continue to go down and where there is  not a lot of flexibility to raise tuition for domestic students—because that  ultimately is controlled by the provincial government, and there is a political  reason why the administration cannot raise domestic tuition—the (Ontario)  university is seeking more external non-provincial government founding; so if  you talk to the administration, they hope to have more fund raising; so they would  be more aggressive for fund raising; and they go after more billionaires and name  more facilities as far as they can. So the fund raising is big part of it.'
+</text>
+
+<text page="9" section="*Commercial and Financial Incentives*" source="author" id="/page/8/Text/3">
+The community of faculty members, particularly participants from three  faculties (i.e., Social Science, Science, and Arts and Humanities), insisted on the  idea that financial incentives are the primary values driving internationalization  initiatives at Ontario University. According to Dr Boles, an associate professor  from the Faculty of Social Science, for example, international students pay money  to the university for programmes that already have been planned for domestic  students' requirements and needs. According to Dr Tracy, a full professor from the  Faculty of Arts and Humanities, 'Internationalization is about money and nobody  can see the liberal values of education in university anymore.' Dr Adams, a full  professor from the Faculty of Social Science, supposed that internationalization  of campus is driven by an economic engine rather than an educational engine. He  added: 'The economic engine has to do with the fact that foreign students on our  campus pay two or three times as much school (tuition) fees than the Canadian  students.'
+</text>
+
+<text page="9" section="*Commercial and Financial Incentives*" source="author" id="/page/8/Text/4">
+There is discrepancy between what administrators say and what faculties perceive  about the rationales of recruitment of international students. The faculty challenged  the business attitudes of the university administration towards internationalization and  international students. They believe that the university has been selling postsecondary
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="*Commercial and Financial Incentives*" source="author" id="/page/9/Text/2">
+credentials to the world through internationalization like a commercial project. Dr  Hilton, an associate professor from the Faculty of Arts and Humanities, commented:  'I think our university administration sees international students as cash cows and of  course, provincial government sees them in that way.' She believed that this is the  disappointing part of internationalization, viewing foreign students like revenue  generators. She continued her criticism by saying that: 'It is so sad if provincial and  federal governments say universities have to raise their own money; it is so sad when  universities charge international students three times or whatever more than our  students.' Dr Levinson an associate professor from the Faculty of Arts and Humanities  was suspicious because he supposed that internationalization is a business project of  the present government. He said: 'I try not to be an ideological-driven faculty  (member), but in terms of values promoted by internationalization I am very sceptical  and actually quite critical at the same time; that is a political-business agenda, not a  real education plan.' Therefore, the faculty perceptions are that the university  administration's first and primary concern is not recruiting the best and brightest  international undergraduate students. Rather, they are interested in their wealthy  backgrounds and the finances they can generate from them. Indeed, this is consistent  with Coates's and Morrison's (2011, p. 215) observations that 'universities in Ontario  are chasing foreign students from around the world.'
+</text>
+
+<text page="10" section="*Commercial and Financial Incentives*" source="author" id="/page/9/Text/3">
+According to administrators, it is true that international students contribute  significantly to the Canadian economy, but in most departments such as  Engineering and Science all graduate students are funded by their departments. Dr  Saeedi, a department chair from the Faculty of Engineering thought that making  money is not the main motivation for the graduate programme. According to him,  they have to be recruiting talented people to do their work. He commented, 'We  want top international students in our labs; because our labs need them.' According  to the participants recruiting international students to work in the departments'  labs could be an example of academic-research rationales driving  internationalization initiatives at Ontario University. For Dr James, an associate  dean from the Faculty of Science, there is a possibility of the institution trying to  make money through international students' tuition, but there isn't any pressure  from the university and senior administration on departments to take more  graduate international students in order to increase the university finances. Dr  Santos, a department chair from the Faculty of Social Science observed that  probably the university is making some money from the undergraduate side,  whoever, only 5 per cent of their undergraduate population comes from overseas.
+</text>
+
+
+<heading page="10" section="*Research and Academic Rationales *" source="author" id="/page/9/SectionHeader/4" level="4">
+#### *Research and Academic Rationales *
+</heading>
+
+<text page="10" section="*Research and Academic Rationales *" source="author" id="/page/9/Text/5">
+Internationalization has a different meaning for administrators and faculty.  According to the perceptions of research participants, specifically from the  administrators' points of view, research and academic purposes is one the key  rationales of internationalization at Ontario University. Collaboration and  partnerships with international partners in global research projects is the main  (and foremost) component of this rationale. According to Dr Birdwell, a governing  board member, for example, the university cannot be competitive at any level 'if  it does not have meaningful collaboration and engagement beyond local and
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="*Research and Academic Rationales *" source="author" id="/page/10/Text/1">
+national borders.' Dr Dishke, a senate member, supposed that having international  research collaboration with top tier institutions of the world would provide great  opportunities for Ontario University. According to him, 'Universities that draw  only from local talent pools may be missing out on opportunities to share  knowledge and learn from a broader set of life and cultural experiences.' Dr  Smith, another senior administrator, verified Dr Dishke's perception. He supposed  that 'the expansion of international partnerships with foreign research institutes  and hiring senior university officials with a dedicated internationalization  mandate' creates big opportunities for the community. According to Dr Miller,  another senior administrator, Ontario University needs an international partnership  plan that develops more collaboration with the overseas partners and enables the  university researchers and students to be connected with them internationally.  According to her, research collaboration is an inevitable part of the university's  past, current and future component of internationalization. 'It is years and maybe  decades that this university has been doing international research and collaborating  with the people around the globe on matters that have been important', said Dr  Miller. She added that the university scholars has been translating its research and  mobilizing the knowledge and republishing in international journals through  representing their research in conferences.
+</text>
+
+<text page="11" section="*Research and Academic Rationales *" source="author" id="/page/10/Text/2">
+Internationalizing the curriculum and increasing the quality and effectiveness  of the learning–teaching process is yet another component of the research and  academic rationale of internationalization at Ontario University. According to  administrators and also participants from the Faculty of Engineering, international  graduate students make different contributions to the Canadian academy and  Canadian university campuses. Their main contribution is the carrying out of  departments' research projects and enriching the diversity and productivity of  learning processes and classrooms. In the graduate programmes, particularly in  engineering and science departments, international students are recruited to assist  faculty to conduct their research projects. Dr Vig, an associate professor from the  Faculty of Engineering, believed that international graduate students do not bring  extra money to his department, but are a major source of impacting faculty  research. He commented, 'Many of our research projects and publications would  not have happened if my colleagues and I did not have international graduate  students accompanying us in our research projects.' Dr Beardslee, a full professor  from the same faculty echoed Dr Vig's views, by stating, 'International graduate  students conduct most of the data collection in our research programmes. So, any  faculty member in engineering who is successful, he is successful largely because  he has a team of graduate students who is working either in his lab or on individual  thesis projects that fit in his overall research programme.' According to Dr Barr,  an associate professor from the Faculty of Science, most of his and his colleagues'  publications are co-authored with graduate students and post-doctoral fellows. He  commented, 'They (international students and fellows) are a good source of  trainees and workers that we can use in our research labs, research groups and  courses.' Dr Sameti, an associate professor from the Faculty of Engineering  believed that his 'department recruits international students simply because they  have strong academic promise and because of mutual interests.'
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="*Research and Academic Rationales *" source="author" id="/page/11/Text/2">
+According to Dr Anderson, an associate professor from the Faculty of  Engineering, the university's president has made and pushed to increase the  international student population on campus for research and academic reasons  and rationales. He said: 'I am sure, and you may be aware, that I do not think our  president is pushing that (internationalization) from a money making point of  view. I think the president is pushing that because of the academic values added  of having international students here.' At the same time, a few faculty members,  however, believed that it would partly be a self-concerned mode of  internationalization if some departments hire international students for doing  faculty's research projects. Dr Boes, a full professor from the Faculty of Science  summed up this situation by stating, 'The selfish mode is that if we can recruit top  quality research graduate students or fellows then the research productivity of  department goes on.' The selfish mode that Dr Boes refers to implies that the  university does not accept any responsibility for the career growth of international  students after graduation. Needless to say that international students are culturally  more docile and academically dependent on their mentors' decisions and interests,  particularly in the areas of engineering and science.
+</text>
+
+
+<heading page="12" section="*Visibility and Profile Status*" source="author" id="/page/11/SectionHeader/3" level="4">
+#### *Visibility and Profile Status*
+</heading>
+
+<text page="12" section="*Visibility and Profile Status*" source="author" id="/page/11/Text/4">
+Building a high profile brand name internationally in order to attract the brightest  and best people is a significant rationale for Ontario University. Securing and  increasing national prestige and building international profile and reputation are  the main components of this rationale. Specifically from the viewpoint of faculty,  visibility and profile status appear to be major motivations for internationalization.  They believed that internationalization provides a rationale for going beyond  local vision and regional approach of higher education. For this purpose, Ontario  University needs a significant population of international students, researchers  and faculty who have an international mindset. According to the faculty, a hidden  agenda of the university policymakers is that they need to break out of the regional  mindset and develop the international profile of the institution. This is a mission  that most big successful universities such as Oxford and Harvard in the world  have achieved already. Dr Chao, a full professor from the Faculty of Social  Science, for example, commented, 'It is important in a sense that the university  wants to be widely recognized at the global level. I do not think any institution  wants to be exclusively a provincial or regional sort of institution; we need to  have a high profile; insofar as it deserves recognition, I like it, internationally.'  According to most participants rebranding Ontario University and making its  professional image visible outside of the country and province is central amongst  the internationalization rationales. Dr Pierce, a full professor from the Faculty of  Social Science, for example, commented, 'The (public) university has rebranded  to provide a more consistent and professional image to the outside world.'
+</text>
+
+<text page="12" section="*Visibility and Profile Status*" source="author" id="/page/11/Text/5">
+According to the administrators, one of the central concerns of public  universities to acknowledge internationalization as a policy priority is to compete  for national and international prestige and reputation. Senior administration  believed that it is the duty of the administration to hold and increase the university's  reputation nationally and internationally. Dr Bryon, a board of governor member,  for example, stated, 'People are hungry for the education that we have in North
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="*Visibility and Profile Status*" source="author" id="/page/12/Text/1">
+America…; so the administration needs to be able to hold on and raise our  reputation, and at the same time make the place attractive for foreigners, and  people outside of the province to come in.' According to Dr Smith, a senior  administrator, most of the time, unhealthy competition drives internationalization.  He commented, 'Each university fights each other; that is another thing that drives  me crazy; … (just) look at Southern Ontario; all universities compete with each  other.' He added, 'Internationalization is being a commercial enterprise.'  According to some administrators, the existing game of competition is not bad per  se, rather, it is a big opportunity for Canada and Canadian institutions. Dr Saeedi,  a department chair from the Faculty of Engineering, for example, stated, I think it  would be very unfortunate for Canadian universities if they ignore this  competition...just from a market point of view…there is a large market there; this  is a big opportunity for the institution, the departments, faculty and whatever.' It  falls into a global capitalist economy of competitiveness.
+</text>
+
+<text page="13" section="*Visibility and Profile Status*" source="author" id="/page/12/Text/2">
+The fact, however, is that even though some faculty members accept that  Ontario University has to be concerned about its visibility internationally, some of  the universities were, more or less, unhappy about that. They suppose that to the  extent that internationalization activities are being done as a form of brand  extension at the expense of scholarly or pedagogical reasons, the community of  faculty would not be interested to be part of the trade agenda of internationalization.  According to Dr Levinson, an associate professor from the same faculty, the  current imperatives to internationalize at Ontario University seems to be not  necessarily the cosmopolitan international nature of scholarship; instead, it is  more about attracting more foreign students. He claims, 'The university  administration are having to expand the brand internationally to get more  international students from Asia and elsewhere.'
+</text>
+
+
+<heading page="13" section="*Sociopolitical Rationales*" source="author" id="/page/12/SectionHeader/3" level="4">
+#### *Sociopolitical Rationales*
+</heading>
+
+<text page="13" section="*Sociopolitical Rationales*" source="author" id="/page/12/Text/4">
+Sociopolitical agendas are yet another reason for acknowledging  internationalization as a policy priority at Ontario University. According to the  participants, losing the best and brightest talents through a brain drain specifically  to the USA is one the major problem that needs to be dealt with before it is too late  as it is destroying the economy of Canada. Internationalization, particularly of  graduate international students, is a very good source of talents to replace  increasing level of brain drain of Canadian talent to other western countries. Dr  Anderson, an assistant professor from the Faculty of Engineering contends that  international students meet the Canadian immigration needs. According to the  faculty, internationalization is a way to attract talented people for the future of the  country. Dr Boes, a full professor from the Faculty of Science, for example, said,  'Internationalization for Canada is a political project in order to bring bright  people in as potential immigrants and residents.' Dr Robinson, a full professor  from the Faculty of Arts and Humanities is also of the opinion that  internationalization includes a political agenda. He commented: 'My assumption  is that both brain drain and brain gain can happen at the same time. What I am  now thinking about internationalization is that definitely it has a political slant; I  think from the point of view of Canada it is a good thing.' According to Dr Sameti,  an associate professor from the Faculty of Engineering, recruiting and training
+</text>
+
+</page>
+<page number="14">
+<figure_group page="14" section="*Sociopolitical Rationales*" source="author" id="/page/13/FigureGroup/224">
+<figure page="14" section="*Sociopolitical Rationales*" source="author" id="/page/13/Figure/2" image="A2.R27_fig03.jpg">[FIGURE: see A2.R27_fig03.jpg]</figure>
+<caption page="14" section="*Sociopolitical Rationales*" source="author" id="/page/13/Caption/3">
+**F igure 1.** Rationales of Internationalization at Ontario University **Source: **Khorsandi Taskoh (2014).
+</caption>
+</figure_group>
+
+<text page="14" section="*Sociopolitical Rationales*" source="author" id="/page/13/Text/4">
+graduate students and making them top engineers for the future of Canada is an  important rationale for engineering departments.
+</text>
+
+
+<heading page="14" section="**Arguments and Analysis**" source="author" id="/page/13/SectionHeader/5" level="2">
+## **Arguments and Analysis**
+</heading>
+
+<text page="14" section="**Arguments and Analysis**" source="author" id="/page/13/Text/6">
+The findings support the existence of different rationales for internationalization  at Ontario University, ranging amongst others, from academic and educational  rationales such as educating global citizens and building capacity for research and  partnership, to economic and administrative rationales, and the quest to enhance  institutional international profile and prestige. The data gathered from my research  identifies four main rationales driving internationalization initiatives: Commercial  and financial, research and academic, visibility and profile, and sociopolitical (see  Figure 1).
+</text>
+
+<text page="14" section="**Arguments and Analysis**" source="author" id="/page/13/Text/7">
+L ike many institutions in the Anglo-American tradition of academia (de Wit,  2011; Knight, 2008; Maringe et al., 2013), Ontario University is largely motivated  by the economic incentives of internationalization. Drawing on the official policy  documents and administrators' perceptions, although the research and academic  objectives and components are theoretically the central rationales driving  international initiatives, the university's administration cannot ignore the tempting  economic benefits of internationalization in practice. In other words,  internationalization rhetorically is associated with academic rationales and
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="**Arguments and Analysis**" source="author" id="/page/14/Text/1">
+activities such as international research, partnership and collaboration, recruitment  of top talented students, mobility programmes, and educational quality and  excellence, but the dominant tendency is mostly related towards commercial and  financial, and visibility and profile rationales. This finding partly, but not wholly,  challenges the AUCC's (2014) results, indicating that educating internationally  knowledgeable graduates and providing local and international students with  international and intercultural knowledge and skills is the core rationales of  internationalization at Canadian institutions. There is, however, an agreement and  connection between AUCC surveys and findings from the official policy  documents and administration's rhetoric of this study. But when it comes to the  faculty's perceptions, a divergence emergences between findings of this study and  AUCC's surveys.
+</text>
+
+<text page="15" section="**Arguments and Analysis**" source="author" id="/page/14/Text/2">
+Remarkably a common sense understanding about the importance of the  visibility and profile rationale of internationalization binds the official policy,  administration rhetoric and participants' perceptions. Ontario University's policy  directly recommends its administration to determine initiatives that can raise the  university's international profile and reputation at home and abroad. Following  this recommendation, the university administration attempted to achieve  international prestige and reputation by different appropriate commitments such  as increasing the number of international undergraduate students, strengthening  intellectual intensity at the institution and selectively expanding the number of  active partnerships with preeminent international research and teaching institutions  (e.g., joint degrees and dual degrees). This finding is consistent with the  observations of some scholars (Kehm &amp; Teichler, 2007; Knight, 2004), pointing  out that one of the main institutional rationales of internationalization is  international rankings, institutional international branding and building a great  public competitive profile. Interestingly, one of the main objectives of building a  high profile brand name and increasing international reputation aims at attracting  the best and brightest minds (students and scholars) on campus and also generate  more revenue at Ontario University.
+</text>
+
+<text page="15" section="**Arguments and Analysis**" source="author" id="/page/14/Text/3">
+There may moreover be different motives behind an initiative or specific  component of internationalization. Another finding of this study reveals the  multiplicity of objectives and variety of motives for the same single component of  each rationale. There may, for example, be only one simple single objective for  continuing to recruit international students. Despite the material rationale and  revenue generation motivation behind international 'undergraduate' student  recruitment, the best international 'graduate' and postdoctoral students,  particularly in the fields of engineering and science, are recruited for scholarly  and research reasons and partly for sociopolitical rationales related to immigration  policy. Therefore, sociopolitical rationales like immigration policy may not be the  university administration's agenda; however it intersects with the federal  government's changes to immigration policy focusing on highly educated and  skilled young immigrants. This discussion is consistent with the IAU's (2012)  finding showing that internationalization may foster the process of immigration  and brain drain and even accelerate it globally. Thus, internationalization can  potentially exert an uneven brain drain/gain scenario that highly promotes human
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="**Arguments and Analysis**" source="author" id="/page/15/Text/2">
+capital flight and the net migration of skilled students to richer nations like  Canada. It deprives many countries from their human potential.
+</text>
+
+<text page="16" section="**Arguments and Analysis**" source="author" id="/page/15/Text/3">
+As was shown in the previous section, while most faculty challenge the  economic and financial rationales of internationalization, particularly concerning  the recruitment of international students, administrators reject such a point and the  criticism. University administrators will never admit to viewing international  students as cash cows, nor will they admit to trade and business revenues as the  central rationale driving internationalization. The correlated challenge and  criticism from the faculty's point of view is about the unequal tuition fees paid by  domestic and international students at Ontario University. From the perspective of  administrators, the fee differential between domestic and international students is  justifiable in the context of Ontario, given that universities, like many other  institutions in Canada, receive government funding and money for domestic  students but not for international students. Universities justify the fee differential  between domestic and international students: First, Ontario University receives  government funding and money for domestic students, but not for international  students. Second, the practice is prevalent in other public universities in Canada  and in the Anglo-American world. The administration claims that Ontario  University is not the only institution to pursue a market-based internationalization  agenda. According to them, other universities in and out of Canada have similar  agenda(s). Third, at the undergraduate level, relative to other top universities in  the rich-Northern countries of the West, Ontario University has a low population  of international students and they bring insignificant funds to the system. As such,  the low numbers of international undergraduate students do not account for a  significant form of economic benefit to Ontario University. Therefore, the  administrators claim that having differential fees for international and local  students is understandable given that it is a common practice across Canada and  elsewhere. According to the administration, if the cost to international students  was different only at Ontario University, it would not be 'normal practice' for the  institution to charge more money for people who are not local.
+</text>
+
+<text page="16" section="**Arguments and Analysis**" source="author" id="/page/15/Text/4">
+Arguably, the economic and financial rationale as a dominant motive appears  to be worrisome for the community. This is because faculty members believe that  the institution has been approaching postsecondary education with a business  mindset, rather than from the perspective of educational rationales of schooling.  This trend of internationalization is favouring rich students over deserving ones.  It is clear to me that the community of faculty and scholars had a negative attitude  to internationalization and particularly the university's inclination to commercial  rationales and business profits. They believe that the current discourse on  internationalization departs too much from the real reasons they have been  recruited as professors and scholars to teach students or conduct academic  research. This is consistent with other scholars' observations, indicating that the  postsecondary education sector is seen as a factor in ensuring economic  productivity (Bok, 1982; Giroux, 2012; Marginson, 2013; Rizvi &amp; Lingard,  2010). Within this commercial framework, higher education institutions have, as  Slaughter and Rhoades (2004) observed, become international drivers for revenue  generation since profit has become prioritized over the core educational activities
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="**Arguments and Analysis**" source="author" id="/page/16/Text/1">
+of institution. Likewise, the finding from my study supports the claim that  internationalization seems to be a key component of the global marketplace for  higher education in which brand name institutions sell their products (i.e.,  credentials and certifications) to students from the developing world.
+</text>
+
+<text page="17" section="**Arguments and Analysis**" source="author" id="/page/16/Text/2">
+The last point of the section is the presence of divergent perceptions and  attitudes towards the rationales and agendas of internationalization amongst  participants from the Faculty of Engineering and the other three faculties.  Participants from the Faculty of Engineering were more optimistic about  internationalization initiatives as compared to participants from the other faculties.  This finding may elicit thoughts as to why participants from some faculties may  be more optimistic about internationalization than others. One of the reasons is  that participants from the Faculty of Engineering is the most involved in  international activities and participants than other faculties, particularly Faculty  of Arts and Humanities has been the least involved faculty. In other words,  participants from the Faculty of Engineering is more optimistic because it is  favoured by actual political economy in the west, based on tangible revenue  generating productivity. It is positive because it has benefited and is privileged by  different components and activities of internationalization, compared to scholars  from other faculties at Ontario University. A couple of the research participants  echoed this point. For instance, Dr Boles, an associate professor from the Faculty  of Social Science commented, 'If you study or teach in the areas of, for example,  humanities, sociology and many social sciences, my sense as an insider is that you  will not be at the first stage of internationalization priority now.' From this  perspective, it is important to mention that faculties could be divided into two  sections of 'more' international and 'less' international. Subsequently, the uneven  engagement of departments and individuals with internationalization activities  appears to be the main reason for the divergent perceptions amongst participants.  This perspective is consistent with Warwick and Moogan's (2013) research  showing that there are extensive variations in practice in the degree and  implementation of internationalization initiatives between departments and  between faculties at the same university.
+</text>
+
+
+<heading page="17" section="**Conclusion**" source="author" id="/page/16/SectionHeader/3" level="2">
+## **Conclusion**
+</heading>
+
+<text page="17" section="**Conclusion**" source="author" id="/page/16/Text/4">
+This study acknowledges internationalization as a core element of policy  initiatives at Ontario University which is based on different rationales ranging  from the commercial and economic, and sociopolitical to the academic and  educational and profile-building components. There are, however, many  contradictions and different perceptions about the rationales between the research  participants' perceptions, the rhetoric of the administration supposedly based on  official policies. According to the official university policy and administrators'  rhetoric, the main rationale for internationalization is the enrichment of the  university's community in terms of educational, academic cultural diversity.  Conversely, faculty members believe that the primary goal of internationalization
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="**Conclusion**" source="author" id="/page/17/Text/2">
+is generating revenue, branding and extending the profile of the university in  practice. Taking all that into account, this study concludes that commercialization  is the dominant trend (if not the only trend) influencing and governing  internationalization at Ontario University. From this perspective,  internationalization is evaluated as an objective in itself. In other words, despite  different rationales and great diversity, this study identifies that this particular  university has, more or less, similar concerns with other universities in the rich-Northern countries of the West.
+</text>
+
+<text page="18" section="**Conclusion**" source="author" id="/page/17/Text/3">
+For internationalization policymaking, Ontario University and the institutions  of higher education in Canada need to reimagine their enthusiasm for international  initiatives because the over enthusiasm for commercial objectives and rationales  can jeopardize the academic and educational objectives of the university. The  university administrators need an imaginary which recognizes the university as an  academic and sociocultural enterprise. Accordingly, the central goals of  internationalization activities should be educating new generations of worldaware students who are globally competitive, academically creative and critical,  and also politically committed to the values of democracy, diversity and equity as  the university purports in its own rhetoric. Perhaps university administrators  would resonate with this imaginary and feel that such a mission requires a business  approach to ensure that the university is financially strong enough to carry on this  mission. But the whole argument is that the administrators of higher education in  Ontario need to move from policy (text and rhetoric) to praxis. They need to move  towards all those good things that are written in policy texts and university  administrators like to talk about, such as diversity, mobility, exchange  opportunities, educational and intellectual values, global awareness and  international impact, among others. Universities need to show more commitment  to collaboration, serving the public good, and pursuing persuasive inclusiveness  and scholarly excellence. Such a commitment to praxis can largely decrease the  present misconceptions and tensions that pervade between the administrators'  understanding of internationalization and the expectations and observations of  faculty who are involved in international activities.
+</text>
+
+
+<heading page="18" section="**Acknowledgement**" source="author" id="/page/17/SectionHeader/4" level="2">
+## **Acknowledgement**
+</heading>
+
+<text page="18" section="**Acknowledgement**" source="author" id="/page/17/Text/5">
+The main part of data in this paper is based on the author's PhD dissertation entitled 'A  critical policy analysis of internationalization in postsecondary education: An ontario case  study' defended in the University of Western Ontario.
+</text>
+
+
+<heading page="18" section="**Declaration of Conflicting Interests**" source="author" id="/page/17/SectionHeader/6" level="2">
+## **Declaration of Conflicting Interests**
+</heading>
+
+<text page="18" section="**Declaration of Conflicting Interests**" source="author" id="/page/17/Text/7">
+The author declared no potential conflicts of interest with respect to the research, authorship  and/or publication of this article.
+</text>
+
+
+<heading page="18" section="**Funding**" source="author" id="/page/17/SectionHeader/8" level="2">
+## **Funding**
+</heading>
+
+<text page="18" section="**Funding**" source="author" id="/page/17/Text/9">
+The author received no financial support for the research, authorship and/or publication of  this article.
+</text>
+
+</page>
+<page number="19">
+
+<heading page="19" section="**References**" source="author" id="/page/18/SectionHeader/1" level="2">
+## **References**
+</heading>
+
+<text page="19" section="**References**" source="author" id="/page/18/Text/2">
+Allan, E. J., Iverson, S. V., &amp; Roper-Huilmsn, R. (Eds.). (2010). *Reconstructing policy in * *higher education*. Routledge.
+</text>
+
+<list page="19" section="**References**" source="author" id="/page/18/ListGroup/211">
+- Altbach, P. G. (2002). Perspectives on international higher education. *Change*, *34*(3),  29–31.
+- Association of Universities and Colleges of Canada (AUCC). (2014). *Canada's Universities * *in the World: AUCC Internationalization Survey.* https://www.univcan.ca/wp-content/ uploads/2015/07/internationalization-survey-2014.pdf
+- Beck, K. (2012). Globalization/s: Reproduction and resistance in the internationalization  of higher education. *Canadian Journal of Education*, *35*(3), 133–148.
+- Bok, D. (1982). *Beyond the ivory tower: Social responsibilities of the modern university.* Harvard University Press.
+- Borman, K. M., Clarke, C., Cotner, B., &amp; Lee, R. (2006). Cross-case analysis. In J. L.  Green, C. Camilli, &amp; P. B. Elmore (Eds.), *Handbook of complementary methods in * *education research *(pp. 123–139)*. *Lawrence Erlbaum Associates.
+- Buckner, E. (2019).The internationalization of higher education: National interpretations of  a global model.* Comparative Education Review, 63*(3), 315–336. doi:10.1086/703794
+- Buckner, E., &amp; Stein, S. (2019). What counts as internationalization? Deconstructing the  internationalization imperative.* Journal of Studies in International Education, 24*(2),  151–166*. *https://doi.org/10.1177/1028315319829878
+- Chakma, A. (2010). Why International Students scholarships are good for Canada. *The * *Globe and Mail*. https://www.theglobeandmail.com/opinion/why-internationalstudent-scholarships-are-good-for-canada/article1241333/
+- Chakma, A., Bisson, A., Côté, J., Dodds, C., Smith, L., &amp; Wright, D. (2012).* International * *education: A key driver of Canada's future prosperity*. Government of Canada. https:// www.international.gc.ca/education/assets/pdfs/ies_report_rapport_sei-eng.pdf
+- Chesler, M. A., &amp; Crowfoot, J. (2000). An organizational analysis of racism in  higher education. In M. C. Brown, II (Ed.), *ASHE reader series: Organization &amp; * *governance in higher education* (5th ed., pp.436–469). Pearson Custom Publishing.
+- Coates, K. S., &amp; Morrison, B. (2011). *Campus confidential: 100 startling things you don't * *know about Canadian universities.* Lorimer Press.
+- Council of Ministers of Education, Canada (CNEC). (2011). *Bringing education in Canada * *to the world, bringing the world to Canada: An international education marketing * *action plan for provinces and territories. Council of the Federation*. http://www.cmec. ca/Publications/Lists/Publications/Attachments/264/COF_Bringing_Ed_to_Canada_ Eng_final.pdf
+- De Wit, H. (2011). *Trends, issues and challenges in internationalization of higher * *education*. Centre for Applied Research on Economics and Management, Hogeschool  van Amsterdam.
+- Denzin, N. K., &amp; Lincoln, Y. S. (Eds.). (2005). Introduction: The discipline and practice of  qualitative research. In *The sage handbook of qualitative research *(3rd ed., pp. 1–32).  SAGE Publications.
+- Department of Foreign Affairs and International Trade Canada. (DFAIT). (2012a).  *International education: A keydriver of Canada's future prosperity* (Final Report).  Advisory Panel on Canada's International Education Strategy. http://www.international. gc.ca/education/report-rapport/strategy-strategie/index.aspx?view=d
+- DFAIT. (2012b). Economic impact of international education in Canada. http://www. international.gc.ca/education/report-rapport/economic-impact-economique/index. aspx?lang=eng&amp;view=d
+</list>
+
+</page>
+<page number="20">
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/230">
+- Fisher, D., Rubenson, K., Jones, G., &amp; Shanahan, T. (2009). The political economy of postsecondary education: A comparison of British Columbia, Ontario, and Québec. *Higher * *Education*, *57*, 549–566.
+- Giroux, H. A. (2012). *Education and the crisis of public values: Challenging the assault on * *teachers, students, and public education. *Peter Lang.
+- IAU. (2012). Affirming academic values in internationalization of higher education:  A call for action. https://iau-aiu.net/IMG/pdf/affirming_academic_values_in_ internationalization_of_higher_education.pdf
+- International Association of Universities (IAU). (2005). Key results: 2005 IAU global  survey on internationalization. https://iau-aiu.net/IMG/pdf/key_results_2005_1.pdf
+- Jones, G. A., &amp; Oleksiyenko, A. (2011). The internationalization of Canadian university  research: A global higher education matrix analysis of multi-level governance. *Higher * *Education*, *61*(1), 41–57.
+- Kehm, B. M., &amp; Teichler, U. (2007). Research on internationalization in higher education.  *Journal of Studies in International Education, 11*(3–4), 260–273.
+- Khorsandi Taskoh, A. (2014). *A critical policy analysis of internationalization in * *postsecondary: An Ontario case study.* The University of Western Ontario. http://ir.lib. uwo.ca/cgi/viewcontent.cgi?article=3340&amp;context=etd
+- Knight, J. (2004*). *Internationalization remodeled: Definitions, approaches and rationales*. * *Journal of Studies in International Education, 8, *5*–*31.
+- ———. (2008). *Higher education in turmoil: The changing world of internationalization.* Sense Publishers.
+- Marginson, S. (2013). The impossibility of capitalist markets in higher education. *Journal * *of Education Policy*, *28*(3), 353–370.
+- Maringe, F. &amp; Gibbs, P. (2006). *Marketing higher education: Theory and practice*. Open  University Press.
+- Maringe, F., Foskett, F., &amp; Woodfield, S. (2013). Emerging internationalization models in  an uneven global terrain: Findings from a global survey. *Compare*, 43(1), 9–36.
+- Marshall, C. (Ed.). (1997). *Feminist critical policy analysis: A perspective from primary * *and secondary schooling.* Falmer Press.
+- Matthews, J. (2002). International education and internationalization are not the same  as globalisation: Emerging issues for secondary schools. *Journal of Studies in * *International Education, 6*(4), 360–390.
+- McNeil, R. (2013). *Canadian university presidents on sustainability: Definitions, roles and * *ways forward* (Unpublished Master's thesis, Dalhousie University, Halifax, Canada).
+- Merriam, S. B. (1998). *Qualitative research and case study applications in education.* Jossey-Bass.
+- Ozga, J. (2000). *Policy research in educational settings: Contested terrain. *Open  University Press.
+- Patton, M. Q. (2002). *Qualitative research and evaluation methods *(3rd ed.). SAGE  Publications.
+- Prunty, J. J. (1985). Signposts for a critical educational policy analysis. *Australian Journal * *of Education,* *24*(2), 133–140.
+- Renaud, J. (2012). Canada needs (international) talent. *Media Relations.* https:// mediarelations.uwo.ca/2012/08/14/canada-needs-international-talent/
+- Rizvi, F., &amp; Lingard, B. (2010). *Globalizing educational policy.* Routledge.
+- Rumbley, L. E., Hudson, R., &amp; Sandstrom, A.M. (2019). 'Successful' internationalization:  European insights. *International Higher Education*, *98*, 10–12. https://ejournals. bc.edu/index.php/ihe/article/view/11185
+</list>
+
+</page>
+<page number="21">
+<text page="21" section="**References**" source="author" id="/page/20/Text/1">
+Slaughter, S., &amp; Rhoades, G. (2004). *Academic capitalism and the new economy: Markets, * *state and higher education.* Johns Hopkins University Press.
+</text>
+
+<list page="21" section="**References**" source="author" id="/page/20/ListGroup/168">
+- Talbot, A. (2012). Targets help define what 'internationalization' means. *Western News. * https://news.westernu.ca/2012/03/targets-help-define-what-internationalizationmeans/
+- Tarc, P. (2013). *International education in global times: Engaging the pedagogic*. Peter  Lang.
+- The University of Western Ontario (2009). *Strategic plan for internationalization*, 2009- 2012. https://president.uwo.ca/pdf/strategic-plan/r0906sen_ann1.pdf
+- The University of Western Ontario (2010). *Engaging the future: Update on the strategic * *plan*. http://www.uwo.ca/univsec/board/minutes/2010/r1009sen_ann1.pdf
+- Tight, M. (2019). Globalization and internationalization as frameworks for higher education  research.* Research Papers in Education, 1–23.* doi:10.1080/02671522.2019.1633560.
+- Travis, H. (2009). Planting the seeds for internationalization. *Western News*. https://news. westernu.ca/2009/09/planting-the-seeds-for-internationalization/
+- Uzielli, J. (2011). Western focuses on internationalization. *The Gazette.* https:// westerngazette.ca/news/western-focuses-on-internationalization/article_e796c551- 6117-53af-aefc-c949bdb09e2e.html
+- Warwick, P. &amp; Moogan, Y. J. (2013). A comparative study of perceptions of  internationalization strategies in UK universities. *Compare*, *43*(1), 102–123.
+- Weimer, D. L. (1998). Policy analysis and evidence: A craft perspective. *Policy Studies * *Journal*, *26*(1), 114–128.
+- Yin, R. K. (2006). Case study methods. In J. L. Green, G. Camilli &amp; P. B. Elmore (Eds.),  *Handbook of complementary methods in education research* (pp. 111–122). Lawrence  Erlbaum Associates.
+- Yin, R. K. (2013). *Case study research: Design and methods* (5th ed.). SAGE Publications. Zha, Q., Wu, H., &amp; Hayhoe, R. (2019). Why Chinese universities embrace  internationalization: An exploration with two case studies.* Higher Education, 78*(4),  669–686. doi:10.1007/s10734–019–00364.
+</list>
+
+
+<heading page="21" section="**Author's bio-sketch**" source="author" id="/page/20/SectionHeader/13" level="2">
+## **Author's bio-sketch**
+</heading>
+
+<text page="21" section="**Author's bio-sketch**" source="author" id="/page/20/Text/14">
+**Ali Khorsandi **Taskoh is Assistant Prof. of Department of Educational  Administration &amp; Planning affiliated with Allameh Tabataba'i University (ATU),  Tehran, Iran. He got his Ph.D. degree in Educational Policy Studies from the  University of Western Ontario, CANADA. His areas of interest for research and  teaching fall within the areas of Educational Policy, Higher Education,  Internationalization of Education, Critical Policy Analysis, Comparative  Education, and Leadership in HE.
+</text>
+
+</page>
+</paper>

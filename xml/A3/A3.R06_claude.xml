@@ -1,0 +1,341 @@
+<paper source_file="A3.R06" title="Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute" total_pages="6" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/2" image="A3.R06_fig01.jpg">[FIGURE: see A3.R06_fig01.jpg]</figure>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/3" image="A3.R06_fig02.jpg">[FIGURE: see A3.R06_fig02.jpg]</figure>
+
+
+<heading page="1" section="Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute" source="author" id="/page/0/SectionHeader/4" level="1">
+# Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute
+</heading>
+
+<text page="1" section="Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute" source="author" id="/page/0/Text/5">
+Noor Akief Al-Dabbas, Ph.D.^(1) ; Derar Al-Daboubi, Ph.D.^(2) ; and Qais Enizan Al sharaiyri, Ph.D.^(3)
+</text>
+
+<text page="1" section="Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute" source="author" id="/page/0/Text/6">
+Abstract: This study delves into the most important aspects of the procedures the arbitral tribunal should consider when inspecting the subject matter of the dispute. The main objective of such inspection is to derive evidence to render a decision for all or part of the parties' claims, in the absence of the relevant rules under the Jordanian Arbitration Law and the United Nations Commission on International Trade Law (UNCITRAL) Model Law for International Commercial Arbitration. Therefore, the study resorted to the Rules on the Taking of Evidence in International Arbitration, the International Bar Association (IBA) has developed, which address the procedural controls for examination in a general sense. The authors also had recourse to the general procedural rules in the Jordanian law. The study concentrated on clarifying the legal basis of the procedural controls, the formality of preparing the inspection's record, and the various procedural and financial stages of the inspection. The study also discussed the controls seeking assistance of the experts and witnesses in this respect. The study found that although the rules of the procedural controls of the inspection were not expressly provided, the failure to comply with such implied rules may expose the arbitral award to a procedural defect that may lead to the invalidity of such an award. Therefore, the study recommends that such controls should be regulated in the Jordanian Arbitration Law, the designated rules of each arbitration institution and centers and the UNCITRAL Model Law. DOI: [10.1061/JLADAH.LADR-1186](https://doi.org/10.1061/JLADAH.LADR-1186). © 2024 American Society of Civil Engineers.
+</text>
+
+<text page="1" section="Procedural Controls of the Inspection Undertaken by an Arbitral Tribunal for the Subject Matter of the Dispute" source="author" id="/page/0/Text/7">
+Author keywords: Procedural controls; Inspection; Arbitral tribunal; United Nations Commission on International Trade Law (UNCITRAL) model law.
+</text>
+
+
+<heading page="1" section="Introduction" source="author" id="/page/0/SectionHeader/8" level="2">
+## Introduction
+</heading>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/9">
+Inspection plays a decisive role in the context of arbitration cases, especially in those where the subject matter is not related to contractual disputes, whether in terms of its interpretation or application of its provisions. The influence of inspection also extends to realistic and technical aspects, as inspection is considered as one of the prima facie proofs that help the arbitral tribunal to rule on the case, among the other relevant evidence, in addition to its role in assisting the arbitral tribunal to adopt the correct approach under the contradiction of the allegations invoked by the litigants.
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/10">
+The necessity of the inspection lies also in the expertise of the arbitrators who conduct it; who are supposed to have technical expertise and specialty in the subject of the dispute, as these characteristics are deemed to be the basis on which the arbitrators have been chosen. Most of the national legislations that belong to the school of the private law system (civil law) were keen to regulate some of the inspection controls applied in the context of the national judiciary, which has been set out in the Code of Civil Procedure, as seen under provisions of the Jordanian law. At the same time, most national arbitration legislation, among other things, the Jordanian Arbitration Law, did not regulate the procedural controls of the
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/14">
+Note. This manuscript was submitted on January 4, 2024; approved on August 26, 2024; published online on December 11, 2024. Discussion period open until May 11, 2025; separate discussions must be submitted for individual papers. This paper is part of the Journal of Legal Affairs and Dispute Resolution in Engineering and Construction, © ASCE, ISSN 1943-4162.
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/15">
+inspection. The Jordanian Arbitration Law establishes the authority of the arbitral tribunal to conduct inspections. This provision contrasts with the United Nations Commission on International Trade Law (UNCITRAL) Model Law for International Commercial Arbitration, which does not explicitly address the tribunal's role in conducting inspections. Instead, the UNCITRAL Model Law designates this responsibility to experts appointed by the arbitral tribunal, as outlined in the UNCITRAL rules for international arbitration.
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/16">
+The rules of evidence in the international arbitration context have been regulated by the International Bar Association (IBA), one of the most important guiding references of the international arbitration system. However, IBA rules have only superficially addressed the inspection procedural controls. The importance of this study lies in its examination of the lack of clarity in the rules of international and national rules. Therefore, the study will explain the scope of the procedural controls of the inspection in the arbitration cases, the controls the arbitral tribunal must abide by to avoid procedural defects that may invalidate, and the extent to which the arbitral tribunal is entitled to seek the assistance of experts or witnesses when conducting the inspection.
+</text>
+
+
+<heading page="1" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/0/SectionHeader/17" level="2">
+## Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules
+</heading>
+
+<text page="1" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/0/Text/18">
+Although the UNCITRAL Model Law for International Commercial Arbitration, the guiding reference for most of the national arbitration legislation, does not explicitly prescribe the authority of arbitral tribunal to conduct the inspection; however, it has conferred such authority upon the experts who are appointed by the arbitral tribunal. UNCITRAL Model Law also does not regulate the procedural controls on the inspection conducted by the arbitral tribunal. This can be derived from the Article 26(b), which notes that the
+</text>
+
+<footnote page="1" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/0/Footnote/11">
+^(1) Faculty of Law, Al-Ahliyya Amman Univ., Amman 19328, Jordan. Email:[ n.aldabbas@ammanu.edu.jo](mailto:n.aldabbas@ammanu.edu.jo) ^(2)
+</footnote>
+
+<footnote page="1" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/0/Footnote/12">
+Faculty of Business and Law, British Univ. in Dubai, Dubai 345015, United Arab Emirates (corresponding author). ORCID:[ https://orcid.org](https://orcid.org/0000-0002-6278-6374) [/0000-0002-6278-6374.](https://orcid.org/0000-0002-6278-6374) Email:[ derar.aldaboubi@buid.ac.ae](mailto:derar.aldaboubi@buid.ac.ae) ^(3)
+</footnote>
+
+<footnote page="1" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/0/Footnote/13">
+Professor, Faculty of Law, Philadelphia Univ., Amman 19392, Jordan. Email:[ dr_qais_law@yahoo.com](mailto:dr_qais_law@yahoo.com)
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/1">
+arbitral tribunal may "require a party to give the expert any relevant information or to produce, or to provide access to, any relevant documents, goods, or other property for his inspection."
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/2">
+The rules of UNCITRAL international arbitration are consistent with the approach of the model law. This can be derived from Article 29(3) of the model law which stipulates that, "The parties shall give the expert any relevant information or produce for his or her inspection any relevant documents or goods that he or she may require of them. Any dispute between a party and such an expert as to the relevance of the required information or production shall be referred to the arbitral tribunal for a decision."
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/3">
+Although the Jordanian Arbitration Law No. 31 of 2001, which was amended in 2018, has followed the same approach of the UNCITRAL Model Law, this law has addressed the inspection in Article 32 (I). According to this article, "The arbitral tribunal may, by itself or at the request of one of the parties to the arbitration, decide to inspect and seek for the experts' assistance in accordance with the provisions of Article (34) of this law."
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/4">
+However, Article 7 of the International Bar Association (i.e., IBA Rules on the Taking of Evidence in International Arbitration), states that "Subject to the provisions of Articles 9.2 and 9.3, the Arbitral Tribunal may, at the request of a Party or on its own motion, inspect or require the inspection by a tribunalappointed expert or a party-appointed expert of any site, property, machinery or any other goods, samples, systems, processes, or documents, as it deems appropriate. The Arbitral Tribunal shall, in consultation with the Parties, determine the timing and arrangements for the inspection. The Parties and their representatives shall have the right to attend any such inspection."
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/5">
+It can be understood from this analysis that although the UNCITRAL Model Law and the UNCITRAL rules do not regulate the inspection that might be conducted by the arbitral tribunal, they have not deprived arbitral tribunal of this right. Although Jordanian law has stipulated that the tribunal may decide to conduct the inspection even if it has been decided to be attached to the experts' opinion, it does not deprive the arbitral tribunal of the right to conduct the inspection independently.
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/6">
+It can be argued that IBA Rules on the Taking of Evidence in International Arbitration have included a provision on the authority of the arbitral tribunal to undertake the duty of inspecting the subject matter of the dispute, whether independently or based on the reports generated by the experts who have been appointed by the arbitral tribunal or have been chosen by the disputing parties. These rules also specify the scope of this inspection, whether in terms of the place, property, machinery, or any other goods, samples, regulations, operations, documents, and other things that might be the subject matter of the dispute brought before the arbitration, and this has been left to be decided on the discretionary power of the arbitral tribunal.
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/7">
+At the same time, these rules draw general procedural controls for the inspection, as they provide that the arbitral tribunal may arrange the date and procedures of the inspection and entitle disputing parties and representatives to attend the inspection. However, these rules do not provide any other procedural details regarding the inspection. Therefore, it is suggested that the rules of inspection procedures the arbitral tribunal independently conducts should not be the same as those designed for the inspection that seeks the assistance of the experts appointed for this purpose.
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/8">
+With respect to the Jordanian Arbitration Law, Article 3(b) of this law declares that, "The legal rules and principles applied in international arbitration shall be considered when interpreting the provisions of this law."
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/9">
+This article provides that the recourse should be made to the rules and principles of international arbitration, provided that the
+</text>
+
+<text page="2" section="Regulating Procedures of Inspection under the UNCITRAL Model Law, the Jordanian Arbitration Law, and International Rules" source="author" id="/page/1/Text/10">
+cases are not regulated in the Jordanian Arbitration Law. Because the Jordanian Arbitration Law does not include any procedural controls for the inspection, it is possible to seek guidance from Article 7 of the IBA Rules on the Taking of Evidence in International Arbitration. This approach will assist in determining the important controls for the inspection, including the requirement and formality of the inspection record, expenses, and costs, then the stages of the inspection and the extent to which experts, witnesses and litigants can be involved.
+</text>
+
+
+<heading page="2" section="Formal Controls for the Record of the Inspection" source="author" id="/page/1/SectionHeader/11" level="2">
+## Formal Controls for the Record of the Inspection
+</heading>
+
+<text page="2" section="Formal Controls for the Record of the Inspection" source="author" id="/page/1/Text/12">
+Despite the lack of provisions of the Jordanian Arbitration Law, the IBA Rules on the Taking of Evidence in International Arbitration, the UNCITRAL Model Law on International Arbitration, and the UNCITRAL Arbitration Rules, the productivity of the inspection that the arbitral tribunal may conduct to derive evidence enhancing its award is hinged on the validity of the arbitration procedures carried out in this regard. One of these formalities is the requirement of evidencing the inspection in a written report [(Al-Alawin 2019)](#page-5-0).
+</text>
+
+<text page="2" section="Formal Controls for the Record of the Inspection" source="author" id="/page/1/Text/13">
+This record must be written with a certain formality, the most important of which is the recording of the names of the arbitral tribunal that has conducted the inspection, the date and time the inspection has been conducted, the attendance of the parties or their representatives [(Morqus 1986)](#page-5-0), the subject matter of the inspection, and whether it has covered the entire arbitration dispute or part of the dispute. Likewise, the report should also include the facts and issues the arbitral tribunal believes are important to be included in the report of inspection, documents or papers that can be used to substantiate specific important facts, and the statements of the parties enhancing the purpose of clarification, if any. The arbitral tribunal may elaborate on the details in the report of the inspection, but they should be careful and preserve the requirement of impartiality, i.e., to not add details can be interpreted as an opinion of the tribunal, a breach that the tribunal must avoid, and hence the tribunal must abide by the requirement of the inspection ([Doug 2020)](#page-5-0). This is because the purpose of the inspection is to ascertain the matter of a specific incident with its technical aspects, according to the knowledge of the arbitrators, which helps in forming evidence for the tribunal as to what it rules in the case ([Wali 2021)](#page-5-0). For example, an inspection conducted about the financial records of a litigant, when found to be confidential, requires that the arbitrators should be more specific in recording the sought evidence that preciously related to the case and avoid recording irrelevant aspects of what they inspected because unnecessary disclosure could harm the reputation or financial stand of the litigant.
+</text>
+
+<text page="2" section="Formal Controls for the Record of the Inspection" source="author" id="/page/1/Text/14">
+Several questions may arise regarding the preparation of the inspection report. Does failure to record the inspection report affect the validity of such inspection? Should the report of inspection be signed by the parties or their representatives? Is the arbitral tribunal obligated to provide the parties with a copy of the inspection report?
+</text>
+
+<text page="2" section="Formal Controls for the Record of the Inspection" source="author" id="/page/1/Text/15">
+As mentioned before, for the purpose of the evidential value of the inspection undertaken by the arbitral tribunal, the report must be written or recorded while the inspection is being conducted. If the tribunal can not record the details of the report while the inspection was going on, the arbitral tribunal is required to prepare a short report contains the important facts of the inspection, provided that it can attach an appendix if it is required so. However, it is not conceivable that the inspection can enjoy the required evidential value if it is not recorded in a report, especially when the circumstance of evidence at the time of inspection could change later. For instance, an inspection of a water leak in a building is important to properly be recorded to address a matter related to defective quality of work,
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="Formal Controls for the Record of the Inspection" source="author" id="/page/2/Text/1">
+where the fact of not recording such a defect within a reasonable time would adversely affect creditability of such evidence.
+</text>
+
+<text page="3" section="Formal Controls for the Record of the Inspection" source="author" id="/page/2/Text/2">
+If the inspection that is carried out and followed with a written report is established on the memory of the arbitrators, or that which has been conducted without records, both shall have no evidential value; however, the arbitral tribunal may rely on such inspection to clearly understand the essence of the dispute, which is acceptable under the arbitration and deemed an advantage that distinguishes arbitration from the state's judiciary.
+</text>
+
+<text page="3" section="Formal Controls for the Record of the Inspection" source="author" id="/page/2/Text/3">
+The evidential value of the inspection report, as generated by the arbitral tribunal, entails that arbitrators should have signed such report. However, it can be argued that the arbitral tribunal should ask disputing parties or their representative to sign the report conducted during the inspection, provided that the inspection has been decided at the request of one or both disputing parties who were intending to prove a specific fact. However, this issue is also a matter of discretion of the arbitral tribunal, depending on whether or not it diminishes the value of the inspection record as evidence in the proof [(Al-Wahhab and Al-Saharawi 2012](#page-5-0)).
+</text>
+
+<text page="3" section="Formal Controls for the Record of the Inspection" source="author" id="/page/2/Text/4">
+As for providing the parties with copies of the inspection record, it varies according to the purpose of the inspection. If, after the inspection, the arbitral tribunal decides to rely on such inspection in its ruling, it must provide the parties to the dispute with a copy of the report of inspection. This is to satisfy requirements of the principle of confronting the parties with evidence. But if the aim of the inspection is the clarification of the essence of the dispute by the arbitral tribunal, is not necessary to provide the parties with a copy of this report.
+</text>
+
+
+<heading page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/SectionHeader/5" level="2">
+## Inspection Stages and Financial Expenses
+</heading>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/6">
+The inspection stages are the steps the arbitral tribunal must follow sequentially to conduct the inspection. The necessity of pointing out these steps lies in the decisive function of the inspection in clarifying the nature of the dispute brought before the arbitral tribunal, which might be of great complexity regarding its subject matter and its amount. In addition to the importance of such a report in clarifying the dispute for lawyers, who may vary in their skills and specialization, there is also its role in illuminating the features of the dispute, which might not easily be identified due to the extended scope of freedom the parties enjoy in the context of the arbitration, a scope that is not the same under the state's judiciary. Article 7 of IBA Rules on the Taking of Evidence in International Arbitration has included some of these stages, like the stage through which the arbitral tribunal coordinates with the disputing parties in order to set the date of the inspection, the relevant arrangements of such inspection, and the attendance of the parties and their representatives. These stages can be classified as follows:
+</text>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/7">
+1. The first stage is when the arbitral tribunal decides to issue its decision to conduct the inspect an arbitration session. This can happen in the presence of the two parties or through a deliberation session the arbitrators may hold without the attendance of the parties, in which the decision is issued to conduct the inspection and move to the object of dispute for inspection. Therefore, it can be argued that due consultation of the parties and assessing the necessity of inspection need to be considered in light of the probable expenses, such as the case where the dispute is related to defects in a building and the property owner alleging that the claimed defects are substantial and require an inspection, while the contractor contests that the defects are minor. Initially, both parties are satisfied to go for the inspection, but after further consultation with the parties, it might be apparent that physical inspection will render the parties exposed to
+</text>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/8">
+excessive cost and challenges resulting in extending the duration of the arbitration. As such, the tribunal may choose to conduct a virtual inspection to the building, along with the participation of parties. The tribunal also determines the location of the inspection, the day and the time of the move, and invites the parties or their representatives and assigns them to inform their witnesses—if there is a necessity for their presence—to attend the inspection during a sufficient time before the date, and leaves the matter of determining it to the tribunal. If one of the parties or its representative does not appear, or they cannot attend on the appointed date, or if the time does not suit them, the person in charge of conducting the inspection shall defer it to another date the tribunal and the parties agree upon later. In addition, clarification of matter of law and facts related to the contractual provisions in question is required as the scope of inspection is defined, such as the argument of considering the alleged defects to fall within acceptable tolerances as per industry standards and the contractual agreement.
+</text>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/9">
+Inspections that require making openings are conceivable for the issues of enabling works and foundation defects that are covered up, which would require opening the exiting works and can involve significant cost.
+</text>
+
+<list page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/ListGroup/395">
+- 2. The second stage is the enforcement of the decision of the arbitral tribunal. It shall take place when the arbitrators move to the place of the subject matter of the dispute. At this stage, the tribunal conducts a physical inspection intended to investigate the subject matter of the dispute. An arbitral tribunal's member can use their experience in order to reveal the reasons behind the subject matter of the dispute between the two parties, and hear a witness or the disputing parties if necessary.
+- 3. The third stage comes after the conclusion of the inspection, where the report will have been prepared at the inspection place, the contents of which are supposed to be prepared by the arbitral tribunal in advance in accordance with specific formalities the arbitral tribunal has decided previously. However, the report must include—as previously mentioned—a minimum amount of information to be relied on as evidence of proof for the relevant cases, which must include the names of the disputing parties, the subject matter of the dispute in question, the names of the arbitral tribunal, the details of the arbitral tribunal's decision of conducting the inspection, the name of those who were delegated to conduct the inspection, or the names of the arbitral tribunal in case it is fully attended, the date and time of the inspection, the attendance of the parties or their representatives, and the subject matter of the inspection. The fact that this report requires a signature from both parties is necessary to avoid any issues and challenges later in the arbitration process.
+</list>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/12">
+As for the expenses of conducting the inspection, the financial matters in the arbitration system in general constitute one of the most important considerations for the parties, as the expenses in arbitration differ from that which the disputing parties may endure in the context of the state's judiciary. In addition to the arbitrators' fees, there is an allocation for other expenses, whether the arbitration is institutional, i.e., through any arbitration center, or free ad hoc arbitration. In each of the two types, the parties are aware that there are other expenses that must be paid in addition to the arbitration fees. However, these additional expenses may be more regulated in institutional arbitration than in ad hoc arbitration [(Doug](#page-5-0) [2020)](#page-5-0), where the arbitration center requires the parties to deposit additional expenses in advance or to pay such expenses later according to predetermined percentages, including the costs of experience.
+</text>
+
+<text page="3" section="Inspection Stages and Financial Expenses" source="author" id="/page/2/Text/13">
+However, most of the rules of the arbitral institutions do not explicitly stipulate the expenses of the inspection, which is the same issue in free arbitration, for which there is often no specific
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="Inspection Stages and Financial Expenses" source="author" id="/page/3/Text/1">
+reference for estimating the expenses in general, including the inspection expenses. However, there is no problem if the subject matter of the dispute for arbitration is in the same city that is the seat of the arbitration center, or in which the arbitration sessions are held, or the place of residence of the arbitrators. The matter may differ if the subject matter of the inspection is in another country or another city that is far from the place where the sessions are held, which requires to cover the expenses of travel and accommodation. Here, these expenses and costs must be determined by the arbitral tribunal in an approximate manner, and the parties to the arbitration must pay them equally before conducting the inspection.
+</text>
+
+<text page="4" section="Inspection Stages and Financial Expenses" source="author" id="/page/3/Text/2">
+The tribunal's decision regarding these expenses shall be in the same session in which they decide to conduct the inspection. If the arbitration is institutional, the responsible party must deposit these expenses with the arbitration center. If the arbitral tribunal incurs additional expenses, it may order the two parties to pay them according to a subsequent decision. These expenses are not only related to the arbitral tribunal, but rather to those who participate in facilitating the duty of the arbitrators while conducting the inspection, such as witnesses, experts, and others. As for the expenses of agents and representatives of the disputing parties to the dispute, each party shall bear the expenses of its agent and whoever attends on its behalf. As previously mentioned, the responsible party for the inspection expenses must deposit them before the time of inspection, and the arbitral tribunal has the right to amend these expenses if it indicates the reasons for this amendment, which may be at the request of the parties. Hence, it is advisable for Jordanian law and arbitration institutions to consider regulating the inspection procedures carried out by arbitral tribunals in line with the IBA Rules on the Taking of Evidence in International Arbitration and international arbitration practices. Additionally, it is recommended that the IBA Rules on the Taking of Evidence in International Arbitration incorporate specific procedural guidelines for arbitral tribunals to conduct inspections in arbitration cases.
+</text>
+
+
+<heading page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/SectionHeader/3" level="3">
+### Controls for Seeking Help from Experts during the Inspection
+</heading>
+
+<text page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/Text/4">
+The arbitral tribunal's decision to seek assistance from experts during the period of inspection shall be subject to controls that vary according to the nature of the dispute. As discussed before, among the members of the arbitral tribunal there will be those who are experts in the subject matter of the dispute, and the tribunal's inspection shall depend on their expertise. Recourse to experts may be necessary if the matter requires technical or scientific knowledge that goes beyond the limits of its members' knowledge or specialization in the subject matter of the dispute. If this is the case, then it means that seeking help from experts during the inspection is to assist in answering their inquiries and other irrelevant issues [(Ibrahim 2001)](#page-5-0). Hence, a matter related to decennial liability or insurance due to an alleged defect threatening the stability of a property would necessitate the presence of a structural engineering expert, who shall explain the technical issues to the arbitrators during the inspection regarding the nature of legal implications on the culpable party. Therefore, a distinction must be drawn between two actions: (1) the arbitral tribunal decides to consult an expert, whether at the request of the litigants who are the parties to the case or on its own; (2) the tribunal decides not to consult the expert [(Kantor 2010](#page-5-0)). Therefore, it is important to suggest that the rules of inspection, which are related to the arbitrator's personal knowledge, should differ from those based on specialized knowledge provided by an external expert.
+</text>
+
+<text page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/Text/5">
+According to Article 7 of the rules of evidentiary evidence of the International Bar Association, "The arbitral tribunal may, at the request of one of the parties or on its own initiative, examine or ask the expert appointed by it or the expert appointed by one of the parties to inspect."
+</text>
+
+<text page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/Text/6">
+Therefore, if the tribunal decides to conduct expertise in the case, the inspection in this case shall take one of the two scenarios:
+</text>
+
+<list page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/ListGroup/405">
+- 1. The first is that the tribunal accompanies the experts during the inspection of the subject matter of the dispute if the expertise requires such inspection. This scenario is predominant in practice, as the tribunal will be aware of what the experts have learned about the subject matter of the dispute, which makes it easier for the tribunal to analyze and understand the expert report.
+- 2. The second scenario is that the tribunal's members must not accompany the experts inspecting the subject matter of the dispute. Then, the tribunal may, after the experts submit the report, conduct an inspection later. This case takes one of two options: the first is that the tribunal conducts the inspection without seeking the help of experts because of the expertise and specialization that the members of the tribunal enjoy. Therefore, the arbitral tribunal should make a good clarification to establish the arbitral award on a solid ground of causation. The second option allows the tribunal to conduct inspections with expert assistance to clarify the facts in their report, provided that the tribunal sufficiently justifies the decision to appoint those experts. It is the best approach for a tribunal to go through the expert report and then raise and direct any clarification questions and consider reinspection. Otherwise, it would raise the question as to why the tribunal has not decided to execute the inspection from the onset.
+</list>
+
+<text page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/Text/9">
+With all these scenarios, one can infer that the inspection by the arbitral tribunal is not an interference in the expert report nor it is directives to the experts. Rather, the inspection aims to frame the subject matter of the dispute in the light of what the experts presented in their report. If arbitral tribunal finds—through inspection—that the expert report has clarified the matter in a manner consistent with the fact the dispute and the subject matter of the inspection, the tribunal shall be satisfied with what was included in the expert report and the expert inspection [(Knoll and Ionut 2021)](#page-5-0), i.e., the inspection conducted by the tribunal shall be considered as a confirmation for the examination conducted by the experts in the case ([Qassem 2005](#page-5-0)). For example, when an expert records in its report that an alleged defect of property in question is a result of the misuse of the alleging party, the arbitrators can verify and confirm this evidence through their inspection.
+</text>
+
+<text page="4" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/3/Text/10">
+But if it was found that the experts did not carry out the inspection to prepare their report, or that they did the inspection but their report was short in clarity, they may be entrusted with preparing a subsequent report in the light of the inspection, whether individually by the arbitral tribunal or jointly among them as has been clarified. Hence, when an expert report does not distinguish between defects that fall within the scope of the period of defects' liability and maintenance works, which are beyond such period of liability, the tribunal inspection will fill the gap by identifying and recording its observations to conclude the litigants' liabilities. In the first scenario, the arbitral tribunal does not decide to consult technical expertise but decides to conduct the inspection after clarifying the claims of the litigants, or at the request of one or both to conduct such inspection. Under this scenario, the tribunal itself conducts the inspection without seeking the assistance of the experts, and this could be appropriate in the context of superficial issues, or if the matter falls within the tribunal's specialization and does not require any specialized technical inspection to be carried out by somebody else, which would validate why the tribunal did not seek
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/4/Text/1">
+the assistance of experts in this regard. The tribunal adopts such approach when the inspection aims to prove and record physical evidence like availability of equipment, occupancy or vacancy of property, accessibility of property, proof of custody or any other inspection related to scope of the deliverable. The inspection in this case shall be conducted for specific purpose in order to prove a particular fact, which is conducted with the presence of the disputing parties or their representatives. This can also happen if the tribunal did not express in the inspection report its own opinion on the subject of the dispute, but rather it will establish the final award based on such report. This kind of report is permissible if the report has preserved the required controls.
+</text>
+
+<text page="5" section="Controls for Seeking Help from Experts during the Inspection" source="author" id="/page/4/Text/2">
+As for the second scenario, i.e., the arbitral tribunal performs the inspection with assistance of the experts, to support some technical issues, which cannot technically be decided by the arbitral tribunal, or to clarify certain issues necessary to conducting the inspection by the tribunal. Inspections related to design, methods of construction, quality or defects issues would require the assistance of a specialist expert. In this case, the tribunal, upon its decision to conduct the inspection, must include the decision of inspection the condition that this shall be supported with the opinion of the experts, names and expertise of the experts, the limits of technical support required from the experts when conducting the inspection, and the terms of paying the fees by the disputing parties. In this case, the experts should not interfere in an issue that falls within the authority of the arbitral tribunal regarding the subject of the inspection; they should not provide a technical opinion, but they are only required to clarify the technical inquiry of the tribunal in terms of the inspection, especially when such technical clarifications lead to assignment of liabilities among the litigants. In this case, the tribunal is not obliged to include the opinion of the experts in the inspection report, but it is sufficient to mention that the report was prepared in the presence of experts, unless the arbitral tribunal has found that the technical issues that were inquired about from the experts need to be added in the inspection report, instead of being carried out by the tribunal members themselves. Hence, it is necessary to provide a room for cross examination and clarification from parties in terms of the contents of the report.
+</text>
+
+
+<heading page="5" section="Controls for Hearing Witnesses and Litigants during the Inspection" source="author" id="/page/4/SectionHeader/3" level="2">
+## Controls for Hearing Witnesses and Litigants during the Inspection
+</heading>
+
+<text page="5" section="Controls for Hearing Witnesses and Litigants during the Inspection" source="author" id="/page/4/Text/4">
+Based on the request of the disputing parties during hearings, the arbitral tribunal may decide to conduct an inspection for the subject matter of the dispute, through which they may seek the assistance of witnesses [(Al-Azzawi 2020](#page-5-0)). The testimony of witnesses is productive in arbitration in the event that the written evidence or documents submitted by the parties are not sufficient to solve the disputed matter. It is highly likely that witnesses and litigants would advance their arguments during the inspection and attempt to create impressions before the tribunal. For instance, a party who intends to escape liability would simplify the extent of observed evidence and likewise exaggerate evidence to justify a litigant claim. Neither the Jordanian Arbitration Law nor the UNCITRAL Model Law on Arbitration nor the IBA rules have addressed this matter, except in the case of arranging the hearing of witnesses during the sessions. Namely, the rules applying to hearing the witnesses during the inspection may also apply to the procedure related to the assistance made by the experts. Thus, if the arbitral tribunal decides to seek the assistance of witnesses during the inspection, it should determine this in the decision of inspection from the outset, specifically the name of the witnesses attending at the place of inspection. This is to help the tribunal identify or describe
+</text>
+
+<text page="5" section="Controls for Hearing Witnesses and Litigants during the Inspection" source="author" id="/page/4/Text/5">
+the incident as they have testified in the hearing sessions without adding facts to the testimony that have not been mentioned by them in the hearing. The tribunal shall also notify the witnesses of the inspection date directly or through the disputing parties. Naturally, the tribunal cannot decide to use witnesses during the inspection without hearing their testimony before and recognizing the importance of their attendance at the inspection. It can safely be argued that a tribunal should arrange the witness's testimony before the inspection, and the tribunal's decision to conduct an inspection shall be considered as an alternative approach. Also, one can suggest that parties may seek assistance from their own legal representatives during the inspection to secure their interests, in addition to role of those representatives in assisting clients to raise any relevant issues from which they can avail.
+</text>
+
+<text page="5" section="Controls for Hearing Witnesses and Litigants during the Inspection" source="author" id="/page/4/Text/6">
+As for the arbitral tribunal decision seeking the attendance of the litigants during the inspection, it is a practical matter. The tribunal may so decide if it deems it necessary to clarify certain details of the subject matter of the dispute during the time of the inspection, including determining the place, area, and limits of the dispute, especially if there are certain ramifications in the dispute. The tribunal may follow such an approach in construction contracting, road contracting, and insurance disputes. The assistance of the litigants during the inspection requires the presence of all parties to the dispute. The assistance from the litigants during the inspection requires the attendance of all disputing parties. The arbitral tribunal should explain the purpose of the parties attending the inspection, and to oblige them to comply with the purpose of this inspection, i.e., the claimant shall not be allowed to make any claim other than that which has been included in the memorandums submitted before the tribunal.
+</text>
+
+<text page="5" section="Controls for Hearing Witnesses and Litigants during the Inspection" source="author" id="/page/4/Text/7">
+Recording the proceedings and preservation of evidence through measures like documentation of conditions through photographs, videos, or written descriptions in order to maintain the authenticity of the evidence observed. This is important in the cases where the enabling works are inspected and may change and/or be covered up over time.
+</text>
+
+
+<heading page="5" section="Conclusions and Recommendations" source="author" id="/page/4/SectionHeader/8" level="2">
+## Conclusions and Recommendations
+</heading>
+
+<text page="5" section="Conclusions and Recommendations" source="author" id="/page/4/Text/9">
+In this study, which has been devoted to addressing the procedural controls for inspections conducted by the arbitral tribunal, the authors found that regardless of the fact that even though they do not have detailed rules, the IBA Rules on the Taking of Evidence in International Arbitration are considered to be the general framework for the procedural controls of inspection because the UNCITRAL Model Law of International Arbitration has not addressed this matter. This is on the international level; even on the national level, the Jordanian Arbitration Law also did not regulate this issue.
+</text>
+
+<text page="5" section="Conclusions and Recommendations" source="author" id="/page/4/Text/10">
+The authors found that the procedures, arrangement, and timing of the inspection shall be decided on the basis of parties' autonomy, i.e., the arbitral tribunal cannot deprive the disputing parties of this right. Therefore, they have to make the disputing parties aware of such details and should not set them unless they have already coordinated with those parties. The study further concludes that the Jordanian law, the UNCITRAL rules of arbitration, and the IBA rules have all allowed an arbitral tribunal composed of more than one arbitrator to assign one of its members to conduct the inspection. It has also been inferred that the arbitral tribunal should prepare a written report while the inspection occurs. This is for the inspection report to provide the evidential value substantiating the arbitral award.
+</text>
+
+<text page="5" section="Conclusions and Recommendations" source="author" id="/page/4/Text/11">
+The authors also found that the matter of setting the time stages of the inspection shall be within the discretionary authority of the arbitral tribunal, which is supposed to abide by international
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Conclusions and Recommendations" source="author" id="/page/5/Text/1">
+arbitration practices rather than the procedural rules imposed under national laws. The present study also believes that the procedural controls for the inspection conducted merely by the arbitral tribunal differ from those that are carried out by the tribunal and the elected experts.
+</text>
+
+<text page="6" section="Conclusions and Recommendations" source="author" id="/page/5/Text/2">
+This study provided recommendations to clarify the procedural controls that the tribunal should consider when conducting an inspection of the dispute subject matter. The authors suggest that Jordanian law and the rules of the arbitration institutions should clearly regulate the inspection procedures conducted by the arbitral tribunal in accordance with the IBA Rules on the Taking of Evidence in International Arbitration and with international arbitration practices. They also suggest that the IBA Rules on the Taking of Evidence in International Arbitration should include detailed procedural controls for arbitral tribunals to conduct inspections in arbitral disputes.
+</text>
+
+<text page="6" section="Conclusions and Recommendations" source="author" id="/page/5/Text/3">
+The study further recommends that a distinction be drawn between the regulation of the inspection procedures the arbitral tribunal independently conducts and that which shall be applied when such inspection seeks the assistance of experts appointed for this purpose. It is also proposed that the recommended regulations related to the inspection in the context of arbitration—must differentiate between the experience based on the arbitrator's personal knowledge and the experience based on the specialized knowledge in the subject of the dispute that the arbitrator may enjoy. The recommended procedural controls for the inspection should also encompass the formal aspects of conducting such an inspection to enhance the validity of the inspection as evidence.
+</text>
+
+
+<heading page="6" section="Data Availability Statement" source="author" id="/page/5/SectionHeader/4" level="3">
+### Data Availability Statement
+</heading>
+
+<text page="6" section="Data Availability Statement" source="author" id="/page/5/Text/5">
+No data, models, or code were generated or used during the study.
+</text>
+
+
+<heading page="6" section="References" source="author" id="/page/5/SectionHeader/6" level="2">
+## References
+</heading>
+
+
+<heading page="6" section="List of Statutes" source="author" id="/page/5/SectionHeader/7" level="3">
+### List of Statutes
+</heading>
+
+<text page="6" section="List of Statutes" source="author" id="/page/5/Text/8">
+IBA Rules on the Taking of Evidence in International Arbitration, IBA Council 17 December 2020, International Bar Association, London, United Kingdom. MediaHandler (ibanet.org).
+</text>
+
+<list page="6" section="List of Statutes" source="author" id="/page/5/ListGroup/320">
+- Jordanian Arbitration Law No. 31 of 2001, amended in Law No. 41 of 2018, published in the Official Gazette on December 27, 2018 no. 5551 (p. 7712-7713), Amman, Jordan. Law No. 31 of 2001 on Arbitration (as amended up to Law No. 41 of 2018) (wipo.int).
+- UNCITRAL Model Law on International Commercial Arbitration, 21 June 1985, with amendments as adopted in 2006. UNCITRAL Model Law on International Commercial Arbitration 1985, With amendments as adopted in 2006.
+</list>
+
+
+<heading page="6" section="Works Cited" source="author" id="/page/5/SectionHeader/11" level="3">
+### Works Cited
+</heading>
+
+<list page="6" section="Works Cited" source="author" id="/page/5/ListGroup/321">
+- Al-Alawin, K. 2019. "The new rules of evidence by experience under the Jordanian law of civil procedure 2017." [In Arabic.] Dirasat: Shari'a Law Sci. 46 (1): 301–317.
+- Al-Azzawi, M. 2020. "Inspection and its role in the judicial ruling in civil action: A comparative study." Master thesis, Faculty of Law, Middle East Univ.
+- Al-Wahhab, S., and S. Al-Saharawi. 2012. "Rules of evidence in international arbitration as developed by the international bar association (IBA)." Int. Arbitration J. 14 (Jun): 23–58.
+- Doug, J. 2020. "Ineffective use of evidence in construction arbitration." Accessed December 15, 2023. [https://dougjones.info/content/uploads](https://dougjones.info/content/uploads/2017/07/Ineffective-Use-of-Expert-Evidence-in-Construction-Arbitration-1.pdf) [/2017/07/Ineffective-Use-of-Expert-Evidence-in-Construction-Arbitration](https://dougjones.info/content/uploads/2017/07/Ineffective-Use-of-Expert-Evidence-in-Construction-Arbitration-1.pdf) [-1.pdf.](https://dougjones.info/content/uploads/2017/07/Ineffective-Use-of-Expert-Evidence-in-Construction-Arbitration-1.pdf)
+- Ibrahim, M. 2001. Al-wages in proceedings. 2nd ed. Cairo, Egypt: Dar Al-Fikr Al-Arabi.
+- Kantor, M. 2010. "A code of conduct for party-appointed experts in international arbitration—Can one be found?" Arbitration Int. 26 (3): 323–380. [https://doi.org/10.1093/arbitration/26.3.323.](https://doi.org/10.1093/arbitration/26.3.323)
+- Knoll, I., and R. Ionut. 2021. "Regulating party-appointed experts: How to increase the efficiency of arbitral proceedings." Accessed December 15, 2023. [https://arbitrationblog.kluwerarbitration.com/2021/05/10/regulating](https://arbitrationblog.kluwerarbitration.com/2021/05/10/regulating-party-appointed-experts-how-to-increase-the-efficiency-of-arbitral-proceedings/#:~:text=Under%20Article%205.2(a)%20of,advisers%20and%20the%20arbitral%20tribunal%E2%80%9D) [-party-appointed-experts-how-to-increase-the-efficiency-of-arbitral](https://arbitrationblog.kluwerarbitration.com/2021/05/10/regulating-party-appointed-experts-how-to-increase-the-efficiency-of-arbitral-proceedings/#:~:text=Under%20Article%205.2(a)%20of,advisers%20and%20the%20arbitral%20tribunal%E2%80%9D) [-proceedings/#:~:text=Under%20Article%205.2(a)%20of,advisers%20and](https://arbitrationblog.kluwerarbitration.com/2021/05/10/regulating-party-appointed-experts-how-to-increase-the-efficiency-of-arbitral-proceedings/#:~:text=Under%20Article%205.2(a)%20of,advisers%20and%20the%20arbitral%20tribunal%E2%80%9D) [%20the%20arbitral%20tribunal%E2%80%9D.](https://arbitrationblog.kluwerarbitration.com/2021/05/10/regulating-party-appointed-experts-how-to-increase-the-efficiency-of-arbitral-proceedings/#:~:text=Under%20Article%205.2(a)%20of,advisers%20and%20the%20arbitral%20tribunal%E2%80%9D)
+- Morqus, S. 1986. Principles of evidence and its procedures in civil matters. Beirut, Lebanon: Publishing House.
+- Qassem, H. 2005. The law of evidence in civil and commercial matters. Beirut, Lebanon: Al-Halabi Human Rights.
+- Wali, F. 2021. Mediator in national and international commercial arbitration. Cairo, Egypt: Dar Al-Nahda Al-Arabiya.
+</list>
+
+</page>
+</paper>

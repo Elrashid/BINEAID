@@ -1,0 +1,544 @@
+<paper source_file="A3.R90" title="Arab University Rankings 2024" total_pages="9" figures="8" figures_with_images="8">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 8 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="Arab University Rankings 2024" source="author" id="/page/0/SectionHeader/1" level="1">
+# Arab University Rankings 2024
+</heading>
+
+
+<heading page="1" section="**Explore the top ranked universities in the Arab region**" source="author" id="/page/0/SectionHeader/2" level="4">
+#### **Explore the top ranked universities in the Arab region**
+</heading>
+
+<text page="1" section="**Explore the top ranked universities in the Arab region**" source="author" id="/page/0/Text/3">
+Discover the top universities in the Arab region with the *Times Higher Education *Arab University Rankings 2024. This year we've ranked 238 institutions from 16 countries or territories. The methodology is based on the same framework as our World University Rankings, but some adjustments have been made and some new metrics have been included to reect the features and missions of universities in the Middle East and North Africa.
+</text>
+
+
+<heading page="1" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/0/SectionHeader/4" level="4">
+#### **Arab University Rankings 2024: key insights**
+</heading>
+
+<list page="1" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/0/ListGroup/187">
+- **KAUST** in Saudi Arabia is number one in the Arab region, thanks to strong performances in the research environment, society and research quality pillars
+- **Saudi Arabian universities** take ve of the top 10 spots, including all of the top three
+- **Jordan** has a university in the top 10 for the rst time. The University of Jordan has risen to ninth place with particularly strong performances in the research environment and society pillars
+- **Ahlia University** in Bahrain is the highest-ranking new entrant at joint 17th thanks to high scores in the research quality and society pillars
+</list>
+
+<text page="1" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/0/Text/9">
+Read more...
+</text>
+
+<figure page="1" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/0/Picture/10" image="A3.R90_fig01.jpg">[FIGURE: see A3.R90_fig01.jpg]</figure>
+
+</page>
+<page number="2">
+<table page="2" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/1/Table/0">
+| Rank | NameCountry/Region | Overall | ResearchQuality | InternationalOutlook | EnvironmentResearch | Teaching | Society |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 12 | Lebanese American University(/world-universityrankings/lebanese-americanuniversity)Lebanon(/location/a4zw0000000GnwrAAC) | 76.6 | 98.3 | 75.1 | 76.9 | 61.3 | 70.0 |
+| 45 | Prince Sultan University (PSU)(/world-universityrankings/prince-sultanuniversity-psu)Saudi Arabia(/location/a4zw0000000GnwvAAC)Explore (/world-universityrankings/prince-sultanuniversity-psu) | 59.2 | 98.3 | 86.0 | 43.1 | 31.8 | 92.4 |
+| 1 | King Abdullah University ofScience and Technology(KAUST) (/world-universityrankings/king-abdullahuniversity-science-andtechnology-kaust)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 92.1 | 95.7 | 74.6 | 98.5 | 86.7 | 96.2 |
+| 71–80 | Eat University (/worlduniversity-rankings/eatuniversity)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 47.4–49.7 | 95.4 | 75.2 | 27.8 | 22.8 | 66.7 |
+| 11 | University of Sharjah (/worlduniversity-rankings/universitysharjah)United Arab Emirates(/location/a4zw0000000GnwyAAC)Explore (/world-universityrankings/university-sharjah) | 77.8 | 94.0 | 92.4 | 75.9 | 60.7 | 92.1 |
+| 25 | Applied Science PrivateUniversity (/world-universityrankings/applied-scienceprivate-university)Jordan(/location/a4zw0000000GnwpAAC)Explore (/world-universityrankings/applied-scienceprivate-university) | 69.9 | 93.6 | 81.2 | 62.2 | 55.8 | 71.9 |
+| =32 | Zayed University (/worlduniversity-rankings/zayeduniversity)United Arab Emirates(/location/a4zw0000000GnwyAAC) | 64.6 | 92.8 | 65.3 | 58.2 | 47.1 | 74.1 |
+</table>
+
+</page>
+<page number="3">
+<table page="3" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/2/Table/0">
+| Rank | NameCountry/Region | Overall | ResearchQuality | InternationalOutlook | EnvironmentResearch | Teaching | Society |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 5 | King Abdulaziz University(/world-universityrankings/king-abdulazizuniversity)Saudi Arabia(/location/a4zw0000000GnwvAAC)Explore (/world-universityrankings/king-abdulazizuniversity) | 87.3 | 92.1 | 65.9 | 96.5 | 79.1 | 91.6 |
+| =2 | King Fahd University ofPetroleum and Minerals(/world-universityrankings/king-fahd-universitypetroleum-and-minerals)Saudi Arabia(/location/a4zw0000000GnwvAAC)Explore (/world-universityrankings/king-fahd-universitypetroleum-and-minerals) | 90.2 | 91.3 | 71.5 | 98.1 | 85.0 | 96.8 |
+| 6 | Khalifa University (/worlduniversity-rankings/khalifauniversity)United Arab Emirates(/location/a4zw0000000GnwyAAC)Explore (/world-universityrankings/khalifa-university) | 81.5 | 91.0 | 74.3 | 86.7 | 68.6 | 92.6 |
+| 71–80 | Taif University (/worlduniversity-rankings/taifuniversity)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 47.4–49.7 | 91.0 | 79.2 | 38.9 | 22.2 | 15.9 |
+| 81–90 | Middle East University (/worlduniversity-rankings/middleeast-university)Jordan(/location/a4zw0000000GnwpAAC) | 45.0–47.3 | 90.7 | 72.9 | 22.7 | 20.4 | 68.0 |
+| 61–70 | Amman Arab University(/world-universityrankings/amman-arabuniversity)Jordan(/location/a4zw0000000GnwpAAC) | 49.8–54.1 | 90.6 | 71.3 | 33.8 | 25.1 | 70.1 |
+| 61–70 | Prince Sattam Bin AbdulazizUniversity (/world-universityrankings/prince-sattam-binabdulaziz-university)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 49.8–54.1 | 90.6 | 79.8 | 33.2 | 33.0 | 71.8 |
+</table>
+
+</page>
+<page number="4">
+<table page="4" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/3/Table/0">
+| Rank | NameCountry/Region | Overall | ResearchQuality | InternationalOutlook | EnvironmentResearch | Teaching | Society |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 24 | Prince Mohammad Bin FahdUniversity (/world-universityrankings/prince-mohammadbin-fahd-university)Saudi Arabia(/location/a4zw0000000GnwvAAC)Explore (/world-universityrankings/prince-mohammadbin-fahd-university) | 70.4 | 90.4 | 80.5 | 64.6 | 53.3 | 95.0 |
+| 4 | Qatar University (/worlduniversity-rankings/qataruniversity)Qatar(/location/a4zw0000000GnwuAAC) | 88.3 | 90.1 | 76.3 | 96.2 | 80.9 | 95.3 |
+| 44 | Princess Nourah bintAbdulrahman University(/world-universityrankings/princess-nourah-bintabdulrahman-university)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 59.5 | 90.0 | 90.9 | 48.9 | 43.7 | 32.6 |
+| 49 | Dhofar University (/worlduniversity-rankings/dhofaruniversity-0)Oman(/location/a4zw0000000GnwsAAC) | 57.8 | 89.9 | 79.4 | 46.2 | 37.2 | 67.0 |
+| 40 | Ajman University (/worlduniversity-rankings/ajmanuniversity)United Arab Emirates(/location/a4zw0000000GnwyAAC) | 60.6 | 89.8 | 93.3 | 44.9 | 43.6 | 69.0 |
+| 7 | United Arab EmiratesUniversity (/world-universityrankings/united-arab-emiratesuniversity)United Arab Emirates(/location/a4zw0000000GnwyAAC)Explore (/world-universityrankings/united-arab-emiratesuniversity) | 81.3 | 89.4 | 76.6 | 85.3 | 69.9 | 93.8 |
+| =2 | King Saud University (/worlduniversity-rankings/king-sauduniversity)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 90.2 | 88.6 | 75.4 | 98.2 | 87.8 | 87.3 |
+| 14 | Abu Dhabi University (/worlduniversity-rankings/abu-dhabiuniversity)United Arab Emirates(/location/a4zw0000000GnwyAAC)Explore (/world-universityrankings/abu-dhabi-university) | 75.8 | 88.5 | 84.0 | 72.8 | 66.9 | 74.6 |
+</table>
+
+</page>
+<page number="5">
+<table page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Table/0">
+| Rank | NameCountry/Region | Overall | ResearchQuality | InternationalOutlook | EnvironmentResearch | Teaching | Society |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 | King Khalid University (/worlduniversity-rankings/kingkhalid-university)Saudi Arabia(/location/a4zw0000000GnwvAAC) | 78.3 | 87.2 | 92.9 | 71.0 | 72.6 | 90.3 |
+| 51–60 | University of Dubai (/worlduniversity-rankings/universitydubai)United Arab Emirates(/location/a4zw0000000GnwyAAC) | 54.8–57.2 | 86.5 | 76.2 | 48.1 | 45.9 | 11.8 |
+</table>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/1">
+1 to 25 of 351 - Page 1 of 15 Show 25 entries
+</text>
+
+<figure page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Figure/3" image="A3.R90_fig02.jpg">[FIGURE: see A3.R90_fig02.jpg]</figure>
+
+<figure page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Figure/4" image="A3.R90_fig03.jpg">[FIGURE: see A3.R90_fig03.jpg]</figure>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/5">
+[Arab University Rankings 2024: methodology](https://www.timeshighereducation.com/world-university-rankings/arab-university-rankings-2024-methodology)
+</text>
+
+<figure page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Figure/6" image="A3.R90_fig04.jpg">[FIGURE: see A3.R90_fig04.jpg]</figure>
+
+
+<heading page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/SectionHeader/7" level="2">
+## 
+</heading>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/9">
+[(/hub/coursera/p/how-turkeys-universities](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)[are-mastering-digital-transformation)](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/10">
+**[How Turkey's universities are](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)** **[mastering digital transformation](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)** **[(/hub/coursera/p/how-turkeys](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)****[universities-are-mastering-digital](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)****[transformation)](https://www.timeshighereducation.com/hub/coursera/p/how-turkeys-universities-are-mastering-digital-transformation)**
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/11">
+A roundtable of senior leaders discussed best practice for addressing challenges and opportunities related to teaching, assessment and internationalism
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/12">
+**Promoted by Coursera** SPONSORED
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/15">
+**[Preparing universities for the](https://www.timeshighereducation.com/hub/salesforceorg/p/preparing-universities-fourth-industrial-revolution)** **[fourth industrial revolution](https://www.timeshighereducation.com/hub/salesforceorg/p/preparing-universities-fourth-industrial-revolution)** **[(/hub/salesforceorg/p/preparing](https://www.timeshighereducation.com/hub/salesforceorg/p/preparing-universities-fourth-industrial-revolution)****[universities-fourth-industrial](https://www.timeshighereducation.com/hub/salesforceorg/p/preparing-universities-fourth-industrial-revolution)****[revolution)](https://www.timeshighereducation.com/hub/salesforceorg/p/preparing-universities-fourth-industrial-revolution)**
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/16">
+The next era of technology in higher education is intrinsically linked to student success
+</text>
+
+<text page="5" section="**Arab University Rankings 2024: key insights**" source="author" id="/page/4/Text/17">
+**Promoted by Salesforce** SPONSORED
+</text>
+
+
+<heading page="5" section="**Read more about the Arab University Rankings 2024**" source="author" id="/page/4/SectionHeader/18" level="3">
+### **Read more about the Arab University Rankings 2024**
+</heading>
+
+
+<heading page="5" section="**STUDENT INSIGHTS**" source="author" id="/page/4/SectionHeader/19" level="1">
+# **STUDENT INSIGHTS**
+</heading>
+
+<text page="5" section="**STUDENT INSIGHTS**" source="author" id="/page/4/Text/20">
+**Best universities in the Arab World** **[(/student/best-universities/best-universities](https://www.timeshighereducation.com/student/best-universities/best-universities-arab-world)****arab-world)**
+</text>
+
+<text page="5" section="**STUDENT INSIGHTS**" source="author" id="/page/4/Text/21">
+**ACADEMIC INSIGHTS**
+</text>
+
+<text page="5" section="**STUDENT INSIGHTS**" source="author" id="/page/4/Text/22">
+**Arab University Rankings 2024: results** **[announced (/world-university-rankings/arab](https://www.timeshighereducation.com/world-university-rankings/arab-university-rankings-2024-results-announced)****university-rankings-2024-results-announced)**
+</text>
+
+<text page="5" section="**STUDENT INSIGHTS**" source="author" id="/page/4/Text/23">
+**Arab University Rankings 2024: success on** **many levels (/world-university-rankings/arab****[university-rankings-2024-success-many-levels)](https://www.timeshighereducation.com/world-university-rankings/arab-university-rankings-2024-success-many-levels)**
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**STUDENT INSIGHTS**" source="author" id="/page/5/Text/0">
+Arab University Rankings 2024: a region on the rise (/world-university-rankings/arab-universityrankings-2024-region-rise)
+</text>
+
+
+<heading page="6" section="METHODOLOGY:" source="author" id="/page/5/SectionHeader/2" level="4">
+#### METHODOLOGY:
+</heading>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/3">
+Arab University Rankings 2024: methodology (/world-university-rankings/arab-universityrankings-2024-methodology)
+</text>
+
+<figure page="6" section="METHODOLOGY:" source="author" id="/page/5/Picture/4" image="A3.R90_fig05.jpg">[FIGURE: see A3.R90_fig05.jpg]</figure>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/5">
+(https://www.timeshighereducation.com/content/in**Sturdiss**ciplinaryciones rankings participations?
+
+(https://www.timeshighereducation.com/unijobs/listing/393973/assistantscience-rankings-participation?
+</text>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/6">
+utm_source=academic
+</text>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/7">
+website&amp;utm_medium=link_embed&amp;utm_campaign&lt;del&gt;oi&lt;/del&gt;gterdisciplinary-
+</text>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/8">
+science-research-rankings-
+</text>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/9">
+24&amp;utm_content=participation)
+</text>
+
+<figure page="6" section="METHODOLOGY:" source="author" id="/page/5/Picture/10" image="A3.R90_fig06.jpg">[FIGURE: see A3.R90_fig06.jpg]</figure>
+
+<text page="6" section="METHODOLOGY:" source="author" id="/page/5/Text/11">
+(https://www.timeshighereducation.com/content/ingpstalinability participation)
+</text>
+
+<figure page="6" section="METHODOLOGY:" source="author" id="/page/5/Picture/12" image="A3.R90_fig07.jpg">[FIGURE: see A3.R90_fig07.jpg]</figure>
+
+<figure page="6" section="METHODOLOGY:" source="author" id="/page/5/Picture/13" image="A3.R90_fig08.jpg">[FIGURE: see A3.R90_fig08.jpg]</figure>
+
+
+<heading page="6" section="**FEATURED JOBS **" source="author" id="/page/5/SectionHeader/14" level="4">
+#### **FEATURED JOBS **
+</heading>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/15">
+Post-Doctoral Associate in the Division of Science [Mathematics], Dr. Mostafa Sabri
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/16">
+جامعـة نيويورك ابوظـي NYU ABU DHABI
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/17">
+(https://www.timeshighereducation.com/unijobs/listing/393978/postdoctoral-associate-in-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/18">
+the-division-of-sciencemathematics-dr-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/19">
+mostafa-sabri/?
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/20">
+trackid=10&amp;utm source=thejobs-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/21">
+service&amp;utm_campaign=none&amp;utm_score=0) NEW YORK UNIVERSITY ABU DHABI
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/22">
+Doctoral Researcher in Transcription Biology /
+</text>
+
+<figure page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Picture/23" image="A3.R90_fig09.jpg">[FIGURE: see A3.R90_fig09.jpg]</figure>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/24">
+Cancer research
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/26">
+(https://www.timeshighereducation.com/unijobs/listing/394030/doctoral-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/27">
+researcher-in-transcription-biology
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/29">
+cancer-research/?
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/30">
+trackid=10&amp;utm_source=the-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/31">
+jobsservice&amp;utm_campaign=none&amp;utm_score=0)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/32">
+UNIVERSITY OF HELSINKI
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/33">
+Assistant Professor / Lecturer in German
+</text>
+
+<figure page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Picture/34" image="A3.R90_fig10.jpg">[FIGURE: see A3.R90_fig10.jpg]</figure>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/36">
+professor-lecturer-in-german-studies/?
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/39">
+service&amp;utm_campaign=none&amp;utm_score=0)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/40">
+MAYNOOTH UNIVERSITY
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/41">
+Assistant Professor / Associate Professor in **Robotics **
+</text>
+
+<figure page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Picture/42" image="A3.R90_fig11.jpg">[FIGURE: see A3.R90_fig11.jpg]</figure>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/43">
+(https://www.timeshighereducation.com/unijobs/listing/394053/assistant-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/44">
+professor-associate-professor-in-robotics/?
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/45">
+trackid=10&amp;utm_source=the-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/46">
+jobs-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/47">
+service&amp;utm_campaign=none&amp;utm_score=0)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/48">
+SINGAPORE INSTITUTE OF TECHNOLOGY (SIT)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/49">
+Assistant Professor / Associate Professor / Professor in
+</text>
+
+<figure page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Picture/50" image="A3.R90_fig12.jpg">[FIGURE: see A3.R90_fig12.jpg]</figure>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/51">
+Engineering (https://www.timeshighereducation.com/unijobs/listing/394049/assistant-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/52">
+professor-associate professor-professor-in-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/54">
+sustainability-engineering/?
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/55">
+trackid=10&amp;utm source=the-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/56">
+jobs-
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/57">
+service&amp;utm_campaign=none&amp;utm_score=0)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/58">
+SINGAPORE INSTITUTE OF
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/59">
+TECHNOLOGY (SIT)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/60">
+See all jobs
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/61">
+(https://www.timeshighereducation.com/unijobs/listings/)
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/62">
+Update job preferences
+</text>
+
+<text page="6" section="**FEATURED JOBS **" source="author" id="/page/5/Text/63">
+ADVERTISEMENT
+</text>
+
+</page>
+<page number="7">
+<figure page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Picture/0" image="A3.R90_fig13.jpg">[FIGURE: see A3.R90_fig13.jpg]</figure>
+
+<text page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Text/3">
+**[Digital healthcare requires a new](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)** **[way of thinking, as well as new](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)** **[technologies](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)** **[(/hub/huawei/p/digital-healthcare](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)****[requires-new-way-thinking-well](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)****[new-technologies)](https://www.timeshighereducation.com/hub/huawei/p/digital-healthcare-requires-new-way-thinking-well-new-technologies)**
+</text>
+
+<text page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Text/4">
+Decentralisation, data sharing and federated learning have the potential reduce the cost and improve the ecacy of delivering consultations and treatments
+</text>
+
+<text page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Text/5">
+**Promoted by Huawei** SPONSORED
+</text>
+
+<text page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Text/6">
+ADVERTISEMENT
+</text>
+
+<figure page="7" section="**FEATURED JOBS **" source="author" id="/page/6/Picture/7" image="A3.R90_fig14.jpg">[FIGURE: see A3.R90_fig14.jpg]</figure>
+
+</page>
+<page number="8">
+
+<heading page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/SectionHeader/0" level="2">
+## **FEATURED UNIVERSITIES**
+</heading>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/5">
+[KIIT University (/world-university](https://www.timeshighereducation.com/world-university-rankings/kiit-university)[rankings/kiit-university)](https://www.timeshighereducation.com/world-university-rankings/kiit-university)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/6">
+[Video (/world-university-rankings/kiit](https://www.timeshighereducation.com/world-university-rankings/kiit-university?popupvideo=true)university?popupvideo=true)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/7">
+[Explore (/world-university-rankings/kiit](https://www.timeshighereducation.com/world-university-rankings/kiit-university)university)
+</text>
+
+<figure page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Picture/10" image="A3.R90_fig15.jpg">[FIGURE: see A3.R90_fig15.jpg]</figure>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/11">
+[(/world-university-rankings/university-east](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)[anglia)](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/12">
+[University of East Anglia (/world](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)[university-rankings/university-east](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)[anglia)](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/13">
+[Video (/world-university-rankings/university](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia?popupvideo=true)east-anglia?popupvideo=true)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/14">
+[Explore (/world-university-rankings/university](https://www.timeshighereducation.com/world-university-rankings/university-east-anglia)east-anglia)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/19">
+[Al-Mustaqbal University (/world](https://www.timeshighereducation.com/world-university-rankings/al-mustaqbal-university)[university-rankings/al-mustaqbal](https://www.timeshighereducation.com/world-university-rankings/al-mustaqbal-university)[university)](https://www.timeshighereducation.com/world-university-rankings/al-mustaqbal-university)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/20">
+Video (/world-university-rankings/al[mustaqbal-university?popupvideo=true)](https://www.timeshighereducation.com/world-university-rankings/al-mustaqbal-university?popupvideo=true)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/21">
+[Explore (/world-university-rankings/al](https://www.timeshighereducation.com/world-university-rankings/al-mustaqbal-university)mustaqbal-university)
+</text>
+
+<figure page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Picture/24" image="A3.R90_fig16.jpg">[FIGURE: see A3.R90_fig16.jpg]</figure>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/25">
+[(/world-university-rankings/huazhong](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)[university-science-and-technology)](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/26">
+[Huazhong University of Science and](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology) [Technology (/world-university](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)[rankings/huazhong-university-science](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)[and-technology)](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/27">
+[Video (/world-university-rankings/huazhong](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology?popupvideo=true)university-science-and-technology? popupvideo=true)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/28">
+[Explore (/world-university-rankings/huazhong](https://www.timeshighereducation.com/world-university-rankings/huazhong-university-science-and-technology)university-science-and-technology)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/29">
+[FAQs (/faqs/general-faqs)](https://www.timeshighereducation.com/faqs/general-faqs)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/30">
+[Contact us (/contact-us)](https://www.timeshighereducation.com/contact-us)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/31">
+[About us (/about-us)](https://www.timeshighereducation.com/about-us)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/32">
+[Work for THE (https://careers.timeshighereducation.com/)](https://careers.timeshighereducation.com/)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/33">
+[Terms &amp; conditions (/terms-and-conditions)](https://www.timeshighereducation.com/terms-and-conditions)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/34">
+[Privacy (/privacy-policy)](https://www.timeshighereducation.com/privacy-policy)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/35">
+[Cookie policy (/cookie-policy)](https://www.timeshighereducation.com/cookie-policy)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/36">
+[Accessibility statement (/content/online-accessibility-statement)](https://www.timeshighereducation.com/content/online-accessibility-statement)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/37">
+[THE Connect (/our-partners)](https://www.timeshighereducation.com/our-partners)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/38">
+[Media Centre (/media-centre)](https://www.timeshighereducation.com/media-centre)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/39">
+[Modern slavery statement (/about-us/modern-slavery-act-2015)](https://www.timeshighereducation.com/about-us/modern-slavery-act-2015)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/40">
+[University Directory (https://www.timeshighereducation.com/university-directory/a)](https://www.timeshighereducation.com/university-directory/a)
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/41">
+Close
+</text>
+
+<text page="8" section="**FEATURED UNIVERSITIES**" source="author" id="/page/7/Text/42">
+[English (/world-university-rankings/2024/arab-university-rankings)](https://www.timeshighereducation.com/world-university-rankings/2024/arab-university-rankings) [Simplied Chinese (](https://www.timeshighereducation.com/cn/world-university-rankings/2024/arab-university-rankings)简体中文)[ (/cn/world-university-rankings/2024/arab-university-rankings)](https://www.timeshighereducation.com/cn/world-university-rankings/2024/arab-university-rankings) Copyright © 2025 THE - Times Higher Education
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="**FEATURED UNIVERSITIES**" source="author" id="/page/8/Text/0">
+As the voice of global higher education, THE is an invaluable daily resource. Subscribe today to receive unlimited news and analyses, commentary from the sharpest minds in international academia, our inuential university rankings analysis and the latest insights from our World Summit series.
+</text>
+
+<text page="9" section="**FEATURED UNIVERSITIES**" source="author" id="/page/8/Text/1">
+**[Find out more (/store)](https://www.timeshighereducation.com/store)**
+</text>
+
+</page>
+</paper>

@@ -1,0 +1,640 @@
+<paper source_file="A3.R61" title="Determining the predictive importance of the core dimensions of nation brands" total_pages="13" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="Determining the predictive importance of the core dimensions of nation brands" source="author" id="/page/0/SectionHeader/0" level="1">
+# Determining the predictive importance of the core dimensions of nation brands
+</heading>
+
+<text page="1" section="Determining the predictive importance of the core dimensions of nation brands" source="author" id="/page/0/Text/1">
+Abdelmounaim Lahrech The Faculty of Business and Law, British University in Dubai, Dubai, United Arab Emirates Hazem Aldabbas
+</text>
+
+<text page="1" section="Determining the predictive importance of the core dimensions of nation brands" source="author" id="/page/0/Text/2">
+Research Outreach Department, American University in the Emirates, Dubai, United Arab Emirates, and Katariina Juusola
+</text>
+
+<text page="1" section="Determining the predictive importance of the core dimensions of nation brands" source="author" id="/page/0/Text/3">
+Department of Marketing, College of Business Administration, Ajman University, Ajman, United Arab Emirates
+</text>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/4" level="4">
+#### Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/5">
+Purpose – Informed by the resource-based and resource-advantage theories, this study, a comparative study, aims to examine the core dimensions of nation brands – culture, tourism, exports, foreign direct investment, migration and governance – from the company-based brand equity perspective in a sample of 48 countries clustered into three groups (strong, moderate and weak nation brands) from 2011 to 2019 to identify the most critical predictors of nation brand strength in each cluster.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/6">
+Design/methodology/approach – A clustering technique was applied to the modified Country Brand Index to cluster the included countries into strong, moderate and weak nation brands. The authors were then able to analyze each cluster in an effort to explore the relative importance of the predictor variables and determine if that importance varied across the clusters.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/7">
+Findings – This approach revealed novel findings of great importance to policymakers and academics. The results indicate the resources that contribute the most to nation brand equity in each cluster. Such information can guide policymakers in effectively leveraging these strategic resources. First, the cultural dimension was a more critical predictor concerning countries with moderate and weak nation brands than countries with strong brands. Second, tourism exhibited the highest predictive importance concerning all the clusters. For academics, these findings help foster a better understanding of the determinants of nation brand strength, as aligned with the resource-based and resource-advantage theories.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/8">
+Originality/value – The findings of this study contribute to the literature concerning nation brand management, particularly the stream related to nation brand equity monetization.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/9">
+Keywords Nation brand, Nation branding, Brand performance, Place branding, Culture, Tourism, Country image, Country reputation
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/10">
+Paper type Research paper
+</text>
+
+
+<heading page="1" section="1. Introduction" source="author" id="/page/0/SectionHeader/11" level="2">
+## 1. Introduction
+</heading>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/12">
+In recent decades, most nations have sought to develop or modify their nation brands. A "nation brand" is typically understood as a combination of strategic areas of national competence – that is, a nation's cultural, human, political and commercial assets; investment potential; and tourism appeal [(Anholt, 2005](#page-9-0)). By contrast, [Dinnie (2008)](#page-9-1) explains the concept of a nation brand in terms of how well a country blends the multidimensional elements of its brand in a culturally grounded way that differentiates the nation from others and renders it relevant to its target audience.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/13">
+As strong nation brands have the potential to drive the achievement of various political, social and economic objectives, nation brands must be managed and harnessed effectively. Although the term "nation brand" is now widely used, there is an ongoing debate regarding its theorization, measurement and marketing consequences (He et al.[, 2021)](#page-10-0).
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/14">
+The current issue and full text archive of this journal is available on Emerald Insight at: https://www.emerald.com/insight/1061-0421.htm
+</text>
+
+<figure page="1" section="1. Introduction" source="author" id="/page/0/Figure/15" image="A3.R61_fig01.jpg">[FIGURE: see A3.R61_fig01.jpg]</figure>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/16">
+Indeed, while numerous studies have developed theories concerning nation branding [(Steenkamp, 2021](#page-11-0)), and others have developed indices for comparing nations' brand performance ([Fetscherin, 2010;](#page-9-2) [Lahrech](#page-10-1) et al., 2020b), there remains only a limited understanding of which elements of a nation brand are the most important in terms of the brand's overall strength. The concept of nation brand strength provides a measure of the effectiveness of a country's brand in enhancing its overall identity and image, and it serves as a valuable tool for governments and organizations to evaluate the strengths and weaknesses of a country's brand [(Fetscherin, 2010](#page-9-2)).
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/17">
+Overcoming this research gap is necessary to assist countries in monetizing their nation brand equity (He et al.[, 2021)](#page-10-0), which
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/18">
+Compliance with ethical standards: Conflict of interest: The authors have no conflicting interests to declare that are relevant to the content of this article.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/19">
+Funding: This study was funded by Ajman University research grant 2021-IRG-CBA-3.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/20">
+Ethical approval: Not applicable.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/21">
+Informed consent: Not applicable.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/22">
+Received 15 October 2022 Revised 19 March 2023 29 May 2023 Accepted 30 May 2023
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/4">
+can be achieved when brand managers are aware of the resources that contribute the most to the nation brand equity in a particular country cluster. Such awareness allows brand managers to effectively leverage strategic resources. In their comprehensive review of nation-branding research over recent decades, Rojas-M[endez and Khoshnevis (2023)](#page-11-1) note that empirical studies are required to investigate each sub-element of a nation brand to determine which sub-elements have the most significant impact on the outcomes of nation branding. Similarly, as there are no known studies concerning the hierarchy of the dimensions or the relative weight of each dimension, Hao et al. [(2021)](#page-10-2) call for studies that examine the level of importance of each dimension of a nation brand. Furthermore, few comparative cross-country studies involving longitudinal data are available, as studies in this area typically focus on individual countries and their specific brand performance (Hao et al.[, 2021)](#page-10-2).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/5">
+These gaps in the literature represent the rationale for the present study, which aims to investigate the fundamental dimensions of nation brands – culture, tourism, exports, foreign direct investment (FDI), migration and governance – to determine the most critical drivers of nation brand strength. To accomplish this, we distinguish the nation brand performance of three clusters of countries (i.e. strong, moderate and weak nation brands) from among a sample of 48 nations from 2011 to 2019 and explore the relative importance of the dimensions of a nation brand within those clusters. Our study contributes to the literature on nation brand performance ([Fetscherin,](#page-9-2) [2010;](#page-9-2) [Lahrech](#page-10-1) et al., 2020b) and nation brand monetization (He et al.[, 2021](#page-10-0)). Consequently, our findings benefit both research and practice due to providing nation-branding stakeholders and marketers with valuable knowledge concerning which brand elements to prioritize concerning nation-branding initiatives.
+</text>
+
+
+<heading page="2" section="2. Resource-based theory, resource-advantage theory and nation branding" source="author" id="/page/1/SectionHeader/6" level="1">
+# 2. Resource-based theory, resource-advantage theory and nation branding
+</heading>
+
+
+<heading page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/SectionHeader/7" level="4">
+#### 2.1 Theoretical foundation
+</heading>
+
+<text page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/Text/8">
+This study is theoretically informed by the resource-based (RB) theory of the firm, which originated in Penrose'[s (1959)](#page-11-2) seminal writings, and the subsequent managerial theories, namely, the resource-based view (RBV) ([Barney, 1991](#page-9-3); [Wernerfelt, 1984)](#page-12-0) and resource-advantage theory of firm competition (RA theory) [(Hunt, 1995;](#page-10-3) [Hunt and Morgan,](#page-10-4) [1996)](#page-10-4), which are applied to the nation-branding context. Despite emphasizing different perspectives, these theories all aim to explain how organizations can achieve a competitive advantage in the marketplace, and previous studies have drawn connections between these theories and both branding in general [(Ahmad and Salleh, 2019](#page-9-4); [Gisip and Harun, 2013](#page-10-5); O'[Cass and Voola, 2011](#page-11-3)) and nation branding in particular (Rojas-M[endez, 2013)](#page-11-4). While the RB/RBV and RA theories share an understanding of the role of an organization's internal resources in market competition, they also differ in several key respects. First, the RB and RBV theories explain how firms can gain a competitive advantage by acquiring and managing valuable resources ([Wernerfelt, 1984)](#page-12-0). According to these two theories, a firm possesses two kinds of resources: tangible (e.g. machinery, buildings, equipment) and intangible (e.g.
+</text>
+
+<text page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/Text/9">
+knowledge, reputation, brand equity) resources. The RBV theory further expects that the possession of unique, rare, difficult-to-imitate and non-substitutable resources can form the basis for achieving a sustainable competitive advantage [(Barney and Arikan, 2001)](#page-9-5).
+</text>
+
+<text page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/Text/10">
+By contrast, due to perceiving market competition as inherently dynamic ([Hunt and Morgan, 1996](#page-10-4)), the RA theory proposes that a sustained competitive advantage results from the efficient acquisition and deployment of both internal and external resources (i.e. financial, physical, legal, human, informational and relational resources) linked to a firm's specific situation. Thus, a central argument of this theory is that a firm's financial performance and success are dependent on its ability to leverage its resources to compete in certain target markets where those resources represent a source of comparative advantages over competitors [(Golicic](#page-10-6) et al., 2012; [Varadarajan, 2023](#page-11-5)). The RA theory emphasizes the dynamic nature of competition and how relative resource costs and relative resource-produced values result in multiple possible competitive positions in the marketplace, such as a position of competitive advantage, a position of parity or a position of competitive disadvantage [(Hunt and Morgan, 1996)](#page-10-4). Consequently, the RA theory suggests that tangible and intangible resources must be appropriately distributed, while proactive and reactive innovations must be developed to achieve a competitive advantage over competitors, which is expected to result in heterogeneity in terms of firm performance [(Hunt, 1999](#page-10-7); [Varadarajan, 2023](#page-11-5)).
+</text>
+
+<text page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/Text/11">
+In summary, the RB, RBV and RA theories provide different perspectives on how firms can obtain a competitive advantage. The key difference between the three theories is that the RB and RBV theories are more focused on the internal resources that a firm has control over. By contrast, the RA theory focuses more on external environmental factors, such as societal institutions, competitors, consumers and public policy, which are beyond a firm's control but nevertheless shape market competition and a firm's ability to surpass the performance of rivals [(Hunt and Morgan, 1996;](#page-10-4) [Hunt, 1997](#page-10-8)). Hence, the RA theory views each firm within an industry as a unique entity that is shaped by its institutional setting, history, networks and ability to leverage resources [(Hunt and Morgan, 1996](#page-10-4)).
+</text>
+
+<text page="2" section="2.1 Theoretical foundation" source="author" id="/page/1/Text/12">
+Prior studies highlight several essential resources based on the literature concerning global marketing and country branding. Some studies link these characteristics to a country's exports by applying the RB [(Aghazadeh](#page-9-6) et al., 2022) and RA (Sun et al.[, 2016](#page-11-6)) theories. Furthermore, Rojas-M[endez (2013)](#page-11-4) proposes a theoretical framework based on the RA theory to explore the significance of determinant variables in developing a nation brand, particularly the dimensions and facets of people's perspectives on a country brand. While the RB and RA theories focus on organizations, Sun et al. [(2016)](#page-11-6) assert that a country can be conceptualized as a "giant" firm or organization with many stakeholders. Other nation-branding studies also establish this association, as the branding strategies used by nations share notable similarities with corporate branding strategies ([Papadopoulos and Heslop, 2002](#page-11-7)). Thus, the RB and RA theories are also applicable to nations, even though nations are much more complex than organizations [(Rojas-M](#page-11-4)endez, [2013)](#page-11-4).
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="2.1 Theoretical foundation" source="author" id="/page/2/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+
+<heading page="3" section="2.2 Nation branding" source="author" id="/page/2/SectionHeader/4" level="4">
+#### 2.2 Nation branding
+</heading>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/5">
+Nation branding is related to the broad body of literature concerning place branding and destination branding [(Braun](#page-9-7) et al.[, 2014](#page-9-7); [Florek and Kavaratzis, 2014)](#page-9-8) and to country-oforigin studies ([Chattalas](#page-9-9) et al., 2008; [Lim and O](#page-10-9)'Cass, 2001; [Nobre and Sousa, 2022;](#page-11-8) [Pecotich and Rosenthal, 2001](#page-11-9); [White,](#page-12-1) [2012)](#page-12-1), and it also has connections to the area of public diplomacy [(Hassan and Mahrous, 2019)](#page-10-10). Due to the different areas of interest among scholars when it comes to this topic, it is crucial to differentiate between nation branding and destination branding, as well as between country image and country reputation. First, nation branding is defined by [Fan](#page-9-10) [(2010)](#page-9-10) as "a process by which a nation's images can be created, monitored, evaluated and proactively managed in order to improve or enhance the country's reputation among a target international audience" (p. 6). Thus, it refers to the extent to which the dimensions of a nation brand contribute to a country's ability to achieve its desired level of competitiveness [(Lee, 2009)](#page-10-11). Moreover, nation branding refers to the use of marketing and, more specifically, branding techniques designed to foster a highly competitive national image within the global marketplace of nations [(Schwak, 2016)](#page-11-10). Indeed, nation branding is intended to change or promote a nation's image and reputation among different audiences; provide it with a source of differentiation; and improve its economic, social, political, business and international competitiveness (Rojas-M[endez and Khoshnevis, 2023](#page-11-1); [Melnyk and](#page-11-11) [Varibrusova, 2019](#page-11-11)). In particular, the concept of nation branding has been applied in various campaigns intended to promote tourist destinations through strategic nation branding. Related initiatives include the design of various strategicbranding campaigns, such as the "Cool Britannia" [(Werther,](#page-12-2) [2011)](#page-12-2), "100% Pure New Zealand" ([Bell, 2008;](#page-9-11) [Morgan](#page-11-12) et al., [2002)](#page-11-12) and "Incredible India" [(Edwards and Ramamurthy,](#page-9-12) [2017)](#page-9-12) campaigns, which all sought to alter perceptions of the relevant nation brand as an attractive destination. In this regard, Blain et al. [(2005)](#page-9-13) define a destination brand as "the marketing activities (1) that support the creation of a name, symbol, logo, word mark or other graphic that both identifies and differentiates a destination; (2) that convey the promise of a memorable travel experience that is uniquely associated with the destination; and (3) that serve to consolidate and reinforce the recollection of pleasurable memories of the destination experience, all with the intent purpose of creating an image that influences consumers' decisions to visit the destination in question, as opposed to an alternative one" (pp. 331–332).
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/6">
+While country image and country reputation are related concepts, they also have key differences, and branding efforts involve addressing both concepts. First, country image, when broadly defined, refers to "mental representations of a country's people, products, culture and national symbols" (Verlegh and Steenkamp 1999, p. 525). [Roth and](#page-11-13) [Diamantopoulos (2009)](#page-11-13) view country image as the sum of consumers' cognitive beliefs about a country, the affective emotional value consumers attach to a country and consumers' behavioral interest in a country. In this sense, a country's image is fundamental to its reputation, appeal and brand identity, as a positive image can have numerous implications for a country's economic, social and political influence (Lu et al.[, 2019)](#page-10-12). A positive image of a country is understood to strongly correlate
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/7">
+with positive evaluations of products made in that country through product–country images; however, such evaluations may be biased by cultural stereotypes ([Verlegh and Steenkamp,](#page-12-3) [1999)](#page-12-3).
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/8">
+Second, country reputation relies on a more extensive range of elements to assess nation brands when compared with country image. Country reputation is understood as the "perceptions of a country over time based on direct and indirect experiences with the country as compared with its competitors" [(Kiambi, 2017,](#page-10-13) p. 62). Thus, the country reputation perspective considers various sources of reputation aligned with a country's strategic aims as well as how it competes with its competitors. Such a perspective has connections to the RA theory of the firm. When people form their perceptions about a country's reputation, it forms the basis of that country's consumer-based brand equity (Florek et al.[, 2019)](#page-9-14). The concept of brand equity has received considerable interest from nation-branding consultancy firms, which have developed a set of indices for assessing nation brand performance from the consumer perspective.
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/9">
+The Country Brand Index (CBI) [[1]](#page-9-15) and the Nation Brands Index (NBI) [[2](#page-9-16)] are among the most well-known indices that have ranked nations' brand performance annually since 2005 (Hao et al.[, 2021](#page-10-2)). The CBI evaluates nation brand performance based on five dimensions (value system, business benefits, quality of life, heritage and culture and tourism) [(Belloso, 2010)](#page-9-17). By contrast, the NBI relies on six dimensions (exports, governance, investment and immigration, culture and heritage, people and tourism) assessed through consumer surveys (Hao et al.[, 2021)](#page-10-2). While such indices have become popular tools, their inherent methodology has raised concerns among academics [(Fetscherin, 2010](#page-9-2)). For example, the respondents to surveys may have little experience of the countries they are asked to assess, meaning that their evaluations may be biased or based on inaccurate stereotypes.
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/10">
+More recently, as a response to criticism of consultancygenerated nation brand indices, academics have sought to develop complementary nation brand indices to assess countries' brand performance more objectively using statistical data [(Fetscherin, 2010](#page-9-2); Lahrech et al.[, 2020b](#page-10-1)). This perspective on nation brand performance is commonly referred to as "company-based brand equity" ([Atilgan](#page-9-18) et al., 2005; [Fetscherin, 2010](#page-9-2)), and it views the dimensions of a nation brand from the company perspective. Moreover, it focuses on the strategic elements that constitute the most significant resources a nation can leverage to compete effectively in the global marketplace and so strengthen its financial performance. Thus, this perspective aligns with the RB and RA theories.
+</text>
+
+<text page="3" section="2.2 Nation branding" source="author" id="/page/2/Text/11">
+The first company-based brand equity index in the field of nation branding was developed by [Fetscherin (2010)](#page-9-2), who assessed the nation brand performance of 32 countries in 2007 by focusing on five dimensions of a nation brand (exports, tourism, FDI, immigration and government environment). These dimensions, apart from government environment, were assessed using statistical data. As a result, Fetscherin developed the Country Brand Strength Index (CBSI) ([Fetscherin, 2010)](#page-9-2). Subsequently, [Lahrech](#page-10-1) et al. (2020b) assessed the nation brand performance of 131 countries over the period 2007–2015 using the same dimensions, albeit with the inclusion of the Human Development Index (HDI) as a sixth dimension. In so doing,
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="2.2 Nation branding" source="author" id="/page/3/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="4" section="2.2 Nation branding" source="author" id="/page/3/Text/4">
+they developed the modified Country Brand Strength Index (MCBSI). Both the MCBSI and CBSI country rankings align significantly with the NBI ranking, confirming that the consumer- and company-based brand equities represent similar assessments of countries' brand strength.
+</text>
+
+
+<heading page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/SectionHeader/5" level="4">
+#### 2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands
+</heading>
+
+<text page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Text/6">
+In the present study, we approach nation brand performance from the company-based brand perspective to align our approach with the RB and RA theories. We define it as a country's ability to achieve positive returns from its most crucial nation brand resources (i.e. tangible and intangible resources), which can impact a country's overall nation brand performance. As a starting point, we reviewed existing studies on nation branding to identify the dimensions of nation brand strength most often used to assess countries' brand performance. Due to the cross-disciplinary nature of prior nation-branding studies, and given the fact that academics and practitioners have developed various nation brand indices, there is no commonly agreed upon set of dimensions that constitute a nation brand. Table 1 presents the similarities and differences in terms of various dimensions across four different indices, namely, the CBSI and the MCBSI, which represent the company-based brand equity approach, as well as the NBI and the CBI, which build on the consumer-based brand equity approach.
+</text>
+
+<text page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Text/7">
+Scholars examining nation brand performance from the company-based brand equity perspective tend to assess brand strength on the basis of those factors with the most direct impact on a country's economic and financial performance. The most common dimensions that can be measured using objective data are the following: culture, tourism, exports, FDI, migration and governance. Thus, these six dimensions were selected for use in the present study when it comes to exploring the role of each dimension and their relative importance concerning nation brand strength. The six dimensions will be discussed in more detail in the following paragraphs.
+</text>
+
+<text page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Text/8">
+First, culture serves as the essence of a brand, playing a critical role in brand differentiation that creates an environment where audiences feel a strong sense of belonging (Fan and Zhou, 2020). Culture and the arts are effective tools for defining the essence of a nation brand and improving a country's image (Ahn and Wu, 2015). Torelli (2021) suggests that strengthening a nation's brand image in people's minds is best achieved by promoting its cultural image. Thus, culture can be considered an essential aspect of nation brand strength. A recent empirical study by Nobre and Sousa (2022) shows that people's perceptions of the cultural heritage of a country represent a reliable predictor of that country's overall reputation. Cultural heritage and the uniqueness of a culture, therefore, can be leveraged when building and developing a nation brand even further. Cultural brands tend to generate buzz and foster a loyal consumer group with a solid emotional connection due to their unique and positive meanings (Steenkamp, 2021). In the context of the RA theory, culture has the potential to foster a strong competitive advantage in the marketplace due its complexity and inimitability as well as its relatively immobile nature, which render it difficult to replicate or obtain (Hunt and Madhavaram, 2012).
+</text>
+
+<text page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Text/9">
+Second, tourism is regarded as one of the global economy's most significant and rapidly expanding sectors (Sokhanvar, 2019). The tourism industry is also considered one of a nation brand's most tangible and manageable aspects (Giannopoulos et al., 2011). The tourism factor essentially captures the motivations for people to visit a country due to its natural beauty, historic buildings, environment and city atmospheres (Nobre and Sousa, 2022), thereby creating awareness and rendering tourism a vital aspect of a country's image management and branding (Hakala et al., 2013). Furthermore, national culture, as reflected in the characteristics of a country's people, has also been found to attract tourists (Micevski et al., 2021). An empirical study of 20 European cities conducted by Mikulić et al. (2016) reveals that the strength of a destination brand is positively and significantly correlated with the number of tourists. Despite the differences in their socio-economic
+</text>
+
+<table_group page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/TableGroup/171">
+<caption page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Caption/10">
+Table 1 Nation brand index summary and comparison
+</caption>
+<table page="4" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/3/Table/11">
+| Index | Author(s) | Index attributions; brand equity perspective | Dimensions used | Similarity and differences |
+| --- | --- | --- | --- | --- |
+| CBSI | Fetcherin (2010) | AcademicsCompany-based brandequity | Five dimensions (exporting, tourism, FDI, immigration and government environment) | Tourism is present in the four indices
+    Exports are present in the four indices with the exception of CBI |
+| MCBSI | Lahrech et al. (2020b) | AcademicsCompany-based brandequity | Six dimensions (exports, tourism,FDI, migration, governmentenvironment and the HDI) | Immigration is present in the four indices, except for CBI
+    FDI is present in CBSI and MCBSI and is |
+| NBI | Anholt-Ipsos Consultancy | Private practitioners;Consumer-based brandequity | Six dimensions (exports,governance, investment andimmigration, culture andheritage, people and tourism) | included in NBI and CBI under different names – investment and business benefits, respectively
+• Government environment or governance is present in all indices, except for CBI |
+| СВІ | FutureBrand Consultancy | Private practitioners;consumer-based brandequity | Five dimensions (value system, business benefits, quality of life, heritage and culture and tourism), | Culture is present in NBI and CBI, but not in CBSI and MCBSI
+    Human Development Index (HDI) and the people are present in MCBSI and NBI.
+    The values system and quality of life are only present in CBI |
+| Source: | developed by the authors |  |  | • • |
+</table>
+</table_group>
+
+</page>
+<page number="5">
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/4">
+development, tourism is important for all nations because it represents a significant source of foreign currency, income and both direct and indirect employment ([Sinclair, 1998](#page-11-18)). As a result, nation-branding initiatives traditionally focus on promoting tourism [(Teslik, 2007](#page-11-19)).
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/5">
+Third, economically developed nations tend to have a favorable country image, which has been shown to enhance their exports (Sun et al.[, 2016](#page-11-6)) because companies can use the positive country-of-origin image to their advantage when marketing products (e.g. Swiss watches) [(Fetscherin, 2010)](#page-9-2) or services [(Javalgi](#page-10-17) et al., 2001). Nation branding also involves the promotion of intangible goods and services for export purposes [(Nguyen and Özçaglar-Toulouse, 2021](#page-11-20)). As previously discussed, countries benefit from their image when consumers view products or services from a particular country in a positive light based on that country's production and marketing strengths ([Roth and Romeo, 1992)](#page-11-21). Thus, we argue that the total number of exports positively correlates with a nation brand's strength. Exports are important for less developed countries and emerging economies as well, as a nation brand identity can result in favorable perceptions and impressions in relation to certain product categories, and it can also contribute to boosting exports of such products (Hao et al.[, 2021](#page-10-2)). This kind of benefit can be seen in, for example, exports of Columbian coffee or Russian vodka ([Fetscherin, 2010](#page-9-2)).
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/6">
+Fourth, the ability of a nation to attract FDI is another critical dimension of nation brand strength. Despite the significant and growing interest in nation branding when it comes to attracting FDI (Bose et al.[, 2020](#page-9-21); [Lahrech](#page-10-18) et al., [2020a;](#page-10-18) [Lee and Lee, 2021;](#page-10-19) [Schoeneman and Fullerton, 2022)](#page-11-22), the two concepts are both associated with significant research gaps ([Papadopoulos](#page-11-23)et al., 2016). Nevertheless, the significance and value of FDI on a global scale have motivated nations and policymakers to market their economies in an effort to attract more investors (Lahrech et al.[, 2020a](#page-10-18)). Furthermore, [Fetscherin (2010)](#page-9-2) argues that a high level of FDI indicates a powerful national brand. Elsewhere, the empirical investigation involving a panel regression model conducted by [Lahrech](#page-10-18) et al. [(2020a](#page-10-18)) on the ten best-performing nation brands in 2008– 2014 confirms that countries with strong nation brands benefit from a significant increase in FDI. Hence, we argue that the ability of a nation to attract FDI may significantly and positively enhance its nation brand performance and attract new investors. The tangible factors most commonly examined in prior research on the determinants of FDI are considered hard country characteristics [(Papadopoulos](#page-11-23)et al., 2016).
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/7">
+Fifth, migration is another crucial dimension of a nation brand. A core aspect of nation branding concerns the creation of positive country perceptions among both internal and external audiences to provide a nation with a competitive advantage over its competitors ([Yousaf](#page-12-4) et al., 2020). Global competition to attract the best and brightest immigrants and maintain the local talent pool has become increasingly crucial due to these people's importance with regard to the economic growth and competitiveness of nations ([Silvanto and Ryan,](#page-11-24) [2014)](#page-11-24). For instance, Canada has developed the brand image of an immigrant-friendly country that is praised for its multicultural policies, which advance equality and tolerance of cultural diversity [(Bhuyan](#page-9-22) et al., 2017). The mobility of talent is significant here. For instance, in 2010, there were
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/8">
+approximately 28 million highly skilled migrants in the Organization for Economic Cooperation and Development (OECD) countries, which represented an increase of nearly 130% since 1990 [(Chand and Tung, 2019)](#page-9-23). Furthermore, several OECD countries rank highly in terms of the various nation brand indices, including CBSI ([Fetscherin, 2010)](#page-9-2) and the MCBSI ([Lahrech](#page-10-1) et al., 2020b).
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/9">
+Sixth, governance is viewed as an enabler of many dimensions of nation brands because positive and supportive government and governance practices encourage exports, tourism, investment and migration. Moreover, a strong nation brand can further boost a country's exports; attract tourists, investments and immigration; and create a positive image and perception of the country (He et al.[, 2021)](#page-10-0). As country branding involves fostering or changing people's perceptions of the image and reputation of a country, the government environment plays a significant role in it. Furthermore, the government has a key influence on a country's soft power, which has been identified as an essential motivator of nation branding attempts ([Papadopoulos](#page-11-23) et al., 2016), while the government is also viewed as a significant external resource enabler from the RA theory perspective (Hunt and Morgan, 1997). Therefore, supportive governance fosters the growth of a broadly favorable and powerful nation brand ([Fetscherin,](#page-9-2) [2010)](#page-9-2). This argument aligns with the RB and RA theories, which suggest that both tangible and intangible resources can provide a valuable competitive advantage, especially when such resources are effectively leveraged. To use its government or governance system as a strategic external resource, a country needs to build an effective system for enabling the conditions that attract tourists, investments and immigration to strengthen its nation brand strength. This can be achieved through policies and practices such as controlling corruption, enhancing public safety and ensuring the existence of transparent laws and regulations that protect businesses' and citizens' rights.
+</text>
+
+<text page="5" section="2.3 Operationalizing nation branding for research purposes: defining the core dimensions of nation brands" source="author" id="/page/4/Text/10">
+In sum, the six previously discussed dimensions of a nation brand are likely to make significant contributions to developing a nation's competitiveness, which is why they serve as the starting point for developing this study's methodology.
+</text>
+
+
+<heading page="5" section="3. Methodology" source="author" id="/page/4/SectionHeader/11" level="4">
+#### 3. Methodology
+</heading>
+
+<text page="5" section="3. Methodology" source="author" id="/page/4/Text/12">
+The methodology for this study involved three steps. First, to assess nation brand strength, the variables most commonly associated with nation brands (culture, tourism, exports, FDI, migration and governance) were identified based on a review of prior studies. Next, we collected panel data from 48 countries with data available from 2011–2019. Governance was measured on the basis of the global governance indicators (GGI) provided by the World Bank, which measure corruption, government effectiveness, political environment, regulatory environment, the rule of law and voice and accountability. The culture variable was measured using [Yeganeh](#page-12-5)'s (2013) Compound Culture Index (CCI), which is an integrative measure of national culture combining the wellknown cultural dimensions suggested by [Hofstede (2001)](#page-10-20) and [Inglehart (1997,](#page-10-21) [2006)](#page-10-22). These dimensions are intended to explain how cultures differ in terms of their value system and religion, and they also indicate whether a culture is more traditional or more modern. The annual exports and
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/4">
+investments (net FDI) amounts were obtained from the World Bank, whereas the migration data were obtained from the United Nations'statistics.
+</text>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/5">
+To compare the countries' brand performance, we used the MCBSI ([Lahrech](#page-10-1) et al., 2020b) to create a longitudinal nation brand index. The MCBSI uses exports, tourism, FDI, migration, the government environment and the HDI to assess nation brand strength. However, we excluded the HDI and added the culture element to the formula to better align it with the variables for measuring nation brands discussed above. We used the following formula to measure the MCBSI:
+</text>
+
+<equation page="6" section="3. Methodology" source="author" id="/page/5/Equation/6">
+$$
+MCBSI_{it} = f(Export_{it}, Tourism_{it}, Net FDI_{it}, Migration_{it}, GGI_{it}, CCI_{it})
+(1)
+$$
+</equation>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/7">
+where Exportit is the total exports of country i at year t, Tourismit is the total number of tourists visiting country i at year t, FDIit is the net FDI of country i at year t, Migrationit is the number of immigrants living in country i at year t, GGIit is the GGI of country i at year t and CCIit is the CCI of country i at year t.
+</text>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/8">
+Following the MCBSI and Lahrech et al.'[s (2020b)](#page-10-1) guidelines for constructing composite indicators for comparing countries' brand strength, we obtained the relative values by dividing each factor by its cross-country maximum and then allocated different weights to the variables based on the factor analysis method. We also calculated the weight, Wi, using the factor analysis method. Thus, equation (2) was formulated as follows:
+</text>
+
+<equation page="6" section="3. Methodology" source="author" id="/page/5/Equation/9">
+$$
+MCBSI_{it} = W_1 * \frac{Export_{it}}{Max_t(Export)} + W_2 * \frac{Tourism_{it}}{Max_t(Tourism)} + W_3
+* \frac{Net \ FDI_{it}}{Max_t(Net \ FDI)} + W_4 * \frac{Migration_{it}}{Max_t(Migration)} + W_5
+* \frac{GGI_{it}}{Max_t(GGI)} + W_6 * \frac{CCI_{it}}{Max_t(CCI)}
+(2)
+$$
+</equation>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/10">
+Next, we used the k-medoid clustering method, in combination with the cluster sums of squares (WSS), to partition the MCBSI data into clusters. This was done to allow us to assess the different country brand clusters and the relative importance of the nation brand predictors within those clusters. Several clustering approaches are available for partitioning data into clusters, although the k-means technique is the most basic and wellknown approach. The k-means technique works by minimizing the sum of square errors (SSE) between the cluster mean and each data point within the cluster. The aim is to divide the data into k clusters, with each data point or observation belonging to the cluster with the closest mean. The presence of outliers within a data set can cause the k-means to produce a non-representative cluster [(Barnet and Lewis, 1994)](#page-9-24). However, the k-medoids method proposed by [Kaufman and Rousseeuw (1990)](#page-10-23)represents an alternative method that is robust to the presence of outliers because the data points are chosen as medoids rather than on the basis of the mean. A cluster medoid is defined as the data point with the smallest average distance to the other data points within the same cluster, meaning that it is located in the cluster's center. Therefore, the k-medoid of a cluster measures the middle data point of a cluster with the smallest average distance to the other
+</text>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/11">
+data points within the same cluster, thereby allowing for the identification of any data point within the same cluster. In this way, we identified three clusters of countries: 16 strong, 13 moderate and 19 weak nation brands (see [Figure 1](#page-6-0) and [Table 2](#page-6-1)).
+</text>
+
+<text page="6" section="3. Methodology" source="author" id="/page/5/Text/12">
+Finally, we applied a linear model of predictor variable importance using SPSS modeler within each cluster to identify the relative importance of each predictor variable in estimating the nation brand strength ([Table 3)](#page-6-2). Rather than calculating the relative importance based on the regression weights, we computed the importance indices because they are operationalized and expressly designed to reflect the relative importance of the predictors within a linear regression model, even when extreme multicollinearity exists ([Braun and Oswald,](#page-9-25) [2011)](#page-9-25).
+</text>
+
+
+<heading page="6" section="4. Results and discussion" source="author" id="/page/5/SectionHeader/13" level="2">
+## 4. Results and discussion
+</heading>
+
+<text page="6" section="4. Results and discussion" source="author" id="/page/5/Text/14">
+Our results identify the predictors of nation brand strength in three country clusters: Cluster A, which includes 16 countries with strong nation brand strength; Cluster B, which includes 13 countries with moderate nation brand strength; and Cluster C, which includes 19 countries with weak nation brand strength. Moreover, the results indicate that the relative importance of the nation brand performance predictor variables (i.e. culture, tourism, migration, governance, FDI and exports) differs across the assessed country clusters (see [Table 3](#page-6-2)). In the following, we will first discuss the findings for each cluster and then contrast the key differences in the nation brand strength predictors among the clusters.
+</text>
+
+<text page="6" section="4. Results and discussion" source="author" id="/page/5/Text/15">
+First, the countries in Cluster A perform best in terms of attracting tourism and migration, with each dimension achieving around 27% significance. The third most crucial dimension is found to be FDI (15.60%), while culture is found to be the fourth most important dimension (14.88%). Exports represent the fifth most important element (10.24%). Finally, the governance dimension achieves only 5.10% significance, making it the least important element of nation brand strength among the countries in this cluster. Second, tourism and culture are the two most important dimensions of nation brand strength (around 38% and 33%, respectively) for the countries in Cluster B. This is as expected, as Cluster B includes several countries well-known for culture and tourism, such as Italy, Spain and Portugal. The third most important nation brand strength predictor in Cluster B is FDI (around 14.43%), which has almost at the same level of importance as in Cluster A. The remaining variables signal a lower level of importance, with migration, exports and governance scoring 7.76%, 4.75% and 1.42%, respectively. Third, for the countries in Cluster C, tourism is the most important nation brand strength predictor, accounting for 46.56% of the nation brand strength, which indicates it to be more than twice as important as the second most important element, culture (20.39%). This finding is logical because, when considering the importance of tourism to the overall economies of the Cluster C countries, it plays a more significant role than in Clusters A and B, which include more industrialized and diversified economies, such as the USA, the UK and Germany. In Cluster C, the exports dimension is the third most important nation brand strength predictor (15.29%). This finding is also logical, as most of the cluster C countries' economies rely on exports of natural resources and
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="4. Results and discussion" source="author" id="/page/6/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<figure_group page="7" section="4. Results and discussion" source="author" id="/page/6/FigureGroup/205">
+<caption page="7" section="4. Results and discussion" source="author" id="/page/6/Caption/4">
+Figure 1 Clustering using the WSS method
+</caption>
+<figure page="7" section="4. Results and discussion" source="author" id="/page/6/Figure/5" image="A3.R61_fig02.jpg">[FIGURE: see A3.R61_fig02.jpg]</figure>
+</figure_group>
+
+<table_group page="7" section="4. Results and discussion" source="author" id="/page/6/TableGroup/206">
+<caption page="7" section="4. Results and discussion" source="author" id="/page/6/Caption/7">
+Table 2 Clustering of the 48 countries
+</caption>
+<table page="7" section="4. Results and discussion" source="author" id="/page/6/Table/8">
+| Group 1(Strong nation brands) | Group 2(Moderate nation brands) | Group 3(Weak nation brands) |
+| --- | --- | --- |
+| Australia | Belgium | Argentina |
+| Austria | Chile | Brazil |
+| Canada | Estonia | Bulgaria |
+| Denmark | Hungary | Colombia |
+| Finland | Israel | Egypt, Arab Rep. |
+| Germany | Italy | Guatemala |
+| Ireland | Japan | India |
+| Luxembourg | Malaysia | Indonesia |
+| The Netherlands | Poland | Iran, Islamic Rep. |
+| New Zealand | Portugal | Jordan |
+| Norway | South Africa | Mexico |
+| Singapore | Spain | Morocco |
+| Sweden | Uruguay | Peru |
+| Switzerland |  | Philippines |
+| UK |  | Romania |
+| USA |  | Russian Federation |
+|  |  | Thailand |
+|  |  | Turkey |
+|  |  | Vietnam |
+| Source: Developed by the authors |  |  |
+</table>
+<caption page="7" section="4. Results and discussion" source="author" id="/page/6/Caption/9">
+Table 3 Summary of the results
+</caption>
+</table_group>
+
+<table page="7" section="4. Results and discussion" source="author" id="/page/6/Table/10">
+|  |  |  | Moderate nation brands |  | Weak nation brands(19 countries) |
+| --- | --- | --- | --- | --- | --- |
+| Factors | Strong nation brands (16 countries) | Factors | (13 countries) | Factors |
+| Tourism | 27.10% | Tourism | 38.38% | Tourism | 46.56% |
+| Migration | 27.07% | Culture | 33.26% | Culture | 20.39% |
+| Net FDI | 15.60% | Net FDI | 14.43% | Exports | 15.29% |
+| Culture | 14.88% | Migration | 7.76% | Governance | 6.46% |
+| Exports | 10.24% | Exports | 4.75% | Migration | 6.04% |
+| Governance | 5.10% | Governance | 1.42% | Net FDI | 5.26% |
+|  | Source: Developed by the authors |  |  |  |  |
+</table>
+
+</page>
+<page number="8">
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/4">
+items such as textiles. The governance, migration and FDI dimensions are the least significant nation brand predictors in Cluster C, achieving scores of 6.46%, 6.04% and 5.26%, respectively.
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/5">
+When comparing the three clusters in terms of the key differences in the nation brand strength predictor variables, our cluster analysis reveals that the cultural dimension has a lower relative importance in Cluster A when compared with Clusters B and C. Moreover, Cluster A countries tend to perform better in attracting migration and FDI than the countries in Clusters B and C. It is expected that having a reputation as a modern and developed economy allows such countries to attract both migrants and investments. A strong and positive country brand is further expected to attract people and investments. Our comparison of Clusters B and C reveals that Cluster B countries perform better in attracting migration and FDI than those in Cluster C, while the cultural dimension is also more significant for Cluster B countries than Cluster C countries. The results concerning migration are not surprising, given that Cluster C countries are often the source countries of migrants. For example, nearly 400,000 scientists and engineers from developing countries are known to have emigrated to developed countries for employment purposes [(International](#page-10-24) [Labour Organization, 2004)](#page-10-24). By contrast, several Cluster A countries are among the largest recipients of migrants when immigration is measured in absolute numbers [(Migration Policy](#page-11-25) [Institute, 2022)](#page-11-25).
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/6">
+In addition, it is worth noting that as we move from Cluster A to B to C, the difference in the relative importance between the nation brand strength dimensions grows. Thus, there is more of an imbalance in the relative importance of the dimensions. Our results suggest that the countries in Cluster A are more balanced regarding the relative importance of each dimension when compared with those in Clusters B and C, which tend to focus on one or two dimensions. Our data indicate that the greatest difference exists between the tourism and culture dimensions in Cluster C (with the difference being 26.17% among these dimensions, which are the two most important variables in this cluster). Moreover, when combined, the relative importance of these two dimensions in Cluster C accounts for almost 67% of the total importance of all six variables. Similarly, Cluster B countries show a strong reliance on the two most important variables in relation to their nation brand strength, namely tourism and culture, which have a combined weight of nearly 72%.
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/7">
+These latter findings are of significant importance for nation brand management and policy. From the RB/RBV theory perspective, developing all the nation brand dimensions is essential because a strong brand built across all these dimensions can offer a unique and imperfectly imitable resource that can be exploited in the market (cf. [Varadarajan,](#page-11-5) [2023)](#page-11-5). Such holistic nation brand building requires implementing a strategy to develop each dimension rather than focusing on only one or two dimensions. Thus, nationbranding efforts call for a holistic strategy for achieving longterm effects rather than strategies that focus on short-term effects, such as tourism promotion campaigns, which may not be a source of competitive advantage in the long run. For example, the tourism industry may become more expensive to maintain in the long term when compared with manufactured goods and other services that can be exported, as the
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/8">
+opportunities to increase productivity are more limited in the tourism industry [(Smeral, 2003)](#page-11-26). As a consequence, a nation must pursue a more balanced approach in the long term to develop and maintain its brand strength. Furthermore, securing a position among the top nation brands entails a lengthy and resource-consuming process involving all the aspects of socio-economic development, including the social, economic, governance and cultural sectors, using which countries can distinguish themselves and retain their position among the strong nation brands.
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/9">
+The RA theory further implies that as not all firms can simultaneously be superior in terms of their resources [(Hunt](#page-10-4) [and Morgan, 1996](#page-10-4)), for nations to compete effectively in dynamic market environments, they should effectively leverage the most valuable resources in relation to which they have comparative advantages. With such a strategy, nations can achieve both efficiency and effectiveness in their nationbranding attempts. In particular, the "niche nation brands" [(Steenkamp, 2021](#page-11-0)), which possess certain well-developed aspects and are often linked to economic development, culture, or political systems, can benefit from a competitive advantage in certain areas where such countries successfully leverage their comparative advantages. Here, suppose such countries intend to remain distinct niche nation brands. In this case, niche countries can continue to apply the same leveraging strategy if their resources are truly more unique than those of their competitors and if their competitive advantage is expected to be sustained. However, the RA theory proposes that firms should focus on innovation and constantly aim to improve their competencies, as long-term market success depends on a firm's ability to create and leverage new resources. In accordance with this perspective, we propose that moderate and weak nation brands would most benefit in the short run from leveraging those nation brand dimensions with the highest weights (culture and tourism) to gain financial and other important resources that would allow them to develop other areas of their nation brands.
+</text>
+
+<text page="8" section="4. Results and discussion" source="author" id="/page/7/Text/10">
+In addition to tourism, we argue that culture is an important nation brand predictor variable from the RA and RB theory perspectives, particularly for moderate and weak nation brands, as people tend to draw on stereotypes more when they form images of countries that they are not familiar with or that are not well known ([Hakala](#page-10-16) et al., 2013). Such stereotypes serve as heuristics when it comes to consumers' perception processes, being formed through judgments concerning a country's people, products and nature, as well as its social, political and economic conditions ([Hakala](#page-10-16) et al., 2013). While stereotypes may not represent accurate perceptions, culture-related positive stereotypes may assist countries in strengthening their tourism and exports further if their culture is perceived as unique or exotic. Moreover, country-related stereotypes of competence and warmth, both of which are characteristics of national culture and people, have been found to develop and influence country-related emotions, which influence consumers' intentions to visit a particular country [(Micevski](#page-11-16) et al.[, 2021](#page-11-16)). Therefore, culture is an important dimension and intangible resource in relation to nation brand strength, and it can also positively contribute to the other dimensions of a nation brand. The role of culture in nation brand strength aligns with the relative importance assigned to the dimension in
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="4. Results and discussion" source="author" id="/page/8/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="9" section="4. Results and discussion" source="author" id="/page/8/Text/4">
+consumer-based nation brand indices, as demonstrated in [Table 1](#page-3-0). The present results also show the importance of culture for countries with a strong nation brand, as it is nearly as important an element as FDI. Thus, our results confirm that culture is an important dimension, whether measured from the consumer- or company-based brand equity perspective.
+</text>
+
+<text page="9" section="4. Results and discussion" source="author" id="/page/8/Text/5">
+Through leveraging their most crucial nation brand predictor variables, nations with moderate and weak brand strength can best achieve their long-term objectives in terms of developing a more balanced nation brand and, perhaps, challenge some of the strong nation brands. While nation brand development is a lengthy process, recent studies have shown how certain nations have leapfrogged some of their peers in strengthening their nation brands [(Juusola and Lahrech, 2022](#page-10-25)). For example, [Juusola and Lahrech (2022)](#page-10-25) demonstrated that certain "booming nation brands" (i.e. China and Finland) have strengthened their brand performance with a speed that surpassed the speed of their peer countries, which consequently placed them among the countries with strong nation brands. These findings suggest that both countries have been able to leverage their resources, as proposed by the RB and RA theories, in their efforts to build more balanced nation brands.
+</text>
+
+
+<heading page="9" section="5. Conclusion" source="author" id="/page/8/SectionHeader/6" level="2">
+## 5. Conclusion
+</heading>
+
+<text page="9" section="5. Conclusion" source="author" id="/page/8/Text/7">
+This comparative study examined the core dimensions of a nation brand (tourism, migration, governance, FDI, exports and culture) using the actual market performance across the six dimensions in 48 countries from 2011–2019 after applying a clustering method to identify the most critical predictors of nation brand strength within each cluster. Tourism and migration were almost equally the top two most important dimensions in the cluster of countries with a strong brand strength, followed by FDI and culture. Tourism and culture were the top two predictors for those countries with moderate and weak nation brands. These country clusters also revealed a more significant gap between the two most important nation brand variables, rendering them more reliant on a lower number of variables when compared with the countries with strong nation brand strength, which showed a more balanced approach. Such variation in the relative importance within each cluster is a significant finding, as it shows that as we move from the cluster of countries with strong nation brand strength to those with moderate brand strength and then to those with weak brand strength, the variation in the relative importance between the dimensions becomes wider and has a higher difference. This implies that building a strong nation brand is a lengthy and resource-intensive process that best benefits from a holistic approach and a strategy that focuses on improving all the relevant dimensions. Yet, such a holistic approach is not a predetermined plan for improving country image; rather, it is a consequence of the institutional, governance, social and economic factors that form the foundation of nation brand strength and reputation. As a consequence, we argue that policymakers in countries within the moderate and weak nation brand clusters should recognize that while focusing on tourism or promoting culture might improve their country image to a certain extent, improving the nation brand to be on par with the leading nation brands requires building strong institutional, governance, social and economic foundations.
+</text>
+
+
+<heading page="9" section="5.1 Implications" source="author" id="/page/8/SectionHeader/8" level="2">
+## 5.1 Implications
+</heading>
+
+<text page="9" section="5.1 Implications" source="author" id="/page/8/Text/9">
+The main implication of our study is that nation-branding stakeholders should consider the broader objectives of their nation brand development and how to build brand equity in a way that contributes to the relevant nation's long-term strategic socio-economic development goals. This is important concerning nations' ability to monetize their nation brand equity (He et al.[, 2021)](#page-10-0). Our findings contribute to the literature on nation brand management ([Fetscherin, 2010](#page-9-2); [Lahrech](#page-10-18) et al., 2020a; [Lahrech](#page-10-1) et al., 2020b), particularly the stream concerning the monetization of nation brand equity, which has recently been highlighted as being as worthy of further research attention (He et al.[, 2021)](#page-10-0). Our study also connects nation branding to the RB and RA theories, which have previously received only scant empirical attention, despite the apparent connections between such theories and branding (Rojas-M[endez, 2013](#page-11-4)). We argue that success in monetizing nation brand equity depends on a county's structural factors and priorities, a country's ability to effectively leverage its resources, and a country's ability to evaluate the factors that influence its performance in relation to competitors. Understanding the most important predictors of nation brand strength can facilitate countries' decisions regarding their nation branding initiatives and ensure that they are guided by research. Moreover, nation-branding initiatives should combine strategies for leveraging strategic resources over different time horizons (short-, intermediate- and long-term horizons) to monetize the brand value and potential, which can support the development of a more dynamic, diverse, competitive and balanced nation brand.
+</text>
+
+
+<heading page="9" section="5.2 Limitations and future research" source="author" id="/page/8/SectionHeader/10" level="4">
+#### 5.2 Limitations and future research
+</heading>
+
+<text page="9" section="5.2 Limitations and future research" source="author" id="/page/8/Text/11">
+One limitation of this study concerns the coverage of the included countries, given the need for more available statistical data regarding more countries. Future studies could use alternative methods to assess a more extensive set of countries to validate our findings. Further empirical research is also needed to explore the brand equity management of different countries from the RB and RA perspectives. Such studies could consider adopting portfolio management approaches in relation to nation brand management. They could also consider aspects such as market fluctuations and seasonality and then estimate their impacts on some of the dimensions of a nation brand. Moreover, recent research [(Medina](#page-11-27) et al., 2022) has suggested that it is vital for countries to develop strategies for overcoming their structural weaknesses (e.g. the seasonality of tourism, which impacts countries that rely on tourism) to improve the overall efficiency of their place brand management as well as further to develop other important aspects of the nation brand so as to improve performance in terms of attracting talent and investment, which should foster economic development and so facilitate the monetization of brand equity. From the RB and RA theory perspectives, further research is also needed to strengthen the understanding of nation branding, how countries leverage their nation brands in multimarket competitions to attract particular customer segments and how countries aim to secure their competitive or comparative advantage in such segments. As the two theories suggest that there is always more than one possible way to achieve a desired outcome, such as superior performance
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="5.2 Limitations and future research" source="author" id="/page/9/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<text page="10" section="5.2 Limitations and future research" source="author" id="/page/9/Text/4">
+[(Varadarajan, 2023](#page-11-5)), future studies could compare how country brands that are similar in terms of their brand strength pursue different strategies in their attempts to achieve and maintain a comparative or competitive advantage.
+</text>
+
+
+<heading page="10" section="Notes" source="author" id="/page/9/SectionHeader/5" level="2">
+## Notes
+</heading>
+
+<list page="10" section="Notes" source="author" id="/page/9/ListGroup/633">
+- 1 Every year, the FutureBrand consulting firm creates the CBI, which evaluates the 29 brand qualities and seven brand strength criteria of 102 nations based on expert opinions, statistics and quantitative data [(Belloso, 2010](#page-9-17)).
+- 2 The Anholt-Ipsos NBI, which was formerly known as the Anholt-GfK Roper NBI, is an annual global nation brand survey that currently assesses consumers' images of around 60 nations through interviews with 60,000 adults aged 18 and over in 20 core panel countries ([McGrath and](#page-10-26) [Bobev, 2022](#page-10-26)).
+</list>
+
+
+<heading page="10" section="References" source="author" id="/page/9/SectionHeader/8" level="2">
+## References
+</heading>
+
+<list page="10" section="References" source="author" id="/page/9/ListGroup/634">
+- Aghazadeh, H., Beheshti Jazan Abadi, E. and Zandi, F. (2022), "Branding advantage of Agri-food companies in competitive export markets: a resource-based theory", British Food Journal, Vol. 124 No. 7, pp. 2039-2060, doi: [10.1108/BFJ-](http://dx.doi.org/10.1108/BFJ-08-2021-0952)[08-2021-0952.](http://dx.doi.org/10.1108/BFJ-08-2021-0952)
+- Ahmad, A. and Salleh, S.M. (2019), "Brand related capabilities and the process of integrated marketing communications (IMC): a resource based view (RVB)", Journal of Contemporary Research in Social Sciences, Vol. 1 No. 6, pp. 136-150, doi: [10.33094/26410249.2019.](http://dx.doi.org/10.33094/26410249.2019.16.136.150) [16.136.150](http://dx.doi.org/10.33094/26410249.2019.16.136.150).
+- Ahn, M.J. and Wu, H.C. (2015), "The art of nation branding", Public Organization Review, Vol. 15 No. 1, pp. 157-173, doi: [10.1007/s11115-013-0255-6.](http://dx.doi.org/10.1007/s11115-013-0255-6)
+- Anholt, S. (2005), "Nation brand as context and reputation", Place Branding, Vol. 1 No. 3, pp. 224-228, doi: [10.1057/](http://dx.doi.org/10.1057/palgrave.pb.5990023) [palgrave.pb.5990023.](http://dx.doi.org/10.1057/palgrave.pb.5990023)
+- Atilgan, E., Aksoy, S . and Akinci, S. (2005), "Determinants of the brand equity: a verification approach in the beverage industry in Turkey", Marketing Intelligence &amp; Planning, Vol. 23 No. 3, pp. 237-248, doi: [10.1108/](http://dx.doi.org/10.1108/02634500510597283) [02634500510597283.](http://dx.doi.org/10.1108/02634500510597283)
+- Barnet, V. and Lewis, T. (1994), Outliers in Statistical Data, John Wiley, Chichester.
+- Barney, J.B. (1991), "Firm resources and sustained competitive advantage", Journal of Management, Vol. 17 No. 1, pp. 99-120, doi: [10.1177/014920639101700108](http://dx.doi.org/10.1177/014920639101700108).
+- Barney, J.B. and Arikan, A.M. (2001), "The resource-based view: Origins and implications", in Hitt, M.A., Freeman, R. E. and Harrison, J.S. (Eds), The Blackwell Handbook of Strategic Management, Oxford, Blackwell, pp. 123-182.
+- Bell, C. (2008), "100% PURE New Zealand: branding for back-packers", Journal of Vacation Marketing, Vol. 14 No. 4, pp. 345-355, doi: [10.1177/1356766708094755](http://dx.doi.org/10.1177/1356766708094755).
+- Belloso, J.C. (2010), "Evaluation of existing rankings and assessment of the country brand", available at: [www.raco.](http://www.raco.cat/index.php/Paradigmes/article/viewFile/219579/300188 ) [cat/index.php/Paradigmes/article/viewFile/219579/300188](http://www.raco.cat/index.php/Paradigmes/article/viewFile/219579/300188 ) (accessed 26 February 2023).
+</list>
+
+<list page="10" section="References" source="author" id="/page/9/ListGroup/635">
+- Bhuyan, R., Jeyapal, D., Ku, J., Sakamoto, I. and Chou, E. (2017), "Branding 'Canadian experience' in immigration policy: nation building in a neoliberal era", Journal of International Migration and Integration, Vol. 18 No. 1, pp. 47-62, doi: [10.1007/s12134-015-0467-4](http://dx.doi.org/10.1007/s12134-015-0467-4).
+- Blain, C., Levy, S.E. and Ritchie, J.B. (2005), "Destination branding: insights and practices from destination management organizations", Journal of Travel Research, Vol. 43 No. 4, pp. 328-338, doi: [10.1177/004728750](http://dx.doi.org/10.1177/0047287505274646) [5274646](http://dx.doi.org/10.1177/0047287505274646).
+- Bose, S., Roy, S.K., Alwi, S.F.S. and Nguyen, B. (2020), "Measuring customer based place brand equity (CBPBE) from a public diplomacy perspective: evidence from West Bengal", Journal of Business Research, Vol. 116, pp. 734-744, doi: [10.1016/j.jbusres.2018.01.059](http://dx.doi.org/10.1016/j.jbusres.2018.01.059).
+- Braun, E., Eshuis, J. and Klijn, E.H. (2014), "The effectiveness of place brand communication", Cities, Vol. 41, pp. 64-70, doi: [10.1016/j.cities.2014.05.007.](http://dx.doi.org/10.1016/j.cities.2014.05.007)
+- Braun, M.T. and Oswald, F.L. (2011), "Exploratory regression analysis: a tool for selecting models and determining predictor importance", Behavior Research Methods, Vol. 43 No. 2, pp. 331-339, doi: [10.3758/s13428-](http://dx.doi.org/10.3758/s13428-010-0046-8) [010-0046-8.](http://dx.doi.org/10.3758/s13428-010-0046-8)
+- Chand, M. and Tung, R.L. (2019), "Skilled immigration to fill talent gaps: a comparison of the immigration policies of the United States, Canada, and Australia", Journal of International Business Policy, Vol. 2 No. 4, pp. 333-355, doi: [10.1057/s42214-019-00039-4.](http://dx.doi.org/10.1057/s42214-019-00039-4)
+- Chattalas, M., Kramer, T. and Takada, H. (2008), "The impact of national stereotypes on the country of origin effect: a conceptual framework", International Marketing Review, Vol. 25 No. 1, pp. 54-74, doi: [10.1108/02651330](http://dx.doi.org/10.1108/02651330810851881) [810851881](http://dx.doi.org/10.1108/02651330810851881).
+- Dinnie, K. (2008), Nation Branding: Concepts, Issues, Practice, Butterworth-Heinemann, Oxford.
+- Edwards, L. and Ramamurthy, A. (2017), "(In)credible India? A critical analysis of India's nation branding", Communication, Culture &amp; Critique, Vol. 10 No. 2, pp. 322-343, doi: [10.1111/cccr.12152.](http://dx.doi.org/10.1111/cccr.12152)
+- Fan, K.K. and Zhou, Y. (2020), "The influence of traditional cultural resources (TCRs) on the communication of clothing brands", Sustainability, Vol. 12 No. 6, doi: [10.3390/](http://dx.doi.org/10.3390/su12062379) [su12062379.](http://dx.doi.org/10.3390/su12062379)
+- Fan, Y. (2010), "Branding the nation: towards a better understanding", Place Branding and Public Diplomacy, Vol. 6 No. 2, pp. 97-103, doi: [10.1057/pb.2010.16.](http://dx.doi.org/10.1057/pb.2010.16)
+- Fetscherin, M. (2010), "The determinants and measurement of a country brand: the country brand strength index", International Marketing Review, Vol. 27 No. 4, pp. 466-479, doi: [10.1108/02651331011058617.](http://dx.doi.org/10.1108/02651331011058617)
+- Florek, M. and Kavaratzis, M. (2014), "From brand equity to place brand equity and from there to the place brand", Place Branding and Public Diplomacy, Vol. 10 No. 2, pp. 103-107, doi: [10.1057/pb.2014.9.](http://dx.doi.org/10.1057/pb.2014.9)
+- Florek, M., Herezniak, M. and Augustyn, A. (2019), "You can't govern if you don't measure: experts' insights into place branding effectiveness assessment", Journal of Place Management and Development, Vol. 12 No. 4, pp. 545-565, doi: [10.1108/JPMD-10-2018-0074.](http://dx.doi.org/10.1108/JPMD-10-2018-0074)
+</list>
+
+</page>
+<page number="11">
+<text page="11" section="References" source="author" id="/page/10/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<list page="11" section="References" source="author" id="/page/10/ListGroup/660">
+- Giannopoulos, A.A., Piha, L.P. and Avlonitis, G.J. (2011), "Desti-nation branding': What for? From the notions of tourism and nation branding to an integrated framework", paper presented at the Berlin international economics congress 2011", available at: [www.culturaldiplomacy.org/](http://www.culturaldiplomacy.org/academy/content/pdf/participantpapers/2011/april/biec-roa-nua/desti-nation_branding-_antonios_giannopoulos.pdf ) [academy/content/pdf/participantpapers/2011/april/biec-roa-nua/](http://www.culturaldiplomacy.org/academy/content/pdf/participantpapers/2011/april/biec-roa-nua/desti-nation_branding-_antonios_giannopoulos.pdf ) [desti-nation_branding-_antonios_giannopoulos.pdf](http://www.culturaldiplomacy.org/academy/content/pdf/participantpapers/2011/april/biec-roa-nua/desti-nation_branding-_antonios_giannopoulos.pdf ) (accessed 10 October 2022).
+- Gisip, I.A. and Harun, A. (2013), "Antecedents and outcomes of brand management from the perspective of resource based view (RBV) theory", Mediterranean Journal of Social Sciences, Vol. 4 No. 10, p. 432, doi: [10.5901/mjss.2013.v4n10p432](http://dx.doi.org/10.5901/mjss.2013.v4n10p432).
+- Golicic, S.L., Fugate, B.S. and Davis, D.F. (2012), "Examining market information and brand equity through resource-advantage theory: a carrier perspective", Journal of Business Logistics, Vol. 33 No. 1, pp. 20-33, doi: [10.1111/](http://dx.doi.org/10.1111/j.0000-0000.2011.01035.x) [j.0000-0000.2011.01035.x.](http://dx.doi.org/10.1111/j.0000-0000.2011.01035.x)
+- Hakala, U., Lemmetyinen, A. and Kantola, S.P. (2013), "Country image as a nation-branding tool", Marketing Intelligence &amp; Planning, Vol. 31 No. 5, pp. 538-556, doi: [10.1108/MIP-04-2013-0060](http://dx.doi.org/10.1108/MIP-04-2013-0060).
+- Hao, A.W., Paul, J., Trott, S., Guo, C. and Wu, H.H. (2021), "Two decades of research on nation branding: a review and future research agenda", International Marketing Review, Vol. 38 No. 1, pp. 46-69, doi: [10.1108/IMR-01-2019-0028](http://dx.doi.org/10.1108/IMR-01-2019-0028).
+- Hassan, S. and Mahrous, A.A. (2019), "Nation branding: the strategic imperative for sustainable market competitiveness", Journal of Humanities and Applied Social Sciences, Vol. 1 No. 2, pp. 146-158, doi: [10.1108/JHASS-08-2019-0025](http://dx.doi.org/10.1108/JHASS-08-2019-0025).
+- He, J., Wang, C.L. and Wu, Y. (2021), "Building the connection between nation and commercial brand: an integrative review and future research directions", International Marketing Review, Vol. 38 No. 1, pp. 19-35, doi: [10.1108/IMR-11-2019-0268](http://dx.doi.org/10.1108/IMR-11-2019-0268).
+- Hofstede, G. (2001), Culture's Consequences: Comparing Values, Behaviors, Institutions, and Organizations across Nations, 2nd ed. Sage, Thousand Oaks, CA.
+- Hunt, S.D. (1995), "The resource-advantage theory of competition: toward explaining productivity and economic growth", Journal of Management Inquiry, Vol. 4 No. 4, pp. 317-332, doi: [10.1177/105649269500400403](http://dx.doi.org/10.1177/105649269500400403).
+- Hunt, S.D. (1997), "Resource-advantage theory: an evolutionary theory of competitive firm behavior?", Journal of Economic Issues, Vol. 31 No. 1, pp. 59-78, doi: [10.1080/](http://dx.doi.org/10.1080/00213624.1997.11505891) [00213624.1997.11505891.](http://dx.doi.org/10.1080/00213624.1997.11505891)
+- Hunt, S.D. (1999), "The strategic imperative and sustainable competitive advantage: public policy implications of resource-advantage theory", Journal of the Academy of Marketing Science, Vol. 27 No. 2, pp. 144-159, doi: [10.1177/](http://dx.doi.org/10.1177/0092070399272003) [0092070399272003.](http://dx.doi.org/10.1177/0092070399272003)
+- Hunt, S.D. and Madhavaram, S. (2012), "Managerial action and resource-advantage theory: conceptual frameworks emanating from a positive theory of competition", Journal of Business &amp; Industrial Marketing, Vol. 27 No. 7, pp. 582-591, doi: [10.1108/08858621211257356.](http://dx.doi.org/10.1108/08858621211257356)
+- Hunt, S.D. and Morgan, R. (1996), "The resource-advantage theory of competition: dynamics, path dependencies, and evolutionary dimensions", Journal of Marketing, Vol. 60 No. 4, pp. 107-114, doi: [10.1177/002224299606000410](http://dx.doi.org/10.1177/002224299606000410).
+</list>
+
+<list page="11" section="References" source="author" id="/page/10/ListGroup/661">
+- Inglehart, R. (1997), Modernization and Post Modernization: Cultural, Economic and Political Change in 43 Societies, Princeton University Press, Princeton, NJ.
+- Inglehart, R. (2006), "Mapping global values", Comparative Sociology, Vol. 5 Nos 2/3, pp. 115-136.
+- International Labour Organization (2004), "86 Million migrant workers active in global economy, says new ILO report", available at: [www.ilo.org/global/about-the-ilo/](http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_005197/lang&amp;hx2013;en/index.htm ) [newsroom/news/WCMS_005197/lang](http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_005197/lang&amp;hx2013;en/index.htm )–en/index.htm (accessed 19 March 2023).
+- Javalgi, R.G.R., Cutler, B.D. and Winans, W.A. (2001), "At your service! does country of origin research apply to services?", Journal of Services Marketing, Vol. 15 No. 7, pp. 565-582, doi: [10.1108/08876040110407491](http://dx.doi.org/10.1108/08876040110407491).
+- Juusola, K. and Lahrech, A. (2022), "Modeling transitions in nation brand equity: an empirical assessment of the nation equity power grid", Australian Journal of Management, doi: [03128962221135496.](http://dx.doi.org/03128962221135496)
+- Kaufman, L. and Rousseeuw, P.J. (1990), Finding Groups in Data: An Introduction to Cluster Analysis, Wiley, Hoboken, NJ.
+- Kiambi, D. (2017), "The role of familiarity in shaping country reputation", in Fullerton, J. and Kendrick, A. (Eds), Shaping International Public Opinion: A Model for Nation Branding and Public Diplomacy, Peter Lang, New York, NY, pp. 57-75.
+- Lahrech, A., Alabdulwahab, S.Z. and Bouayach, S. (2020a), "Nation branding and how it is related to foreign direct investment inflows", International Journal of Economics and Financial Issues, Vol. 10 No. 2, pp. 248-255, available at: [www.econjournals.com/index.php/ije](http://www.econjournals.com/index.php/ijefi/article/view/9345 )fi/article/view/9345 (accessed 10 October 2022).
+- Lahrech, A., Juusola, K. and AlAnsaari, M. (2020b), "Toward more rigorous country brand assessments: the modified country brand strength index", International Marketing Review, Vol. 37 No. 2, pp. 319-344, doi: [10.1108/IMR-06-](http://dx.doi.org/10.1108/IMR-06-2019-0152) [2019-0152.](http://dx.doi.org/10.1108/IMR-06-2019-0152)
+- Lee, K.M. (2009), "Nation branding and sustainable competitiveness of nations", Ph.D. thesis, University of Twente, available at: [www.nation-branding.info/wp-content/](http://www.nation-branding.info/wp-content/uploads/2009/02/kmlee-nation_branding_and_sustainable_competitiveness_of_nations.pdf ) [uploads/2009/02/kmlee-nation_branding_and_sustainable_](http://www.nation-branding.info/wp-content/uploads/2009/02/kmlee-nation_branding_and_sustainable_competitiveness_of_nations.pdf ) [competitiveness_of_nations.pdf](http://www.nation-branding.info/wp-content/uploads/2009/02/kmlee-nation_branding_and_sustainable_competitiveness_of_nations.pdf ) (accessed 5 March 2023).
+- Lee, R. and Lee, Y.-I. (2021), "The role of nation brand in attracting foreign direct investments: a case study of Korea", International Marketing Review, Vol. 38 No. 1, pp. 124-140, doi: [10.1108/IMR-01-2019-0024.](http://dx.doi.org/10.1108/IMR-01-2019-0024)
+- Lim, K. and O'Cass, A. (2001), "Consumer brand classifications: an assessment of culture-of-origin versus country-of-origin", Journal of Product &amp; Brand Management, Vol. 10 No. 2, pp. 120-136, doi: [10.1108/106104201](http://dx.doi.org/10.1108/10610420110388672) [10388672](http://dx.doi.org/10.1108/10610420110388672).
+- Lu, I.R., Kwan, E., Heslop, L.A., Thomas, D.R. and Cedzynski, M. (2019), "The ivory tower and the street: how researchers defined country image over four decades and what consumers think it means", Journal of Business Research, Vol. 105, pp. 80-97, doi: [10.1016/j.jbusres.2019.07.030.](http://dx.doi.org/10.1016/j.jbusres.2019.07.030)
+- McGrath, J. and Bobev, M. (2022), "Nation brands index 2022: Germany finishes first again with Japan and Canada rounding out the top three nations", available at: [www.ipsos.](http://www.ipsos.com/en/nation-brands-index-2022 ) [com/en/nation-brands-index-2022](http://www.ipsos.com/en/nation-brands-index-2022 ) (accessed 24 May 2023).
+</list>
+
+</page>
+<page number="12">
+<text page="12" section="References" source="author" id="/page/11/Text/3">
+Volume 32 · Number 8 · 2023 · 1207–1219
+</text>
+
+<list page="12" section="References" source="author" id="/page/11/ListGroup/682">
+- Medina, R.M.P., Martín, J.M.M., Martínez, J.M.G. and Azevedo, P.S. (2022), "Analysis of the role of innovation and efficiency in coastal destinations affected by tourism seasonality", Journal of Innovation &amp; Knowledge, Vol. 7 No. 1, doi: [10.1016/j.jik.2022.100163.](http://dx.doi.org/10.1016/j.jik.2022.100163)
+- Melnyk, T. and Varibrusova, A. (2019), "Variable indicators affecting the country's brand strategy effectiveness and competitiveness in the world", Management Science Letters, Vol. 9 No. 10, pp. 1685-1700, doi: [10.5267/j.msl.2019.](http://dx.doi.org/10.5267/j.msl.2019.5.019) [5.019](http://dx.doi.org/10.5267/j.msl.2019.5.019).
+- Micevski, M., Diamantopoulos, A. and Erdbrügger, J. (2021), "From country stereotypes to country emotions to intentions to visit a country: implications for a country as a destination brand", Journal of Product &amp; Brand Management, Vol. 30 No. 1, pp. 118-131, doi: [10.1108/JPBM-09-2019-2563.](http://dx.doi.org/10.1108/JPBM-09-2019-2563)
+- Migration Policy Institute (2022), "Top statistics on global migration and migrants", available at: [www.migrationpolicy.](http://www.migrationpolicy.org/article/top-statistics-global-migration-migrants ) [org/article/top-statistics-global-migration-migrants](http://www.migrationpolicy.org/article/top-statistics-global-migration-migrants ) (accessed 19 March 2023).
+- Mikulic, J., Milicˇevic, K. and Krešic, D. (2016), "The relationship between brand strength and tourism intensity: empirical evidence from the EU capital cities", International Journal of Culture, Tourism and Hospitality Research, Vol. 10 No. 1, pp. 14-23, doi: [10.1108/IJCTHR-06-2015-0054](http://dx.doi.org/10.1108/IJCTHR-06-2015-0054).
+- Morgan, N., Pritchard, A. and Piggott, R. (2002), "New Zealand, 100% pure. The creation of a powerful niche destination brand", Journal of Brand Management, Vol. 9 No. 4, pp. 335-354, doi: [10.1057/palgrave.bm.2540082](http://dx.doi.org/10.1057/palgrave.bm.2540082).
+- Nguyen, A. and Özçaglar-Toulouse, N. (2021), "Nation branding as a market-shaping strategy: a study on South Korean products in Vietnam", Journal of Business Research, Vol. 122, pp. 131-144, doi: [10.1016/j.jbusres.2020.08.029.](http://dx.doi.org/10.1016/j.jbusres.2020.08.029)
+- Nobre, H. and Sousa, A. (2022), "Cultural heritage and nation branding–multi stakeholder perspectives from Portugal", Journal of Tourism and Cultural Change, Vol. 20 No. 5, pp. 699-717, doi: [10.1080/14766825.2021.2025383](http://dx.doi.org/10.1080/14766825.2021.2025383).
+- O'Cass, A. and Voola, R. (2011), "Explications of political market orientation and political brand orientation using the resource-based view of the political party", Journal of Marketing Management, Vol. 27 Nos 5/6, pp. 627-645, doi: [10.1080/0267257X.2010.489831](http://dx.doi.org/10.1080/0267257X.2010.489831).
+- Papadopoulos, N. and Heslop, L. (2002), "Country equity and country branding: problems and prospects", Journal of Brand Management, Vol. 9 No. 4, pp. 294-314, doi: [10.1057/](http://dx.doi.org/10.1057/palgrave.bm.2540079) [palgrave.bm.2540079](http://dx.doi.org/10.1057/palgrave.bm.2540079).
+- Papadopoulos, N., Hamzaoui-Essoussi, L. and El Banna, A. (2016), "Nation branding for foreign direct investment: an integrative review and directions for research and strategy", Journal of Product &amp; Brand Management, Vol. 25 No. 7, pp. 615-628, doi: [10.1108/JPBM-09-2016-1320.](http://dx.doi.org/10.1108/JPBM-09-2016-1320)
+- Pecotich, A. and Rosenthal, M.J. (2001), "Country of origin, quality, brand and consumer ethnocentrism", Journal of Global Marketing, Vol. 15 No. 2, pp. 31-60, doi: [10.1300/](http://dx.doi.org/10.1300/J042v15n02_03) [J042v15n02_03](http://dx.doi.org/10.1300/J042v15n02_03).
+- Penrose, E.T. (1959), The Theory of the Growth of the Firm, John Wiley, New York, NY.
+- Rojas-Mendez, J. (2013), "The nation brand molecule", Journal of Product &amp; Brand Management, Vol. 22 No. 7, pp. 462-472, doi: [10.1108/JPBM-09-2013-0385.](http://dx.doi.org/10.1108/JPBM-09-2013-0385)
+</list>
+
+<list page="12" section="References" source="author" id="/page/11/ListGroup/683">
+- Rojas-Mendez, J.I. and Khoshnevis, M. (2023), "Conceptualizing nation branding: the systematic literature review", Journal of Product &amp; Brand Management, Vol. 32 No. 1, pp. 107-123, doi: [10.1108/JPBM-04-2021-](http://dx.doi.org/10.1108/JPBM-04-2021-3444) [3444](http://dx.doi.org/10.1108/JPBM-04-2021-3444).
+- Roth, K.P. and Diamantopoulos, A. (2009), "Advancing the country image construct", Journal of Business Research, Vol. 62 No. 7, pp. 726-740, doi: [10.1016/j.](http://dx.doi.org/10.1016/j.jbusres.2008.05.014) [jbusres.2008.05.014](http://dx.doi.org/10.1016/j.jbusres.2008.05.014).
+- Roth, M.S. and Romeo, J.B. (1992), "Matching product category and country image perceptions: a framework for managing country-of-origin effects", Journal of International Business Studies, Vol. 23 No. 3, pp. 477-497, doi: [10.1057/](http://dx.doi.org/10.1057/palgrave.jibs.8490276) [palgrave.jibs.8490276.](http://dx.doi.org/10.1057/palgrave.jibs.8490276)
+- Schoeneman, J. and Fullerton, J. (2022), "Exploring relationships between nation branding and foreign direct investment", Place Branding and Public Diplomacy, pp. 1-14, doi: [10.1057/s41254-022-00264-4](http://dx.doi.org/10.1057/s41254-022-00264-4).
+- Schwak, J. (2016), "Branding South Korea in a competitive world order: discourses and dispositives in neoliberal governmentality", Asian Studies Review, Vol. 40 No. 3, pp. 426-443, doi: [10.1080/10357823.](http://dx.doi.org/10.1080/10357823.2016.1193474) [2016.1193474.](http://dx.doi.org/10.1080/10357823.2016.1193474)
+- Silvanto, S. and Ryan, J. (2014), "Relocation branding: a strategic framework for attracting talent from abroad", Journal of Global Mobility, Vol. 2 No. 1, pp. 102-120, doi: [10.1108/JGM-07-2013-0046](http://dx.doi.org/10.1108/JGM-07-2013-0046).
+- Sinclair, M.T. (1998), "Tourism and economic development: a survey", Journal of Development Studies, Vol. 34 No. 5, pp. 1-51, doi: [10.1080/00220389808422535.](http://dx.doi.org/10.1080/00220389808422535)
+- Smeral, E. (2003), "A structural view of tourism growth", Tourism Economics, Vol. 9 No. 1, pp. 77-93, doi: [10.5367/](http://dx.doi.org/10.5367/000000003101298286) [000000003101298286.](http://dx.doi.org/10.5367/000000003101298286)
+- Sokhanvar, A. (2019), "Does foreign direct investment accelerate tourism and economic growth within Europe?", Tourism Management Perspectives, Vol. 29, pp. 86-96, doi: [10.1016/j.tmp.2018.10.005](http://dx.doi.org/10.1016/j.tmp.2018.10.005).
+- Steenkamp, J.B. (2021), "Building strong nation brands", International Marketing Review, Vol. 38 No. 1, pp. 6-18, doi: [10.1108/IMR-10-2019-0253](http://dx.doi.org/10.1108/IMR-10-2019-0253).
+- Sun, Q., Paswan, A.K. and Tieslau, M. (2016), "Country resources, country image, and exports: country branding and international marketing implications", Journal of Global Marketing, Vol. 29 No. 4, pp. 233-246, doi: [10.1080/](http://dx.doi.org/10.1080/08911762.2016.1211782) [08911762.2016.1211782.](http://dx.doi.org/10.1080/08911762.2016.1211782)
+- Teslik, L.H. (2007), "Nation branding explained", Council on Foreign Relations, Vol. 9, p. 11, available at: [www.iwp.edu/](http://www.iwp.edu/wpcontent/uploads/2019/05/20161003_NationBrandingExplainedCouncilonForeignRelations.pdf ) [wpcontent/uploads/2019/05/20161003_NationBranding](http://www.iwp.edu/wpcontent/uploads/2019/05/20161003_NationBrandingExplainedCouncilonForeignRelations.pdf ) [ExplainedCouncilonForeignRelations.pdf](http://www.iwp.edu/wpcontent/uploads/2019/05/20161003_NationBrandingExplainedCouncilonForeignRelations.pdf ) (accessed 10 October 2022).
+- Torelli, C.J. (2021), "Dissemination and consensual perceptions of nation brands: a framework for future research", International Marketing Review, Vol. 38 No. 1, pp. 36-45, doi: [10.1108/IMR-11-2019-0266.](http://dx.doi.org/10.1108/IMR-11-2019-0266)
+- Varadarajan, R. (2023), "Resource advantage theory, resource based theory, and theory of multimarket competition: does multimarket rivalry restrain firms from leveraging resource advantages?", Journal of Business Research, Vol. 160, doi: [10.1016/j.jbusres.2023.113713.](http://dx.doi.org/10.1016/j.jbusres.2023.113713)
+</list>
+
+</page>
+<page number="13">
+<list page="13" section="References" source="author" id="/page/12/ListGroup/185">
+- Verlegh, P.W. and Steenkamp, J.B.E. (1999), "A review and meta-analysis of country-of-origin research", Journal of Economic Psychology, Vol. 20 No. 5, pp. 521-546, doi: [10.1016/S0167-4870(99)00023-9.](http://dx.doi.org/10.1016/S0167-4870(99)00023-9)
+- Wernerfelt, B. (1984), "A resource-based view of the firm", Strategic Management Journal, Vol. 5 No. 2, pp. 171-180, doi: [10.1002/smj.4250050207.](http://dx.doi.org/10.1002/smj.4250050207)
+- Werther, C. (2011), "Rebranding Britain: cool Britannia, the millennium dome and the 2012 Olympics", Moderna Språk, Vol. 105 No. 1, pp. 1-14, available at: [https://ojs.ub.gu.se/ojs/](https://ojs.ub.gu.se/ojs/index.php/modernasprak/article/viewFile/664/616?source=post_page ) [index.php/modernasprak/article/viewFile/664/616?source=](https://ojs.ub.gu.se/ojs/index.php/modernasprak/article/viewFile/664/616?source=post_page ) [post_page](https://ojs.ub.gu.se/ojs/index.php/modernasprak/article/viewFile/664/616?source=post_page ) (accessed 10 October 2022).
+- White, C.L. (2012), "Brands and national image: an exploration of inverse country-of-origin effect", Place
+</list>
+
+<list page="13" section="References" source="author" id="/page/12/ListGroup/186">
+- Volume 32 · Number 8 · 2023 · 1207–1219
+- Branding and Public Diplomacy, Vol. 8 No. 2, pp. 110-118,
+- doi: [10.1057/pb.2012.6.](http://dx.doi.org/10.1057/pb.2012.6) Yeganeh, H. (2013), "A compound index of cultural dimensions: implications and applications", International Journal of Organizational Analysis, Vol. 21 No. 1, pp. 53-65, doi: [10.1108/19348831311322533.](http://dx.doi.org/10.1108/19348831311322533)
+- Yousaf, S., Tauni, M.Z. and Xiucheng, F. (2020), "Migration intentions: a sign of a weak nation brand? A multi-group analysis between China and Pakistan", Journal of Product &amp; Brand Management, Vol. 30 No. 2, pp. 262-280, doi: [10.1108/JPBM-02-2019-2278](http://dx.doi.org/10.1108/JPBM-02-2019-2278).
+</list>
+
+
+<heading page="13" section="Corresponding author" source="author" id="/page/12/SectionHeader/11" level="2">
+## Corresponding author
+</heading>
+
+<text page="13" section="Corresponding author" source="author" id="/page/12/Text/12">
+Katariina Juusola can be contacted at: [o.juusola@ajman.ac.ae](mailto:o.juusola@ajman.ac.ae)
+</text>
+
+</page>
+</paper>

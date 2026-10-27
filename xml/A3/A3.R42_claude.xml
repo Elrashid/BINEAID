@@ -1,0 +1,301 @@
+<paper source_file="A3.R42" title="Research in Developmental Disabilities" total_pages="5" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R42_fig01.jpg">[FIGURE: see A3.R42_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+Contents lists available at [ScienceDirect](www.sciencedirect.com/science/journal/08914222)
+</text>
+
+
+<heading page="1" section="Research in Developmental Disabilities" source="author" id="/page/0/SectionHeader/3" level="2">
+## Research in Developmental Disabilities
+</heading>
+
+<text page="1" section="Research in Developmental Disabilities" source="author" id="/page/0/Text/4">
+journal homepage: [www.elsevier.com/locate/redevdis ](https://www.elsevier.com/locate/redevdis)
+</text>
+
+<figure page="1" section="Research in Developmental Disabilities" source="author" id="/page/0/Picture/5" image="A3.R42_fig02.jpg">[FIGURE: see A3.R42_fig02.jpg]</figure>
+
+<figure page="1" section="Research in Developmental Disabilities" source="author" id="/page/0/Picture/6" image="A3.R42_fig03.jpg">[FIGURE: see A3.R42_fig03.jpg]</figure>
+
+
+<heading page="1" section="Enhancing inclusive education in the UAE: Integrating AI for  diverse learning needs" source="author" id="/page/0/SectionHeader/7" level="1">
+# Enhancing inclusive education in the UAE: Integrating AI for  diverse learning needs
+</heading>
+
+<text page="1" section="Enhancing inclusive education in the UAE: Integrating AI for  diverse learning needs" source="author" id="/page/0/Text/8">
+Alia El Naggar ^(a) , Eman Gaad b,* , Shannaiah Aubrey Mae Inocencio ^(a)
+</text>
+
+<list page="1" section="Enhancing inclusive education in the UAE: Integrating AI for  diverse learning needs" source="author" id="/page/0/ListGroup/206">
+- ^(a) *Canadian University Dubai, Al Wasl, Dubai, United Arab Emirates *
+- ^(b) *British University in Dubai, Dubai Academic City, United Arab Emirates *
+</list>
+
+
+<heading page="1" section="ARTICLE INFO" source="author" id="/page/0/SectionHeader/11" level="4">
+#### ARTICLE INFO
+</heading>
+
+
+<heading page="1" section="*Keywords: * Inclusive education  Special needs  Exceptional learners  Artificial intelligence  Pedagogy" source="author" id="/page/0/SectionHeader/12" level="3">
+### *Keywords: * Inclusive education  Special needs  Exceptional learners  Artificial intelligence  Pedagogy
+</heading>
+
+
+<heading page="1" section="ABSTRACT" source="author" id="/page/0/SectionHeader/13" level="3">
+### ABSTRACT
+</heading>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/14">
+*Introduction: *Artificial Intelligence (AI) mediated systems have become important in educational  set-ups, and it is still debatable whether or not they can be useful in special needs education. This  qualitative research scrutinizes the experiences and perceptions of exceptional learners, as an  example of special needs education, engaged in AI-mediated discussions versus traditional  classroom dialogues. The study aims to reveal how these learners process and construct knowledge differently when AI is incorporated into their discussions and how it compares to conventional learning environments.
+</text>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/15">
+*Methods: *The methodology entailed a detailed qualitative analysis, drawing upon cognitive psychology to assess how exceptional learners process information and engage in higher-order  thinking. Data were collected through interviews, observation, and content analysis of AImediated discussions.
+</text>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/16">
+*Results:Findings: *from the study highlighted the capacity of AI technologies to offer personalized  and intellectually stimulating educational experiences that resonate with constructivist approaches, promoting active learning and tailored instruction for exceptional learners. However,  the research also brought to light certain challenges, including the tendency for confirmation bias  and the risk of information overload within AI-mediated environments, which can complicate the  learning trajectory within the zone of proximal development.
+</text>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/17">
+*Discussions: *The study underscores the dynamic interplay between AI technologies and educational processes for exceptional learners. It suggests that while AI can enhance personalized  learning, it also introduces unique challenges that must be navigated carefully. Ultimately, this  research lays a theoretical and empirical groundwork for the thoughtful integration of AI in  supporting inclusive education, emphasizing the importance of continuous evaluation and  adaptation.
+</text>
+
+
+<heading page="1" section="**1.** **Introduction **" source="author" id="/page/0/SectionHeader/18" level="2">
+## **1.** **Introduction **
+</heading>
+
+<text page="1" section="**1.** **Introduction **" source="author" id="/page/0/Text/19">
+Within the domain of special needs education, where the social model of disability acknowledges exceptional learners (Jones,  2013), there is an explicit need for personalized approaches to nurture talents and foster critical thinking abilities (Reis &amp; [Renzulli,](#page-4-0) [2010)](#page-4-0). Educators in mainstream schools are faced with persistent challenges when engaging special needs learners, encountering  limitations imposed by classroom structures and curriculum constraints (Redenius &amp; [Skaar, 2017; Alonso-Campuzano et al., 2023](#page-4-0)).
+</text>
+
+<text page="1" section="**1.** **Introduction **" source="author" id="/page/0/Text/21">
+*E-mail address: *[eman.gaad@buid.ac.ae](mailto:eman.gaad@buid.ac.ae) (E. Gaad).
+</text>
+
+<footnote page="1" section="**1.** **Introduction **" source="author" id="/page/0/Footnote/20">
+^(*) Corresponding author.
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/2">
+Addressing the intellectual growth of these exceptional learners is crucial everywhere, and it has also been identified as a national  priority in some countries as for example in the United Arab Emirates (UAE).
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/3">
+In the context of addressing and meeting the needs of this unique target population, Artificial Intelligence (AI) presents the potential to facilitate complex intellectual discussions and elevate the educational experiences of exceptional students [(Li et al., 2023](#page-4-0)).  Despite the promising potential of AI, there remains an unexplored territory in the UAE's educational context and in many other parts  of the world, particularly in leveraging AI for advanced intellectual conversations with exceptional learners. Grounded in the social  model of disability, the current study seeks to evaluate the impact of AI-mediated discussions on critical thinking, intellectual  engagement, and personalized educational experiences among exceptional learners. This study is designed to delve into the  comparative impacts of classroom and AI-mediated discussions on the intellectual engagement and the development of critical  thinking skills in exceptional learners. Furthermore, we aim to capture learners' perceptions on using AI as a facilitative tool in discussions, particularly in relation to their experiences with traditional classroom discourse. By integrating these perspectives, the study  aspires to map out how each modality of discussion—traditional and AI-mediated—can be tailored to provide personalized and  intellectually rigorous educational experiences.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/4">
+**Methodology**. As in previous studies (e.g.,[ Halaweh, 2023](#page-4-0); Kasneci, 2023; [Siegle, 2023](#page-4-0)), we adopted qualitative research methodologies to capture in-depth accounts of individual experiences. In this study, researchers employed a semi-structured interview  format to facilitate a nuanced exploration of participants' perspectives. The interview questions were meticulously designed to directly  align with the overarching research inquiries.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/5">
+**Participants**. The participants of the study were recruited from a school in the United Arab Emirates. The students were registered  and recognized as gifted children during their enrolment and were identified from the database of the school. The participants sampled  for this study comprised a gender-diverse group, with 9 male and 7 female individuals, all ranging in age from 11 to 17 years. The mean  age of the participants was 14.3 years (SD=1.77), indicating a central tendency towards early adolescence within our sample. The  study was approved by the Ethical Committee of the British University in Dubai (202304). Consent to participate in the study was given  by both the students and their parents. The students identified multiple giftedness as per Gardner'[s (1983)](#page-4-0) theory of multiple intelligence in the following domains: logical-mathematics, linguistic-verbal, visual-spatial, body-kinesthetics, musical, interpersonal,  intrapersonal, and naturalistic. Furthermore, the gender dimensions used in the groupings were simplified to male and female, based  on the assigned biological attributes at birth.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/6">
+**Thematic Analysis**. In this study, the interview data was subjected to a deductive thematic analysis, adhering to the structured  approach outlined by[ Clarke et al. (2015).](#page-4-0) To mitigate the introduction of bias, an external encoder transcribed the interviews from the  recordings. This transcription process was guided by a set of predetermined codes, which were developed based on existing research  regarding the integration of AI-chatbots in educational settings, drawing from the works of[ Kasneci et al. (2023)](#page-4-0),[ Halaweh (2023)](#page-4-0), and  [Zhai (2022)](#page-4-0) for thematic categorization. Each researcher then independently analyzed the transcribed interviews. To maintain  analytical rigor, they randomly divided the transcripts for individual analysis. After this individual analysis, the researchers exchanged  their portions of the data to perform a cross-verification, enhancing the reliability of the thematic findings. The codes derived from this  meticulous process were then collated into broader thematic categories, which are delineated in the Results section.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/7">
+**Results**. Participants demonstrated varied opinions and perspectives regarding the application of AI in discussions and intellectual  engagement compared to traditional classroom settings. Some students expressed amazement at AI's capabilities and the personalized  experiences it offered since its implementation. In contrast, others perceived it as inflexible, limited to specific keywords and inputs.  The presentation of results corresponding to each research question follows in the subsequent section.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/8">
+**Research Question 1: How do classroom discussions and AI-mediated discussions differ on their impact on intellectual ** **engagement and critical thinking skills of gifted learners? **The exploration of data in Research Question 1 unveils distinct themes,  each playing a role in elucidating key dimensions of the study. These findings are articulated through three principal themes: (i)  Quality of Information: This theme reflects the evaluative criteria used to assess discussion content. Attributes such as relevance,  depth, diversity, and novelty are highlighted as crucial indicators of the quality of the discourse, suggesting that these dimensions are  instrumental in fostering an environment conducive to the intellectual engagement of learners. (ii) Quantity of Information: The  second theme addresses the scope and scale of information that discussions encompass. It underscores the importance of the breadth of  information covered and the associated information load, pointing towards the need for a balanced quantity that neither overwhelms  nor underwhelms the learners. (iii) Human Factors vs. Technology: The final theme examines the interplay between human and  technological elements in the context of discussions. It captures concerns such as the role of technology as a learning aid, the dynamics  of human debate, and the constraints imposed by text-based interactions. This theme implies a critical assessment of how technology  can both aid and limit the educational experience, especially for exceptional learners.
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/9">
+Participants conveyed diverse perspectives on the integration of AI to facilitate intellectual engagement. Positive feedback  emphasized the perceived relevance of retrieved information, the introduction of novel ideas not covered in traditional curricula, and  the encouragement of critical thinking through information evaluation. On the contrary, some participants consistently highlighted  concerns related to confirmation bias evident in AI responses. This bias emerged when AI-generated responses were predominantly  influenced by user-inputted keywords, limiting the diversity, novelty, and relevance of information. Participant P8 captured this  sentiment in his statement:
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/10">
+"it was too simple. I was hoping for something more advanced that could really challenge me."
+</text>
+
+<text page="2" section="**1.** **Introduction **" source="author" id="/page/1/Text/11">
+When it comes to intellectual engagement and critical thinking within the classroom context, findings indicated that students  encountered challenges in accessing novel, diverse, and comprehensive information within the traditional classroom curriculum. In  the domain of classroom discussions, participant P6 articulated the following statement:
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/2">
+"Other students are not as engaged in similar topics or specific interests of the gifted students."
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/3">
+Both aforementioned statements share common attributes of simplicity, indicating a perceived lack of intellectual stimulation in  both classroom discussions and AI-mediated discussions. This recurrence further reinforces the notion of inadequately designed  content for students. Yet, it is essential to note one key difference that 9 out of 10 participants mentioned in their interviews: the social  factor and human facilitation. Collectively, they agreed that social dynamics and certain 'human interactions' cannot be replaced by  AI, despite the strong ability of AI to facilitate discussions.
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/4">
+**Research question 2: How do gifted learners perceive the use of AI in facilitating discussions, in comparison to traditional ** **classroom discussions? **The investigation of data pertaining to Research Question 2 discloses a trio of central themes, each  contributing significantly to the comprehension of the study's multifaceted nature. These insights are encapsulated within the  following thematic categories: (i) Content Personalization: This theme emphasizes the tailored approach to curating information,  highlighting the customization of content to align with individual learner preferences and requirements. It underscores the significance  of adaptability and user-centric design in educational materials, suggesting that personalized content is vital for engaging learners  effectively. (ii) Practical Learning and Accessibility: The second theme centers on the pragmatic aspects of learning and the ease with  which educational resources can be accessed. It draws attention to the applicability of knowledge in real-world scenarios and the  importance of removing barriers to access, indicating that practical, hands-on experiences and universal accessibility are essential for  inclusive education. (iii) Content Diversification: The final theme delves into the variety and inclusivity of educational content. It  explores the spectrum of perspectives and disciplines incorporated into learning materials and the implications for broadening  learners' horizons. This theme proposes that a diverse range of content is crucial for fostering a comprehensive and well-rounded  educational journey.
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/5">
+A prominent observation among multiple participants was the acknowledgment of AI's capacity to personalize content, aligning it  with students' individual strengths, interests, and abilities. Participants further deliberated on the advantages of practical learning and  seamless access to information facilitated by AI, accessible at any time. Within this framework, participants positively emphasized the  flexible pacing of AI, its prompt responsiveness, and convenient access to discussions in contrast to traditional classroom interactions.  Several participants cited concerns regarding the comparatively sluggish pace and varying intellectual levels in the classroom,  expressing that such dynamics may impede their learning progress. An illustrative example is provided through the statement of  participant P4:
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/6">
+"But to be fair, I sometimes find discussions with AI more intellectual, because my peers cannot always keep up at my pace."
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/7">
+An additional insight derived from qualitative data analysis pertains to participants expressing apprehension about judgment and  social anxiety when communicating in a classroom setting as opposed to interacting with AI. AI-mediated discussions were perceived  as offering a heightened degree of personalization, efficiency, accessibility, and adaptability. This, in turn, created a perceived safe  space for students to express themselves and engage with the material at a pace and intellectual level aligned with their individual  preferences.
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/8">
+Despite the positive feedback regarding students' perception of AI's efficacy in facilitating discussions, it is crucial to underscore  that content diversification was more prominently emphasized in the classroom. Some students argued that the diverse range of  student mindsets, backgrounds, and differences fostered greater diversity in facilitating discussions compared to the perceived limited  viewpoints encountered in AI-facilitated discussions.
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/9">
+**Research question 3: How does each discussion modality contribute to personalized and intellectually challenging ** **educational experiences for gifted learners within the context of discussions? **The study of data regarding Research Question 3  has led to the unveiling of two pivotal themes, each providing essential insights into the domain of inquiry. These themes are synthesized as follows: (i) Scaffolding and Learning Compatibility: This theme explores the structured support provided within the  learning environment. It highlights the strategic implementation of scaffolding techniques that enhance compatibility between the  learner's current knowledge and new information. This tailored support is critical for facilitating the learner's progression towards  greater independence and mastery of complex concepts. (ii) Challenges: The second theme addresses the obstacles and difficulties  encountered in the learning process. It encompasses a broad spectrum of issues, ranging from individual learner struggles to systemic  barriers that may impede the educational experience. This theme is indicative of the need for a proactive approach to identifying and  overcoming the challenges that learners face, ensuring that educational pathways are as unobstructed as possible.
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/10">
+In terms of scaffolding and learning compatibility, the results indicated that AI chatbots have the potential to introduce novel and  challenging topics, adapting to the student's pace and preferences. Information and discussions are tailored to the student's intellectual  level. One such example is illustrated in the statement of P2:
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/11">
+"When I'm exploring art, AI suggests resources that align with my artistic interests. If I'm into abstract expressionism, it directs  me toward articles, tutorials, and artworks in that style."
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/12">
+However, a noteworthy finding reported by 9 out of 10 participants is that the text-based format of discussion is not always  perceived as convenient and may impose limitations on the depth of immediate responses and flow of natural discussion. Some  challenges articulated by participants in the interviews and emerged in the qualitative themes revolved around confirmation bias when  interacting with AI, overload of information, lack of social cues, limitations in offering tactile learning, and limitations in written text.  Some of these are reported by participants as follows:
+</text>
+
+<text page="3" section="**1.** **Introduction **" source="author" id="/page/2/Text/13">
+"One big challenge is the difficulty in finding the right words to get the answers I want from AI. It's like trying to have a  conversation where you're constantly struggling to communicate effectively." - P2
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**1.** **Introduction **" source="author" id="/page/3/Text/2">
+"Well, sometimes, the information AI provides can be overwhelming. It's like a flood of facts and opinions, and reading through  all of that to find what's truly relevant can be difficult." – P1
+</text>
+
+<text page="4" section="**1.** **Introduction **" source="author" id="/page/3/Text/3">
+"But sometimes it feels more like a database search than a conversation. It's like it knows my taste but can't surprise me with  something new and exciting." - P6
+</text>
+
+<text page="4" section="**1.** **Introduction **" source="author" id="/page/3/Text/4">
+Acknowledging and addressing these challenges is crucial for the continued integration and enhancement of AI-mediated  educational experiences.
+</text>
+
+
+<heading page="4" section="**2.** **Discussion **" source="author" id="/page/3/SectionHeader/5" level="2">
+## **2.** **Discussion **
+</heading>
+
+<text page="4" section="**2.** **Discussion **" source="author" id="/page/3/Text/6">
+The implications of these findings extend beyond gifted education and align with the theoretical framework of cognitive psychology, constructivism, and the zone of proximal development. The study emphasizes the potential benefits of integrating AI in  educational settings, particularly for discussions, drawing on principles from cognitive psychology that explore how individuals  process information, construct knowledge, and engage in higher-order thinking. In the broader context of special needs education,  these implications align with constructivist principles that emphasize active learning, student engagement, and the importance of  adapting teaching methods to individual learning needs. The findings suggest that integrating AI technologies aligns with the zone of  proximal development, providing tailored support and challenges that cater to the unique requirements of students with diverse  abilities, including those with learning disabilities and those recognized as exceptional learners.
+</text>
+
+<text page="4" section="**2.** **Discussion **" source="author" id="/page/3/Text/7">
+The challenges identified in the implications highlight the need for a user-centered approach, aligning with constructivist principles  that emphasize understanding the learner's perspective and adapting instruction accordingly (Bhutoria, 2022). Continuous user  feedback mechanisms and ethical considerations are of high importance, emphasizing ongoing reflection and the responsible use of  technology in education. Collaborative efforts between developers and educators, as emphasized in the challenges, is a crucial  consideration for collaborative learning and the importance of social interactions in the learning process. Research has extended efforts  in curating a framework to understand social interaction and regulate collaboration between users and AI (J¨ arvela ¨ [et al., 2023](#page-4-0)).  Extending similar frameworks in the educational context may help resolve the gap between the social factors and AI-mediated  discussion.
+</text>
+
+
+<heading page="4" section="**3.** **Limitations **" source="author" id="/page/3/SectionHeader/8" level="2">
+## **3.** **Limitations **
+</heading>
+
+<text page="4" section="**3.** **Limitations **" source="author" id="/page/3/Text/9">
+While the findings of our research provide valuable insights in student interaction in Al-mediated discussions, the conclusions  drawn must be understood within the study's methodological context and its limitations. It is worth noting that the data collection  methods were based on subjective experiences and lacked objective measures of engagement. Though the measures' qualitative nature  garnered comprehensive opinions, data from this study would benefit from a larger sampling. A larger sample would also allow  comparisons among gender differences, differences in abilities, and IQ differences. However, it should be considered that the target  participants of the study are not simply found in the population, especially in the UAE where culture and language must be considered  as dynamic variables to testing. The results of the study nonetheless demonstrate a strong feasibility of pursuing advanced qualitative,  quantitative, and psychophysiological measures of intellectual engagement and skills advancement to this population of exceptional  learners.
+</text>
+
+<text page="4" section="**3.** **Limitations **" source="author" id="/page/3/Text/10">
+Future researchers may consider conducting longitudinal studies to investigate the long-term impact of AI-mediated educational  experiences. The use of AI language models in education currently spawned many debates and concerns due to the threat of overreliance and lack of measures for course learning outcomes (Sok &amp; [Heng, 2023; Li et al., 2023](#page-4-0)). One may also attempt to conduct  cross-subject or cross-disciplinary studies to investigate subject-specific variations in AI-mediated educational experiences. Furthermore, considering in-depth investigations into specific challenges highlighted by participants may also contribute to the design of  individualized programs for exceptional learners, including those diagnosed with learning disabilities.
+</text>
+
+
+<heading page="4" section="**CRediT authorship contribution statement **" source="author" id="/page/3/SectionHeader/11" level="3">
+### **CRediT authorship contribution statement **
+</heading>
+
+<text page="4" section="**CRediT authorship contribution statement **" source="author" id="/page/3/Text/12">
+**El Naggar Alia: **Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization. **Inocencio Shannaiah ** **Aubrey Mae: **Writing – review &amp; editing, Writing – original draft, Investigation, Formal analysis, Data curation, Conceptualization.  **Gaad Eman: **Writing – review &amp; editing, Writing – original draft, Validation, Methodology, Formal analysis, Conceptualization.
+</text>
+
+
+<heading page="4" section="**Data availability **" source="author" id="/page/3/SectionHeader/13" level="4">
+#### **Data availability **
+</heading>
+
+<text page="4" section="**Data availability **" source="author" id="/page/3/Text/14">
+The data that has been used is confidential.
+</text>
+
+
+<heading page="4" section="**References **" source="author" id="/page/3/SectionHeader/15" level="2">
+## **References **
+</heading>
+
+<text page="4" section="**References **" source="author" id="/page/3/Text/16">
+Alonso-Campuzano, C., Iandolo, G., Filosofi, F., Tardivo, A., Sosa-Gonz´ alez, N., Pasqualotto, A., &amp; Venuti, P. (2023). Tangible digital collaborative storytelling in  adolescents with intellectual disability and neurodevelopmental disorders. *Journal of Applied Research in Intellectual Disabilities, 20*(1).[ https://doi.org/10.1111/](https://doi.org/10.1111/jar.13159) [jar.13159](https://doi.org/10.1111/jar.13159)
+</text>
+
+<text page="4" section="**References **" source="author" id="/page/3/Text/17">
+[Bhutoria, A. (2022). Personalized education and Artificial Intelligence in the United States, China, and India: A systematic review using a Human-In-The-Loop model.](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref2) *[Computers and Education: Artificial Intelligence, 3](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref2)*, Article 100068.
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**References **" source="author" id="/page/4/Text/2">
+Clarke, V., Braun, V., &amp; Hayfield, N. (2015). *[Thematic Analysis Qualitative psychology: A practical Guide to Research Methods, 3](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref3)*, 222–248.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/3">
+Gardner, H. (1983). Frames of mind: The theory of multiple intelligences. New York, NY: Basic Books.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/4">
+Halaweh, M. (2023). ChatGPT in education: Strategies for responsible implementation.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/5">
+Jarvel ¨ ¨ a, S., Nguyen, A., &amp; Hadwin, A. (2023). Human and artificial intelligence collaboration for socially shared regulation in learning. British Journal of Educational  Technology.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/6">
+Kasneci, E., Seß[ler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., &amp; Kasneci, G. (2023). ChatGPT for good? On opportunities and challenges of large](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref4) language models for education. *[Learning and Individual Differences, 103](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref4)*, Article 102274.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/7">
+[Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., &amp; Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and concerns on social media. ](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref5)*arXiv Preprint arXiv, * *2305*[, 02201.](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref5)
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/8">
+[Redenius, J., &amp; Skaar, N. (2017). Challenges of Meeting the Needs of Gifted Students Within an RTI System. ](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref6)*The Journal of Teacher Action Research, 4*, 1.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/9">
+Reis, S., &amp; Renzulli, J. (2010). Is there still a need for gifted education? An examination of current research. *Learning and Individual Differences, 20*, 308–317.[ https://](https://doi.org/10.1016/j.lindif.2009.10.012) [doi.org/10.1016/j.lindif.2009.10.012 ](https://doi.org/10.1016/j.lindif.2009.10.012)
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/10">
+[Siegle, D. (2023). A Role for ChatGPT and AI in Gifted Education. ](http://refhub.elsevier.com/S0891-4222(24)00017-9/sbref8)*Gifted Child Today, 46*(3), 211–219.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/11">
+Sok, S., &amp; Heng, K. (2023). ChatGPT for education and research: A review of benefits and risks. Available at SSRN 4378735.
+</text>
+
+<text page="5" section="**References **" source="author" id="/page/4/Text/12">
+Zhai, X. (2022). ChatGPT user experience: Implications for education. Available at SSRN 4312418.
+</text>
+
+</page>
+</paper>

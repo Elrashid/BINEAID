@@ -1,0 +1,796 @@
+<paper source_file="A1.R24" title="*Internationalization Remodeled:* *Definition, Approaches, and Rationales*" total_pages="27" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+
+<heading page="1" section="*Internationalization Remodeled:* *Definition, Approaches, and Rationales*" source="author" id="/page/0/SectionHeader/0" level="1">
+# *Internationalization Remodeled:* *Definition, Approaches, and Rationales*
+</heading>
+
+<text page="1" section="*Internationalization Remodeled:* *Definition, Approaches, and Rationales*" source="author" id="/page/0/Text/1">
+*Jane Knight*
+</text>
+
+<text page="1" section="*Internationalization Remodeled:* *Definition, Approaches, and Rationales*" source="author" id="/page/0/Text/2">
+*The world of higher education is changing and the world in which higher education* *plays a significant role is changing. The international dimension of higher education* *is becoming increasingly important, complex, and confusing. It is therefore timely to* *reexamine and update the conceptual frameworks underpinning the notion of inter**nationalization in light of today's changes and challenges. The purpose of this article* *is to study internationalization at both the institutional and national/sector level.* *Both levels are important. The national/sector level has an important influence on the* *international dimension through policy, funding, programs, and regulatory frame**works. Yet it is usually at the institutional level that the real process of* *international**ization is taking place. This article analyses the meaning, definition, rationales, and* *approaches of internationalization using a bottom-up (institutional) approach and a* *top-down (national/sector) approach and examines the dynamic relationship* *between these two levels. Key policy issues and questions for the future direction of* *internationalization are identified.*
+</text>
+
+<text page="1" section="*Internationalization Remodeled:* *Definition, Approaches, and Rationales*" source="author" id="/page/0/Text/3">
+*Keywords:* *international education; internationalization; globalization; higher* *education; rationales; definition*
+</text>
+
+
+<heading page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/SectionHeader/4" level="1">
+# **1.0 INTRODUCTION**
+</heading>
+
+<text page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/Text/5">
+Internationalization is changing the world of higher education, and globalization is changing the world of internationalization.
+</text>
+
+<text page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/Text/6">
+—Jane Knight
+</text>
+
+<text page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/Text/7">
+Internationalization is a term that is being used more and more to discuss the international dimension of higher education and, more widely, postsecondary education. It is a term that means different things to different people and is thus used in a variety of ways. Although it is encouraging to see the increased use and attention being given to internationalization, there is a great deal of confusion about what it means. For
+</text>
+
+<text page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/Text/8">
+*Journal of Studies in International Education*, Vol. 8 No. 1, Spring 2004 5-31 DOI: 10.1177/1028315303260832
+</text>
+
+<text page="1" section="**1.0 INTRODUCTION**" source="author" id="/page/0/Text/9">
+© 2004 Association for Studies in International Education
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="**1.0 INTRODUCTION**" source="author" id="/page/1/Text/2">
+some people, it means a series of international activities such as academic mobility for students and teachers; international linkages, partnerships, and projects; and new, international academic programs and research initiatives. For others, it means the delivery of education to other countries through new types of arrangements such as branch campuses or franchises using a variety of face-to-face and distance techniques. To many, it means the inclusion of an international, intercultural, and/or global dimension into the curriculum and teaching learning process. Still others see international development projects and, alternatively, the increasing emphasis on trade in higher education as internationalization. Finally, there is frequent confusion as to the relationship of internationalization with globalization. Is internationalization the same as globalization? If so, why and how and to what end? If not, how is it different or what is the relationship between these two dynamic processes? Thus, internationalization is interpreted and used in different ways in different countries and by different stakeholders. This reflects the realities of today and presents new challenges in terms of developing a conceptual model that provides some clarity on meaning and principles to guide policy and practice.
+</text>
+
+<text page="2" section="**1.0 INTRODUCTION**" source="author" id="/page/1/Text/3">
+In addition to questions about what exactly does it mean, there are other very important issues being raised about internationalization. Questions such as What is the purpose of internationalization? What are the expected benefits or outcomes? What are the values that are underpinning it? Who are the main actors, stakeholders, and beneficiaries? What are the positive consequences, what are the unintended results, and what are the negative implications? Is internationalization a passing fad? Is it sustainable and, if so, how? How are institutions responding to the competing interests within the domain of internationalization? What are the policy and funding implications of increased emphasis on internationalization both at the national and institutional level? How are governments and nongovernment organizations (NGOs) addressing the issue and moving forward? Is internationalization a response to or a stimulant for globalization? Does internationalization have a role in the brain drain, homogenization/ hybridization of culture, and international labour mobility? Clearly, there are important issues and questions to address.
+</text>
+
+
+<heading page="2" section="**1.1 Focus**" source="author" id="/page/1/SectionHeader/4" level="2">
+## **1.1 Focus**
+</heading>
+
+<text page="2" section="**1.1 Focus**" source="author" id="/page/1/Text/5">
+This article will look at internationalization at both the institutional level and the national/sector level. Both levels are important. The national/sector level has an important influence on the international dimension of higher education through policy, funding, programs, and regulatory frameworks. Yet it is usually at the individual, institutional level that the real process of internationalization is
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**1.1 Focus**" source="author" id="/page/2/Text/2">
+taking place. Therefore, this analysis of internationalization uses a bottom-up (institutional) approach and a top-down (national/sector) approach and examines the dynamic relationship between these two levels.
+</text>
+
+<text page="3" section="**1.1 Focus**" source="author" id="/page/2/Text/3">
+The world of higher education is changing, and the world in which higher education plays a significant role is changing. There are many reasons for transformation. Key drivers of change are the development of advanced communication and technological services, increased international labour mobility, more emphasis on the market economy and the trade liberalization, focus on the knowledge society, increased levels of private investment and decreased public support for education, and lifelong learning. The international dimension of postsecondary education is therefore becoming increasingly important and, at the same time, more and more complex. The purpose of this article is to take an in-depth and holistic look at internationalization within the parameters of new conceptual frameworks.
+</text>
+
+
+<heading page="3" section="**1.2 Terminology**" source="author" id="/page/2/SectionHeader/4" level="2">
+## **1.2 Terminology**
+</heading>
+
+<text page="3" section="**1.2 Terminology**" source="author" id="/page/2/Text/5">
+A few words about terminology is the best place to start. Even though one of the objectives of this article is to examine the meaning and definitions of internationalization, it is important to be clear at the outset how key concepts are interpreted and used. The following sections provide descriptions of key terms.
+</text>
+
+
+<heading page="3" section="*Higher Education Institutions/Providers*" source="author" id="/page/2/SectionHeader/6" level="3">
+### *Higher Education Institutions/Providers*
+</heading>
+
+<text page="3" section="*Higher Education Institutions/Providers*" source="author" id="/page/2/Text/7">
+Given the increase in demand for higher education, there are new providers, delivery methods, and types of programs. As a result, there are new types of higher education providers active in the delivery of education programs both domestically and internationally. These new providers include media companies such as Pearson (United Kingdom) and Thomson (Canada); multinational companies such as Apollo (United States, which owns Phoenix Universities), Informatics (Singapore), Slyvan (United States), and Aptech (India); corporate universities; and networks of professional associations and organizations. Generally, these new commercial providers are mainly occupied with teaching/ training or providing services and do not focus on research per se. They can complement, cooperate, or compete with public and private higher education institutions whose mandate is traditionally the trinity of teaching, research, and service. Because many of the new providers are focusing on delivering education across borders, they must be included as actors in the internationalization scene.
+</text>
+
+</page>
+<page number="4">
+
+<heading page="4" section="*National, Sector, and Institutional Levels*" source="author" id="/page/3/SectionHeader/2" level="3">
+### *National, Sector, and Institutional Levels*
+</heading>
+
+<text page="4" section="*National, Sector, and Institutional Levels*" source="author" id="/page/3/Text/3">
+As already noted, the focus is on internationalization at the institutional level and at the national/sector level. The institutional level is relatively clear. The national level is more complicated as it can include different governmental or NGOs that are active in the internationalization of higher education. On the government side, this can include departments of education, foreign affairs, science and technology, culture, employment, and immigration—all of which have a primary or peripheral interest in the international dimension of higher education. However, in many instances, the internationalization of higher education is only on the agenda of the education-related departments and organizations. In these cases, the education sector is the key actor, and therefore, the term *sector level* is included to complement or signify the national level.
+</text>
+
+
+<heading page="4" section="*International, Transnational, and Global*" source="author" id="/page/3/SectionHeader/4" level="3">
+### *International, Transnational, and Global*
+</heading>
+
+<text page="4" section="*International, Transnational, and Global*" source="author" id="/page/3/Text/5">
+These terms will be discussed at greater length, but it is noted that they are interpreted and used in ways that differentiates one from the other (Knight, 1999, p. 10). The term *international* emphasizes the notion of nation and refers to the relationship between and among different nations and countries. *Transna**tional* is used in the sense of across nations and does not specifically address the notion of relationships. *Transnational* is often used interchangeably and in the same way as *cross-border*. *Global*, on the other hand, refers to worldwide in scope and substance and does not highlight the concept of nation.
+</text>
+
+
+<heading page="4" section="*Globalization*" source="author" id="/page/3/SectionHeader/6" level="3">
+### *Globalization*
+</heading>
+
+<text page="4" section="*Globalization*" source="author" id="/page/3/Text/7">
+Globalization and internationalization are seen as very different but related processes. Globalization is defined as "the flow of technology, economy, knowledge, people, values, [and] ideas . . . across borders. Globalization affects each country in a different way due to a nation's individual history, traditions, culture and priorities" (Knight &amp; de Wit, 1997, p. 6). Globalization is positioned as part of the environment in which the international dimension of higher education is becoming more important and significantly changing.
+</text>
+
+
+<heading page="4" section="**2.0 MEANING AND DEFINITIONS OF** **2.0** **INTERNATIONALIZATION**" source="author" id="/page/3/SectionHeader/8" level="1">
+# **2.0 MEANING AND DEFINITIONS OF** **2.0** **INTERNATIONALIZATION**
+</heading>
+
+
+<heading page="4" section="**2.1 Confusion and Complexity**" source="author" id="/page/3/SectionHeader/9" level="2">
+## **2.1 Confusion and Complexity**
+</heading>
+
+<text page="4" section="**2.1 Confusion and Complexity**" source="author" id="/page/3/Text/10">
+For more than 20 years now, there has been much discourse and debate about defining internationalization. Internationalization is not a new term. It has been
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**2.1 Confusion and Complexity**" source="author" id="/page/4/Text/2">
+used for centuries in political science and governmental relations but its popularity in the education sector has really only soared since the early 80s. Prior to this time, *international education* was the favored term and still is in some countries. In the 90s, the discussion on using the term *international education* centered on differentiating it from comparative education, global education, and multicultural education. de Wit (2002) provided a comprehensive and useful overview on the development and use of the terms *internationalization*, *interna**tional education*, *comparative education*, and other related terms predominantly used in the last 10 years.
+</text>
+
+<text page="5" section="**2.1 Confusion and Complexity**" source="author" id="/page/4/Text/3">
+The purpose of trying to develop a clear and somewhat comprehensive definition for *internationalization* is to help clarify the confusion and misunderstanding that currently exists. Although it is true (and appropriate) that there will likely never be a true universal definition, it is important to have a common understanding of the term so that when we discuss and analyze the phenomenon we understand one another and also refer to the same phenomenon when advocating for increased attention and support from policy makers and academic leaders.
+</text>
+
+<text page="5" section="**2.1 Confusion and Complexity**" source="author" id="/page/4/Text/4">
+Given the myriad of factors that are affecting internationalization both within and external to the education sector plus the accelerated pace of change, it is no wonder that *internationalization* is being used in a variety of ways and for different purposes. What is surprising, though, is the small number of academics or policy makers who are seriously studying the nuances and evolution of the term itself given the changes and challenges that are before us.
+</text>
+
+
+<heading page="5" section="**2.2 Evolution of the Concept**" source="author" id="/page/4/SectionHeader/5" level="2">
+## **2.2 Evolution of the Concept**
+</heading>
+
+<text page="5" section="**2.2 Evolution of the Concept**" source="author" id="/page/4/Text/6">
+Over the last decade, it is interesting to note how the definition of the term has evolved. In the late 1980s, *internationalization* was commonly defined at the institutional level and in terms of a set of activities. The definition proposed by Arum and van de Water (1992) is a good example of this approach. They proposed that internationalization refers to "the multiple activities, programs and services that fall within international studies, international educational exchange and technical cooperation" (Arum &amp; van de Water, 1992, p. 202). By the mid-1990s a process or organizational approach was introduced by Knight (1994) to illustrate that internationalization was a process that needed to be integrated and sustainable at the institutional level. Internationalization was defined as the "process of integrating an international and intercultural dimension into the teaching, research and service functions of the institution" (Knight, 1994, p. 7).
+</text>
+
+<text page="5" section="**2.2 Evolution of the Concept**" source="author" id="/page/4/Text/7">
+Van der Wende (1997) correctly pointed out that an institutional-based definition has limitations and therefore proposed a broader definition suggesting that internationalization is "any systematic effort aimed at making higher education
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/2">
+responsive to the requirements and challenges related to the globalization of societies, economy and labour markets" (p. 18). Although this definition includes important elements, it only positions the international dimension in terms of the external environment, specifically globalization, and, therefore, does not context internationalization in terms of the education sector itself.
+</text>
+
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/3">
+More recently, Soderqvist (2002) introduced another definition that focuses on the education change process and a holistic view of management at the institutional level. Internationalization of a higher education institution is defined as
+</text>
+
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/4">
+a change process from a national higher education institution to an international higher education institution leading to the inclusion of an international dimension in all aspects of its holistic management in order to enhance the quality of teaching and learning and to achieve the desired competencies. (Soderqvist, 2002, p. 29)
+</text>
+
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/5">
+This is an example of a definition that has rationales embedded in it and therefore has limited applicability to institutions and to countries that see internationalization as broader than teaching and learning and the development of competencies. It demonstrates an evolution of the definition at the institutional level but, unfortunately, has limitations as a comprehensive definition.
+</text>
+
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/6">
+Given the number of different interpretations and definitions, de Wit (2002) concluded that
+</text>
+
+<text page="6" section="**2.2 Evolution of the Concept**" source="author" id="/page/5/Text/7">
+as the international dimension of higher education gains more attention and recognition, people tend to use it in the way that best suits their purpose. While one can understand this happening, it is not helpful for internationalization to become a catchall phrase for everything and anything international. A more focused definition is necessary if it is to be understood and treated with the importance that it deserves. Even if there is not agreement on a precise definition, internationalization needs to have parameters if it is to be assessed and to advance higher education. This is why the use of a working definition in combination with a conceptual framework for internationalization of higher education is relevant. (p. 114)
+</text>
+
+
+<heading page="6" section="**2.3 Updated Working Definition**" source="author" id="/page/5/SectionHeader/8" level="2">
+## **2.3 Updated Working Definition**
+</heading>
+
+<text page="6" section="**2.3 Updated Working Definition**" source="author" id="/page/5/Text/9">
+It is interesting to look at the way in which definitions can shape policy and also how practice can influence definitions and policy. Given the changes in the rationales, providers, stakeholders, and activities of internationalization, it is important to revisit the question of definition and ensure that the meaning reflects the realities of today and is also able to guide and be relevant to new developments. It is increasingly clear that internationalization needs to be understood both at the national/sector level and at the institutional level. There-
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/2">
+fore, a new definition is proposed that acknowledges both levels and the need to acknowledge the relationship and integrity between them.
+</text>
+
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/3">
+The challenging part of developing a definition is the need for it to be generic enough to apply to many different countries, cultures, and education systems. This is no easy task. Although it is not necessarily the intention to develop a universal definition, it is imperative that it be appropriate for use in a broad range of contexts and for comparative purposes across countries and regions of the world. With thisin mind, it is therefore important to ensure that a definition does not specify the rationales, benefits, outcomes, actors, activities, and stakeholders of internationalization, as they vary enormously across nations and also from institution to institution. What is critical is that the international dimension relates to all aspects of education and the role that it plays in society. The following working definition is proposed. Internationalization at the national/sector/institutional levels is defined as
+</text>
+
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/4">
+the process of integrating an international, intercultural or global dimension into the purpose, functions or delivery of post-secondary education. (Knight, 2003, p. 2)
+</text>
+
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/5">
+The following sections attempt to describe why specific terms and concepts have been carefully chosen for the proposed working definition of internationalization.
+</text>
+
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/6">
+*Process.* The term *process* is deliberately used to convey that internationalization is an ongoing and continuing effort. The term *process* denotes an evolutionary or developmental quality to the concept. Process is often thought of in terms of a tri-part model to education—input, process, and output. The concepts of input and output were carefully not used even though in today's environment there is increased emphasis on accountability and, therefore, outcomes. If internationalization is defined in terms of inputs, outputs, or benefits, it becomes less generic, as it must reflect the particular priorities of a country, an institution, or a specific group of stakeholders.
+</text>
+
+<text page="7" section="**2.3 Updated Working Definition**" source="author" id="/page/6/Text/7">
+*International, intercultural, and global dimension.* These terms are intentionally used as a triad, as together they reflect the breadth of internationalization. *Interna**tional* is used in the sense of relationships between and among nations, cultures, or countries. But we know that internationalization is also about relating to the diversity of cultures that exists within countries, communities, and institutions, and so *intercultural* is used to address the aspects of internationalization at home. Finally, *global*, a very controversial and value-laden term these days, is included to provide the sense of worldwide scope. These three terms complement each other and together give richness both in breadth and depth to the process of internationalization.
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="**2.3 Updated Working Definition**" source="author" id="/page/7/Text/2">
+*Integrating.* The concept of integration is specifically used to denote the process of infusing or embedding the international and intercultural dimension into policies and programs to ensure that the international dimension remains central, not marginal, and is sustainable.
+</text>
+
+<text page="8" section="**2.3 Updated Working Definition**" source="author" id="/page/7/Text/3">
+*Purpose, function, and delivery.* These three concepts have been carefully chosen and are meant to be used together. Purpose refers to the overall role and objectives that postsecondary education has for a country/region or, more specifically, the mission or mandate of an individual institution.
+</text>
+
+<text page="8" section="**2.3 Updated Working Definition**" source="author" id="/page/7/Text/4">
+Function refers to the primary elements or tasks that characterize a national postsecondary system and also an individual institution. Usually these include teaching/training, research and scholarly activities, and service to the society at large.
+</text>
+
+<text page="8" section="**2.3 Updated Working Definition**" source="author" id="/page/7/Text/5">
+Delivery is a narrower concept. It refers to the offering of education courses and programs either domestically or in other countries. This includes delivery by traditional higher education institutions but it also includes the new providers such as companies who are more interested in the global delivery of their programs and services and are not as focused on the international or intercultural dimension of a campus or the teaching, research, and service functions.
+</text>
+
+
+<heading page="8" section="**2.4 Relationship With Previous Definition**" source="author" id="/page/7/SectionHeader/6" level="2">
+## **2.4 Relationship With Previous Definition**
+</heading>
+
+<text page="8" section="**2.4 Relationship With Previous Definition**" source="author" id="/page/7/Text/7">
+As already mentioned, one of the previous definitions that has been widely used described internationalization as the "process of integrating an international or intercultural dimension into the teaching, research and service functions of the institution" (Knight, 1994, p. 7). This definition does not conflict with the new definition proposed in this article. In fact, the opposite is true. The definitions are very complementary. The new definition attempts to address the realities of today's context where the national/sector level is extremely important and therefore must be covered in a definition. Second, the number and diversity of education providers that have very different interests and approaches to the international, intercultural, and global dimensions are growing. Therefore, the more generic terms of purpose, function, and delivery are used instead of the specific functional terms of teaching, research, and service. By using these three more general terms, the proposed definition can be relevant for the sector level, the institutional level, and the variety of providers in the broad field of postsecondary education.
+</text>
+
+</page>
+<page number="9">
+
+<heading page="9" section="**3.0 INTERNATIONALIZATION STRATEGIES,** **3.0** **PROGRAMS, AND POLICIES**" source="author" id="/page/8/SectionHeader/2" level="1">
+# **3.0 INTERNATIONALIZATION STRATEGIES,** **3.0** **PROGRAMS, AND POLICIES**
+</heading>
+
+<text page="9" section="**3.0 INTERNATIONALIZATION STRATEGIES,** **3.0** **PROGRAMS, AND POLICIES**" source="author" id="/page/8/Text/3">
+The purpose of this section is to look in some detail at the phenomenon of internationalization in terms of the actual policies, programs, and strategies that are used at the national, sector, and institutional/provider levels.
+</text>
+
+
+<heading page="9" section="**3.1 Institutional-Level Strategies**" source="author" id="/page/8/SectionHeader/4" level="2">
+## **3.1 Institutional-Level Strategies**
+</heading>
+
+<text page="9" section="**3.1 Institutional-Level Strategies**" source="author" id="/page/8/Text/5">
+It is helpful to refer once again to the conceptual frameworks that were developed for internationalization in the last decade (de Wit, 1995; Knight &amp; de Wit, 1997, 1999). The term *internationalization strategies* was deliberately used to go beyond the idea of international activities. The *strategies* term referred to both program and organizational initiatives at the institutional level. The notion of a more planned, integrated, and strategic approach was implied in the use of the word *strategies*. Table 1 provides information and examples of program and organizational strategies at the institutional level. This chart has been updated to reflect changes, especially the growth in the commercial-oriented aspects of internationalization.
+</text>
+
+<text page="9" section="**3.1 Institutional-Level Strategies**" source="author" id="/page/8/Text/6">
+Strategies and a strategic approach are still important and relevant, but because the national/sector level is now covered in the definition, it is necessary to broaden the notion of organizational strategies beyond the institutional level to the national or sector level. Therefore, the terms *policies* and *programs* have been introduced.
+</text>
+
+
+<heading page="9" section="**3.2 Policies**" source="author" id="/page/8/SectionHeader/7" level="2">
+## **3.2 Policies**
+</heading>
+
+<text page="9" section="**3.2 Policies**" source="author" id="/page/8/Text/8">
+At the national/sector level, all policies that affect or are affected by an international dimension of education are included. This can involve policies related to foreign relations, development assistance, trade, immigration, employment, science and technology, culture and heritage, education, social development, industry and commerce, and others. At the education sector or system level, all the policies that relate to the purpose, licensing, accreditation, funding, curriculum, teaching, research, and regulation of postsecondary education are included. These education-related policies have direct implications for all kinds of providers—public and private, for-profit, or nonprofit institutions and companies.
+</text>
+
+<text page="9" section="**3.2 Policies**" source="author" id="/page/8/Text/9">
+The companies offering education programs and services are included because there is a growing commercial education industry being established that can be seen to complement, cooperate, or compete with the noncommercial pub-
+</text>
+
+</page>
+<page number="10">
+<table_group page="10" section="**3.2 Policies**" source="author" id="/page/9/TableGroup/155">
+<caption page="10" section="**3.2 Policies**" source="author" id="/page/9/Caption/1">
+14 **Table**** ****1** **Institutional-Level Program and Organization Strategies**
+</caption>
+<table page="10" section="**3.2 Policies**" source="author" id="/page/9/Table/2">
+| Program Strategies | Academic programs | Student exchange programsForeign language studyInternationalized curriculaArea or thematic studiesWork/study abroadInternational studentsTeaching/learning processJoint/double-degree programsCross-cultural trainingFaculty/staff mobility programsVisiting lectures and scholarsLink between academic programs and other strategies |
+| --- | --- | --- |
+| Research and scholarly collaboration | Area and theme centresJoint research projectsInternational conferences and seminarsPublished articles and papersInternational research agreementsResearch exchange programs |
+| Organization Strategies | Governance | Expressed commitment by senior leadersActive involvement of faculty and staffArticulated rationale and goals for internationalizationRecognition of international dimension in institutional mission statements, planning, and policy documents |
+| Operations | Integrated into institution-wide and department/college-level planning, budgeting, and quality review systemsAppropriate organizational structuresSystems (formal and informal) for communication, liaison, and coordinationBalance between centralized and decentralized |
+| External relations:Domestic andcross-border | Services | Human resources | Extracurricular |
+| **Domestic:**Community-based partnerships with nongovernmentorganization groups or public/private sector groupsCommunity service and intercultural project work**Cross-border:**International development assistance projectsCross-border delivery of education programs(commercial and noncommercial)International linkages, partnerships, and networksContract-based training and research programsand servicesAlumni-abroad programs | Support from institution-wide service units,i.e., student housing, registrariat, fund-raising,alumni, information technologyInvolvement of academic support units, i.e., library,teaching and learning, curriculum development,faculty and staff trainingStudent support services for incoming andoutgoing students, i.e., orientation programs,counseling, cross-cultural training, visa advice | Recruitment and selection procedures thatrecognize international expertiseReward and promotion policies to reinforcefaculty and staff contributionsFaculty and staff professional developmentactivitiesSupport for international assignments andsabbaticals | Student clubs and associationsInternational and intercultural campus eventsLiaison with community-based cultural andethnic groupsPeer support groups and programs |
+</table>
+</table_group>
+
+<text page="10" section="**3.2 Policies**" source="author" id="/page/9/Text/3">
+promotion and management of internation-
+</text>
+
+<text page="10" section="**3.2 Policies**" source="author" id="/page/9/Text/4">
+alization
+</text>
+
+<text page="10" section="**3.2 Policies**" source="author" id="/page/9/Text/5">
+Adequate financial support and resource
+</text>
+
+<text page="10" section="**3.2 Policies**" source="author" id="/page/9/Text/6">
+allocation systems
+</text>
+
+</page>
+<page number="11">
+<table page="11" section="**3.2 Policies**" source="author" id="/page/10/Table/0">
+
+</table>
+
+</page>
+<page number="12">
+<text page="12" section="**3.2 Policies**" source="author" id="/page/11/Text/2">
+lic and private education sector. The Observatory on Borderless Higher Education in the United Kingdom has developed a Global Education Index (Garrett, 2003) that lists all the companies that provide education and training programs or services and are listed on the stock exchange. There are approximately 50 at this time, but it is expected that as trade liberalization of services increases, so will the numbers of these public, for-profit companies as well as the private, forprofit companies.
+</text>
+
+<text page="12" section="**3.2 Policies**" source="author" id="/page/11/Text/3">
+In terms of the discussion on policies, it is prudent to be aware that many of the policies related to the international dimension of education will affect both the public education institutions as well as the commercially oriented private providers. This is why it is imperative that policies at the national and education sector levels are both addressed in a conceptual framework.
+</text>
+
+<text page="12" section="**3.2 Policies**" source="author" id="/page/11/Text/4">
+At the institutional level, policies can be interpreted in different ways. A narrow interpretation would include those statements and directives that refer to priorities and plans related to the international dimension of the institution's mission, purpose, values, and functions. This could include the institutional mission statement or policies on study abroad, student recruitment, international linkages and partnerships, cross-border delivery, international sabbaticals, and so forth. A broader interpretation of policies at the institution level would include those statements, directives, or planning documents that address implications for or from internationalization. If the institution has taken an integrative and sustainable approach to internationalization, then a very broad range of policy and procedure statements would be implicated ranging from quality assurance, planning, finances, staffing, faculty development, admission, research, curriculum, student support, contract and project work, and so forth.
+</text>
+
+
+<heading page="12" section="**3.3 Programs**" source="author" id="/page/11/SectionHeader/5" level="2">
+## **3.3 Programs**
+</heading>
+
+<text page="12" section="**3.3 Programs**" source="author" id="/page/11/Text/6">
+The new conceptual frameworks deliberately include the policies and programs at all three levels as illustrated in Table 2. Programs can be seen as one of the policy instruments or, more generally, as one of the ways policy is actually translated into action.
+</text>
+
+
+<heading page="12" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/11/SectionHeader/7" level="2">
+## 3.4 Two Streams
+Internationalization at Home and Abroad
+</heading>
+
+<text page="12" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/11/Text/8">
+Traditionally, internationalization at the institutional level has often been thought of as a series of different strategies or activities. It appears that these activities are now naturally falling into two different streams of activities. One stream includes internationalization activities that occur on the home campus and the other stream relates to those activities that happen abroad or, in other words, across borders.
+</text>
+
+</page>
+<page number="13">
+<table_group page="13" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/12/TableGroup/171">
+<caption page="13" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/12/Caption/2">
+**Table 2** **Policy and Programs at All Three Levels**
+</caption>
+<table page="13" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/12/Table/3">
+| Level | Policy | Programs |
+| --- | --- | --- |
+| National | Education and other national-levelpolicies relating to internationaldimension of higher education;other policy sectors include cultural, scientific, immigration, trade,employment, and culture | National or subregional programsthat promote or facilitate theinternational dimension ofpostsecondary education; can beprovided by different governmentdepartments or nongovernmentorganizations; examples of programs include academic mobilityprograms, international researchinitiatives, and student recruitmentprograms |
+| Sector | Policies related to the purpose,functions, funding, and regulationof postsecondary education | Programs offered by and for theeducation sector specifically; can beprovided by any level of governmentor by public or private organizations |
+| Institutional | Policies that address specific aspectsof internationalization and/orpolicies that serve to integrate andsustain the international dimensioninto the primary mission andfunctions of the institution | Programs such as those identifiedin the section labeled AcademicPrograms in Table I |
+</table>
+</table_group>
+
+<text page="13" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/12/Text/4">
+There are several reasons that this streaming is taking place. The term *inter**nationalization at home* has been developed to bring attention to those aspects of internationalization which would happen on a home campus, namely, the intercultural and international dimension in the teaching learning process, the extracurricular activities, and the relationships with local cultural and ethnic community groups (Wachter, 2003, p. 6). The emergence of this concept has coincided with, or perhaps as a way to counteract, the increased emphasis on student mobility as expressed in new national and regional mobility programs and also the growing interest in cross-border education. At the same time that internationalization at home has been introduced, so has the term *cross-border edu**cation*, which is used to describe internationalization abroad. Of course, crossborder education is not necessarily a new term. It, along with the term *transna**tional education*, has gained increased usage in the past 10 years. However, the use of the term *cross-border* is causing some confusion and concern. *Cross-*
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="3.4 Two Streams
+Internationalization at Home and Abroad" source="author" id="/page/13/Text/2">
+*border* is starting to be used as a synonym for *internationalization*, which neglects the at-home components and, second, is frequently being used to describe trade in education. Of course, both these interpretations are too narrow, and this is why it is important to have further analysis and clarity on the two streams of internationalization.
+</text>
+
+
+<heading page="14" section="**4.0 APPROACHES TO INTERNATIONALIZATION**" source="author" id="/page/13/SectionHeader/3" level="1">
+# **4.0 APPROACHES TO INTERNATIONALIZATION**
+</heading>
+
+
+<heading page="14" section="**4.1 Why Approaches?**" source="author" id="/page/13/SectionHeader/4" level="2">
+## **4.1 Why Approaches?**
+</heading>
+
+<text page="14" section="**4.1 Why Approaches?**" source="author" id="/page/13/Text/5">
+Given the changing, even chaotic world in which higher education is functioning, it is important to acknowledge that individual countries, education systems, and even institutions/providers are facing specific challenges and opportunities with respect to the international dimension of higher education. This means, of course, that there are many different approaches to addressing the process of internationalization.
+</text>
+
+<text page="14" section="**4.1 Why Approaches?**" source="author" id="/page/13/Text/6">
+An approach is different from a definition. Even though different countries or even institutions within a country may hold a common interpretation or definition of internationalization, the manner in which they address the implementation of internationalization is very different because of priorities, culture, history, politics, and resources. An approach to internationalization reflects or characterizes the values, priorities, and actions that are exhibited during the work toward implementing internationalization. An approach is not fixed. Approaches change during different periods of development. In many cases, countries or institutions believe that they are using different approaches at the same time, or they believe that they are in a transition period from one approach to another. There is no right approach. The notion of approach is introduced to help describe and assess the manner in which internationalization is being conceptualized and implemented.
+</text>
+
+<text page="14" section="**4.1 Why Approaches?**" source="author" id="/page/13/Text/7">
+The following section presents generic approaches at the national level. They illustrate aspects of internationalization that a country or even a region could emphasize as they attempt to develop and implement a position, policy, or strategy to address the international dimension of postsecondary education.
+</text>
+
+
+<heading page="14" section="**4.2 National- or Sector-Level Approaches**" source="author" id="/page/13/SectionHeader/8" level="2">
+## **4.2 National- or Sector-Level Approaches**
+</heading>
+
+<text page="14" section="**4.2 National- or Sector-Level Approaches**" source="author" id="/page/13/Text/9">
+Five different categories of approaches at the sector level are described in Table 3. These are not mutually exclusive categories, nor are they presented in any particular or progressive order. They are merely descriptions of dominant features of the general ways that a country or the education sector has decided to proceed with internationalization.
+</text>
+
+</page>
+<page number="15">
+<table_group page="15" section="**4.2 National- or Sector-Level Approaches**" source="author" id="/page/14/TableGroup/138">
+<caption page="15" section="**4.2 National- or Sector-Level Approaches**" source="author" id="/page/14/Caption/2">
+**Table 3** **Approaches to Internationalization at the National or Sector Level**
+</caption>
+<table page="15" section="**4.2 National- or Sector-Level Approaches**" source="author" id="/page/14/Table/3">
+| Approach | Description |
+| --- | --- |
+| Programs | Internationalization of higher education is seen in terms of providingfunded programs that facilitate institutions and individuals to haveopportunities to engage in international activities such as mobility,research, and linkages. |
+| Rationales | Internationalization of higher education is presented in terms of why itis important that a national higher education sector become moreinternational. Rationales vary enormously and can handle humanresources development, strategic alliances, commercial trade, nationbuilding, and social/cultural development. |
+| Ad hoc | Internationalization of higher education is treated as an ad hoc orreactive response to the many new opportunities that are beingpresented for international delivery, mobility, and cooperation inpostsecondary education. |
+| Policy | Internationalization of higher education is described in terms of policiesthat address or emphasize the importance of the international orintercultural dimension in postsecondary education. Policies can befrom a variety of sectors, for example, education, foreign affairs,science and technology, culture, or trade. |
+| Strategic | Internationalization of higher education is considered to be a keyelement of a national strategy to achieve a country's goals andpriorities both domestically and internationally. |
+</table>
+</table_group>
+
+
+<heading page="15" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/14/SectionHeader/4" level="2">
+## 4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level
+</heading>
+
+<text page="15" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/14/Text/5">
+Table 4 provides a description of the general approaches to internationalization at the institutional level. These approaches are based on earlier work (Knight &amp; de Wit, 1999) done on this subject, but there are three important differences. The Outcome category was formerly called Competencies. Given the strong emphasis on accountability and results in the higher education sector, it was decided to broaden this category from competencies to a wider interpretation of outcomes. Another important change is the addition of the two new categories: Rationales and Cross-Border. The rationales driving internationalization are becoming more explicit and are changing. The reasons for this are discussed in the next section on rationales. Policy statements at both the country and institutional level are beginning to be more explicit about *why* there are efforts to internationalize where before there was more emphasis on *what* needed to be done. To reflect this change, rationales are now included as another approach to internationalization. The other new category, Cross-Border, describes institutions/
+</text>
+
+</page>
+<page number="16">
+<table_group page="16" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/15/TableGroup/129">
+<caption page="16" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/15/Caption/2">
+**Table 4** **Approaches at the Institutional Level**
+</caption>
+<table page="16" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/15/Table/3">
+| Approach atInstitutional Level | Description |
+| --- | --- |
+| Activity | Internationalization is described in terms of activities such asstudy abroad, curriculum and academic programs, institutionallinkages and networks, development projects, and branchcampuses. |
+| Outcomes | Internationalization is presented in the form of desiredoutcomes such as student competencies, increased profile,more international agreements, and partners or projects. |
+| Rationales | Internationalization is described with respect to the primarymotivations or rationales driving it. This can include academicstandards, income generation, cultural diversity, and studentand staff development. |
+| Process | Internationalization is considered to be a process where aninternational dimension is integrated into teaching, learning,and service functions of the institution. |
+| At home | Internationalization is interpreted to be the creation of aculture or climate on campus that promotes and supportsinternational/intercultural understanding and focuses oncampus-based activities. |
+| Abroad (cross-border) | Internationalization is seen as the cross-border delivery ofeducation to other countries through a variety of deliverymodes (face to face, distance, e-learning) and through differentadministrative arrangements (franchises, twinning, branchcampuses, etc). |
+</table>
+</table_group>
+
+<text page="16" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/15/Text/4">
+providers who are concentrating their efforts on delivering educational programs across borders. They are most interested in extending the geographic reach of their teaching either through face-to-face teaching, distance education including online learning, or a combination of both. Finally, the Ethos category is broadened to At Home and remains in this typology because there are still many institutions that concentrate on the intercultural/international dimension of a campus and are not involved in mobility programs or cross-border activities.
+</text>
+
+<text page="16" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/15/Text/5">
+It is interesting to note that the process and at-home approaches focus on the primary functions of a higher education institution including curricular, extracurricular, and organizational aspects. The rationales and outcomes approaches attach more weight to the motivations and expected results of internationalization than the activities or strategies themselves. The activity approach, which is still probably the most common approach, highlights the actual program initia-
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/16/Text/2">
+tives that form part of the internationalization efforts. Finally, the abroad or cross-border approach accentuates the linkages with other countries and focuses on the mobility of education across borders.
+</text>
+
+<text page="17" section="4.3 Approaches to Internationalization at the
+4.3
+Institutional/Provider Level" source="author" id="/page/16/Text/3">
+It is important to emphasize that these approaches are not mutually exclusive nor are they meant to exclude other approaches. The purpose of developing these two frameworks is to help institutions and policy makers reflect on the dominant features of their current approach to internationalization or what approach they would like to adopt in the future. It is a useful and revealing exercise to analyze whether the dominant approach being used is consistent and complementary to the rationales and values driving the efforts to internationalize. The next section explores in more detail the motivations that guide the process of internationalization.
+</text>
+
+
+<heading page="17" section="**5.0 RATIONALES**" source="author" id="/page/16/SectionHeader/4" level="1">
+# **5.0 RATIONALES**
+</heading>
+
+<text page="17" section="**5.0 RATIONALES**" source="author" id="/page/16/Text/5">
+Traditionally, the rationales driving internationalization have been presented in four groups: social/cultural, political, academic, and economic (de Wit, 1995; Knight &amp; de Wit, 1997, 1999). In the past several years, much has been written about the changes in rationales both within and between these four groups (de Wit, 2000, 2002; van Vught, van der Wende, &amp; Westerheijden, 2002). These generic categories remain a useful way to analyze rationales; however, the significant changes in nature and priority within each category need to be highlighted.
+</text>
+
+<text page="17" section="**5.0 RATIONALES**" source="author" id="/page/16/Text/6">
+Furthermore, given the increasing emphasis on competition at the international level, it is tempting to introduce a new category that recognizes the importance that institutions are giving to *branding* or developing a strong international reputation. One could say that education institutions have always been competitive in trying to achieve high academic standards and, more recently, an international profile. However, there has been a not-so-subtle shift toward developing an international reputation to successfully compete in a more competitive environment. Institutions and companies are competing for market share in the recruitment of international, fee-paying students; offering for-profit education and training programs; or selling education services like language testing or accreditation. The interest in branding is leading institutions to seek out accreditation or quality-assurance services by national and international accrediting bodies, some of which are very trustworthy and some of which are not so reputable. Suffice it to say that institutions and providers are undertaking serious efforts to create an international reputation and name brand for their own institution or for a network/consortium to place them in a more desirable position for competitive advantage.
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="**5.0 RATIONALES**" source="author" id="/page/17/Text/2">
+Therefore, the desire to have international recognition—whether it is for academic, economic, social, or political purposes—is clearly growing. The question of whether the branding trend should be seen as a separate category of rationales or integrated into the four existing categories is open for further discussion. For the purposes of this article, the drive for international branding is highlighted as a means to an end and is integrated into the four existing groups of rationales.
+</text>
+
+<text page="18" section="**5.0 RATIONALES**" source="author" id="/page/17/Text/3">
+Table 5 presents the four categories of existing rationales as updated by de Wit (2002). These are still relevant, but there seems to be more blurring of the categories and, thus, perhaps less clarity on what constitutes a political or economic rationale, for example. This framework of rationales does not distinguish between national- and institutional-level rationales, which is becoming increasingly important.
+</text>
+
+<text page="18" section="**5.0 RATIONALES**" source="author" id="/page/17/Text/4">
+Table 5 and the next section highlight some of the new emerging rationales at the national level that cannot be neatly placed in one of these four groups. These cross-cutting rationales include human resources development, strategic alliances, commercial trade, nation building, and social/cultural development.
+</text>
+
+
+<heading page="18" section="**5.1 National-Level Rationales**" source="author" id="/page/17/SectionHeader/5" level="2">
+## **5.1 National-Level Rationales**
+</heading>
+
+<text page="18" section="**5.1 National-Level Rationales**" source="author" id="/page/17/Text/6">
+At the national level, some of the emerging, important rationales driving internationalization at the postsecondary level are the following.
+</text>
+
+
+<heading page="18" section="*Human Resources Development: Brain Power*" source="author" id="/page/17/SectionHeader/7" level="3">
+### *Human Resources Development: Brain Power*
+</heading>
+
+<text page="18" section="*Human Resources Development: Brain Power*" source="author" id="/page/17/Text/8">
+An increasing emphasis on the knowledge economy, demographic shifts, mobility of the labour force, and increased trade in services are all factors that are driving nations to place more importance on developing and recruiting human capital or brain power through international education initiatives. There are signs of heightened pressure and interest to recruit the brightest of students and scholars from other countries to increase scientific, technological, and economic competitiveness. Changes in recruitment strategies, incentives, and immigrat ion policies are examples of efforts to attract and retain students and academics with potential for enhancing the human capital of a country. Similarly, there is more attention being paid to enhancing the international dimension of teaching and research so that domestic students and academics can be better equipped to contribute to their country's effectiveness and competitiveness on the international stage. Finally, there is increasing recognition being given to the need for further development of intercultural understanding and skills for personal, professional, and citizenship development.
+</text>
+
+</page>
+<page number="19">
+<table_group page="19" section="*Human Resources Development: Brain Power*" source="author" id="/page/18/TableGroup/128">
+<caption page="19" section="*Human Resources Development: Brain Power*" source="author" id="/page/18/Caption/2">
+**Table 5** **Rationales Driving Internationalization**
+</caption>
+<table page="19" section="*Human Resources Development: Brain Power*" source="author" id="/page/18/Table/3">
+| Rationales | Existing—National and Institutional Levels Combined |
+| --- | --- |
+| Social/cultural | National cultural identity |
+| Intercultural understanding |
+| Citizenship development |
+| Social and community development |
+| Political | Foreign policy |
+| National security |
+| Technical assistance |
+| Peace and mutual understanding |
+| National identity |
+| Regional identity |
+| Economic | Economic growth and competitiveness |
+| Labour market |
+| Financial incentives |
+| Academic | International dimension to research and teaching |
+| Extension of academic horizon |
+| Institution building |
+| Profile and status |
+| Enhancement of quality |
+| International academic standards |
+|  | Of Emerging Importance— |
+| Level | National and Institutional Levels Separated |
+| National | Human resources development |
+| Strategic alliances |
+| Commercial trade |
+| Nation building |
+| Social/cultural development |
+| Institutional | International branding and profile |
+| Income generation |
+| Student and staff development |
+| Strategic alliances |
+| Knowledge production |
+</table>
+</table_group>
+
+
+<heading page="19" section="*Strategic Alliances*" source="author" id="/page/18/SectionHeader/4" level="3">
+### *Strategic Alliances*
+</heading>
+
+<text page="19" section="*Strategic Alliances*" source="author" id="/page/18/Text/5">
+The international mobility of students and academics as well as collaborative research and education initiatives are being seen as productive ways to develop closer geopolitical ties and economic relationships. There has been a definite shift from alliances for cultural purposes to economic purposes. This is especially true at the regional level where countries are trying to achieve stronger
+</text>
+
+</page>
+<page number="20">
+<text page="20" section="*Strategic Alliances*" source="author" id="/page/19/Text/2">
+economic and political alliances with neighbours through increasing their international education activities on a regional basis. The development of strategic alliances through internationalization of postsecondary education is therefore being seen as a way to develop closer cooperation bilaterally or regionally to gain a competitive edge.
+</text>
+
+
+<heading page="20" section="*Commercial Trade*" source="author" id="/page/19/SectionHeader/3" level="3">
+### *Commercial Trade*
+</heading>
+
+<text page="20" section="*Commercial Trade*" source="author" id="/page/19/Text/4">
+It is known that in the past decade, more emphasis has been placed on economic and income-generating opportunities attached to cross-border delivery of education. New franchise arrangements, foreign or satellite campuses, online delivery, and increased recruitment of fee-paying students are examples of a more commercial approach to internationalization by traditional public and private institutions. The fact that education is now one of the 12 service sectors in the General Agreement on Trade in Services is positive proof that importing and exporting of education and training programs and education services is a potentially lucrative trade area. It is estimated that, in 1999, trade in postsecondary education was a $35 billion business internationally, and this is expected to increase significantly (Larsen, Morris, &amp; Martin, 2001). Therefore, countries are showing increased interest in the potential for exporting education for economic benefit. The development of new international and regional trade agreements are now providing new regulations that will help to decrease barriers to trade in an attempt to increase the commercial side of international cross-border trade in education.
+</text>
+
+
+<heading page="20" section="*Nation Building*" source="author" id="/page/19/SectionHeader/5" level="3">
+### *Nation Building*
+</heading>
+
+<text page="20" section="*Nation Building*" source="author" id="/page/19/Text/6">
+Whereas some countries are interested in the export of education, there are other countries that are interested in the importing of education programs and institutions for nation-building purposes. An educated, trained, and knowledgeable citizenry and a workforce able to do research and generate new knowledge are key components of a country's nation-building agenda. Many countries are lacking the physical/human infrastructure and the financial resources to offer postsecondary education opportunities to their citizens. Traditionally, international academic projects that have developed as part of development and technical assistance work have been considered an important contribution to the nation-building efforts of a developing country. International development work based on mutual benefits for all partners continues to be a key aspect of the inter-
+</text>
+
+</page>
+<page number="21">
+<text page="21" section="*Nation Building*" source="author" id="/page/20/Text/2">
+nationalization of postsecondary education. However, there is a discernible shift from an aid/development approach to international partnerships to one focused on trade for commercial purposes. This shift is likely to become more pronounced.
+</text>
+
+<text page="21" section="*Nation Building*" source="author" id="/page/20/Text/3">
+These four emerging, yet primary, rationales are more closely linked to the political and economic categories of rationales, whether it is for technological, economic, or scientific development, advancement, or competitiveness.
+</text>
+
+
+<heading page="21" section="*Social and Cultural Development*" source="author" id="/page/20/SectionHeader/4" level="3">
+### *Social and Cultural Development*
+</heading>
+
+<text page="21" section="*Social and Cultural Development*" source="author" id="/page/20/Text/5">
+The social and cultural rationales, especially those that relate to promotion of intercultural understanding, and national cultural identity are still significant. But perhaps their importance does not carry the same weight in comparison to the economic and political-based rationales listed above. Whether, in light of the pressing issues and challenges stemming from culturally based clashes within and between countries, there will be more interest and importance attached to the social and cultural-based rationales is yet to be seen. It may be optimistic, but it would be reassuring to think that social and cultural rationales for internationalization will be given equal importance as the economic and political ones. It is interesting to ask the question of whether there is more emphasis given to the social and cultural rationales at the institution level than at the national level. The next section will examine this.
+</text>
+
+
+<heading page="21" section="**5.2 Institutional-Level Rationales**" source="author" id="/page/20/SectionHeader/6" level="2">
+## **5.2 Institutional-Level Rationales**
+</heading>
+
+<text page="21" section="**5.2 Institutional-Level Rationales**" source="author" id="/page/20/Text/7">
+Of course, there is a close liaison between national-level and institutionallevel rationales, but it is not always as close as one would expect. This depends on many factors, one of which is how much the internationalization process is a bottom-up or top-down process within any given country. It is probably accurate to say that, in countries where internationalization is not given much prominence at the national level, which is still very much the case in many regions of the world, then institutional-level rationales have greater importance and may also differ more from one institution to another. There are many factors that influence the institutional-level rationales. These factors range from mission, student population, faculty profile, geographic location, funding sources, level of resources, and orientation to local, national, and international interests. Once again, the four categories of rationales apply to institutions, but it appears that the emerging rationales of greater consequence are the following.
+</text>
+
+</page>
+<page number="22">
+
+<heading page="22" section="*International Profile and Reputation*" source="author" id="/page/21/SectionHeader/2" level="3">
+### *International Profile and Reputation*
+</heading>
+
+<text page="22" section="*International Profile and Reputation*" source="author" id="/page/21/Text/3">
+Traditionally, prominence has been given to the importance of achieving international academic standards (however they may be defined). This motivation is still important, but it appears to have been subsumed by the overall drive to achieve a strong worldwide reputation as an international high-quality institution. This drive relates to the quest for name recognition internationally in an attempt to attract the brightest of scholars/students, a substantial number of international students, and, of course, high-profile research and training projects. So, academic standards are still important, but perhaps there is a perceptible shift from an emphasis on a high-quality academic experience for students/ teachers to one where high academic standards are key for branding purposes to compete domestically and internationally.
+</text>
+
+
+<heading page="22" section="*Student and Staff Development*" source="author" id="/page/21/SectionHeader/4" level="3">
+### *Student and Staff Development*
+</heading>
+
+<text page="22" section="*Student and Staff Development*" source="author" id="/page/21/Text/5">
+It appears that there is renewed emphasis on internationalization as a means to enhance the international and intercultural understanding and skills for students and staff. There are a number of factors contributing to this. The escalating number of national, regional, international, and cultural conflicts is pushing academics to help students understand global issues and international/intercultural relationships. The mobility of the labour market and the increase in cultural diversity of communities and the workplace require that both students and academics have an increased understanding and demonstrated skills to work and live in a culturally diverse or different environment. On the other hand, the increased emphasis on accountability and outcomes-based education is requiring that more effort be directed to identifying student and staff competencies developed through internationalization initiatives. Last, information and communication technologies, especially the Internet, have highlighted the need for deeper knowledge and understanding of the world and have provided new opportunities to do so. It is interesting to speculate whether the current attention being given to internationalization at home is stimulating or responding to the growing importance of student and staff development as a motive for internationalization.
+</text>
+
+
+<heading page="22" section="*Income Generation*" source="author" id="/page/21/SectionHeader/6" level="3">
+### *Income Generation*
+</heading>
+
+<text page="22" section="*Income Generation*" source="author" id="/page/21/Text/7">
+On the other side of the ledger from human (student and staff) development is the motivation of economic development. There is no question that more institutions are increasingly looking for internationalization activities as a way to gen-
+</text>
+
+</page>
+<page number="23">
+<text page="23" section="*Income Generation*" source="author" id="/page/22/Text/2">
+erate alternative sources of income. Public nonprofit institutions are caught in the squeeze of decreased public funding and increased operational costs, all taking place in an environment of increased accountability and, probably, increased competition. The motivation to undertake internationalization to generate income is a complex issue. The purpose or use of the income generation is often questioned not in terms of where or how the money is being spent but in terms of whether it is profit oriented or for cost recovery. This is not an issue that has clear answers, as most public institutions would argue that they are, by definition, not for profit and that therefore any surplus from internationalization activities would be used to subsidize other initiatives on campus. Many would suggest that any income generated from internationalization activities should be reinvested to enhance underfunded aspects of internationalization, but of course, this is an institutional matter. Another complicating factor attached to the motivation of income generation is the new, private, commercial-based providers who are primarily in business to generate income on a for-profit basis. Thus, although there is more importance being attached to the economic rationale for internationalization at the institution, the issue is becoming more complicated, as it is part of the larger question of commercialization and commodification of education with cross-border delivery of education programs and services playing a major role.
+</text>
+
+
+<heading page="23" section="*Strategic Alliances*" source="author" id="/page/22/SectionHeader/3" level="3">
+### *Strategic Alliances*
+</heading>
+
+<text page="23" section="*Strategic Alliances*" source="author" id="/page/22/Text/4">
+There is no question that the number of bilateral or multilateral educational agreements has increased exponentially in the past decade. During the early stages of internationalization, institutions are often reacting to the multitude of opportunities to establish international institutional linkages. These linkages can be for different purposes—academic mobility, benchmarking, joint curriculum or program development, seminars and conferences, and joint research initiatives. It is often the case that institutions cannot support a large number of agreements, and thus, many are inactive and mainly paper-based arrangements. As institutions mature in their approach to internationalization, there is more effort put into developing strategic alliances with clear purposes and outcomes articulated. An important trend is the development of networks. Networks tend to have clearer and more strategic objectives but, in many cases, are more difficult to manage than bilateral agreements because of the complexities of working with so many different education systems and cultures. All in all, the rationale for developing key, strategic, international-education alliances at both the national and institutional level is not so much an end unto itself but a means to achieving academic, scientific, economic, technological, or cultural objectives.
+</text>
+
+</page>
+<page number="24">
+
+<heading page="24" section="*Research and Knowledge Production*" source="author" id="/page/23/SectionHeader/2" level="3">
+### *Research and Knowledge Production*
+</heading>
+
+<text page="24" section="*Research and Knowledge Production*" source="author" id="/page/23/Text/3">
+The role of higher education institutions in the production and distribution of knowledge should not be minimized. Given the increasing interdependence among nations, it is clear that there are global issues and challenges that cannot be addressed at the national level only. International and interdisciplinary collaboration is key to solving many global problems such as those related to environmental, health, and crime issues. Institutions and national governments are therefore making the international dimension of research and knowledge production a primary rationale for internationalization of higher education, and so are many institutions.
+</text>
+
+<text page="24" section="*Research and Knowledge Production*" source="author" id="/page/23/Text/4">
+All in all, the rationales driving internationalization vary from institution to institution, from government department to government department, from stakeholder to stakeholder, and from country to country. Differing and competing rationales contribute to both the complexity of the international dimension of education and the substantial contributions that internationalization makes. This has reviewed some of the shifts in rationales by examining several emerging key motivations. A final point to emphasize is that, in spite of the complexity of individual rationales or a set of motivations, it is of fundamental importance for an actor—whether it be an institution, provider, public or private stakeholder, NGO, governmental department, or intergovernmental agency—to be very clear in articulating its motivations for internationalization, as policies, programs, strategies, and outcomes are all linked and guided by explicit and even implicit rationales.
+</text>
+
+
+<heading page="24" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/23/SectionHeader/5" level="1">
+# **6.0 QUESTIONS AND ISSUES**
+</heading>
+
+<text page="24" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/23/Text/6">
+The purpose of this article has been to reexamine the meaning, approaches, strategies, and rationales of internationalization in light of the new realities and turbulent times we are facing. Key words used to study and analyze the international dimension of higher education have been complex, multifaceted, diverse, controversial, changing, and challenging. These adjectives paint a picture of internationalization as a phenomenon that is evolving on many fronts both as an actor and reactor in the new realities facing education. This evolutionary process (some might label it a revolutionary process) introduces a number of direct and indirect questions. The purpose of this concluding section is to identify some of the issues that emerge from the new conceptual frameworks and that will need to be addressed as we deal with the next developmental phase of internationalization and the next decade of change and challenge.
+</text>
+
+<text page="24" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/23/Text/7">
+The following questions and issues are not presented in any order of priority. Nor is the list meant to be comprehensive; it merely attempts to illustrate the intricacies
+</text>
+
+</page>
+<page number="25">
+<text page="25" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/24/Text/2">
+and the implications of this important phenomenon of internationalization. The intention of this section is to raise several national- and international-level issues and place them on the agenda for further study and action. The international dimension of higher education is gaining more profile in policy arenas outside of education such as immigration, trade and commerce, culture, and economic development. How can the education sector work collaboratively with these sectors at the national/regional level to ensure that the internationalization is understood and is seen to contribute to human, social/cultural/scientific, and economic development.
+</text>
+
+<list page="25" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/24/ListGroup/151">
+- How does internationalization deal with the intersection of international and intercultural? Is internationalization a vehicle for increased understanding and appreciation of cultural diversity and fusion, or is it an agent of cultural homogenization? How do the curriculum, teaching/learning process, research, extracurricular activities, and academic mobility contribute to intercultural understanding and cultural hybridization/ homogenization?
+- As education/training programs move across borders, what are the implications for quality assurance and accreditation of programs and providers? What role do institutions, national quality assurance, and accreditation agencies play in the monitoring of incoming and outgoing programs? Is there a need for regional or international mechanisms to monitor or review the increased cross-border delivery?
+- What are the implications of increased academic mobility for the recognition of academic and professional recognition of credentials? What is the relationship between recognition of credentials and the trend toward validation of competencies? What is the role of the United Nations Educational, Scientific, and Cultural Organization (UNESCO) Regional Conventions on credential recognition?
+- The emergence of new, private sector, for-profit companies brings new actors to the world of internationalization. How will these new providers of education programs and services collaborate, compete, complement, and change the work of traditional public and private postsecondary institutions in the internationalization of teaching/learning, research, and service?
+- The complexity involved in working in the field of internationalization requires an additional set of knowledge, attitudes, skills, and understandings about the international/ intercultural/global dimension of higher education. How are these competencies developed and recognized for those academics, administrators, and policy makers working in the field of internationalization of higher education?
+- Is there a subtle but discernible shift away from the social and cultural rationales toward the economic and commercial interests of internationalization? Is this true in all regions of the world, and what are the implications for higher education policy in general—funding, access, quality, role in society, research, curriculum, and regulatory frameworks?
+</list>
+
+<text page="25" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/24/Text/9">
+Finally, it needs to be asked, what, in the year 2020, will be seen as the major accomplishments of internationalization during the past 30 years? Are we taking a
+</text>
+
+</page>
+<page number="26">
+<text page="26" section="**6.0 QUESTIONS AND ISSUES**" source="author" id="/page/25/Text/2">
+long-term perspective on the implications and consequences of internationalization? What are key issues or questions that require further evaluation, research, and policy analysis to address and guide the long-term impact and implications of internationalization at both the institutional and sector levels?
+</text>
+
+
+<heading page="26" section="**REFERENCES**" source="author" id="/page/25/SectionHeader/3" level="1">
+# **REFERENCES**
+</heading>
+
+<list page="26" section="**REFERENCES**" source="author" id="/page/25/ListGroup/166">
+- Arum, S., &amp; van de Water, J. (1992). The need for a definition of international education in U.S. universities. In C. Klasek (Ed.), *Bridges to the futures:* *Strategies for internationalizing higher education* (pp. 191-203). Carbondale, IL: Association of International Education Administrators.
+- de Wit, H. (Ed). (1995). *Strategies of internationalization of higher education. A* *comparative study of Australia, Canada, Europe and the United States*. Amsterdam: European Association for International Education.
+- de Wit, H. (2000). *Changing rationales for the internationalization of higher* *education. Internationalization of higher education: An institutional per**spective*. Bucharest, Romania: UNESCO/CEPES.
+- de Wit, H. (2002). *Internationalization of higher education in the United States* *of America and Europe: A historical, comparative and conceptual analysis*. Westport, CT: Greenwood.
+- Garrett, R. (2003). *Mapping the education industry. Part 2: Public companies—* *Relationships with higher education*. London: The Observatory on Borderless Higher Education.
+- Knight, J. (1994). *Internationalization: Elements and checkpoints* (Research Monograph, No. 7). Ottawa, Canada: Canadian Bureau for International Education.
+- Knight, J. (1999). *A time of turbulence and transformation for internationaliza**tion* (Research Monograph, No. 14). Ottawa, Canada: Canadian Bureau for International Education.
+- Knight, J. (2003). Updated internationalization definition. *International Higher* *Education*, *33*, 2-3.
+- Knight, J., &amp; de Wit, H. (Eds.). (1997). *Internationalization of higher education* *in Asia Pacific countries*. Amsterdam: European Association for International Education.
+- Knight, J., &amp; de Wit, H. (Eds.). (1999). *Quality and internationalisation in* *higher education*. Paris: Organization for Economic Cooperation &amp; Development.
+- Larsen, K., Morris, R., &amp; Martin, J. P. (2001). *Trade in educational services:* *Trends and emerging issues* (Working Paper). Paris: Organization for Economic Cooperation &amp; Development.
+</list>
+
+</page>
+<page number="27">
+<list page="27" section="**REFERENCES**" source="author" id="/page/26/ListGroup/105">
+- Soderqvist, M. (2002). *Internationalization and its management at higher-edu**cation institutions: Applying conceptual, content and discourse* *analysis*. Helsinki, Finland: Helsinki School of Economics.
+- van der Wende, M. (1997). Missing links: The relationship between national policies for internationalisation and those for higher education in general. In T. Kalvermark &amp; M. van der Wende (Eds.), *National policies for the interna**tionalisation of higher education in Europe* (pp. 10-31). Stockholm: Hogskoleverket Studies, National Agency for Higher Education.
+- van der Wende, M. (2002). Higher education globally: Towards new frameworks for research and policy. In G. Neave, M. van der Wende, &amp; J. Enders (Eds.), *The CHEPS inaugurals 2002* (pp. 26-69). Twente, the Netherlands: University of Twente.
+- van Vught, F. A, van der Wende, M. C., &amp; Westerheijden, D. F. (2002). Globalisation and internationalisation. Policy agendas compared. In J. Enders &amp; O. Fulton (Eds.), *Higher education in a globalizing world. Interna**tional trends and mutual observations* (pp. 103-121). Dordrecht, the Netherlands: Kluwer.
+- Wachter, B. (2003). An introduction: Internationalization at home in context. *Journal of Studies in International Education*, *7*(1), 5-11.
+</list>
+
+
+<heading page="27" section="**ABOUT THE AUTHOR**" source="author" id="/page/26/SectionHeader/7" level="1">
+# **ABOUT THE AUTHOR**
+</heading>
+
+<text page="27" section="**ABOUT THE AUTHOR**" source="author" id="/page/26/Text/8">
+**Jane Knight**, of the Comparative, International, and Development Education Centre, Ontario Institute for Studies in Education, University of Toronto, is the author of several publications on internationalization and higher education. Currently, the focus of her research is the impact of globalization on higher education with a special interest in cross-border education, trade agreements, quality assurance, and qualifications recognition.
+</text>
+
+</page>
+</paper>

@@ -1,0 +1,548 @@
+<paper source_file="A1.R02" title="**Medical Teacher**" total_pages="9" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A1.R02_fig01.jpg">[FIGURE: see A1.R02_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Medical Teacher**" source="author" id="/page/0/SectionHeader/1" level="1">
+# **Medical Teacher**
+</heading>
+
+<figure page="1" section="**Medical Teacher**" source="author" id="/page/0/Picture/2" image="A1.R02_fig02.jpg">[FIGURE: see A1.R02_fig02.jpg]</figure>
+
+<text page="1" section="**Medical Teacher**" source="author" id="/page/0/Text/3">
+**ISSN: (Print) (Online) Journal homepage:****[ www.tandfonline.com/journals/imte20](https://www.tandfonline.com/journals/imte20?src=pdf)**
+</text>
+
+
+<heading page="1" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/0/SectionHeader/4" level="1">
+# **Medical education in the United Arab Emirates:** **Challenges and opportunities**
+</heading>
+
+<text page="1" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/0/Text/5">
+**Hatem Alameri, Hossam Hamdy &amp; Danica Sims**
+</text>
+
+<text page="1" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/0/Text/6">
+**To cite this article:** Hatem Alameri, Hossam Hamdy &amp; Danica Sims (2021) Medical education in the United Arab Emirates: Challenges and opportunities, Medical Teacher, 43:6, 625-632, DOI: [10.1080/0142159X.2021.1908978](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/0142159X.2021.1908978)
+</text>
+
+<text page="1" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/0/Text/7">
+**To link to this article: **[https://doi.org/10.1080/0142159X.2021.1908978](https://doi.org/10.1080/0142159X.2021.1908978)
+</text>
+
+<table page="1" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/0/Table/8">
+| Published online: 29 Apr 2021. |
+| --- |
+| Submit your article to this journal |
+| Article views: 501 |
+| View related articles |
+| View Crossmark data |
+| Citing articles: 5 View citing articles |
+</table>
+
+</page>
+<page number="2">
+<figure page="2" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/1/Picture/1" image="A1.R02_fig03.jpg">[FIGURE: see A1.R02_fig03.jpg]</figure>
+
+<figure page="2" section="**Medical education in the United Arab Emirates:** **Challenges and opportunities**" source="author" id="/page/1/Picture/2" image="A1.R02_fig04.jpg">[FIGURE: see A1.R02_fig04.jpg]</figure>
+
+
+<heading page="2" section="AROUND THE WORLD" source="author" id="/page/1/SectionHeader/3" level="2">
+## AROUND THE WORLD
+</heading>
+
+<figure page="2" section="AROUND THE WORLD" source="author" id="/page/1/Figure/4" image="A1.R02_fig05.jpg">[FIGURE: see A1.R02_fig05.jpg]</figure>
+
+
+<heading page="2" section="Medical education in the United Arab Emirates: Challenges and opportunities" source="author" id="/page/1/SectionHeader/5" level="1">
+# Medical education in the United Arab Emirates: Challenges and opportunities
+</heading>
+
+<text page="2" section="Medical education in the United Arab Emirates: Challenges and opportunities" source="author" id="/page/1/Text/6">
+Hatem Alameria , Hossam Hamdyb and Danica Simsc
+</text>
+
+<text page="2" section="Medical education in the United Arab Emirates: Challenges and opportunities" source="author" id="/page/1/Text/7">
+a Department of Medical Education and Examination, Department of Health, Abu Dhabi, United Arab Emirates; ^(b) Chancellor Office, Gulf Medical University, Ajman, United Arab Emirates; ^(c) Department of Health Sciences Education, University of Cape Town, Cape Town, South Africa
+</text>
+
+
+<heading page="2" section="ABSTRACT" source="author" id="/page/1/SectionHeader/8" level="2">
+## ABSTRACT
+</heading>
+
+<text page="2" section="ABSTRACT" source="author" id="/page/1/Text/9">
+Medical education (ME) in the United Arab Emirates (UAE) has a relatively short history that begins with the inception of the UAE almost 50 years ago. The UAE has made great strides in widening access to ME through the rapid implementation of national agendas aimed at advancing healthcare and expanding higher education, in addition to the presence of a strong infrastructure for privatization and business development. While progress is being made at all levels of ME, complex challenges for both undergraduate and postgraduate ME remain. Going forward, issues of standardization, quality, sustainability of academic and healthcare workforces, and research must continue to be addressed.
+</text>
+
+
+<heading page="2" section="KEYWORDS" source="author" id="/page/1/SectionHeader/10" level="2">
+## KEYWORDS
+</heading>
+
+<text page="2" section="KEYWORDS" source="author" id="/page/1/Text/11">
+Medical education; United Arab Emirates; UAE
+</text>
+
+
+<heading page="2" section="General background" source="cited" id="/page/1/SectionHeader/12" level="2">
+## General background
+</heading>
+
+<text page="2" section="General background" source="cited" id="/page/1/Text/13">
+In 2021, the UAE will celebrate 50 years since its union in 1971 through the amalgamation of seven Emirates in the Arabian Gulf. These Emirates are Abu Dhabi (the largest emirate; which houses the capital city), Dubai, Sharjah, Ajman, Umm Al-Quwain, Ras Al-Khaimah, and Fujairah (Government of United Arab Emirates [1971](#page-8-0)). This oil-rich country has been known for its progressive economy, advanced services, and innovative architectural projects. The UAE government published 'Vision 2021' as a national agenda to plan for the next stage of the federation's development and 'Emiratization' into a modern and progressive nation (Government of United Arab Emirates [2014;](#page-8-0) Sarker and Rahman [2020)](#page-8-0). Emiratization refers to the government's strategic objective to increase the participation of Emiratis in the job market, especially the private sector, which has traditionally been dominated by expatriates (Sarker and Rahman [2020](#page-8-0)). In this article, we present an overview of the medical education (ME) system and highlight the challenges and describe the opportunities of the ME agendas in the UAE.
+</text>
+
+
+<heading page="2" section="Higher education in UAE" source="author" id="/page/1/SectionHeader/14" level="3">
+### Higher education in UAE
+</heading>
+
+<text page="2" section="Higher education in UAE" source="author" id="/page/1/Text/15">
+One of the ways in which the UAE is seeking to sustainably and competitively diversify their economy as natural resources decline is by harnessing the full potential of their human capital via developing a 'knowledge-based economy' through investing in first-rate education (Kirk [2010;](#page-8-0) Government of United Arab Emirates [2014](#page-8-0); Matsumoto [2019](#page-8-0)). Indeed, the right to free education at all levels, as a fundamental driver of a progressive and successful society, is enshrined in the constitution (Government of United Arab Emirates [1971](#page-8-0)). The rapid expansion of Higher Education (HE), both public and private, has reflected this
+</text>
+
+
+<heading page="2" section="Practice points" source="author" id="/page/1/SectionHeader/16" level="2">
+## Practice points
+</heading>
+
+<list page="2" section="Practice points" source="author" id="/page/1/ListGroup/369">
+- The increased number of under and postgraduate programs reflects the growing access and output of medical education in the UAE.
+- The UAE is still on the road to improve the quality and the standardization of medical education.
+- Medical education in the UAE continues to attract international best practices.
+- Issues of standardization, sustainability of academic and healthcare workforces, and research must continue to be addressed.
+- Medical education will need to balance global quality standards and competitiveness with the goal of remaining relevant to local needs.
+</list>
+
+<text page="2" section="Practice points" source="author" id="/page/1/Text/22">
+shift in national development goals and global competitiveness (Kirk [2010](#page-8-0); Kirk and Napier [2010)](#page-8-0).
+</text>
+
+<text page="2" section="Practice points" source="author" id="/page/1/Text/23">
+The HE sector in the UAE is divided into federal (public), Emirate-funded (semi-public) and private Higher Education Institutions (HEIs) (Kirk and Napier [2010)](#page-8-0). The vast majority of HEIs are private, as there are only three federal institutions for higher education (HE): United Arab Emirates University (UAEU), Higher Colleges of Technology, and Zayed University. Public HEIs are available mostly to Emirati citizens, but due to the limited number of public HEIs, half of Emiratis enroll in private HEIs along with expatriates and international students (Stephenson and Rajendram [2019)](#page-8-0). The semi-public and private HEIs may have institutional affiliations and accreditations with international HEIs, in particular with universities from North America and Western Europe (Findlow [2005](#page-8-0)). In fact, the UAE became the largest HE hub of international branch campuses in the
+</text>
+
+<figure page="2" section="Practice points" source="author" id="/page/1/Picture/25" image="A1.R02_fig06.jpg">[FIGURE: see A1.R02_fig06.jpg]</figure>
+
+</page>
+<page number="3">
+<text page="3" section="Practice points" source="author" id="/page/2/Text/3">
+world thanks to 'free zones,' which supported the expansion of multiple foreign academic institutions beyond federal regulation (Ashour and Fatima [2016](#page-7-0)). The UAE multi-ethnic metropolis community is a popular location for studying in the Middle East and North African (MENA) region, due to its political stability, security, and close proximity to Middle Eastern, West Asian, and European countries (Jose and Chacko [2017](#page-8-0)).
+</text>
+
+<text page="3" section="Practice points" source="author" id="/page/2/Text/4">
+As a federal nation, the UAE can have different requirements for regulation of HEIs at the federal and Emirate levels (Jose and Chacko [2017](#page-8-0)). For instance, the federal authority overseeing HE in the UAE is the 'Ministry of Education'; yet, various Emirates may have their own regulatory authorities, such as Abu Dhabi's 'Department of Education and Knowledge' or Dubai's 'Knowledge and Human Development Authority' (KHDA) (Jose and Chacko [2017](#page-8-0)). The UAE agenda toward economic diversification and attracting foreign investment was associated with the adoption of 'free zone' concepts. The formation of free zone areas created another layer of flexibility and the advantage for private academic institutions to operate under decreased restrictions and regulatory constraints (Jose and Chacko [2017](#page-8-0)). Regarding accreditation, the federal bodies are the 'Commission for Academic Accreditation' (CAA) and the 'National Qualifications Authority' (NQA); however, Dubai has an additional accreditation body called 'Dubai's University and Quality Assurance International Board' (UQAIB), which governs international HEIs within its free zones that are not accredited by the CAA (Jose and Chacko [2017)](#page-8-0). The international branch campuses additionally maintain accreditation from their home countries and attract expatriates who are interested in obtaining an internationally recognized degree (Wilkins [2020](#page-8-0)).
+</text>
+
+<text page="3" section="Practice points" source="author" id="/page/2/Text/5">
+In general, the CAA works with both local and national authorities across the Emirates to assure the academic quality of HE in the UAE to international standards, provide institutional licensure and program accreditation. HEIs are encouraged to have CAA accreditation for, in six of the seven emirates, the public sector only recognizes CAAaccredited degrees for employment purposes (Wilkins [2020](#page-8-0)). For this reason, some HEIs within free zones have voluntarily applied for a CAA audit to attract national students who intend to remain in the UAE for employment; however, other free zones HEIs may follow the regulations of the local emirate as they are perceived to be less onerous (Wilkins [2020)](#page-8-0).
+</text>
+
+
+<heading page="3" section="The healthcare system in the UAE" source="author" id="/page/2/SectionHeader/6" level="3">
+### The healthcare system in the UAE
+</heading>
+
+<text page="3" section="The healthcare system in the UAE" source="author" id="/page/2/Text/7">
+The UAE national agenda 'Vision 2021' includes improving the health of its citizens and the performance of the healthcare system (Government of United Arab Emirates [2014](#page-8-0)). Access to quality healthcare and positive health outcomes is a constitutional right for Emiratis and has been a key strategic goal of the government since the federation's formation (Government of United Arab Emirates [1971;](#page-8-0) Koornneef et al. [2017](#page-8-0)). As described above for the HE system, Abu Dhabi and Dubai have their own health authorities for licensing, regulation, and quality assurance, whereas the other five Emirates are served by the federal body, here called the 'Ministry of Health and Prevention'
+</text>
+
+<text page="3" section="The healthcare system in the UAE" source="author" id="/page/2/Text/8">
+(MOHAP). In addition, Dubai Medical City, which is a freezone area, has independent healthcare regulatory standards and service provision and is the largest free-zone healthcare structure in the region.
+</text>
+
+<text page="3" section="The healthcare system in the UAE" source="author" id="/page/2/Text/9">
+According to the World Health Organization (WHO), the UAE has made significant improvements to their healthcare since the federation's inception: by increasing life expectancy (79.7 years), and decreasing maternal (3 per 100,000 live births) and infant (4 per 1000 live births) mortality rates, while its population has rapidly increased through natural growth (births minus deaths) and migration (WHO [2020](#page-8-0)). Most of the communicable (infectious) diseases that were once prevalent in the UAE, such as malaria, measles, and poliomyelitis, have been eradicated, in part through vaccination campaigns (Koornneef et al. [2017;](#page-8-0) WHO [2020)](#page-8-0). There have been continuous reforms to the healthcare sector, including mandatory health insurance for all citizens and expatriates, healthcare privatization and healthcare governance (Blair and Sharif [2013;](#page-8-0) Koornneef et al. [2017)](#page-8-0); however, the levels of chronic disease are on the rise and have proven challenging (Blair and Sharif [2013](#page-8-0)).
+</text>
+
+<text page="3" section="The healthcare system in the UAE" source="author" id="/page/2/Text/10">
+The major causes of mortality and morbidity in the UAE are noncommunicable diseases (NCDs); in particular, cardiovascular diseases account for 29% of all-cause mortality followed by injuries (16%) and cancer (10%) (Hajat et al. [2012](#page-8-0); Loney et al. [2013;](#page-8-0) Koornneef et al. [2017)](#page-8-0). Addressing NCDs has been identified as a public health priority, with the national response being led by the Department of Health (DOH) in Abu Dhabi, which is the largest and most populous Emirate (Hajat et al. [2012](#page-8-0)). The strategies and recommendations to meet these burdens of disease include improvements in surveillance, monitoring, reporting, local research and training of health professionals; promotion of preventative over curative healthcare; education of the public; and introduction of additional federal legislation, such as population-level policies (Hajat et al. [2012;](#page-8-0) Loney et al. [2013](#page-8-0); Koornneef et al. [2017](#page-8-0)). These healthcare challenges must be addressed, as they threaten the national development goals of sustainability and economic development by introducing risk for negative effects on human capital and productivity (Hajat et al. [2012](#page-8-0)).
+</text>
+
+<text page="3" section="The healthcare system in the UAE" source="author" id="/page/2/Text/11">
+On the density of health professionals, the densities of medical doctors (25.3 per 10,000 population) and nurses/ midwives (57.3 per 10,000 population) are higher than the global average (15.6 and 37.6, respectively) and the regional average (10.1 and 14.5, respectively) (WHO [2020)](#page-8-0). The densities of dentists (6.5 per 10,000 population) and pharmacists (8.8 per 10,000 population) are comparable to those in the United Kingdom (5.2 and 8.3, respectively) and United States of America (5.8 and 9.2, respectively) (WHO [2020](#page-8-0)). While this indicates a relatively high healthcare workforce capacity, there is debate over whether there is an oversupply of health professionals or if capacity needs to further increase to keep up with the rapidly growing population (Koornneef et al. [2017)](#page-8-0). The majority of health professionals are expatriates; thus, they most likely trained outside the UAE and may not be suited for population-specific needs. Training an Emirati and UAE residence healthcare workforce is critical for ensuring a sustainable and effective healthcare system (Abdel-Razig and Alameri [2013](#page-7-0); Blair and Sharif [2013)](#page-8-0).
+</text>
+
+</page>
+<page number="4">
+
+<heading page="4" section="Medical education in the UAE" source="author" id="/page/3/SectionHeader/2" level="2">
+## Medical education in the UAE
+</heading>
+
+<text page="4" section="Medical education in the UAE" source="author" id="/page/3/Text/3">
+The landscape of medical education in the UAE has progressed significantly over the last decade. The scope of medical education has extended beyond under- and postgraduate medical education to become an essential part of clinical practice and physician licensing. The expansion of the undergraduate medical schools has created a competitive, but collaborative environment, leading to an overall increase in the number of physicians to the healthcare workforce in the country. Moreover, the international accreditation of the postgraduate programs has transformed the medical education system from the previously adopted apprenticeship learning model to an outcome system-based learning model. The introduction of several health professional regulatory laws has ensured medical education and continuous professional development to be an integral part of the healthcare professional regulatory framework (see Figure 1).
+</text>
+
+
+<heading page="4" section="Undergraduate medical education" source="author" id="/page/3/SectionHeader/4" level="3">
+### Undergraduate medical education
+</heading>
+
+<text page="4" section="Undergraduate medical education" source="author" id="/page/3/Text/5">
+There are eight medical HEIs in the UAE (see [Table 1)](#page-4-0). The majority of these HEIs are private. There is only one public university: The United Arab Emirates University (UAEU) in Al Ain City in the Emirate of Abu Dhabi, which was founded in 1976 and is the oldest and highest ranked HEI in the UAE. The UAEU's College of Medicine and Health Sciences opened in 1984 and accepted its first students by 1986. Today, around 400 students graduate from medical HEIs across the UAE and an estimated 700–800 are newly admitted into new programs, indicating the growing access and output of ME in the UAE (World Directory of Medical Schools 2020).
+</text>
+
+
+<heading page="4" section="Admission" source="author" id="/page/3/SectionHeader/6" level="4">
+#### Admission
+</heading>
+
+<text page="4" section="Admission" source="author" id="/page/3/Text/7">
+Different HEIs have different criteria for admission into their undergraduate degree programs. In general, a certificate or diploma of secondary education completion (Grade 12), with a 70–80% aggregate, or the equivalent, is required for admission into an HEI. For medical schools, however, a higher achievement of at least 90% aggregate for a Grade 12 certificate is needed. High scores in specific science subjects (biology and chemistry/physics) on the national 'Emirates Standardized Test' (EmSAT) are required for admission into medical schools. A relatively high score on the Arabic EmSAT, as well as proof of English proficiency (English is the medium of instruction), are additional requirements. Some medical schools may also include multiple-mini or personal interviews in their admission process. The application processes are usually free, but some HEIs charge a nonrefundable fee that is considered to be part of the competitive process.
+</text>
+
+
+<heading page="4" section="Program structure" source="author" id="/page/3/SectionHeader/8" level="4">
+#### Program structure
+</heading>
+
+<text page="4" section="Program structure" source="author" id="/page/3/Text/9">
+The Bachelor of Medicine and Bachelors Surgery (MBBS) and Doctor of Medicine (MD) degree programs are both level-7 (both are equivalent to a Bachelor) on the National Qualifications Framework (NQF). The majority of programs are 5–6 years long. These undergraduate programs consist of pre-clinical (pre-clerkship) and clinical (clerkship) phases.
+</text>
+
+<figure_group page="4" section="Program structure" source="author" id="/page/3/FigureGroup/268">
+<figure page="4" section="Program structure" source="author" id="/page/3/Figure/10" image="A1.R02_fig07.jpg">[FIGURE: see A1.R02_fig07.jpg]</figure>
+<caption page="4" section="Program structure" source="author" id="/page/3/Caption/11">
+Figure 1. The overview of the medical education structure in the UAE. ABHS: Arab Board of Health Specialties; ACGME-I: Accreditation Council of Graduate Medical Education International; AU: Ajman University; BA: Bachelor Degree; CAA: Council for academic accreditation; CME: Continuous Medical Education; DMC: Dubai Medical College; EMREE: Emirates Medical Residency Entry Examination; GB: German Board; HA: Health Authorities; HEI: High Education Institutions; JB: Jordanian Board; MBRU: Mohammed Bin Rashid University; MOE: Ministry of Education; UAEU: United Arab Emirates University; UOS: University of Sharjah. The overview of the ME system in the UAE at all levels of education and its interaction with the healthcare, different external accreditations, and certifications systems.
+</caption>
+</figure_group>
+
+<text page="4" section="Program structure" source="author" id="/page/3/Text/12">
+The 6-year program is the same as the 5-year program with an additional 'foundation' year at the start that focuses on the basic sciences (biology, chemistry and physics). Khalifa University is the only HEI to offer a 4-year program, modeled off the North American ME system, which only admits students who already possess a bachelor's degree in a scientific field (biology, chemistry, physics, or mathematics). The United Arab Emirates University Collage of Health Sciences shifted recently from a 6-year MBBS to a 4-year MD degree with a prerequisite of having successfully completed two foundation years.
+</text>
+
+</page>
+<page number="5">
+<table_group page="5" section="Program structure" source="author" id="/page/4/TableGroup/463">
+<caption page="5" section="Program structure" source="author" id="/page/4/Caption/2">
+Table 1. Medical schools in the UAE.
+</caption>
+<table page="5" section="Program structure" source="author" id="/page/4/Table/3">
+| Medical school (year of establishment)a | Qualification | Curriculumduration | Admittedb | Graduatedb | QS rankingc |
+| --- | --- | --- | --- | --- | --- |
+| Ajman University College ofMedicine (2018) | Bachelor of Medicine, Bachelor ofSurgery (MBBS) | 6 Years | NA | NA | QS: 750 |
+| Dubai Medical College (1986) | Bachelor of Medicine, Bachelor ofSurgery (MBBCh) | 6 Years | 66(2018) | 63(2018) | QS: None |
+| Gulf Medical University (1998) | Bachelor of Medicine, Bachelor ofSurgery (MBBS) | 5 Years | 106(2019) | 67(2019) | QS: None |
+| Khalifa University of Science andTechnology (2018) | Doctor of Medicine (M.D.) | 4 Years | 30(2019) | NA | QS: 211 |
+| Mohammed Bin Rashid University ofMedicine and Health Sciences (2016) | Bachelor of Medicine, Bachelor ofSurgery (MBBS) | 6 Years | 64(2018) | NA | QS: None |
+| Ras Al Khaimah Medical and HealthSciences University (2006) | Bachelor of Medicine, Bachelor ofSurgery (MBBS) | 5 Years | 90(2017) | 82(2017) | QS: None |
+| United Arab Emirates University (1986) | Doctor of Medicine (M.D.) | 6 Years | 224(2018) | 76(2018) | QS: 284 |
+| University of Sharjah (2004) | Bachelor of Medicine, Bachelor ofSurgery (MBBS) | 6 Years | 124(2013) | 96(2013) | QS: 601–650 |
+</table>
+<footnote page="5" section="Program structure" source="author" id="/page/4/Footnote/4">
+a The table describes the 8 HEIs in the UAE that offer undergraduate degree in medicine and the date of their establishment. ^(b) The source: The World Director of Medical School published by the WFME, last updated 27th October 2020. ^(c) QS: World University Rankings by Quacquarelli Symonds (QS) for year 2020.
+</footnote>
+</table_group>
+
+
+<heading page="5" section="Curriculum" source="author" id="/page/4/SectionHeader/5" level="4">
+#### Curriculum
+</heading>
+
+<text page="5" section="Curriculum" source="author" id="/page/4/Text/6">
+Curricular content and structuring may vary between HEIs, but overall the medical curricula are Competency Based Curriculum structured around organ systems (musculoskeletal, respiratory, cardiovascular, gastrointestinal, etc.), integrated (Hamdy, Telmesani, Al Wardy, et al. [2010)](#page-8-0). During the pre-clinical phase (the first 2 to 3 years) the curriculum focuses on the basic and biomedical sciences as foundations to medicine (for example, anatomy, physiology, biochemistry, immunology, microbiology, virology, pathology, pharmacology), personal and professional development, behavioral science, and clinical skills. The strategy of learning in two Universities, University of Sharjah and Gulf medical University is mainly PBL.
+</text>
+
+<text page="5" section="Curriculum" source="author" id="/page/4/Text/7">
+For the clinical phase (the last 2–3 years), the program consists of clinical rotations, or clerkships, at universityaffiliated hospitals and clinical training sites in ambulatory, inpatient, primary, and/or specialty care. This training takes place mainly in public clinical facilities with limited rotations in private-sector settings, including emergency and community settings. Students are first trained in the fields of general medicine (including family and community medicine), general surgery, obstetrics and gynecology, and pediatrics and neonatology. This is followed by training in medical and surgical subspecialties, such as neurology, dermatology, cardiology, nephrology, otolaryngology, ophthalmology, and psychiatry. During these clerkships, students have the opportunity for hands-on practice in history-taking, physical examinations, interpretation of special investigations, diagnosis, patient management, and general procedures.
+</text>
+
+<text page="5" section="Curriculum" source="author" id="/page/4/Text/8">
+Graduate competencies differ between medical schools, but certain competencies appear at the core of all curricula: knowledge of practice, evidence-based practice and lifelong learning, continued personal and professional development, research and scholarship, patient and population care, social accountability, healthcare systems and costeffective practice, ethics and professionalism, interpersonal and communication skills, interprofessional collaboration, and technology-enhanced healthcare. These competencies have been benchmarked against internationally known competency frameworks, such as the Accreditation Council for Graduate Medical Education (ACGME) but have also
+</text>
+
+<text page="5" section="Curriculum" source="author" id="/page/4/Text/9">
+been adapted in order to be contextually, culturally, and socially appropriate.
+</text>
+
+<text page="5" section="Curriculum" source="author" id="/page/4/Text/10">
+The teaching, learning, and assessment approaches of the UAE medical schools vary, but active student-centered learning, such as problem-based learning (PBL), has been widely adopted by most of the colleges (Hamdy [2017](#page-8-0)). For example, the Gulf Medical University highlights a studentcentered approach to teaching and learning, wherein traditional didactic lecturing is minimized in favor of smallgroup and active learning strategies, including PBL, teambased learning, and student-led seminars. The UAEU has an institutional Curriculum Management Committee that coordinates activities of evidence-based teaching, learning, and assessment practices, such as outcomes-based education, active learning techniques, assessment blueprinting, and feedback. The Ras Al Khaimah Medical and Health Sciences University practices continuous assessment, which makes use of Observed-Structured Practical Examinations (OSPEs), Miniature Clinical Examinations (Mini-CEX), logbooks, case reviews, case presentations, and a final examination.
+</text>
+
+
+<heading page="5" section="Postgraduate medical education" source="author" id="/page/4/SectionHeader/11" level="3">
+### Postgraduate medical education
+</heading>
+
+<text page="5" section="Postgraduate medical education" source="author" id="/page/4/Text/12">
+HEIs and their programs are certified by the Ministry of Education/Higher Education Affairs, and licensed and accredited by the CAA. Once graduates have obtained their bachelor's degree, they are either able to continue with postgraduate studies, undertaking a masters or PhD at several HEIs (e.g. in public health) or continue into residency training. Internship, a one year of supervised clinical practice in approved hospitals, is required before residency specialization (Bakir and Abdel-Razig [2019](#page-7-0)).
+</text>
+
+<text page="5" section="Postgraduate medical education" source="author" id="/page/4/Text/13">
+Once a student has successfully completed their internship, they must pass a medical examination for residency, when enables them to enter the postgraduate residency programs in the UAE (see [Table 2](#page-5-0)). The Emirates Residency Entrance Examination (EMREE) is a 3-h long multiple-choice question test composed of 120 questions that cover general internal medicine, obstetrics and gynecology, pediatrics, general surgery, family medicine, psychiatry, and public health. This examination is designed to test clinical reasoning with clinical scenarios. Those taking the examination need to demonstrate an understanding of disease
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Postgraduate medical education" source="author" id="/page/5/Text/3">
+mechanisms, diagnosis, and patient management and treatment.
+</text>
+
+<text page="6" section="Postgraduate medical education" source="author" id="/page/5/Text/4">
+For the last 5 years the International Foundation of Medical Examination Basic Medical Sciences and the Clinical Science offered by the National Board of Medical Examination 'NBME ' became an obligatory examination by all medical colleges. The Ministry of Education and CAA considered it an international benchmark.
+</text>
+
+
+<heading page="6" section="Accreditation and certification" source="author" id="/page/5/SectionHeader/5" level="4">
+#### Accreditation and certification
+</heading>
+
+<text page="6" section="Accreditation and certification" source="author" id="/page/5/Text/6">
+Since the mid-1990s, postgraduate ME has been accredited by the Arab Board of Health Specialization (ABHS). However, there are variations in the implementation of regulatory frameworks at a program level, leading to unclear educational outcomes. This emphasizes the need for rigorous, standardized quality assurance of postgraduate ME by additional accreditations standards (Abdel-Razig and Alameri [2013;](#page-7-0) Hamdy [2017](#page-8-0) , [2018](#page-8-0)).
+</text>
+
+<text page="6" section="Accreditation and certification" source="author" id="/page/5/Text/7">
+More recently, some residency programs in Dubai have been accredited by the Saudi Commission for Health Specialties (internal medicine, neurology, pulmonology, anesthesia, and neurosurgery) and the German Specialty Board (orthopedics and trauma) (Abdulrahman et al. [2018)](#page-7-0). Similarly, several residency training hospitals and their specialty programs in Abu Dhabi have received accreditation from the Jordanian Medical Council.
+</text>
+
+<text page="6" section="Accreditation and certification" source="author" id="/page/5/Text/8">
+Importantly, the accreditation of Abu Dhabi 's residency programs by the US-based Accreditation Council for Graduate Medical Education-International (ACGME-I) has led to more structured learning outcomes and improvements in competencies that match the population's healthcare needs (Ibrahim et al. [2014](#page-8-0); Ibrahim, Al Tatari, et al. [2015](#page-8-0); Elghul [2016](#page-8-0) , [2019)](#page-8-0). While there have been some difficulties in transitioning from the previously used preceptorship teaching model to an unfamiliar competency-based ME model in residency (Elghul [2019](#page-8-0)), the residents ' perceptions of ACGME-I accreditation have been encouragingly positive (Ibrahim, Abdel-Razig, et al. [2015](#page-8-0)) (see Table 2).
+</text>
+
+<text page="6" section="Accreditation and certification" source="author" id="/page/5/Text/9">
+Enrolled residents and fellows are eligible to take the specific examination(s) required by the corresponding accreditation board. For example, the ABHS examination consists of two parts: a first examination taken within the first 2 years of residency, and a second examination focusing on clinical competencies. A resident must complete both parts to be certified as a specialist.
+</text>
+
+
+<heading page="6" section="The national institution of health specialties" source="author" id="/page/5/SectionHeader/10" level="4">
+#### The national institution of health specialties
+</heading>
+
+<text page="6" section="The national institution of health specialties" source="author" id="/page/5/Text/11">
+In 2014, the establishment of the UAE 'National Institute of Health Specialties ' was announced. The mission of this institution is to support high quality, comprehensive specialty training to deliver the workforce required in the UAE This was an important milestone in UAE ME agenda, as it sought to ensure the quality of postgraduate specialist training, for which there is demand but limited delivery capacity (Abdel-Razig and Alameri [2013](#page-7-0); Abdulrahman et al. [2018;](#page-7-0) Government of Dubai and Dubai Health Authority [2020](#page-8-0)). Recently, the institution signed several agreements with renowned ME international organizations, including the Royal College of Physicians and Surgeons of Canada. The agreement aims to enhance the collaboration between the two organizations in the field of accreditation
+</text>
+
+<caption page="6" section="The national institution of health specialties" source="author" id="/page/5/Caption/12">
+Emirate Specialties Anesthesiology Cardiology Dermatology Emergency medicine Family medicine Gastroenterology Hematology Internal Medicine Neonatology Nephrology Neurology Neurosurgery Obstetrics and gynecology Oncology Ophthalmology Orthopedics Otolaryngology Pathology Pediatrics Pediatric Gastroenterology Rheumatology Psychiatry Radiology Surgery ( general) Urology Abu Dhabi Tanseeqa  Dubai DRTPb  Al Jalila Hospitalc Other Emirates MOHAPd  The residency programs available across UAE for the 2020 entry cycle. aTanseeq: application and matching residency system conducted by the Department of Health Abu Dhabi. bDRTP: Dubai Residency Training Programs conducted by Dubai Health Authority. cAl Jalila Hospital in Dubai independently conducts a
+</caption>
+
+<text page="6" section="The national institution of health specialties" source="author" id="/page/5/Text/14">
+Table 2. Residency and fellowship programs in the UAE.
+</text>
+
+<caption page="6" section="The national institution of health specialties" source="author" id="/page/5/Caption/13">
+pediatrics program. dOther Emirates Residency Programs are under the Ministry of Health and Prevention.
+</caption>
+
+</page>
+<page number="7">
+<figure page="7" section="The national institution of health specialties" source="author" id="/page/6/Picture/2" image="A1.R02_fig08.jpg">[FIGURE: see A1.R02_fig08.jpg]</figure>
+
+<text page="7" section="The national institution of health specialties" source="author" id="/page/6/Text/3">
+standards, assessment system, and professional faculty development.
+</text>
+
+
+<heading page="7" section="Clinical practice" source="author" id="/page/6/SectionHeader/4" level="4">
+#### Clinical practice
+</heading>
+
+<text page="7" section="Clinical practice" source="author" id="/page/6/Text/5">
+CAA or international accreditation if an undergraduate or postgraduate program is required for such qualifications to be recognized by the UAE government; in their absence, graduates cannot be certified and therefore are not eligible to undertake the national licensing examination for clinical practice. Similar to the education and healthcare systems, different Emirates have different licensing and regulatory authorities. For a graduate to practice clinical medicine, they must pass the licensing examination from the DOH for Abu Dhabi, the DHA for Dubai, and the MOHAP for clinical practice in any of the other five Emirates. The medical licensing process includes credentialing, document validation, and examination. A new medical license needs to be obtained for each level of health professional practice: a medical graduate with no experience who is starting clinical practice is called an 'intern.' After one year of internship, they are licensed as a 'resident.' If the graduate decides not to enter residency, he or she receives the title of 'medical practitioner' (MP). When a board specialty is completed, a clinical practitioner may be called a 'specialist.' After 5 years as a specialist, they may be called a 'consultant.' The credentialing of physicians is guided by the Professional Qualification Requirement document (PQR), a federal standard that was issued in 2014 to unify credentialing criteria and the licensing requirements within the three healthcare regulatory authorities.
+</text>
+
+
+<heading page="7" section="Continuous professional development (CPD)" source="author" id="/page/6/SectionHeader/6" level="4">
+#### Continuous professional development (CPD)
+</heading>
+
+<text page="7" section="Continuous professional development (CPD)" source="author" id="/page/6/Text/7">
+A core principle of healthcare in the UAE is for practitioners to be lifelong learners through professional development and training beyond basic qualification (Abdel-Razig et al. [2016](#page-7-0)). Continuing medical education (CME) is a major tool through which a practitioner can update and refresh their experience, and thereby support the goal of being a competent healthcare professional. The DOH, DHA and MOHAP provide accreditation for CME in their corresponding Emirate(s).
+</text>
+
+<text page="7" section="Continuous professional development (CPD)" source="author" id="/page/6/Text/8">
+CME is mandatory for health professional licensing renewal. In accordance with the PQR, a licensed physician is required to submit 40 CME accredited hours per year upon license renewal. A similar requirement is mandated for a physician seeking to return to clinical practice after a break. The criteria of accreditation are similar to those of the Accreditation Council of Continuous Medical Education (ACCME) and European Accreditation Council for Continuous Medical Education.
+</text>
+
+
+<heading page="7" section="Medical education research" source="author" id="/page/6/SectionHeader/9" level="2">
+## Medical education research
+</heading>
+
+<text page="7" section="Medical education research" source="author" id="/page/6/Text/10">
+While healthcare research in the UAE has increased, especially around the rapidly rising NCDs, research outputs still remain lower than those in other parts of the world (United Arab Emirates Ministry of Health and Prevention and Monash University 2019). In general, a lack of funding is a major barrier to research in HE (Jose and Chacko [2017)](#page-8-0). The UAE government currently spends only 0.16% of its GDP on research, which is the lowest such expenditure in
+</text>
+
+<text page="7" section="Medical education research" source="author" id="/page/6/Text/11">
+the Arabian Gulf. An increase in funding for research has been recommended, with public-private partnerships identified as a potential area of promise (Hamdy [2017](#page-8-0), [2018](#page-8-0)).
+</text>
+
+<text page="7" section="Medical education research" source="author" id="/page/6/Text/12">
+ME in particular is under-researched (Meo et al. [2015)](#page-8-0). However, there is growing interest and recognition of ME as a science and research domain, in addition to the moreestablished biomedical, clinical, and public health research domains. The need to improve research has been addressed by the inclusion of compulsory or elective research components for undergraduate and postgraduate programs, private-public relationships, and collaboration with international HEIs (Meo et al. [2015](#page-8-0); Hamdy [2018)](#page-8-0). Going forward, research into ME in the UAE is essential.
+</text>
+
+
+<heading page="7" section="Challenges and opportunities" source="author" id="/page/6/SectionHeader/13" level="2">
+## Challenges and opportunities
+</heading>
+
+<text page="7" section="Challenges and opportunities" source="author" id="/page/6/Text/14">
+The UAE has achieved much in ME since its recent beginnings. All federal health authorities (DOH, DHA, and MOHAP) have prioritized the development of high-quality ME. This has been observed in the legislation supporting the training of students, including efforts to increase access to ME through expansion of the private sector. This legislation has extended to the licensing of all medical residents as active and valuable members of the healthcare labor market, which has been a significant step forward in providing the UAE with a sustainable healthcare workforce, especially during crisis (Fares [2014](#page-8-0)). These health authorities have dedicated administrative offices for ME. Their work encompasses ME strategy development, ME policy establishment, and ME regulatory compliance. Despite these achievements, however, several challenges remain.
+</text>
+
+
+<heading page="7" section="Need for standardization" source="author" id="/page/6/SectionHeader/15" level="3">
+### Need for standardization
+</heading>
+
+<text page="7" section="Need for standardization" source="author" id="/page/6/Text/16">
+One of the disadvantages of having separate educational and healthcare regulatory authorities is a lack of standardized ME practice across the UAE (Ashour and Fatima [2016](#page-7-0); Jose and Chacko [2017)](#page-8-0). This problem is compounded by a lack of HEI-dedicated teaching hospitals. Currently, with two exceptions (Gulf Medical University and University of Sharjah), undergraduate students receive their clinical training at independent hospitals. These hospitals are free to make operational changes that can impact clinical training. The latest recognition of CAA by the World Federation of Medical Education (WFME), will support the development of a more rigorous national accreditation system that will promote quality assurance in medical education and will support the alignment of medical school outcomes with the health system needs.
+</text>
+
+<text page="7" section="Need for standardization" source="author" id="/page/6/Text/17">
+Similarly, for postgraduate medical training and CME, the absence of a unified federal accreditation standards for these programs has prompted some facilities to seek thirdparty accreditation systems. However, the different accreditation and certification standards has created a complex environment to navigate, duplicate operational procedures and sometimes inconsistent training outcomes (Elghul [2019](#page-8-0)). Going forward, the UAE should work towards having a national ME curriculum, national licensing examinations, a national board of specialties, and a national set of regulations for ME outcomes (Hamdy, Telmesani, Al Wardy, et al. [2010;](#page-8-0) Hamdy, Telmesani, Wardy, et al. [2010)](#page-8-0). For instance, once the 'National Institute of Health
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="Need for standardization" source="author" id="/page/7/Text/3">
+Specialties' is operational and ME standards and academic practices are more clearly aligned with the population healthcare, it is predicted that an improvement in postgraduate ME will be seen (Abdel-Razig and Alameri 2013; Abdulrahman et al. 2018).
+</text>
+
+
+<heading page="8" section="Workforce sustainability" source="author" id="/page/7/SectionHeader/4" level="3">
+### Workforce sustainability
+</heading>
+
+<text page="8" section="Workforce sustainability" source="author" id="/page/7/Text/5">
+While Emiratization is a long-term goal for the UAE, the overwhelming expatriate population remains a major barrier to the development a sustainable Emirati workforce. This challenge is compounded by a high demand but a limited training capacity: the number of medical graduates exceeds the available postgraduate training positions and healthcare system needs (Hamdy, Telmesani, Wardy, et al. [2010](#page-8-0); Abdulrahman et al. 2018). This can lead in addition to low number of Emirati physicians but also to a form of 'brain drain' as non-Emirati medical graduates leave the UAE to seek further education, postgraduate certifications and employment elsewhere, with no guarantee of return. Increasing and retaining the healthcare and ME workforce is critical (Hamdy, Telmesani, Al Wardy, et al. [2010;](#page-8-0) Hamdy, Telmesani, Wardy, et al. [2010)](#page-8-0). There needs to be a balance between building workforce capacity and maintaining locally responsive, high-quality ME training (Hamdy [2017)](#page-8-0). We recommend a particular focus on faculty development, education, and leadership, in order to increase ME posts and better prepare sustainable clinical teachers, program directors, and faculty directors, as such individuals will hold great responsibility in directing the future of ME and the healthcare professions in the UAE (Hamdy, Telmesani, Wardy, et al. [2010](#page-8-0)).
+</text>
+
+
+<heading page="8" section="Medical education funding" source="author" id="/page/7/SectionHeader/6" level="3">
+### Medical education funding
+</heading>
+
+<text page="8" section="Medical education funding" source="author" id="/page/7/Text/7">
+The introduction of mandatory health insurance has created a more structured system of healthcare provision in the UAE. Financial reform in healthcare and an increase in public-private partnership has driven major changes in healthcare practices, such as measurement and assessment of clinical services activities and outcomes, and the consequent ability to direct efforts appropriately to population healthcare needs. Similar changes have not been observed in ME system, however. Funding of ME lacks integration between undergraduate ME, which is mostly privatized, and postgraduate ME, which is exclusively supported through public funds. This can result in between-sector differences in strategic objectives that may lead to ME outcomes that are not correlated with the healthcare system. Additional efforts should be aimed at structuring the financial system of ME such that it can fully serve the population's health needs.
+</text>
+
+
+<heading page="8" section="Opportunity to become a medical education hub" source="author" id="/page/7/SectionHeader/8" level="2">
+## Opportunity to become a medical education hub
+</heading>
+
+<text page="8" section="Opportunity to become a medical education hub" source="author" id="/page/7/Text/9">
+The geographic location of the UAE provides further opportunities to create a new 'hub' for ME for the region and beyond. Moreover, there is both a national mandate and political support for the development of human capital, accompanied by excellent infrastructure and an abundance of resources. This makes partnerships and collaborations with other HEIs attractive, which could help contribute to the development and improvement of ME practices in the
+</text>
+
+<text page="8" section="Opportunity to become a medical education hub" source="author" id="/page/7/Text/10">
+UAE. In recent years, the UAE has become a center of several mega medical conferences, such as Arab Health, which attracted more than 57,000 visitors and 4142 exhibitors in 2020. Similar success has been seen in undergraduate ME, with the increasing presence of reputable foreign universities across the counties. Further work in postgraduate ME and ME research is vital.
+</text>
+
+<text page="8" section="Opportunity to become a medical education hub" source="author" id="/page/7/Text/11">
+In conclusion, while the UAE still on the road to improve the quality and standardization of ME further, this should not be done at the expense of the domestic context and its people, culture, and needs. Recent research has explored what it means to be a health professional in the UAE and how postgraduate ME may need to change in order to best serve the Emirati people. Going forward, ME in the UAE will need to balance global quality standards and competitiveness with the goal of remaining relevant to local needs.
+</text>
+
+
+<heading page="8" section="Disclosure statement" source="author" id="/page/7/SectionHeader/12" level="2">
+## Disclosure statement
+</heading>
+
+<text page="8" section="Disclosure statement" source="author" id="/page/7/Text/13">
+The authors have no conflicts of interest to report. The authors alone are responsible for the content and writing of the article.
+</text>
+
+
+<heading page="8" section="Notes on contributors" source="author" id="/page/7/SectionHeader/14" level="2">
+## Notes on contributors
+</heading>
+
+<text page="8" section="Notes on contributors" source="author" id="/page/7/Text/15">
+Hatem Alameri, MD, FCCP, Adjunct Associate Professor of Medicine and Manager of Medical Education and Examination Department at the Department of Health Abu Dhabi, UAE. He is a member of several advisory national and international ME committees. More than 20 years' experience in ME and health regulatory framework development; main focus on transformative ME strategies.
+</text>
+
+<text page="8" section="Notes on contributors" source="author" id="/page/7/Text/16">
+Hossam Hamdy, MBChB, FRCS, PhD, is the Chancellor and the Professor of Surgery and ME at Gulf Medical University, Ajman, UAE. He is a WHO Consultant, member of editorial boards of several ME journals with over 40-years' experience and more than 70 publications in ME. He received several global awards for his commitment and contribution to ME.
+</text>
+
+<text page="8" section="Notes on contributors" source="author" id="/page/7/Text/17">
+Danica Sims, BSc, BMedScHons, MScMed, PhD HSE, is a health sciences educationalist and researcher from Cape Town, South Africa. She works in various capacities in higher education, and currently works for the University of Cape Town and the University of the Western Cape. Her work focuses on curriculum, assessment and continued professional development.
+</text>
+
+
+<heading page="8" section="ORCID" source="author" id="/page/7/SectionHeader/18" level="2">
+## ORCID
+</heading>
+
+<text page="8" section="ORCID" source="author" id="/page/7/Text/19">
+Hossam Hamdy http://orcid.org/0000-0001-6096-6139
+</text>
+
+
+<heading page="8" section="References" source="author" id="/page/7/SectionHeader/20" level="2">
+## References
+</heading>
+
+<text page="8" section="References" source="author" id="/page/7/Text/21">
+Abdel-Razig S, Alameri H.[ 2013.](#page-2-0) Restructuring graduate medical education to meet the health care needs of Emirati citizens. J Grad Med Educ. 5(2):195–200.
+</text>
+
+<text page="8" section="References" source="author" id="/page/7/Text/22">
+Abdel-Razig S, Ibrahim H, Alameri H, Hamdy H, Haleeqa KA, Qayed KI, Obaid LO, Fahim MA, Ezimokhai M, Sulaiman ND, et al.[ 2016.](#page-6-0) Creating a framework for medical professionalism: an initial consensus statement from an Arab Nation. J Grad Med Educ. 8(2):165–172.
+</text>
+
+<text page="8" section="References" source="author" id="/page/7/Text/23">
+Abdulrahman M, Ahmed A, Withnall R.[ 2018](#page-5-0). Evolution of the Dubai health authority's residency training program: a 25-year review, challenges and outcomes. J Family Med Prim Care. 7(2):319.
+</text>
+
+<text page="8" section="References" source="author" id="/page/7/Text/24">
+Ashour S, Fatima SK.[ 2016.](#page-2-0) Factors favouring or impeding building a stronger higher education system in the United Arab Emirates. J Higher Educ Policy Manage. 38(5):576–591.
+</text>
+
+<text page="8" section="References" source="author" id="/page/7/Text/25">
+Bakir I, Abdel-Razig S.[ 2019.](#page-4-0) The internship year: a potential missed opportunity to expand medical access in international settings. J Grad Med Educ. 11(4 Suppl):30–33.
+</text>
+
+</page>
+<page number="9">
+<figure page="9" section="References" source="author" id="/page/8/Picture/2" image="A1.R02_fig09.jpg">[FIGURE: see A1.R02_fig09.jpg]</figure>
+
+<list page="9" section="References" source="author" id="/page/8/ListGroup/383">
+- Blair I, Sharif A.[ 2013](#page-2-0). Health and health systems performance in the United Arab Emirates. World Hosp Health Serv. 49(4):12–17.
+- Elghul AM.[ 2016.](#page-5-0) The ACGME-I effect. J Grad Med Educ. 8(2):285.
+- Elghul AM.[ 2019.](#page-5-0) Challenges and the future of residency education in the UAE after ACGME-I accreditation. J Grad Med Educ. 11(4 Suppl): 14–15.
+- Fares S, Irfan FB, Corder RF, Al Marzouqi MA, Al Zaabi AH, Idrees MM, Abbo M.[ 2014](#page-6-0). Emergency medicine in the United Arab Emirates. Int J Emerg Med. 7(1):4.
+- Findlow S.[ 2005.](#page-1-0) International networking in the United Arab Emirates higher education system: global–local tensions. Compare. 35(3): 285–302.
+- Government of Dubai, Dubai Health Authority[ 2020](#page-5-0). Dubai clinical services capacity plan: 2018-2030. [https://www.dha.gov.ae/](https://www.dha.gov.ae/DHAOpenData/Annual%20Statistical%20Books/DHADoc1260173559-03-06-2020.pdf) [DHAOpenData/Annual%20Statistical%20Books/DHADoc1260173559-](https://www.dha.gov.ae/DHAOpenData/Annual%20Statistical%20Books/DHADoc1260173559-03-06-2020.pdf) [03-06-2020.pdf.](https://www.dha.gov.ae/DHAOpenData/Annual%20Statistical%20Books/DHADoc1260173559-03-06-2020.pdf)
+- Government of United Arab Emirates.[ 1971](#page-1-0). United Arab Emirates's Constitution of 1971. [https://www.constituteproject.org/constitu](https://www.constituteproject.org/constitution/United_Arab_Emirates_2004.pdf)[tion/United_Arab_Emirates_2004.pdf.](https://www.constituteproject.org/constitution/United_Arab_Emirates_2004.pdf)
+- Government of United Arab Emirates.[ 2014](#page-1-0). Vision 2021. [https://www.](https://www.vision2021.ae/en/national-agenda-2021) [vision2021.ae/en/national-agenda-2021](https://www.vision2021.ae/en/national-agenda-2021).
+- Hajat C, Harrison O, Shather Z.[ 2012](#page-2-0). A profile and approach to chronic disease in Abu Dhabi. Global Health. 8:18
+- Hamdy H, Telmesani AW, Al Wardy N, Abdel-Khalek N, Carruthers G, Hassan F, Kassab S, Abu-Hijleh M, Al-Roomi K, O'Malley K, et al. [2010](#page-4-0). Undergraduate medical education in the Gulf Cooperation Council: a multi-countries study (part 1). Med Teach. 32(3):219–224.
+- Hamdy H, Telmesani AW, Wardy NA, Abdel-Khalek N, Carruthers G, Hassan F, Kassab S, Abu-Hijleh M, Al-Roomi K, O'Malley K, et al. [2010](#page-6-0). Undergraduate medical education in the Gulf Cooperation Council: a multi-countries study (part 2). Med Teach. 32(4):290–295.
+- Hamdy H.[ 2017](#page-4-0). The problem and goals are global, the solutions are local: Revisiting quality measurements and the role of the private sector in global health professions education. Acad Med. 92(8): 1082–1085.
+- Hamdy H.[ 2018.](#page-5-0) Medical college of the future: from informative to transformative. Med Teach. 40(10):986–984.
+- Ibrahim H, Abdel-Razig S, Nair SC.[ 2015](#page-5-0). Medical students' perceptions of international accreditation. Int J Med Educ. 6:121–124.
+- Ibrahim H, Al Tatari H, Holmboe E.[ 2015.](#page-5-0) The transition to competency-based pediatric training in the United Arab Emirates. BMC Med Educ. 15(1):65.
+</list>
+
+<list page="9" section="References" source="author" id="/page/8/ListGroup/384">
+- Ibrahim H, Lindeman B, Matarelli SA, Nair SC.[ 2014](#page-5-0). International residency program evaluation: Assessing the reliability and initial validity of the ACGME-I resident survey in Abu Dhabi, United Arab Emirates. J Grad Med Educ. 6(3):517–520.
+- Jose S, Chacko J.[ 2017.](#page-2-0) Building a sustainable higher education sector in the UAE. Int J Educ Manage. 31(6):752–765.
+- Kirk D, Napier D.[ 2010.](#page-1-0) Global competition, local implications: Higher education development in the United Arab Emirates. (Higher education, policy, and the global competition phenomenon). Basingstoke: Palgrave Macmillan.
+- Kirk D.[ 2010](#page-1-0). The development of higher education in the United Arab Emirates. Abu Dhabi: Emirates Center for Strategic Studies and Research.
+- Koornneef E, Robben P, Blair I.[ 2017](#page-2-0). Progress and outcomes of health systems reform in the United Arab Emirates: a systematic review. BMC Health Serv Res. 17(1):672.
+- Loney T, Aw TC, Handysides DG, Ali R, Blair I, Grivna M, Shah SM, Sheek-Hussein M, El-Sadig M, Sharif AA, et al.[ 2013.](#page-2-0) An analysis of the health status of the United Arab Emirates: the 'Big 4' public health issues. Glob Health Action. 6:20100.
+- Matsumoto A.[ 2019.](#page-1-0) Literature review on education reform in the UAE. Int J Educ Reform. 28(1):4–23.
+- Meo S, Hassan A, Aqil M, Usmani A.[ 2015](#page-6-0). Medical education research in GCC countries. BMC Med Educ. 15:8
+- Sarker AE, Rahman M.[ 2020.](#page-1-0) Social engineering and Emiratization in the United Arab Emirates. Public Admin Policy. 23(2):173–186.
+- Stephenson GK, Rajendram S.[ 2019.](#page-1-0) "This barrier between:" the ethnic divisions of higher education in Malaysia and the United Arab Emirates. High Educ. 77(5):889–903.
+- United Arab Emirates Ministry of Health and Prevention, Monash University. 2019. The state of health research in the United Arab Emirates: a bibliometric study of research outputs as a measure of health research activity, quality and international engagement from 2014 to 2018. Dubai: United Arab Emirates Ministry of Health and Prevention.
+- WHO.[ 2020.](#page-2-0) World health statistics 2020: monitoring health for the sustainable development goals. Geneva: WHO.
+- Wilkins S.[ 2010.](#page-2-0) Higher education in the United Arab Emirates: an analysis of the outcomes of significant increases in supply and competition. J Higher Educ Policy Manage. 32(4):389–400.
+</list>
+
+</page>
+</paper>

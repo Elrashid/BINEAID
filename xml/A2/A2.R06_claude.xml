@@ -1,0 +1,853 @@
+<paper source_file="A2.R06" title="" total_pages="22" figures="4" figures_with_images="4">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 4 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/2" image="A2.R06_fig01.jpg">[FIGURE: see A2.R06_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/3">
+an open access 🔓 journal
+</text>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/4" image="A2.R06_fig02.jpg">[FIGURE: see A2.R06_fig02.jpg]</figure>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/5" image="A2.R06_fig03.jpg">[FIGURE: see A2.R06_fig03.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/6">
+Citation: Boufarss, M., &amp; Laakso, M. (2023). Open access and international coauthorship: A longitudinal study of the United Arab Emirates research output. Quantitative Science Studies, 4(2), 372-393. https://doi.org /10.1162/qss_a_00256
+</text>
+
+
+<heading page="1" section="" source="author" id="/page/0/SectionHeader/7" level="2">
+## 
+</heading>
+
+<text page="1" section="" source="author" id="/page/0/Text/8">
+https://doi.org/10.1162/qss_a_00256
+</text>
+
+
+<heading page="1" section="Peer Review:" source="author" id="/page/0/SectionHeader/9" level="4">
+#### Peer Review:
+</heading>
+
+<text page="1" section="Peer Review:" source="author" id="/page/0/Text/10">
+https://www.webofscience.com/api /gateway/wos/peer-review/10.1162 gss a 00256
+</text>
+
+<text page="1" section="Peer Review:" source="author" id="/page/0/Text/11">
+Received: 6 November 2022 Accepted: 27 March 2023
+</text>
+
+<text page="1" section="Peer Review:" source="author" id="/page/0/Text/12">
+Corresponding Author: Mohamed Boufarss mohamed.boufarss@tuni.fi
+</text>
+
+<text page="1" section="Peer Review:" source="author" id="/page/0/Text/13">
+Handling Editor: Ludo Waltman
+</text>
+
+<text page="1" section="Peer Review:" source="author" id="/page/0/Text/14">
+Copyright: © 2023 Mohamed Boufarss and Mikael Laakso. Published under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+</text>
+
+<figure page="1" section="Peer Review:" source="author" id="/page/0/Picture/15" image="A2.R06_fig04.jpg">[FIGURE: see A2.R06_fig04.jpg]</figure>
+
+
+<heading page="1" section="Open access and international coauthorship: A longitudinal study of the United Arab **Emirates research output **" source="author" id="/page/0/SectionHeader/16" level="1">
+# Open access and international coauthorship: A longitudinal study of the United Arab **Emirates research output **
+</heading>
+
+<text page="1" section="Open access and international coauthorship: A longitudinal study of the United Arab **Emirates research output **" source="author" id="/page/0/Text/17">
+Mohamed Boufarss&lt;sup&gt;1&lt;/sup&gt; and Mikael Laakso&lt;sup&gt;2&lt;/sup&gt;
+</text>
+
+<text page="1" section="Open access and international coauthorship: A longitudinal study of the United Arab **Emirates research output **" source="author" id="/page/0/Text/18">
+&lt;sup&gt;1&lt;/sup&gt;Faculty of Information Technology and Communication Sciences, Tampere University, Tampere, Finland &lt;sup&gt;2&lt;/sup&gt;Department of Management and Organisation, Hanken School of Economics, Helsinki, Finland
+</text>
+
+<text page="1" section="Open access and international coauthorship: A longitudinal study of the United Arab **Emirates research output **" source="author" id="/page/0/Text/19">
+Keywords: coauthorship, international collaboration, open access, scientometrics, Scopus, UAE
+</text>
+
+
+<heading page="1" section="**ABSTRACT **" source="author" id="/page/0/SectionHeader/20" level="1">
+# **ABSTRACT **
+</heading>
+
+<text page="1" section="**ABSTRACT **" source="author" id="/page/0/Text/21">
+We investigate the interplay between open access (OA), coauthorship, and international research collaboration. Although previous research has dealt with these factors separately, there is a knowledge gap in how these interact within a single data set. The data includes all Scopus-indexed journal articles published over 11 years (2009–2019) where at least one of the authors has an affiliation to a United Arab Emirates institution (30,400 articles in total). To assess the OA status of articles, we utilized Unpaywall data for articles with a digital object identifier, and manual web searches for articles without. There was consistently strong growth in publication volume counts as well as shares of OA articles across the years. The analysis provides statistically significant results supporting a positive relationship between a higher number of coauthors (in particular international) and the OA status of articles. Further research is needed to investigate potentially explaining factors for the relationship between coauthorship and increased OA rate, such as implementation of national science policy initiatives, varying availability of funding for OA publishing in different countries, patterns in adoption of various OA types in different coauthorship constellations, and potentially unique discipline-specific patterns as they relate to coauthorship and OA rate.
+</text>
+
+
+<heading page="1" section="1. INTRODUCTION" source="author" id="/page/0/SectionHeader/22" level="1">
+# 1. INTRODUCTION
+</heading>
+
+<text page="1" section="1. INTRODUCTION" source="author" id="/page/0/Text/23">
+Open access (OA) publishing in journals is growing globally, both as entire journals and on the article level, in particular through hybrid OA transformative agreements (Crawford, 2021; Jahn, Matthias, &amp; Laakso, 2022). Repository self-archiving by authors is also a major enabler of OA to content that would otherwise only be accessible behind a paywall (Thibault, MacPherson et al., 2018). Science policy and practices for OA publishing have evolved unevenly from an international perspective, where many European countries have in recent years been advancing rapidly compared to the rest of the world. Research funders and higher education institutions (HEIs) in Europe are increasingly requiring that the publications produced by funded or affiliated researchers are made available OA immediately (cOalition S, 2018; ROARMAP, n.d.). Although OA policies and practices are locally anchored to specific organizations and funding instruments, research is often conducted through international collaboration. Institutional requirements and possibilities for OA availability can thus also affect coauthors, even though their own circumstances do not require or enable OA to publications. Knowledge about how this phenomenon, coauthorship-induced OA, exists and has developed over time is lacking.
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="1. INTRODUCTION" source="author" id="/page/1/Text/2">
+One key aspect that has contributed to the slow progress of knowledge development related to more intricate aspects of OA, such as the phenomenon of coauthorship-induced OA described in the previous paragraph, is the dearth of comprehensive basic data. Even though OA publishing has been growing strongly for over 20 years, a comprehensive central database for searching and retrieval of OA resources has still not been realized ([Azadbakht &amp;](#page-20-0) [Schultz, 2020)](#page-20-0). The freely accessible Unpaywall database is currently the most comprehensive resource, but it is built around the fundamental principle that included articles have a digital object identifier (DOI) which is not something that all journals use. In a study on DOIs in the Web of Science (WoS) Core Collection and Scopus from 2005 to 2014, [Gorraiz, Melero-Fuentes](#page-20-0) [et al. (2016)](#page-20-0) observed that while 90% of all citable items in the Sciences and the Social Sciences in 2014 had a DOI, the percentage is about 50% in the Arts &amp; Humanities. As this concerns journals within these indexes, the lack of DOIs for journals outside them can be assumed to be higher. Although the problem of lacking comprehensive data, or what [Nguyen,](#page-21-0) [Luczak-Roesch et al. (2022)](#page-21-0) refer to as "fitness for use," is something that also concerns data availability in scholarly journal publishing overall, with the selection of what data source one uses strongly shaping what the landscape looks like ([Basson, Simard et al., 2022)](#page-20-0), for research on OA, this problem is heightened due to often having to rely on multiple layers of incomplete data to gain an overview of the situation. To counter these shortcomings, [Xu, Yue et al. (2017)](#page-21-0) conclude that a multisource data fusion (MSDF) is "necessary and meaningful" in scientometrics. Overall, there is a need for more research on OA that also includes parts of the publication landscape that are omitted if only readily available data is used.
+</text>
+
+<text page="2" section="1. INTRODUCTION" source="author" id="/page/1/Text/3">
+Considerable existing research is devoted to descriptive article-level growth analysis of OA utilizing Scopus and WoS, but less attention has been paid to the connection between openness and coauthorship, international collaboration, and journal host country. Using manual data enrichment, this study provides new insight into these phenomena with United Arab Emirates (UAE) research output providing the base data. The objective is to provide a granular analysis of research article output in the country, level of openness, and connection to international coauthorship.
+</text>
+
+<text page="2" section="1. INTRODUCTION" source="author" id="/page/1/Text/4">
+The specific research questions that we seek answers to through the use of longitudinal data concerning journal article output which involves at least one UAE-affiliated author are
+</text>
+
+
+<heading page="2" section="1. What are the key OA characteristics of journal articles from UAE-affiliated authors?" source="author" id="/page/1/SectionHeader/5" level="2">
+## 1. What are the key OA characteristics of journal articles from UAE-affiliated authors?
+</heading>
+
+<list page="2" section="1. What are the key OA characteristics of journal articles from UAE-affiliated authors?" source="author" id="/page/1/ListGroup/184">
+- (a) What are the shares of different OA types?
+- (b) What are the disciplinary differences in OA shares?
+- (c) Does the journal host country have a connection to OA availability?
+- (d) What are the most popular repositories for self-archiving?
+</list>
+
+
+<heading page="2" section="2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?" source="author" id="/page/1/SectionHeader/10" level="2">
+## 2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?
+</heading>
+
+<list page="2" section="2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?" source="author" id="/page/1/ListGroup/185">
+- (a) How is coauthorship distributed globally?
+- (b) Does the number of coauthors have a connection to OA availability?
+- (c) Does the geographic region of coauthors have a connection to OA availability?
+</list>
+
+<text page="2" section="2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?" source="author" id="/page/1/Text/14">
+The UAE makes for an interesting case for the study of both research output and OA growth for a number of reasons. First, the UAE is a very young country, established only in 1971 and with its oldest university established in 1976. Although it does not have an old research
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?" source="author" id="/page/2/Text/2">
+tradition or a well-established science policy, it has made giant strides in transforming its research landscape. [Al Marzouqi, Alameddine et al. (2019)](#page-19-0) revealed that UAE research productivity has seen a 16-fold increase between 1998 and 2017 and the [UAE Commission for](#page-21-0) [Academic Accreditation (2022)](#page-21-0) currently lists 74 active higher education institutions. Second, the UAE research workforce is composed of a high share of expatriates and thus is transient by nature but they may also bring along their collaboration networks and thus boost the UAE's coauthored publications output. Finally, we could not identify any mention of sources of article processing charges (APC) funding within the UAE across all resources analyzing extramural and intramural funding in the country. This is in stark contrast with countries that have a high OA uptake and highlights the unique characteristics of the UAE research environment.
+</text>
+
+<text page="3" section="2. How do different aspects of coauthorship interplay with OA shares of UAE-affiliated research output?" source="author" id="/page/2/Text/3">
+[Alsharari (2018)](#page-19-0) states the preoccupation of UAE universities with gaining recognition through international accreditation. He further adds that "Local and global rankings are assuming greater importance …." Research performance plays a major role in most university rankings and often relies on outputs in international journals, preferably high-ranked ones. It is this preoccupation with rankings (among other data quality aspects that are discussed in the methods section) that supports our choice of Scopus as a source of data, as it is a main resource of research output data for university rankings such as Quacquarelli Symonds (QS) and Times Higher Education (THE). What is relatively unexplored is how the growth in OA journal articles of UAE-affiliated authors has developed over recent years and how that might be connected to changes in international coauthorship among these authors. By designing a study around this topic, we aim to improve the current level of knowledge regarding the influence of coauthorship on the OA status of articles. We also aim to expose the level of compromise that reliance on readily available OA data implies when investigating phenomena such as this.
+</text>
+
+
+<heading page="3" section="2. LITERATURE REVIEW" source="cited" id="/page/2/SectionHeader/4" level="1">
+# 2. LITERATURE REVIEW
+</heading>
+
+
+<heading page="3" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/2/SectionHeader/5" level="2">
+## 2.1. Challenges to OA Analysis and Retrieval
+</heading>
+
+<text page="3" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/2/Text/6">
+The road to comprehensive study of OA is strewn with methodological options and associated tradeoffs that need to be considered. First, current data sources often fail to provide comprehensive coverage data on different types of OA, leading researchers to resorting manual data collection, which has implications for how studies are skewed towards certain languages, countries, and disciplines. Second, discovery and retrieval of OA sources is shackled by the inconsistency of the different existing OA finding tools.
+</text>
+
+<text page="3" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/2/Text/7">
+Despite being the most mature branch of open science so far, the measurement of OA share for journal articles is a complex task given the many variants of OA and the multiplicity of approaches, as well as the data sets used. [Taubert, Hobert et al. (2019)](#page-21-0) illustrate this point with a listing of about 11 different OA types synthesized from existing OA research. Most bibliographic indexes do not capture data on all these OA variants, which can overlap with each other as multiple copies of publications are available through different channels over time, thus introducing a methodological challenge for bibliometric analysis. As most bibliographic databases are designed primarily for content retrieval purposes, bibliometric analysis of metadata can be just a secondary purpose [(Hood &amp; Wilson, 2003](#page-20-0)). Researchers often resort to extensive manual data collection to rectify gaps in the data (see e.g., [Boufarss, 2020)](#page-20-0). Another issue with bibliometric analysis of international scope, be it including OA dimensions or not, is related to the biases in the two most commonly used data sources, namely WoS and Scopus. These two services contain biases in coverage related to disciplines, countries, and languages ([Khanna, Ball et al., 2022;](#page-21-0) [Mongeon &amp; Paul-Hus, 2016)](#page-21-0). The bias towards English language
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/3/Text/2">
+publications also reported by [Björk (2019)](#page-20-0) makes comprehensive bibliometric studies of non-English-speaking countries like the UAE skewed, as part of their research output is often underrepresented. In a recent comprehensive analysis of the leading sources of citation data, [Martín-Martín, Thelwall et al. (2021)](#page-21-0) reveal that sources suffer from either of the two main limitations: limited coverage in the case of Scopus or WoS; and limited search functionalities in the case of Google Scholar, Microsoft Academic, Dimensions, and OpenCitations COCI. With this in mind, Scopus has the upper hand because of greater coverage than WoS and more metadata fields, enabling deeper analysis ([Thelwall &amp; Maflahi, 2022)](#page-21-0). This last argument is supported by [Guerrero-Bote, Chinchilla-Rodríguez et al. (2021)](#page-20-0), who concluded that there is greater coverage at the level of countries and institutions in Scopus than in Dimensions even though the latter has overall greater data coverage than the former. However, as of writing, there are no competing, more inclusive services than Scopus and WoS that would offer the same level of curation for journal and article-level metadata concerning active peer-reviewed journals that fulfill some common baseline criteria, which means that they can still be very useful for various research purposes as long as the limitations and biases are acknowledged.
+</text>
+
+<text page="4" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/3/Text/3">
+At a time when OA uptake is trending upward ([Archambault, Amyot et al., 2014](#page-19-0); [Piwowar,](#page-21-0) [Priem et al., 2018;](#page-21-0) [Piwowar, Priem, &amp; Orr, 2019)](#page-21-0), discovery and retrieval of OA resources has been an issue that many service providers have worked on improving [(Azadbakht &amp; Schultz,](#page-20-0) [2020;](#page-20-0) [Dhakal, 2019;](#page-20-0) [Willi Hooper, 2017)](#page-21-0). The heralded general objective of the OA movement to provide access to scholarship to anyone with internet access is not achieved if people cannot find OA versions of articles easily ([Schultz, Azadbakht et al., 2019)](#page-21-0). OA discovery tools such as Unpaywall, Kopernio, OA button, and Lazy Scholar have tried to resolve this challenge, as demonstrated by [Azadbakht and Schultz (2020),](#page-20-0) [Duffin (2020),](#page-20-0) [Else (2018)](#page-20-0), and [Schultz et al. (2019).](#page-21-0) [Willi Hooper (2017)](#page-21-0) reviewed Unpaywall as an OA finding tool, finding it advantageous compared with Google Scholar, which has accuracy issues and linking to Academic Social Networks (ASNs), which can have copyright compliance issues. This finding is shared by [Dhakal (2019),](#page-20-0) who stressed Unpaywall's focus on legally available OA articles. Other merits of Unpaywall have also been emphasized by [Dhakal (2019),](#page-20-0) such as the provided Simple Query Tool, the REST API, and the full database snapshot, which all facilitate establishing OA status for larger amounts of articles as long as a DOI can be provided for each.
+</text>
+
+<text page="4" section="2.1. Challenges to OA Analysis and Retrieval" source="author" id="/page/3/Text/4">
+Whether it is the unequivocal focus of OA studies on journal literature, absence of comprehensive data sources that cater for the different OA models and are unbiased, or unreliable discovery and retrieval tools, the challenges to OA studies abound.
+</text>
+
+
+<heading page="4" section="2.2. Research Collaboration and OA" source="author" id="/page/3/SectionHeader/5" level="2">
+## 2.2. Research Collaboration and OA
+</heading>
+
+<text page="4" section="2.2. Research Collaboration and OA" source="author" id="/page/3/Text/6">
+The research landscape has witnessed a surge in collaboration in recent years, driven by the global proliferation of networked devices and associated web services, policies encouraging research partnerships, and beliefs that this leads to increased scholarly productivity [(Abramo,](#page-19-0) D'[Angelo, &amp; Di Costa, 2009)](#page-19-0), increased citations [(Eysenbach, 2006](#page-20-0); [Hajjem &amp; Harnad, 2007)](#page-20-0), increased research visibility ([Glänzel &amp; Schubert, 2004)](#page-20-0), increased knowledge sharing and transfer, creativity, and intellectual companionship [(Katz &amp; Martin, 1997](#page-21-0)), and increased academic performance ([Aziz &amp; Rozing, 2013](#page-20-0)). This has also been influenced by the globalization of science becoming a necessity for addressing major societal challenges (Macháč[ek, 2023)](#page-21-0). An example of support for research collaboration at the policymaker level is the European research funders' network ERA-NET and the European Joint Programming Initiatives (JPI). The correlation between collaboration and upsurge in publication quality and output is supported by [Chung, Cox, and Kim (2009)](#page-20-0). This opinion is shared by [Adams, Jamal et al. (2021)](#page-19-0) in
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="2.2. Research Collaboration and OA" source="author" id="/page/4/Text/2">
+the Middle East, North Africa, and Turkey (MENAT) context, as they believe that the upsurge in publications is largely due to international collaboration.
+</text>
+
+<text page="5" section="2.2. Research Collaboration and OA" source="author" id="/page/4/Text/3">
+While coauthorship is the most common indicator of research collaboration [(Nguyen et al.,](#page-21-0) [2022)](#page-21-0), drawing broad conclusions regarding the intensity and quality of research collaboration purely based on bibliometric data should be done with caution. [Katz and Martin (1997)](#page-21-0) believe that "co-authorship is no more than a partial indicator of collaboration" as interinstitutional and international collaboration does not have to be a collaboration between individuals. A case in point is when a researcher lists two affiliations, indicating an overarching institutional collaboration. In fact, a "collision of collaboration and authorship" ([Birnholtz,](#page-20-0) [2006)](#page-20-0) can even happen when collaboration breeds mass authorship or hyperauthorship, with some articles in physics, for example, listing thousands of coauthors ([Kahn, 2018](#page-20-0)). Equally problematic is what [Moustafa (2020)](#page-21-0) refers to as "octopus affiliations," referring to authors listing multiple affiliations. This could be in exchange for financial reward by institutions seeking to enhance their ranking or authors' desire to boost their reputation by associating themselves with prestigious institutions. These practices have deep implications for attribution and credit, ownership, and reputation. [Glänzel and Schubert (2004)](#page-20-0) provide a detailed fundamental overview of coauthorship. They note that almost 20 years ago, one could already observe an overall trend in terms of decrease in single-author publications. This was counterbalanced by intensifying collaboration in all disciplines. In a study of coauthorship in different disciplines from 1900 to 2020, [Thelwall and Maflahi (2022)](#page-21-0) reported a steady increase in the mean number of authors per article. Even though [Glänzel and Schubert (2004)](#page-20-0) noted that this increase was a "global law" with all countries, regardless of the size of their publication output, having witnessed this growth, they observed that medium-sized or small countries had higher international copublications than large countries.
+</text>
+
+<text page="5" section="2.2. Research Collaboration and OA" source="author" id="/page/4/Text/4">
+Benefits of coauthorship transcend the impact it can have on an individual author's or institution's scientific profile. [Wagner, Whetsell et al. (2018)](#page-21-0) state that "the more internationally engaged a nation is in terms of co-authorships and researcher mobility, the higher the impact of scientific work." If this statement is accurate and with a high incoming mobility as demonstrated by [El-Ouahi, Robinson-García, and Costas (2021)](#page-20-0) and with internationally coauthored publications of nearly 70% in 2015 ([Moed, 2016](#page-21-0)), the UAE should record high scientific work impact. In fact, [Al Marzouqi et al. (2019)](#page-19-0) reported an improvement in the percentage of articles from the UAE that were published in the top 10th percentile (by CiteScore) ranked journals and that this metric was higher than the average for Gulf Cooperation Council and Arab League countries.
+</text>
+
+<text page="5" section="2.2. Research Collaboration and OA" source="author" id="/page/4/Text/5">
+Very little research has been published on the relationship between the number of authors and level of articles' openness. Though old and exploring a different aspect of OA, [Eysenbach](#page-20-0)'s (2006) research found OA articles to have a "higher number of authors." This could be attributed to two factors, namely higher self-archiving probability with more authors and increased potential of APC funding by one of the author's affiliations. [Hajjem and Harnad](#page-20-0) [(2007),](#page-20-0) in a study from around the same time frame, found that the number of authors among other factors "contributes an independent, statistically significant increment to the citation counts."
+</text>
+
+<text page="5" section="2.2. Research Collaboration and OA" source="author" id="/page/4/Text/6">
+Another challenge brought about by coauthorship is who bears the cost of publishing OA. In their study on OA costs, taking into account author roles and the number of authors in Germany, [Bruns, Rimmert, and Taubert (2020)](#page-20-0) identified five payment models for APC payments: First author model, Reprint author model, Institutions contribute equally, Institutions contribute, weighted by the number of authors, and Institutions contribute, weighted by
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="2.2. Research Collaboration and OA" source="author" id="/page/5/Text/2">
+author-institution-combination. They conclude that these models result in different financial contributions and thus some are preferred by some institutions over others. [Morillo (2020)](#page-21-0) looked more closely at the relationships between OA (based on Unpaywall data), funding types (national, international, EU funded), collaboration (national, international coauthorship), and citations for WoS articles published in 2017 in the disciplines of Immunology and Economics. One clear difference from the start was that the overall level of OA among the articles differed substantially between the two disciplines: 50% for Immunology and less than 15% for Economics. Although the studied factors are intertwined and influence each other in different ways, the authors could conclude that the probability of an article being OA was significantly higher in Immunology when the study was EU funded, included international collaboration, and with a positive connection to accrued citations. The factors were positive towards the probability of an article being OA independently but particularly so when multiple of them were present for the same article. The trend was also similar for the same factors for Economics articles, but the overall strength was weaker due to the substantially lower OA update overall.
+</text>
+
+<text page="6" section="2.2. Research Collaboration and OA" source="author" id="/page/5/Text/3">
+Based on research on the initial years of transformative agreements in Germany, [Haucap,](#page-20-0) [Moshgbar, and Schmal (2021)](#page-20-0) found a significant change in publication patterns among authors, where they more frequently select journals that are part of such agreements than journals that are outside of their coverage. Similar results were also recently found by [Wenaas](#page-21-0) [(2022)](#page-21-0) for articles from authors affiliated with Norwegian institutions. What does this mean for studies that relate to coauthorship and openness? OA grows by two mechanisms: directly as a consequence of outlets making articles open that would otherwise have been closed, and by stimulating authors to select journals that enable OA at no extra cost.
+</text>
+
+
+<heading page="6" section="2.3. The UAE Landscape" source="author" id="/page/5/SectionHeader/4" level="2">
+## 2.3. The UAE Landscape
+</heading>
+
+<text page="6" section="2.3. The UAE Landscape" source="author" id="/page/5/Text/5">
+Article output from Arab countries was slow in catching up but is quickly compensating for this latency as part of a global trend ending the dominance of the transatlantic research axis, which had a share of 75–80% of all academic research output ([Adams et al., 2021)](#page-19-0). [Adams](#page-19-0) [et al. (2021)](#page-19-0) further state that the number of papers output from the MENAT region saw a 20-fold growth between 1981 and 2019. This translates into a move from 2% to 8% of global share. They also share the findings of [Cavacini (2016)](#page-20-0) that research output from the region is dominated by Israel, Iran, Turkey, Saudi Arabia, and Egypt, which means that other countries, including the UAE, still play a marginal role in scientific production. In 2019, the UAE contributed only 15% of the Gulf Cooperation Council research productivity against 63% for Saudi Arabia ([Ajayan, Balasubramanian, &amp; Ramachandran, 2022](#page-19-0)).
+</text>
+
+<text page="6" section="2.3. The UAE Landscape" source="author" id="/page/5/Text/6">
+The UAE research landscape presents some unique characteristics, including, but not limited to, the country being only around 50 years old, a high transient research community with temporary residency status (the oldest university being only around 46 years old), and a nonhomogeneous multilingual population. All these factors have a direct impact on research output. However, the situation is set to change in the UAE as the national science policy is being geared towards increased scientific output ([Boufarss &amp; Laakso, 2020](#page-20-0)). This direction started with the launch of UAE Vision 2021, followed by the release of the UAE Innovation Strategy, the National Strategy for Higher Education 2030, the announcement of the National Advanced Sciences Agenda 2031, the Research and Development (R&amp;D) Governance Policy, and finally by the recently launched Golden Visa scheme, aiming to attract and retain outstanding researchers. Furthermore, initiatives that aim to provide funding for research were launched recently and include, among many others, the Mohammed bin Rashid Al Maktoum Knowledge Foundation, the National Research Foundation, the Abu Dhabi Research and
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="2.3. The UAE Landscape" source="author" id="/page/6/Text/2">
+Development Authority, the Advanced Technology Research Council, and the Abu Dhabi Ghadan 21 Research and Development funds. The Research and Development Governance Policy lists among its aims to "foster an agile, robust national ecosystem for research and development in the UAE" and "set standards to improve research, elevate the performance of the national R&amp;D activities." These policies and initiatives are likely to have had a visible impact on scientific research output. A [Clarivate Analytics (2019)](#page-20-0) report estimated that UAE research articles indexed in the WoS Core Collection increased by 450% between 2008 and 2018. The same Clarivate report states that the UAE is part of the OA growth trend, with a gradual increase in the percentage of OA articles published in recent years.
+</text>
+
+
+<heading page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/SectionHeader/3" level="1">
+# 3. METHODOLOGY AND DATA
+</heading>
+
+<text page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/Text/4">
+Some of the most recent and comprehensive studies on national-level OA dimensions have been based on nationally collected and curated Current Research Information System (CRIS) data, which, when a country has such available, still provide breadth at the expense of standardized detail when it comes to, for example, affiliation metadata for all involved coauthors and OA type categorization [(Pölönen, Laakso et al., 2020](#page-21-0); [Wenaas, 2022](#page-21-0)). In the absence of comprehensive local or regional indexes of journal articles with the required author-affiliation metadata for each article, we utilized Scopus as a source of data. [Boufarss (2020)](#page-20-0) states that "regional indexes such as ARCIF and Arab Impact Factor are limited in their coverage of locally published journals." In fact, these two products are Journal Impact Factor indexes. Similarly, according to [Ouahi (2021),](#page-21-0) the share of UAE journals in Clarivate's Arabic Citation Index is a mere 2%. This index is also highly biased with nearly 79% of records in Arts &amp; Humanities, and Social Sciences categories and nearly 93% in Arabic language ([Ouahi,](#page-21-0) [2021)](#page-21-0). The choice of Scopus is also supported by the perceived focus among UAE institutions on publications indexed mainly in Scopus and WoS services, as [Boufarss and Laakso (2020)](#page-20-0) found that the greatest majority of HEIs consider their researchers' publishing in Scopus and WoS essential and a high priority.
+</text>
+
+<text page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/Text/5">
+The key steps of the data collection methodology are presented in Figure 1. We initially extracted a list of articles published during a period of 11 years (2009 to 2019) and authored by researchers affiliated with UAE institutions from Scopus and imported the data into Microsoft Excel. Scopus data were extracted using Scival in February 2020 and data for the year 2019 were appended in October 2021. A query for publications limited by country to the "United Arab Emirates" was performed. For the sake of focus on primarily peer-reviewed
+</text>
+
+<figure_group page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/FigureGroup/167">
+<figure page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/Figure/6" image="A2.R06_fig05.jpg">[FIGURE: see A2.R06_fig05.jpg]</figure>
+<caption page="7" section="3. METHODOLOGY AND DATA" source="author" id="/page/6/Caption/7">
+Figure 1. Data collection methodology.
+</caption>
+</figure_group>
+
+</page>
+<page number="8">
+<text page="8" section="3. METHODOLOGY AND DATA" source="author" id="/page/7/Text/2">
+content, and comparability with other studies such as [Piwowar et al. (2019),](#page-21-0) the query was further limited to articles, articles in the press, business articles, and data papers. Our choice of this time frame initially emanated from a desire to analyze a decade of data, but was later expanded to 11 years. Our choice of 2009 was motivated by data in [Ajayan et al. (2022)](#page-19-0) and [Al Marzouqi et al. (2019)](#page-19-0) which indicated a big jump in UAE research articles output in that year, and also by the general momentum for OA journal publishing globally that was more seriously building up involving several OA types around that time frame [(Piwowar et al.,](#page-21-0) [2018)](#page-21-0). Articles published in 2020 were excluded, as metrics were still at risk of being "incomplete" for that year at the time of data collection, particularly regarding self-archived materials, which are often under an embargo before they can be distributed on the web. Conference proceedings, books, and book chapters were excluded in an endeavor to have a consistent data set that could be analyzed for journal OA status. To enable the analysis of journal choice and possible relationship concerning language and geographical bias, we also enriched the data with the journal country using the ISSN Portal.
+</text>
+
+<text page="8" section="3. METHODOLOGY AND DATA" source="author" id="/page/7/Text/3">
+For the records without a DOI (2,133 articles), we matched these to DOIs in Crossref Metadata using their Link References feature or manually researched and appended a DOI whenever found through manual checking through journal websites. A DOI could not be found for the remaining 297 articles. All records with a DOI were batch run through the Unpaywall Simple Query Tool and the resulting data were appended to those records. For the remaining articles that were published without DOIs, we manually collected OA status information for them, following the basic principles of classification that Unpaywall also uses to have a uniform data set. To remain in line with Unpaywall data harvesting principles, OA resources in services such as ResearchGate and [Academia.edu](https://www.Academia.edu) were excluded.
+</text>
+
+<text page="8" section="3. METHODOLOGY AND DATA" source="author" id="/page/7/Text/4">
+The data were then enriched with a coauthor affiliation region based on Scopus affiliation country data. The affiliation countries were grouped into six regions, namely Africa, Asia, Australasia, Europe, North America, and South America. It bears noting that one author might be affiliated to more than one institution or country through one article. From the perspective of this study this has been seen as an expression of international collaboration and aligned with the aims of the study and can be included as such rather than something that had to be fractionalized or cleaned out from the data. To give some scope for this data property, we calculated that 7,724 articles (25%) included more affiliations than the count of total authors in the metadata. Journal topic clusters were grouped into the five main Scopus subject areas (Multidisciplinary, Life Sciences, Health Sciences, Physical Sciences, and Social Sciences and Humanities) by mapping the All Science Journal Classification Codes (ASJC) field against the Scopus subject areas.
+</text>
+
+<text page="8" section="3. METHODOLOGY AND DATA" source="author" id="/page/7/Text/5">
+For the sake of clarity and disambiguation, the following basic definitions from [Piwowar](#page-21-0) [et al. (2018)](#page-21-0) are used for the classification of OA type:
+</text>
+
+<list page="8" section="3. METHODOLOGY AND DATA" source="author" id="/page/7/ListGroup/196">
+- Gold OA: articles published in an OA journal where all articles are open directly on the journal website.
+- Green OA: articles published in a subscription journal, but self-archived in, for example, an institutional or disciplinary OA archive. These articles vary in what version they are, ranging from publisher versions to article manuscripts prior to peer review.
+- Hybrid OA: articles published in a toll-access journal but are immediately made open under an open license, often in exchange for payment of an APC.
+- Bronze OA: articles provided and made available to read from the publishers' website but without a license, thus limiting their reuse rights to reading.
+- Closed: an OA version of the article has not been found, also referred to as non-OA.
+</list>
+
+</page>
+<page number="9">
+<text page="9" section="3. METHODOLOGY AND DATA" source="author" id="/page/8/Text/2">
+The Unpaywall data used in this study contain one OA type recorded per publication, and in cases where there were multiple versions available preference was given to recording the gold OA option. As such, the green OA share can be lower than actual availability because many articles available through that mechanism might also be available as a gold OA type.
+</text>
+
+<text page="9" section="3. METHODOLOGY AND DATA" source="author" id="/page/8/Text/3">
+For statistical analysis, we utilized IBM SPSS 28.0. Dichotomous variables and presence of article attributes (article OA status, journal discipline categories, journal world region, article affiliation world region group) were dummy coded as 0 or 1 to enable analysis. For analysis involving absolute author counts or author affiliation distribution, outliers were excluded from the analysis to make the analysis more representative of the majority of articles in the population. Articles with author counts outside of one standard deviation of the arithmetic mean of authors (14.76) were excluded in this case, which meant that articles with an excess of 159 authors were not considered (183 articles in total). Where this exclusion applies is mentioned in the results section; otherwise in all other cases, all articles are included in the analysis.
+</text>
+
+
+<heading page="9" section="4. RESULTS AND DISCUSSION" source="author" id="/page/8/SectionHeader/4" level="1">
+# 4. RESULTS AND DISCUSSION
+</heading>
+
+<text page="9" section="4. RESULTS AND DISCUSSION" source="author" id="/page/8/Text/5">
+This part of the study presents and discusses the results of the analysis conducted on the dataset described in the methods and data section.
+</text>
+
+
+<heading page="9" section="4.1. What Are the Key OA Characteristics of Journal Articles from UAE-Affiliated Authors?" source="author" id="/page/8/SectionHeader/6" level="2">
+## 4.1. What Are the Key OA Characteristics of Journal Articles from UAE-Affiliated Authors?
+</heading>
+
+
+<heading page="9" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/8/SectionHeader/7" level="3">
+### 4.1.1. What are the shares of different OA types?
+</heading>
+
+<text page="9" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/8/Text/8">
+Figure 2 and [Table 1](#page-9-0) show that scientific article output of the UAE has been strong in the past 11 years, especially since 2014, coinciding with the UAE's Innovation Strategy, which aims to "promote research and development across universities" ([UAE PMO, 2015)](#page-21-0). The percentage of OA articles for the period from 2009 to 2019 amounts to nearly 41%, growing from only 28% in 2009 to 50% in 2019. Furthermore, year-on-year analysis of OA percentage during the same period reveals an average 2.2% increase in OA annually. These figures are surprising in a country with no national-level OA policies, mandates, or clear guidelines [(Boufarss &amp;](#page-20-0)
+</text>
+
+<figure_group page="9" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/8/FigureGroup/116">
+<figure page="9" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/8/Figure/9" image="A2.R06_fig06.jpg">[FIGURE: see A2.R06_fig06.jpg]</figure>
+<caption page="9" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/8/Caption/10">
+Figure 2. OA status and type by publication year.
+</caption>
+</figure_group>
+
+</page>
+<page number="10">
+<caption page="10" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/9/Caption/2">
+OA Type 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 Total Closed 886 960 1,060 1,067 1,270 1,360 1,717 1,881 2,193 2,641 2,990 18,015 Gold 156 199 214 286 322 420 524 696 868 1,083 1,916 6,684 Green 102 123 179 185 220 220 294 355 390 452 619 3,139 Bronze 53 65 76 93 84 105 140 171 173 193 256 1,409 Hybrid 37 23 51 64 69 100 109 148 147 172 233 1,153 Total OA 348 410 520 628 695 845 1,067 1,370 1,578 1,900 3,024 12,385 Total 1,231 1,367 1,576 1,695 1,965 2,205 2,784 3,251 3,771 4,541 6,014 30,400 % OA 28 30 33 37 35 38 38 42 42 42 50 41
+</caption>
+
+<caption page="10" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/9/Caption/3">
+Table 1. OA type and status by publication year
+</caption>
+
+<text page="10" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/9/Text/4">
+[Laakso, 2020](#page-20-0)). In fact, the UAE OA rate for 2019 is much higher than [Piwowar et al.](#page-21-0)'s (2019) findings that showed the world share of OA standing at about 31%. Similarly, these are well ahead of the 24% OA for papers published between 2015 and 2019 in the Arab countries and indexed in the Arabic Citation Index (ARCI) as reported by [Ouahi (2021)](#page-21-0). However, they remain subpar with the OA shares achieved by Finland (73%), the United Kingdom (70%), Sweden (66%), and France (65%) in 2019 [(Curtin University, 2022)](#page-20-0).
+</text>
+
+<text page="10" section="4.1.1. What are the shares of different OA types?" source="author" id="/page/9/Text/5">
+[Figure 2](#page-8-0) also shows that 54% (6,684) of all OA articles are provided as gold OA directly through journals. This is followed by green OA with 3,139 (25%). Bronze OA and hybrid OA account for 11% (1409) and 9% (1,153) of OA articles respectively. This trend corroborates the conclusions of [Piwowar et al. (2019)](#page-21-0) that gold OA spearheads the OA movement. When interpreting these numbers, it is important to reiterate that the Unpaywall data used here only provides one OA type recorded per publication, and in cases where there are multiple versions available preference is given to recording the gold OA option. As such, the green OA share is lower than actual availability because many articles available through that mechanism are also available as a gold OA type. In any case, it can be argued that this will not have much effect on the decreasing trend of green OA, which could be attributed to an increasing number of authors who publish gold OA articles not choosing to self-archive these already open articles.
+</text>
+
+
+<heading page="10" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/9/SectionHeader/6" level="3">
+### 4.1.2. What are the disciplinary differences in OA shares?
+</heading>
+
+<text page="10" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/9/Text/7">
+As [Table 2](#page-10-0) presents, articles involving UAE-affiliated authors were dominated by Physical Sciences, which accounts for 47% of all articles. This is probably driven by the research and development of the oil and gas industry. However, the highest percentage of OA was achieved by journals in multidisciplinary fields at 90% (e.g., including megajournals such as PLOS ONE and Scientific Reports). Health Sciences and Life Sciences achieved the next highest OA percentages, with 55% and 51% respectively. It also bears remembering in this context that the study only includes journal articles and does not include, for example, conference papers that might follow different dynamics regarding OA shares and have seen different changes over the 11-year observation period.
+</text>
+
+<text page="10" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/9/Text/8">
+To more robustly explore whether the degree of OA status differed to a statistically significant degree between discipline categories of the publishing journal, we performed a Pearson chi-square association test. The relationship between these variables (article OA status and
+</text>
+
+</page>
+<page number="11">
+<caption page="11" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/10/Caption/2">
+Scopus subject area OA Closed Total % OA Health Sciences 2,880 2,349 5,225 55 Life Sciences 2,241 2,186 4,419 51 Physical Sciences 4,791 9,525 14,314 33 SS&amp;H 1,819 3,885 5,695 32 Multidisciplinary 654 70 721 90
+</caption>
+
+<caption page="11" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/10/Caption/3">
+Table 2. OA by Scopus subject area
+</caption>
+
+<text page="11" section="4.1.2. What are the disciplinary differences in OA shares?" source="author" id="/page/10/Text/4">
+Scopus Subject Area) was found to be significant, χ^(2) (4, 34,000) = [1,860.574, p &lt; .000]. Table 3 breaks down the actual counts in the data set compared with the expected counts based on the analysis: Physical Sciences and Social Sciences and Humanities had lower than expected shares of articles available OA, while Life Sciences, Health Sciences and Multidisciplinary had a higher than expected share of OA articles.
+</text>
+
+
+<heading page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/SectionHeader/5" level="3">
+### 4.1.3. Does the journal host country have a connection to OA availability?
+</heading>
+
+<text page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/Text/6">
+As the results in [Table 4](#page-11-0) demonstrate, authors continue heading north, with the majority of articles published in journals from Europe and North America. Journals published in Europe alone account for about 56% of all articles published by UAE authors. North American journals published another 29% of the articles. This could be attributed to the big publishers being based in these countries [(Mongeon &amp; Paul-Hus, 2016)](#page-21-0) and to the authors' pursuit of high impact and prestige or to the increasing globalization of research communication trend (Macháč[ek, 2023](#page-21-0)). MENAT journals account for only 926 (3%) publications, of which 724 (78%) are OA and 202 (22%) are paywalled.
+</text>
+
+<text page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/Text/7">
+South American journals lead in the OA percentage of articles, with 84% of all articles being OA. This is followed by MENAT (78%), International organization (75%), Australasian (67%), Asian (66%), and African (64%) journals. European and North American journals are both at the bottom of the list with 36% and 37%. "International organization," in this context, represents journals published by an international organization and listed as such by the ISSN International Centre because those organizations do not have a national ISSN center.
+</text>
+
+<text page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/Text/8">
+We conducted a Pearson chi-square association test to establish whether the distribution of article OA status differs across journal host country categories. The relationship between these variables (article OA status and journal host country) was found to be significant, χ^(2) (6, 34,000) = [1,461.186, p &lt; .000]. The results of the analysis showed that articles published by journals in
+</text>
+
+<table_group page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/TableGroup/200">
+<caption page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/Caption/9">
+Table 3. Output of Pearson chi-square association test for OA status differences for articles published in journals within different Scopus subject areas
+</caption>
+<table page="11" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/10/Table/10">
+|  |  |  | PhysicalSciences | LifeSciences | HealthSciences | Social Sciencesand Humanities | Multidisciplinary |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Article OA status | No | Count | 9,525 | 2,186 | 2,349 | 3,885 | 70 |
+| Expected count | 8,484 | 2,623 | 3,099 | 3,380 | 429 |
+| Yes | Count | 4,791 | 2,241 | 2,880 | 1,819 | 654 |
+| Expected count | 5,832 | 1,804 | 2,130 | 2,324 | 295 |
+</table>
+</table_group>
+
+</page>
+<page number="12">
+<table_group page="12" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/11/TableGroup/166">
+<caption page="12" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/11/Caption/2">
+Table 4. Journal region and OA shares
+</caption>
+<table page="12" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/11/Table/3">
+|  | OA | Closed | % OA | Total |
+| --- | --- | --- | --- | --- |
+| Asia | 2,094 | 1,083 | 65.9 | 3,177 |
+| Europe | 6,217 | 10,971 | 36.2 | 17,188 |
+| North America | 3,300 | 5,638 | 36.9 | 8,938 |
+| Australasia | 264 | 130 | 67.0 | 394 |
+| Africa | 173 | 99 | 63.6 | 272 |
+| South America | 124 | 24 | 83.8 | 148 |
+| International | 213 | 70 | 75.3 | 283 |
+</table>
+</table_group>
+
+<text page="12" section="4.1.3. Does the journal host country have a connection to OA availability?" source="author" id="/page/11/Text/4">
+the journal host country categories of Africa, Asia, Australasia, South America and International had higher than the expected distribution of articles available OA, while Europe and North America were lower than expected. Table 5 presents the output of the analysis.
+</text>
+
+
+<heading page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/SectionHeader/5" level="3">
+### 4.1.4. What are the most popular repositories for self-archiving?
+</heading>
+
+<text page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/Text/6">
+Performing document version and web location analysis for any other type than green OA would not be meaningful, as the copies should in those cases always be available from the publisher's website in their final peer-reviewed and copyedited form, but for green OA, access can be provided through various document versions and can come from different types of web services around the world. With data being based on how Unpaywall has harvested different article versions, [Table 6](#page-12-0) shows that the submitted version of the manuscript accounts for almost half of all self-archived articles. Combined with the accepted version rate, this reaches around two-thirds of self-archived articles. This result of around a third of self-archived copies being the published version is surprising, as, in general, journal publishers do not allow posting of the published version ([Laakso, 2014)](#page-21-0) unless the article has been published in an OA journal with a Creative Commons license so that open distribution is explicitly permitted.
+</text>
+
+<text page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/Text/7">
+Studies have reported a limited number of institutional repositories (IRs) in the UAE ([Boufarss, 2011;](#page-20-0) [Boufarss &amp; Laakso, 2020)](#page-20-0), and this study provides further evidence that the actual use of the existing repositories is also low when looked through the observation of this data set. Although IRs were the most common location of self-archived/green OA articles as demonstrated in [Table 7](#page-12-0), the vast majority of were at institutions outside the UAE, as OA copies located at UAE-based academic IR amounted to a mere 36 articles of the 1,077 found at such locations. IRs were followed by subject-based repositories, namely arXiv and PMC, in
+</text>
+
+<table_group page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/TableGroup/167">
+<caption page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/Caption/8">
+Table 5. Output of Pearson chi-square association test for OA status differences for articles published in journals from different continents
+</caption>
+<table page="12" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/11/Table/9">
+|  | Africa | Asia | Australasia | Europe | International | North America | South America |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Article OA status | No | Count | 99 | 1,083 | 130 | 10,971 | 70 | 5,638 | 24 |
+| Expected count | 161 | 1,883 | 234 | 10,186 | 168 | 5,297 | 88 |
+| Yes | Count | 173 | 2,094 | 264 | 6,217 | 213 | 3,300 | 124 |
+| Expected count | 111 | 1,294 | 161 | 7002 | 115 | 3,641 | 60 |
+</table>
+</table_group>
+
+</page>
+<page number="13">
+<table_group page="13" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/12/TableGroup/156">
+<caption page="13" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/12/Caption/2">
+Table 6. Green OA self-archived versions
+</caption>
+<table page="13" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/12/Table/3">
+| Version | # of articles |
+| --- | --- |
+| Published | 859 |
+| Accepted | 729 |
+| Submitted | 1,549 |
+</table>
+</table_group>
+
+<text page="13" section="4.1.4. What are the most popular repositories for self-archiving?" source="author" id="/page/12/Text/4">
+frequency of use for self-archiving articles. These findings are quite surprising in contrast with the findings of [Boufarss and Laakso (2020)](#page-20-0) that the majority of UAE HEIs mandate or encourage self-archiving in an IR, something which does not happen at least in the UAE-operated IRs based on these results.
+</text>
+
+
+<heading page="13" section="4.2. How Do Different Aspects of Coauthorship Interplay with OA Shares of UAE-Affiliated Research Output?" source="author" id="/page/12/SectionHeader/5" level="2">
+## 4.2. How Do Different Aspects of Coauthorship Interplay with OA Shares of UAE-Affiliated Research Output?
+</heading>
+
+<text page="13" section="4.2. How Do Different Aspects of Coauthorship Interplay with OA Shares of UAE-Affiliated Research Output?" source="author" id="/page/12/Text/6">
+To start unraveling the relationships between the coauthorship, international collaboration, and OA status of articles a summarizing longitudinal analysis was made over how the average number of world regions covered by affiliations per article and the share of articles with at least one international affiliation have developed for articles with at least one UAE-affiliated author over the 11 years covered by the study. [Table 8](#page-13-0) presents the results of this analysis, showing consistent growth for both indicators over the years, the average number of world regions covered by the affiliations in the articles growing from 0.75 to 1.12 and the inclusion of at least one international affiliation from 59% to 72%.
+</text>
+
+
+<heading page="13" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/12/SectionHeader/7" level="3">
+### 4.2.1. How is coauthorship distributed globally?
+</heading>
+
+<text page="13" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/12/Text/8">
+To get a global summarizing perspective on coauthorship distribution we grouped the affiliation data into world regions rather than individual countries, with the UAE separated out as the only individual country in order to enable inspection of national-only coauthorships. [Figure 3](#page-13-0) indicates that about 19% of all coauthored UAE articles were with other UAE authors. However, UAE authors also have a diversified collaboration portfolio with coauthors from all continents, with around 80% of coauthored publications with authors from other countries surpassing the 70% reported by [Moed (2016).](#page-21-0) With the exception of internal UAE coauthorship, the numbers shown on the map are nonexclusive per continent but rather capture all instances of at least one coauthor from that continent. The highest instances of collaboration were recorded with Asia (26%), North America (20%), and Europe (19%) respectively. Similar intercontinental collaboration trends have been reported by [Kozma and Calero-Medina (2019)](#page-21-0)
+</text>
+
+<table_group page="13" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/12/TableGroup/157">
+<caption page="13" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/12/Caption/9">
+Table 7. Top five sources of self-archived articles
+</caption>
+<table page="13" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/12/Table/10">
+| Source | # of articles | Articles with UAE authors only |
+| --- | --- | --- |
+| Academic institutional repositories | 1,077 | 208 |
+| arXiv | 463 | 92 |
+| Via Semantic Scholar lookup | 449 | 160 |
+| Via Europe PMC lookup | 348 | 92 |
+| PubMed Central (NIH) | 184 | 56 |
+</table>
+</table_group>
+
+</page>
+<page number="14">
+<table_group page="14" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/13/TableGroup/135">
+<table page="14" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/13/Table/2">
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 |
+| Average number of worldregions covered by affiliations(articles with UAE-onlyaffiliations counted as 0) | 0.75 | 0.75 | 0.80 | 0.83 | 0.86 | 0.94 | 0.96 | 1.01 | 1.03 | 1.10 | 1.12 |
+| % of articles with at least oneinternational affiliation | 59% | 57% | 59% | 62% | 65% | 68% | 68% | 70% | 71% | 73% | 72% |
+</table>
+<caption page="14" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/13/Caption/3">
+Table 8. Longitudinal development of internationalization of authorship of articles with at least one UAE-affiliated author
+</caption>
+</table_group>
+
+<text page="14" section="4.2.1. How is coauthorship distributed globally?" source="author" id="/page/13/Text/4">
+among South African authors. This could be attributed to a range of factors, such as neocolonial ties and language impact, with English being the language of teaching and business in the UAE and workforce dynamics with immigrants from Asia being dominant ([De Bel-Air, 2015](#page-20-0)) representing about half of the population. UAE university faculty by nationality statistics reported in [Karabchuk, Shomotova, and Chmel (2022)](#page-21-0) indicate that about 89% of academics are expatriates in the year 2016/2017. A similar report by [Bayanat.ae (s.d.)](#page-20-0) shows that only 12% of academics at Zayed University are UAE nationals. According to the same report, faculty hail from 62 different countries: 37% are from Asian countries, 25% are from the United States and Canada, and 22% are from European countries. These findings indicate that the UAE is part of the increasing international copublications trend reported by [Glänzel and](#page-20-0) [Schubert (2004).](#page-20-0)
+</text>
+
+
+<heading page="14" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/13/SectionHeader/5" level="3">
+### 4.2.2. Does the number of coauthors have a connection to OA availability?
+</heading>
+
+<text page="14" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/13/Text/6">
+To start with, we divided the articles into three groups based on the number of authors involved in each: one, two, or three or more. As [Figure 4](#page-14-0) shows, we found general prevalence for higher OA share for articles authored by more than three authors throughout the years covered. It can be seen also that there has been a constant increase in OA percentage across different coauthorship levels and over the 11 years captured. In addition to the fact that the number of coauthored publications has been significantly higher than single-author articles throughout the last 11 years, the output of publications with multiple authors has seen strong growth during the same period across both OA and closed articles. It can also be observed that
+</text>
+
+<figure_group page="14" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/13/FigureGroup/136">
+<figure page="14" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/13/Figure/7" image="A2.R06_fig07.jpg">[FIGURE: see A2.R06_fig07.jpg]</figure>
+<caption page="14" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/13/Caption/8">
+Figure 3. Coauthorship by continent.
+</caption>
+</figure_group>
+
+</page>
+<page number="15">
+<figure_group page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/FigureGroup/102">
+<figure page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Figure/2" image="A2.R06_fig08.jpg">[FIGURE: see A2.R06_fig08.jpg]</figure>
+<caption page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Caption/3">
+Figure 4. Single vs. multiauthor articles over time.
+</caption>
+</figure_group>
+
+<text page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Text/4">
+the OA rate is higher among multiauthor publications in recent years, with, for example, 52% OA for articles with three or more authors against 43% for single-author articles in 2019, 45% against 29% for the 2018, and 45% versus 34% in 2017.
+</text>
+
+<text page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Text/5">
+Digging a bit deeper into this research question, a binominal logistic regression was performed to ascertain the effect of author count on the likelihood of an article being available OA. This analysis included two independent variables (count of authors per article) and year (publication year), and one independent variable for OA status (yes/no). We included the publication year in the model to account for the growth in general OA that can be seen over the observation years.
+</text>
+
+<text page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Text/6">
+As described in Section 3, outliers were removed to improve analysis that involves absolute author counts. Author counts outside of one standard deviation of the arithmetic mean of authors (14.76) were excluded in this case, which meant that articles with an excess of 159 authors were not considered (183 articles in total).
+</text>
+
+<text page="15" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/14/Text/7">
+The logistic regression model was statistically significant χ^(2) (2) = 1,431.995, p &lt; .001. The two predictor variables were both statistically significant: number of authors and publication year. An increase in authors as well as later publication years were associated with an increased likelihood of an article being available OA. The finding of more authors per paper being associated with higher likelihood of being OA is in line with the results of [Morillo (2020)](#page-21-0) and [Eysenbach (2006)](#page-20-0) for the disciplines they researched. The output of the analysis is presented in [Table 9.](#page-15-0)
+</text>
+
+</page>
+<page number="16">
+<caption page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Caption/2">
+B S.E. Wald df p Odds ratio 95% CI.for odds ratio Lower Upper Number of authors .094 .004 673.357 1 &lt; .001 1.099 1.091 1.106
+</caption>
+
+<text page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/13">
+Publication year .070 .004 293.676 1 &lt; .001 1.072 1.064 1.081
+</text>
+
+<text page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/14">
+Constant −143.895 8.224 297.136 1 &lt; .001 .000
+</text>
+
+<caption page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Caption/3">
+Table 9. Logistic regression predicting likelihood of open access status of published articles based on number of authors and publication year
+</caption>
+
+<text page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/4">
+However, the degree to which the included variables could explain all the variation in the OA status for articles was relatively low. The model explained 6.3% (Nagelkerke R^(2) ) of the variance in OA status and correctly classified 62.4% of cases. Sensitivity was 17.4% and specificity was 92.9%. Negative predictive value was 62.4% and positive predictive value 37.5%. As a follow-up we performed a Receiver Operating Characteristic (ROC) plotting of the discriminatory effects of the variables with the results of "Number of Authors" having an area of .593 and "Publication Year" having .566, which according to [Hosmer, Lemeshow, and Sturdivant (2013)](#page-20-0) in general suggests poor discrimination that is not much better than a random classification.
+</text>
+
+<text page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/5">
+So, although the test and its variables were significant, there are a lot of other factors also in play that should be explored in future studies.
+</text>
+
+<text page="16" section="4.2.2. Does the number of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/6">
+Based on this finding we argue that one explaining factor is the increased likelihood of one author being covered by an OA mandate that either caters for OA APC expenses or ensures self-archival for published research on behalf of all authors of the article. As these mandates and funding possibilities have become more common over time, we think that also explains the relationship for more recent articles being more likely to be OA.
+</text>
+
+
+<heading page="16" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/15/SectionHeader/7" level="3">
+### 4.2.3. Does the geographic region of coauthors have a connection to OA availability?
+</heading>
+
+<text page="16" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/8">
+[Table 10](#page-16-0) shows a comparison between OA rate and intercontinental collaboration. It shows that Europe is a key player in the top 10 collaboration combinations with the highest OA rate. For this analysis we included two categories for articles that contain no international affiliations (one for single-authored articles with a UAE affiliation, and one for articles with multiple authors where there are only UAE affiliations) as a point of comparison to all the other categories, which contain different combinations of international affiliations. The OA percentage among articles with only UAE affiliations the was 32% for single-authored and 38% for multiauthor articles, thus not falling far behind the average of 41% for all articles over the period of the study. The results seem to indicate that higher intercontinental collaboration is related to higher OA rate.
+</text>
+
+<text page="16" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/9">
+To further explore the relationship between different coauthor affiliation world regions and the OA status of articles we opted for a nonparametric Pearson chi-square test for association, here also using the modified data set that excluded the 183 articles with over 159 authors per article (N = 30,217). Because we are dealing with two dichotomous variables (OA status and presence of specific author affiliation continent), and the same articles can include several of the affiliation variables at any one time, a nonparametric test was decided as the most optimal way to explore this dimension of the data.
+</text>
+
+<text page="16" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/15/Text/10">
+The result of the Pearson chi-square test of association found a statistically significant relationship between all affiliation categories and OA status outside of articles with an affiliation to Africa, where the results were not statistically significant. For articles with only national affiliations (only UAE affiliations) the share of articles with OA status was lower than expected. For articles that included affiliations to Europe, South America, Asia, Australasia, and North
+</text>
+
+</page>
+<page number="17">
+<table_group page="17" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/16/TableGroup/278">
+<caption page="17" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/16/Caption/2">
+Table 10. Coauthor affiliation continent and OA rate, showing combinations with over 50 articles only
+</caption>
+<table page="17" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/16/Table/3">
+| Continent | # Articles | # OA | # Closed | % OA |
+| --- | --- | --- | --- | --- |
+| Asia – Europe – North America – Australasia – Africa – South America | 206 | 181 | 25 | 88 |
+| Asia – Europe – North America – Africa – South America | 62 | 47 | 15 | 76 |
+| Asia – Europe – North America – Australasia | 77 | 56 | 21 | 73 |
+| Europe – North America – Australasia | 85 | 57 | 28 | 67 |
+| Asia – Europe – North America – Africa | 65 | 43 | 22 | 66 |
+| Asia – Europe – Australasia | 67 | 41 | 26 | 61 |
+| Asia – Europe – North America | 385 | 229 | 156 | 59 |
+| Europe – North America | 854 | 436 | 418 | 51 |
+| Europe – Australasia | 164 | 81 | 83 | 49 |
+| Asia – North America – Africa | 98 | 47 | 51 | 48 |
+| Asia – Europe – Africa | 146 | 69 | 77 | 47 |
+| North America – Australasia | 95 | 44 | 51 | 46 |
+| Asia – Europe | 1,046 | 474 | 572 | 45 |
+| South America | 92 | 41 | 51 | 45 |
+| Europe – Africa | 312 | 138 | 174 | 44 |
+| Europe | 3,366 | 1,436 | 1,930 | 43 |
+| Europe – South America | 74 | 31 | 43 | 42 |
+| Asia – Africa | 510 | 209 | 301 | 41 |
+| Asia | 5,216 | 2,115 | 3,101 | 41 |
+| Asia – North America – Australasia | 51 | 20 | 31 | 39 |
+| Asia – North America | 1,163 | 456 | 707 | 39 |
+| Asia – Australasia | 224 | 83 | 141 | 37 |
+| Europe – North America – Africa | 57 | 21 | 36 | 37 |
+| North America | 3,803 | 1,342 | 2,461 | 35 |
+| Africa | 1167 | 408 | 759 | 35 |
+| North America – Africa | 268 | 90 | 178 | 33 |
+| Australasia | 637 | 211 | 426 | 33 |
+| North America – South America | 72 | 23 | 49 | 32 |
+| UAE only (Multi-author) | 6,824 | 2,591 | 4,233 | 38 |
+| UAE only (Single-author) | 3,313 | 1,057 | 2,256 | 32 |
+</table>
+</table_group>
+
+</page>
+<page number="18">
+<table_group page="18" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/17/TableGroup/201">
+<caption page="18" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/17/Caption/2">
+Table 11. Pearson chi-square test of association between coauthor affiliation world regions and OA status of articles
+</caption>
+<table page="18" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/17/Table/3">
+|  | OA status distribution ofarticles with affiliation | Pearsonchi-square value | Asymptoticsignificance(2-sided) | Cramer's V | Approximatesignificance |
+| --- | --- | --- | --- | --- | --- |
+| Asia affiliation | Higher than expected(expected 3,797,actual 4,061) | 44.845 | < .001 | .039 | < .001 |
+| Europe affiliation | Higher than expected(expected 2,848,actual 3,346) | 190.854 | < .001 | .079 | < .001 |
+| North America affiliation | Higher than expected(expected 2,979,actual count 3,058) | 4.610 | .032 | .012 | .032 |
+| Australasia affiliation | Higher than expected(expected 676,actual count 777) | 26.656 | < .001 | .030 | < .001 |
+| Africa affiliation | Higher than expected(expected 1,174,actual count 1,209) | 1.896 | .168 | .007 | .168 |
+| South America affiliation | Higher than expected(expected 336,actual count 252) | 48.397 | < .001 | .040 | < .001 |
+| Only UAE affiliation | Lower than expected(expected 3,563,actual count 3,316) | 40.598 | < .001 | .037 | < .001 |
+</table>
+</table_group>
+
+<text page="18" section="4.2.3. Does the geographic region of coauthors have a connection to OA availability?" source="author" id="/page/17/Text/4">
+America (listed in descending order of effect size between the variables) the actual count of OA articles exceeded the expected distribution. Because Cramers V indication of the relative effect size ranges between 0 and 1, much like traditional correlation analysis, we can deduce that while the results are statistically significant the actual relative effect size is low, ranging between .037 and .079. The output of the analysis is provided in Table 11. These results support the notion that internationally coauthored articles in the data set are available OA to a higher degree, where the strongest effect was for articles which included a coauthor with an affiliation address in Europe.
+</text>
+
+
+<heading page="18" section="5. CONCLUSIONS" source="author" id="/page/17/SectionHeader/5" level="1">
+# 5. CONCLUSIONS
+</heading>
+
+<text page="18" section="5. CONCLUSIONS" source="author" id="/page/17/Text/6">
+For scientometric research, this study is able to contribute to integrative method development for supporting research on diverse data dimensions of bibliometric data sets on a national and longitudinal scale. Drawing together central methodological elements from OA research, coauthorship research, and research on national-level output, this study also provides novel research results related to how the national and international intertwine when it comes to the journal article publishing space. For this data set, we could establish that having more authors is related to a higher probability of an article being available OA, as well as more recent articles also more likely being available OA. The findings also show support for broad, multicontinent research being available OA to a higher degree than research only involving national authors. Though the explanatory power of the statistical model for identifying the most influential coauthor continent for relationship to an article being OA was weak overall, the highest effect
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="5. CONCLUSIONS" source="author" id="/page/18/Text/2">
+size was given to coauthors with a European affiliation. One explanation for this could be the push that many European HEIs and research funders have had during the last decade for making journal articles available OA, thus affecting coauthored research as well.
+</text>
+
+<text page="19" section="5. CONCLUSIONS" source="author" id="/page/18/Text/3">
+With regard to the national perspective and what the study contributes towards better understanding of the development of research in the UAE specifically, this study shows that UAEaffiliated journal research output saw strong increases in volume, international collaboration, and OA during the 11 years captured as part of this study. This has happened at the same time as the country took steps to establish a stronger science policy that emphasizes these aspects as central elements. How much of this change can be attributed to the impact of national science policy and how much to the global trends of growth, collaboration, and OA is hard to pin down and would require different data and methods to establish. However, distinguishable upsurges in the number of documents can be seen around the release times of the UAE Vision 2021 in 2010, the UAE Innovation Strategy in 2014, and the National Advanced Sciences Agenda 2031 in 2018. Worthy of mention in this context also are the UAE federal government open data guidelines and the transformative "read and publish" agreements with major publishers, such as Cambridge and the American Chemical Society, signed by the two major research-leading public universities, Khalifa University and United Arab Emirates University. It is still relatively rare to see these agreements outside European institutions and library consortia, where they have become quite common, and this is a substantially strong step from the direction of the UAE to facilitating immediate OA publication of research outputs.
+</text>
+
+<text page="19" section="5. CONCLUSIONS" source="author" id="/page/18/Text/4">
+As is expected from a country whose economy is primarily dependent on oil, our findings suggest that the highest number of articles were in the Physical Sciences. However, this subject area achieved the second lowest OA rate of 33% after Social Sciences and Humanities. Apart from the articles in multidisciplinary journals, which recorded a significant OA rate of 90%, Health Sciences and Life Sciences achieved shares of 55% and 51% respectively. In terms of green OA publications, IRs and subject-based repositories are the main host locations of green OA articles despite the mediocre number of repositories in the UAE. This would indicate a low level of use for such repositories in the UAE for self-archiving of journal article manuscripts; however, such repositories might be populated with other types of content.
+</text>
+
+<text page="19" section="5. CONCLUSIONS" source="author" id="/page/18/Text/5">
+We found that the UAE aligns with the global trend of coauthored articles being on the rise and that the share of OA among coauthored publications is higher. This suggests that either awareness of OA increases as the number of authors increases or the cost of publishing OA is shared, such that research projects with larger teams have access to more funds to pay APCs or are required to by funders, especially those with Plan S-aligned OA policies. We also found that the rate of OA is connected to the size of intercontinental collaboration, with European coauthors especially being part of the top 10 collaboration combinations with the highest OA rate, even though the highest collaborations were with Asia and North America. This European coauthorship-associated higher OA rate is likely to be attributed to the high subscription to Plan-S and Horizon Europe principles in Europe. Further investigations need to be carried out on the factors contributing to the connection between collaboration and OA rate.
+</text>
+
+<text page="19" section="5. CONCLUSIONS" source="author" id="/page/18/Text/6">
+The study also included an element where the continent of the journal publisher was included as a variable, with results showing that North American and European journals have recruited the majority of articles published by UAE-affiliated researchers during the observation period. However, South American journals have published the highest percentage of OA articles. What bears remembering is that these results in particular are likely influenced by the Western-skewness of the Scopus index in terms of journal inclusion ([Khanna et al., 2022](#page-21-0); [Rodrigues &amp; Abadal, 2014;](#page-21-0) [Tennant, 2020](#page-21-0)).
+</text>
+
+</page>
+<page number="20">
+<text page="20" section="5. CONCLUSIONS" source="author" id="/page/19/Text/2">
+OA overall has changed a lot since 2009, and this is one thing that we consider this study also captured quite well from our own perspective of looking at the world through the window of the UAE. However, it is not without limitations. Through this study we observed the complexity of dealing with a rich bibliometric data set augmented with both OA status information and authorship world region categories. One can only inspect so many variables at a time and everything cannot be included in one study. Future studies could zoom in even further: for example, only on the development of specific OA types with similar national data sets, and at the same time identifying particular research funders from article-level metadata, thus being able to also include financial considerations of various models and science policy strategies into the mix. Because of the widespread acceptance of Scopus indexing as a measure of acceptance of research among UAE HEIs, as well as the strict requirements for detailed author affiliation metadata, this study used a data set extracted from Scopus. However, it would be beneficial to do a similar study on a larger scale with articles in other indexes, local journals, and other languages. Further studies could also be expanded to compare the situation in the UAE with other countries, as well as identifying who has funded OA for coauthored publications.
+</text>
+
+
+<heading page="20" section="ACKNOWLEDGMENTS" source="author" id="/page/19/SectionHeader/3" level="1">
+# ACKNOWLEDGMENTS
+</heading>
+
+<text page="20" section="ACKNOWLEDGMENTS" source="author" id="/page/19/Text/4">
+The authors thank Prof. J. Tuomas Harviainen for his insightful comments and feedback during the different stages of this paper. They also thank the editors and anonymous reviewers for suggestions that greatly improved the manuscript.
+</text>
+
+
+<heading page="20" section="AUTHOR CONTRIBUTIONS" source="author" id="/page/19/SectionHeader/5" level="1">
+# AUTHOR CONTRIBUTIONS
+</heading>
+
+<text page="20" section="AUTHOR CONTRIBUTIONS" source="author" id="/page/19/Text/6">
+Mohamed Boufarss: Conceptualization, Data curation, Formal analysis, Methodology, Writing—original draft, Writing—review &amp; editing. Mikael Laakso: Conceptualization, Formal analysis, Writing—review &amp; editing.
+</text>
+
+
+<heading page="20" section="COMPETING INTERESTS" source="author" id="/page/19/SectionHeader/7" level="1">
+# COMPETING INTERESTS
+</heading>
+
+<text page="20" section="COMPETING INTERESTS" source="author" id="/page/19/Text/8">
+The authors have no competing interests.
+</text>
+
+
+<heading page="20" section="FUNDING INFORMATION" source="author" id="/page/19/SectionHeader/9" level="1">
+# FUNDING INFORMATION
+</heading>
+
+<text page="20" section="FUNDING INFORMATION" source="author" id="/page/19/Text/10">
+This research was not funded.
+</text>
+
+
+<heading page="20" section="DATA AVAILABILITY" source="author" id="/page/19/SectionHeader/11" level="1">
+# DATA AVAILABILITY
+</heading>
+
+<text page="20" section="DATA AVAILABILITY" source="author" id="/page/19/Text/12">
+The complete data set is available in Zenodo ([Boufarss &amp; Laakso, 2023](#page-20-0)).
+</text>
+
+
+<heading page="20" section="REFERENCES" source="author" id="/page/19/SectionHeader/13" level="1">
+# REFERENCES
+</heading>
+
+<list page="20" section="REFERENCES" source="author" id="/page/19/ListGroup/249">
+- Abramo, G., D'Angelo, C. A., &amp; Di Costa, F. (2009). Research collaboration and productivity:Isthere correlation?HigherEducation, 57, 155–171. [https://doi.org/10.1007/s10734-008-9139-z](https://doi.org/10.1007/s10734-008-9139-z)
+- Adams, J., Jamal, E. O., David, P., &amp; Martin, S. (2021). The changing research landscape of the Middle East, North Africa and Turkey. Global Research Report. ISI. [https://clarivate.com](https://clarivate.com/webofsciencegroup/wpcontent/uploads/sites/2/dlm_uploads/2021/04/WS647760757-ISIGRR-Changing-Research-Landscape-of-MENAT-DIGITAL.pdf) [/webofsciencegroup/wpcontent/uploads/sites/2/dlm_uploads](https://clarivate.com/webofsciencegroup/wpcontent/uploads/sites/2/dlm_uploads/2021/04/WS647760757-ISIGRR-Changing-Research-Landscape-of-MENAT-DIGITAL.pdf) [/2021/04/WS647760757-ISIGRR-Changing-Research-Landscape](https://clarivate.com/webofsciencegroup/wpcontent/uploads/sites/2/dlm_uploads/2021/04/WS647760757-ISIGRR-Changing-Research-Landscape-of-MENAT-DIGITAL.pdf) [-of-MENAT-DIGITAL.pdf](https://clarivate.com/webofsciencegroup/wpcontent/uploads/sites/2/dlm_uploads/2021/04/WS647760757-ISIGRR-Changing-Research-Landscape-of-MENAT-DIGITAL.pdf) (accessed October 19, 2021).
+- Ajayan, S., Balasubramanian, S., &amp; Ramachandran, S. (2022). Benchmarking the research performance of United Arab Emirates with gulf cooperation council countries—A bibliometric study.
+- Frontiers in Education, 7, 792548. [https://doi.org/10.3389/feduc](https://doi.org/10.3389/feduc.2022.792548) [.2022.792548](https://doi.org/10.3389/feduc.2022.792548)
+- Al Marzouqi, A. H., Alameddine, M., Sharif, A., &amp; Alsheikh-Ali, A. A. (2019). Research productivity in the United Arab Emirates: A 20-year bibliometric analysis. Heliyon, 5(12), e02819. [https://](https://doi.org/10.1016/j.heliyon.2019.e02819) [doi.org/10.1016/j.heliyon.2019.e02819](https://doi.org/10.1016/j.heliyon.2019.e02819), PubMed: [31872101](https://pubmed.ncbi.nlm.nih.gov/31872101)
+- Alsharari, N. M. (2018). Internationalization of the higher education system: An interpretive analysis. International Journal of Educational Management, 32(3), 359–381. [https://doi.org/10.1108](https://doi.org/10.1108/IJEM-04-2017-0082) [/IJEM-04-2017-0082](https://doi.org/10.1108/IJEM-04-2017-0082)
+- Archambault, É., Amyot, D., Deschamps, P., Nicol, A. F., Provencher, F., … Roberge, G. (2014). Proportion of open access
+</list>
+
+</page>
+<page number="21">
+<list page="21" section="REFERENCES" source="author" id="/page/20/ListGroup/691">
+- papers published in peer-reviewed journals at the European and world levels—1996–2013. European Commission. [https://science](https://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) [-metrix.com/sites/default/files/science-metrix/publications/d_1.8](https://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) [_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf](https://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) (accessed October 19, 2021).
+- Azadbakht, E., &amp; Schultz, T. (2020). At the click of a button: Assessing the user experience of open access finding tools. Information Technology and Libraries, 39(2), 1–13. [https://doi.org/10](https://doi.org/10.6017/ital.v39i2.12041) [.6017/ital.v39i2.12041](https://doi.org/10.6017/ital.v39i2.12041)
+- Aziz, N. A., &amp; Rozing, M. P. (2013). Profit (p)-index: The degree to which authors profit from co-authors. PLOS ONE, 8(4), e59814. [https://doi.org/10.1371/journal.pone.0059814](https://doi.org/10.1371/journal.pone.0059814), PubMed: [23573211](https://pubmed.ncbi.nlm.nih.gov/23573211)
+- Basson, I., Simard, M., Ouangré, Z. A., Sugimoto, C. R., &amp; Larivière, V. (2022). The effect of data sources on the measurement of open access: A comparison of dimensions and the web of science. PLOS ONE, 17(3), e0265545. [https://doi.org/10.1371/journal](https://doi.org/10.1371/journal.pone.0265545) [.pone.0265545,](https://doi.org/10.1371/journal.pone.0265545) PubMed: [35358227](https://pubmed.ncbi.nlm.nih.gov/35358227)
+- Bayanat.ae. (s.d.). Number of faculty members according to the nationality. Retrieved January 28, 2023, from [https://opendata.fcsc](https://opendata.fcsc.gov.ae/@zayed-university/faculty-members-country-nationality) [.gov.ae/@zayed-university/faculty-members-country-nationality.](https://opendata.fcsc.gov.ae/@zayed-university/faculty-members-country-nationality)
+- Birnholtz, J. P. (2006). What does it mean to be an author? The intersection of credit, contribution, and collaboration in science. Journal of the American Society for Information Science and Technology, 57(13), 1758–1770. [https://doi.org/10.1002/asi.20380](https://doi.org/10.1002/asi.20380)
+- Björk, B.-C. (2019), Open access journal publishing in the Nordic countries. Learned Publishing, 32(3), 227–236. [https://doi.org/10](https://doi.org/10.1002/leap.1231) [.1002/leap.1231](https://doi.org/10.1002/leap.1231)
+- Boufarss, M. (2011). If we build it, will they come? A survey of attitudes toward institutional repositories among faculty at the Petroleum Institute. International Journal of Library Science, 3(J11).
+- Boufarss, M. (2020). Charting the Open Access scholarly journals landscape in the UAE. Scientometrics, 122, 1707–1725. [https://](https://doi.org/10.1007/s11192-020-03349-0) [doi.org/10.1007/s11192-020-03349-0](https://doi.org/10.1007/s11192-020-03349-0)
+- Boufarss, M., &amp; Laakso, M. (2020). Open Sesame? Open access priorities, incentives, and policies among higher education institutions in the United Arab Emirates. Scientometrics, 124, 1553–1577. [https://doi.org/10.1007/s11192-020-03529-y](https://doi.org/10.1007/s11192-020-03529-y)
+- Boufarss, M., &amp; Laakso, M. (2023). Open access and international co-authorship: A longitudinal study of the United Arab Emirates research output [Data set]. Zenodo. [https://doi.org/10.5281](https://doi.org/10.5281/zenodo.7776055) [/zenodo.7776055](https://doi.org/10.5281/zenodo.7776055)
+- Bruns, A., Rimmert, C., &amp; Taubert, N. (2020). Who pays? Comparing cost sharing models for a Gold Open Access publication environment. Journal of Library Administration, 60(8), 853–874. [https://doi.org/10.1080/01930826.2020.1820275](https://doi.org/10.1080/01930826.2020.1820275)
+- Cavacini, A. (2016). Recent trends in Middle Eastern scientific production. Scientometrics, 109, 423–432. [https://doi.org/10.1007](https://doi.org/10.1007/s11192-016-1932-3) [/s11192-016-1932-3](https://doi.org/10.1007/s11192-016-1932-3)
+- Chung, K. H., Cox, R. A. K., &amp; Kim, K. A. (2009). On the relation between intellectual collaboration and intellectual output: Evidence from the finance academe. Quarterly Review of Economics and Finance, 49(3), 893–916. [https://doi.org/10.1016/j](https://doi.org/10.1016/j.qref.2008.08.001) [.qref.2008.08.001](https://doi.org/10.1016/j.qref.2008.08.001)
+- Clarivate Analytics. (2019). UAE's place in Web of Science research ecosystem report. [https://clarivate.com/webofsciencegroup/wp](https://clarivate.com/webofsciencegroup/wp-content/uploads/sites/2/2019/09/WS371049217_ACVR_UAE_USLetter_CMYK_v8_DIGITAL_SMALL.pdf) [-content/uploads/sites/2/2019/09/WS371049217_ACVR_UAE](https://clarivate.com/webofsciencegroup/wp-content/uploads/sites/2/2019/09/WS371049217_ACVR_UAE_USLetter_CMYK_v8_DIGITAL_SMALL.pdf) [_USLetter_CMYK_v8_DIGITAL_SMALL.pdf](https://clarivate.com/webofsciencegroup/wp-content/uploads/sites/2/2019/09/WS371049217_ACVR_UAE_USLetter_CMYK_v8_DIGITAL_SMALL.pdf) (accessed March 22, 2022).
+- cOAlition S. (2018) Plan S: Making full and immediate Open Access a reality. Strasbourg: cOAlition S. [https://www.coalition](https://www.coalition-s.org) [-s.org](https://www.coalition-s.org) (accessed April 28, 2022).
+</list>
+
+<list page="21" section="REFERENCES" source="author" id="/page/20/ListGroup/692">
+- Crawford, W. (2021). Gold Open Access 2015–2020: Articles in journals (GOA6). Livermore, CA: Cites &amp; Insights Books. [https://waltcrawford.name/goa6.pdf](https://waltcrawford.name/goa6.pdf) (accessed May 2, 2022).
+- Curtin University. (2022). COKI open access dashboard. [https://](http://openknowledge.community/dashboards/coki-open-access-dashboard/) [openknowledge.community/dashboards/coki-open-access](http://openknowledge.community/dashboards/coki-open-access-dashboard/) [-dashboard/](http://openknowledge.community/dashboards/coki-open-access-dashboard/) (accessed March 10, 2022).
+- De Bel-Air, F. (2015). Demography, migration, and the labour market in the UAE. Gulf Labour Markets, No. 7, 2015. [https://](https://gulfmigration.grc.net/media/pubs/exno/GLMM_EN_2018_01.pdf) [gulfmigration.grc.net/media/pubs/exno/GLMM_EN_2018_01.pdf](https://gulfmigration.grc.net/media/pubs/exno/GLMM_EN_2018_01.pdf) (accessed April 15, 2022).
+- Dhakal, K. (2019). Unpaywall. Journal of the Medical Library Association, 107(2), 286–288. [https://doi.org/10.5195/jmla.2019.650](https://doi.org/10.5195/jmla.2019.650)
+- Duffin, K. I. (2020). Comparing open access search tools to improve interlibrary loan fulfillment efficiency. Technical Services Quarterly, 37(4), 415–431. [https://doi.org/10.1080/07317131.2020](https://doi.org/10.1080/07317131.2020.1810442) [.1810442](https://doi.org/10.1080/07317131.2020.1810442)
+- El-Ouahi, J., Robinson-García, N., &amp; Costas, R. (2021). Analyzing scientific mobility and collaboration in the Middle East and North Africa. Quantitative Science Studies, 2(3), 1023–1047. [https://doi.org/10.1162/qss_a_00149](https://doi.org/10.1162/qss_a_00149)
+- Else, H. (2018). How Unpaywall is transforming open science. Nature, 560(7718), 290–291. [https://doi.org/10.1038/d41586](https://doi.org/10.1038/d41586-018-05968-3) [-018-05968-3,](https://doi.org/10.1038/d41586-018-05968-3) PubMed: [30111793](https://pubmed.ncbi.nlm.nih.gov/30111793)
+- Eysenbach, G. (2006). Citation advantage of open access articles. PLOS Biology, 4(5), e157. [https://doi.org/10.1371/journal.pbio](https://doi.org/10.1371/journal.pbio.0040157) [.0040157](https://doi.org/10.1371/journal.pbio.0040157), PubMed: [16683865](https://pubmed.ncbi.nlm.nih.gov/16683865)
+- Gorraiz, J., Melero-Fuentes, D., Gumpenberger, C., &amp; Valderrama-Zurián, J.-C. (2016). Availability of digital object identifiers (DOIs) in Web of Science and Scopus. Journal of Informetrics, 10(1), 98–109. [https://doi.org/10.1016/j.joi.2015.11.008](https://doi.org/10.1016/j.joi.2015.11.008)
+- Glänzel, W., &amp; Schubert, A. (2004). Analysing scientific networks through co-authorship. In H. F. Moed, W. Glänzel, &amp; U. Schmoch (Eds.) Handbook of quantitative science and technology research (pp. 227–276). Dordrecht: Springer. [https://doi](https://doi.org/10.1007/1-4020-2755-9_12) [.org/10.1007/1-4020-2755-9_12](https://doi.org/10.1007/1-4020-2755-9_12)
+- Guerrero-Bote, V. P., Chinchilla-Rodríguez, Z., Mendoza, A., &amp; de Moya-Anegón, F. (2021). Comparative analysis of the bibliographic data sources Dimensions and Scopus: An approach at the country and institutional levels. Frontiers in Research Metrics and Analytics, 5, 593494. [https://doi.org/10.3389/frma.2020](https://doi.org/10.3389/frma.2020.593494) [.593494,](https://doi.org/10.3389/frma.2020.593494) PubMed: [33870055](https://pubmed.ncbi.nlm.nih.gov/33870055)
+- Hajjem, C., &amp; Harnad, S. (2007). Citation advantage for OA self-archiving is independent of journal impact factor, article age, and number of co-authors. arXiv preprint. [https://arxiv.org](https://arxiv.org/abs/cs/0701136) [/abs/cs/0701136](https://arxiv.org/abs/cs/0701136)
+- Hood, W. W., &amp; Wilson, C. S. (2003). Informetric studies using databases: Opportunities and challenges. Scientometrics, 58, 587–608. [https://doi.org/10.1023/B:SCIE.0000006882.47115.c6](https://doi.org/10.1023/B:SCIE.0000006882.47115.c6)
+- Haucap, J., Moshgbar, N., &amp; Schmal, W. B. (2021). The impact of the German 'DEAL' on competition in the academic publishing market. Managerial and Decision Economics, 42(8), 2027–2049. [https://doi.org/10.1002/mde.3493](https://doi.org/10.1002/mde.3493)
+- Hosmer, D. W., Jr., Lemeshow, S., &amp; Sturdivant, R. X. (2013). Applied logistic regression (3rd ed.). Hoboken, NJ: Wiley. [https://doi.org/10.1002/9781118548387](https://doi.org/10.1002/9781118548387)
+- Jahn, N., Matthias, L., &amp; Laakso, M. (2022). Toward transparency of hybrid open access through publisher provided metadata: An article-level study of Elsevier. Journal of the American Society for Information Science and Technology, 73(1), 104–118. [https://doi.org/10.1002/asi.24549](https://doi.org/10.1002/asi.24549)
+- Kahn, M. (2018). Co-authorship as a proxy for collaboration: A cautionary tale. Science and Public Policy, 45(1), 117–123. [https://](https://doi.org/10.1093/scipol/scx052) [doi.org/10.1093/scipol/scx052](https://doi.org/10.1093/scipol/scx052)
+</list>
+
+</page>
+<page number="22">
+<list page="22" section="REFERENCES" source="author" id="/page/21/ListGroup/611">
+- Karabchuk, T., Shomotova, A., &amp; Chmel, K. (2022). Paradox of research productivity of higher education institutions in Arab Gulf countries: The case of the UAE. Higher Education Quarterly, 76(4), 759–785. [https://doi.org/10.1111/hequ.12347](https://doi.org/10.1111/hequ.12347)
+- Katz, J. S., &amp; Martin, B. R. (1997). What is research collaboration? Research Policy, 26(1), 1–18. [https://doi.org/10.1016/S0048](https://doi.org/10.1016/S0048-7333(96)00917-1) [-7333(96)00917-1](https://doi.org/10.1016/S0048-7333(96)00917-1)
+- Khanna, S., Ball, J., Alperin, J. P., &amp; Willinsky, J. (2022). Recalibrating the scope of scholarly publishing: A modest step in a vast decolonization process. Quantitative Science Studies, 3(4), 912–930. [https://doi.org/10.1162/qss_a_00228](https://doi.org/10.1162/qss_a_00228)
+- Kozma, C., &amp; Calero-Medina, C. (2019). The role of South African researchers in intercontinental collaboration. Scientometrics, 121, 1293–1321. [https://doi.org/10.1007/s11192-019-03230-9](https://doi.org/10.1007/s11192-019-03230-9)
+- Laakso, M. (2014). Green open access policies of scholarly journal publishers: A study of what, when, and where self-archiving is allowed. Scientometrics, 99, 475–494. [https://doi.org/10.1007](https://doi.org/10.1007/s11192-013-1205-3) [/s11192-013-1205-3](https://doi.org/10.1007/s11192-013-1205-3)
+- Macháček, V. (2023). Globalization of scientific communication: Evidence from authors in academic journals by country of origin. Research Evaluation, 32(1), 157–169. [https://doi.org/10.1093](https://doi.org/10.1093/reseval/rvac033) [/reseval/rvac033](https://doi.org/10.1093/reseval/rvac033)
+- Martín-Martín, A., Thelwall, M., Orduna-Malea, E., &amp; López-Cózar, E. D. (2021). Google Scholar, Microsoft Academic, Scopus, Dimensions, Web of Science, and OpenCitations' COCI: A multidisciplinary comparison of coverage via citations. Scientometrics, 126(1), 871–906. [https://doi.org/10.1007/s11192-020](https://doi.org/10.1007/s11192-020-03690-4) [-03690-4](https://doi.org/10.1007/s11192-020-03690-4), PubMed: [32981987](https://pubmed.ncbi.nlm.nih.gov/32981987)
+- Moed, H. F. (2016). Iran's scientific dominance and the emergence of South-East Asian countries as scientific collaborators in the Persian Gulf Region. Scientometrics, 108(1), 305–314. [https://](https://doi.org/10.1007/s11192-016-1946-x) [doi.org/10.1007/s11192-016-1946-x](https://doi.org/10.1007/s11192-016-1946-x)
+- Mongeon, P., &amp; Paul-Hus, A. (2016). The journal coverage of Web of Science and Scopus: A comparative analysis. Scientometrics, 106, 213–228. [https://doi.org/10.1007/s11192-015-1765-5](https://doi.org/10.1007/s11192-015-1765-5)
+- Morillo, F. (2020). Is open access publication useful for all research fields? Presence of funding, collaboration and impact. Scientometrics, 125, 689–716. [https://doi.org/10.1007/s11192-020-03652-w](https://doi.org/10.1007/s11192-020-03652-w)
+- Moustafa, K. (2020). Octopus affiliations. Scientometrics, 124(3), 2733–2735. [https://doi.org/10.1007/s11192-020-03600-8](https://doi.org/10.1007/s11192-020-03600-8)
+- Nguyen, B. X., Luczak-Roesch, M., Dinneen, J. D., &amp; Larivière, V. (2022). Assessing the quality of bibliographic data sources for measuring international research collaboration. Quantitative Science Studies, 3(3), 529–559. [https://doi.org/10.1162/qss_a_00211](https://doi.org/10.1162/qss_a_00211)
+- Ouahi, J. E. (2021). Early insights into the Arabic citation index. arXiv preprint. [https://arxiv.org/abs/2101.12177](https://arxiv.org/abs/2101.12177)
+- Piwowar, H., Priem, J., Larivière, V., Alperin, J. P., Matthias, L., … Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. PeerJ, 6, e4375. [https://doi.org/10.7717/peerj.4375,](https://doi.org/10.7717/peerj.4375) PubMed: [29456894](https://pubmed.ncbi.nlm.nih.gov/29456894)
+- Piwowar, H., Priem, J., &amp; Orr, R. (2019). The future of OA: A large-scale analysis projecting Open Access publication and readership. bioRxiv. [https://doi.org/10.1101/795310](https://doi.org/10.1101/795310)
+</list>
+
+<list page="22" section="REFERENCES" source="author" id="/page/21/ListGroup/612">
+- Pölönen, J., Laakso, M., Guns, R., Kulczycki, E., &amp; Sivertsen, G. (2020). Open access at the national level: A comprehensive analysis of publications by Finnish researchers. Quantitative Science Studies, 1(4), 1396–1428. [https://doi.org/10.1162/qss](https://doi.org/10.1162/qss_a_00084) [_a_00084](https://doi.org/10.1162/qss_a_00084)
+- ROARMAP. (n.d.). ROARMAP: Registry of open access repository of mandates and policies. [https://roarmap.eprints.org/](http://roarmap.eprints.org/) (accessed October 19, 2021).
+- Rodrigues, R. S., &amp; Abadal, E. (2014). Ibero-American journals in Scopus and Web of Science. Learned Publishing, 27(1), 56–62. [https://doi.org/10.1087/20140109](https://doi.org/10.1087/20140109)
+- Schultz, T. A., Azadbakht, E., Bull, J., Bucy, R., &amp; Floyd, J. (2019). Assessing the Effectiveness of open access finding tools. Information Technology and Libraries, 38(3), 82–90. [https://doi.org/10](https://doi.org/10.6017/ital.v38i3.11009) [.6017/ital.v38i3.11009](https://doi.org/10.6017/ital.v38i3.11009)
+- Taubert, N., Hobert, A., Fraser, N., Jahn, N., &amp; Iravani, E. (2019). Open Access: Towards a non-normative and systematic understanding. arXiv, arXiv:1910.11568. [https://doi.org/10.48550](https://doi.org/10.48550/arXiv.1910.11568) [/arXiv.1910.11568](https://doi.org/10.48550/arXiv.1910.11568)
+- Tennant, J. (2020). Web of Science and Scopus are not global databases of knowledge. European Science Editing, 46, e51987. [https://doi.org/10.3897/ese.2020.e51987](https://doi.org/10.3897/ese.2020.e51987)
+- Thelwall, M., &amp; Maflahi, N. (2022). Research coauthorship 1900–2020: Continuous, universal, and ongoing expansion. Quantitative Science Studies, 3(2), 331–344. [https://doi.org/10](https://doi.org/10.1162/qss_a_00188) [.1162/qss_a_00188](https://doi.org/10.1162/qss_a_00188)
+- Thibault, R. T., MacPherson, A., Harnad, S., &amp; Raz, A. (2018). The rent's too high: Self-archive for fair online publication costs. [https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=scholcom) [=1090&amp;context=scholcom](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1090&amp;context=scholcom) (accessed August 24, 2022).
+- UAE Commission for Academic Accreditation. (2022). Higher education institutions. [https://www.caa.ae/Pages/Institutes/All.aspx](https://www.caa.ae/Pages/Institutes/All.aspx) (accessed August 24, 2022).
+- UAE PMO. (2015). UAE national innovation strategy. [https://www](https://www.moei.gov.ae/assets/download/1d2d6460/National%20Innovation%20Strategy.pdf.aspx) [.moei.gov.ae/assets/download/1d2d6460/ National](https://www.moei.gov.ae/assets/download/1d2d6460/National%20Innovation%20Strategy.pdf.aspx) [%20Innovation%20Strategy.pdf.aspx](https://www.moei.gov.ae/assets/download/1d2d6460/National%20Innovation%20Strategy.pdf.aspx) (accessed August 24, 2022).
+- Wagner, C. S., Whetsell, T., Baas, J., &amp; Jonkers, K. (2018). Openness and impact of leading scientific countries. Frontiers in Research Metrics and Analytics, 3, 10. [https://doi.org/10.3389/frma.2018](https://doi.org/10.3389/frma.2018.00010) [.00010](https://doi.org/10.3389/frma.2018.00010)
+- Wenaas, L. (2022). Choices of immediate open access and the relationship to journal ranking and publish-and-read deals. Frontiers in Research Metrics and Analytics, 7, 943932. [https://doi.org/10](https://doi.org/10.3389/frma.2022.943932) [.3389/frma.2022.943932,](https://doi.org/10.3389/frma.2022.943932) PubMed: [36339745](https://pubmed.ncbi.nlm.nih.gov/36339745)
+- Willi Hooper, M. D. (2017). Product review: Unpaywall [Chrome &amp; Firefox browser extension]. Journal of Librarianship &amp; Scholarly Communication, 5(1), 1–3. [https://doi.org/10.7710/2162-3309](https://doi.org/10.7710/2162-3309.2190) [.2190](https://doi.org/10.7710/2162-3309.2190)
+- Xu, H. Y., Yue, Z. H., Wang, C., Dong, K., Pang, H. S., &amp; Han, Z. (2017). Multi-source data fusion study in scientometrics. Scientometrics, 111, 773–792. [https://doi.org/10.1007/s11192-017](https://doi.org/10.1007/s11192-017-2290-5) [-2290-5](https://doi.org/10.1007/s11192-017-2290-5)
+</list>
+
+</page>
+</paper>

@@ -1,0 +1,881 @@
+<paper source_file="A3.R64" title="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" total_pages="33" figures="3" figures_with_images="3">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 3 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R64_fig01.jpg">[FIGURE: see A3.R64_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/1">
+Special Issue: Connecting Entrepreneurship Research and Practice in Entrepreneurship Education
+</text>
+
+
+<heading page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/SectionHeader/2" level="1">
+# Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education
+</heading>
+
+<text page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Text/3">
+Entrepreneurship Education and Pedagogy 2024, Vol. 0(0) 1–33 © The Author(s) 2024
+</text>
+
+<figure page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Picture/4" image="A3.R64_fig02.jpg">[FIGURE: see A3.R64_fig02.jpg]</figure>
+
+<text page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Text/5">
+Article reuse guidelines:
+</text>
+
+<text page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Text/6">
+[sagepub.com/journals-permissions](https://us.sagepub.com/en-us/journals-permissions) DOI:[ 10.1177/25151274241226665](https://doi.org/10.1177/25151274241226665) [journals.sagepub.com/home/eex](https://journals.sagepub.com/home/eex)
+</text>
+
+<figure page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Picture/7" image="A3.R64_fig03.jpg">[FIGURE: see A3.R64_fig03.jpg]</figure>
+
+<text page="1" section="Entrepreneurs as Architects: Design (ing) Focus in Entrepreneurship Education" source="author" id="/page/0/Text/8">
+Yashar Mansoori1 and Dimo Dimov2,3
+</text>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/9" level="3">
+### Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/10">
+Designing requires skills that are different from making and is an integral part of venture creation. To encourage considerations of design in entrepreneurship education, this paper elaborates how designing can be embedded in entrepreneurship education as a distinct composite capability to be developed. It outlines a perspective of entrepreneurial action as design, whereby activities of framing, modeling, and performing give a concrete action its entrepreneurial meaning of concerning a future venture. We discuss how the underpinning capabilities can be developed in educational settings, using principles, methods, and examples as distinct types of instructions to be deployed by entrepreneurship educators in different combinations and for different purposes. We develop the implications of our work by offering a set of design principles tailored for entrepreneurship education.
+</text>
+
+
+<heading page="1" section="Keywords" source="author" id="/page/0/SectionHeader/11" level="3">
+### Keywords
+</heading>
+
+<text page="1" section="Keywords" source="author" id="/page/0/Text/12">
+entrepreneurship education, entrepreneurship as design, design principles, entrepreneurial instructions and learning, theory-practice gap
+</text>
+
+
+<heading page="1" section="Corresponding Author:" source="author" id="/page/0/SectionHeader/16" level="4">
+#### Corresponding Author:
+</heading>
+
+<text page="1" section="Corresponding Author:" source="author" id="/page/0/Text/17">
+Yashar Mansoori, Technology Management and Economics, Chalmers University of Technology, Vera Sandbergs allee 8A, Goteborg 412 96, Sweden.
+</text>
+
+<text page="1" section="Corresponding Author:" source="author" id="/page/0/Text/18">
+Email: [yashar.mansoori@chalmers.se](mailto:yashar.mansoori@chalmers.se)
+</text>
+
+<footnote page="1" section="Corresponding Author:" source="author" id="/page/0/Footnote/13">
+^(1) Chalmers University of Technology, Goteborg, Sweden
+</footnote>
+
+<footnote page="1" section="Corresponding Author:" source="author" id="/page/0/Footnote/14">
+^(2) University of Bath, UK
+</footnote>
+
+<footnote page="1" section="Corresponding Author:" source="author" id="/page/0/Footnote/15">
+^(3) Reykjav´ık University, Iceland
+</footnote>
+
+</page>
+<page number="2">
+
+<heading page="2" section="Introduction" source="author" id="/page/1/SectionHeader/2" level="3">
+### Introduction
+</heading>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/3">
+A major strand within entrepreneurship education (EE) focuses on new venture creation ([Hagg &amp; Gabrielsson, 2019](#page-28-0) ¨ ; [Lack](#page-29-0)e[us &amp; Williams Middleton, 2015](#page-29-0) ´ ). The complexity of the venture creation process requires contingency approaches based on re-evaluation and iterative feedback ([Honig, 2004)](#page-29-1). Dispelling the premise of a known, codifiable process, EE scholars have advocated developing discovery, reasoning, and implementation skills to excel in highly uncertain environments ([Neck &amp; Greene, 2011)](#page-30-0), and focusing on 'entrepreneurial thinking' ([Fayolle, 2013)](#page-28-1). Obscured in this view is the sense that through their actions, entrepreneurs impose a form or shape onto the world (de signo in Latin; design today): each action is both (1) a reflection of what they have in mind and (2) an instigator of events and entities that appear in the world.
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/4">
+New ventures are socio-economic structures for production and exchange in the same sense that buildings are physical structures for habitation and interaction. This ushers an analogy between entrepreneurs and architects as designers of ventures and buildings respectively, which enables us to learn from architecture as one of the oldest design disciplines. The emergence of design as professional activity signifies a separation between the representation of what is to be made and the actual act of making ([Habraken, 1985](#page-28-2)). Just as we can conceptually separate the design and construction of buildings, so we can also separate the design and construction of new ventures.
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/5">
+In both cases, design is spurred by imagination of future possibilities ([Kier &amp;](#page-29-2) [McMullen, 2018)](#page-29-2): an entrepreneur sees currently empty premises as a thriving future shop; an architect sees an empty plot of land as a vibrant future building. In both cases, design entails a symbolic connection between present and future. This enables us to see the digging of a hole as (part of) the construction of a new building and individual conversations as (part of) the creation of a new venture. The ultimate outcomes of these activities are rendered feasible by the physics of materials, the engineering of buildings, the forces of the market, and the evolving logics of business and management. Therefore, both entrepreneurs and architects operate in a space defined by the interplay between imagined possibilities and external constraints. However, while theory, practice, and education in architecture are well geared to develop an architect as a future-focused thinker and designer, the separation between entrepreneurship theory and practice [(Dimov et al., 2020](#page-27-0)) creates challenges for EE in developing entrepreneurs as future-focused venture designers.[1](#page-25-0)
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/6">
+In this paper, we aim to develop design principles that can be deployed in EE settings to enable entrepreneurship students (i.e., prospective entrepreneurs) to operate as new venture designers. We consider the nature of instructions as the smallest coherent directive or advice that enables a prospective entrepreneur to work 'by design'; that is to formulate their intentions and guide their actions systematically (see [Wright, 1981)](#page-32-0). Because entrepreneurs are unconstrained in what they can imagine and pursue, the instructions that can be provided will be in large part necessarily general and context independent. Their effectiveness will depend on the grounding of general methods and processes in system-level principles and on their instantiation through relevant
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="Introduction" source="author" id="/page/2/Text/1">
+examples [(Eiriksdottir &amp; Catrambone, 2011](#page-28-3)). We recognize that teaching entrepreneurship via guidance that is often unstructured and oscillates between different levels of analysis, thought, and action hinders the effectiveness of educational interventions ([Mansoori &amp; Lackeus, 2019](#page-30-1) ´ ). In this sense, we aim to unpack the invisible microscaffolding (as opposed to macro-scaffolding of [Janson et al., 2020)](#page-29-3) of EE by focusing on the role of entrepreneurial instructions in assisting entrepreneurial action at the interface of inner and outer environment (cf., [Simon, 1996)](#page-31-0).
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/2">
+This work makes several contributions to entrepreneurship education and entrepreneurship research more broadly. First, we advance an epistemology of entrepreneurial practice that goes beyond narrow notions of technical rationality [(Schon, 1992](#page-31-1) ¨ ). Amidst the uncertainty and open-endedness of an entrepreneurial journey, what the journey is about – i.e., what gives meaning to what entrepreneurs do – is defined and redefined as part of that journey [(McMullen &amp; Dimov, 2013)](#page-30-2). Through the intertwined, recursive activities of framing, modeling, and performing, what entrepreneurs do now is about imagined, desired future end states that are given form (i.e., blueprint) in the process. Second, our work helps make discussions about future – as a distinct marker of entrepreneurship and a newly attended focus in the entrepreneurship field – more tangible and tractable. Through the activities of framing, modeling, and performing, the future is 'tamed' as something concrete that can be pursued and enacted in concrete artifacts. Finally, we offer a set of concepts and principles that will assist entrepreneurship educators in teaching entrepreneurship as a systematic, design activity, structuring their educational interventions accordingly. Educating entrepreneurs as designers helps differentiate the distinct place of universities as a place of learning entrepreneurial capabilities from more hands-on, practical workshops that can take place in other settings. In addition, our framework can enable entrepreneurs and entrepreneurship researchers to translate their practical and theoretical knowledge into systematic instructions for entrepreneurial action [(Baggen et al., 2021)](#page-26-0) by paying closer attention to the conceptual hierarchy of entrepreneurial action as a meaningful design activity.
+</text>
+
+
+<heading page="3" section="Theoretical Background" source="cited" id="/page/2/SectionHeader/3" level="3">
+### Theoretical Background
+</heading>
+
+
+<heading page="3" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/2/SectionHeader/4" level="3">
+### A Design-Oriented Approach to Entrepreneurship Education
+</heading>
+
+<text page="3" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/2/Text/5">
+The question "can entrepreneurship be taught?" arises from a desire to replicate the achievements of accomplished entrepreneurs, namely the creation of impactful ventures as new vectors of economic activity. In this regard, the emergence of entrepreneurship education is based on the premise that (certain aspects of) entrepreneurship can be taught [(Kuratko, 2005](#page-29-4)). Indeed, [Drucker (1985)](#page-28-4) prominently saw entrepreneurship as a disciplined endeavor to create new wealth-producing resources. Such endeavor implicates both what is created and who creates it. This two-sided view of entrepreneurship – as venture creation and entrepreneurial action – has been prominent in entrepreneurship education, with a startup perspective focused on venture creation
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/3/Text/2">
+and an enterprising perspective focused on the development of entrepreneurial mindset and skills ([Hagg &amp; Gabrielsson, 2019](#page-28-0) ¨ ).
+</text>
+
+<text page="4" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/3/Text/3">
+In the focus on venture creation, there has been persistent ambiguity about the nature of what is being created, particularly in the lack of distinction between venture in the sense of operating business that has been created according to some design and venture in the sense of design as an intermediary representation of what is to be created. Indeed, in [Neck and Corbett](#page-30-3)'s (2018) definition of EE as "developing the mindset, skill set, and practice necessary for starting new ventures" (p. 29), there is no distinction between designing what is to be made and making what has been designed. In treating entrepreneurship as a method for operating in highly uncertain environments, [Neck and](#page-30-0) [Greene (2011)](#page-30-0) emphasize skills of discovery, reasoning, and implementation, which imply that there is something discovered and reasoned about in the process, which is then implemented.
+</text>
+
+<text page="4" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/3/Text/4">
+Furthermore, the focus on practical entrepreneurial knowledge, such as knowwhat, know-how, and know-who [(Johannisson, 1991](#page-29-5)), also overlooks the distinction between making and designing. Instructing students to use tools such as business model canvas, lean startup, or design thinking, without emphasizing their embeddedness in a broader design process, can lead students to create new venture designs without awareness and reflection of having undertaken a process of designing. In other words, by using a methodology such as lean startup, entrepreneurs simultaneously engage in venture design and venture creation. However, without awareness of the former, there is a risk that, in extending the learning to other contexts, one can see their task simply as 'doing lean startup' or 'using the business model canvas'. This idea is illustrated in [Figure 1](#page-4-0) below. Through what they do and say, entrepreneurs give form to their amorphous ideas, which they then seek to impose on the world. The tools of entrepreneurial practice are thus akin to both stencils and action manuals.
+</text>
+
+<text page="4" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/3/Text/5">
+In light of the above, a design-oriented approach to entrepreneurship education – where the distinction between designing and creating is clearly made – becomes relevant. This approach is informed by a process which centers around artifacts and advances the idea of tool-mediated entrepreneurship as an alternative to rational planning based ([Mwasalwiba, 2010](#page-30-4)) and experience based ([Souitaris et al., 2007](#page-31-2)) models of entrepreneurship education [(Lahn &amp; Erikson, 2016](#page-29-6)). Key to the design approach is the idea that in between the visions of futures with which entrepreneurs set off and the futures of visions that transpire, entrepreneurs create artifacts as the tangible markers of their journeys [(Berglund &amp; Glaser, 2022)](#page-26-1), providing tangible expressions of their visions and creating conditions for further possibilities and development ([Berglund &amp; Dimov, 2023)](#page-26-2).
+</text>
+
+<text page="4" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/3/Text/6">
+In this regard, the development of entrepreneurial skills, capabilities, and expertise can be seen as a set of artifact-mediated activities. The artifacts act as scaffolds in students' learning and reflection and take different forms. They can be 'what-artifacts' that facilitate interactions with factual information; 'how-artifacts' that support engaging with processes and procedures; 'why-artifacts' that assist with diagnosing and
+</text>
+
+</page>
+<page number="5">
+<figure_group page="5" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/4/FigureGroup/140">
+<figure page="5" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/4/Figure/1" image="A3.R64_fig04.jpg">[FIGURE: see A3.R64_fig04.jpg]</figure>
+<caption page="5" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/4/Caption/2">
+Figure 1. New venture design and new venture creation.
+</caption>
+</figure_group>
+
+<text page="5" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/4/Text/3">
+generating explanations; and 'where-to-artifacts' that enable co-creation by projecting future scenarios ([Engestrom et al., 1999](#page-28-5) ¨ ).
+</text>
+
+<text page="5" section="A Design-Oriented Approach to Entrepreneurship Education" source="author" id="/page/4/Text/4">
+Overall, this approach aims to provide students with a different set of tools and perspectives for understanding and engaging in entrepreneurial activities. It complements and integrates planning- and experience-based approaches to education. While planning is essential to any deliberate, systematic activity, a design-oriented approach recognizes that what planning is about is endogenous to the entrepreneurial process (i.e., it is to be (re-)defined and not given). Similarly, while experience is essential to learning, there needs to be conceptual, reflective structures to what one experiences ([Dimov &amp; Pistrui, 2023](#page-27-1); [H](#page-28-6)a[gg &amp; Kurczewska, 2021](#page-28-6) ¨ ). A design-oriented approach recognizes that entrepreneurs share a defining feature, namely an orientation towards the future, expressed as individual visions and aspirations for it. In this sense, to educate an entrepreneur is to enable them to give form to their aspirations and engage systematically in their materialization. This prompts consideration of the instructional communication between entrepreneurship educators and learners.
+</text>
+
+
+<heading page="5" section="Instructions and Learning" source="author" id="/page/4/SectionHeader/5" level="2">
+## Instructions and Learning
+</heading>
+
+<text page="5" section="Instructions and Learning" source="author" id="/page/4/Text/6">
+Instructions are methods of communicating to someone how tasks unfamiliar to them are to be performed, acting as pieces of practical guidance that enable one to perform such tasks in more efficient ways and with less hesitation ([Eiriksdottir &amp; Catrambone,](#page-28-3) [2011](#page-28-3)). More broadly, instructions can facilitate action [(Spector, 2001](#page-31-3)) and help individuals become reflective practitioners ([Schon, 1984](#page-31-4) ¨ ), enabling learners to deal with pragmatic and practical contingencies [(Amerine &amp; Bilmes, 1988](#page-26-3)). As such, they function as practical dialogues between instructors and learners.
+</text>
+
+<text page="5" section="Instructions and Learning" source="author" id="/page/4/Text/7">
+At the heart of this dialogue lies understanding as the mastery of certain language and rules in a particular practice and recognizing them as applicable in a particular situation ([Wittgenstein, 1953)](#page-32-1). Given the need to translate the message of the
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Instructions and Learning" source="author" id="/page/5/Text/2">
+instruction into practical action steps, an instruction will fail to lead to desired outcomes when the steps and activities it espouses are unattainable in their own right; or it includes entities that are absent from the situation in which the instruction ought to be plausible [(Chapman, 1990)](#page-27-2).[2](#page-25-1) Developing instructions is a matter of deliberate design, considering underlying assumptions and prerequisites, as well as their desired outcomes ([Dijkstra, 1988](#page-27-3)). Instructions, therefore, must be designed with adequate content, presentation, and structure (cf., [Wright, 1981](#page-32-0)). Three considerations are relevant in this regard.
+</text>
+
+<text page="6" section="Instructions and Learning" source="author" id="/page/5/Text/3">
+First, based on the information they convey, instructions can be grouped into different types, namely procedures, principles, or examples ([Eiriksdottir &amp;](#page-28-3) [Catrambone, 2011)](#page-28-3). Procedures are instructions oriented towards tasks, specifying how they are to be completed, in terms of requisite conditions, desired actions, and expected outcomes. The most common way to organize these instructions is as successive steps [(Eiriksdottir &amp; Catrambone, 2011;](#page-28-3) cf., [Stanovich, 2009](#page-31-5)). Steps as part of procedural instructions are often only described with limited justification about relationships between the subsequent steps [(Van der Meij et al., 2003](#page-31-6)). For example, the 'customer development' process model [(Blank &amp; Dorf, 2012](#page-27-4)) outlines the process with which product-market fit can be achieved and instructs entrepreneurs to follow certain steps. Notably, in the open-ended context of entrepreneurship, this process cannot be codified in specific detail (as customers and contexts vary). This type of instructions, therefore, can be described as method, in a more generic sense of procedure.
+</text>
+
+<text page="6" section="Instructions and Learning" source="author" id="/page/5/Text/4">
+Principles are instructions oriented towards the task domain or system, focusing on the primary concepts, rules, and regularities that govern the task and its domain (i.e., how the system works). Such instructions are often necessary for understanding procedures ([Catrambone, 1995)](#page-27-5), making the two types interdependent. They are understood as higher-order pointers for orienting action – often framed as general heuristics – rather than solid and grounded pieces of actionable guidance to be followed. Therefore, they are not always actionable for novices (see [Dreyfus, 2004](#page-27-6)). For instance, the 'affordable loss' principle of effectuation [(Sarasvathy, 2001](#page-31-7)) can be used to structure many entrepreneurial decisions [(Dew et al., 2009)](#page-27-7), but requires a certain level of expertise.
+</text>
+
+<text page="6" section="Instructions and Learning" source="author" id="/page/5/Text/5">
+Examples showcase specific instances of how an activity is carried out, illustrating how it can be completed, without an accompanying explanation of its rationale. As instantiations of a more general process, examples can help to deal with ambiguities in procedural description and provide information that may be difficult to verbalize otherwise ([Catrambone, 1995](#page-27-5)). They help individuals to better understand the problem-space and make the necessary inferences to apply them in other contexts [(Eiriksdottir &amp; Catrambone,](#page-28-3) [2011)](#page-28-3). However, they are not directly transferable to other activities and contexts. For example, Dropbox and Airbnb provide case studies in lean startup and design thinking training to advocate testing an idea before committing resources. They illustrate specific instantiations of a certain class of ideas that can serve as signposts for action.
+</text>
+
+<text page="6" section="Instructions and Learning" source="author" id="/page/5/Text/6">
+Second, instructions can serve different objectives – initial performance, learning, and transfer – which invite considerations of different tradeoffs for the learner
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="Instructions and Learning" source="author" id="/page/6/Text/1">
+([Eiriksdottir &amp; Catrambone, 2011)](#page-28-3). Focus of initial performance is on completing a task quickly and correctly, communicating requisite steps in the simplest, most specific and accessible manner. This minimizes the need for reflection and inference on the part of the learner. When the focus shifts to learning or skill acquisition, the objective is for the learner to be able to complete the task in the future without instruction. With transfer, the objective is for the learner to apply their skill to the completion of different tasks in similar situations.[3](#page-26-4)
+</text>
+
+<text page="7" section="Instructions and Learning" source="author" id="/page/6/Text/2">
+Third, instructions can be understood on a spectrum from specific to general ([Catrambone, 1995)](#page-27-5). Specific or algorithmic instructions are those that aim to supply most, if not all, relevant steps and activities to follow in order to complete a given task. Making a 'reverse income statement' in discovery-driven planning ([McGrath &amp;](#page-30-5) [MacMillan, 1995)](#page-30-5) is an example of algorithmic entrepreneurial instructions. Specific instructions are easier to comprehend and can often be followed as written ([Catrambone, 1995](#page-27-5)). While their specificity provides an advantage for initial use, they may not lead to desired outcomes when the task conditions change. This happens as learners trained with specific instructions only rely on "a series of low-level details" that, while helpful, cannot be translated into new and novel situations ([Catrambone,](#page-27-8) [1990,](#page-27-8) p. 52).
+</text>
+
+<text page="7" section="Instructions and Learning" source="author" id="/page/6/Text/3">
+General or heuristics-based instructions are those that provide a holistic set of highlevel (procedural) activities applicable to other situations within a problem-space. Collecting feedback from potential customers in the lean startup approach [(Felin et al.,](#page-28-7) [2020)](#page-28-7) is an example of heuristics-based entrepreneurial instructions. General instructions, by design, do not provide all necessary details and force learners to infer from limited information. They have an apparent advantage over specific instructions in helping learners apply the general gist of instructions to new situations. These instructions provide high-level (implicit or explicit) concepts that aid the learners in situating themselves in new problem-spaces and finding solutions more effectively ([Eiriksdottir, 2011](#page-28-8)). This magnifies the trade-off between initial performance and later transfer of learned instructions, especially in relation to the entrepreneurial methods ([Mansoori, 2017b)](#page-29-7) – a recent addition to the entrepreneurship education – as they vary in the generality or specificity of their instructions ([Mansoori &amp; Lackeus, 2019](#page-30-1) ´ ).
+</text>
+
+<text page="7" section="Instructions and Learning" source="author" id="/page/6/Text/4">
+In summary, the literature on instructions provides useful conceptual language for educational design, enabling us to approach instructions more systematically, by considering (1) the information they ought to convey, (2) the objectives for the learner, and (3) the specificity of the procedural language. Much of this literature has focused on what can be described as structured problems (i.e., ones that have optimum solutions that can be codified procedurally). As we shift to the domain of entrepreneurship, we deal with ill-structured or wicked problems ([Rittel &amp; Webber, 1973](#page-30-6)): their context is dynamic, there is no clear delineation between problem and context, and thus such problems have no definite, stable a priori formulation. It is, therefore, necessary to consider entrepreneurial action in its dynamic context. The main implication of this is that procedural instruction can be expressed as a generic method rather than codified action steps. In addition, we can aggregate the three learner goals discussed earlier
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="Instructions and Learning" source="author" id="/page/7/Text/2">
+(initial performance, learning, and transfer) into two main categories, namely acquisition and application.
+</text>
+
+
+<heading page="8" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/7/SectionHeader/3" level="3">
+### The Recursive Patterns of Entrepreneurial Action
+</heading>
+
+<text page="8" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/7/Text/4">
+To speak of architectural action is to implicate a not yet existing building towards which the action is oriented. By the same token, to speak of entrepreneurial action is to implicate a not yet existing venture towards which the action is oriented. In this regard, a new venture (as an abstract idea) need not be acted upon and thus can be a standalone object of discourse, just as we can talk about Santa Claus or the "next big thing". In contrast, an action – as an intentional move – requires something that is intended, an end state, the materialization of which can be deemed to fulfill the intention and thus complete the entrepreneurial action. In this light, entrepreneurial action can be described and discussed in two ways.
+</text>
+
+<text page="8" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/7/Text/5">
+First, entrepreneurial action is a movement in a material space continuum that is bookended at one end (left) by an idea of an end state (image or concept) and at the other end (right) by the existence of an operating venture (final object), as shown in [Figure 1](#page-4-0) earlier. Each discrete movement in this space can be said to have originated in the image of an end and be oriented towards bringing about the final object – this is what makes each such movement part of the same entrepreneurial action. Thus, in the original image, we can see the final object; in the final object we can see the original image; and at any point in between we can see both the original image and the final object. Each movement along the way is in effect an appearance of the original image, which gradually draws closer to the final object as the resting point of the materialization of the original image in the world.
+</text>
+
+<text page="8" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/7/Text/6">
+The space of entrepreneurial action, just as the space of designing (more broadly), is "the art of making those appearances that help us cross the treacherous currents separating the image from the object; the dream from reality" ([Habraken, 1985,](#page-28-2) p. 73). Moving towards the right is a process of materialization, of instructing what is to be done, while moving towards the left is about returning to initial intentions and evaluating progress in light of them ([Habraken, 1985)](#page-28-2). Throughout the path from image to object, a form is present, first as an idea and last as a settled artifact (the materialized final object), with a sequence of intermediate artifact appearances in between, through which the form moves in physical space from image to object, from something abstract to something concrete.
+</text>
+
+<text page="8" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/7/Text/7">
+Second, entrepreneurial action consists of every discrete movement in the above space, from the production of one appearance to the production of the next. In this regard, when an entrepreneur is said to act, we can see this as a rightward move (i.e., towards a more concrete appearance of their idea), producing the next appearance. For example, identifying a particular customer is a more concrete appearance of the more abstract notion of "having a customer" and producing a prototype of a product or service is a more concrete appearance of the abstract notion of "a product that does X". In this sense, an aggregate entrepreneurial purpose such as "create value" can make a
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/8/Text/1">
+series of ever-more-concrete appearances along different pathways, from "identify a problem" to "the problem is X" and "the market is Y" or from "identify a solution" to "the solution is V" and "the product is W". All these pathways ultimately converge into the operating venture.
+</text>
+
+<text page="9" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/8/Text/2">
+The production of each intermediary form is subject to multiple constraints. Coming from the left are constraints that represent boundaries to what can be done, based on original intentions and earlier choices. Coming from the right are constraints that arise from the fact that everything needs to be ultimately assembled into a working system. That is, a final venture needs to offer a product or service that is desirable in the market, technically and operationally feasible, and financially viable [(Dimov, 2016](#page-27-9)). This is in addition to the constraints that one imposes – by choosing one pathway rather than another – in the very process of trying to find a workable intermediary form.
+</text>
+
+<text page="9" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/8/Text/3">
+To the extent that entrepreneurial action is a series of movements in the space of thought and action, each movement can be seen as following the same logic, namely setting out from one appearance to produce the next, reflecting the original image and aiming closer to the final object. This is an elementary template for action that is repeated recursively throughout the entrepreneurial process, with each repetition representing a back-and-forth interaction between entrepreneur and environment that results in a next intermediary appearance [(Dimov &amp; Pistrui, 2020)](#page-27-10).
+</text>
+
+<text page="9" section="The Recursive Patterns of Entrepreneurial Action" source="author" id="/page/8/Text/4">
+There is, therefore, a loop structure to entrepreneurial action, whereby the output of one movement becomes the input or starting point of the next. Such loop structure reflects the principles of self-regulation and feedback control as primary manifestations of agency [(Bernstein, 1967;](#page-26-5) [Tomasello, 2022](#page-31-8)). The loop has three distinct parts – input, processing, and output – that mediate the movement from one appearance to the next, marking how entrepreneurs continuously iterate to evaluate their progress and make their way forward. In other words, even though we simply say, "an entrepreneur acts", in effect such Actionn entails evaluation of the outcomes of Actionn^(1) – in the light of the original image and aspiration and in consideration of the working requirements of the desired end state – and reasoning about what to do next, before making the move we describe as Actionn. As manifestation of reflective learning [(Lindh &amp; Thorgren, 2016)](#page-29-8), these mechanisms are not particular to entrepreneurship, but their training is more crucial in situations of uncertainty.
+</text>
+
+
+<heading page="9" section="Entrepreneurial Action as Design" source="author" id="/page/8/SectionHeader/5" level="2">
+## Entrepreneurial Action as Design
+</heading>
+
+<text page="9" section="Entrepreneurial Action as Design" source="author" id="/page/8/Text/6">
+The construction of a building begins with digging a hole in the ground. In effect, when one digs the hole, one is also laying foundations as well as constructing a building. These are not three different activities, but a single activity described in three different ways, at three hierarchical levels of abstraction. What makes such alternative descriptions possible is a building blueprint and a construction plan that describe (1) a certain end result of the construction process and (2) a sequence of intermediary stages to be completed, each broken down further into more concrete steps.
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Entrepreneurial Action as Design" source="author" id="/page/9/Text/2">
+In this sense, the action of digging the hole is a first of many, with the very last action in the planned sequence involving the finishing touch of the newly constructed building. The role of the architect is to produce the representations (i.e., design) that hold the entirety of this complex activity together. The building blueprint itself is an end point of a process of creativity, experimentation, and validation that considers the location and structural soundness of building as well as the role it will play in the community and ensures buy-in from all stakeholders. In turn, the construction plan is a translation of the blueprint into a time sequence of steps and activities, whose execution can be coordinated and monitored.
+</text>
+
+
+<heading page="10" section="Framing, Modeling, and Performing" source="author" id="/page/9/SectionHeader/3" level="3">
+### Framing, Modeling, and Performing
+</heading>
+
+<text page="10" section="Framing, Modeling, and Performing" source="author" id="/page/9/Text/4">
+Just as the architect (or designer) can be separated from the building contractor (maker), so we can separate the entrepreneur-as-designer from the entrepreneur-as-maker in a new venture creation process. A building is a system of materials (concrete, wood, glass, metal, etc.) organized in particular ways as to perform a certain function. Similarly, a venture is a system of activities (production, communication, exchange, etc.) organized in particular ways as to create value and economic impact. Just as the activity of the architect enables us to see standalone activities as part of constructing a building, so the activity of an entrepreneur-as-designer would enable us to see standalone actions as part of creating a new venture. Indeed, as we highlighted earlier, to call a certain action entrepreneurial is to see it as part of a new venture creation effort, within which it represents a logical step (i.e., it is a performance of or adherence to a certain blueprint).
+</text>
+
+<text page="10" section="Framing, Modeling, and Performing" source="author" id="/page/9/Text/5">
+In this way, in operating as designers, both entrepreneurs and architects give form to a given action, a meta description that makes the action part of a broader whole and thus gives it meaning. An action thus needs to be seen as an enactment of a certain blueprint, the blueprint needs to be related to a desired end state to be attained, and the end state needs to be something that the entrepreneur or architect 'see' in their minds. This entails three links as shown in [Figure 2.](#page-10-0) We draw on [Dimov (2021)](#page-26-6) to label three core activities of entrepreneurship as a design activity: framing, modeling, and performing. [4](#page-26-7)
+</text>
+
+<text page="10" section="Framing, Modeling, and Performing" source="author" id="/page/9/Text/6">
+Framing[5](#page-26-8) is about articulating what the entrepreneurial effort is about, namely a venture concept as a coherent description of the end state (e.g., a chain of high-quality coffee shops) [(Vogel, 2017)](#page-32-2). Framing creates the gateway or a sense of direction for the entrepreneurial effort to be advanced. Through framing, entrepreneurs give form to the future they aspire to bring about and thus give meaning to what they do. It therefore indicates what they pursue or move towards.
+</text>
+
+<text page="10" section="Framing, Modeling, and Performing" source="author" id="/page/9/Text/7">
+Modeling is about formulating the critical milestones for the materialization of the venture concept as a final, end-state object. This provides a sense of how various elements need to fit together into a coherent system, in other words into a blueprint. The chain of coffee shops needs to have individual shops and each individual shop should have premises, infrastructure, and personnel for making and serving coffee, suppliers for its materials, and customers to buy the coffee who would have compelling reasons
+</text>
+
+</page>
+<page number="11">
+<figure_group page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/FigureGroup/105">
+<figure page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/Figure/1" image="A3.R64_fig05.jpg">[FIGURE: see A3.R64_fig05.jpg]</figure>
+<caption page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/Caption/2">
+Figure 2. Entrepreneurial action as framing, modeling, and performing.
+</caption>
+</figure_group>
+
+<text page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/Text/3">
+to visit the shop. These generic elements provide a systemic description of the future venture and, thus, a certain blueprint for its materialization, to be gradually refined and made more concrete. Modeling is thus about developing a description of the end state as a system of interrelated elements and charting the paths behind the gateway through which the various elements would converge into a unified whole. By modeling, the entrepreneur articulates the various elements and the sequence of such piecing together that need to come together in producing a working venture.
+</text>
+
+<text page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/Text/4">
+Performing is about actioning the model in the sense of translating the blueprint into separate yet interdependent action steps, each focused on producing a new intermediary artifact (milestone). The blueprint effectively instructs what is to be done as an outcome of each action step. For each such task, there is a background of practice against which it takes place, whereby one has a practical sense of what needs to be done considering certain aims and in the context of certain social norms [(Schatzki, 2002](#page-31-9)). A simple entrepreneurial instruction such as "find a customer" would require one to carry out several tasks, each requiring a certain practical understanding of the whole.
+</text>
+
+<text page="11" section="Framing, Modeling, and Performing" source="author" id="/page/10/Text/5">
+To appreciate this dual nature of performing, we invoke the distinction between task and achievement verbs, which operate with different logical forces ([Ryle, 2009](#page-30-7)). Search is a task verb that refers to some activity as an ongoing process, while find is an achievement verb that does not refer to an activity that is distinct from search but simply reports the success of that activity. In using an achievement rather than a task verb, we
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="Framing, Modeling, and Performing" source="author" id="/page/11/Text/2">
+assert that "some state of affairs obtain over and above that which consists in the performance, if any, of the subservient task activity" ([Ryle, 2009](#page-30-7), p. 132).
+</text>
+
+<text page="12" section="Framing, Modeling, and Performing" source="author" id="/page/11/Text/3">
+It should be clear then that the instruction contained in a blueprint is formulated in achievement terms, while its ongoing performance is described in task terms. In this way, the blueprint contains the 'success' points of the activities it contains, while its performance is about the practical understanding and ability to get to those points. In other words, in order to find, one needs to search. To the extent that the task is not fully automated – with fully prescribed, minute action steps – there is always a discretionary aspect to performance in that one's practical understanding takes over where the formal instruction ends.
+</text>
+
+<text page="12" section="Framing, Modeling, and Performing" source="author" id="/page/11/Text/4">
+We suggest that entrepreneurs design new ventures through an iterative process that involves the activities of framing, modeling, and performing, which define the intentional space of entrepreneurship ([Dimov, 2021](#page-26-6)) and give entrepreneurial action its distinct form of being about some uncertain future. We can thus describe the entrepreneurial action as being part of a broader whole, namely (1) a future state to which it is directed (framing); (2) a blueprint for that future state, connected to the present (modeling); and (3) the attaining of certain outcomes that the blueprint instructs at the moment (performing).
+</text>
+
+<text page="12" section="Framing, Modeling, and Performing" source="author" id="/page/11/Text/5">
+In this way, when an entrepreneur talks to someone, we can describe this act as 'finding a customer' (blueprint instruction), 'validating a business model' (focal part of the blueprint) and 'creating a venture' (the future state mapped by the blueprint). Framing, modeling, and performing provide a conceptual hierarchy of entrepreneurial activity, whereby we can describe any action as the performance of a model, the model as the systematization of a frame, and the frame as the articulation of future aspirations. This is similar to the idea of entrepreneurial methods as comprising of three hierarchical levels of logic, model, and tactics [(Mansoori &amp; Lack](#page-30-1)e[us, 2019](#page-30-1) ´ ). [Figure 2](#page-10-0) highlights that, while we only observe actions and their outcomes, to see such actions as entrepreneurial performances requires awareness of the conceptual hierarchy that makes such actions about the future. In other words, acting entrepreneurially is more than just observable movements.
+</text>
+
+
+<heading page="12" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/11/SectionHeader/6" level="2">
+## Navigating the Hierarchy of Entrepreneurial Activity
+</heading>
+
+<text page="12" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/11/Text/7">
+While entrepreneurs are free to imagine future worlds, they are constrained by what the world renders possible when they act ([Ramoglou &amp; McMullen, 2022](#page-30-8)). Entrepreneurs are constrained (from the left) by the boundaries set by their aspiration and (from the right) by the systemic requirements, practicalities, and social acceptance of a working solution (see [Figure 1](#page-4-0)). As a design activity, entrepreneurship sits in between two different world stances, one taking the world as indeterminate and malleable and the other taking the world as determinate and given [(Berglund et al., 2020](#page-26-9)). Depending on their stance, and thus based on how much they take for granted, entrepreneurs engage in a venturing space with more or less structured aspects, with lack of structure giving rise to uncertainty about what to do and how to proceed. Therefore, educating entrepreneurs
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/12/Text/1">
+requires instructional sensitivity to the continuum of structuredness and unstructuredness. [6](#page-26-10) There are diverse rationalities embedded in the design of entrepreneurship education [(Bhatia &amp; Levina, 2020](#page-27-11)) that reflect the nature of the entrepreneurial action space.
+</text>
+
+<text page="13" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/12/Text/2">
+Building on the activities of framing, modeling, and performing as a conceptual hierarchy for understanding entrepreneurial action, we can understand structuredness and unstructuredness in terms of where in this hierarchy one focuses their thinking. Moving towards framing, there is less structure to work with; moving towards performing, there is more structure. For instance, when facing structured tasks, entrepreneurs operate within designated frames and blueprints for action, where the inputs and outputs for their behavior can be more clearly delineated. In contrast, when tasks are unstructured, entrepreneurs focus on their framing or specification. This suggests that different entrepreneurial tasks require different types of instructions. In cases where we largely know what needs to be done, we can codify methods to be followed. In contexts of high uncertainty, such codification is less attainable. For instance, formulating a venture idea is not codifiable since it can be about anything, whereas creating a sales pipeline can be codified in the light of clarity about what is to be sold and where.
+</text>
+
+<text page="13" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/12/Text/3">
+In their venturing processes, entrepreneurs aim to attain some imaginary future end states and need to procure the means for doing so. By engaging in framing, modeling, and performing, they shape the venturing spaces within which they operate and thus give meaning to their actions in their engagement with the external environment. In the spirit of "a seamless unfolding of perception, action and experience: a golden braid in which each element twines intimately with the rest" [(Clark, 2015](#page-27-12), p. 51), these activities are closely intertwined. In this sense, modeling comprises a conceptual regulatory structure that mediates framing and performing, within which entrepreneurs exercise their reasoning and reflective abilities as they think about what they do (see [Figure 2)](#page-10-0).
+</text>
+
+<text page="13" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/12/Text/4">
+At the start, there is only the desired future end state and so the venturing space is largely open, with no commitment to any particular element or working mechanism, only a sense of what one desires the future to be like. In the absence of solid or given premises, neither deductive nor inductive reasoning can be deployed. [Schon (1987)](#page-31-10) ¨ clearly articulates that "in contrast to analysts or critics, designers put things together and bring new things into being, dealing in the process with many variables and constraints, some initially known, and some discovered through designing" (p. 42). The ability to frame venturing spaces is a core skill of entrepreneurs (and designers) [(Schon, 1987](#page-31-10) ¨ ) and more generally a fundamental premise or postulate of inquiry [(Dewey, 1938](#page-27-13)). [Dewey (1938)](#page-27-13) remarked "to engage in an inquiry is like entering into a contract. It commits the inquirer to observance of certain conditions. A stipulation is a statement of conditions that are agreed to in the conduct of some affair" (p. 24).
+</text>
+
+<text page="13" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/12/Text/5">
+In constructing a frame, in addition to the desired outcome, one needs to posit certain working principles as a particular way of looking at the problem-space and acting within it ([Dorst, 2011](#page-27-14)), thereby enabling the processes of modeling (blueprint creation)
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="Navigating the Hierarchy of Entrepreneurial Activity" source="author" id="/page/13/Text/2">
+and performing. In the next section, we aim to synthesize the perspectives developed so far into design principles for entrepreneurship education.
+</text>
+
+
+<heading page="14" section="Vectors of Entrepreneurship Education" source="author" id="/page/13/SectionHeader/3" level="3">
+### Vectors of Entrepreneurship Education
+</heading>
+
+<text page="14" section="Vectors of Entrepreneurship Education" source="author" id="/page/13/Text/4">
+Let's imagine for a moment two people side by side – one a trained architect and the other a complete novice – doing things that are indistinguishable in a bodily sense (e.g., doing sketches on a piece of paper). When looking at the novice, we are unlikely to equate sketches with doing architect-like things. In other words, simply imitating fully what the architect does would not make one an architect, nor the activity architectural. What the trained architect has, in addition to the physical ability to do the specific things, is a broader, holistic understanding and embeddedness of their activity, blending aspirations with knowledge of the structural properties of buildings, properties of materials, and construction processes.
+</text>
+
+<text page="14" section="Vectors of Entrepreneurship Education" source="author" id="/page/13/Text/5">
+By the same token, we can imagine a trained entrepreneur and a complete novice also doing identical things. Indeed, an aspiring entrepreneur can simply imitate what accomplished entrepreneurs have done, repeating their actions, and using the same tools. Clearly – as [Figure 2](#page-10-0) illustrates – simply doing entrepreneur-like things, for instance pitching or working with a business model canvas, without requisite holistic understanding of what one does is not sufficient. Yet, one can seemingly do these things and thereby declare themselves a 'founder'; but one cannot declare themselves an 'architect'.
+</text>
+
+
+<heading page="14" section="Doing Something and Understanding What One is Doing" source="author" id="/page/13/SectionHeader/6" level="3">
+### Doing Something and Understanding What One is Doing
+</heading>
+
+<text page="14" section="Doing Something and Understanding What One is Doing" source="author" id="/page/13/Text/7">
+For exploring the deeper educational implications of this, we separate doing from understanding what one is doing. To understand what one is doing, one needs to have a concept of the activity (e.g., selling). In training or instructing someone to do X, there is a sense of bodily or verbal performance, but there is also the sense in which one understands that one is doing X (i.e., this is about the concept of X). This is beyond simply saying, "I am doing X". It requires mastery of the concept of X. Concepts are embedded in a network of other concepts, enabling the distinction and conscious selection of a given activity in context. Because one does not have just one concept but rather many concepts ([Sellars, 1963](#page-31-11)), to know or understand the concept of X is to pick it out from a whole range of interrelated concepts.
+</text>
+
+<text page="14" section="Doing Something and Understanding What One is Doing" source="author" id="/page/13/Text/8">
+The broader idea here is that of classificatory consciousness. In other words, the description of what one sees or is doing involves learning and concept formation: "we recognize that instead of coming to have the concept of something because we have noticed that sort of thing, to have the ability to notice a sort of thing is already to have the concept of that sort of thing, and cannot account for it" ([Sellars, 1963](#page-31-11), p. 176). Concepts or categories enable us to make sense of the world and deal with new situations by treating them as familiar. We create and invoke concepts by making analogies and this
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/1">
+represents the core of our thinking. For "without concepts there can be no thought, and without analogies there can be no concepts" ([Hofstadter &amp; Sander, 2013](#page-29-9), p. 3).
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/2">
+With concepts on the scene, a complication arises in the form of category mistake, whereby one may conflate something with the type of the thing it is. In an illustration of this mistake, [Ryle (2009)](#page-30-7) offered the example of a university: it consists of buildings and departments but is not itself a building or a department. It is a different logical type. Similarly, [Bateson (1972)](#page-26-11) would recognize that entrepreneurship is not an item of behavior but a category of behavior (i.e., it is of a different logical type). This reflects a broader distinction between a class and its members ([Russell, 1908](#page-30-9)).
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/3">
+The implication is that what is true of members or items of behavior is not always true of the class or category of that behavior. [Bateson (1972)](#page-26-11) uses the example of exploration as a category of behavior and the task of approaching or avoiding certain strange objects as an item of behavior. Because the purpose of exploration (as a category of behavior) is to get information about objects (to know which are to be approached or avoided), discovering that a particular object is dangerous in fact represents success for exploration. Therefore, in interacting with the object, one is both approaching the object and engaging in exploration. These are not two different activities, but the same activity, described in two different ways and thus requiring different levels of conceptual understanding. Accordingly, teaching someone to approach a particular object is different from teaching them to engage in exploration. Although they may involve the same bodily activity, they require different understanding.
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/4">
+[Bateson (1972)](#page-26-11) formalizes this distinction by discussing levels of learning. Zero learning pertains to developing a reliable response to some repeated prompt. This is about having the correct response, whereby one is said to be able to do X (e.g., closing a sale) in a bodily or verbal sense. In this sense, zero learning is not subject to trial and error. It is about mastering the required steps to do X.
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/5">
+Learning I is about the context in which X is to be completed and thus about understanding when and where X is to be performed. It implies a choice from a set of alternatives (e.g., closing a sale vs. building further features vs. spending on marketing activities). In the case of 'do X', this relates to learning to evaluate the context, within which to differentiate task X from other alternatives. This is about sensitivity to contextual cues, which becomes subject to corrective responses. Therefore, in Learning I, an individual moves from doing X to recognizing the context in which X should be done. In short, Learning I is about the context of zero learning. Entrepreneurs learn when it is appropriate to proceed with 'making a sale'.
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/6">
+Learning II in turn is about the context of Learning I (i.e., understanding when and where the context of X is present). This implies different ways of categorizing contexts, whereby one looks for markers to help differentiate the context of X from other contexts. For instance, one can distinguish a sales context from a research context, in which one would seek to understand needs.
+</text>
+
+<text page="15" section="Doing Something and Understanding What One is Doing" source="author" id="/page/14/Text/7">
+Lastly, Learning III is about the context of Learning II (i.e., the context of the context of the context of X). In this way, one would recognize a customer context (within which sales and research could be differentiated) from a product context (within which
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="Doing Something and Understanding What One is Doing" source="author" id="/page/15/Text/2">
+production and quality control could be differentiated). These levels highlight the importance of accounting for the interaction of context and learning, as part of instructions and in educational settings.
+</text>
+
+<text page="16" section="Doing Something and Understanding What One is Doing" source="author" id="/page/15/Text/3">
+Therefore, entrepreneurship can be represented as a hierarchical set of capabilities to be learned: (1) doing certain things, (2) knowing what these things are, and (3) knowing when and where to do these things by knowing different contexts and cues that differentiate them. In an early seminal work, [Johannisson (1991)](#page-29-5) distinguished entrepreneurial competences in terms of attitudes (KNOW-WHY), knowledge (KNOW– WHAT), and skills (KNOW-HOW). However, this does not clearly separate doing from understanding doing as different levels of learning. Therefore, we propose to draw the distinction in terms of framing (WHY), modeling (WHAT), and performing (HOW). In this sense, one needs to learn not only how to do something, but also what that is, and why it is being done. In fact, the WHY↔WHAT↔HOW interplay represents a design process [(Dorst &amp; Dijkhuis, 1995)](#page-27-15). The rightward direction (from why to how) can be seen as one of materialization, which benefits from instructing. The leftward direction (from how to why) can be seen as one of abstraction, which entails returning to intentions.
+</text>
+
+<text page="16" section="Doing Something and Understanding What One is Doing" source="author" id="/page/15/Text/4">
+In entrepreneurial education, particularly with its focus on thinking (cf., [Fayolle,](#page-28-1) [2013)](#page-28-1), one masters normative statements of the type 'in situation X, do Y', which are essential for dealing with the contingencies of everyday life inundated with radical uncertainty [(King &amp; Kay, 2020](#page-29-10)). In learning HOW to do Y, one also learns WHAT Y is (i.e., something done in situation X), and WHY it is done (i.e., because the situation is recognized as X). Thus, one frames the situation as X, models the response to X as requiring Y, and performs Y. With this in mind, we can think of the higher-order skills (cf., [Miri et al., 2007)](#page-30-10) of entrepreneurship as a systematic hierarchy of activities, whereby activity at one level sets the context for activity at the level below. In the next sections, we will discuss how framing, modeling, and performing can be developed as distinct capabilities through entrepreneurial instructions.
+</text>
+
+
+<heading page="16" section="Developing Framing Capabilities" source="author" id="/page/15/SectionHeader/5" level="2">
+## Developing Framing Capabilities
+</heading>
+
+<text page="16" section="Developing Framing Capabilities" source="author" id="/page/15/Text/6">
+The process of framing begins with meaning creation, either active and conscious or passive and unconscious. How a particular situation is framed depends largely on an individual's past experiences in identical or similar situations (or situations that bear recognizable similarities to the one being framed) as well as on the individual's social context [(Edmondson, 2003)](#page-28-9). In some contexts, framing relates to one's mental models for the effective interpretation of a situation [(Greca &amp; Moreira, 2000)](#page-28-10).
+</text>
+
+<text page="16" section="Developing Framing Capabilities" source="author" id="/page/15/Text/7">
+What leads up to framing is the observation of certain context and problem to understand interactions and processes and grasp the mechanisms within it. This becomes the basis from which one 'jumps' to imagine a new meaning towards constructing new realities. In this sense, framing represents a juxtaposition of the present and an imaginary future, whereby one problematizes the present and offers the imagined future as its solution ([Liuberte &amp; Dimov, 2021](#page-29-11) ˙ ). This is an open-ended stage
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="Developing Framing Capabilities" source="author" id="/page/16/Text/1">
+where it helps to immerse oneself and 'linger' in a yet-to-be-defined venturing space. Therefore, examples, as a type of instruction, can be effective conduits for guiding framing moves. Examples can illustrate the structures necessary to deal with the open-ended venturing space, showing what is possible and thereby loosening what entrepreneurs may implicitly take for granted (e.g., the story of the IMVU success in Eric Ries's narrative of lean startup methodology). Ultimately, framing is constrained by the boundaries of imagination and has the power to contract or expand the fields of possibilities.
+</text>
+
+<text page="17" section="Developing Framing Capabilities" source="author" id="/page/16/Text/2">
+Framing requires the development of perception or observational and imagination capabilities, as well as the linguistic categories with which to describe what one sees (i.e., seeing things as). This in essence means training one's attention. As [Wittgenstein (1953)](#page-32-1) argues in his discussion of the duck-rabbit picture – now seen as duck, now as rabbit – 'seeing as' is not just part of perception but involves thinking, imagination, and interpretation. However, seeing does not always change perception if acting is absent [(Tversky, 2019)](#page-31-12). Thus, developing more penetrating perception requires entrepreneurs to relinquish certain (linguistic) habits and develop the meta-cognitive awareness by making perceptual input into discrete units of experience [(Dimov &amp; Pistrui, 2023](#page-27-1); [Haynie et al., 2010](#page-29-12)).
+</text>
+
+<text page="17" section="Developing Framing Capabilities" source="author" id="/page/16/Text/3">
+As a general mechanism, perceptual learning [(Gibson, 1969)](#page-28-11) can help to adapt what we see and attend to as relevant characteristics of the entrepreneurial task. It is a mechanism that is useful in improving the acumen and selectivity to extract regularities in the environment [(Kellman &amp; Massey, 2013)](#page-29-13). This mechanism is contingent on one's existing knowledge corridors [(Gruber et al., 2013](#page-28-12)) and can be linked to entrepreneurial alertness ([Tang et al., 2012](#page-31-13)).
+</text>
+
+<text page="17" section="Developing Framing Capabilities" source="author" id="/page/16/Text/4">
+When observing the purchase of a cup of coffee in a coffee shop, some people see the simple handling and passing of an object from one person to another. Others see gross margin, operational process, part of a supply chain that stretches to the coffee farmer, an element of the business model or the exercise of interpersonal skills. This illustrates that how one perceives the situation plays an important role in effective subsequent framing of an entrepreneurial task. The specific characteristics of perceptual experiences make principles another suitable type of instruction because the breadth and irregularity of experiences cannot be codified into algorithmic instructions in that what is to be seen or how cannot be pre-defined. It is not practical to develop standardized training for entrepreneurs' perceptual readiness to environmental stimuli; rather, we can outline principles to be used as scaffolding for thinking ([Janson et al., 2020)](#page-29-3) about the entrepreneurial task and in the venturing space. An example of using principles as instruction is 'proactively search for a consideration set that matches your prior knowledge' ([Mansoori &amp; Lackeus, 2019](#page-30-1) ´ ) as part of the prescriptive entrepreneurship approach [(Fiet, 2007)](#page-28-13).
+</text>
+
+
+<heading page="17" section="Developing Modeling Capabilities" source="author" id="/page/16/SectionHeader/5" level="3">
+### Developing Modeling Capabilities
+</heading>
+
+<text page="17" section="Developing Modeling Capabilities" source="author" id="/page/16/Text/6">
+Modeling consists of a series of mental and cognitive activities that help to identify the critical elements of a venturing space and choose the most fitting model in line with a set of rules ([Halloun, 1996](#page-28-14)). As a process, it is directly implicated in the way mental and
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="Developing Modeling Capabilities" source="author" id="/page/17/Text/2">
+conceptual blueprints are constructed. Like framing, modeling constructs a skeleton or a set of postulates for the entrepreneurial inquiry. Modeling is ubiquitous. It happens all the time; we model every aspect of our lives and every interaction we partake ([Hawkins,](#page-29-14) [2021)](#page-29-14). Even novices who may not possess the necessary domain knowledge to interpret a given situation [(Dreyfus, 2004)](#page-27-6) can produce general models by making analogies, mental simulations, and general abstractions ([Greca &amp; Moreira, 2000](#page-28-10)).
+</text>
+
+<text page="18" section="Developing Modeling Capabilities" source="author" id="/page/17/Text/3">
+Starting with a new frame, entrepreneurs move to model the interactions that need to take place if the venture were to emerge ultimately as a working system. Modeling serves to make the new frame tangible, something with which one can engage, interact, and experiment. This requires understanding of the mechanisms that can lead up to a working system, for instance in regard to what makes a business financially viable or a value proposition which is compelling and operationally feasible. To this effect, principles fare better at directing modeling capabilities as the mechanisms in question are grounded in certain theoretical knowledge. Just as architects need to consider principles from material and engineering sciences, entrepreneurs, too, need to deploy core business and management principles.
+</text>
+
+<text page="18" section="Developing Modeling Capabilities" source="author" id="/page/17/Text/4">
+Furthermore, modeling entails the development of the capability to move in a space of concepts, building connections, and making leaps from one concept to another. This happens in a convergent sense when various concepts are brought together as well as in a divergent sense when one branches out from a single concept to other concepts. In the first case, one refines and contracts the conceptual space. In the second case, one explores and expands it. Deduction and induction represent core convergent reasoning processes, while abduction represents a core divergent reasoning process. Moreover, analogical abduction ([Sergeeva et al., 2021](#page-31-14)) – by matching a particular venturing space to similar familiar situations, experienced directly or vicariously – helps to make the first steps in reasoning about the perceptual experiences [(Restrepo, 2021](#page-30-11)).
+</text>
+
+<text page="18" section="Developing Modeling Capabilities" source="author" id="/page/17/Text/5">
+As learning mechanisms, single, double, and triple loop learning processes facilitate reasoning within and at the level of given premises or at the level of analogy from which one derives certain premises [(Romme &amp; Van Witteloostuijn, 1999](#page-30-12); [Yuthas et al., 2004)](#page-32-3). Related to this, methods as a particular type of instruction, can motivate both experiential and vicarious learning episodes [(Mansoori, 2017a).](#page-29-15) It is useful to think about modeling as a capability that should be guided within a framework where concepts and principles delimit the space in which deduction, induction, or abduction processes can take place. As modeling is a process, the instructions should also make use of principles that can facilitate entrepreneurs' consideration of possibilities. An example of a mix of principles and methods is'observe people, use insights gained to build prototypes, and test them on real users' [(Mansoori &amp; Lack](#page-30-1)e[us,](#page-30-1) ´ [2019](#page-30-1)) as an instruction related to design thinking [(Brown, 2008)](#page-27-16). This instruction communicates both necessary principles and the method containing the steps of the process.
+</text>
+
+
+<heading page="18" section="Developing Performing Capabilities" source="author" id="/page/17/SectionHeader/6" level="3">
+### Developing Performing Capabilities
+</heading>
+
+<text page="18" section="Developing Performing Capabilities" source="author" id="/page/17/Text/7">
+In performing, entrepreneurs seek to translate their blueprints into concrete actions. They need to conceive and create social interactions within which to enact their visions
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="Developing Performing Capabilities" source="author" id="/page/18/Text/1">
+and achieve deeper understanding of the venturing space, or to implement already validated solutions. In the first case, they require the ability to formulate certain expectations and devise procedures for collecting data, the analysis of which would enable them to evaluate the relevance of their vision and performance of their model. Eventually, the outcome feeds back into modeling and framing, and a subsequent loop of learning and iteration can take place. In the second case, they require the ability to organize to execute certain blueprints such as building a team, launching a product, or raising necessary funding.
+</text>
+
+<text page="19" section="Developing Performing Capabilities" source="author" id="/page/18/Text/2">
+To perform, one needs to act, to make a move in the space of objects and engage with the external world [(Tversky, 2019](#page-31-12)). This elicits responses from the world, to be evaluated as input for framing and modeling. Guiding action is about aligning and orienting to do something, to interact with others, and to provoke the world to respond. In Lewin'[s (1935)](#page-29-16) words, "if you want truly to understand something, try to change it". It is through engaging with the world that entrepreneurs can sharpen their abilities to act in a venturing space. At the same time, actions do not happen in a vacuum. They generate unanticipated consequences that can prompt us to update our cognitive models by manipulating our reference frames [(Hawkins, 2021)](#page-29-14), to be reflected in further actions. In the spirit of disciplined entrepreneurship [(Drucker,](#page-28-4) [1985)](#page-28-4), action is a means for both aligning the world with one's blueprint (execution) and aligning the blueprint (and frame) with the world (experimentation and reevaluation).
+</text>
+
+<text page="19" section="Developing Performing Capabilities" source="author" id="/page/18/Text/3">
+Therefore, both principles and methods are suitable types of instruction to guide the development of capabilities to perform. That is because of the nature of the cognitive work that is involved in action planning, linking goals and action strategies. These instructions facilitate deliberation by setting out principles that define the nature of the action to be considered (e.g., the principle of formulating testable hypotheses). Methods can help codify the steps to facilitate the carrying out of the specific type of action. Based on certain principles, a method that outlines the necessary steps to formulating hypotheses enables the design and testing of numerous hypotheses. An example of a principle is 'in face of uncertainty, focus on the controllable aspects of the venturing space instead of predicting the unpredictable future states' as part of the effectuation logic ([Sarasvathy, 2001](#page-31-7)). An example of a method is the five steps of the 'customer development framework' [(Blank &amp; Dorf, 2012)](#page-27-4).
+</text>
+
+
+<heading page="19" section="Discussion and Implications for Entrepreneurship Education" source="author" id="/page/18/SectionHeader/4" level="2">
+## Discussion and Implications for Entrepreneurship Education
+</heading>
+
+<text page="19" section="Discussion and Implications for Entrepreneurship Education" source="author" id="/page/18/Text/5">
+In their journeys, entrepreneurs represent what they aim to make – when they pitch, plan, and seek feedback – and make what they represent – when they hire, produce, and sell. In a small or micro business, representation or form is not separate from what one can make, a process well described with the notions of bricolage [(Baker &amp; Nelson,](#page-26-12) [2005)](#page-26-12) and effectuation [(Sarasvathy, 2001](#page-31-7)). With grander ambitions, however, come more complex ventures in which design as the giving of form is separate from making. To the extent that such ventures need external support (e.g., funding or customer
+</text>
+
+</page>
+<page number="20">
+<text page="20" section="Discussion and Implications for Entrepreneurship Education" source="author" id="/page/19/Text/2">
+buy-in), such support is based on the design or representation of what is to be made (e.g., a pitch, plan, or prototype). In other words, making requires resources and commitments, and resources and commitments require designing as giving tangible to what they are about. Designing in this sense requires skills that are different from making. As such, the nature of design in entrepreneurship and how it can be embedded in entrepreneurship education has been the focus of this paper.
+</text>
+
+<text page="20" section="Discussion and Implications for Entrepreneurship Education" source="author" id="/page/19/Text/3">
+To educate entrepreneurs as designers is to instruct them in certain ways. We integrate insights from the literature on instructions with a perspective of entrepreneurial action as design, whereby through the activities of framing, modeling, and performing what one does now can be said to be about a future venture. We discuss how framing, modeling, and performing capabilities can be developed in educational settings, using principles, methods, and examples as distinct types of instructions that can be deployed in different combinations and for different purposes. Our work can be summarized in a set of design principles for entrepreneurship education outlined next.
+</text>
+
+
+<heading page="20" section="Design Principles for Entrepreneurship Education" source="author" id="/page/19/SectionHeader/4" level="3">
+### Design Principles for Entrepreneurship Education
+</heading>
+
+<text page="20" section="Design Principles for Entrepreneurship Education" source="author" id="/page/19/Text/5">
+Throughout the paper, we have drawn on the analogy between entrepreneurs and architects as designers of structures or forms of what is to be ultimately made. Writing about the education of architects, [Rittel (1971)](#page-30-13) outlines four categories of teachable abilities: skills and dexterities, judgmental capabilities (as about harmony and appropriateness), factual knowledge, and knowledge of problems and of ways to go about them. Architects' abilities rest on core disciplines of physics and chemistry such as material science and mechanics, understanding of value and aesthetics, understanding of building regulations and construction processes, and the activities that constitute the practice of architecture. These become essential elements of a curriculum of architectural education because they are what someone qualified as an 'architect' is expected to have acquired. In this sense, architectural education starts with broader foundations, before it becomes distinctly architectural.
+</text>
+
+<text page="20" section="Design Principles for Entrepreneurship Education" source="author" id="/page/19/Text/6">
+Practice in architectural education comes to reality in several different forms. These forms include 'the practice of design', 'teaching through design', 'professional architecture practice', and 'the practice of architectural research by design' (cf., [Position](#page-30-14) [Paper of the European Association of Architectural Education, 2021](#page-30-14)). By the same token, as part of a broader curriculum, practice in entrepreneurship education must lay out foundations in business, management, economics, and society before it becomes distinctly entrepreneurial. Relevant forms of entrepreneurship education include but are not limited to the practice of venture idea development, teaching through simulation and creation, professionalization of entrepreneurial work, and researching entrepreneurship by designing a venture. They denote a needed recalibration from simply learning-bydoing to teaching-by-creating, which requires different types of instruction. Depending on the nature and objectives of what is to be taught, principles, methods, and examples can be deployed in creative ways to train and educate entrepreneurs. They must provide
+</text>
+
+</page>
+<page number="21">
+<text page="21" section="Design Principles for Entrepreneurship Education" source="author" id="/page/20/Text/1">
+adequate content, adequate structure, and adequate presentation (cf., [Wright, 1981)](#page-32-0), which requires articulation of certain design principles.
+</text>
+
+<text page="21" section="Design Principles for Entrepreneurship Education" source="author" id="/page/20/Text/2">
+Design principles enable one to develop instructional strategies that follow a distinct context-action-mechanism-outcome (CAMO) format, whereby in a certain context (C), to achieve outcome (O), one needs to do action (A) in order to activate mechanism (M) ([Romme &amp; Dimov, 2021)](#page-30-15). In our setting, context relates to the types of learners at hand and thus about the objectives for them (e.g., acquisition or application). Outcome pertains to whether we wish to develop framing, modeling, or performing capabilities, each associated with the creation of distinct artifacts, from purely conceptual (e.g., a vision for the venture) to material or transactional (e.g., customer commitment or making a product). Mechanisms pertain to the different types of instructions we have at our disposal (principles, methods, or examples). Action is about the specific mix of instructions that define our educational intervention and the specific content to be developed for each instruction. In [Table 1](#page-21-0) below, we present a set of design principles, focused on the intersections of outcomes and mechanisms, (i.e., on how principles, methods, and examples can be deployed for the development of framing, modeling, and performing capabilities). For each outcome, we outline the relevant artifacts to be created and the considerations for different learner objectives. Within each intersection, we consider broader aims and sample content.
+</text>
+
+<text page="21" section="Design Principles for Entrepreneurship Education" source="author" id="/page/20/Text/3">
+For each artifact that a learner can create – whether associated with the framing, modeling, or performing aspects of new venture design – there can be associated methods that capture its creation in some procedural sense. However, as we highlighted earlier, because the venturing space within which instructions take place varies from unstructured to structured, methods are less relevant in unstructured spaces and thus tend to be reduced to generic guidelines and heuristics. For instance, there is no set method for communicating a 'compelling vision' other than specifying what clear visions entail and what make them compelling. Beyond considering such parameters, one can exercise judgment on how to communicate – this is an open space for creativity and imagination. Because methods require instructional language in which they can be expressed, such language is enabled by the use of principles that establish a set of relevant concepts and their relationships. Thus, for instance, to articulate a venture concept or a vision, one needs to master the language of value, systemic understanding of the market, and current societal priorities. Principles also provide interpretative frames for understanding examples as being specific instantiations of something.
+</text>
+
+<text page="21" section="Design Principles for Entrepreneurship Education" source="author" id="/page/20/Text/4">
+Any instruction presupposes certain understanding or capabilities on behalf of those who would carry it out. Such premises come to the fore when we consider the objectives for the learner, namely whether we seek to facilitate the initial acquisition of certain knowledge or skills, or their subsequent application in novel contexts. Specific, detailed instructions may fare better for novices and in educational contexts where individuals are not yet trained to reliably exercise their judgment ([Shotter &amp; Tsoukas, 2014)](#page-31-15) to its fullest. It may be counter-productive to offer novice entrepreneurs too general instructions since this presents a broad scope of authority on their underdeveloped judgmental skills ([Catrambone, 1990)](#page-27-8).
+</text>
+
+</page>
+<page number="22">
+<caption page="22" section="Design Principles for Entrepreneurship Education" source="author" id="/page/21/Caption/2">
+Table 1. Design Principles for Entrepreneurship Education.
+</caption>
+
+<text page="22" section="Design Principles for Entrepreneurship Education" source="author" id="/page/21/Text/5">
+Framing Modeling Performing
+</text>
+
+<table page="22" section="Design Principles for Entrepreneurship Education" source="author" id="/page/21/Table/3">
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Venturing space | –––––––––––––Unstructured | ––––––––––––––––––– | Structured–––––––––––– |
+| Artifacts | Venture concepts as | Venture blueprints as | Venture milestones as tangible |
+|  | mpactrepresentations of future i | micrepresentations of syste | effect in the world (e.g., |
+|  |  | configurations of the working | mitments, transactions, ormco |
+|  |  | ventures | production) |
+| Objectives | Acquisition | Acquisition | Acquisition |
+|  | Learning to 'see' the future and | ms thinkingDeveloping syste | Developing process understanding |
+|  | municate itmco | abilities about business | of venture building and dealing |
+|  |  |  | with uncertainty |
+|  | Application | Application | Application |
+|  | Producing venture visions and gain | Translating venture concepts into | Defining key milestones and action |
+|  | wn aspirationssupport for o | mic configurationssyste | mstrategies for attaining the |
+|  |  |  |  |
+</table>
+
+<text page="22" section="Design Principles for Entrepreneurship Education" source="author" id="/page/21/Text/4">
+(continued)
+</text>
+
+</page>
+<page number="23">
+<table_group page="23" section="Design Principles for Entrepreneurship Education" source="author" id="/page/22/TableGroup/573">
+<caption page="23" section="Design Principles for Entrepreneurship Education" source="author" id="/page/22/Caption/2">
+Table 1. (continued)
+</caption>
+<table page="23" section="Design Principles for Entrepreneurship Education" source="author" id="/page/22/Table/3">
+|  |  | Framing | Modeling | Performing |
+| --- | --- | --- | --- | --- |
+| ments of instructionEle | Principles | ment goalsments ofmy and market as avisions of futures and what- Sources of opportunitiesmpelling- Sustainable developUnderstanding the ele- External enablers- Theory of valuem comple contentmakes them- EconosysteAimSa | Understanding the key elements of aventure as an agentic system and- Activity configurations (e.g.,- Operational infrastructurewhat makes a venture viablevalue chain, value shop,- Organizational design- Market interfacevalue network)- Financial model- Governancemple content- NetworksAimSa | - Goal setting (e.g., performanceUnderstanding the interdependentnature of milestones and whatmakes a milestone tractablegoals or learning goals)ment design- Metrics and data- Action planningmple content- ExperiAimSa |
+|  | Methods | Aim | Aim | Aim |
+|  | Examples | municating a venture conceptmpellinggeographic contexts, type of- Highlighting specific contextsoffering, and type of value)magining particular futures(e.g., one sentence pitch)DG goals,Illustrating vision formulation(e.g., scenario planning)Formulating articulate, co(e.g., sectors, Smple contentmple contentvisions- Com- IAimSaSa | of the business (e.g., market,- Highlighting different aspectsfinancial model,governance, and partners)Illustrating business modelingmprehensive,- Business model canvasviable business modelsoperations,Formulating comple contentmple contentAimSaSa | - Highlighting different types offeatures, and focused execution)exploration, product/service- Customer discovery interviewsmilestones (e.g., marketmprehensiveIllustrating action planningments- Design thinking- Running experiaction strategies- Lean startupFormulating comple contentmple contentAimSaSa |
+</table>
+</table_group>
+
+</page>
+<page number="24">
+<text page="24" section="Design Principles for Entrepreneurship Education" source="author" id="/page/23/Text/2">
+Specific instructions are in this sense more immediately actionable. However, when accompanied by higher-level principles, they can enable the learners to pattern-match new problems to ones they have seen and dealt with. For learners with broader knowledge and portfolio of skills, and thus more developed judgment capabilities, instructions can become more general, enabling wider extension to different contexts. In this way, instructions can be seen as providing a meta description of the task at hand that delimits the part within the venturing space in which the learner is left to exercise judgment.
+</text>
+
+<text page="24" section="Design Principles for Entrepreneurship Education" source="author" id="/page/23/Text/3">
+As anything designed, instructions can be evaluated for effectiveness in terms of whether learners can enact them and achieve their learning objectives. Such evaluation provides a basis for iteration in an instruction design process as outlined in [Figure 3](#page-23-0) below. The figure highlights the different levers that educational designers have at their disposal to respond to learner feedback. They can (1) reconsider the objectives, rebalancing acquisition and application considerations; (2) they can reconsider the activity, moving to different points in the conceptual hierarchy of framing, modeling, or performing; (3) they can reconsider the instructional archetypes, re-combining examples, principles, and methods; and (4) they can think holistically about whether the learner experiences a requisite degree of structuredness.
+</text>
+
+
+<heading page="24" section="Contributions" source="author" id="/page/23/SectionHeader/4" level="3">
+### Contributions
+</heading>
+
+<text page="24" section="Contributions" source="author" id="/page/23/Text/5">
+This work makes several contributions to entrepreneurship education and entrepreneurship research more broadly. First, we advance an epistemology of entrepreneurial practice that goes beyond narrow notions of technical rationality [(Schon, 1987](#page-31-10) ¨ ). Educating entrepreneurs rests on a conception of entrepreneurial practice (i.e., of what it is that entrepreneurs do). The development of the field of EE over time has emphasized the need for sensitivity to contingencies [(Honig, 2004](#page-29-1)), dispelled the notion of a predetermined, known process ([Neck &amp; Greene, 2011)](#page-30-0), and shifted emphasis to the entrepreneur as thinker in a dynamic, uncertain environments ([Fayolle, 2013](#page-28-1)). Nevertheless, to call a process entrepreneurial and to refer to people as entrepreneurs
+</text>
+
+<figure_group page="24" section="Contributions" source="author" id="/page/23/FigureGroup/122">
+<figure page="24" section="Contributions" source="author" id="/page/23/Figure/6" image="A3.R64_fig06.jpg">[FIGURE: see A3.R64_fig06.jpg]</figure>
+<caption page="24" section="Contributions" source="author" id="/page/23/Caption/7">
+Figure 3. Process model for the design of entrepreneurial instructions.
+</caption>
+</figure_group>
+
+</page>
+<page number="25">
+<text page="25" section="Contributions" source="author" id="/page/24/Text/1">
+requires systematic engagement with what the associated agency is about (i.e., the meaning of what entrepreneurs do).
+</text>
+
+<text page="25" section="Contributions" source="author" id="/page/24/Text/2">
+As focused on the future, this is imaginary. Through its emphasis on design as the representation of what is to be made, our framework makes the source of meaning endogenous to the process. It is a form that makes multiple appearances throughout the journey as artifacts produced by the intertwined, recursive activities of framing, modeling, and performing. In this way, in doing seemingly trivial things, entrepreneurs can be said to be pursuing an imagined, desired future end state and enacting its blueprint for a working venture. In this sense, entrepreneurship is not just doing but also the framing, modeling, and performing activities that give such movement its distinct meaning as entrepreneurial action. Doing entrepreneurship is not only about bodily or verbal performance, but also about understanding what one is doing as well as how it is done and why.
+</text>
+
+<text page="25" section="Contributions" source="author" id="/page/24/Text/3">
+Second, our work helps make the future – as a distinct marker of entrepreneurship – tangible and tractable. While the field of entrepreneurship found its distinct domain in the question of how future goods and services come into existence [(Venkataraman, 1997](#page-32-4)), such views developed into an unproductive notion of a nexus of enterprising individuals and lucrative opportunities that ignored the intermediate artifacts that mark the path between the visions of futures and the futures of visions ([Berglund &amp; Dimov, 2023](#page-26-2)). By bringing attention to new ventures as not only created but also designed ([Berglund et al., 2020](#page-26-9)), we open up the conceptual space of design to EE and thus move from a behavioral conception of entrepreneurship to one of future-oriented agency. It is only conceptually that we can turn the future – as something unbounded and purely imaginary – into an intentional object (i.e., something about which we can make assertions, express desires, and formulate plans). Through the activities of framing, modeling, and performing, the future is 'tamed' as something concrete that can be pursued and enacted in concrete artifacts.
+</text>
+
+<text page="25" section="Contributions" source="author" id="/page/24/Text/4">
+Finally, we offer a set of concepts and principles that will enable entrepreneurship educators to teach entrepreneurship as a systematic design activity, structuring their educational interventions accordingly. Educating entrepreneurs as designers helps differentiate the distinct place of universities as a place of learning from more hands-on, practical workshops that can take place in other settings. In this regard, to a substantive degree, entrepreneurship education is about the meaning of entrepreneurship and how such meaning can infuse human aspirations to make them entrepreneurial endeavors. In addition, our framework can enable entrepreneurs and entrepreneurship researchers to translate their practical and theoretical knowledge into systematic instructions for entrepreneurial action [(Baggen et al., 2021)](#page-26-0) by paying closer attention to the conceptual hierarchy through which one can describe entrepreneurial action as meaningful and consequently seek instructions to structure action. In this way, for instance, we can instruct aspiring entrepreneurs not to come up with ideas but to formulate visions, with the latter implying a holistic way of framing the future that needs to be modeled into a blueprint and enacted in certain ways.
+</text>
+
+</page>
+<page number="26">
+
+<heading page="26" section="Conclusion" source="author" id="/page/25/SectionHeader/2" level="3">
+### Conclusion
+</heading>
+
+<text page="26" section="Conclusion" source="author" id="/page/25/Text/3">
+Professionalization of entrepreneurship and entrepreneurship education depends on sharpening the ability to exercise judgment [(Romme, 2016)](#page-30-16). As judgment is always exercised from the first-person point of view of an agent, third-person explanations of entrepreneurship lose sight of the first-person perspective of an entrepreneur's action space [(Dimov et al., 2020](#page-27-0)), and thus remain silent on the question of what one should do. This extra mile from epistemic to practical utility requires reformulation of theories and methods (cf., [Daalhuizen &amp; Cash, 2021](#page-27-17)) to facilitate practical reasoning [(Salter,](#page-31-16) [2013)](#page-31-16) and thus prepare aspiring entrepreneurs for engaging in 'conversations' with the worlds they face [(Dimov &amp; Pistrui, 2022)](#page-27-18). Through explicit focus on designing and matching entrepreneurial instructions, we will both align educators with the futureoriented stance of the entrepreneurs in a way that can help close the gap between practices of entrepreneurs and our teaching content [(Edelman et al., 2008)](#page-28-15) and help advance entrepreneurial practices through the edifying role of education.
+</text>
+
+
+<heading page="26" section="Declaration of Conflicting Interests" source="author" id="/page/25/SectionHeader/4" level="3">
+### Declaration of Conflicting Interests
+</heading>
+
+<text page="26" section="Declaration of Conflicting Interests" source="author" id="/page/25/Text/5">
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="26" section="Funding" source="author" id="/page/25/SectionHeader/6" level="3">
+### Funding
+</heading>
+
+<text page="26" section="Funding" source="author" id="/page/25/Text/7">
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="26" section="ORCID iDs" source="author" id="/page/25/SectionHeader/8" level="3">
+### ORCID iDs
+</heading>
+
+<text page="26" section="ORCID iDs" source="author" id="/page/25/Text/9">
+Yashar Mansoori  [https://orcid.org/0000-0002-4222-4710](https://orcid.org/0000-0002-4222-4710) Dimo Dimov  [https://orcid.org/0000-0003-0894-7736](https://orcid.org/0000-0003-0894-7736)
+</text>
+
+
+<heading page="26" section="Notes" source="author" id="/page/25/SectionHeader/10" level="3">
+### Notes
+</heading>
+
+<list page="26" section="Notes" source="author" id="/page/25/ListGroup/181">
+- 1. Following [Habraken](#page-28-2)'s (1985) distinction between designing and making, we emphasize that these activities require distinct sets of skills. Thus, short training workshops or early school education that focus on practicalities of venture creation do not cover the symbolic activity of designing, which rests on more fundamental understanding of business, management, and economics as well as systems thinking. Focus on designing thus might be more suitable – but not exclusively – in higher education settings.
+- 2. In the case of machines and instructions, the machine registers the situation and its features to project new possibilities and directions, especially in novel situations. The series of registrations lead to engagement with a set of new activities. This in effect contributes to reorientation of attention. It both delineates what steps to take and what to look for. This is not dissimilar to how humans interact with instructions, where the primary concern of instructions is to recommend a course of action. An instruction may recommend more abstract activities that engage the decision-making circuitry that can act as an organizing mold for other activities.
+</list>
+
+</page>
+<page number="27">
+<text page="27" section="Notes" source="author" id="/page/26/Text/1">
+3. Relatedly, we can draw a meta-level distinction of entrepreneurial instructions: 'probing instructions' cater to aspects that deal with gathering information and help shine a light on concrete aspects, whereas 'generative instructions' would serve as vehicles for opening branches and paths for subsequent action. A similar idea in relation to strategies for developing ventures is characterized as experimentation and transformation respectively ([Berglund et al., 2020)](#page-26-9).
+</text>
+
+<list page="27" section="Notes" source="author" id="/page/26/ListGroup/249">
+- 4. We refer to them as activities when discussed as something being done and as capabilities when we discuss the underpinning abilities to carry them out. For example, playing chess is an activity. When one is able to do it, one has the capability of playing chess. In chess training, one is helped to develop the capability to play chess.
+- 5. Not to be mixed with 'entrepreneurial framing' (cf., [Snihur et al., 2021)](#page-31-17).
+- 6. For structured aspects of the entrepreneurial problem-space  in an extreme case of analogy – educating entrepreneurs can be analogized to programming a computer. Computers falter when the boundaries of the problem-space become fluid, especially in cases when uncertainty and ambiguity abound. Such problem-spaces require explicit formulation of the context within which observations and decisions are to be made ([King &amp; Kay, 2020](#page-29-10)). In many situations in the entrepreneurial problem-space, the activities of framing, modeling, and performing are more fluid and the fields of possibilities larger.
+</list>
+
+
+<heading page="27" section="References" source="author" id="/page/26/SectionHeader/5" level="3">
+### References
+</heading>
+
+<list page="27" section="References" source="author" id="/page/26/ListGroup/250">
+- Amerine, R., &amp; Bilmes, J. (1988). Following instructions. Human Studies, 11(2–3), 327–339. [https://doi.org/10.1007/bf00177308](https://doi.org/10.1007/bf00177308)
+- Baggen, Y., Lans, T., &amp; Gulikers, J. (2021). Making entrepreneurship education available to all: Design principles for educational programs stimulating an entrepreneurial mindset. Entrepreneurship Education and Pedagogy, 5(3), 347–374. [https://doi.org/10.1177/](https://doi.org/10.1177/2515127420988517) [2515127420988517](https://doi.org/10.1177/2515127420988517)
+- Baker, T., &amp; Nelson, R. E. (2005). Creating something from nothing: Resource construction through entrepreneurial bricolage. Administrative Science Quarterly, 50(3), 329–366. [https://doi.org/10.2189/asqu.2005.50.3.329](https://doi.org/10.2189/asqu.2005.50.3.329)
+- Bateson, G. (1972). Steps to an ecology of mind. Northvale, NJ: Jason Aronson Inc.
+- Berglund, H. (2021). Entrepreneurship as design and design science. Journal of Business Venturing Design, 1(1–2), 100012. [https://doi.org/10.1016/j.jbvd.2022.100012](https://doi.org/10.1016/j.jbvd.2022.100012)
+- Berglund, H., Bousfiha, M., &amp; Mansoori, Y. (2020). Opportunities as artifacts and entrepreneurship as design. Academy of Management Review, 45(4), 825–846. [https://doi.org/10.](https://doi.org/10.5465/amr.2018.0285) [5465/amr.2018.0285](https://doi.org/10.5465/amr.2018.0285)
+- Berglund, H., &amp; Dimov, D. (2023). Visions of futures and futures of visions: Entrepreneurs, artifacts, and worlds. Journal of Business Venturing Insights, 20, e00411. [https://doi.org/10.](https://doi.org/10.1016/j.jbvi.2023.e00411) [1016/j.jbvi.2023.e00411](https://doi.org/10.1016/j.jbvi.2023.e00411)
+- Berglund, H., &amp; Glaser, V. L. (2022). The artifacts of entrepreneurial practice. In Research handbook on entrepreneurship as practice. Edward Elgar Publishing.
+- Bernstein, N. (1967). The coordination and regulation of movements. Pergamon.
+</list>
+
+</page>
+<page number="28">
+<list page="28" section="References" source="author" id="/page/27/ListGroup/322">
+- Bhatia, A. K., &amp; Levina, N. (2020). Diverse rationalities of entrepreneurship education: An epistemic stance perspective. The Academy of Management Learning and Education, 19(3), 323–344. [https://doi.org/10.5465/amle.2019.0201](https://doi.org/10.5465/amle.2019.0201)
+- Blank, S., &amp; Dorf, B. (2012). The startup owner's manual: The step-by-step guide for building a great company. K&amp;S Ranch Press.
+- Brown, T. (2008). Design thinking. Harvard Business Review, 86(6), 84–92.
+- Catrambone, R. (1990). Specific versus general procedures in instructions. Human-Computer Interaction, 5(1), 49–93. [https://doi.org/10.1207/s15327051hci0501_2](https://doi.org/10.1207/s15327051hci0501_2)
+- Catrambone, R. (1995). Following instructions: Effects of principles and examples. Journal of Experimental Psychology: Applied, 1(3), 227–244. [https://doi.org/10.1037/1076-](https://doi.org/10.1037/1076-898x.1.3.227) [898x.1.3.227](https://doi.org/10.1037/1076-898x.1.3.227)
+- Chapman, D. (1990). Vision, instruction, and action. MIT Press.
+- Clark, A. (2015). Surfing uncertainty: Prediction, action, and the embodied mind. Oxford University Press.
+- Daalhuizen, J., &amp; Cash, P. (2021). Method content theory: Towards a new understanding of methods in design. Design Studies, 75(3), 101018. [https://doi.org/10.1016/j.destud.2021.](https://doi.org/10.1016/j.destud.2021.101018) [101018](https://doi.org/10.1016/j.destud.2021.101018)
+- Dew, N., Sarasathy, S., Read, S., &amp; Wiltbank, R. (2009). Affordable loss: Behavioral economic aspects of the plunge decision. Strategic Entrepreneurship Journal, 3(2), 105–126. [https://](https://doi.org/10.1002/sej.66) [doi.org/10.1002/sej.66](https://doi.org/10.1002/sej.66)
+- Dewey, J. (1938). Logic: The theory of inquiry. Henry Holt.
+- Dijkstra, S. (1988). The development of the representation of conceptual knowledge in memory and the design of instruction. Instructional Science, 17(4), 339–350. [https://doi.org/10.](https://doi.org/10.1007/bf00056220) [1007/bf00056220](https://doi.org/10.1007/bf00056220)
+- Dimov, D. (2016). Toward a design science of entrepreneurship. In A. C. Corbett, &amp; J. A. Katz (Eds.), Models of start-up thinking and action: Theoretical, empirical, and pedagogical approaches (Vol. 18, pp. 1–31). Emerald Group Publishing Limited.
+- Dimov, D., &amp; Pistrui, J. (2020). Recursive and discursive model of and for entrepreneurial action. European Management Review, 17(1), 267–277. [https://doi.org/10.1111/emre.12360](https://doi.org/10.1111/emre.12360)
+- Dimov, D., &amp; Pistrui, J. (2022). Entrepreneurship education as a first-person transformation. Journal of Management Inquiry, 31(1), 49–53. [https://doi.org/10.1177/1056492620964592](https://doi.org/10.1177/1056492620964592)
+- Dimov, D., &amp; Pistrui, J. (2023). Kinetic thinking styles: A tool for developing entrepreneurial thinking. Journal of Business Venturing Design, 2(2), 100015. [https://doi.org/10.1016/j.](https://doi.org/10.1016/j.jbvd.2023.100015) [jbvd.2023.100015](https://doi.org/10.1016/j.jbvd.2023.100015)
+- Dimov, D., Schaefer, R., &amp; Pistrui, J. (2020). Look who is talking … and who is listening: Finding an integrative "we" voice in entrepreneurial scholarship. Entrepreneurship Theory and Practice, 45(5), 1176–1196, [https://doi.org/10.1177/1042258720914507](https://doi.org/10.1177/1042258720914507)
+- Dorst, K. (2011). The core of design thinking and its application. Design Studies, 32(6), 521–532. [https://doi.org/10.1016/j.destud.2011.07.006](https://doi.org/10.1016/j.destud.2011.07.006)
+- Dorst, K., &amp; Dijkhuis, J. (1995). Comparing paradigms for describing design activity. Design Studies, 16(2), 261–274. [https://doi.org/10.1016/0142-694x(94)00012-3](https://doi.org/10.1016/0142-694x(94)00012-3)
+- Dreyfus, S. E. (2004). The five-stage model of adult skill acquisition. Bulletin of Science, Technology &amp; Society, 24(3), 177–181. [https://doi.org/10.1177/0270467604264992](https://doi.org/10.1177/0270467604264992)
+</list>
+
+</page>
+<page number="29">
+<list page="29" section="References" source="author" id="/page/28/ListGroup/285">
+- Drucker, P. (1985). Innovation and entrepreneurship. Harper &amp; Row.
+- Edelman, L. F., Manolova, T. S., &amp; Brush, C. G. (2008). Entrepreneurship education: Correspondence between practices of nascent entrepreneurs and textbook prescriptions for success. The Academy of Management Learning and Education, 7(1), 56–70. [https://doi.](https://doi.org/10.5465/amle.2008.31413862) [org/10.5465/amle.2008.31413862](https://doi.org/10.5465/amle.2008.31413862)
+- Edmondson, A. C. (2003). Framing for learning: Lessons in successful technology implementation. California Management Review, 45(2), 34–54. [https://doi.org/10.2307/](https://doi.org/10.2307/41166164) [41166164](https://doi.org/10.2307/41166164)
+- Eiriksdottir, E. (2011). The role of principles in instructions for procedural tasks: Timing of use, method of study, and procedural instruction specificity. PhD Thesis. Georgia Institute of Technology.
+- Eiriksdottir, E., &amp; Catrambone, R. (2011). Procedural instructions, principles, and examples: How to structure instructions for procedural tasks to enhance performance, learning, and transfer. Human Factors, 53(6), 749–770. [https://doi.org/10.1177/0018720811419154](https://doi.org/10.1177/0018720811419154)
+- Engestrom, Y., Miettinen, R., &amp; Punam ¨ aki, R.-L. (1999). ¨ Perspectives on activity theory. Cambridge University Press.
+- Fayolle, A. (2013). Personal views on the future of entrepreneurship education. Entrepreneurship &amp; Regional Development, 25(7–8), 692–701. [https://doi.org/10.1080/08985626.2013.821318](https://doi.org/10.1080/08985626.2013.821318)
+- Felin, T., Gambardella, A., Stern, S., &amp; Zenger, T. (2020). Lean startup and the business model: Experimentation revisited. Long Range Planning, 53(4), 101889. [https://doi.org/10.1016/j.](https://doi.org/10.1016/j.lrp.2019.06.002) [lrp.2019.06.002](https://doi.org/10.1016/j.lrp.2019.06.002)
+- Fiet, J. O. (2007). A prescriptive analysis of search and discovery. Journal of Management Studies, 44(4), 592–611. [https://doi.org/10.1111/j.1467-6486.2006.00671.x](https://doi.org/10.1111/j.1467-6486.2006.00671.x)
+- Gibson, E. J. (1969). Principles of perceptual learning and development. Appleton-Century-Crofts.
+- Greca, I. M., &amp; Moreira, M. A. (2000). Mental models, conceptual models, and modelling. International Journal of Science Education, 22(1), 1–11. [https://doi.org/10.1080/](https://doi.org/10.1080/095006900289976) [095006900289976](https://doi.org/10.1080/095006900289976)
+- Gruber, M., MacMillan, I. C., &amp; Thompson, J. D. (2013). Escaping the prior knowledge corridor: What shapes the number and variety of market opportunities identified before market entry of technology start-ups? Organization Science, 24(1), 280–300. [https://doi.org/10.1287/](https://doi.org/10.1287/orsc.1110.0721) [orsc.1110.0721](https://doi.org/10.1287/orsc.1110.0721)
+- Habraken, N. J. (1985). The appearance of the form: Four essays on the position designing takes between people and things. Routledge.
+- Hagg, G., &amp; Gabrielsson, J. (2019). A systematic literature review of the evolution of pedagogy ¨ in entrepreneurial education research. International Journal of Entrepreneurial Behavior &amp; Research, 26(5), 829–861. [https://doi.org/10.1108/ijebr-04-2018-0272](https://doi.org/10.1108/ijebr-04-2018-0272)
+- Hagg, G., &amp; Kurczewska, A. (2021). Toward a learning philosophy based on experience in ¨ entrepreneurship education. Entrepreneurship Education and Pedagogy, 4(1), 4–29. [https://](https://doi.org/10.1177/2515127419840607) [doi.org/10.1177/2515127419840607](https://doi.org/10.1177/2515127419840607)
+- Halloun, I. (1996). Schematic modeling for meaningful learning of physics. Journal of Research in Science Teaching, 33(9), 1019–1041. [https://doi.org/10.1002/(SICI)1098-2736(199611)](https://doi.org/10.1002/(SICI)1098-2736(199611)33:9&lt;1019::AID-TEA4k3.0.CO;2-I) [33:9&lt;1019::AID-TEA4](https://doi.org/10.1002/(SICI)1098-2736(199611)33:9&lt;1019::AID-TEA4k3.0.CO;2-I)[3.0.CO;2-I](https://doi.org/10.1002/(SICI)1098-2736(199611)33:9&lt;1019::AID-TEA4k3.0.CO;2-I)
+</list>
+
+</page>
+<page number="30">
+<list page="30" section="References" source="author" id="/page/29/ListGroup/292">
+- Hawkins, J. C. (2021). A thousand brains: A new theory of intelligence. Basic Books.
+- Haynie, J. M., Shepherd, D., Mosakowski, E., &amp; Earley, P. C. (2010). A situated metacognitive model of the entrepreneurial mindset. Journal of Business Venturing, 25(2), 217–229. [https://doi.org/10.1016/j.jbusvent.2008.10.001](https://doi.org/10.1016/j.jbusvent.2008.10.001)
+- Hofstadter, D. R., &amp; Sander, E. (2013). Surfaces and essences: Analogy as the fuel and fire of thinking. Basic Books.
+- Honig, B. (2004). Entrepreneurship education: Toward a model of contingency-based business planning. The Academy of Management Learning and Education, 3(3), 258–273. [https://](https://doi.org/10.5465/amle.2004.14242112) [doi.org/10.5465/amle.2004.14242112](https://doi.org/10.5465/amle.2004.14242112)
+- Janson, A., Sӧllner, M., &amp; Leimeister, J. M. (2020). Ladders for learning: Is scaffolding the key to teaching problem-solving in technology-mediated learning contexts? The Academy of Management Learning and Education, 19(4), 439–468. [https://doi.org/10.5465/amle.2018.](https://doi.org/10.5465/amle.2018.0078) [0078](https://doi.org/10.5465/amle.2018.0078)
+- Johannisson, B. (1991). University training for entrepreneurship: Swedish approaches. Entrepreneurship &amp; Regional Development, 3(1), 67–82. [https://doi.org/10.1080/](https://doi.org/10.1080/08985629100000005) [08985629100000005](https://doi.org/10.1080/08985629100000005)
+- Kellman, P. J., &amp; Massey, C. M. (2013). Perceptual learning, cognition, and expertise. In B. H. Ross (Ed.), Psychology of Learning and Motivation (58, pp. 117–165). Elsevier. [https://doi.](https://doi.org/10.1016/B978-0-12-407237-4.00004-9) [org/10.1016/B978-0-12-407237-4.00004-9](https://doi.org/10.1016/B978-0-12-407237-4.00004-9)
+- Kier, A. S., &amp; McMullen, J. S. (2018). Entrepreneurial imaginativeness in new venture ideation. Academy of Management Journal, 61(6), 2265–2295. [https://doi.org/10.5465/amj.2017.](https://doi.org/10.5465/amj.2017.0395) [0395](https://doi.org/10.5465/amj.2017.0395)
+- King, M., &amp; Kay, J. (2020). Radical uncertainty: Decision-making for an unknowable future. Hachette.
+- Kuratko, D. F. (2005). The emergence of entrepreneurship education: Development, trends, and challenges. Entrepreneurship Theory and Practice, 29(5), 577–597. [https://doi.org/10.1111/](https://doi.org/10.1111/j.1540-6520.2005.00099.x) [j.1540-6520.2005.00099.x](https://doi.org/10.1111/j.1540-6520.2005.00099.x)
+- Lackeus, M., &amp; Williams Middleton, K. (2015). Venture creation programs: Bridging entre- ´ preneurship education and technology transfer. Education + Training, 57(1), 48–73. [https://](https://doi.org/10.1108/et-02-2013-0013) [doi.org/10.1108/et-02-2013-0013](https://doi.org/10.1108/et-02-2013-0013)
+- Lahn, L. C., &amp; Erikson, T. (2016). Entrepreneurship education by design. Education + Training, 58(7/8), 684–699. [https://doi.org/10.1108/et-03-2016-0051](https://doi.org/10.1108/et-03-2016-0051)
+- Lewin, K. (1935). A dynamic theory of personality: Selected papers. McGraw-Hill.
+- Lindh, I., &amp; Thorgren, S. (2016). Critical event recognition: An extended view of reflective learning. Management Learning, 47(5), 525–542. [https://doi.org/10.1177/1350507615618600](https://doi.org/10.1177/1350507615618600)
+- Liuberte, I., &amp; Dimov, D. (2021). ˙ "One tiny drop changes everything": Constructing opportunity with words. Journal of Business Venturing Insights, 15, e00242. [https://doi.org/10.1016/j.](https://doi.org/10.1016/j.jbvi.2021.e00242) [jbvi.2021.e00242](https://doi.org/10.1016/j.jbvi.2021.e00242)
+- Mansoori, Y. (2017a). Enacting the lean startup methodology: The role of vicarious and experiential learning processes. International Journal of Entrepreneurial Behavior &amp; Research, 23(5), 812–838. [https://doi.org/10.1108/ijebr-06-2016-0195](https://doi.org/10.1108/ijebr-06-2016-0195)
+- Mansoori, Y. (2017b). Entrepreneurial methods as vehicles of entrepreneurial action. PhD Thesis. Chalmers University of Technology.
+</list>
+
+</page>
+<page number="31">
+<text page="31" section="References" source="author" id="/page/30/Text/1">
+Mansoori, Y., &amp; Lackeus, M. (2019). Comparing effectuation to discovery-driven planning, ´ prescriptive entrepreneurship, business planning, lean startup, and design thinking. Small Business Economics, 54(3), 791–818. [https://doi.org/10.1007/s11187-019-00153-w](https://doi.org/10.1007/s11187-019-00153-w)
+</text>
+
+<list page="31" section="References" source="author" id="/page/30/ListGroup/293">
+- McGrath, R. G., &amp; MacMillan, I. C. (1995). Discovery driven planning: Turning conventional planning on its head. Harvard Business Review, 73(4), 44–54.
+- McMullen, J. S., &amp; Dimov, D. (2013). Time and the entrepreneurial journey: The problems and promise of studying entrepreneurship as a process. Journal of Management Studies, 50(8), 1481–1512. [https://doi.org/10.1111/joms.12049](https://doi.org/10.1111/joms.12049)
+- Miri, B., David, B.-C., &amp; Uri, Z. (2007). Purposely teaching for the promotion of higher-order thinking skills: A case of critical thinking. Research in Science Education, 37(4), 353–369. [https://doi.org/10.1007/s11165-006-9029-2](https://doi.org/10.1007/s11165-006-9029-2)
+- Mwasalwiba, E. S. (2010). Entrepreneurship education: A review of its objectives, teaching methods, and impact indicators. Education + Training, 52(1), 20–47. [https://doi.org/10.](https://doi.org/10.1108/00400911011017663) [1108/00400911011017663](https://doi.org/10.1108/00400911011017663)
+- Neck, H. M., &amp; Corbett, A. C. (2018). The scholarship of teaching and learning entrepreneurship. Entrepreneurship Education and Pedagogy, 1(1), 8–41. [https://doi.org/10.1177/](https://doi.org/10.1177/2515127417737286) [2515127417737286](https://doi.org/10.1177/2515127417737286)
+- Neck, H. M., &amp; Greene, P. G. (2011). Entrepreneurship education: Known worlds and new frontiers. Journal of Small Business Management, 49(1), 55–70. [https://doi.org/10.1111/j.](https://doi.org/10.1111/j.1540-627x.2010.00314.x) [1540-627x.2010.00314.x](https://doi.org/10.1111/j.1540-627x.2010.00314.x)
+- Position Paper of the European Association of Architectural Education (2021). Retrieved from. [https://www.eaae.be/event/principles-and-practices-of-architectural-education-3-2/](https://www.eaae.be/event/principles-and-practices-of-architectural-education-3-2/)
+- Ramoglou, S., &amp; McMullen, J. S. (2022) (In press). "What is an opportunity?" From theoretical mystification to everyday understanding. Academy of Management Review. [https://doi.org/](https://doi.org/10.5465/amr.2020.0335) [10.5465/amr.2020.0335](https://doi.org/10.5465/amr.2020.0335)
+- Restrepo, J. A. F. (2021). Are there types of abduction? An inquiry into a comprehensive classification of types of abduction. In Abduction in cognition and action (pp. 3–30). Springer.
+- Rittel, H. (1971). Some principles for the design of an educational system for design. Journal of Architectural Education, 26(1–2), 16–27. [https://doi.org/10.1080/10464883.1971.11102482](https://doi.org/10.1080/10464883.1971.11102482)
+- Rittel, H. W. J., &amp; Webber, M. M. (1973). Dilemmas in a general theory of planning. Policy Sciences, 4(2), 155–169. [https://doi.org/10.1007/bf01405730](https://doi.org/10.1007/bf01405730)
+- Romme, A. G. L., &amp; Van Witteloostuijn, A. (1999). Circular organizing and triple loop learning. Journal of Organizational Change Management, 12(5), 439–454. [https://doi.org/10.1108/](https://doi.org/10.1108/09534819910289110) [09534819910289110](https://doi.org/10.1108/09534819910289110)
+- Romme, A. G. L., &amp; Dimov, D. (2021). Mixing oil with water: Framing and theorizing in management research informed by design science. Designs, 5(1), 13–16. [https://doi.org/10.](https://doi.org/10.3390/designs5010013) [3390/designs5010013](https://doi.org/10.3390/designs5010013)
+- Romme, G. (2016). The quest for professionalism: The case of management and entrepreneurship. Oxford University Press.
+- Russell, B. (1908). Mathematical logic as based on the theory of types. American Journal of Mathematics, 30(3), 222–262. [https://doi.org/10.2307/2369948](https://doi.org/10.2307/2369948)
+- Ryle, G. (2009). The concept of mind. Routledge.
+</list>
+
+</page>
+<page number="32">
+<list page="32" section="References" source="author" id="/page/31/ListGroup/288">
+- Salter, D. W. (2013). One university's approach to defining and supporting professional doctorates. Studies in Higher Education, 38(8), 1175–1184. [https://doi.org/10.1080/03075079.](https://doi.org/10.1080/03075079.2013.833030) [2013.833030](https://doi.org/10.1080/03075079.2013.833030)
+- Sarasvathy, S. D. (2001). Causation and effectuation: Toward a theoretical shift from economic inevitability to entrepreneurial contingency. Academy of Management Review, 26(2), 243–263. [https://doi.org/10.2307/259121](https://doi.org/10.2307/259121)
+- Schatzki, T. R. (2002). The site of the social: A philosophical account of the consitution of social life and change. The Pennsylvania State University Press.
+- Schon, D. A. (1984). ¨ The reflective practitioner: How professionals think in action. Ashgate Publishing Limited.
+- Schon, D. A. (1987). ¨ Educating the reflective practitioner: Toward a new design for teaching and learning in the professions. Jossey-Bass.
+- Schon, D. A. (1992). The theory of inquiry: Dewey ¨ 's legacy to education. Curriculum Inquiry, 22(2), 119–139. [https://doi.org/10.2307/1180029](https://doi.org/10.2307/1180029)
+- Sellars, W. (1963). Science, perception and reality. London: Routledge &amp; Kegan Paul.
+- Sergeeva, A., Bhardwaj, A., &amp; Dimov, D. (2021). In the heat of the game: Analogical abduction in a pragmatist account of entrepreneurial reasoning. Journal of Business Venturing, 36(6), 106158. [https://doi.org/10.1016/j.jbusvent.2021.106158](https://doi.org/10.1016/j.jbusvent.2021.106158)
+- Shotter, J., &amp; Tsoukas, H. (2014). In search of phronesis: Leadership and the art of judgment. The Academy of Management Learning and Education, 13(2), 224–243. [https://doi.org/10.](https://doi.org/10.5465/amle.2013.0201) [5465/amle.2013.0201](https://doi.org/10.5465/amle.2013.0201)
+- Simon, H. A. (1996). The sciences of the artificial. MIT Press.
+- Snihur, Y., Thomas, L. D. W., Garud, R., &amp; Phillips, N. (2021). Entrepreneurial framing: A literature review and future research directions. Entrepreneurship Theory and Practice, 46(3), 578–606. [https://doi.org/10.1177/10422587211000336](https://doi.org/10.1177/10422587211000336)
+- Souitaris, V., Zerbinati, S., &amp; Al-Laham, A. (2007). Do entrepreneurship programmes raise entrepreneurial intention of science and engineering students? The effect of learning, inspiration, and resources. Journal of Business Venturing, 22(4), 566–591. [https://doi.org/10.](https://doi.org/10.1016/j.jbusvent.2006.05.002) [1016/j.jbusvent.2006.05.002](https://doi.org/10.1016/j.jbusvent.2006.05.002)
+- Spector, J. M. (2001). Philosophical implications for the design of instruction. Instructional Science, 29(4/5), 381–402. [https://doi.org/10.1023/a:1011999926635](https://doi.org/10.1023/a:1011999926635)
+- Stanovich, K. E. (2009). Distinguishing the reflective, algorithmic, and autonomous minds: Is it time for a tri-process theory? In In two minds: Dual processes and beyond (pp. 55–88). Oxford University Press.
+- Tang, J., Kacmar, K. M. M., &amp; Busenitz, L. (2012). Entrepreneurial alertness in the pursuit of new opportunities. Journal of Business Venturing, 27(1), 77–94. [https://doi.org/10.1016/j.](https://doi.org/10.1016/j.jbusvent.2010.07.001) [jbusvent.2010.07.001](https://doi.org/10.1016/j.jbusvent.2010.07.001)
+- Tomasello, M. (2022). The evolution of agency: Behavioral organization from lizards to humans. MIT Press.
+- Tversky, B. (2019). Mind in motion: How action shapes thought. Hachette.
+- Van der Meij, H., Blijleven, P., &amp; Jansen, L. (2003). What makes up a procedure? In M. J. Albers, &amp; B. Mazur (Eds.), Content and complexity: Information design in technical communication (pp. 129–186). Lawrence Erlbaum.
+</list>
+
+</page>
+<page number="33">
+<text page="33" section="References" source="author" id="/page/32/Text/1">
+Venkataraman, S. (1997). The distinctive domain of entrepreneurship research: An editor's perspective. In J. Katz, &amp; R. Brockhaus (Eds.), Advances in entrepreneurship, firm emergence, and growth (pp. 119–138). Greenwich, CT: JAI Press.
+</text>
+
+<list page="33" section="References" source="author" id="/page/32/ListGroup/89">
+- Vogel, P. (2017). From venture idea to venture opportunity. Entrepreneurship Theory and Practice, 41(6), 943–971. [https://doi.org/10.1111/etap.12234](https://doi.org/10.1111/etap.12234)
+- Wittgenstein, L. (1953). Philosophical investigations. Blackwell.
+- Wright, P. (1981). The instructions clearly state, can't people read? Applied Ergonomics, 12(3), 131–141, [https://doi.org/10.1016/0003-6870(81)90002-8](https://doi.org/10.1016/0003-6870(81)90002-8)
+- Yuthas, K., Dillard, J. F., &amp; Rogers, R. K. (2004). Beyond agency and structure: Triple-loop learning. Journal of Business Ethics, 51(2), 229–243. [https://doi.org/10.1023/b:busi.](https://doi.org/10.1023/b:busi.0000033616.14852.82) [0000033616.14852.82](https://doi.org/10.1023/b:busi.0000033616.14852.82)
+</list>
+
+</page>
+</paper>

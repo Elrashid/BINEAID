@@ -1,0 +1,856 @@
+<paper source_file="A3.R14" title="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" total_pages="10" figures="3" figures_with_images="3">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 3 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/2" image="A3.R14_fig01.jpg">[FIGURE: see A3.R14_fig01.jpg]</figure>
+
+
+<heading page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/SectionHeader/3" level="1">
+# Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems
+</heading>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/4">
+Amneh Alamleh, O. S. Albahri, A. A. Zaidan, A. S. Albahri, A. H. Alamoodi, B. B. Zaidan, Sarah Qahtan, H. A. Alsatar, Mohammed S. Al-Samarraay, and Ali Najm Jasim
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/5">
+Abstract—Efficient evaluation for machine learning (ML)based intrusion detection systems (IDSs) for federated learning (FL) in the Internet of Medical Things (IoMTs) environment falls under the standardisation and multicriteria decision-making (MCDM) problems. Thus, this study is developing an MCDM framework for standardising and benchmarking the ML-based IDSs used in the FL architecture of IoMT applications. In the methodology, firstly, the evaluation criteria of ML-based IDSs are standardised using the fuzzy Delphi method (FDM). Secondly, the evaluation decision matrix (DM) is formulated based on the intersection of standardised evaluation criteria and a list of ML-based IDSs. Such formulation is achieved using a dataset with 125,973 records, and each record comprises 41 features. Thirdly, the integration of MCDM methods is formulated to determine the importance weights of the main and sub standardised security and performance criteria, followed by benchmarking and selecting the optimal ML-based IDSs. In this phase, the Borda voting method is used to unify the different ranks and perform a group benchmarking context. The following results are confirmed. (1) Using FDM, 17 out of 20 evaluation criteria (14 for security and 3 for performance) reach the consensus of experts. (2) The area under curve criterion has the lowest set of weights, whilst the CPU time criterion has the highest one. (3) VIKOR group ranking
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/6">
+Manuscript received 24 December 2021; revised 6 February 2022, 27 February 2022, and 31 March 2022; accepted 10 April 2022. Date of publication 13 April 2022; date of current version 6 February 2023. (Corresponding author: O. S. Albahri.)
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/7">
+Amneh Alamleh, O. S. Albahri, A. H. Alamoodi, H. A. Alsatar, and Mohammed S. Al-Samarraay are with the Department of Computing, Universiti Pendidikan Sultan Idris, Perak 35900, Malaysia (e-mail: amneh@alamleh.net; osamah@fskik.upsi.edu.my; alamoodi@fskik.upsi.edu.my; alsatar@fskik.upsi.edu.my; mohammed.mahmoud@qnet.net)
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/8">
+Á. A. Zaidan was with the Faculty of Engineering and IT, The British University in Dubai, Dubai, United Arab Emirates. He is now with SP Jain School of Global Management, Sydney, Australia (e-mail: amneh@fskik.upsi.edu.my).
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/9">
+A. S. Albahri is with the Informatics Institute for Postgraduate Studies (IIPS), Iraqi Commission for Computers and Informatics (ICCI), Baghdad, Iraq, Taiwan (e-mail: ahmed.bahri1978@gmail.com).
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/10">
+B. B. Zaidan is with Future Technology Research Center, National Yunlin University of Science and Technology, Yunlin 64002, Taiwan (e-mail: zaidanbb@yuntech.edu.tw).
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/11">
+Ali Najm Jasim is with the Foundation of Alshuhda, Baghdad, Iraq (e-mail: najem@fskik.upsi.edu..my).
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/12">
+Sarah Qahtan is with the Computer Center, College of Health and Medical Technology, Middle Technical University, Baghdad, Iraq (e-mail: sarahq@fskik.upsi.edu..my).
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/13">
+Digital Object Identifier 10.1109/JBHI.2022.3167256
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/14">
+shows that the BayesNet is a best classifier, whilst SVM is the last choice. For evaluation, three assessments, namely, systematic ranking, computational cost and comparative analysis, are used.
+</text>
+
+<text page="1" section="Federated Learning for IoMT Applications: A Standardization and Benchmarking Framework of Intrusion Detection Systems" source="author" id="/page/0/Text/15">
+Index Terms—Intrusion detection systems, federate learning, internet of medical things, machine learning, multicriteria decision making.
+</text>
+
+
+<heading page="1" section="I. INTRODUCTION" source="author" id="/page/0/SectionHeader/16" level="2">
+## I. INTRODUCTION
+</heading>
+
+<text page="1" section="I. INTRODUCTION" source="author" id="/page/0/Text/17">
+HE real-time intrusion detection system (IDS) is a common cyber security development to deal with the major issues of information and system security through detecting the malicious activity of host and/or network environments. As the network complexity increases, network systems become more vulnerable to various security problems, including intrusions.
+</text>
+
+<text page="1" section="I. INTRODUCTION" source="author" id="/page/0/Text/18">
+A network or computer intrusion is described as an attempt to violate the security of a network or computer, such as a breach of confidentiality, integrity or availability [1]. Recently,
+</text>
+
+<text page="1" section="I. INTRODUCTION" source="author" id="/page/0/Text/19">
+IDS faces significant major challenges from several perspectives: the massive size of network traffic data, high-dimensional training dataset, frequent alterations in environments, changing nature of intrusions and the need for real-time detections. A tremendous amount of detection methods and strategies have been proposed to overcome these challenges; machine learning (ML) method is one of the most common [2]. ML techniques allow the IDS to generate baselines of trustworthy activity known as the trust model [3]. IDS uses different techniques for detecting anomalies. Developing reliable IDS is critical for effectively mitigating various sorts of threats to efficiently mitigate different types of attacks [4]. Therefore, ML technologies are being utilised for the detection of attacks and system design of effective IDS. ML techniques, especially shallow models, have improved significantly in recent years and are now widely used in various fields [5], including healthcare systems. Numerous ML models have been applied to current IDSs to improve IDS research and boost detection rates whilst decreasing false alarm rates and processing costs [6]. For instance, [6] used ML techniques with IDS to learn from traffic (normal/up normal), and the model's training process was performed on the dataset to discover patterns indicative of malicious traffic. ML models have been successfully used for IDS research because of their superior features for detecting intrusion. However, they frequently necessitate a
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/2">
+central authority to process the data acquired from all network users. The prediction accuracy decreases as the network scales due to the high packet loss rate associated with this centralisation requirement.
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/3">
+The Internet of Medical Things (IoMT) is a collection of software applications and medical devices which can be connected via networking technologies to healthcare services and information systems[7], [8]. IoMT is playing an essential part in the healthcare industry by increasing electronic device accuracy, reliability and productivity. IoMT enables safe communication between wireless and remote devices over the Internet [9], which allows faster and more flexible monitoring of medical information. According to a recent Deloitte survey, the global IoMT market would grow from $41 billion in 2017 to $158 billion by 2022 [10]. Certain IoMT devices can generate huge amounts of health data (e.g., sleep monitoring with EEG and EMG signals) through the use of sensors [11]. IoMT demands a complete security infrastructure built on effective and efficient IDS due to the sensitivity and stringent rules surrounding healthcare data (e.g., health information gathered by sensors) [12]. Attacks on IoMT can potentially cause significant physical harm and life-threatening damage to the patients introducing multitude of security and privacy concerns. Therefore, IDS is necessary to secure the network of connected medical devices, hospital network topology and medical centres.
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/4">
+By contrast, Google presented the notion of federated learning (FL) to enable mobile device training whilst preserving privacy [13]. FL is a distributed ML technique which trains models on a huge corpus of decentralised data. FL fundamental is an example of a broader concept of 'bringing the code to the data, rather than the data to the code', which solves the fundamental issues of data ownership, privacy and localisation [14]. A central entity is unnecessary for FL to work because FL provides collaborative learning between devices without the necessity for data sharing [15], wherein ML models can be trained on data distributed across multiple servers and devices [16]. FL is fundamentally composed of two steps: local learning and model transmission; both of which are designed to assure data privacy and cost reduction [17]. In each round, the FL server selects a group of clients to engage in the learning process and provides them with the current global model. Each round in the FL server begins with selecting a group of clients to engage in the learning process and provides them with the current global model [18]. After the global model is obtained, each client trains the model locally using their own data. These clients would then transmit their newly constructed models to the FL server to aggregate them. This procedure is repeated several times until the desired result is obtained. In this context, the clients can profit from others' data without sharing personal information with the FL server [19]. Thus, many researchers have examined the application of FL in various scenarios involving sensitive data, such as developing predictive models for health diagnosis and fostering collaboration between different hospitals [20], [21]. Fig. 1 illustrates the heterogeneity of IDS implementations for FL utilising many IoMT applications and traffic.
+</text>
+
+<figure_group page="2" section="I. INTRODUCTION" source="author" id="/page/1/FigureGroup/298">
+<figure page="2" section="I. INTRODUCTION" source="author" id="/page/1/Figure/5" image="A3.R14_fig02.jpg">[FIGURE: see A3.R14_fig02.jpg]</figure>
+<caption page="2" section="I. INTRODUCTION" source="author" id="/page/1/Caption/6">
+Fig. 1. Heterogeneity of IDS deployments for FL utilising various IoMT applications and traffic.
+</caption>
+</figure_group>
+
+
+<heading page="2" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/1/SectionHeader/7" level="2">
+## II. CHALLENGES OF IDS FOR FL IN IOMT
+</heading>
+
+<text page="2" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/1/Text/8">
+Using IDS for FL to identify anomalies in local IoMT devices has been recommended by researchers. As a result, the addition of IDS to FL enables ML to deliver customised protection mechanisms for various networks and IoMT devices. Furthermore, it alleviates the computational load on the central processing server, optimises bandwidth use, protects the privacy of health data and manages various health data communications. However, FL does not ensure privacy when malicious servers or users are present. Protecting sensitive health information, such as medical records, is challenging [22].
+</text>
+
+<text page="2" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/1/Text/9">
+Recent studies have demonstrated unequivocally that malicious users may exist in FL and can infer the patients' healthcare information merely from the shared models [23]. Consequently, FL security and privacy concerns, particularly in the context of IoMT applications, would demand additional consideration via the use of IDS [24]. Potentially malicious healthcare institutions might inject ML models with incorrect or fake data, which causes the trained model to provide incorrect predictions by misclassifying the healthcare institution's economic losses and authorising its operation as normal. A lack of trust between parties or a secure communication channel for transmitting the local ML model updates is a typical concern in the attacks. Various protocols, service types, source/destination IP addresses and more are usually included in an IDS. If these data are transferred through open communication channels or even insecure routes, then it could be disastrous to the users and the server given that they might have a direct effect on people's lives [25]. Compared with data stored permanently on the device, the data in transit are unprotected by the device's security mechanisms [21]. Several IDS studies presented plausible implementation solutions associated with the identified challenges using ML models [24], [26]. Unexpectedly, numerous studies on IDS are offered to keep up with advancements in security issues.
+</text>
+
+</page>
+<page number="3">
+<table_group page="3" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/2/TableGroup/165">
+<caption page="3" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/2/Caption/2">
+TABLE I RELATED STUDIES
+</caption>
+<table page="3" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/2/Table/3">
+| Ref. | Objective | Evaluation criteria | Standardisation |
+| --- | --- | --- | --- |
+| Security | Performance |
+| [31] | AHP was used to evaluate and compare different neural networks (NNs) to be used in the IDS. Five artificial NNs were evaluated and ranked based on four evaluation criteria. | True positive rate, false positive rate, false negative rate | Training time | × |
+| [32] | A fusion approach of four MADM ranking methods (TOPSIS, VIKOR, PROMETHEE II and WSM) was proposed for multiclass classification algorithm ranking. IDS KDD99 was one of the four tested scenarios. The algorithms were evaluated based on two evaluation criteria. | Accuracy (Acc) | Training time | × |
+| [33] | The goal was to evaluate and rank several machine learning algorithms using PROMETHEE method whilst reducing type I and type II errors, increasing precision and recall and retaining detection accuracy. They used 10 algorithms trained on three datasets (LLS-DDoS, CAIDA and CONFICKER) to detect DDoS attacks and then assessed these algorithms using five evaluation criteria. | Accuracy, detection rate, false positive rate, false negative rate, precision | × | × |
+| [34] | TOPSIS ranking method was adopted to evaluate and rank J48 group of classifiers. They evaluated the selected set of classifiers using binary and multiclass intrusion detection datasets (ISCXIDS2012, NSL-KDD) across 11 evaluation criteria. | Accuracy, true positive rate, false positive rate, precision, f-score, incorrectly classified, mean absolute error, root mean squared error, relative absolute error, root relative squared error | Training time | × |
+| [29] | Adopted TOPSIS to rank eight classifiers. A total of 10 evaluation criteria were used along with NSL-KDD dataset to build the decision matrix. For criteria importance, the author used equal weight of (0.1) for each criterion. | Accuracy, incorrectly classified, true positive rate, false positive rate, precision, F-Measure, mean absolute error, root mean squared error, relative absolute error, root relative squared error. | × | × |
+</table>
+</table_group>
+
+<text page="3" section="II. CHALLENGES OF IDS FOR FL IN IOMT" source="author" id="/page/2/Text/4">
+Many ML-based IDSs are available, and this fact can be found in the literature [26]–[29]. However, the increase in the internet applications of FL resulted in more sophisticated attacking strategies, which required the answer to the question '*What is the* *better IDS system which can serve the FL for IoMT applications* *and health data privacy preservation?*' [27]. To our knowledge, no study has been presented to IDSs for FL in IoMT applications.
+</text>
+
+
+<heading page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/SectionHeader/5" level="2">
+## III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS
+</heading>
+
+<text page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/Text/6">
+The IDS faced a wide variety of limitations and needed to compromise for resolving the trade-off between the performance and security aspects [28]. Selecting the best IDS classifier is critical because it improves the security of the computer networks and healthcare information systems and provides comprehensive information to IoMT developers, which can help manufacture effective and efficient versions of IDSs. According to the huge number of developed supervised ML-based IDS studies, this field continuously faces a major challenge in the evaluation of ML classification models used in IDSs because of the discussed evaluation criteria of security and performance [29], [30]. Table I shows the related studies of evaluation and benchmarking of ML-based IDSs.
+</text>
+
+<text page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/Text/7">
+On the basis of different evaluation criteria in the academic literature, the authors attempted to evaluate different classification models used in the IDS to select the best one. The literature analysis shows no agreement on which criteria are the most suitable in evaluating IDS classifiers because the current studies depend on a single incomplete aspect [35]. Each study conducted numerous evaluations based on a set of security criteria, and the majority of studies overlooked performance. To our knowledge, no exclusive study presented a reliable benchmarking solution of IDS classifiers based on the standardised
+</text>
+
+<table_group page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/TableGroup/166">
+<caption page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/Caption/8">
+TABLE II NOTIFICATIONS
+</caption>
+<table page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/Table/9">
+| Notation | Meaning | Eq. no. |
+| --- | --- | --- |
+| d | Distance between every two fuzzy numbers | 1 |
+| m1 | Average minimum fuzzy value | 1 |
+| m3 | Average maximum fuzzy value | 1 |
+| n1 | Minimum fuzzy value for criterion n | 1 |
+| m | Average of fuzzy values for criterion n | 1 |
+| m2 | Average of most appropriate fuzzy value | 1 |
+| n | Number of criteria | 1 |
+| n2 | Most appropriate fuzzy value for criterion n | 1 |
+| n3 | Maximum fuzzy value for criterion n | 1 |
+| A | Defuzzification value | 2 |
+| xij | Decision matrix of i classifiers, j criteria | 3 |
+| r_{ij} | Matrix on normalised values of decision matrix x_{ij} | 3 |
+| e_j | Entropy value for criterion j | 5 |
+| f_{ij} | Value of criteria ij in normalised matrix r_{ij} | 5 |
+| w_j | Calculated weight for criterion j | 6 |
+| n | n is the criteria number | 6 |
+| f^*_i | Best value of criterion i | 7 |
+| f^-_i | Worst value of criterion i | 7 |
+| WM | Weighted matrix | 9 |
+| S_j | Sum of all criteria values for classifier j | 11 |
+| R_j | Maximum value of S_j | 12 |
+| S^* | Minimum value of S_j | 13 |
+| v | Maximum group utility; v = 0.5. | 13 |
+| Q_j | Score for each ML-based IDS classification model | 13 |
+| S^- | Maximum value of S_j | 13 |
+| R^- | Maximum value of R_j | 13 |
+</table>
+</table_group>
+
+<text page="3" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/2/Text/10">
+evaluation for FL. Three significant issues could be encountered in providing a comprehensive evaluation solution for IDS classifiers. Firstly, several evaluation criteria must be considered whilst taking the most suitable ones based on standardisation procedure [36]. Secondly, the evaluation criteria do not have the same importance; thus, properly increasing the significance of some standardised criteria and reducing others are necessary in the evaluation process of IDS classifiers [37]. Thirdly, criteria conflict/trade-off should be considered. According to the discussed issues, the evaluation and benchmarking of IDS classification models fall under standardisation and complex
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="III. RELATED WORKS FOR BENCHMARKING OF ML-BASED IDS" source="cited" id="/page/3/Text/2">
+multicriteria decision-making (MCDM) problems. For eliminating such problem complexity, the fuzzy Delphi method (FDM) [38] must be used to solve the standardisation problem of IDS classifier evaluation criteria and the MCDM approach-based solution is highly recommended to overcome the evaluation and benchmarking problem of IDS classifiers. Several MCDM methods are developed for solving the problem of evaluation and benchmarking in various fields [39], [40]. Vlsekriterijumska Optimizcija I Kaompromisno Resenje (VIKOR) is a frequently used and effective method because it utilises quantitative or qualitative data to select an option from a set of options [39]. However, VIKOR cannot assign weights to the criteria; thus, it requires an external weighing mechanism for this purpose. Evaluating the precise weights of the criteria is essential because it might affect the outcomes of the evaluation and benchmark of IDS classifiers. Determining the weights subjectively using the direct rating method is suitable due to the limited number of the main evaluation criteria of IDS classifiers (i.e., security and performance) [41]. The reason is that it has a considerable reputation in simulating human decision for weighing the limited criteria numbers. However, the most common objective weighted method called entropy weighting method [42] is a proper solution for obtaining importance degrees to each subcriterion because it is overly difficult for the experts to determine the degree of preference between the sub-criteria subjectively due to the huge numbers of sub-evaluation criteria of IDS classifiers. Thus, considering the FL for IoMT applications, this study aims to develop a standardisation and benchmarking framework of IDSs using the integration of direct rating and entropy and VIKOR methods.
+</text>
+
+
+<heading page="4" section="IV. METHODOLOGY" source="author" id="/page/3/SectionHeader/3" level="2">
+## IV. METHODOLOGY
+</heading>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/4">
+Phase I: Standardisation of evaluation criteria based on FDM This phase presents the determination process of evaluation criteria standardisation using FDM. Fifteen security evaluation criteria and five performance evaluation criteria of IDS classification models are collected from the literature. These criteria need to be standardised by experts to determine which are essential and should be used in evaluating and benchmarking IDS classification models. The steps of FDM are explained as follows [43]:
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/5">
+Step1: Expert selection
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/6">
+The authors have selected and contacted three professional experts from the field of IDS research and development to obtain their opinion for examining and finding the most important set of evaluation criteria.
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/7">
+Step 2: Design expert form
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/8">
+The expert form was developed and used for the experts' opinion data collection following the structure and design of studies [44], [45]. Such questionnaire contains information on the research conducted, information on the expert and evaluation criteria of the IDS classification models.
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/9">
+Step 3: Expert form dissemination and data collection
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/10">
+The developed expert form was disseminated to the experts by broadcasting the form URL by email. The experts were asked to assess the evaluation criteria regarding their importance in the security and performance groups.
+</text>
+
+<table_group page="4" section="IV. METHODOLOGY" source="author" id="/page/3/TableGroup/243">
+<caption page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Caption/11">
+TABLE III
+LINGUISTIC VARIABLES OF THE AGREEMENTS
+</caption>
+<table page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Table/12">
+| Linguistic variables | Likert scale | Fuzzy scale |
+| --- | --- | --- |
+| Strongly agree | 5 | 0.6 | 0.8 | 1 |
+| Agree | 4 | 0.4 | 0.6 | 0.8 |
+| Not sure | 3 | 0.2 | 0.4 | 0.6 |
+| Disagree | 2 | 0.0 | 0.2 | 0.4 |
+| Strongly disagree | 1 | 0.0 | 0.0 | 0.2 |
+</table>
+<caption page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Caption/13">
+Step 4: Conversion to fuzzy scale
+</caption>
+</table_group>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/14">
+Linguistic variables were translated to triangular fuzzy numbers (m1, m2, m3). In the present study, a five-point Likert scale was selected to collect the experts' feedback [34]. Table III shows the linguistic variables for assigning criteria weight by the experts' opinion [46], [47]. Then, the average of the fuzzy numbers was calculated and divided by the experts' number [44].
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/15">
+Step 5: Calculating threshold value
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/16">
+Threshold value (d), which is the distance between every two fuzzy numbers, was calculated based on the vertex method using (1). The value of threshold (d) should be less than or equal to 0.2 \ (d &lt; = 2) as a first condition for accepting any of the evaluation criteria in security and performance groups [44].
+</text>
+
+<equation page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Equation/17">
+$$
+d(m,n) = \sqrt{\frac{1}{3}[(m_1 - n_1)^2 + (m_2 - n_2)^2 + (m_3 - n_3)^2]}
+(1)
+$$
+</equation>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/18">
+Step 6: Computing the expert's consensus
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/19">
+The percentage of the expert's consensus was calculated. It must be greater than/equal to 75%, which may fulfil the second criterion acceptance condition.
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/20">
+Step 7: Defuzzification
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/21">
+The defuzzification process was performed using the following equation:
+</text>
+
+<equation page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Equation/22">
+$$
+A = 1/3 * (m1 + m2 + m3) \tag{2}
+$$
+</equation>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/23">
+In this step, the third condition of criterion acceptance was achieved, wherein the value of (A) should be higher than/equal to the median value (\alpha - cut value) of 0.5 [48]–[50].
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/24">
+Phase II: Decision matrix construction
+</text>
+
+<text page="4" section="IV. METHODOLOGY" source="author" id="/page/3/Text/25">
+The NSL-KDD dataset is presented as a possible solution to some of the KDDCUP'99 dataset's inherent flaws. It contains 125973 records, and each record consists of 41 features. The records are instances of network attacks, including 23 classes: one normal and 22 types of attacks: neptune, warezclient, ipsweep, portsweep, teardrop, nmap, satan, smurf, pod, back, guess passwd, ftp write, multihop, rootkit, buffer overflow, imap, warezmaster, phf, land, loadmodule, spy and perl [51]. Accordingly, the binary classification task is performed; 22 attack types are considered the attack class, whereas the last type (i.e., normal) is considered the normal class. To develop classification models, the dataset is split into two sets: one for training and one for testing. The training set is utilised to train classification models, whereas the test set is used to validate the trained models. Weka tool [52] is used to build 12 different ML classification models and evaluate the security of those models. The Jprofiler tool [53] is used to evaluate those models' performance criteria. The output of such evaluation is considered the input to the decision matrix in the next section. Thus, the proposed decision matrix is constructed on the basis
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="IV. METHODOLOGY" source="author" id="/page/4/Text/2">
+of the intersection of IDS standardised evaluation criteria and ML classification models.
+</text>
+
+<text page="5" section="IV. METHODOLOGY" source="author" id="/page/4/Text/3">
+In this DM, the standardised security evaluation criteria are either benefit criteria (i.e., Acc, TPR, TNR, PPV, F1-score, MCC and AUC) or cost criteria (i.e., FPR, FNR, ICC, MAE, RMSE, RRSE and RAE). All standardised performance evaluation criteria are considered cost criteria (i.e., TraT, CPU time (CPUT) and MU). According to the proposed DM, three issues are created (i.e., multicriteria, criteria importance and conflict/trade-off), as explained in the Introduction section. For overcoming these issues, proposing a decision-making solution is vital to determine the importance of each criterion and benchmark the discussed ML-based IDS classification models for FL.
+</text>
+
+
+<heading page="5" section="Phase III: MCDM development" source="author" id="/page/4/SectionHeader/4" level="3">
+### Phase III: MCDM development
+</heading>
+
+
+<heading page="5" section="1) Direct Rating method" source="author" id="/page/4/SectionHeader/5" level="4">
+#### 1) Direct Rating method
+</heading>
+
+<text page="5" section="1) Direct Rating method" source="author" id="/page/4/Text/6">
+Direct rating is a common and simple subjective weight elicitation method. The weight of the criteria is obtained by asking the expert to rate each criterion by giving a score out of 100 according to how important he thinks it is [54].
+</text>
+
+
+<heading page="5" section="1) Entropy Method" source="author" id="/page/4/SectionHeader/7" level="4">
+#### 1) Entropy Method
+</heading>
+
+<text page="5" section="1) Entropy Method" source="author" id="/page/4/Text/8">
+The entropy method is utilised to calculate the weights of the IDS sub-evaluation criteria objectively. The used notations are presented in Table III.
+</text>
+
+
+<heading page="5" section="Step 1:" source="author" id="/page/4/SectionHeader/9" level="5">
+##### Step 1:
+</heading>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/10">
+The normalisation decision matrix was determined. The data were normalised according to (3) in the case of benefit criteria, whilst (4) was used to normalise the cost criteria.
+</text>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/11">
+$$
+r_{ij} = \frac{x_{ij}}{\max_j x_{ij}}, \quad (i = 1, \dots, m; j = 1, \dots, n) \tag{3}r_{ij} = \frac{\min_j x_{ij}}{x_{ij}}, \quad \min_j x_{ij} \neq 0,
+$$
+</equation>
+
+
+<heading page="5" section="(i = 1,\ldots, m; j = 1,\ldots, n)" source="author" id="/page/4/SectionHeader/12" level="5">
+##### (i = 1,\ldots, m; j = 1,\ldots, n)
+</heading>
+
+
+<heading page="5" section="Step 2:" source="author" id="/page/4/SectionHeader/13" level="5">
+##### Step 2:
+</heading>
+
+<text page="5" section="Step 2:" source="author" id="/page/4/Text/14">
+The following equation computes entropy of information (e_i).
+</text>
+
+<equation page="5" section="Step 2:" source="author" id="/page/4/Equation/15">
+$$
+e_j = -\frac{\sum_{i=1}^m f_{ij} \ln f_{ij}}{\ln m} (i = 12, \dots, m \text{ and } j = 12, \dots, n) (5)
+$$
+</equation>
+
+<text page="5" section="Step 2:" source="author" id="/page/4/Text/16">
+where:
+</text>
+
+<equation page="5" section="Step 2:" source="author" id="/page/4/Equation/17">
+$$
+f_{ij} = \frac{r_{ij}}{\sum_{i=1}^{m} r_{ij}} and 0 &lt; e_j &lt; 1
+$$
+</equation>
+
+<text page="5" section="Step 2:" source="author" id="/page/4/Text/18">
+If f_{ij} are all the same, then the entropy values of each criterion are the maximum (e_j = 1). If f_{ij} is 0, then f_{ij} ln f_{ij} is 0.
+</text>
+
+
+<heading page="5" section="Step 3:" source="author" id="/page/4/SectionHeader/19" level="5">
+##### Step 3:
+</heading>
+
+<text page="5" section="Step 3:" source="author" id="/page/4/Text/20">
+Each criterion weight (w_j) was determined using the entropy way, which indicates the importance degree of the criteria in the proposed framework.
+</text>
+
+<equation page="5" section="Step 3:" source="author" id="/page/4/Equation/21">
+$$
+w_j = \frac{1 - e_j}{n - \sum_{i=1}^m e_j}, \text{ where } \sum_{j=1}^n w_j = 1 (6)
+$$
+</equation>
+
+<text page="5" section="Step 3:" source="author" id="/page/4/Text/22">
+where n is the criteria number.
+</text>
+
+
+<heading page="5" section="1) VIKOR method" source="author" id="/page/4/SectionHeader/23" level="4">
+#### 1) VIKOR method
+</heading>
+
+<text page="5" section="1) VIKOR method" source="author" id="/page/4/Text/24">
+VIKOR steps are used to benchmark various ML-based IDS classification models for FL [55]:
+</text>
+
+
+<heading page="5" section="Step 1:" source="author" id="/page/4/SectionHeader/25" level="5">
+##### Step 1:
+</heading>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/26">
+The best f^*i and worst f^-i values of each criterion functions, i=1;\;2;\;\ldots;n, were identified. If i function represents a benefit criterion, then (7) was used, whilst (8) was used for a cost criterion.
+</text>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/27">
+$$
+f_i^* = \max f_{ij}, \ f_i^- = \min f_{ij} (7)
+$$
+</equation>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/28">
+$$
+f_i^* = \min f_{ij}, \ f_i^- = \max f_{ij} (8)
+$$
+</equation>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/29">
+Step 2:
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/30">
+As mentioned before, the set of weights (w=w_1\;,\;w_2,\;w_3\;,\cdots,w_j,\cdots,\;w_n) were calculated based on direct rating and entropy methods, and it was accommodated in the decision matrix to produce the weighted matrix. The resulting weighted matrix (\mathit{WM}) was calculated as the following equations:
+</text>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/31">
+$$
+WM = wi*(f^*i - fij) / (f^*i - f^-i) 
+(9)
+$$
+</equation>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/32">
+$$
+w_1 \frac{f^*_1 - f_{11}}{f^*_1 - f^{-1}} \dots w_i \frac{f^*_i - f_{ij}}{f^*_i - f^{-i}}w_1 \frac{f^*_1 - f_{21}}{f^*_1 - f^{-1}} \dots w_i \frac{f^*_i - f_{ij}}{f^*_i - f^{-i}}\vdots \qquad \vdots \qquad \vdotsw_1 \frac{f^*_1 - f_{31}}{f^*_1 - f^{-1}} \dots w_i \frac{f^*_i - f_{ij}}{f^*_i - f^{-i}} \tag{10}
+$$
+</equation>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/33">
+Step 3:
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/34">
+The values of Sj and Rj were calculated, (j = 12, 3..., J,  and  (i = 12, 3, ..., n),  using (11) and (12):
+</text>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/35">
+$$
+Sj = \sum_{i=1}^{n} wi * \frac{f^*i - fij}{f^*i - f^-i},  (11)
+$$
+</equation>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/36">
+$$
+Rj = \max_{i} wi * \frac{f^*i - fij}{f^*i - f^-i}  (12)
+$$
+</equation>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/37">
+Step 4:
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/47">
+(4)
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/38">
+The Qj value, j=(12,\cdots,J) , was calculated, which presents the score for each ML-based IDS classification model.
+</text>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/39">
+$$
+Q_{\rm j} = \frac{{\rm v}\left(S_{\rm j} - S^*\right)}{S^- - S^*} + \frac{\left(1 - {\rm v}\right)\left(R_{\rm j} - R^*\right)}{R^- - R^*},\tag{13}
+$$
+</equation>
+
+<equation page="5" section="Step 1:" source="author" id="/page/4/Equation/40">
+$$
+where S^* = \min_j S_j , S^- = \max_j S_j , R^* = \min_j R_j , R^- = \max_j R_j .
+$$
+</equation>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/41">
+v is presented as the weight of the strategy of 'the majority of the criteria' (or 'the maximum group utility'); the value of v\,=\,0.5.
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/42">
+Step 5:
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/43">
+In this step, the benchmarking of ML-based IDS classifiers for FL was achieved by ordering the \mathcal{Q} values in ascending order. The lowest value refers to the ideal performance.
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/44">
+Unified Benchmarking of ML-Based IDS Classification Models
+</text>
+
+<text page="5" section="Step 1:" source="author" id="/page/4/Text/45">
+A group decision-making context is performed using the Borda voting method. This way can eliminate the variation in benchmarking because of individual VIKOR ranks, which are considered final and unified benchmarking results of ML-based IDS classification models. Practically, points in the Borda
+</text>
+
+</page>
+<page number="6">
+<table_group page="6" section="Step 1:" source="author" id="/page/5/TableGroup/155">
+<caption page="6" section="Step 1:" source="author" id="/page/5/Caption/2">
+TABLE IV FDM RESULTS OF CRITERIA DETERMINATION
+</caption>
+<table page="6" section="Step 1:" source="author" id="/page/5/Table/3">
+|  | Criteria | d value | Fuzzy score | Percentage of Each Item (d ≤ 0.2) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Security aspect criteria | Acc | 0.128 | ✓ | 0.688 | ✓ | 93% | ✓ |
+| TPR | 0.097 | ✓ | 0.631 | ✓ | 93% | ✓ |
+| TNR | 0.053 | ✓ | 0.614 | ✓ | 93% | ✓ |
+| NPV | 0.101 | ✓ | 0.460 | ✕ | 93% | ✓ |
+| PPV | 0.102 | ✓ | 0.543 | ✓ | 93% | ✓ |
+| F-score | 0.106 | ✓ | 0.586 | ✓ | 79% | ✓ |
+| AUC | 0.133 | ✓ | 0.519 | ✓ | 79% | ✓ |
+| MCC | 0.141 | ✓ | 0.502 | ✓ | 79% | ✓ |
+| FPR | 0.121 | ✓ | 0.631 | ✓ | 86% | ✓ |
+| FNR | 0.098 | ✓ | 0.629 | ✓ | 86% | ✓ |
+| ICC | 0.106 | ✓ | 0.586 | ✓ | 79% | ✓ |
+| MAE | 0.106 | ✓ | 0.586 | ✓ | 79% | ✓ |
+| RMSE | 0.136 | ✓ | 0.531 | ✓ | 79% | ✓ |
+| RRSE | 0.141 | ✓ | 0.517 | ✓ | 79% | ✓ |
+| RAE | 0.136 | ✓ | 0.531 | ✓ | 79% | ✓ |
+| Performance aspect criteria | TesT | 0.132 | ✓ | 0.602 | ✓ | 64% | ✕ |
+| TraT | 0.130 | ✓ | 0.619 | ✓ | 86% | ✓ |
+| CPUT | 0.114 | ✓ | 0.595 | ✓ | 79% | ✓ |
+| CPUU | 0.126 | ✓ | 0.617 | ✓ | 57% | ✕ |
+| MU | 0.079 | ✓ | 0.588 | ✓ | 93% | ✓ |
+</table>
+</table_group>
+
+<text page="6" section="Step 1:" source="author" id="/page/5/Text/4">
+method are assigned to classification models based on their ranking; the worst/last ranked ML model receives 1 point, the second worst ML model gets 2 points and so on. Points are awarded to first, second, ..., last classifiers as per (n,\ n-1,\ \dots,\ 1) [56]. Then, the points were aggregated for each classifier. Lastly, the IDS classifiers were sorted in descending order based on the calculated points.
+</text>
+
+
+<heading page="6" section="V. RESULTS" source="author" id="/page/5/SectionHeader/5" level="2">
+## V. RESULTS
+</heading>
+
+
+<heading page="6" section="A. Standardisation of Evaluation Criteria Based on FDM Results" source="author" id="/page/5/SectionHeader/6" level="3">
+### A. Standardisation of Evaluation Criteria Based on FDM Results
+</heading>
+
+<text page="6" section="A. Standardisation of Evaluation Criteria Based on FDM Results" source="author" id="/page/5/Text/7">
+This section presents the evaluation criteria standardisation results based FDM steps mentioned previously, as shown in Table IV. On the basis of these conditions, 17/20 criteria are accepted. NPV does not receive the adequate fuzzy score of 0.460/0.5. Testing time (TesT) and CPU usage do not obtain a sufficient consensus percentage (75%). The accepted criteria (Acc, TPR, TNR, PPV, F-score, AUC, MCC, FPR, FNR, ICC, MAE, RMSE, RRSE, RAE, TraT, CPUT and MU) are used to construct the decision matrix in the next section.
+</text>
+
+
+<heading page="6" section="B. Benchmarking Results" source="author" id="/page/5/SectionHeader/8" level="3">
+### B. Benchmarking Results
+</heading>
+
+<text page="6" section="B. Benchmarking Results" source="author" id="/page/5/Text/9">
+To start with the benchmarking process, the constricted evaluation DM is presented in Table V. This DM contains the values of standardised criteria under running 12 IDS classifiers. The main security and performance criteria are weighted subjectively using the direct rating based on the three experts' degree of
+</text>
+
+<figure page="6" section="B. Benchmarking Results" source="author" id="/page/5/Figure/10" image="A3.R14_fig03.jpg">[FIGURE: see A3.R14_fig03.jpg]</figure>
+
+<figure_group page="6" section="B. Benchmarking Results" source="author" id="/page/5/FigureGroup/156">
+<figure page="6" section="B. Benchmarking Results" source="author" id="/page/5/Figure/11" image="A3.R14_fig04.jpg">[FIGURE: see A3.R14_fig04.jpg]</figure>
+<caption page="6" section="B. Benchmarking Results" source="author" id="/page/5/Caption/12">
+Fig. 2. Ranking results in individual and group contexts.
+</caption>
+</figure_group>
+
+<text page="6" section="B. Benchmarking Results" source="author" id="/page/5/Text/13">
+preference by providing direct scores, as explained previously. Then, sub-criteria weights are calculated objectively using the entropy method described in the methodology section. The entropy weight is scaled via direct rating weights, which results in three different sets of integrated weights (IW1, IW2, IW3), as illustrated in Table VI. The calculated integrated weights show that, across the three sets of integrated weights (IW1, IW2 and IW3), MU has the lowest scores with 0.075, 0.125 and 0.15 in the performance aspect, whilst CPUT has the highest score with 0.118, 0.196 and 0.235. However, for the security aspect, a consensus indicates that AUC has the lowest score with values of 0.036, 0.025 and 0.020. By contrast, MAE and ICC have similar highest weight values of 0.074, 0.053 and 0.042. On the overall weights in the two aspects, AUC has the lowest weight and CPUT has the highest weight regarding the integrated weight sets. These final integrated weights are fed for rank calculation using the VIKOR method.
+</text>
+
+<text page="6" section="B. Benchmarking Results" source="author" id="/page/5/Text/14">
+Alternative ranks in the VIKOR method are determined on the basis of the Q value for each alternative. A lower Q value indicates a better rank, whilst a higher value indicates a worse rank. Table VII shows the results of individual VIKOR context.
+</text>
+
+<text page="6" section="B. Benchmarking Results" source="author" id="/page/5/Text/15">
+The ranks based on individual context may vary. On the Q value, a consensus is reached with regard to four classifiers (i.e., 4/12), which are equivalent to 33%, but ranking results vary for the eight remaining classifiers with 66.66%. For instance, the first classifier is ranked tenth based on the first and second weights, but it is placed eighth rank based on the third weight. Thus, unifying the different ranks of all 12 classifiers and producing group results using the Borda method are essential, as presented in Table VII and Fig. 2.
+</text>
+
+<text page="6" section="B. Benchmarking Results" source="author" id="/page/5/Text/16">
+The Borda voting method is used to unify the three different individual ranks. The unified ranks are calculated by the addition of Borda scores. The alternatives (IDS classifiers) are arranged in descending order by the sum of the scores, whilst the classifier with the highest sum is the best and ranked as the first option. On the basis of the sum of the Borda scores, the BayesNet classifier obtained the highest score at (36), wherein it ranks first as the best choice. Bagging+random forest and SMO obtains the next highest rank with the sum of (31) points. The last classifier is SVM with the lowest points (3), which indicates that it is the worst classifier based on the VIKOR group ranking context.
+</text>
+
+
+<heading page="6" section="VI. EVALUATION" source="author" id="/page/5/SectionHeader/17" level="2">
+## VI. EVALUATION
+</heading>
+
+
+<heading page="6" section="A. Systematic Ranking" source="author" id="/page/5/SectionHeader/18" level="3">
+### A. Systematic Ranking
+</heading>
+
+<text page="6" section="A. Systematic Ranking" source="author" id="/page/5/Text/19">
+We separate the classifiers into several groups based on their rank order to evaluate the proposed framework. This assessment
+</text>
+
+</page>
+<page number="7">
+<table_group page="7" section="A. Systematic Ranking" source="author" id="/page/6/TableGroup/112">
+<caption page="7" section="A. Systematic Ranking" source="author" id="/page/6/Caption/2">
+TABLE V DECISION MATRIX
+</caption>
+<table page="7" section="A. Systematic Ranking" source="author" id="/page/6/Table/3">
+| CriteriaClassifiers | Security criteria | Performance criteria |
+| --- | --- | --- |
+| Acc | TPR | TNR | PPV | F1-score | AUC | MCC | FPR | FNR | ERR | MAE | RMS | RRS | RAE | TraT | CPUT | MU |
+| Naïve Bayes Updateable | 90.52 | 0.87 | 0.94 | 0.93 | 0.89 | 0.97 | 0.81 | 0.06 | 0.13 | 9.48 | 0.10 | 0.30 | 60.92 | 19.12 | 1.30 | 10.27 | 512.75 |
+| NN (RBF) | 97.92 | 0.97 | 0.99 | 0.99 | 0.98 | 0.99 | 0.96 | 0.01 | 0.03 | 2.08 | 0.04 | 0.14 | 27.54 | 7.37 | 4.03 | 4.05 | 866240079.00 |
+| NN (MLP) | 98.58 | 0.98 | 0.99 | 0.99 | 0.98 | 1.00 | 0.97 | 0.01 | 0.02 | 1.42 | 0.02 | 0.11 | 22.68 | 3.68 | 6538.23 | 6539.23 | 617868742.50 |
+| BayesNet | 97.10 | 0.95 | 0.99 | 0.99 | 0.97 | 1.00 | 0.94 | 0.01 | 0.05 | 2.90 | 0.03 | 0.16 | 32.46 | 6.43 | 4.43 | 4.49 | 512.75 |
+| J48 | 99.75 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 0.99 | 0.00 | 0.00 | 0.25 | 0.00 | 0.05 | 9.65 | 0.74 | 16.07 | 16.08 | 1894187632.00 |
+| Bagging +Random Forest | 99.91 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.09 | 0.00 | 0.03 | 5.86 | 0.66 | 374.95 | 378.57 | 1346975399.00 |
+| NaiveBays | 90.52 | 0.87 | 0.94 | 0.93 | 0.89 | 0.97 | 0.81 | 0.06 | 0.13 | 9.48 | 0.10 | 0.30 | 60.92 | 19.12 | 0.75 | 3.75 | 651369303.00 |
+| Random Forest | 99.91 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 1.00 | 0.00 | 0.00 | 0.09 | 0.00 | 0.03 | 5.60 | 0.56 | 46.48 | 46.71 | 1623195648.00 |
+| AdeboostM1 | 94.53 | 0.93 | 0.96 | 0.95 | 0.94 | 0.99 | 0.89 | 0.04 | 0.07 | 5.47 | 0.08 | 0.19 | 38.53 | 15.86 | 15.62 | 15.62 | 1284352150.00 |
+| SVM | 98.69 | 0.97 | 1.00 | 1.00 | 0.99 | 0.99 | 0.97 | 0.00 | 0.03 | 1.31 | 0.01 | 0.11 | 22.93 | 2.63 | 10974.03 | 11158.99 | 927409312.00 |
+| Simple logistic | 97.08 | 0.96 | 0.98 | 0.98 | 0.97 | 0.99 | 0.94 | 0.02 | 0.04 | 2.92 | 0.06 | 0.15 | 31.01 | 11.41 | 66.09 | 66.13 | 1667279017.00 |
+| SMO | 97.42 | 0.96 | 0.99 | 0.98 | 0.97 | 0.97 | 0.95 | 0.01 | 0.04 | 2.58 | 0.03 | 0.16 | 32.17 | 5.18 | 895.96 | 896.00 | 654.89 |
+</table>
+<caption page="7" section="A. Systematic Ranking" source="author" id="/page/6/Caption/4">
+TABLE VI ENTROPY–DIRECT RATING INTEGRATED WEIGHTS
+</caption>
+</table_group>
+
+<table_group page="7" section="A. Systematic Ranking" source="author" id="/page/6/TableGroup/113">
+<table page="7" section="A. Systematic Ranking" source="author" id="/page/6/Table/5">
+|  | Criteria | Entropyweight | Expert 1 | Expert 2 | Expert 3 |
+| --- | --- | --- | --- | --- | --- |
+| DR | IW1 | DR | IW2 | DR | IW3 |
+| Criteria | Acc | 0.055 |  | 0.038 |  | 0.027 |  | 0.022 |
+| TPR | 0.058 |  | 0.041 |  | 0.029 |  | 0.023 |
+| TNR | 0.052 |  | 0.037 |  | 0.026 |  | 0.021 |
+| PPV | 0.053 |  | 0.037 |  | 0.026 |  | 0.021 |
+| F1-score | 0.056 |  | 0.039 |  | 0.028 |  | 0.022 |
+| AUC | 0.051 |  | 0.036 |  | 0.025 |  | 0.02 |
+| MCC | 0.061 | 0.7 | 0.043 | 0.5 | 0.031 | 0.4 | 0.025 |
+| Security criteria | FPR | 0.076 | 0.052 | 0.037 | 0.030 |
+| FNR | 0.074 | 0.062 | 0.044 | 0.035 |
+| ICC | 0.075 | 0.074 | 0.053 | 0.042 |
+| MAE | 0.088 |  | 0.074 |  | 0.053 |  | 0.042 |
+| RMS | 0.106 |  | 0.062 |  | 0.044 |  | 0.035 |
+| RRS | 0.106 |  | 0.053 |  | 0.038 |  | 0.03 |
+| RAE | 0.088 |  | 0.052 |  | 0.037 |  | 0.03 |
+| Performance criteria | TraT | 0.358 |  | 0.108 |  | 0.179 |  |
+| CPUT | 0.392 | 0.3 | 0.118 | 0.5 | 0.196 | 0.6 | 0.235 |
+| MU | 0.25 | 0.075 | 0.125 | 0.150 |
+</table>
+<caption page="7" section="A. Systematic Ranking" source="author" id="/page/6/Caption/6">
+has been used in prior MCDM experiments, such as in [40]. The normalised data of the selected classifiers are separated into three equal groups, followed by calculating the mean value for each group. To guarantee that the classifier ranking is systematic, the first group's result should be statistically lower than the second group's, wherein the second group's result should be higher than that of the first group and lower than that of the third group, in which the similar concept should be applied to the third group.
+</caption>
+</table_group>
+
+<text page="7" section="A. Systematic Ranking" source="author" id="/page/6/Text/7">
+The results of the systematic ranking assessment in Fig. 3 indicate that the mean value of group_1 is less than the mean of group_2 and that the mean value of group_2 is less than the mean of group_3. Therefore, group_1 has a lower value than group_2 and group_3. According to the discussion above, the ranking result is valid and is undergoing systematic ranking.
+</text>
+
+
+<heading page="7" section="*B. Computational Cost*" source="author" id="/page/6/SectionHeader/8" level="3">
+### *B. Computational Cost*
+</heading>
+
+<text page="7" section="*B. Computational Cost*" source="author" id="/page/6/Text/9">
+The computational cost for the proposed study can be analysed as follows. (1) The standardisation process using fuzzy Delphi has been executed for one time only, and it contains
+</text>
+
+<table_group page="7" section="*B. Computational Cost*" source="author" id="/page/6/TableGroup/114">
+<caption page="7" section="*B. Computational Cost*" source="author" id="/page/6/Caption/10">
+TABLE VII INDIVIDUAL AND GROUP BENCHMARKING RESULTS
+</caption>
+<table page="7" section="*B. Computational Cost*" source="author" id="/page/6/Table/11">
+|  | Classifiers | Expert 1 | Expert 2 | Expert 3 | BORDA SCORES TOTAL | Group Rank |
+| --- | --- | --- | --- | --- | --- | --- |
+| Q | Rank | Borda score | Q | Rank | Borda score | Q | Rank | Borda score |
+|  | NaïveBayesUpdateable | 0.69 | 10 | 3 | 0.55 | 10 | 3 | 0.47 | 8 | 5 | 11 | 9th |
+|  | NN (RBF) | 0.14 | 3 | 10 | 0.2 | 4 | 9 | 0.2 | 4 | 9 | 28 | 3rd |
+|  | NN (MLP) | 0.39 | 7 | 6 | 0.52 | 9 | 4 | 0.56 | 11 | 2 | 12 | 8th |
+|  | BayesNet | 0.11 | 1 | 12 | 0.07 | 1 | 12 | 0.04 | 1 | 12 | 36 | 1st |
+|  | J48 | 0.28 | 6 | 7 | 0.33 | 6 | 7 | 0.34 | 6 | 7 | 21 | 5th |
+|  | Bagging+RandomForest | 0.12 | 2 | 11 | 0.18 | 3 | 10 | 0.19 | 3 | 10 | 31 | 2nd |
+|  | NaiveBays | 0.71 | 11 | 2 | 0.59 | 11 | 2 | 0.52 | 10 | 3 | 7 | 10th |
+|  | Random | 0.19 | 5 | 8 | 0.24 | 5 | 8 | 0.25 | 5 | 8 | 24 | 4th |
+|  | AdeboostM1 | 0.43 | 9 | 4 | 0.50 | 8 | 5 | 0.49 | 9 | 4 | 13 | 7th |
+|  | SVM | 0.75 | 12 | 1 | 0.93 | 12 | 1 | 1.00 | 12 | 1 | 3 | 11th |
+|  | Simplelogistic | 0.4 | 8 | 5 | 0.46 | 7 | 6 | 0.47 | 7 | 6 | 17 | 6th |
+|  | SMO | 0.14 | 4 | 9 | 0.11 | 2 | 11 | 0.08 | 2 | 11 | 31 | 2nd |
+</table>
+</table_group>
+
+<figure_group page="7" section="*B. Computational Cost*" source="author" id="/page/6/FigureGroup/115">
+<figure page="7" section="*B. Computational Cost*" source="author" id="/page/6/Figure/12" image="A3.R14_fig05.jpg">[FIGURE: see A3.R14_fig05.jpg]</figure>
+<caption page="7" section="*B. Computational Cost*" source="author" id="/page/6/Caption/13">
+Fig. 3. Systematic ranking assessment.
+</caption>
+</figure_group>
+
+</page>
+<page number="8">
+<table_group page="8" section="*B. Computational Cost*" source="author" id="/page/7/TableGroup/258">
+<table page="8" section="*B. Computational Cost*" source="author" id="/page/7/Table/2">
+| Scenario | Checklist issues | Benchmark studies | Proposed |
+| --- | --- | --- | --- |
+| [31] | [32] | [33] | [34] | [29] |
+| Dataset | Binary | Not supported | Not supported | Supported | Supported | Supported | Supported |
+| Multiclass | Not supported | Supported | Not supported | Supported | Not supported | Not supported |
+| Security evaluationcriteria | (3/14) | 1/14 | 5/14 | 10/14 | 10/14 | 14/14 |
+| Standardisedevaluation criteria | Performance evaluationcriteria | (1/3) | 1/3 | 0/3 | 1/3 | 0/3 | 3/3 |
+| Training time | supported | supported | Not supported | Not supported | Not supported | Supported |
+| CPU time | Not supported | Not supported | Not supported | Not supported | Not supported | Supported |
+| Memory usage | Not supported | Not supported | Not supported | Not supported | Not supported | Supported |
+| Weighting method | Subjective weighting | Supported | Supported | Supported | Supported | Not supported | Supported |
+| Objective weighting | Not supported | Not supported | Not supported | Not supported | Not supported | Supported |
+| Integrated weighting | Not supported | Not supported | Not supported | Not supported | Not supported | Supported |
+| Ranking method | Single ranking | Supported | Not supported | Supported | Supported | Supported | Supported |
+| Hybrid ranking | Not supported | Supported | Not supported | Not supported | Not supported | Not supported |
+</table>
+<caption page="8" section="*B. Computational Cost*" source="author" id="/page/7/Caption/3">
+TABLE VIII COMPARATIVE ANALYSIS
+</caption>
+</table_group>
+
+<text page="8" section="*B. Computational Cost*" source="author" id="/page/7/Text/4">
+simple calculations which consume trivial computing time. (2) The decision matrix formulation, which is executed by running the 12 classifiers, uses CPUT to evaluate the execution time of the classifiers, and this is variant based on the classifier type and the nature of data. (3) Regarding MCDM method, direct rating of weighting methods has been executed one time only and does not consume any computation power, whilst the entropy weighting method has run dynamically based on the decision matrix values for each classifier. However, it performs simple calculations with trivial computation time. Although the ranking method VIKOR is implemented several times dynamically based on the weighted decision matrix for each classifier, VIKOR outperforms the other ranking methods in its computation complexity [57].
+</text>
+
+
+<heading page="8" section="*C. Comparative Analysis*" source="author" id="/page/7/SectionHeader/5" level="3">
+### *C. Comparative Analysis*
+</heading>
+
+<text page="8" section="*C. Comparative Analysis*" source="author" id="/page/7/Text/6">
+The performance of the proposed solution has been evaluated and compared with the relevant studies based on benchmarking checklist. The comparisons have been conducted based on whether the compared studies covered the issues addressed in the comparison scenarios. The first scenario is related to the dataset used in the generation of evaluation decision matrix, that is, whether binary or multiclass datasets are processed. This scenario shows the applicability of the proposed framework in benchmarking of different classifiers that consider various datasets. The second scenario is related to the evaluation criteria given that the values of these criteria can determine the efficiency and effectiveness of the tested classifier. In the third scenario, the evaluation criteria have different degrees of importance within its two main categories (security and performance) and can effect on the classifier's evaluation based on how much each criterion contributes to the final results. Thus, integrated two methods (subjective and objective) are needed to achieve that task. In the fourth and last scenario, the comparison is made based on ranking aspects because several MCDM ranking methods have different significance and drawbacks.Table VIIIshows the result of the proposed work compared with the other related works. In the first scenario, study [31] does not use any dataset for DM construction, whilst study [32] adopts multiclass datasets and [34] uses binary and multiclass datasets. On the other hand, our study, [29] and [33] use only binary class dataset. Regarding the second scenario, we adopt the 17 standardised criteria in
+</text>
+
+<text page="8" section="*C. Comparative Analysis*" source="author" id="/page/7/Text/7">
+the two aspects: security and performance. In the meantime, the other studies use them in variant manner. In the third scenario, two studies [31] and [32] support the subjective weighting, and three studies do not use any weighting method. In the present research, integrated (subjective–objective) weighting methods are adopted to calculate the suitable weight for each criterion. In the fourth scenario, all studies, including this study, use single ranking method, except for study [32], which uses hybrid ranking method. In summary, study [31] supports 3/12 with 25%, [32] supports 4/12 with 33%, [33] supports 3/12 with 25%, [34] supports 4/12 with 33% and [29] supports 2/12 with 17% of the comparison points. On the other hand, the present study covers 10/12 with the highest percentage of 83% of the comparison points.
+</text>
+
+
+<heading page="8" section="VII. CONCLUSION" source="author" id="/page/7/SectionHeader/8" level="2">
+## VII. CONCLUSION
+</heading>
+
+<text page="8" section="VII. CONCLUSION" source="author" id="/page/7/Text/9">
+In this study, the standardisation and MCDM problems exist in the evaluation and benchmarking of ML-based IDSs used in the FL architecture of IoMT applications, have been solved by developing a decision-making framework. The implications of the developed framework benefitted IDS developers in making the right decisions in selecting the best classification model. The study has certain limitations, which could be addressed in the future. Firstly, the IDS classifiers were operated and evaluated on the basis of the binary classification task only. The evaluated classifiers will be tested using a multiclass dataset to confirm the benchmarking results. Secondly, given that the IDS evaluation criteria were standardised using FDM, the triangular fuzzy numbers were used to convert the linguistic variables, which has many shortcomings related to uncertainty issues. Thus, FDM based on other powerful fuzzy sets is worthy. Thirdly, the classifiers were benchmarked using VIKOR ranking method. This method usually uses different normalisation approaches, and such utilisation definitely affects the benchmarking results. VIKOR also lacks weight generation provision. Thus, the fourth limitation has been raised, which is related to using external MCDM weighting methods. Specifically, although the inconsistency issues could not be produced whilst using the entropy method, this method does not depend on the subjective judgement of decision makers on weight assignment. Thus, it fails to reflect the opinions of
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="VII. CONCLUSION" source="author" id="/page/8/Text/2">
+highly qualified experts with extensive experience. To eliminate the third and fourth limitations, other MCDM methods including fuzzy weighted zero inconsistency method [58] and fuzzy decision by opinion score method [59] might be used in the future. Fifthly, the importance measurement, which reflects each DM's preferences on the IDS classifiers benchmarking process, is ignored. In the future, more investigation on MCDM methods that consider the experts' importance is needed. The performance criteria might be expanded and may include any newly proposed criteria, such as energy consumption [60], in the future work.
+</text>
+
+
+<heading page="9" section="REFERENCES" source="author" id="/page/8/SectionHeader/3" level="2">
+## REFERENCES
+</heading>
+
+<list page="9" section="REFERENCES" source="author" id="/page/8/ListGroup/641">
+- [1] K. Scarfone and P. Mell, "Guide to Intrusion Detection and Prevention Systems (IDPS)," *Special publication on intrusion detection systems. NIST* *Infidel, Inc., National Institute of Standards and Technology*, Scotts Valley, CA USA, 2001.
+- [2] Z. Tang *et al.*, "A multilayer neural network merging image preprocessing and pattern recognition by integrating diffusion and drift memristors," *IEEE Trans. Cogn. Devlop. Syst.*, vol. 13, no. 3, pp. 645–656, Sep. 2021.
+- [3] A. Aldweesh, A. Derhab, and A. Z. Emam, "Deep learning approaches for anomaly-based intrusion detection systems: A survey, taxonomy, and open issues," *Knowl.-Based Syst.*, vol. 189, 2020, Art. no. 105124.
+- [4] S. Agrawal, A. Chowdhuri, S. Sarkar, R. Selvanambi, and T. R. Gadekallu, "Temporal weighted averaging for asynchronous federated intrusion detection systems," *Comput. Intell. Neurosci.*, to be published, doi: [10.1155/2021/5844728.](https://dx.doi.org/10.1155/2021/5844728)
+- [5] X. Zhou *et al.*, "Intelligent small object detection for digital twin in smart manufacturing with industrial cyber-physical systems," *IEEE Trans. Ind.* *Informat.*, vol. 18, no. 2, pp. 1377–1386, Feb. 2021.
+- [6] E. Hodo, X. Bellekens, A. Hamilton, C. Tachtatzis, and R. Atkinson, "Shallow and deep networks intrusion detection system: A taxonomy and survey," *CoRR*, vol. abs/1701.02145, 2017. [Online]. Available:[ https:](https://arxiv.org/ftp/arxiv/papers/1701/1701.02145.pdf) [//arxiv.org/ftp/arxiv/papers/1701/1701.02145.pdf](https://arxiv.org/ftp/arxiv/papers/1701/1701.02145.pdf)
+- [7] D. Liu, Y. Zhang, W. Wang, K. Dev, and S. A. Khowaja, "Flexible data integrity checking with original data recovery in IOT-Enabled maritime transportation systems," *IEEE Trans. Intell. Transp. Syst.*, Nov. 2021, to be published, doi: [10.1109/TITS.2021.3125070.](https://dx.doi.org/10.1109/TITS.2021.3125070)
+- [8] W. Wang, H. Xu, M. Alazab, T. R. Gadekallu, Z. Han, and C. Su, "Blockchain-based reliable and efficient certificateless signature for IIoT devices," *IEEE Trans. Ind. Informat.*, May 2021, to be published, doi: [10.1109/TII.2021.3084753.](https://dx.doi.org/10.1109/TII.2021.3084753)
+- [9] X. Zhou, X. Yang, J. Ma, I. Kevin, and K. Wang, "Energy efficient smart routing based on link correlation mining for wireless edge computing in IoT," *IEEE Internet Things J.*, May 2021, to be published, doi: [10.1109/JIOT.2021.3077937.](https://dx.doi.org/10.1109/JIOT.2021.3077937)
+- [10] A.S. Albahri *et al.*, "IoT-based telemedicine for disease prevention and health promotion: State-of-the-art," *J. Netw. Comput. Appl.*, to be published, doi: [10.1016/j.jnca.2020.102873.](https://dx.doi.org/10.1016/j.jnca.2020.102873)
+- [11] F. Qureshi and S. Krishnan, "Wearable hardware design for the internet of medical things (IoMT)," *Sensors*, vol. 18, 2018, Art. no. 3812.
+- [12] S. P. RM *et al.*, "An effective feature engineering for DNN using hybrid PCA-GWO for intrusion detection in IoMT architecture," *Comput. Com**mun.*, vol. 160, pp. 139–149, 2020.
+- [13] X. Wang *et al.*, "Towards Accurate Anomaly Detection in Industrial Internet-of-Things using Hierarchical Federated Learning," in *IEEE In**ternet of Things J.*, to be published, doi: [10.1109/JIOT.2021.3074382.](https://dx.doi.org/10.1109/JIOT.2021.3074382)
+- [14] Z. Lian, W. Wang, and C. Su, "COFEL: Communication-efficient and optimized federated learning with local differential privacy," in *Proc. IEEE* *Int. Conf. Commun.*, Jun. 2021, pp. 1–6.
+- [15] J. Song, W. Wang, T. R. Gadekallu, J. Cao, and Y. Liu, "EP-PDA: An efficient privacy-preserving data aggregation federated learning scheme," in *IEEE Trans. Netw. Sci. Eng.*, to be published, doi: [10.1109/TNSE.2022.3153519.](https://dx.doi.org/10.1109/TNSE.2022.3153519)
+- [16] R. Taheri, M. Shojafar, M. Alazab, and R. Tafazolli, "FED-IIoT: A robust federated malware detection architecture in industrial IoT," *IEEE Trans.* *Ind. Informat.*, vol. 17, no. 12, pp. 8442–8452, Dec. 2021.
+- [17] C. Zhang, Y. Xie, H. Bai, B. Yu, W. Li, and Y. Gao, "A survey on federated learning," *Knowl.-Based Syst.*, vol. 216, 2021, Art. no. 106775.
+</list>
+
+<list page="9" section="REFERENCES" source="author" id="/page/8/ListGroup/642">
+- [18] V.Mothukuri, P. Khare, R.M. Parizi, S. Pouriyeh, A. Dehghantanha, and G. Srivastava, "Federated learning-based anomaly detection for IoT security attacks," *IEEE Internet Things J.*, vol. 9, no. 4, pp. 2545–2554, Feb. 2022.
+- [19] M. Gong, Y. Xie, K. Pan, K. Feng, and A. K. Qin, "A survey on differentially private machine learning," *IEEE Comput. Intell. Mag.*, vol. 15, no. 2, pp. 49–64, May 2020.
+- [20] L. Welagedara, J. Harischandra, and N. Jayawardene, "A Review on Edge Intelligence based Collaborative Learning Approaches," *2021* *IEEE 11th Annu. Comput. Commun. Workshop Conf.*, to be published, doi: [10.1109/CCWC51732.2021.9376119.](https://dx.doi.org/10.1109/CCWC51732.2021.9376119)
+- [21] E.M. Campos *et al.*, "Evaluating Federated Learning for intrusion detection in Internet of Things: Review and challenges," *Comput. Netw.*, 2021, *arXiv:2108.00974v1*.
+- [22] P. Papadopoulos, W. Abramson, A. J. Hall, N. Pitropakis, and W. J. Buchanan, "Privacy and trust redefined in federated machine learning," *Mach. Learn. Knowl. Extraction*, vol. 3, pp. 333–356, 2021.
+- [23] Z. Tang, Z.-H. Sun, E. Q. Wu, C.-F. Wei, D. Ming, and S. Chen, "MRCG: A MRI retrieval system with convolutional and graph neural networks for secure and private IoMT," *IEEE J. Biomed. Health Informat.*, to be published, doi: [10.1109/JBHI.2021.3130028.](https://dx.doi.org/10.1109/JBHI.2021.3130028)
+- [24] W. Y. B. Lim *et al.*, "Federated learning in mobile edge networks: A comprehensive survey," *IEEE Commun. Surv. Tut.*, vol. 22, no. 3, pp. 2031–2063, Jul.–Sep. 2020.
+- [25] W. Wang *et al.*, "Blockchain and PUF-based lightweight authentication protocol for wireless medical sensor networks," *IEEE Internet Things J.*, to be published, doi: [10.1109/JIOT.2021.3117762.](https://dx.doi.org/10.1109/JIOT.2021.3117762)
+- [26] Z. Tang *et al.*, "A hardware friendly unsupervised memristive neural network with weight sharing mechanism," *Neurocomputing*, vol. 332, pp. 193–202, 2019.
+- [27] I. Ahmad, M. Basheri, M. J. Iqbal, and A. Rahim, "Performance comparison of support vector machine, random forest, and extreme learning machine for intrusion detection," *IEEE Access*, vol. 6, pp. 33 789–33 795, May 2018.
+- [28] M. Ghaznavi, N. Shahriar, S. Kamali, R. Ahmed, and R. Boutaba, "Distributed service function chaining," *IEEE J. Sel. Areas Commun.*, vol. 35, no. 11, pp. 2479–2489, Nov. 2017.
+- [29] P. Patsariya and R. R. Singh, "Classifier rank identification using multicriteria decision making method for intrusion detection dataset," *Int. J.* *Innov. Technol. Explor. Eng.*, vol. 9, no. 1, pp. 1732–1738, Nov. 2019.
+- [30] Z. Tang *et al.*, "Fully memristive spiking-neuron learning framework and its applications on pattern recognition and edge detection," *Neurocomput**ing*, vol. 403, pp. 80–87, 2020.
+- [31] I. Ahmad, A. Abdullah, and A. Alghamdi, "Towards the selection of best neural network system for intrusion detection," *Int. J. Phys. Sci.*, vol. 5, pp. 1830–1839, 2010.
+- [32] Y. Peng, G. Kou, G. Wang, and Y. Shi, "FAMCDM: A fusion approach of MCDM methods to rank multiclass classification algorithms," *Omega*, vol. 39, pp. 677–689, 2011.
+- [33] R. R. Robinson and C. Thomas, "Ranking of machine learning algorithms based on the performance in classifying DDoS attacks," in *Proc. IEEE* *Recent Adv. Intell. Comput. Syst.*, Dec. 2015, pp. 185–190.
+- [34] R. Panigrahi and S. Borah, "Rank allocation to J48 group of decision tree classifiers using binary and multiclass intrusion detection datasets," *Procedia Comput. Sci.*, vol. 132, pp. 323–332, 2018.
+- [35] G. Kumar, "Evaluation metrics for intrusion detection systems-A study," *Evaluation*, vol. 2, pp. 11–17, 2014.
+- [36] A. Milenkoski, M. Vieira, S. Kounev, A. Avritzer, and B. D. Payne, "Evaluating computer intrusion detection systems: A survey of common practices," *ACM Comput. Surv. (CSUR)*, vol. 48, pp. 1–41, 2015.
+- [37] W. Guo, Y. Chen, Y. Cai, T. Wang, and H. Tian, "DIntrusion detection in WSN with an improved NSA based on the DE-CMOP," *KSII Trans.* *Internet Inf. Syst.*, vol. 11, pp. 5574–5591, 2017.
+- [38] T. J. Murray, L. L. Pipino, and J. P. Van Gigch, "A pilot study of fuzzy set modification of Delphi," *Hum. Syst. Manage.*, vol. 5, pp. 76–80, 1985.
+- [39] M. Alsalem *et al.*, "Multiclass benchmarking framework for automated acute Leukaemia detection and classification based on BWM and group-VIKOR," *J. Med. Syst.*, vol. 43, pp. 1–32, 2019.
+- [40] M. A. Alsalem *et al.*, "Rise of multiattribute decision-making in combating COVID-19: A systematic review of the state-of-the-art literature," *Int. J.* *Intell. Syst.*, to be published, doi: [10.1002/int.22699.](https://dx.doi.org/10.1002/int.22699)
+- [41] N. H. Zardari, K. Ahmed, S. M. Shirazi, and Z. B. Yusop, *Weighting* *Methods and Their Effects on Multi-Criteria Decision Making Model* *Outcomes in Water Resources Management*. Cham, Switzerland: Springer, 2015.
+</list>
+
+</page>
+<page number="10">
+<list page="10" section="REFERENCES" source="author" id="/page/9/ListGroup/295">
+- [42] K. Mohammed *et al.*, "Novel technique for reorganisation of opinion order to interval levels for solving several instances representing prioritisation in patients with multiple chronic diseases," *Comput. Methods Programs* *Biomed.*, vol. 185, 2020, Art. no. 105151.
+- [43] M. A. Alsalem *et al.*, "Multi-criteria decision-making for coronavirus disease 2019 applications: A theoretical analysis review," *Artif. Intell. Rev.*, to be published, doi: [10.1007/s10462-021-10124-x.](https://dx.doi.org/10.1007/s10462-021-10124-x)
+- [44] K. H. Abdulkareem *et al.*, "A new standardisation and selection framework for real-time image dehazing algorithms from multi-foggy scenes based on fuzzy Delphi and hybrid multi-criteria decision analysis methods," *Neural Comput. Appl.*, vol. 33, no. 4, pp. 1029–1054, 2021.
+- [45] R. Mohammed *et al.*, "Review of the research landscape of multicriteria evaluation and benchmarking processes for many-objective optimization methods: Coherent taxonomy, challenges and recommended solution," *Int. J. Inf. Technol. Decis. Mak.*, vol. 19, pp. 1619–1693, 2020.
+- [46] S. N. A. Mohamad, M. A. Embi, and N. Nordin, "Determining e-Portfolio elements in learning process using fuzzy Delphi analysis," *Int. Educ. Stud.*, vol. 8, pp. 171–176, 2015.
+- [47] N. M. Yusoff and M. N. Yaakob, "Analisis fuzzy Delphi terhadap halangan dalam pelaksanaan mobile learning di Institut Pendidikan Guru," *Jurnal* *Penyelidikan Dedikasi*, vol. 11, pp. 32–50, 2017.
+- [48] S. Bodjanova, "Median alpha-levels of a fuzzy number," *Fuzzy Sets Syst.*, vol. 157, pp. 879–891, 2006.
+- [49] C.-W. Tang and C.-T. Wu, "Obtaining a picture of undergraduate education quality: A voice from inside the university," *Higher Educ.*, vol. 60, pp. 269–286, 2010.
+- [50] K. A. Dawood, K. Y. Sharif, A. A. GHANI, H. Zulzalil, A. Zaidan, and B. Zaidan, "Towards a unified criteria model for usability evaluation in the context of open source software based on a fuzzy Delphi method," *Inf.* *Softw. Technol.*, vol. 130, 2020, Art. no. 106453.
+</list>
+
+<list page="10" section="REFERENCES" source="author" id="/page/9/ListGroup/296">
+- [51] M. Tavallaee, E. Bagheri, W. Lu, and A. A. Ghorbani, "A detailed analysis of the KDD CUP 99 data set," in *Proc. IEEE Symp. Comput. Intell. Secur.* *Defense Appl.*, Jul. 2009, pp. 1–6.
+- [52] I. Russell and Z. Markov, "An introduction to the WEKA data mining system," in *Proc. ACM SIGCSE Tech. Symp. Comput. Sci. Educ.*, 2017, pp. 1–742.
+- [53] K. Ogami, R. G. Kula, H. Hata, T. Ishio, and K. Matsumoto, "Using highrising cities to visualize performance in real-time," in *Proc. Work. Conf.* *Softw. Visualization*, Sep. 2017, pp. 33–42.
+- [54] P. A. Bottomley and J. R. Doyle, "A comparison of three weight elicitation methods: Good, better, and best," *Omega*, vol. 29, pp. 553–560, 2001.
+- [55] A. Albahri *et al.*, "Based multiple heterogeneous wearable sensors: A smart real-time health monitoring structured for hospitals distributor," *IEEE Access*, vol. 7, pp. 37 269–37 323, Feb. 2019.
+- [56] P. Emerson, "The original Borda count and partial voting," *Social Choice* *Welfare*, vol. 40, pp. 353–358, 2013.
+- [57] A. M. Ghaleb, H. Kaid, A. Alsamhan, S. H. Mian, and L. Hidri, "Assessment and comparison of various MCDM approaches in the selection of manufacturing process," *Adv. Mater. Sci. Eng.*, to be published, doi: [10.1155/2020/4039253.](https://dx.doi.org/10.1155/2020/4039253)
+- [58] R. Mohammed *et al.*, "Determining importance of many-objective optimisation competitive algorithms evaluation criteria based on a novel fuzzy-weighted zero-inconsistency method," *Int. J. Inf. Technol. Decis.* *Mak.*, vol. 21, no. 1, pp. 195–241, 2022.
+- [59] O. S. Albahri *et al.*, "Multidimensional benchmarking of the active queue management methods of network congestion control based on extension of fuzzy decision by opinion score method," *Int. J. Intell. Syst.*, vol. 36, pp. 796–831, 2021.
+- [60] W. Wang *et al.*, "Secure-enhanced federated learning for AI-empowered electric vehicle energy prediction," in *IEEE Consum. Electron. Mag.*, to be published, doi: [10.1109/MCE.2021.3116917.](https://dx.doi.org/10.1109/MCE.2021.3116917)
+</list>
+
+</page>
+</paper>

@@ -1,0 +1,984 @@
+<paper source_file="A3.R71" title="*Intrapreneurial personality and individual innovation behaviour in * *service organisations: Network building ability as a mediator*" total_pages="26" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="*Intrapreneurial personality and individual innovation behaviour in * *service organisations: Network building ability as a mediator*" source="author" id="/page/0/SectionHeader/0" level="1">
+# *Intrapreneurial personality and individual innovation behaviour in * *service organisations: Network building ability as a mediator*
+</heading>
+
+
+<heading page="1" section="*Abstract*" source="author" id="/page/0/SectionHeader/1" level="3">
+### *Abstract*
+</heading>
+
+<text page="1" section="*Abstract*" source="author" id="/page/0/Text/2">
+The research explores the relation between intrapreneurial personality and individuals' innovative  behaviour in the service sector. The research integrated personality and social capital perspectives to examine the mediating role of network building ability on the relation between intrapreneurial  personality and three main stages of the employees' innovative behaviours: idea generation, idea  promotion and idea realisation. A quantitative research methodology was adopted with 410  questionnaires collected from employees in the UAE service sector and subsequently analysed  using structural equation modelling. The research found a significant direct relationship between  intrapreneurial personality and idea realisation stage and no direct relationship with idea  generation and idea promotion. In addition, network building ability was found to mediate these  relationships, underlining the importance of building networks for intrapreneurial employees to  innovate. These results across the three main stages of individuals' innovative behaviours may  enrich our teachable skills to improve individuals' innovative behaviour.
+</text>
+
+<text page="1" section="*Abstract*" source="author" id="/page/0/Text/3">
+*Keywords:* Service innovation, individuals' innovative work behaviour; network building ability;  Intrapreneurial personality.
+</text>
+
+
+<heading page="1" section="*Introduction*" source="author" id="/page/0/SectionHeader/4" level="3">
+### *Introduction*
+</heading>
+
+<text page="1" section="*Introduction*" source="author" id="/page/0/Text/5">
+Service sector is a major building block of the economy, constituting approximately 50 % of  developed countries' Gross Domestic Product (GDP) (Ratny, Arshad &amp; Gaoliang, 2017). with  higher employees' numbers than manufacturing, the service sector has a critical role in growing  economies (Un &amp; Montoro-Sanchez, 2010). Therefore, exploring the service sector phenomena  will not only reflect on the service industries but also on economic performance on a national and  global level (Zainal &amp; Matore, 2019). Particularly, understanding how to manage innovation  effectively has gained considerable attention in service organisations since it contributes greatly  to the organisational existence and ability to compete in the market (Ratny, Arshad &amp; Gaoliang,  2017). However, previous innovation literature concentrated more on manufacturing industries  than service industries (Li &amp; Hsu, 2016). Although service organisations exhibit different  characteristics from manufacturing organisations (Drejer, 2004), the current understanding of  service sector innovation is still based on manufacturing sector innovation. A limited number of  studies focus on innovation in the service sector (Rubalcaba 2007).
+</text>
+
+<text page="1" section="*Introduction*" source="author" id="/page/0/Text/6">
+Individuals with an intrapreneurial personality trait are described as task self-appointedv, selfdetermined, goal-setters, self-initiated, self-confident and action-oriented (Pinchot 1985).  Intrapreneurial individuals combine both vision and action (Zhu, Djurjagina &amp; Leker 2014). How
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="*Introduction*" source="author" id="/page/1/Text/0">
+such a personality trait is capable of innovating is the focus of this study. An individual's innovative behaviour is defined as "…the intentional creation, introduction and application of new  ideas within a work role, group or organisation" (Janssen 2000, p. 288). The importance of  individuals' innovative work behaviour is mostly driven by the swiftly changing world among  which today's organisations are embedded. Organisations should function as hubs for creativity  and innovation to guarantee their survival, effectiveness and continuous competitiveness in their  markets (Omachonu &amp; Einspruch 2010). Therefore, organisations need creative personnel, can  generate new ideas, products and processes, and can track the implementation of these novel ideas  in practice (Scott &amp; Bruce 1994; Zainal &amp; Matore 2019).
+</text>
+
+<text page="2" section="*Introduction*" source="author" id="/page/1/Text/1">
+Particularly, the intrapreneurial personality trait has drawn the attention of limited studies  examining its influence at the individual level (Blanka, 2018). A positive relationship have been  noted between intrapreneurial personality trait and individuals' innovative behaviours (Amo &amp; Kolvereid, 2005). In a later study, Amo (2010) suggested a combined perspective between  intrapreneurship bottom-up innovation and corporate entrepreneurship top-down innovation in  explaining the employees' innovative behaviours. He pointed out that future research should  consider the role of mediators or moderators in explaining the innovation process. In this study,  we explore the mediating role of Network Building Ability (NBA) (Ferris et al. 2005), a concept  originating from social capital theory that measures the individual ability to build social networks  (Thompson, 2005). Network building ability is defined as the individuals' ability to create allies  and connect themselves to others who are in influential positions and have power in their society  (Ferris et al., 2005). Network building ability will be tested as a mediator of the relation between  intrapreneurial personality and individuals' innovative behaviours.
+</text>
+
+<text page="2" section="*Introduction*" source="author" id="/page/1/Text/2">
+In addition, while previous studies in the literature considered the individuals' innovative  behaviours as a single construct (Scott &amp; Bruce 1994), this study explores a more recent  prespective that sees individuals' innovative behaviours compsed of three stages: Idea generation,  and idea promotion, and idea realisation (Janssen, 2000). This separation in the analysis will  answer a recent call to differentiate between the three stages of innovation behaviours since each  stage may require different predictors and antecedents (Wisse, Barelds &amp; Rietzschel 2015, Woods  et al. 2017; Rodrigues &amp; Rebelo 2019; Nasaj 2020; Nasaj &amp; Badi, 2021; Nasaj, 2021). This  approach offers additional insight into the mechanisms involved across the multiple and  discontinuous activities leading to innovation in service organisations.
+</text>
+
+
+<heading page="2" section="*Literature Review*" source="cited" id="/page/1/SectionHeader/3" level="3">
+### *Literature Review*
+</heading>
+
+
+<heading page="2" section="*Innovation in the Service Sector*" source="author" id="/page/1/SectionHeader/4" level="3">
+### *Innovation in the Service Sector*
+</heading>
+
+<text page="2" section="*Innovation in the Service Sector*" source="author" id="/page/1/Text/5">
+Due to the fast-changing market environment, innovation has become a key factor influencing service organisations performance (Campo, Díaz &amp; Yagüe 2014; Coombs and Miles, 2000; Li &amp;
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="*Innovation in the Service Sector*" source="author" id="/page/2/Text/0">
+Hsu, 2016). Organisations usually create new products and services to match existing or potential  customer needs (Forsman 2011). Service innovation is considered an important aspect of an  organisation's success and its competitiveness in the market (Komaladewi et al., 2012). One of the  essential characteristics of service innovation is the interaction with the customer (Sundbo &amp;  Gallouj 2000). Service innovation aims to provide innovative solutions for the customers and  usually concentrates on service weaknesses to identify innovative solutions to these issues and win  a larger customer base (Miles, Miles &amp; Snow 2006; Hertog et al., 2010). Other scholars criticise  the customer focus approach as a source of innovation since this will limit the innovation to the  current services rather than taking the innovation to the next curve of the innovation cycle,  unlocking new or even unknown customer needs (Slater &amp; Narver 1998).
+</text>
+
+<text page="3" section="*Innovation in the Service Sector*" source="author" id="/page/2/Text/1">
+Service is usually an experience-based process, where the human aspect generally plays an  important role in delivering the services. Service can be best defined as a process that involves an  interface with a customer either through human or technological interactions (Bitner, Ostrom &amp;  Morgan 2008). Assuming a bottom-up approach to the innovation process, Sundbo (1997) explains the difficulty of measuring and managing service innovation and attributes these difficulties to the  role of intrapreneurs in the organisations ((Pinchot 1985; Amo &amp; Kolvereid 2005). In this  perspective, innovation is initiated by the working individuals in the organisations rather than top  management. This notion points at the humanistic aspect of innovation in the service sector. It underlines individuals' innovative behaviours as vital in contributing to the innovation of services  due to the humanistic aspects of service delivery, which renders the distinction of the service from  its delivery process difficult to ascertain (Bitner, Ostrom &amp; Morgan 2008).
+</text>
+
+
+<heading page="3" section="*Individuals'* *Innovative Behaviours in the Service Sector*" source="author" id="/page/2/SectionHeader/2" level="3">
+### *Individuals'* *Innovative Behaviours in the Service Sector*
+</heading>
+
+<text page="3" section="*Individuals'* *Innovative Behaviours in the Service Sector*" source="author" id="/page/2/Text/3">
+Innovation depends on new ideas, and employees are the developers, carriers, implementers, and  modifiers of these ideas (Sebastiani &amp; Paiola 2010). Understanding employees' innovative  behaviours are very important to successfully manage innovation in organisations (Scott &amp; Bruce  1994; Gallouj 2002). Therefore, employees' innovative behaviours are an essential element that  contributes to the success and survival of the organisation (Komaladewi et al., 2012; Zainal &amp;  Matore 2019). Individuals' innovative behaviours have been afforded less attention in the extant  literature than studies of innovation at the team and organisational levels (Li &amp; Hsu 2016). An  individual's innovation behaviour is defined as the individual behaviour that contributes to  developing new products, new markets, or improving business processes in their organisations  (Amo 2005). Individual's innovative behaviour relates to a complex set of behaviours that aim to  generate, promote, and realise new ideas in the workplace (Madrid et al. 2014). These behaviours  were recognised as beneficial behaviours for organisational functioning (Yuan &amp; Woodman 2010).  Individuals' innovative work behaviours require a readiness to challenge the status quo in the  workplace (Yuan &amp; Woodman 2010) and make an effort to adopt novel ideas (Kanter 1988). The  importance of an individual's innovative behaviours is more pronounced in customer serviceoriented organisations since the nature of customer expectation is ever-changing, hence, requiring employees with innovative orientation to satisfy their customers (Bani-Melhem et al., 2018).
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="*Individuals'* *Innovative Behaviours in the Service Sector*" source="author" id="/page/3/Text/0">
+Innovation is often conceptualised as encompassing three key stages: idea generation, idea  promotion, and idea realisation (Janssen 2000; Scott &amp; Bruce 1994). As Janssen (2000) explains,  an individual will create new ideas at the idea generation stage, search for new ways of doing  things, and generate novel solutions for problems (Janssen, 2000). Following this, at the idea  promotion stage, the individual will gather support for his novel ideas, acquire necessary approvals, and motivate important members in his organisation for the innovative idea. Subsequently, in the idea realisation stage, novel ideas are transformed into useful applications,  systematically introducing original ideas into the workplace and evaluating the utility of the new  ideas (Janssen, 2000). Empirically, these three distinct behaviours are often measured as a single  construct in studies of individual innovation behaviour (Scott &amp; Bruce 1994). This approach,  however, may not be adequate to capture the multi-dimensional complexity of innovation  behaviours. Indeed, there are recent calls in the literature to examine innovation behaviour as a  multi-dimensional construct (idea generation, promotion and realisation). Indeed, each of the three  stages may be affected by a unique set of antecedents and factors (Wisse, Barelds &amp; Rietzschel  2015; Woods et al. 2017; Rodrigues and Rebelo 2019). This multi-dimensional approach will be  adopted in this study to offer a fine-grained understanding of the multitude of individual innovative  behaviour in service organisations.
+</text>
+
+
+<heading page="4" section="*Intrapreneurial Personality Trait*" source="author" id="/page/3/SectionHeader/1" level="3">
+### *Intrapreneurial Personality Trait*
+</heading>
+
+<text page="4" section="*Intrapreneurial Personality Trait*" source="author" id="/page/3/Text/2">
+In previous literature, entrepreneurship in organisations was presented in three main levels:  organisational level (Camelo-Ordaz et al. 2012), team level (Iacobucci &amp; Rosa 2010), and  individual level (Douglas &amp; Fitzsimmons 2013). These three perspectives lead to the establishment  of different concepts tackling entrepreneurship in organisations. New concepts emerged, such as corporate entrepreneurship, corporate venturing, entrepreneurial orientation and intrapreneurship, which created confusion due to lack of a clear classification (Christensen 2005). Hence, the  definition of intrapreneurship as a concept is inconsistent in literature (Amo &amp; Kolvereid 2005;  Christensen 2005; Blanka 2018). In addition, the main focus of intrapreneurship studies was on  the organisational level rather than the individual level (De Jong &amp; Wennekers, 2008). Research on entrepreneurship in existing organisations failed to identify the individuals behind the  intrapreneurial process, their role, and how can their behaviours be effectively managed? (De Jong &amp; Wennekers, 2008). Hence, this novel study will contribute to our current knowledge of the  individual level of employee's entrepreneurship, namely the intrapreneurial personality trait of the  employees.
+</text>
+
+<text page="4" section="*Intrapreneurial Personality Trait*" source="author" id="/page/3/Text/3">
+Personality traits are tendencies to consistency in characteristics, emotions, thoughts, and  behaviours constant over time and describe an individuals' behaviours in various situations  (Barrick, Parks &amp; Mount 2005). Personality has also been defined as "the sum total of ways in  which an individual reacts to and interacts with others" (Robbins and Judge, 2015 p.175).  Personality traits act as a uniting concept that offers meaning, direction and explanation of the  individuals' behaviours tendencies (Morris, Davis &amp; Allen 1994). Personality theory has been  widely used as a valid predictor of individuals' job performance (Leutner et al., 2014).
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="*Intrapreneurial Personality Trait*" source="author" id="/page/4/Text/0">
+The focus of this study is on the intrapreneurial personality trait. Intrapreneurship as a personality  trait was initially presented by Pinchot (1985), who developed 12 measures that identify whether  an individual is high on intrapreneurship or otherwise. Pinchot (1985) describes an individual with  high intrapreneurship traits as a self-determined goal-setter who takes the initiative, is selfconfident and is action-oriented. Intrapreneurial personality trait contains behaviours such as  proactiveness, the pursuit of opportunity, self-determination, confidence, risk-taking, defying rules  and a dislike of bureaucratic systems(Sinha &amp; Srivastava, 2013). Several organisational behaviour  studies have investigated the intrapreneurial personality trait of employees, such as Amo and  Kolvereid (2005); and Pinchot and Pellman (1999). Amo and Kolvereid (2005) tested the relation  between the intrapreneurial personality trait of 634 business graduates working in different  Norwegian organisations and their innovative behaviours. They found a significant relationship  between the two; however, they called for further improvement to the intrapreneurial personality  traits measurements. The generalisability of Amo and Kolvereid's (2005) study is limited as data  were collected from a relatively homogenous sample of alumni. Hence, further corroboration of  their findings is needed in different cultures and individuals from other educational backgrounds.
+</text>
+
+
+<heading page="5" section="*The Role of Social Network Building Ability*" source="author" id="/page/4/SectionHeader/1" level="3">
+### *The Role of Social Network Building Ability*
+</heading>
+
+<text page="5" section="*The Role of Social Network Building Ability*" source="author" id="/page/4/Text/2">
+One of the most studied theories in sociology is social capital (Thompson 2005). Social capital  was defined as "resources embedded in a social structure that is accessed and/or mobilised in  purposive actions" (Lin, Fu &amp; Hsung 2001, p.29) . This definition has identified three elements of  social capital, namely resources embedded in a social structure (Embeddedness), accessibility to  such social resources (Opportunity), and use of these social resources (Mobilisation) (Thompson  2005). These social resources embedded in an individual's network of relationships define the  extent to which an individual can have access to information, have influence, and effectively  implement change (Coleman 2000; Burt 2009). Hence, a large social network within which  individuals are embedded will allow them access to information and social support.
+</text>
+
+<text page="5" section="*The Role of Social Network Building Ability*" source="author" id="/page/4/Text/3">
+Indeed, network building is an individual's key ability to establish large social networks and take  advantage of these networks. The construct was initially developed by Ferris et al. (2005) as a key  political skill that helps individualsseek allies and link themselvesto other individuals who occupy  positions of influence and power in their societies. Essentially, an individual with high network  building ability will be adept at developing relationships with influential decision-makers in their  work and secure their support for getting things done (Ferris et al., 2005). Based on the above  discussion, this study aims to answer two main research questions: What is the relationship  between an intrapreneurial personality trait and innovation? and does network building ability act  as a mediating mechanism of influence?
+</text>
+
+
+<heading page="5" section="*Research Conceptual Framework and Hypotheses*" source="author" id="/page/4/SectionHeader/4" level="3">
+### *Research Conceptual Framework and Hypotheses*
+</heading>
+
+<text page="5" section="*Research Conceptual Framework and Hypotheses*" source="author" id="/page/4/Text/5">
+Idea generation stage is the early innovation stage (Janssen, 2000). The individual will create new  ideas, search for new methods of doing things, and generate a novel solution for problems. In her
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="*Research Conceptual Framework and Hypotheses*" source="author" id="/page/5/Text/0">
+literature review of intrapreneurship at the individual level, Blanka (2018) contended that  intrapreneurs are proactive in establishing relationships and building networks inside and outside  the organisation. These relations enable intrapreneurs to be open-minded, discover business  opportunities and develop brokering competencies.
+</text>
+
+<text page="6" section="*Research Conceptual Framework and Hypotheses*" source="author" id="/page/5/Text/1">
+An Individual's network is defined by relationships and trusting ties (Granovetter 1983). Network  theory explains that the ties to different people or the individual's social capital reside in these  relationships (Coleman 1988). Since network building ability will help individuals build their  network, and the more the individuals have ties, the more they can create a pool of trusted  information that contributes to new ideas generation and improves innovation (Milliken, Bartel &amp;  Kurtzberg 2003). To put it differently, the larger number of connections the individual has, the  more opportunity to access diverse information from various sources of knowledge that will enable  them to identify new opportunities that will facilitate generating new ideas (Baer et al., 2015).  Indeed, during the early idea generation phase, innovators of new ideas need cognitive flexibility  to competently combine an array of knowledge into a new successful combination (Perry-Smith &amp; Mannucci, 2017). The innovators of new ideas could be socially supported during this stage by  weak network ties that bring together diverse viewpoints and perspectives (Perry-Smith &amp;  Mannucci 2017). In addition, intrapreneurs proactively seek to establish relationships and build  networks inside and outside their companies (Blanka, 2018). These relations allow intrapreneurs  to be open-minded, discover business opportunities and develop brokering competencies. These  brokering competencies help the individual to collect data from inside and outside the organisation, taking the role of a gatekeeper in networking terminology. Then combinations of different pieces  of knowledge obtained by a broker through networking can easily be translated into innovation  (Bjornali &amp; Støren 2012). Hence, the following hypothesis is proposed:
+</text>
+
+
+<heading page="6" section="*H1: Network building ability mediates* *the relation between * *intrapreneurial personality* *traits* *and idea generation.*" source="author" id="/page/5/SectionHeader/2" level="3">
+### *H1: Network building ability mediates* *the relation between * *intrapreneurial personality* *traits* *and idea generation.*
+</heading>
+
+<text page="6" section="*H1: Network building ability mediates* *the relation between * *intrapreneurial personality* *traits* *and idea generation.*" source="author" id="/page/5/Text/3">
+Furthermore, intrapreneurs usually obtain resources from wherever they can and choose  individuals to be in the new ventures teams based on their knowledge and dedication (Pinchot &amp; Pellman, 1999). In other words, intrapreneurs will be engaged in networking activities.  Networking was defined by Thompson (2005) as the individuals' attempts to develop and maintain  relationships with others who have the potential to assist them in their work or career. Networks  offer many beneficial advantages like accessing information or resources, identifying  opportunities, and social capital (Thompson 2005). In the idea promotion stage, the innovative  employees will attempt to progress their novel idea by socialising and building a supportive  coalition to their ideas. The employee will identify allies and backers who have the required power  to advance their ideas within the organisation (Kanter 1988). Promoting a new idea necessitates
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="*H1: Network building ability mediates* *the relation between * *intrapreneurial personality* *traits* *and idea generation.*" source="author" id="/page/6/Text/0">
+influential individuals perceived by decision-makers as legitimate and competent individuals  (Perry-Smith &amp; Mannucci 2017). The best way to achieve this is through the individual being  embedded in a sparse network rich in structural holes (Perry-Smith &amp; Mannucci 2017). Based on  the above discussion, network building ability may mediate the relation between an intrapreneurial  personality trait and the idea promotion stage. Hence, the study proposed the following hypothesis:
+</text>
+
+
+<heading page="7" section="*H2: Network building ability mediates* *the relation between * *intrapreneurial personality traits* *and idea promotion.*" source="author" id="/page/6/SectionHeader/1" level="3">
+### *H2: Network building ability mediates* *the relation between * *intrapreneurial personality traits* *and idea promotion.*
+</heading>
+
+<text page="7" section="*H2: Network building ability mediates* *the relation between * *intrapreneurial personality traits* *and idea promotion.*" source="author" id="/page/6/Text/2">
+Idea realisation is the third and final stage in the innovation process. This stage aims to produce a  prototype or model of the new idea that can be implemented and practised within a job role, a team  or the whole company (Kanter 1988). An intrapreneurial personality trait is described as a  combination of thinker, doer, planner, and worker, so individuals who are high in intrapreneurial  personality trait have the vision and the action (Zhu, Djurjagina &amp; Leker 2014). These traits are  associated with individuals' innovative behaviours (Amo &amp; Kolvereid 2005); however, Baruah  and Ward (2015) stressed the importance of the commitment from top management to support the  innovation of the intrapreneurs. Both top management and middle management have an important  role in supporting and encouraging intrapreneurs. Realising a new idea is guided by shared  understanding and vision among the individuals within the company (Perry-Smith &amp; Mannucci,  2017). Hence, network closure (Coleman 1988) and external ties outside the team (Tortoriello &amp;  Krackhardt 2010) best support idea realisation. In addition, individuals' networks will assist them  in securing their colleagues' cooperation, smooth task coordination, easier knowledge transfer, and  obtaining the required resources for implementation (Obstfeld 2005; McFadyen, Semadeni &amp;  Cannella 2009). Based on the above discussions, the following hypothesis is proposed:
+</text>
+
+
+<heading page="7" section="*H3: Network building ability mediates* *the relation between * *intrapreneurial personality trait and idea realisation.*" source="author" id="/page/6/SectionHeader/3" level="3">
+### *H3: Network building ability mediates* *the relation between * *intrapreneurial personality trait and idea realisation.*
+</heading>
+
+<text page="7" section="*H3: Network building ability mediates* *the relation between * *intrapreneurial personality trait and idea realisation.*" source="author" id="/page/6/Text/4">
+Figure 1 illustrates the study's conceptual model.
+</text>
+
+</page>
+<page number="8">
+<figure page="8" section="*H3: Network building ability mediates* *the relation between * *intrapreneurial personality trait and idea realisation.*" source="author" id="/page/7/Figure/0" image="A3.R71_fig01.jpg">[FIGURE: see A3.R71_fig01.jpg]</figure>
+
+
+<heading page="8" section="*Methodology*" source="author" id="/page/7/SectionHeader/1" level="3">
+### *Methodology*
+</heading>
+
+<text page="8" section="*Methodology*" source="author" id="/page/7/Text/2">
+The research investigated the relation between intrapreneurial personality, network building ability  and individuals' innovative behaviours. Therefore quantitative methodological approach will be  appropriate to deduct the nature of relations amongst the variables.
+</text>
+
+
+<heading page="8" section="*Data Collection and Sample*" source="author" id="/page/7/SectionHeader/3" level="3">
+### *Data Collection and Sample*
+</heading>
+
+<text page="8" section="*Data Collection and Sample*" source="author" id="/page/7/Text/4">
+The study has chosen the UAE service sector employees to represent its population, given its  importance to the UAE as a service-driven economy (Augustine, 2016). The service sector forms  53.11% of the country GDP (Statista, 2020). The UAE government aims to inspire innovation in  all sectors. Hence the UAE service sector formed a rich context to examine innovation (Rodrigues,  Sarabdeen &amp; Balasubramanian, 2016; Nasaj &amp; Al Marri, 2018; Bani-Melhem, Zeffane &amp; Albaity,  2018; Al-Hawari et al., 2019; Nasaj, 2020; Nasaj, 2021). A random sampling technique was  followed to reduce the probability of bias in the collected data (Kothari, 2004). The research  selected two organisations from the following sub-sectors: banking, health care, education, hotels,  and telecommunication. Human Resources (HR) managers in each organisation were asked to  randomly distribute the research's online survey questionnaire to employees from different  departments (100 surveys in each organisation). A total of 570 responses were received, 410 were  completed and usable. Therefore the study has a 41% effective response rate. SPSS v23.0 and  Amos v23.0 programs were used to perform data analysis.
+</text>
+
+
+<heading page="8" section="*Research Measures*" source="author" id="/page/7/SectionHeader/5" level="3">
+### *Research Measures*
+</heading>
+
+</page>
+<page number="9">
+<text page="9" section="*Research Measures*" source="author" id="/page/8/Text/0">
+The following measures were adopted to operationalise the study's variables. All measures  employed are based on previously validated scales from the extant literature. All the scales' items  are listed in Appendix 1.
+</text>
+
+<text page="9" section="*Research Measures*" source="author" id="/page/8/Text/1">
+*Individuals'* *Innovative Behaviours: *It is importance that the individuals self-assess their  innovative behaviour rather than colleagues' or supervisors' assessment (Janssen, 2000). Since  individuals would have more information about their daily work activities than their supervisors  or peers; therefore, they will be more precise in evaluating these activities. In addition, when  supervisors are requested to assess the innovativeness of their employees, they may disregard  aspects of innovation because they will only assess the behaviours that kept an impression on them  since innovative behaviour is sensitive to individual's characteristics. Individuals' innovative  behaviours were measured via Janssen's (2000) nine-item self-evaluated survey that adopts three  items to measure each of the three employees' innovative behaviours (idea generation, idea  promotion, and idea realisation). Cronbach's alpha ranged between 0.74 to 0.88.
+</text>
+
+<text page="9" section="*Research Measures*" source="author" id="/page/8/Text/2">
+*Network Building Ability: *Ferris et al. (2005) have suggested a self-rating six-item scale that  measures the ability of the individual to create networks and benefit from the people in their  networks as one of the facets of political skills. Cronbach's alpha was 0.89 (see Table 2).
+</text>
+
+<text page="9" section="*Research Measures*" source="author" id="/page/8/Text/3">
+*Intrapreneurial Personality Trait: *Amo and Kolvereid (2005) suggested 12-items questions derived from Pinchot (1985) work that presented a test "Are you an Intrapreneur?" Amo and  Kolvereid (2005) collected their data from 634 master degree graduates in business from a college  in Norway. Cronbach's alpha was 0.90 (see Table 2). The details of the items used can be found  in the appendices.
+</text>
+
+<text page="9" section="*Research Measures*" source="author" id="/page/8/Text/4">
+*Demographic Variables: *Data on the participant's age, gender, experiences and education has  been collected since they may have a significant effect on employees' perceptions of their work  that may influence their job's attitude, process and performance (Kirkman, Tesluk &amp; Rosen, 2004;  Pelled, Xin &amp; Weiss, 2004). The gender was included as a dummy variable (male=1 and  female=0). Age was measured in years (1= 18-25 years, 2 = 26-33 years, 3= 34-41 years, 4=42-49  years, 5=more than 50 years). As per years of experience (1= less than one year, 2= 1-3 years, 3=  3-6 years, 4= 6-10 years, 5= more than 10 years). Educational background was measured by the  following scale points (1= High School, 2= Diploma, 3= Bachelor, 4= Masters, 5= Doctorate). The  research participants' profile is summarised in table1.
+</text>
+
+<table_group page="9" section="*Research Measures*" source="author" id="/page/8/TableGroup/181">
+<caption page="9" section="*Research Measures*" source="author" id="/page/8/Caption/5">
+**Table 1 **Participants' profile summary
+</caption>
+<table page="9" section="*Research Measures*" source="author" id="/page/8/Table/6">
+| Variable | Item | Frequency | Percentage |  |
+| --- | --- | --- | --- | --- |
+| Gendre | Male | 252 | 61.46 |  |
+</table>
+</table_group>
+
+</page>
+<page number="10">
+<table page="10" section="*Research Measures*" source="author" id="/page/9/Table/0">
+|  | Female | 158 | 38.54 |
+| --- | --- | --- | --- |
+| Age | 18 –25 | 55 | 13.41 |
+|  | 26 –33 | 130 | 31.71 |
+|  | 34 –41 | 163 | 39.76 |
+|  | 42 –49 | 42 | 10.24 |
+|  | < 50 | 20 | 4.88 |
+| Experience | > 1 | 27 | 6.59 |
+|  | 1 –3 | 42 | 10.24 |
+|  | 4 –6 | 51 | 12.44 |
+|  | 7 –10 | 84 | 20.49 |
+|  | < 10 | 206 | 50.24 |
+| Education | High School | 44 | 10.73 |
+|  | Diploma | 45 | 10.98 |
+|  | Bachelor | 191 | 46.59 |
+|  | Master | 112 | 27.32 |
+|  | Doctorate | 18 | 4.39 |
+</table>
+
+
+<heading page="10" section="*Data Analysis*" source="author" id="/page/9/SectionHeader/1" level="3">
+### *Data Analysis*
+</heading>
+
+
+<heading page="10" section="*Common Method Bias*" source="author" id="/page/9/SectionHeader/2" level="3">
+### *Common Method Bias*
+</heading>
+
+<text page="10" section="*Common Method Bias*" source="author" id="/page/9/Text/3">
+Nowadays, business research academics stress the importance of testing common method bias  (Williams et al., 2010), especially in self-administrated survey research (Chang et al., 2010).  Harman's single-factor test for common method bias (Podsakoff &amp; Organ, 1986) was performed since it is commonly used in literature (Fuller et al., 2016). The results show that the single factor  explains only 26.514% of the collected data, which is less than 50%. Therefore, the study does not  have a common method bias issue.
+</text>
+
+
+<heading page="10" section="*Validity and Reliability*" source="author" id="/page/9/SectionHeader/4" level="3">
+### *Validity and Reliability*
+</heading>
+
+<text page="10" section="*Validity and Reliability*" source="author" id="/page/9/Text/5">
+Constructs' reliability was examined via running a set of tests. The first test was Cronbach's alpha, with results indicating reliable scales since all constructs have results higher than 0.7 (Mallory &amp;  George 2003). Kaiser-Meyer-Olkin (KMO) test that measures sample adequacy was also applied. For the KMO test, the closer the value to 1.0, the more reliable the scale, whereas a value less than  0.50 indicates that the scale is not reliable (Morgan et al., 2004). The results show that (KMO =  .868). The last test was the Bartlett Test of Sphericity, which examines the occurrence of  correlations; the significance of this test refers to reliable scales (Hair et al., 2010). The results  illustrate that Bartlett Test of Sphericity = (.000). The three conducted reliability tests verified that  the research's scales are reliable. Table 2 illustrates the correlation matrix and descriptive statistics  for the research's variables.
+</text>
+
+<table_group page="10" section="*Validity and Reliability*" source="author" id="/page/9/TableGroup/254">
+<caption page="10" section="*Validity and Reliability*" source="author" id="/page/9/Caption/6">
+**Table 2 **Correlation matrix and descriptive statistics
+</caption>
+<table page="10" section="*Validity and Reliability*" source="author" id="/page/9/Table/7">
+|  | Mean | Std.Deviation | Cronbach'salpha | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1-Gender | 1.39 | .487 | - | - |  |  |  |  |  |  |  |  |
+</table>
+</table_group>
+
+</page>
+<page number="11">
+<table page="11" section="*Validity and Reliability*" source="author" id="/page/10/Table/0">
+| 2-Age | 2.61 | 1.003 | - | 216** | - |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 3-Experience | 3.98 | 1.278 | - | 330** | .684** | - |  |  |  |  |  |  |
+| 4-Education | 3.04 | .994 | - | 140** | .237** | .287** | - |  |  |  |  |  |
+| 5-Intraprenuerial Pers | 3.146 | .623 | .900 | 050 | .232** | .253** | .342** | (.692) |  |  |  |  |
+| 6-Network Building | 3.675 | 1.082 | .895 | 075 | .045 | .106* | .045 | .264** | (.811) |  |  |  |
+| 7-Idea Generation | 4.243 | .791 | .883 | 069 | .108* | .140** | .122* | .192** | .312** | (.904) |  |  |
+| 8-Idea Promotion | 4.217 | .668 | .759 | 125* | .089 | .153** | .118* | .147** | .343** | .229** | (.822) |  |
+| 9-Idea Realisation | 4.410 | .602 | .745 | 032 | .004 | .020 | .008 | .195** | .247** | .289** | .424** | (.806) |
+</table>
+
+<text page="11" section="*Validity and Reliability*" source="author" id="/page/10/Text/1">
+Note: N= 406. *p&lt;.05, **p&lt;.01.
+</text>
+
+<text page="11" section="*Validity and Reliability*" source="author" id="/page/10/Text/2">
+Notes: AVE is shown in diagonal and between brackets
+</text>
+
+<text page="11" section="*Validity and Reliability*" source="author" id="/page/10/Text/3">
+Factor analysis was conducted to validate the research's variables. Exploratory Factor Analysis  was performed adopting the principal component analysis as the extraction method and varimax  as the rotation method. The scree plot diagram represented in Figure (2) demonstrates that the  research has five latent variables that have Eigenvalues of more than 1. The results match the  number of constructs in this research.
+</text>
+
+<caption page="11" section="*Validity and Reliability*" source="author" id="/page/10/Caption/5">
+**Figure 2: Scree plot diagram**
+</caption>
+
+<text page="11" section="*Validity and Reliability*" source="author" id="/page/10/Text/6">
+In addition, the EFA results show that all items in the questionnaire loaded on their constructs and  have acceptable values that is more than 0.45 (Field, 2013). EFA results are provided in Table 3.
+</text>
+
+</page>
+<page number="12">
+<table_group page="12" section="*Validity and Reliability*" source="author" id="/page/11/TableGroup/187">
+<caption page="12" section="*Validity and Reliability*" source="author" id="/page/11/Caption/0">
+**Table 3 **Exploratory factor analysis
+</caption>
+<table page="12" section="*Validity and Reliability*" source="author" id="/page/11/Table/1">
+|  |  | Rotated Component Matrixa |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | Component |  |  |
+|  | 1 | 2 | 3 | 4 | 5 |
+| IntraP01 | .757 |  |  |  |  |
+| IntraP02 | .713 |  |  |  |  |
+| IntraP03 | .764 |  |  |  |  |
+| IntraP04 | .779 |  |  |  |  |
+| IntraP05 | .630 |  |  |  |  |
+| IntraP06 | .516 |  |  |  |  |
+| IntraP07 | .743 |  |  |  |  |
+| IntraP08 | .614 |  |  |  |  |
+| IntraP09 | .754 |  |  |  |  |
+| IntraP10 | .624 |  |  |  |  |
+| IntraP11 | .695 |  |  |  |  |
+| IntraP12 | .581 |  |  |  |  |
+| NBA01 |  | .799 |  |  |  |
+| NBA02 |  | .808 |  |  |  |
+| NBA03 |  | .742 |  |  |  |
+| NBA04 |  | .848 |  |  |  |
+| NBA05 |  | .686 |  |  |  |
+| NBA06 |  | .819 |  |  |  |
+| IBIG01 |  |  | .932 |  |  |
+| IBIG02 |  |  | .935 |  |  |
+| IBIG03 |  |  | .700 |  |  |
+| IBIP04 |  |  |  |  | .696 |
+| IBIP05 |  |  |  |  | .732 |
+| IBIP06 |  |  |  |  | .771 |
+| IBIR07 |  |  |  | .696 |  |
+| IBIR08 |  |  |  | .749 |  |
+| IBIR09 |  |  |  | .733 |  |
+</table>
+</table_group>
+
+<text page="12" section="*Validity and Reliability*" source="author" id="/page/11/Text/2">
+Extraction Method: Principal Component Analysis.
+</text>
+
+<text page="12" section="*Validity and Reliability*" source="author" id="/page/11/Text/3">
+Rotation Method: Varimax with Kaiser Normalization.
+</text>
+
+<text page="12" section="*Validity and Reliability*" source="author" id="/page/11/Text/5">
+In terms of Confirmatory Factor Analysis (CFA) the results show that the research model has a  good model because all the indices have a acceptable values: χ2/df = 2.290 (Schreiber et al. 2006),  RMR = .065 (Browne &amp; Cudeck, 1993), CFI = .931 (Byrne, 2010), IFI = 0.932 (Bentler, 2007),  TLI = .922 (Marsh et al., 2004), RMSEA = .056 (Steiger, 2007).
+</text>
+
+<footnote page="12" section="*Validity and Reliability*" source="author" id="/page/11/Footnote/4">
+a. Rotation converged in 6 iterations.
+</footnote>
+
+</page>
+<page number="13">
+<text page="13" section="*Validity and Reliability*" source="author" id="/page/12/Text/0">
+Finally, convergent and discriminant validity of the measurement scales were performed. The cutoff criteria of more than 0.5 for adequacy of results (Hair et al., 2006) were adopted. To examine  the discriminative validity of the constructs, the square root of average variance extracted (AVE)  was compared with inter-construct correlations of the constructs. When the square root of AVE is  greater than the inter-construct correlation, the constructs discriminant validity is established (Hair  et al., 2006). The results illustrated in Table 2 show that convergent and discriminant validity is  achieved.
+</text>
+
+
+<heading page="13" section="*Results*" source="author" id="/page/12/SectionHeader/1" level="3">
+### *Results*
+</heading>
+
+<text page="13" section="*Results*" source="author" id="/page/12/Text/2">
+This research investigates the mediation role of network building ability on the relationship  between intrapreneurial personality and individuals' innovative behaviour. Structural equation  modelling with robust maximum likelihood estimation was conducted to examine the research  hypotheses. The structural equation model is represented in Figure 3.
+</text>
+
+<figure_group page="13" section="*Results*" source="author" id="/page/12/FigureGroup/68">
+<figure page="13" section="*Results*" source="author" id="/page/12/Figure/3" image="A3.R71_fig02.jpg">[FIGURE: see A3.R71_fig02.jpg]</figure>
+<caption page="13" section="*Results*" source="author" id="/page/12/Caption/4">
+**Figure 3: Structural equation model**
+</caption>
+</figure_group>
+
+<text page="13" section="*Results*" source="author" id="/page/12/Text/5">
+Research SEM fit indices illustrated a good model fit: χ2/df = 2.352, RMR = .067, CFI = .928, IFI  = 0.929, TLI = .918, RMSEA = .057. The results of direct relations amongst the constructs are  illustrated in table (4)
+</text>
+
+<text page="13" section="*Results*" source="author" id="/page/12/Text/6">
+**Table 4** SEM Direct Relations Results
+</text>
+
+</page>
+<page number="14">
+<table page="14" section="*Results*" source="author" id="/page/13/Table/0">
+|  | Paths |  | Estimate | S.E. | C.R. | P |
+| --- | --- | --- | --- | --- | --- | --- |
+| Intrapreneurial Personality | > | Network Building | .310 | .058 | 5.342 | *** |
+| Network Building | > | Idea Generation | .233 | .039 | 6.021 | *** |
+| Network Building | > | Idea Promotion | .214 | .034 | 6.333 | *** |
+| Network Building | > | Idea Realisation | .116 | .029 | 3.943 | *** |
+| Intrapreneurial Personality | > | Idea Generation | .079 | .042 | 1.877 | .061 |
+| Intrapreneurial Personality | > | Idea Promotion | .012 | .034 | .358 | .720 |
+| Intrapreneurial Personality | > | Idea Realisation | .103 | .032 | 3.186 | .001 |
+</table>
+
+<text page="14" section="*Results*" source="author" id="/page/13/Text/1">
+The results demonstrated that intrapreneurial personality is significantly related to network  building ability and idea realisation at 99% confidence level, whereas not significantly related to  idea generation and idea promotion at 95% confidence level. In addition, network building ability  is significantly related at 99% confidence level with each behaviour of the individuals' innovative  behaviours. Therefore, a potential mediating role is assumed.
+</text>
+
+<text page="14" section="*Results*" source="author" id="/page/13/Text/2">
+The bootstrapping method (Preacher &amp; Hayes, 2004) examined the indirect effect to validate  further the mediating role of network building ability, which is a recommended method for  examining mediation variables (MacKinnon et al., 2012; Hayes, 2017). The bootstrapping method  contained 5000 repeated samples that were used to attain 95% confidence intervals for the indirect  effects of intrapreneurial personality on idea generation, idea promotion and idea realisation. The  results of the indirect relations are illustrated in table 5.
+</text>
+
+<table_group page="14" section="*Results*" source="author" id="/page/13/TableGroup/221">
+<caption page="14" section="*Results*" source="author" id="/page/13/Caption/3">
+**Table 5** Indirect Relations Results
+</caption>
+<table page="14" section="*Results*" source="author" id="/page/13/Table/4">
+|  | Paths |  | Lower Bounds | Upper Bounds | Two TailedSignificance |
+| --- | --- | --- | --- | --- | --- |
+| STARA ChallengeAppraisal | > | Team InnovativeBehvaiour | .415 | .892 | .003 |
+| STARA HindranceAppraisal | > | Team InnovativeBehvaiour | .221 | .653 | .006 |
+</table>
+</table_group>
+
+</page>
+<page number="15">
+<text page="15" section="*Results*" source="author" id="/page/14/Text/0">
+The results of the indirect relation between intrapreneurial personality and idea generation  illustrate that (Lower Limit .038, Upper Limit .122) and 0 is not included in the interval of the  results that means H1 is supported. Since there is no significant direct relation between  intrapreneurial personality and idea generation, it is safe to say that network building ability is a  full mediator of the relation between intrapreneurial personality and idea generation.
+</text>
+
+<text page="15" section="*Results*" source="author" id="/page/14/Text/1">
+As per H2, the results of the indirect relation between intrapreneurial personality and idea  promotion indicate that (Lower Limit .034, Upper Limit .114), since 0 is not included in the  interval of the results. Therefore H2 is supported. With the absence of a significant relation  between intrapreneurial personality and idea promotion, network building ability assumes a full  mediator between the two.
+</text>
+
+<text page="15" section="*Results*" source="author" id="/page/14/Text/2">
+Finally, for H3, the results of the indirect relation between intrapreneurial personality and idea  realisation are (Lower Limit .013, Upper Limit .072), and 0 is not included in the interval of the  results. Hence H3 is supported. Network building ability partially mediates the relation between  intrapreneurial personality and idea realisation since there is a significant direct relation between  intrapreneurial personality and idea realisation.
+</text>
+
+
+<heading page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/SectionHeader/3" level="3">
+### *Discussion* *and conclusion*
+</heading>
+
+<text page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/Text/4">
+This study aimed to answer two main research questions, in the context of service industries in the  UAE :
+</text>
+
+<text page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/Text/5">
+*What is the relationship between an intrapreneurial personality trait and innovation, and does * *network building ability act as a mediating mechanism of influence?*
+</text>
+
+<text page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/Text/6">
+In response to the first question, two significant findings emerged from the study. First, a direct  relationship was found between the intrapreneurial personality trait and the idea realisation stage.  Second, no direct relationship was found between the intrapreneurial personality trait and the other  two stages of the innovation process: idea generation and idea promotion. Supporting Sinha and  Srivastava's (2013) claim that intrapreneurs are not idea-generators, the findings underline that  intrapreneurs can turn ideas into significant results to motivate innovation through idea realisation.
+</text>
+
+<text page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/Text/7">
+In response to the second question, a direct relation between the intrapreneurial personality trait  and network building ability has been found. This finding further supports the work of Blanka  (2018), who pointed out that intrapreneurs actively seek to create relationships and build networks  inside and outside the organisation. In addition, this finding further supports De Jong and  Wennekers (2008) work in which they stressed the important role of social capital in helping the  intrapreneurs' active search for information. The more information the intrapreneurs collect from  their network, the more they may link ideas together and develop new ideas to solve their issues.  This supports the aims of service innovation to provide innovative solutions for the customers  (Miles, Miles &amp; Snow 2006; Hertog et al., 2010).
+</text>
+
+<text page="15" section="*Discussion* *and conclusion*" source="author" id="/page/14/Text/8">
+Furthermore, the findings suggest that intrapreneurs depend on building networks to cultivate the  social capital they utilise to generate, promote and realise their innovative ideas. The study's result  -which points to the importance of network building ability for intrapreneurs' innovation- answers
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="*Discussion* *and conclusion*" source="author" id="/page/15/Text/0">
+the question that was raised by Neessen's et al. (2019) literature review. Neessen's et al. (2019)  pointed that measuring the individual's intrapreneurship by three behaviours: innovativeness,  proactiveness and risk-taking is not enough and they recommended to include networking to this  scale and test if the behaviour can compensate the low score of other behaviours. Based on the  study's results, this was confirmed as the study found that network building ability can compensate  the lack of a direct relationship between intrapreneurial personality trait and idea generation and idea promotion stages of innovation. In addition, in their definition of intrapreneurship, De Jong  and Wennekers (2008) pointed that intrapreneurs through proactive behaviour concentrate on  pursuing opportunity with no regard to the resources they currently control. However, somehow  intrapreneurs always seem to find a way to do so. This study might point that the way that the  intrapreneurs adapt to implement their ideas and mobilise the needed resource is through building  social networks. In addition, one of the differences between entrepreneurs and intrapreneurs is that  intrapreneurs use the resources of the organisation that they work at, whereas entrepreneurs depend  on their own resources; this means that intrapreneurs use the organisation's existing resources and  essentially work within their organisations' policies (Camelo-Ordaz et al. 2012; Baruah &amp; Ward  2015). Based on this, creating relationships with decision makers, mangers, and colleagues is very  important for the intrapreneurs. These relationship enable the intrapreneurs to mobilise the needed  resource within their company to promote or to realise their innovative ideas because essentially  the intrapreneurs are not using their own resources, and they need approvals to be able to use the  organisation's resources. This result explains furthermore the mechanism of how intrapreneurs  innovate in their organisations and gain their top and middle management commitment to support  them which is a key element for the growth of intrapreneurship in organisations (Lankinen et al.  2013; Baruah &amp; Ward 2015). Finally, the previous debate contributes to the growing scholarly  impetus to investigate the co-evolutionary perspective that interprets behaviours from both  psychological and sociological stances (Snyder &amp; Deaux, 2012; Anderson et al., 2014; Tasselli et  al., 2015; Fang et al., 2015; Baer et al., 2015; Landis, 2016; Nasaj &amp; Badi, 2021; Nasaj, 2021).
+</text>
+
+
+<heading page="16" section="*Managerial* *Implications, Limitations and Future Research Directions*" source="author" id="/page/15/SectionHeader/1" level="3">
+### *Managerial* *Implications, Limitations and Future Research Directions*
+</heading>
+
+<text page="16" section="*Managerial* *Implications, Limitations and Future Research Directions*" source="author" id="/page/15/Text/2">
+The research offers several practical contributions for managers in the service sector. Firstly, for  recruitment managers who are trying to support their companies with employees who can be  innovative. The study highlights that intrapreneurial personality traits are related to innovation;  therefore, HR managers may improve their recruitment practices by applying self-report or  observer rating personality testing for trait IP (Connolly, Kavanagh &amp; Viswesvaran 2007). Secondly, the integrative research model of personality and networking illustrates that hiring  individuals with the right personality traits is not enough to guarantee their innovativeness without  any support from their surroundings. Hence, service sector managers should try to create  networking events among their employees since the results demonstrate that the more the  employees build networks with their managers and colleagues, the more they will have access to  information and come up with novel ideas and solutions for current problems. One of the service  innovation characteristics is customer participation (Chen, Tsou &amp; Ching 2011), which clouds the  borderline between customers and employees to the extent of seeing the customers as partial  employees and resources of innovative behaviours (Duverger 2012). Therefore, organising social  events that facilitate creating relationships between frontline employees and the company's  customers will increase the opportunity for the employees to identify problems and motivate them  to come up with innovative solutions. Furthermore, highlighting the importance of network
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="*Managerial* *Implications, Limitations and Future Research Directions*" source="author" id="/page/16/Text/0">
+building ability of the individuals to innovate, HR managers may identify jobs with innovative  skills requirements and allocate activities and tasks in their job description that encourage  socialising and networking with customers and colleagues. While intrapreneurial personality is  understodd as a stable trait (which individuals either have or have not), Network Building Ability is potentially a skill that can be taught, therfore HR managers should incorporate building  networking skills in their annual training plans to increase their employees innovativeness.
+</text>
+
+<text page="17" section="*Managerial* *Implications, Limitations and Future Research Directions*" source="author" id="/page/16/Text/1">
+The research is subject to several limitations that need to be highlighted. First, the cross-sectional  nature of the data may leave areas for assumptions regarding causality among the variables.  Therefore, to validate the research results, a longitudinal study is suggested. Second, another  limitation is the adopted self-administrated survey that might leave an opportunity for the  participants to be biased. Nevertheless, asking the individuals to rate their innovativeness is  defended by (Amo, 2005). An individual may behave innovatively based on their characteristics  for mainly two reasons: either influenced by their organisation or management to be innovative or  as a personal initiative not necessarily approved by their management. Therefore, asking the  individuals' superiors or colleagues to rate their innovative behaviours may not be fair on the side  of the individuals since the evaluator will rate them based on the behaviours that they like and  approve only and not the personal initiative of the individuals. Finally, employees possess more  information about their daily jobs than their managers (Janssen, 2000). Hence, employees will  evaluate their innovativeness more precisely than their managers.
+</text>
+
+<text page="17" section="*Managerial* *Implications, Limitations and Future Research Directions*" source="author" id="/page/16/Text/2">
+Furthermore, managerial assessment of the employees' innovativeness may ignore the core  innovation of the employees since they will be assessing the behaviours that only left an impression  on them since innovative behaviours are extremely sensitive to individuals' differences. In  addition, using self-report surveys is very common in intrapreneurship literature (Monsen &amp; Boss  2009; Wakkee et al. 2010; Bosma et al. 2012; Moriano et al. 2014). However, future research  might adopt different reporting styles to add further validation of the research's results. The  research selected the UAE service sector as the study population. Therefore, the generalizability  of the research's findings may be limited since cultural differences may influence individuals' innovation. For example, an individual's risk-taking tendency positively relates to the individual's  innovative behaviour (Angel Ferrero &amp; Bessière 2018). However, some cultures may influence  the individual's tendency to be risk-taking or risk-averse more than other cultures (Hofstede 2001).  Hence, these cultural differences may influence the individual's innovative behaviours. Therefore,  the study suggests future research investigating the study's conceptual framework in other cultures  to validate its results. Finally, this research is an early step on the road toward bridging the  psychological-sociological chasm through research that examines the mediation or moderation  effect of social science variables over personality traits or other psychological variables to clarify  the magnitude of modern work behaviours in organisations. Hence, future research might consider  different personality or social science variables that will improve our understanding of the  psychological-sociological co-evolutionary perspective.
+</text>
+
+
+<heading page="17" section="*References*" source="author" id="/page/16/SectionHeader/3" level="2">
+## *References*
+</heading>
+
+<text page="17" section="*References*" source="author" id="/page/16/Text/4">
+Al-Hawari, M.A., Bani-Melhem, S. and Shamsudin, F.M. (2019), "Determinants of frontline  employee service innovative behavior: The moderating role of co-worker socializing and service
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="*References*" source="author" id="/page/17/Text/0">
+climate", Management Research Review, Vol. 42 No. 9, pp. 1076-1094.  https://doi.org/10.1108/MRR-07-2018-0266
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/1">
+Åmo, B.W. &amp; Kolvereid, L. (2005). Organisational strategy, individual personality and  innovation behavior. *Journal of Enterprising Culture*, vol.13(01), pp.7-19.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/2">
+Åmo, B.W. (2005). *Employee innovation behavior.* *Doctoral thesis (Ph.D.) –* *Bodø Graduate * *School of Business.*
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/3">
+Amo, B.W. (2010). Corporate entrepreneurship and intrapreneurship related to innovation  behaviour among employees*. International Journal of Entrepreneurial Venturing,* vol. 2(2),  pp.144-158.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/4">
+Anderson, N., Potočnik, K. &amp; Zhou, J. (2014). Innovation and creativity in organisations: A  state-of-the-science review, prospective commentary, and guiding framework. *Journal of * *Management, *vol. 40(5), pp.1297-1333.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/5">
+Angel Ferrero, M.C. &amp; Bessière, V. (2018). Individual innovation: an experimental study on the  role of confidence and risk taking. *In Academy of Management Proceedings, *vol. 2018(1), pp.  12407. Briarcliff Manor, NY 10510: Academy of Management.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/6">
+Augustine, B.D. (2016). Services sector to become key driver of UAE's trade growth between  now and 2030, *Gulf News*, 15 December 15 (online), available at:  [https://gulfnews.com/business/servicessector-](https://gulfnews.com/business/servicessector-%20to-become-key-driver-of-uaes-trade-growth-between-now-and-2030-1.1947070) to-become-key-driver-of-uaes-trade-growth[between-now-and-2030-1.1947070](https://gulfnews.com/business/servicessector-%20to-become-key-driver-of-uaes-trade-growth-between-now-and-2030-1.1947070)
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/7">
+Baer, M.Evans, K., Oldham, G.R. &amp; Boasso, A. (2015). The social network side of individual  Innovation: A meta-analysis and path-analytic integration*. Organisational Psychology Review*,  vol. 5(3), pp.191-223.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/8">
+Bani-Melhem, S., Zeffane, R. and Albaity, M. (2018), "Determinants of employees' innovative  behavior", International Journal of Contemporary Hospitality Management, Vol. 30 No. 3, pp.  1601-1620. https://doi.org/10.1108/IJCHM-02-2017-0079
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/9">
+Barrick, M.R., Parks, L. &amp; Mount, M.K. (2005). Self‐monitoring as a moderator of the  relationships between personality traits and performance. *Personnel Psychology*, vol.58(3),  pp.745-767.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/10">
+Baruah, B. &amp; Ward, A. (2015). Metamorphosis of intrapreneurship as an effective organisational  strategy. *International entrepreneurship and management journal* vol. 11(4), pp.811-822.
+</text>
+
+<text page="18" section="*References*" source="author" id="/page/17/Text/11">
+Bentler, P.M. (2007). On tests and indices for evaluating structural models. *Personality and * *Individual differences, *vol.42 (5), pp.825-829.
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="*References*" source="author" id="/page/18/Text/0">
+Bitner, M.J., Ostrom, A.L. &amp; Morgan, F.N. (2008). Service blueprinting: a practical technique  for service innovation*. California management review*, vol. 50(3), pp.66-94.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/1">
+Bjornali, E.S. &amp; Støren, L.A.(2012) . Examining competence factors that encourage innovative  behaviour by European higher education graduate professionals. *Journal of Small Business and * *Enterprise Development.*
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/2">
+Blanka, C. (2018). An individual-level perspective on intrapreneurship: a review and ways  forward. *Review of Managerial Science*, vol.13 (5), pp.1-43.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/3">
+Block, Z. and I. MacMillan (1993). Corporate Venturing. Harvard Business School Press,  Boston, MA
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/4">
+Bosma, N., Wennekers, S., &amp; Amorós, J. E. (2012). Global enterprenerurship monitor 2011  extended report: Entrepreneurs and entrepreneurial employees across the globe*. Global * *Entrepreneurship Monitor*, vol. 59, pp.1-239.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/5">
+Browne, M.W. &amp; Cudeck, R. (1993). Alternative ways of assessing model fit. *Sage focus * *editions*, vol.154, pp.136-136..
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/6">
+Burt, R.S. (2009). Structural holes: The social structure of competition. *Harvard university press*.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/7">
+Byrne, B., M. (2010) Structural equation modeling with AMOS: Basic concepts, applications  and programming, New Jersey. Lawrence Erlbaum Associates Publishers.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/8">
+Camelo-Ordaz, C., Fernández-Alles, M., Ruiz-Navarro, J. &amp; Sousa-Ginel, E.( 2012). The  intrapreneur and innovation in creative firms. *International Small Business Journal*,vol. 30(5),  pp.513-535.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/9">
+Campo, S., M. Díaz, A. and J. Yagüe, M. (2014), "Hotel innovation and performance in times of  crisis", International Journal of Contemporary Hospitality Management, Vol. 26 No. 8, pp. 1292- 1311. https://doi.org/10.1108/IJCHM-08-2013-0373
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/10">
+Chang, S.J., Van Witteloostuijn, A. &amp; Eden, L. (2010). From the editors: Common method  variance in international business research*. Journal of International Business Studies*, vol. 41 (2),  pp.178–184
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/11">
+Chen, J.S., Tsou, H.T. and Ching, R.K., 2011. Co-production and its effects on service  innovation. *Industrial Marketing Management*, Vol 40(8), pp.1331-1346.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/12">
+Christensen, K.S. (2005). Enabling intrapreneurship: the case of a knowledge‐intensive industrial  company*. European Journal of Innovation Management*.
+</text>
+
+<text page="19" section="*References*" source="author" id="/page/18/Text/13">
+Coleman, J. S. (1988) . Social capital in the creation of human capital*. American Journal of * *Sociology*, vol. 94, pp. S95–S120.
+</text>
+
+</page>
+<page number="20">
+<text page="20" section="*References*" source="author" id="/page/19/Text/0">
+Coleman, J.S.(2000). Social capital in the creation of human capital*. In knowledge and social * *capital,* pp. 17-41.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/1">
+Connolly, J. J., Kavanagh, E. J., &amp; Viswesvaran, C. (2007). The convergent validity between self  and observer ratings of personality: A meta‐analytic review. *International Journal of Selection * *and Assessment*, vol. 15(1), pp.110-117.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/2">
+Coombs, R. &amp; Miles, I.( 2000). Innovation, measurement and services: the new problematique'a.  *In Innovation systems in the service economy,* pp.85-103. Springer, Boston, MA.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/3">
+Drejer, I. (2004). Identifying innovation in surveys of services: a Schumpeterian perspective.  *Research policy,* vol. 33(3), pp.551-562.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/4">
+Duverger, P. (2012). Using dissatisfied customers as a source for innovative service ideas*. * *Journal of Hospitality &amp; Tourism Research*, vol. 36(4), pp.537-563.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/5">
+De Jong, J. &amp; Wennekers, S. (2008). Intrapreneurship; conceptualising entrepreneurial employee  behaviour (No. H200802*). EIM Business and Policy Research*.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/6">
+Den Hertog, P., Van der Aa, W. &amp; De Jong, M.W. (2010) . Capabilities for managing service  innovation: towards a conceptual framework. *Journal of service Management*, vol. 21(4),  pp.490-514.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/7">
+Douglas, E.J. &amp; Fitzsimmons, J.R. (2013). Intrapreneurial intentions versus entrepreneurial  intentions: distinct constructs with different antecedents. *Small business economics*, vol. 41(1),  pp.115-132.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/8">
+Fang, R., Landis, B., Zhang, Z., Anderson, M.H., Shaw, J.D. &amp; Kilduff, M.( 2015). Integrating  personality and social networks: A meta-analysis of personality, network position, and work  outcomes in organisations. *Organization Science*, vol. 26(4), pp.1243-1260.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/9">
+Ferris, G.R., Treadway, D.C., Kolodinsky, R.W., Hochwarter, W.A., Kacmar, C.J., Douglas, C.  &amp; Frink, D.D.(2005). Development and validation of the political skill inventory. *Journal of * *Management,* vol. 31(1), pp.126-152.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/10">
+Field, A. (2013). Discovering statistics using IBM SPSS statistics. sage.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/11">
+Forsman, H. (2011). Innovation capacity and innovation development in small enterprises. A  comparison between the manufacturing and service sectors. *Research Policy*, vol. 40(5), pp.739- 750.
+</text>
+
+<text page="20" section="*References*" source="author" id="/page/19/Text/12">
+Fuller, C.M., Simmering, M.J., Atinc, G., Atinc, Y. &amp; Babin, B.J. (2016). Common methods  variance detection in business research. *Journal of Business Research*, vol. 69(8), pp.3192-3198.
+</text>
+
+</page>
+<page number="21">
+<text page="21" section="*References*" source="author" id="/page/20/Text/0">
+Gallouj, F. (2002) Innovation in services and the attendant old and new myths*. The Journal of * *Socio-Economics, *vol. 31(2), pp.137-154.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/1">
+Granovetter, M.S.(1983). The strength of weak ties: A network theory revisited. *Sociological * *theory*, pp.201-233.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/2">
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E. &amp; Tatham, R.L.(1998) *Multivariate data * *analysis *vol. 5(3), pp. 207-219. Upper Saddle River, NJ: Prentice hall.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/3">
+Hair, J.F., Black, W.C., Babin, B.J., Anderson, R.E. &amp; Tatham, R.L.(2006). Multivariate data  analysis, 6th Edition. Pearson Prentice Hall. New Jersey. humans: Critique and reformulation.  *Journal of Abnormal Psychology*, vol. 87, pp.49-74.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/4">
+Hair, J.F., Black, W.C., Babin, B.J. and Anderson, R.E. ( 2010). *Multivariate data analysis*:  Global edition.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/5">
+Hayes, A.F. (2017). Introduction to mediation, moderation, and conditional process analysis: A  regression-based approach. Guilford publications.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/6">
+Hofstede, G. (2001). Culture's consequences: Comparing values, behaviors, institutions and  organisations across nations. Sage publications.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/7">
+Iacobucci, D. &amp; Rosa, P. (2010). The growth of business groups by habitual entrepreneurs: The  role of entrepreneurial teams. *Entrepreneurship Theory and Practice*, vol. 34(2), pp.351-377.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/8">
+Janssen, O., 2000. Job demands, perceptions of effort‐reward fairness and innovative work  behaviour. *Journal of Occupational and organisational psychology*, vol. 73(3), pp.287-302.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/9">
+Kanter, R. (1988). When a thousand flowers bloom: Structural, collective, and social conditions  for innovation in organisations. In B. M. Staw &amp; L. L. Cummings (Eds.), *Research in * *organisational behaviour,* vol. 10, pp.169–211. Greenwich, CT: JAI Press.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/10">
+Kirkman, B., Tesluk, P., &amp; Rosen, B. 2004. The impact of demographic heterogeneity and team  leader–team member demographic fit on team empowerment and effectiveness. *Group &amp; * *Organization Management*, vol. 29, pp.334-368.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/11">
+Komaladewi, R., Nanere, M., Suryan, Y. &amp; Rufaidah, P. (2012). Service innovation in banking  industry: A literature survey. *World Journal of social sciences,* vol. 2(7), pp. 1- 8.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/12">
+Kothari, C.R., 2004. Research methodology: Methods and techniques. New Age International.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/13">
+Landis, B.(2016). Personality and social networks in organisations: A review and future  directions. *Journal of Organizational *Behavior, vol. 37, pp.S107-S121.
+</text>
+
+<text page="21" section="*References*" source="author" id="/page/20/Text/14">
+Lankinen, L., Taimela, E., Toskovic, T. &amp; Wallin, G.( 2013). *Intrapreneurship-act different.*
+</text>
+
+</page>
+<page number="22">
+<text page="22" section="*References*" source="author" id="/page/21/Text/0">
+Leutner, F., Ahmetoglu, G., Akhtar, R. &amp; Chamorro-Premuzic, T.(2014). The relationship  between the entrepreneurial personality and the Big Five personality traits. *Personality and * *individual differences*, vol. 63, pp.58-63.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/1">
+Li, M. and Hsu, C.H.C. (2016), "A review of employee innovative behavior in services",  International Journal of Contemporary Hospitality Management, Vol. 28 No. 12, pp. 2820-2841.  https://doi.org/10.1108/IJCHM-04-2015-0214
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/2">
+Lin, N., Fu, Y.C. &amp; Hsung, R.M.( 2001). Measurement techniques for investigations of social  capital. *Social capital: theory and research*, pp.57-81. New York.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/3">
+MacKinnon, D.P., Cheong, J. and Pirlott, A.G., 2012. Statistical mediation analysis.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/4">
+Madrid, H.P., Patterson, M.G., Birdi, K.S., Leiva, P.I. &amp; Kausel, E.E.(2014). The role of weekly  high‐activated positive mood, context, and personality in innovative work behavior: A multilevel  and interactional model. *Journal of Organizational Behavior*, vol. 35(2), pp.234-256.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/5">
+Mallery, P. &amp; George, D. (2003). SPSS for Windows step by step: a simple guide and reference.  Allyn, Bacon, Boston,.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/6">
+Marsh, H.W., Hau, K.T. &amp; Wen, Z. (2004). In search of golden rules: Comment on hypothesistesting approaches to setting cut-off values for fit indexes and dangers in overgeneralising Hu  and Bentler's (1999) findings. *Structural equation modeling*, vol. 11(3), pp.320-341.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/7">
+McFadyen, M.A., Semadeni, M. &amp; Cannella Jr, A.A.(2009). Value of strong ties to disconnected  others: Examining knowledge creation in biomedicine. *Organisation science*, vol. 20(3), pp.552- 564.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/8">
+Miles, R.E., Miles, G. &amp; Snow, C.C.( 2006). Collaborative Entrepreneurship: A Business Model  for Continuous Innovation. *Organizational Dynamics*, vol. 35(1), pp.1-11.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/9">
+Milliken, F. J., Bartel, C. A., &amp; Kurtzberg, T. R. (2003). Diversity and creativity in work groups:  A dynamic perspective on the affective and cognitive processes that link diversity and  performance. In P. B. Paulus &amp; B. A. Nijstad (Eds.), Group creativity: Innovation through  collaboration (pp. 32–62). Oxford University Press.  https://doi.org/10.1093/acprof:oso/9780195147308.003.0003
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/10">
+Monsen, E. &amp; Wayne Boss, R.(2009). The impact of strategic entrepreneurship inside the  organisation: Examining job stress and employee retention. *Entrepreneurship theory and * *practice,* vol. 33(1), pp.71-104.
+</text>
+
+<text page="22" section="*References*" source="author" id="/page/21/Text/11">
+Morgan, G., Leech, N., Gloeckner, G. &amp; Barrett, K. (2004). SPSS for introductory statistics. 2nd  edn. Mahwah, New Jersey:*Lawrence Erlbaum Associate Publishers.*
+</text>
+
+</page>
+<page number="23">
+<text page="23" section="*References*" source="author" id="/page/22/Text/0">
+Moriano, J.A., Molero, F., Topa, G. &amp; Mangin, J.P.L.( 2014). The influence of transformational  leadership and organisational identification on intrapreneurship. *International Entrepreneurship * *and Management Journal*, vol.10(1), pp.103-119.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/1">
+Morris, M.H., Davis, D.L. &amp; Allen, J.W.(1994). Fostering corporate entrepreneurship: Crosscultural comparisons of the importance of individualism versus collectivism*. Journal of * *International Business Studies*, pp.65-89.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/2">
+Nasaj, M. (2021). Proactive personality and employees' innovative behaviours: The role of network building ability. International Journal of Innovation Management., p. 2150086. DOI:  10.1142/S1363919621500869
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/3">
+Nasaj, M. and Badi, S., 2021. The Influence Of Network Building On The Innovative Work  Behaviour Of Self-Monitoring Individuals: Integrating Personality And Social Capital  Perspectives. International Journal of Innovation Management, 25(04), p.2150038.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/4">
+Nasaj, M., 2020. Understanding Individual's Innovative Behaviours: Integrated Personality  Traits and Social Capital Perspective (Doctoral dissertation, The British University in Dubai  (BUiD)).
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/5">
+Nasaj, M.I. &amp; Al Marri, K. (2018), November. The Influence of Soft and Hard Quality  Management on Innovation Performance in UAE Service Sector. *In International Triple Helix * *Summit* (pp. 307-321). *Springer, Cham.*
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/6">
+Neessen, P.C., Caniëls, M.C., Vos, B. &amp; De Jong, J.P.(2019). The intrapreneurial employee:  toward an integrated model of intrapreneurship and research agenda. *International * *Entrepreneurship and Management Journal,* vol. 15(2), pp.545-571.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/7">
+Obstfeld, D.(2005). Social networks, the tertius iungens orientation, and involvement in  innovation. *Administrative science quarterly*, vol. 50(1), pp.100-130.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/8">
+Omachonu, V.K. &amp; Einspruch, N.G.(2010). Innovation in healthcare delivery systems: a  conceptual framework. *The Innovation Journal: The Public Sector Innovation Journal*,  vol.15(1), pp.1-20.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/9">
+Pelled, L., Xin, K., &amp; Weiss, A. (2004). No es como mi: Relational demography and conflict in  a Mexican production facility. *Journal of Occupational and Organizational Psychology,* vol.74,  pp.63-84..
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/10">
+Perry-Smith, J. E., &amp; Mannucci, P. V. (2017). From creativity to Innovation: The social network  drivers of the four phases of the idea journey. *Academy of Management Review*, vol.42(1),  pp.53-79.
+</text>
+
+<text page="23" section="*References*" source="author" id="/page/22/Text/11">
+Pinchot III, G.(1985). Intrapreneuring: Why you don't have to leave the corporation to become  an entrepreneur. University of Illinois at Urbana-Champaign's Academy for Entrepreneurial
+</text>
+
+</page>
+<page number="24">
+<text page="24" section="*References*" source="author" id="/page/23/Text/0">
+Leadership Historical Research Reference in Entrepreneurship, Available at SSRN:  https://ssrn.com/abstract=1496196
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/1">
+Pinchot, G. &amp; Pellman, R. (1999). Intrapreneuring in action: A handbook for business  innovation. Berrett-Koehler Publishers.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/2">
+Podsakoff, P.M. &amp; Organ, D.W. (1986). Self-reports in organisational research: Problems and  prospects. *Journal of management*, vol. 12(4), pp.531-544.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/3">
+Preacher, K.J. and Hayes, A.F., 2004. SPSS and SAS procedures for estimating indirect effects  in simple mediation models. Behavior research methods, instruments, &amp; computers, 36(4),  pp.717-731.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/4">
+Ratny, S., Arshad, A.M. &amp; Gaoliang, T.( 2017). The effect of service-driven market orientation  on service innovation: Literature review and new research framework*. Journal of Applied * *Business Research (*JABR), vol. 33(5), pp.999-1012.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/5">
+Rigtering, J.P.C. &amp; Weitzel, U.(2013). Work context and employee behaviour as antecedents for  intrapreneurship. *International Entrepreneurship and Management Journal*, vol.9(3), pp.337- 360.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/6">
+Robbins, S.P &amp; Judge, T.A. (2015), Organizational Behavior, 17th Global Edition. Harlow, UK:  Pearson Education.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/7">
+Rodrigues, G., Sarabdeen, J. &amp; Balasubramanian, S.(2016). Factors that influence consumer  adoption of e-government services in the UAE: A UTAUT model perspective*. Journal of * *Internet Commerce,* vol. 15(1), pp.18-39.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/8">
+Rodrigues, N. &amp; Rebelo, T.(2019). Predicting innovative performance through proactive  personality: Examining its criterion validity and incremental validity over the five‐factor model.  *International Journal of Selection and Assessment*, vol. 27(1), pp.1-8.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/9">
+Rubalcaba, L.( 2007). "The New Service Economy," Books, Edward Elgar Publishing, number  3975. &lt;https://ideas.repec.org/b/elg/eebook/3975.html&gt;
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/10">
+Saunders, M., Lewis, P. &amp; Thornhill, A. (2016). Research methods for business students.7th edn.  UK: Pearson Education Limited.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/11">
+Schreiber, J.B., Nora, A., Stage, F.K., Barlow, E.A. &amp; King, J. (2006). Reporting structural  equation modeling and confirmatory factor analysis results: A review. *The Journal of * *educational research*, vol.99(6), pp.323-338.
+</text>
+
+<text page="24" section="*References*" source="author" id="/page/23/Text/12">
+Scott, S. G., &amp; Bruce, R. A.( 1994). Determinants of innovative behavior: A path model of  individual innovation in the workplace. *Academy of Management Journal,* vol. 37, pp. 580-607.
+</text>
+
+</page>
+<page number="25">
+<text page="25" section="*References*" source="author" id="/page/24/Text/0">
+Sebastiani, R. &amp; Paiola, M. (2010). Rethinking service innovation: four pathways to evolution.  *International Journal of Quality and Service Sciences*, vol. 2(1), pp.79-94.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/1">
+Sinha, N. &amp; Srivastava, K.B. (2013). Association of personality, work values and socio-cultural  factors with intrapreneurial orientation. *The Journal of Entrepreneurship*, vol.22(1), pp.97-113.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/2">
+Slater, S.F. &amp; Narver, J.C. (1998). Customer-led and market-oriented: Let's not confuse the two.  *Strategic management journal*, pp.1001-1006.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/3">
+Snyder, M. &amp; Deaux, K. (2012). Personality and social psychology: Crossing boundaries and  integrating perspectives. *In The Oxford handbook of personality and social psychology*. *Oxford * *University Press.*
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/4">
+Steiger, J.H. (2007) . Understanding the limitations of global fit assessment in structural equation  modeling*. Personality and Individual differences*, vol. 42(5), pp.893-898.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/5">
+Sundbo, J. &amp; Gallouj, F. (2000). Innovation as a loosely coupled system in services.  *International Journal of Services Technology and Management*, vol. 1(1), pp.15-36.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/6">
+Sundbo, J. (1997). Management of Innovation in services. *Service Industries Journal*, vol. 17(3),  pp.432-455.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/7">
+Tasselli, S., Kilduff, M. &amp; Menges, J.I. (2015). The microfoundations of organisational social  networks: A review and an agenda for future research. *Journal of Management*, vol. 41(5),  pp.1361-1387.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/8">
+Thompson, J.A.(2005). Proactive personality and job performance: A social capital perspective*. * *Journal of Applied psychology*, vol. 90(5), p.1011.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/9">
+Tortoriello, M., &amp; Krackhardt, D. (2010). Activating cross boundary knowledge: The role of  Simmelian ties in the generation of innovations. *Academy of Management Journal*, vol. 53,  pp.167–181.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/10">
+Un, C.A. &amp; Montoro-Sanchez, A. (2010). Public funding for product, process and organisational  innovation in service industries. *The Service Industries Journal*, vol. 30(1), pp.133-147.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/11">
+Wakkee, I., Elfring, T. &amp; Monaghan, S.( 2010). Creating entrepreneurial employees in traditional  service sectors*. International Entrepreneurship and Management Journal*, vol. 6(1), pp.1-21.
+</text>
+
+<text page="25" section="*References*" source="author" id="/page/24/Text/12">
+Williams, L.J., Hartman, N. &amp; Cavazotte, F.(2010). Method variance and marker variables: A  review and comprehensive CFA marker technique. *Organisational research methods*, vol. 13(3),  pp.477-514.
+</text>
+
+</page>
+<page number="26">
+<text page="26" section="*References*" source="author" id="/page/25/Text/0">
+Wisse, B., Barelds, D.P. &amp; Rietzschel, E.F.( 2015). How innovative is your employee? The role  of employee and supervisor Dark Triad personality traits in supervisor perceptions of employee  innovative behavior. *Personality and Individual Differences*, vol. 82, pp.158-162.
+</text>
+
+<text page="26" section="*References*" source="author" id="/page/25/Text/1">
+Woods, S.A., Mustafa, M.J., Anderson, N., &amp; Sayer, B. (2017). Innovative work behavior and  personality traits: Examining the moderating effects of organisational tenure. *Journal of * *Managerial Psychology*. Vol. 33(1), pp.29-42.
+</text>
+
+<text page="26" section="*References*" source="author" id="/page/25/Text/2">
+Yuan, F. &amp; Woodman, R.W. (2010). Innovative behavior in the workplace: The role of  performance and image outcome expectations*. Academy of Management Journal*, vol. 53(2),  pp.323-342.
+</text>
+
+<text page="26" section="*References*" source="author" id="/page/25/Text/3">
+Zainal, M.A. &amp; Matore, M.E.E.M. (2019). Factors Influencing Teachers' Innovative Behaviour:  A Systematic Review. *Creative education*, vol. 10(12), p.2869.
+</text>
+
+<text page="26" section="*References*" source="author" id="/page/25/Text/4">
+Zhu, H., Djurjagina, K. &amp; Leker, J. (2014). Innovative behaviour types and their influence on  individual crowdsourcing performances. *International Journal of Innovation Management*,  vol.18(06), p.1440015.
+</text>
+
+</page>
+</paper>

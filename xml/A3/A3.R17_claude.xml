@@ -1,0 +1,924 @@
+<paper source_file="A3.R17" title="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" total_pages="10" figures="3" figures_with_images="3">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 3 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/SectionHeader/2" level="1">
+# Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set
+</heading>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/3">
+Hassan A. Alsatta[r](https://orcid.org/0000-0003-1182-936X) , Nahia Mourad [,](https://orcid.org/0000-0002-3765-5946) A. A. Zaidan [,](https://orcid.org/0000-0001-6090-0391) Muhammet Devec[i](https://orcid.org/0000-0002-3712-976X) , *Member, IEEE*, Sarah Qahtan, Vaidyanathan Jayaraman, and Zainab Khalid
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/4">
+*Abstract***—Internet of Things (IoT) real-time monitoring** **devices, which compromise sustainable sensing parameter-based** **climate change, are developed to minimize food loss and waste to** **support supply chain systems during natural disasters. Numerous** **studies have shown that current IoT real-time monitoring devices** **offer remarkable prospects for future developments involving** **food supply chain systems with sustainable sensing parameters.** **Hence, modeling effective IoT real-time monitoring devices to** **minimize food loss and waste to support supply chain systems is** **crucial during natural disasters. This modeling process can be** **classified as multiple-attribute decision-making (MADM) given** **three issues: 1) the existence of multiple sensing parameter** **attributes; 2) the uncertainty related to the relative importance of** **these attributes; and 3) the variability of data. The present study** **endeavors to combine the fuzzy weighted with zero inconsistency** **method and circular intuitionistic fuzzy sets (C-IFS-FWZIC) with** **a new additive ratio assessment (ARAS) to determine ideal IoT** **real-time monitoring devices to minimize loss and waste and** **support food supply chain systems during natural disasters. The** **decision matrix for the study is built by intersecting 54 IoT real****time monitoring devices with ten sustainable sensing parameter** **attributes. The proposed method is further developed to ascer****tain the importance level of the sustainable sensing parameter** **attributes. These data are used in ARAS. Sensitivity analysis and**
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/5">
+Manuscript received 30 July 2023; accepted 12 August 2023. Date of publication 16 August 2023; date of current version 8 August 2024. *(Corresponding author: Muhammet Deveci.)*
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/6">
+Hassan A. Alsattar is with the Department of Business Administration, College of Administrative Science, University of Mashreq, Baghdad 10021, Iraq, and also with MEU Research Unit, Middle East University, Amman 11831, Jordan.
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/7">
+Nahia Mourad is with the Faculty of Engineering and IT, British University in Dubai, Dubai, UAE (e-mail: nahia.mourad@buid.ac.ae).
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/8">
+A. A. Zaidan and Vaidyanathan Jayaraman are with the SP Jain School of Global Management, Sydney, NSW 2141, Australia (e-mail: aws.alaa@gmail.com; vaidy.jayaraman@spjain.org).
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/9">
+Muhammet Deveci is with the Department of Industrial Engineering, Turkish Naval Academy, National Defence University, 34334 Istanbul, Turkey, and also with the Department of Electrical and Computer Engineering, Lebanese American University (Byblos), Byblos, Lebanon (e-mail: muhammetdeveci@gmail.com).
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/10">
+Sarah Qahtan is with the Department of Computer Center, College of Health and Medical Techniques, Middle Technical University, Baghdad 10047, Iraq (e-mail: sarah.qahttan@gmail.com).
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/11">
+Zainab Khalid is with the Department of Information and Communication Technology, UNITEN University, Kajang 43000, Malaysia (e-mail: zainabkhmohammed@gmail.com).
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/12">
+Data is available on-line at: https://github.com/SarahQahttan/IEEE-Internetof-Things-Journal.git.
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/13">
+Digital Object Identifier 10.1109/JIOT.2023.3305910
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/14">
+**correlation coefficient test are performed to assess the robustness** **of the proposed method.**
+</text>
+
+<text page="1" section="Developing IoT Sustainable Real-Time Monitoring Devices for Food Supply Chain Systems Based on Climate Change Using Circular Intuitionistic Fuzzy Set" source="author" id="/page/0/Text/15">
+*Index Terms***—Additive ratio assessment (ARAS), climate** **change, food security, Internet of Things (IoT), multiattribute** **decision-making (MADM).**
+</text>
+
+
+<heading page="1" section="I. INTRODUCTION" source="author" id="/page/0/SectionHeader/16" level="1">
+# I. INTRODUCTION
+</heading>
+
+<text page="1" section="I. INTRODUCTION" source="author" id="/page/0/Text/17">
+**I** NTERNET of Things (IoT) real-time monitoring devices based on climate change are considered a new technology in many important sectors, such as food security. The impact of climate change (i.e., floods, droughts, extreme temperature, and wildfire) on food security and livelihoods is widely acknowledged [[1]](#page-8-0). The effects of climate change on food security and livelihoods are viewed on various perspectives through studies on climate change impacts, vulnerabilities, and adaptation (IVA) [[1]](#page-8-0). Thus, monitoring the food quality, controlling food that approaches its shelf life, and enhancing inventory management and store layout are necessary. IoT application, for instance, can help the actors reduce food loss and waste to support food supply chain systems. Simultaneously, the sensor technology can reduce food loss and waste to support food supply chain systems by managing the ideal physical environment, particularly in terms of temperature and humidity [[2]](#page-8-1).
+</text>
+
+<text page="1" section="I. INTRODUCTION" source="author" id="/page/0/Text/18">
+The sensor can be utilized over the entire product's shelf life and supply chains (production, storage, distribution, and consumption). Sensing sensors installed on industrial equipment could be used to gather data on raw material consumption during the production stage, including that of water, electricity, and other inputs [[3]](#page-8-2). Food temperature and air humidity measurements can also be obtained from sensors in warehouses during the storage phase [[4]](#page-8-3). Sensors aboard vehicles can measure the distance traveled, the weight of the goods being transported, and the amount of fuel used during the transportation phase [[4]](#page-8-3). Any level of the supply chains could yield environmental emission data using intelligent sensors and environmental monitoring systems [[3]](#page-8-2), with implications in accuracy, traceability, transparency, and controllability. IoT is expanding rapidly and has the potential to be
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/2">
+a huge information source. Although these new technologies are expected to lead to more sustainable and effective food chains in the coming years, their potential applications in the food field are limited. In recent years, however, their potential in the food industry has drawn remarkable attention. These monitoring devices are used to monitor food delivered as humanitarian aid to people in areas affected by natural disasters, and they are expected to improve the sustainability of food chains by reducing food loss and waste [[5]](#page-8-4).
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/3">
+According to [[6]](#page-8-5), numerous IoT real-time monitoring devices were presented and discussed on the basis of the various points of sustainable sensing parameter. Despite the existence of these monitoring devices, no superior monitoring device addresses all sustainable sensing parameters simultaneously. In addition, all researchers considered these points in the development of IoT real-time monitoring devices. However, no research has assessed and modeled the identified IoT real-time monitoring devices to determine which is the most and least sustainable based on the sensing parameters. Three assessment concerns must be addressed to fill this research gap. First, multiple sustainable sensing parameters (attributes) must be considered [[7]](#page-8-6), [[8]](#page-8-7), [[9]](#page-8-8). Second, these attributes must be prioritized on the basis of their importance level [[10]](#page-8-9), [[11]](#page-8-10), [[12]](#page-8-11). Third, variance in data is another concern that must be considered when assessing and modeling IoT real-time monitoring devices [[13]](#page-8-12), [[14]](#page-8-13), [[15]](#page-8-14). Consequently, determining the most and least sustainable IoT real-time monitoring devices and the value of the remaining parameters may change depending on how one parameter is changed, resulting in a complex multiattribute decision-making (MADM) problem [[16]](#page-8-15), [[17]](#page-8-16), [[18]](#page-8-17), [[19]](#page-8-18). Various MADM approaches for selecting the optimal alternative amongst a list of alternatives have been developed by scholars [[11]](#page-8-10), [[20]](#page-8-19), [[21]](#page-8-20). The MADM approach is required to bridge the research gap and tackle the problem's complexity.
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/4">
+The contributions of this study can be summed up as follows: 1) formulating a decision matrix (DM) by intersecting IoT real-time monitoring devices with sustainable sensing parameter attributes; 2) a new extension of fuzzy-weighted zero-inconsistency (FWZIC), called fuzzy weighted with zero inconsistency method and circular intuitionistic fuzzy sets (C-IFS-FWZIC), is formulated and developed for weighting sustainable sensing parameter attributes involved in modeling IoT real-time monitoring devices; and 3) a new integrated MADM between C-IFS-FWZIC and additive ratio assessment (ARAS) based on a formulated DM as a decisioning methodology is developed to model IoT real-time monitoring devices and identify the optimum sustainable ones.
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/5">
+The remainder of this article is structured as follows. The most related works are examined and discussed in Section [II.](#page-1-0) Section [III](#page-2-0) presented in depth the DM development, design of the C-IFS-FWZIC method, and integration of ARAS with the developed C-IFS-FWZIC method. IoT real-time monitoring devices for minimizing food loss and waste to support food supply chain systems during and after natural disasters are reported in Section [IV](#page-4-0) along with the decision matrix, attribute weights, and uncertain modeling findings that were obtained. In Section [V,](#page-6-0) the proposed MADM approaches' robustness
+</text>
+
+<text page="2" section="I. INTRODUCTION" source="author" id="/page/1/Text/6">
+is assessed and validated. The conclusions are presented in Section [VI.](#page-8-21)
+</text>
+
+
+<heading page="2" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/1/SectionHeader/7" level="1">
+# II. THEORETICAL MADM JUSTIFICATION
+</heading>
+
+<text page="2" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/1/Text/8">
+MADM is a subfield of operations research that includes various approaches and applications in different fields [[22]](#page-8-22). In the literature, many MADM modeling approaches, such as a simple additive weighting method (SAW), weighted product model (WPM), and ARAS [[23]](#page-8-23), have been utilized. However, ARAS aids the formation of rational decisions depending on the utility level of each alternative. Utility is a function value that, when applied to the best alternative, generates a rather sophisticated efficiency value, which affects the significance and worth of the attributes [[24]](#page-8-24). The strengths of ARAS depend on in its ability to: 1) comprehensibly perform computations; 2) identify notions that are logical and straightforward; and 3) prioritize weights that are determined by comparisons. Therefore, it has been confirmed to be effective in addressing numerous MADM problems [[25]](#page-8-25), [[26]](#page-8-26).
+</text>
+
+<text page="2" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/1/Text/9">
+However, ARAS has one major limitation, that is, its inability to prioritize the set of attributes based on their relative importance [[27]](#page-9-0). Many researchers have combined the AHP weighting method to cover this limitation on ARAS [[28]](#page-9-1), [[29]](#page-9-2). The primary deficiency of the AHP method is the inconsistency caused by pairwise comparisons. In 2023, Qahtan et al. [[30]](#page-9-3) addressed the problem of inconsistency by proposing a new MADM weighting method named the FWZIC. Since then, it has been utilized extensively to determine the weight of the assessment attributes without inconsistency. In addition, FWZIC requires neither a large number of mathematical operations nor a huge amount of time to operate. In general, the different weighted attributes in FWZIC are independent; thus, adding or eliminating them does not entail a recalculation. Moreover, gathering feedback from decision-makers (DMs) in FWZIC is straightforward, and the initial version was extended under a triangular fuzzy set (FS), which cannot appropriately manage the vagueness and uncertainty of information [[31]](#page-9-4).
+</text>
+
+<text page="2" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/1/Text/10">
+To address these issues [[32]](#page-9-5), the FWZIC method was created using interval-valued spherical and hesitant two-tuple, probabilistic-hesitant, Fermatean, Pythagorean m-polar, dualhesitant, neutrosophic, spherical [[28]](#page-9-1), and T-spherical [[19]](#page-8-18) FSs, as well as linear Diophantine fuzzy rough sets. Notwithstanding these attempts, informational ambiguity and uncertainty continue to be some open issues [[30]](#page-9-3), [[31]](#page-9-4), [[32]](#page-9-5).
+</text>
+
+<text page="2" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/1/Text/11">
+Zadeh [[33]](#page-9-6) developed the notion of FS to address the ambiguous information by creating type-2 FSs to allow membership functions to include the fuzziness of membership degrees as a third dimension. Instead of introducing uncertainty to the membership function, the overall goal of other FS extensions' is to consider the DMs level of reluctance. The goal of the recently established FS extension known as circular intuitionistic FSs (C-IFSs) is to provide fuzziness to membership functions, as it does in type-2 FSs [[34]](#page-9-7). An MADM method that can fuzzify the membership function as in type-2 FSs and account for DMs hesitation, such as in intuitionistic FSs, is required in [[34]](#page-9-7).
+</text>
+
+</page>
+<page number="3">
+<figure_group page="3" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/2/FigureGroup/327">
+<figure page="3" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/2/Figure/2" image="A3.R17_fig01.jpg">[FIGURE: see A3.R17_fig01.jpg]</figure>
+<caption page="3" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/2/Caption/3">
+Fig. 1. Steps for implementing the proposed methods.
+</caption>
+</figure_group>
+
+<text page="3" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/2/Text/4">
+The concept of reluctance to FSs was initially introduced in intuitionistic FSs. The most recent development of FSs is the circular IFS, created by [[35]](#page-9-8) in 2020. Contrary to IFSs, a C-IFS represents each element using a circle with the coordinates A(x), A(x), and radius *r*. These sets are those in which each element of the universe has a degree of membership and a degree of nonmembership, and a circle around them has a radius *r* such that the sum of the degrees of membership and nonmembership within this circle is at most equal to 1. C-IFSs can be used in MADM approaches to consider the properties highlighted [[34]](#page-9-7).
+</text>
+
+<text page="3" section="II. THEORETICAL MADM JUSTIFICATION" source="author" id="/page/2/Text/5">
+To our knowledge, no prior studies have extended FWZIC under C-IFS. More so, the integration of C-IFS-FWZIC and ARAS methods has not been applied to any case study. Thus, we are motivated to propose novel C-IFS-FWZIC and ARAS to model IoT real-time monitoring devices and identify the optimum sustainable ones, which considered the main objectives of this study. The C-IFS-FWZIC is formulated and developed to calculate the weight of sustainable sensing parameter attributes. The ARAS method is used to model IoT real-time monitoring devices using the derived weights. Minimizing loss and waste of supply chain systems is crucial during natural disasters.
+</text>
+
+
+<heading page="3" section="III. METHODOLOGY" source="author" id="/page/2/SectionHeader/6" level="1">
+# III. METHODOLOGY
+</heading>
+
+<text page="3" section="III. METHODOLOGY" source="author" id="/page/2/Text/7">
+This section presents the formulation and development of two MADM methods for weighting the sustainable sensing parameter attributes and modeling the IoT real-time monitoring devices. Fig. [1](#page-2-1) illustrates the steps of implementing the proposed methods.
+</text>
+
+
+<heading page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/SectionHeader/8" level="2">
+## *A. Construction of the Decision Matrix*
+</heading>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/9">
+The DM of the IoT real-time monitoring devices is constructed in this section. The DM can be constructed on the basis of the root article in [[5]](#page-8-4). The matrix construction process is summarized as follows.
+</text>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/10">
+*Step 1:* Sustainable sensing parameter attributes are analyzed and identified in this step. According to [[5]](#page-8-4), ten sustainable sensing parameter attributes are selected to evaluate IoT real-time monitoring devices. The definitions and further details of the attributes are shown in [[5]](#page-8-4).
+</text>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/11">
+*Step 2:* The IoT real-time monitoring devices are examined and identified in this step. A previous study [[5]](#page-8-4) has identified 54 IoT real-time monitoring devices. In this study,
+</text>
+
+<table_group page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/TableGroup/328">
+<caption page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Caption/12">
+TABLE I DM FORMULATION
+</caption>
+<table page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Table/13">
+| Attributes/Alternatives | Temperature | RelativeHumidity | GasComposition | Location | LightIntensity | Pressure | Weight | MicrobialConcentratio | Vibration | Air Velocity |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| IoTRTMD 1 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| IoTRTMD 2 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| : | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| IoTRTMD54 | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+</table>
+<caption page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Caption/14">
+TABLE II LINGUISTIC, NUMERIC, AND FUZZY IMPORTANCE MEASUREMENTS
+</caption>
+</table_group>
+
+<table page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Table/15">
+| linguistic Measurement ofImportance | NumericScale | IFSNs |
+| --- | --- | --- |
+| α | β |
+| Very Important | 1 | 0.9 | 0.05 |
+| Important | 2 | 0.75 | 0.2 |
+| Average | 3 | 0.5 | 0.5 |
+| Low Important | 4 | 0.3 | 0.65 |
+| Very Low Important | 5 | 0.1 | 0.85 |
+</table>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/16">
+these devices (alternatives) are modeled in order from the most sustainable to the least sustainable.
+</text>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/17">
+*Step 3:* The DM of IoT real-time monitoring devices is formulated by intersecting them (Step 2) with their sustainable sensing parameter attributes (Step 1). Table [I](#page-2-2) shows the representation of the IoT real-time monitoring device DM.
+</text>
+
+<text page="3" section="*A. Construction of the Decision Matrix*" source="author" id="/page/2/Text/18">
+The next sections describe the weighting scheme of the sustainable sensing parameter attributes in the IoT real-time monitoring devices via the C-IFS-FWZIC method. Then, the weights are fed into the ARAS method to model the IoT realtime monitoring devices, and the most and least sustainable models are selected.
+</text>
+
+
+<heading page="3" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/2/SectionHeader/19" level="2">
+## *B. C-IFS–FWZIC Method Development*
+</heading>
+
+<text page="3" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/2/Text/20">
+Uncertainties and inaccuracies can be effectively addressed by integrating the FWZIC method into the C-IFS environment. The following steps outline the formulation of the C-IFS-FWZIC method.
+</text>
+
+<text page="3" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/2/Text/21">
+*Step 1:* At this stage, the predefined sustainable sensing parameter attributes are explored to assess and model the IoT real-time monitoring devices.
+</text>
+
+<text page="3" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/2/Text/22">
+*Step 2:* At least three DMs with prior experience in IoT real-time monitoring devices are identified and selected to construct a structured expert judgment (SEJ). In addition, an assessment form is designed and endorsed by the DMs in this step. The preferences on the attributes of the DMs are represented by five linguistic scales, as shown in Table [II,](#page-2-3) and gathered using the designed form.
+</text>
+
+<text page="3" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/2/Text/23">
+*Step 3:* The sustainable sensing parameter attributes for the IoT real-time monitoring device alternatives are crossed with the three preselected DMs to construct the expert decision matrix (EDM), as shown in [(1).](#page-3-0) For further analysis, linguistic terms gathered by the assessment form in the preceding step are replaced with a numerical scale in Table [II](#page-2-3)
+</text>
+
+</page>
+<page number="4">
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/2">
+$$
+EDM = \begin{bmatrix} E_{11} &amp; \cdots &amp; E_{1m} \\ \vdots &amp; \ddots &amp; \vdots \\ E_{n_E 1} &amp; \cdots &amp; E_{n_E m} \end{bmatrix}  (1)
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/3">
+where n_E is the number of experts and m is the number of attributes
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/4">
+Step 4: IFS-EDM is created by applying the numeric scale with the IFS numbers (IFSNs) listed in Table II on the EDM, to obtain IFS-EDM having the following form:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/5">
+$$
+\widetilde{\text{EDM}} = \begin{bmatrix} (\alpha_{11}, \beta_{11}) &amp; \cdots &amp; (\alpha_{1n_A}, \beta_{1m}) \\ \vdots &amp; \ddots &amp; \vdots \\ (\alpha_{n_E1}, \beta_{n_E1}) &amp; \cdots &amp; (\alpha_{n_Em}, \beta_{n_Em}) \end{bmatrix}. \tag{2}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/6">
+In the following steps, the C-IFS is used to determine the radius which unveils uncertainty .... The C-IFS and C-IFSN are defined as follows.
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/7">
+Definition 1 [34]: E is assumed a fixed universe. A C-IFS S_r in E is an object with the following form:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/8">
+$$
+S_r = \{ \langle x, \mu_S(x), \nu_S(x); r \rangle | x \in E \}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/9">
+where 0 \le \mu_S(x) + \nu_S(x) \le 1.
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/10">
+S_r is known as Circular-IFS, r \in [0, 1] is the radius of the circle around every element x \in E, and the functions \mu_S:E \to [0, 1], and \nu_S:E \to [0, 1] indicates the degree of membership and level of nonmembership for the element x to the set S_r through E. The formula for calculating the degree of uncertainty (indeterminacy) is as follows:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/11">
+$$
+\pi_S(x) = 1 - \mu_S(x) - \nu_S(x). \tag{3}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/12">
+A circle with center (\mu_S(x), \nu_S(x)), and radius r is used to symbolize each element in C-IFSs. Let c_1 and c_2 be two circular intuitionistic fuzzy numbers represented by c_1 = &lt; \mu_{c_1}(x), \ \nu_{c_1}(x); \ r_1 &gt; \text{and} \ c_2 = &lt; \mu_{c_2}(x), \ \nu_{c_2}(x); \ r_2 &gt;. They produce outcomes with a minimum and maximum levels of uncertainty. Thus, the operations presented here are based on the minimum and maximum of the radiuses independently. The definition of how they operate is shown in [34].
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/13">
+Step 5: For C_j = \{(\alpha_{ij}, \beta_{ij}) | i = 1, ..., n_E\} an IFS, calculate the arithmetic average of the IFNs using the following equation:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/14">
+$$
+\langle \overline{\alpha}(C_j), \ \overline{\beta}(C_j) \rangle = \left( \frac{\sum_{i=1}^{n_E} \alpha_{ij}}{n_E}, \ \frac{\sum_{i=1}^{n_E} \beta_{ij}}{n_E} \right). \tag{4}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/15">
+Step 6: The radius lengths produced by DM when evaluating the *j*th sustainable sensing parameter attributes are considered to determine the maximum radius lengths. The maximum radius length R = (r_j)_{1 \le j \le m} based on the decision matrix of DM is obtained using
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/16">
+$$
+r_{j} = \max_{1 \le i \le n_{E}} \sqrt{\left(\overline{\alpha}(C_{j}) - \alpha_{ij}\right)^{2} + \left(\overline{\beta}(C_{j}) - \beta_{ij}\right)^{2}}. (5)
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/17">
+Step 7: The circular intuitionistic fuzzy attribute weight matrix, (\langle \mu_j, \nu_j; r_j \rangle)_{1 \leq j \leq m} is obtained using the DM made of intuitionistic fuzzy pairs \widetilde{\text{EDM}}, defined in (2), by applying the intuitionistic fuzzy weighted averaging (IFWA) operator shown in (6) [36]
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/18">
+$$
+\begin{alignat*}{2}(1) &amp;&amp; \text{IFWA} (A_1, \ldots, A_n) &amp;= \sum_{j=1}^{n} \frac{1}{n} A_j \\ \text{of} &amp;&amp; &amp;= \left(1 - \prod_{j=1}^{n} (1 - \alpha_{A_j})^{\frac{1}{n}}, \prod_{j=1}^{n} \beta_{A_j}^{\frac{1}{n}}\right) \quad (6)\end{alignat*}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/19">
+where A_j = (\alpha_{A_j}, \beta_{A_j}) are IFNs. Indeed, (\mu_j, \nu_j) = IFWA ((\alpha_{1j}, \beta_{1j}), \ldots, (\alpha_{n_Ej}, \beta_{n_Ej})) for j = 1, \ldots, m.
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/20">
+Step 8: Equations (7) and (8) are used to calculate the optimistic attribute weight matrix Q^o = (q_j^o)_{j=1,\dots,m} and the pessimistic attribute weight matrix Q^p = (q_j^p)_{j=1,\dots,m}, respectively. The circular intuitionistic fuzzy attribute weight matrix is transformed into the intuitionistic fuzzy attribute weight matrix, using the membership functions and radius. Here, two distinct attribute weight matrices, namely, the optimistic attribute weight matrix, are produced depending on the decision maker's attitude toward optimism and pessimism
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/21">
+$$
+Q^{o} = \begin{bmatrix} (\mu_{1} + r_{1}, \nu_{1} - r_{1}) \\ (\mu_{2} + r_{2}, \nu_{2} - r_{2}) \\ \vdots \\ (\mu_{n_{A}} + r_{n_{A}}, \nu_{n_{A}} - r_{n_{A}}) \end{bmatrix} \tag{7}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/22">
+where q_i^o = (\mu_i + r_i, \nu_i - r_i).
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/23">
+$$
+Q^{p} = \begin{bmatrix} (\mu_{1} - r_{1}, \nu_{1} + r_{1}) \\ (\mu_{2} - r_{2}, \nu_{2} + r_{2}) \\ \vdots \\ (\mu_{n_{A}} - r_{n_{A}}, \nu_{n_{A}} + r_{n_{A}}) \end{bmatrix} \tag{8}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/24">
+where q_i^p = (\mu_j - r_j, \nu_j + r_j).
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/25">
+Step 9: The score function provided in (9) is used to calculate optimistic and pessimistic attributes' scores
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/26">
+$$
+Score((\alpha, \beta)) = \alpha - \beta \tag{9}
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/27">
+for any IFN (\alpha, \beta). Indeed, the scores are calculated as follows:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/28">
+$$
+s_j^o = \operatorname{Score}(q_j^o) and s_j^p = \operatorname{Score}(q_j^p).
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/29">
+Then, optimistic and pessimistic attributes' scores weights obtained by scaling the scores as follows:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/30">
+$$
+w_j^o = \frac{s_j^o}{\sum_{j=1}^m s_j^o} \text{ and } w_j^p = \frac{s_j^p}{\sum_{j=1}^m s_j^p}. (10)
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/31">
+Step 10: Each attribute's combined weight is calculated by applying the following formula [37]:
+</text>
+
+<equation page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Equation/32">
+$$
+w_{j} = \frac{c + w_{j}^{o} \times w_{j}^{p}}{\sum_{j=1}^{m} (c + w_{j}^{o} \times w_{j}^{p})} (11)
+$$
+</equation>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/33">
+for j = 1, 2, ..., m, and c &gt; 0 is a predefined number to guarantee positive weights.
+</text>
+
+<text page="4" section="*B. C-IFS–FWZIC Method Development*" source="author" id="/page/3/Text/34">
+Algorithm 1 in the supplemental file presents the pseudocode of the C-IFS-FWZIC Method.
+</text>
+
+</page>
+<page number="5">
+
+<heading page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/SectionHeader/2" level="2">
+## C. ARAS Method Adaptation
+</heading>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/3">
+In this section, the resulting sustainable sensing parameter attributes (Section III-B) are fed to ARAS [22] to model the IoT real-time monitoring devices and determine the most and least sustainable model directly proportional to the utility function value, thereby defining the complex relative efficiency of a feasible alternative, as shown in the following steps [22].
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/4">
+Step 1: The decision-making matrix (DMM) is formed during this step. The following DMM of preferences from nfeasible alternatives (rows) rated on m attributes (columns) is used in the MADM of the discrete optimization issue to represent any problem that needs to be solved
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/5">
+$$
+X = \begin{bmatrix} x_{11} &amp; x_{12} &amp; \dots &amp; x_{1m} \\ x_{21} &amp; x_{22} &amp; \dots &amp; x_{2m} \\ \vdots &amp; \vdots &amp; \vdots &amp; \vdots \\ x_{n1} &amp; x_{n2} &amp; \dots &amp; x_{nm} \end{bmatrix} \tag{12}
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/6">
+where m is the number of alternatives, n is the number of attributes that describe each alternative, x_{ij} is a value that represents how well the ith alternative performs in relation to the jth attribute, and x_{0i} is the best value for the attribute j. If the j attribute's optimal value is unknown, then
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/7">
+$$
+x_{0j} = \max_{i=1}^{n} x_{ij}, if \max_{i=1}^{n} x_{ij} is preferable (13)
+$$
+</equation>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/8">
+$$
+x_{0j} = \max_{i=1,\dots,n} x_{ij}, \text{ if } \max_{i=1,\dots,n} x_{ij} \text{ is preferable} 
+x_{0j} = \max_{i=1,\dots,n} x_{ij}, \text{ if } \max_{i=1,\dots,n} x_{ij} \text{ is preferable.} 
+(13)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/9">
+Step 2: All attributes' initial values are normalized, defining the values \bar{x}_{ii} of the normalized DMM \bar{X}.
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/10">
+1) The attribute's maximum preferred values are normalized as follows:
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/11">
+$$
+\bar{x}_{ij} = \frac{x_{ij}}{\sum_{i=0}^{n} x_{ij}}. (15)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/12">
+2) The attribute whose preferable values are minimum is normalized using a two-stage procedure
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/13">
+$$
+x_{ij}^* = \frac{1}{x_{ij}}; \ \bar{x}_{ij} = \frac{x_{ij}^*}{\sum_{i=0}^n x_{ii}^*}. (16)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/14">
+In this stage, a normalized weighted matrix is defined. It is to be noted that the optimal solutions x_{0j} are involved in the normalization process.
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/15">
+Step 3: The weights' coefficients obtained from C-IFS-FWZIC (w_i)_{i=1,\ldots,m}, defined in (11), are used
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/16">
+$$
+\sum_{j=1}^{m} w_j = 1.
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/17">
+Step 4: The following formula is used to calculate the normalized weighted matrix:
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/18">
+$$
+\widehat{x}_{ij} = w_j \overline{x}_{ij} for i = 0, \dots, n and j = 1, \dots, m (17)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/19">
+where w_i denotes attribute's weight (importance), and \bar{x}_{ij} is the normalized rating of the j attribute.
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/20">
+Step 5: The next stage is finding the values of the optimality function
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/21">
+$$
+S_i = \sum_{i=1}^{m} \widehat{x}_{ij}, \text{ for } i = 0, \dots, n. (18)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/22">
+S_i represents the optimality function value for alternative i. The IoT real-time monitoring device alternatives are ranked according to the optimality function values, the higher the value the better is the alternative.
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/23">
+Step 6: The degree of alternative utility is ascertained by contrasting the variant under analysis with the ideal best one S_0. The following equation is used to determine an alternative utility degree K_i:
+</text>
+
+<equation page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Equation/24">
+$$
+K_i = \frac{S_i}{S_0}; for i = 0, ..., n (19)
+$$
+</equation>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/25">
+where S_i and S_0 are the values of the optimality attribute, determined by (18).
+</text>
+
+<text page="5" section="C. ARAS Method Adaptation" source="author" id="/page/4/Text/26">
+Evidently, the calculated values K_i are in the range [0,1] and can be arranged in the desired order of precedence, an increasing sequence. The values of the utility function indicate a complicated relative efficiency of the practicable alternative [22]. Algorithm 2 in the supplemental file presents the pseudocode of the ARAS Method.
+</text>
+
+
+<heading page="5" section="IV. EXPERIMENTAL RESULTS" source="author" id="/page/4/SectionHeader/27" level="1">
+# IV. EXPERIMENTAL RESULTS
+</heading>
+
+
+<heading page="5" section="A. Decision Matrix and Procedure of Evaluation Results" source="author" id="/page/4/SectionHeader/28" level="2">
+## A. Decision Matrix and Procedure of Evaluation Results
+</heading>
+
+<text page="5" section="A. Decision Matrix and Procedure of Evaluation Results" source="author" id="/page/4/Text/29">
+The DM was constructed by intersecting the lists of the IoT real-time monitoring devices and their sustainable sensing parameter attributes. Table A.I in the supplemental file presents the attributes within the proposed DM that is used to model IoT real-time monitoring devices. The results for the procedure of evaluation attributes, as described in [5] evaluated 54 IoT real-time monitoring devices based on the presence or absence of ten sustainable sensing parameter attributes. The presence or absence of each sustainable sensing parameter attribute was recorded as "Yes" or "No," and these values were converted into binary values of "1" and "0" for the purpose of this research. This matrix illustrates the score values that are assigned to each evaluated IoT real-time monitoring device based on the predefined attributes. The sustainable sensing parameter attributes are binary in nature (i.e., 1/0), where "1" indicates that the sustainable sensing parameter attributes were considered during the IoT real-time monitoring device design, and "0" indicates that sustainable sensing parameter attributes were ignored during the IoT real-time monitoring device design. The constructed matrix is fed to ARAS with C-IFRS-FWZIC to model the IoT real-time monitoring devices. The following section reports the weighting findings and the sustainable sensing parameter attributes derived using the C-IFRS-FWZIC method.
+</text>
+
+
+<heading page="5" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/4/SectionHeader/30" level="2">
+## B. Sustainable Sensing Parameter Attribute Weighting Results
+</heading>
+
+<text page="5" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/4/Text/31">
+The weights of the sustainable sensing parameter attributes used to model the IoT real-time monitoring devices are reported in this section. As discussed in the Methodology-Section IV-B, the C-IFRS-FWZIC method was used to prioritize the identified attributes according to their importance level. The C-IFRS-FWZIC method consistently provides weighted attributes. At the beginning, the three DMs provided their preference for each attribute using the predesigned and endorsed
+</text>
+
+</page>
+<page number="6">
+<table_group page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/TableGroup/428">
+<caption page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Caption/2">
+TABLE III WEIGHTING RESULTS IN SUSTAINABLE SENSING PARAMETERS
+</caption>
+<table page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Table/3">
+| Attributes | Experts | Aggregation | Optimistic | Pessimistic |
+| --- | --- | --- | --- | --- |
+| Expert 1 | Expert 2 | Expert 3 |
+| Temperature | \alpha | 0.9 | 0.9 | 0.9 | 0.999 | 0.999 | 0.999 |
+| \beta | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 |
+| RelativeHumidity | \alpha | 0.9 | 0.75 | 0.9 | 0.999 | 1.141 | 0.858 |
+| \beta | 0.05 | 0.2 | 0.05 | 0.079 | -0.06 | 0.22 |
+| GasComposition | \alpha | 0.9 | 0.75 | 0.9 | 0.999 | 1.141 | 0.858 |
+| \beta | 0.05 | 0.2 | 0.05 | 0.0793 | -0.062 | 0.22 |
+| Location | \alpha | 0.75 | 0.5 | 0.75 | 0.998 | 1.258 | 0.737 |
+| \beta | 0.2 | 0.5 | 0.2 | 0.271 | 0.011 | 0.531 |
+| Light Intensity | \alpha | 0.5 | 0.5 | 0.75 | 0.996 | 1.256 | 0.735 |
+| \beta | 0.5 | 0.5 | 0.2 | 0.368 | 0.108 | 0.628 |
+| Pressure | \alpha | 0.75 | 0.9 | 0.75 | 0.999 | 1.141 | 0.858 |
+| \beta | 0.2 | 0.05 | 0.2 | 0.125 | -0.015 | 0.267 |
+| Weight | \alpha | 0.75 | 0.75 | 0.5 | 0.998 | 1.258 | 0.737 |
+| \beta | 0.2 | 0.2 | 0.5 | 0.271 | 0.011 | 0.531 |
+| MicrobialConcentration | \alpha | 0.5 | 0.5 | 0.3 | 0.985 | 1.152 | 0.819 |
+| \beta | 0.5 | 0.5 | 0.65 | 0.545 | 0.379 | 0.712 |
+| Vibration | \alpha | 0.1 | 0.1 | 0.3 | 0.905 | 1.093 | 0.716 |
+| \beta | 0.85 | 0.85 | 0.65 | 0.777 | 0.588 | 0.965 |
+| Air Velocity | \alpha | 0.1 | 0.3 | 0.3 | 0.941 | 1.13 | 0.752 |
+| \beta | 0.85 | 0.65 | 0.65 | 0.71 | 0.522 | 0.899 |
+</table>
+</table_group>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/4">
+assessment form and five linguistic scales that measured the importance level of the attributes. The intuitionistic fuzzy pairs in the individual attribute weight matrices are transformed into the aggregated intuitionistic fuzzy numbers of attribute weights by applying the IFWA operator [(6).](#page-3-2) Table [III](#page-5-0) presents the resulting aggregate intuitionistic fuzzy numbers. In addition, the maximum radius lengths based on the DM using [(4)](#page-3-7) and [(5)](#page-3-8) are shown in Table [IV.](#page-5-1) The C-IFS can be created using [(5)](#page-3-8) and [(6),](#page-3-2) and the optimistic and pessimistic DM results are calculated using [(7)](#page-3-3) and [(8).](#page-3-4)
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/5">
+Table [III](#page-5-0) displays the aggregate intuitionistic fuzzy numbers that were created by transforming the intuitionistic fuzzy pairs for the primary attributes of the sustainable sensing parameters. The (α, β) aggregate values of (0.999, 0.05) for temperature were amongst the main sustainable sensing parameter attributes. However, the (α, β) aggregate values for relative humidity were (0.999, 0.079). The (α, β) aggregate values for gas composition are (0.999, 0.079). The location produces (α, β) aggregation values of (0.998, 0.271). The (α, β) aggregate values are for light intensity (0.996, 0.368). With the addition of pressure, the (α, β) values are (0.999, 0.125). The aggregate values of weight are (0.998, 0.271). The (α, β) aggregate values obtained by microbial concentration were (0.985, 0.545). The (α, β) aggregate vibration values are (0.905, 0.777). Finally, the (α, β) aggregate values of the air velocity gain are (0.941, 0.710).
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/6">
+Table [IV](#page-5-1) displays the resulting maximum radius length based on the DM values for the primary attributes of the sustainable sensing parameters. According to the DM values, the three main sustainable sensing parameters of location, light intensity, and weight had the highest radius length values (0.260), followed by the vibration and air velocity parameters (0.188). In addition, a radius length value of 0.166 was assigned to microbial concentration. Pressure, gas composition, and relative humidity had radius length values of 0.141. The temperature parameter has a minimum radius length value of (6.94E-18).
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/7">
+In addition, the optimistic DM's computed results for the primary attributes of the sustainable sensing parameters are displayed in Table [III.](#page-5-0) Temperature acquired the optimistic
+</text>
+
+<table_group page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/TableGroup/429">
+<caption page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Caption/8">
+TABLE IV MAXIMUM RADIUS LENGTH RESULTS IN SUSTAINABLE SENSING PARAMETERS
+</caption>
+<table page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Table/9">
+| Attributes | Radius | Attributes | Radius |
+| --- | --- | --- | --- |
+| Temperature | 6.94E-18 | Pressure | 0.141 |
+| RelativeHumidity | 0.141 | Weight | 0.26 |
+| GasComposition | 0.141 | MicrobialConcentration | 0.166 |
+| Location | 0.26 | Vibration | 0.188 |
+| Light Intensity | 0.26 | Air Velocity | 0.188 |
+</table>
+</table_group>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/10">
+DM values of (0.999,0.05) as one of the main sustainable sensing parameter attributes. DM values of (1.141, −0.06) were found for relative humidity, which is a more positive metric. The optimistic DM values of gas composition at (1.141, −0.062) were obtained. The location produces optimistic DM values of (1.258, 0.011). The values of (1.256, 0.108) were obtained for the optimistic light intensity DM. The optimistic DM gains of pressure were (1.141, −0.015). The weight received optimistic DM values of (1.258, 0.011). The optimistic microbial concentration (DM) values of (1.152, 0.379) were obtained. Values of (1.093, 0.588) were obtained for the vibrationally optimistic DM. Finally, air velocity gained optimistic DM values of (1.130, 0.522).
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/11">
+Furthermore, Table [III](#page-5-0) presents the calculated findings of the pessimistic DM for the key sustainable sensing parameter attributes. One of the key sustainable sensing parameter attributes, temperature, achieved the pessimistic DM values of (0.999, 0.05). DM values of (0.858, 0.220) for relative humidity were pessimistic. The pessimistic DM values (0.858, 0.220) were obtained from gas composition. Pessimistic DM values of (0.737, 0.531) were produced by the location. The (0.735, 0.628) values were attributed to light-intensity pessimistic DM. The pessimistic DM values of pressure at (0.858, 0.267) were acquired. The weight obtained pessimistic DM values of (0.737, 0.531). The pessimistic DM values of (0.819, 0.712) were obtained from microbial concentration. The pessimistic DM values for vibration were (0.716, 0.965). Finally, the air velocity gain pessimistic DM values of (0.752 0.899) were obtained.
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/12">
+Equation [(10)](#page-3-9) can obtain the weighted optimistic DM and the weighted pessimistic DM, using the score function provided in [(9).](#page-3-5) The final weight values of attributes can be calculated using [(11),](#page-3-6) with *c* = 0.01 to verify the condition that *wj* ≥ 0 for *j* = 1,..., 10, as shown in Table [V.](#page-6-1)
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/13">
+Table [V](#page-6-1) displays the values of score-optimistic, scorepessimistic, weight-optimistic, and weight-pessimistic, showing the variation between negative and positive values.
+</text>
+
+<text page="6" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/5/Text/14">
+The resulting weights for the main attributes of the sustainable sensing parameters are shown in Table [VII.](#page-7-0) Amongst the primary sustainable sensing parameters, temperature obtained the highest weight (0.180), followed by (0.160) for relative humidity and gas composition parameters. In addition, pressure was given a weight value of 0.147. The same weight value of 0.084 was assigned to the location and weight parameters, followed by weight values of 0.064 and 0.058 for the light intensity and microbial concentration parameters. The air velocity parameter's weight value was 0.032. A minimum weight value of 0.026 was assigned to the parameter of
+</text>
+
+</page>
+<page number="7">
+<table_group page="7" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/6/TableGroup/300">
+<caption page="7" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/6/Caption/2">
+TABLE V WEIGHTING RESULTS IN SUSTAINABLE SENSING PARAMETER ATTRIBUTES
+</caption>
+<table page="7" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/6/Table/3">
+| Attributes | Score-Optimistic | Score-Pessimistic | Weight-Optimistic | Weight-Pessimistic | Final –Weight |
+| --- | --- | --- | --- | --- | --- |
+| Temperature | 0.949 | 0.949 | 0.094 | 0.311 | 0.18 |
+| RelativeHumidity | 1.203 | 0.637 | 0.119 | 0.209 | 0.16 |
+| GasComposition | 1.203 | 0.637 | 0.119 | 0.209 | 0.16 |
+| Location | 1.247 | 0.206 | 0.124 | 0.067 | 0.084 |
+| LightIntensity | 1.148 | 0.107 | 0.114 | 0.035 | 0.064 |
+| Pressure | 1.156 | 0.59 | 0.115 | 0.193 | 0.147 |
+| Weight | 1.247 | 0.206 | 0.124 | 0.067 | 0.084 |
+| MicrobialConcentration | 0.773 | 0.106 | 0.077 | 0.035 | 0.058 |
+| Vibration | 0.504 | -0.249 | 0.05 | -0.081 | 0.026 |
+| Air Velocity | 0.607 | -0.146 | 0.06 | -0.048 | 0.032 |
+</table>
+</table_group>
+
+<text page="7" section="B. Sustainable Sensing Parameter Attribute Weighting Results" source="author" id="/page/6/Text/4">
+vibration. The weight values of the sustainable sensing parameter attributes were fed to ARAS to model the various IoT real-time monitoring devices.
+</text>
+
+
+<heading page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/SectionHeader/5" level="2">
+## *C. IoT Real-Time Monitoring Device Modeling Results*
+</heading>
+
+<text page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/Text/6">
+This section presents the results for the ARAS method used to model the various IoT real-time monitoring devices based on decision matrix. Upon establishing the DM with the designated weight for each sustainable sensing parameter attribute, the normalized weighted matrix (*X*) for IoT real-time monitoring devices alternatives is determined using [(13),](#page-4-3) [(15),](#page-4-4) and [(17).](#page-4-5) It is to be noted that *x*0*^(j)* = 1 for all *j* = 1,..., 10. Then, the values of the optimality function are calculated using [(18).](#page-4-1) Finally, the utility degree of the alternatives is calculated using [(19).](#page-4-6) Table [VI](#page-6-2) displays the outcome of the ARAS modeling method for IoT real-time monitoring devices.
+</text>
+
+<text page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/Text/7">
+Table [VI](#page-6-2) displays the outcome of the ARAS modeling method for IoT real-time monitoring devices. IoTRTMD 49 came out on top, earned a model value of 1 with a score of 0.049. It was followed by IoTRTMD 4 and IoTRTMD 26 having the same score of 0.046 and a model value of 2. Then, IoTRTMD 51 obtained a score of 0.044 and a model value of 4. They were followed by IoTRTMD 53, IoTRTMD 29, IoTRTMD 38, IoTRTMD 1, IoTRTMD 5, and IoTRTMD 9, which were amongst the top 10 performers with scores of 0.0312, 0.0309, 0.03, 0.026, 0.025, and 0.025, respectively, and model values 5, 6, 7, 8, 9, and 9. Then, IoTRTMD 2 and IoTRTMD 40 were identical with a score of 0.025 and model 11, followed by IoTRTMD 39 with score 0.022 and model value 13. Moreover, IoTRTMD6 and IoTRTMD 41 achieved the same score of 0.017 and a model value 14. IoTRTMD 7 got a score 0.018 and model 16, followed by IoTRTMD 52 with score 0.168 and model value 17. IoTRTMD 3, IoTRTMD 12, IoTRTMD 13, IoTRTMD 16, IoTRTMD 23, IoTRTMD 30, IoTRTMD 31, IoTRTMD 36, IoTRTMD 37, IoTRTMD 47, and IoTRTMD 48 got the same model value 18 with a score of 0.0166. Whereas IoTRTMD 27, IoTRTMD 32, IoTRTMD 44, IoTRTMD 45 obtained a score of 0.016 and model value 29. The score and model values of IoTRTMD 8, IoTRTMD 11,
+</text>
+
+<table_group page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/TableGroup/301">
+<caption page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/Caption/8">
+TABLE VI FINAL MODELING RESULTS OF IOT REAL-TIME MONITORING DEVICES
+</caption>
+<table page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/Table/9">
+| Alternati | Sco | Mod | Alternati | Sco | Mod | Alternati | Sco | Mod |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ves | re | el | ves | re | el | ves | re | el |
+| IoTRTM | 0.02 | 8 | IoTRTM | 0.00 | 35 | IoTRTM | 0.01 | 18 |
+| D 1 | 6 | 8 | D 19 | 8 | 35 | D 37 | 7 | 18 |
+| IoTRTM | 0.02 | 11 | IoTRTM | 0.00 | 35 | IoTRTM | 0.03 | 7 |
+| D 2 | 5 | 11 | D 20 | 8 | 35 | D 38 | 0 | 7 |
+| IoTRTM | 0.01 | 18 | IoTRTM | 0.00 | 35 | IoTRTM | 0.02 | 13 |
+| D 3 | 7 | 18 | D 21 | 8 | 35 | D 39 | 2 | 13 |
+| IoTRTM | 0.04 | 2 | IoTRTM | 0.00 | 44 | IoTRTM | 0.02 | 11 |
+| D 4 | 6 | 2 | D 22 | 4 | 44 | D 40 | 5 | 11 |
+| IoTRTM | 0.02 | 9 | IoTRTM | 0.01 | 18 | IoTRTM | 0.01 | 14 |
+| D 5 | 5 | 9 | D 23 | 7 | 18 | D 41 | 9 | 14 |
+| IoTRTM | 0.01 | 14 | IoTRTM | 0.00 | 44 | IoTRTM | 0.00 | 44 |
+| D 6 | 9 | 14 | D 24 | 4 | 44 | D 42 | 4 | 44 |
+| IoTRTM | 0.01 | 16 | IoTRTM | 0.00 | 35 | IoTRTM | 0.00 | 44 |
+| D 7 | 8 | 16 | D 25 | 8 | 35 | D 43 | 4 | 44 |
+| IoTRTM | 0.00 | 33 | IoTRTM | 0.04 | 2 | IoTRTM | 0.01 | 29 |
+| D 8 | 9 | 33 | D 26 | 6 | 2 | D 44 | 6 | 29 |
+| IoTRTM | 0.02 | 9 | IoTRTM | 0.01 | 29 | IoTRTM | 0.01 | 29 |
+| D 9 | 5 | 9 | D 27 | 6 | 29 | D 45 | 6 | 29 |
+| IoTRTM | 0.00 | 35 | IoTRTM | 0.00 | 35 | IoTRTM | 0.00 | 44 |
+| D 10 | 8 | 35 | D 28 | 8 | 35 | D 46 | 4 | 44 |
+| IoTRTM | 0.00 | 33 | IoTRTM | 0.03 | 6 | IoTRTM | 0.01 | 18 |
+| D 11 | 9 | 33 | D 29 | 1 | 6 | D 47 | 7 | 18 |
+| IoTRTM | 0.01 | 18 | IoTRTM | 0.01 | 18 | IoTRTM | 0.01 | 18 |
+| D 12 | 7 | 18 | D 30 | 7 | 18 | D 48 | 7 | 18 |
+| IoTRTM | 0.01 | 18 | IoTRTM | 0.01 | 18 | IoTRTM | 0.04 | 1 |
+| D 13 | 7 | 18 | D 31 | 7 | 18 | D 49 | 9 | 1 |
+| IoTRTM | 0.00 | 44 | IoTRTM | 0.01 | 29 | IoTRTM | 0.00 | 44 |
+| D 14 | 4 | 44 | D 32 | 6 | 29 | D 50 | 4 | 44 |
+| IoTRTM | 0.00 | 35 | IoTRTM | 0.00 | 44 | IoTRTM | 0.04 | 4 |
+| D 15 | 8 | 35 | D 33 | 4 | 44 | D 51 | 4 | 4 |
+| IoTRTM | 0.01 | 18 | IoTRTM | 0.00 | 44 | IoTRTM | 0.02 | 16 |
+| D 16 | 7 | 18 | D 34 | 4 | 44 | D 52 | 1 | 16 |
+| IoTRTM | 0.00 | 44 | IoTRTM | 0.00 | 35 | IoTRTM | 0.03 | 5 |
+| D 17 | 4 | 44 | D 35 | 8 | 35 | D 53 | 9 | 5 |
+| IoTRTM | 0.00 | 44 | IoTRTM | 0.01 | 18 | IoTRTM | 0.00 | 35 |
+| D 18 | 4 | 44 | D 36 | 7 | 18 | D 54 | 8 | 35 |
+</table>
+</table_group>
+
+<text page="7" section="*C. IoT Real-Time Monitoring Device Modeling Results*" source="author" id="/page/6/Text/10">
+IoTRTMD 10, IoTRTMD 15, IoTRTMD 19, IoTRTMD 20, IoTRTMD 21, IoTRTMD 25, IoTRTMD 28, IoTRTMD 35, and IoTRTMD 54 obtained scores ranging from 0.008 and 0.009 and model values between 33 and 35. Finally, IoTRTMD 14, IoTRTMD 17, IoTRTMD 18, IoTRTMD 22, IoTRTMD 24, IoTRTMD 33, IoTRTMD 34, IoTRTMD 42, IoTRTMD 43, IoTRTMD 46, and IoTRTMD 50 were modeled last with score 0.004 was lower than the other sustainable sensing parameter attributes in the modeling. This sustainable sensing parameter attributes may not be considered one of the options amongst the IoT real-time monitoring devices when compared with the others. This modeling order can be used as a reference for selecting the most sustainable model amongst the IoT real-time monitoring devices.
+</text>
+
+
+<heading page="7" section="V. EVALUATION AND VALIDATION" source="author" id="/page/6/SectionHeader/11" level="2">
+## V. EVALUATION AND VALIDATION
+</heading>
+
+
+<heading page="7" section="*A. Sensitivity Analysis Test*" source="author" id="/page/6/SectionHeader/12" level="2">
+## *A. Sensitivity Analysis Test*
+</heading>
+
+<text page="7" section="*A. Sensitivity Analysis Test*" source="author" id="/page/6/Text/13">
+In this section, sensitivity and correlation analyses are undertaken to test the robustness of the proposed MADM methods [[38]](#page-9-11), [[39]](#page-9-12), [[40]](#page-9-13) to determine the most and least sustainable sensing parameter attributes. In sensitivity analysis, the weight values of the sustainable sensing parameter attributes are modified in accordance with Kirkwood and Kahraman's recommendations [[41]](#page-9-14), and the modeling order of each IoT real-time monitoring device is examined. Therefore, the new weight lists (WLs) of the sustainable sensing parameter attributes can be determined, except for the most influential
+</text>
+
+</page>
+<page number="8">
+<table_group page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/TableGroup/156">
+<table page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Table/2">
+| Attributes | C-IFRS-FWZIC | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8 | S9 | αc |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Temperature | 0.181 | 0.000 | 0.125 | 0.250 | 0.375 | 0.500 | 0.625 | 0.750 | 0.875 | 1.000 | 0.221 |
+| RelativeHumidity | 0.161 | 0.196 | 0.171 | 0.147 | 0.122 | 0.098 | 0.073 | 0.049 | 0.024 | 0.000 | 0.196 |
+| GasComposition | 0.161 | 0.196 | 0.171 | 0.147 | 0.122 | 0.098 | 0.073 | 0.049 | 0.024 | 0.000 | 0.196 |
+| Location | 0.084 | 0.103 | 0.090 | 0.077 | 0.064 | 0.051 | 0.039 | 0.026 | 0.013 | 0.000 | 0.103 |
+| LightIntensity | 0.064 | 0.078 | 0.069 | 0.059 | 0.049 | 0.039 | 0.029 | 0.020 | 0.010 | 0.000 | 0.078 |
+| Pressure | 0.148 | 0.181 | 0.158 | 0.135 | 0.113 | 0.090 | 0.068 | 0.045 | 0.023 | 0.000 | 0.181 |
+| Weight | 0.084 | 0.103 | 0.090 | 0.077 | 0.064 | 0.051 | 0.039 | 0.026 | 0.013 | 0.000 | 0.103 |
+| MicrobialConcentration | 0.058 | 0.071 | 0.062 | 0.053 | 0.044 | 0.035 | 0.027 | 0.018 | 0.009 | 0.000 | 0.071 |
+| Vibration | 0.027 | 0.033 | 0.029 | 0.025 | 0.021 | 0.016 | 0.012 | 0.008 | 0.004 | 0.000 | 0.033 |
+| Air Velocity | 0.032 | 0.040 | 0.035 | 0.030 | 0.025 | 0.020 | 0.015 | 0.010 | 0.005 | 0.000 | 0.040 |
+</table>
+</table_group>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/4">
+one, in accordance with
+</text>
+
+<equation page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Equation/5">
+$$
+w_j = w_i^o - \delta \ [e_c]_j. \tag{20}
+$$
+</equation>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/6">
+w_j^o refers to the initial weight of the development security attributes determined by the C-IFRS-FWZIC method, e_c refers to the elasticity weight coefficient, which is equal to 1/(1-w_s^0), where w_s^0 refers to the weight of the most influential attribute, and \delta refers to the modification range of the attributes' weight value. The weight for the most influential attribute is updated as w_s = 1 - \sum_{j \neq s} w_j, to get weight coefficients summing up to 1.
+</text>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/7">
+As shown in Table V, the temperature parameter attribute was the most influential in this study because it had the highest weight value (Temperature' weight: w_1 = 0.180). The resulting e_c values of the sustainable sensing parameter attribute are shown in Table VII. The calculated modification range values of \delta are -0.1808 \le \delta \le 0.8193. Finally, nine WLs (WL1, WL2, ..., WL9) of the sustainable sensing parameter attribute for this test were determined, as shown in Table VII. The total attribute weight across each WL must be equal to one (\sum_{j=1}^{10} w_j = 1).
+</text>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/8">
+After having calculated the new WLs for each IoT real-time monitoring devices, the new modeling of each monitoring device is estimated. Fig. 2 illustrates the influence of the new WLs on the modeling order on the top 10 IoT real-time monitoring device to minimize food loss and waste to support supply chain systems during natural disasters. Then, the new models are compared with the traditional models. The main aim of the sensitivity analysis is to determine how sensitive the MADM methods are to alterations in the weights of the sustainable sensing parameter attributes.
+</text>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/9">
+Fig. 2 shows that two IoT real-time monitoring devices (IoTRTMD 49, IoTRTMD 51) maintained their modeling results as the original model across the nine WLs. IoTRTMD 4 and IoTRTMD 26 maintained their second model in eight WLs, but they increased to the sixth model in the WL9, and IoTRTMD 51 maintained its fourth model in eight WLs, but decreased to 2 in WL9. IoTRTMD 53 had the fifth model as the original model in WLs (WL3-WL8) but decreased to the third model in WL9, and then increased to the sixth model in WL1 and WL2. IoTRTMD 29 decreased to the fifth model in WL1 and WL2, and then increased to the 7, 12,13, 38, 49, 49, and 49 models in WL3, WL4, WL5, WL6, WL7, WL8, and WL9, respectively. The model values for the remaining IoT
+</text>
+
+<figure_group page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/FigureGroup/157">
+<figure page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Figure/10" image="A3.R17_fig02.jpg">[FIGURE: see A3.R17_fig02.jpg]</figure>
+<caption page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Caption/11">
+Fig. 2. Sensitivity analysis of the top 10 IoT real-time monitoring devices in nine scenarios.
+</caption>
+</figure_group>
+
+<figure_group page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/FigureGroup/158">
+<figure page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Figure/12" image="A3.R17_fig03.jpg">[FIGURE: see A3.R17_fig03.jpg]</figure>
+<caption page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Caption/13">
+Fig. 3. Spearman's rho of models among nine WLs for IoT real-time monitoring devices.
+</caption>
+</figure_group>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/14">
+real-time monitoring devices were evenly distributed between increasing and decreasing model values.
+</text>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/15">
+To measure the strength and polarity (negative or positive) of the association between the initial and new models, Spearman's rho correlation is computed as a statistical tool for evaluating the correlation amongst the nine weight sets and FWZIC on the basis of the overall outcomes of the sensitivity analysis. Spearman's correlation between the initial and new models in nine WLs (WL1–WL9) ranged from 0.6 to 1.0, indicating a strong positive relationship in all IoT real-time monitoring devices. Fig. 3 demonstrates the coefficient correlation between the initial weight and the weight Sets (WL1–WL9).
+</text>
+
+<text page="8" section="*A. Sensitivity Analysis Test*" source="author" id="/page/7/Text/16">
+The association between the models in WL1, WL2, and WL3 were strong and positive with Spearman's rho values more than 0.97, as shown in Fig. 3. In WL4, a strong and positive association was observed with Spearman's rho value
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="*A. Sensitivity Analysis Test*" source="author" id="/page/8/Text/2">
+of 0.92. The association between the original and new models in WL5 was moderate and positive with Spearman's rho value of 0.86. However, a moderate and positive association was observed in WL6 with Spearman's rho value of 0.71. The association between the original and new models in WL7, WL8, and WL9 were moderate and positive with Spearman's rho values between 0.63 and 0.67.
+</text>
+
+
+<heading page="9" section="VI. CONCLUSION" source="author" id="/page/8/SectionHeader/3" level="1">
+# VI. CONCLUSION
+</heading>
+
+<text page="9" section="VI. CONCLUSION" source="author" id="/page/8/Text/4">
+Using the implications of this work, researchers and developers of sustainable IoT real-time monitoring devices-based climate change to minimize food lose and waste of food supply chains systems during natural disasters. The food supply chains sector can also gain significantly from choosing the best sustainable IoT real-time monitoring devices. The suggested work does, however, have three primary limitations. First off, the three hired experts were not modeled in order of experience. Using only five linguistic expressions and numerical scales, the EDM was created. Third, the IC-IFS-FWZIC method was limited to the IFWA operator and S(A) score function. Future research may concentrate on: 1) determining the experts according to their expertise to produce more accurate results; 2) investigating seven or ten linguistic expressions and a numerical scale to formulate the EDM; 3) utilizing additional operators with the C-IFS-FWZIC method to aggregate and defuzzify values; and 4) employing yet another FS.
+</text>
+
+
+<heading page="9" section="REFERENCES" source="author" id="/page/8/SectionHeader/5" level="1">
+# REFERENCES
+</heading>
+
+<list page="9" section="REFERENCES" source="author" id="/page/8/ListGroup/595">
+- [[1]](#page-0-0) C. J. Igbokwe-Ibeto, "Climate change, food security and sustainable human development in Nigeria: A critical reflection," *Africa's Public* *Service Delivery Perform. Rev.*, vol. 7, no. 1, Aug. 2019, Art. no. a322, doi: [10.4102/apsdpr.v7i1.322.](http://dx.doi.org/10.4102/apsdpr.v7i1.322)
+- [[2]](#page-0-1) S. S. Kamble, A. Gunasekaran, H. Parekh, and S. Joshi, "Modeling the Internet of Things adoption barriers in food retail supply chains," *J. Retailing Consum. Services*, vol. 48, pp. 154–168, May 2019, doi: [10.1016/j.jretconser.2019.02.020.](http://dx.doi.org/10.1016/j.jretconser.2019.02.020)
+- [[3]](#page-0-2) S. Nižetic, P. Šoli ´ c, D. López-de-Ipiña González-de-Artaza, and ´ L. Patrono, "Internet of Things (IoT): Opportunities, issues and challenges towards a smart and sustainable future," *J. Clean. Prod.*, vol. 274, Nov. 2020, Art. no. 122877, doi: [10.1016/j.jclepro.2020.122877.](http://dx.doi.org/10.1016/j.jclepro.2020.122877)
+- [[4]](#page-0-3) J. S. Angarita-Zapata, A. Alonso-Vicario, A. D. Masegosa, and J. Legarda, "A taxonomy of food supply chain problems from a computational intelligence perspective," *Sensors*, vol. 21, no. 20, p. 6910, 2021, doi: [10.3390/s21206910.](http://dx.doi.org/10.3390/s21206910)
+- [[5]](#page-1-1) T. P. da Costa et al., "A systematic review of real-time monitoring technologies and its potential application to reduce food loss and waste: Key elements of food supply chains and IoT technologies," *Sustainability*, vol. 15, no. 1, p. 614, 2023, doi: [10.3390/su15010614.](http://dx.doi.org/10.3390/su15010614)
+- [[6]](#page-1-2) M. J. McGrath and C. N. Scanaill, "Sensing and sensor fundamentals," *Sens. Technol.*, to be published, doi: [10.1007/978-1-4302-6014-1_2.](http://dx.doi.org/10.1007/978-1-4302-6014-1_2)
+- [[7]](#page-1-3) S. Qahtan, A. A. Zaidan, H. A. Ibrahim, M. Deveci, W. Ding, and D. Pamucar, "A decision modeling approach for smart training environment with motor Imagery-based brain computer interface under neutrosophic cubic fuzzy set," *Expert Syst. Appl.*, vol. 224, Aug. 2023, Art. no. 119991, doi: [10.1016/J.ESWA.2023.119991.](http://dx.doi.org/10.1016/J.ESWA.2023.119991)
+- [[8]](#page-1-3) S. Qahtan, H. A. Alsattar, A. A. Zaidan, M. Deveci, D. Pamucar, and D. Delen, "Performance assessment of sustainable transportation in the shipping industry using a q-rung orthopair fuzzy rough setsbased decisioning methodology," *Expert Syst. Appl.*, vol. 223, Mar. 2023, Art. no. 119958, doi: [10.1016/J.ESWA.2023.119958.](http://dx.doi.org/10.1016/J.ESWA.2023.119958)
+- [[9]](#page-1-3) H. A. Alsattar et al., "Integration of FDOSM and FWZIC under homogeneous Fermatean fuzzy environment: A prioritization of COVID-19 patients for mesenchymal stem cell transfusion," *Int. J. Inf. Technol.* *Decis. Mak.*, to be published, doi: [10.1142/S0219622022500511.](http://dx.doi.org/10.1142/S0219622022500511)
+</list>
+
+<list page="9" section="REFERENCES" source="author" id="/page/8/ListGroup/596">
+- [[10]](#page-1-4) A. A. Zaidan, H. A. Alsattar, S. Qahtan, M. Deveci, D. Pamucar, and M. Hajiaghaei-Keshteli, "Uncertainty decision modeling approach for control engineering tools to support industrial cyber-physical metaverse smart manufacturing systems," *IEEE Syst. J.*, early access, May 3, 2023, doi: [10.1109/JSYST.2023.3266842.](http://dx.doi.org/10.1109/JSYST.2023.3266842)
+- [[11]](#page-1-4) M. J. Baqer, H. A. Alsattar, S. Qahtan, A. A. Zaidan, M. A. M. Izhar, and I. T. Abbas, "A decision modeling approach for data acquisition systems of the vehicle industry based on interval-valued linear diophantine fuzzy set," *Int. J. Inf. Technol. Decis. Mak.*, to be published, doi: [10.1142/S0219622023500487.](http://dx.doi.org/10.1142/S0219622023500487)
+- [[12]](#page-1-4) S. F. Ismael et al., "Toward sustainable transportation: A pavement strategy selection based on the extension of dual-hesitant fuzzy multicriteria decision-making methods," *IEEE Trans. Fuzzy Syst.*, vol. 31, no. 2, pp. 380–393, Feb. 2023, doi: [10.1109/TFUZZ.2022.3168050.](http://dx.doi.org/10.1109/TFUZZ.2022.3168050)
+- [[13]](#page-1-5) H. A. Ibrahim, A. A. Zaidan, S. Qahtan, and B. B. Zaidan, "Sustainability assessment of palm oil industry 4.0 technologies in a circular economy applications based on interval-valued Pythagorean fuzzy rough set-FWZIC and EDAS methods," *Appl. Soft. Comput.*, vol. 136, Mar. 2023, Art. no. 110073, doi: [10.1016/J.ASOC.2023.110073.](http://dx.doi.org/10.1016/J.ASOC.2023.110073)
+- [[14]](#page-1-5) A. S. Albahri et al., "Towards physician's experience: Development of machine learning model for the diagnosis of autism spectrum disorders based on complex T-spherical fuzzy-weighted zero-inconsistency method," *Comput. Intell*, vol. 39, no. 2, pp. 225–257, Apr. 2023, doi: [10.1111/coin.12562.](http://dx.doi.org/10.1111/coin.12562)
+- [[15]](#page-1-5) A. Alamleh et al., "Federated learning for IoMT applications: A standardization and benchmarking framework of intrusion detection systems," *IEEE J. Biomed. Health Inform.*, vol. 27, no. 2, pp. 878–887, Feb. 2023, doi: [10.1109/JBHI.2022.3167256.](http://dx.doi.org/10.1109/JBHI.2022.3167256)
+- [[16]](#page-1-6) B. B. Zaidan and A. A. Zaidan, "Comparative study on the evaluation and benchmarking information hiding approaches based multimeasurement analysis using TOPSIS method with different normalisation, separation and context techniques," *Measurement*, vol. 117, pp. 277–294, Mar. 2018, doi: [10.1016/j.measurement.2017.12.019.](http://dx.doi.org/10.1016/j.measurement.2017.12.019)
+- [[17]](#page-1-6) B. B. Zaidan, A. A. Zaidan, H. Abdul Karim, and N. N. Ahmad, "A new approach based on multi-dimensional evaluation and benchmarking for data hiding techniques," *Int. J. Inf. Technol. Decis. Mak.*, to be published, doi: [10.1142/S0219622017500183.](http://dx.doi.org/10.1142/S0219622017500183)
+- [[18]](#page-1-6) A. A. Zaidan, B. B. Zaidan, M. A. Alsalem, O. S. Albahri, A. S. Albahri, and M. Y. Qahtan, "Multi-agent learning neural network and Bayesian model for real-time IoT skin detectors: A new evaluation and benchmarking methodology," *Neural Comput. Appl.*, vol. 32, no. 12, pp. 8315–8366, Jun. 2020, doi: [10.1007/s00521-019-04325-3.](http://dx.doi.org/10.1007/s00521-019-04325-3)
+- [[19]](#page-1-6) A. AlSereidi et al., "Novel federated decision making for distribution of anti-SARS-CoV-2 monoclonal antibody to eligible highrisk patients," *Int. J. Inf. Technol. Decis. Mak.*, to be published, doi: [10.1142/S021962202250050X.](http://dx.doi.org/10.1142/S021962202250050X)
+- [[20]](#page-1-7) F. M. Jumaah, A. A. Zaidan, B. B. Zaidan, R. Bahbibi, M. Y. Qahtan, and A. Sali, "Technique for order performance by similarity to ideal solution for solving complex situations in multi-criteria optimization of the tracking channels of GPS baseband telecommunication receivers," *Telecommun. Syst.*, vol. 68, no. 3, pp. 425–443, Jul. 2018, doi: [10.1007/s11235-017-0401-5.](http://dx.doi.org/10.1007/s11235-017-0401-5)
+- [[21]](#page-1-7) N. M. Napi, A. A. Zaidan, B. B. Zaidan, O. S. Albahri, M. A. Alsalem, and A. S. Albahri, "Medical emergency triage and patient prioritisation in a telemedicine environment: A systematic review," *Health Technol.*, vol. 9, no. 5, pp. 679–700, Nov. 2019, doi: [10.1007/s12553-019-00357-w.](http://dx.doi.org/10.1007/s12553-019-00357-w)
+- [[22]](#page-1-8) D. Radovic et al., "Measuring performance in transportation compa- ´ nies in developing countries: A novel rough ARAS model," *Symmetry*, vol. 10, no. 10, p. 434, 2018, doi: [10.3390/sym10100434.](http://dx.doi.org/10.3390/sym10100434)
+- [[23]](#page-1-9) E. K. Zavadskas, Z. Turskis, and J. Tamošaitiene, "Risk assessment of construction projects," *J. Civil Eng. Manage.*, vol. 16, no. 1, pp. 33–46, Mar. 2019, doi: [10.3846/jcem.2010.03.](http://dx.doi.org/10.3846/jcem.2010.03)
+- [[24]](#page-1-10) H. Syahputra, M. Syahrizal, S. Suginam, S. D. Nasution, and B. Purba, "SPK pemilihan konten Youtube layak tonton untuk anak-anak menerapkan metode additive ratio assessment (ARAS)," *Seminar Nasional* *Teknologi Komputer Sains*, vol. 1, no. 1, pp. 678–685, 2019.
+- [[25]](#page-1-11) C. Ghenai, M. Albawab, and M. Bettayeb, "Sustainability indicators for renewable energy systems using multi-criteria decision-making model and extended SWARA/ARAS hybrid method," *Renew Energy*, vol. 146, pp. 580–597, Feb. 2020, doi: [10.1016/j.renene.2019.06.157.](http://dx.doi.org/10.1016/j.renene.2019.06.157)
+- [[26]](#page-1-11) A. R. Mishra, P. Rani, R. Krishankumar, K. S. Ravichandran, and S. Kar, "An extended fuzzy decision-making framework using hesitant fuzzy sets for the drug selection to treat the mild symptoms of coronavirus disease 2019 (COVID-19)," *Appl. Soft Comput.*, vol. 103, May 2021, Art. no. 107155, doi: [10.1016/j.asoc.2021.107155.](http://dx.doi.org/10.1016/j.asoc.2021.107155)
+</list>
+
+</page>
+<page number="10">
+<list page="10" section="REFERENCES" source="author" id="/page/9/ListGroup/502">
+- [[27]](#page-1-12) S. Qahtan, H. A. Alsattar, A. A. Zaidan, M. Deveci, D. Pamucar, and L. Martinez, "A comparative study of evaluating and benchmarking sign language recognition system-based wearable sensory devices using a single fuzzy set," *Knowl. Based Syst.*, vol. 269, Jun. 2023, Art. no. 110519, doi: [10.1016/J.KNOSYS.2023.110519.](http://dx.doi.org/10.1016/J.KNOSYS.2023.110519)
+- [[28]](#page-1-13) Z. Turskis and E. K. Zavadskas, "A new fuzzy additive ratio assessment method (ARAS-F). Case study: The analysis of fuzzy multiple criteria in order to select the logistic centers location," *Transport*, vol. 25, no. 4, pp. 423–432, 2010, doi: [10.3846/transport.2010.52.](http://dx.doi.org/10.3846/transport.2010.52)
+- [[29]](#page-1-13) V. Kutut, E. K. Zavadskas, and M. Lazauskas, "Assessment of priority alternatives for preservation of historic buildings using model based on ARAS and AHP methods," *Arch. Civil Mech. Eng.*, vol. 14, no. 2, pp. 287–294, Feb. 2014, doi: [10.1016/j.acme.2013.10.007.](http://dx.doi.org/10.1016/j.acme.2013.10.007)
+- [[30]](#page-1-14) S. Qahtan et al., "Evaluation of agriculture-food 4.0 supply chain approaches using Fermatean probabilistic hesitant-fuzzy sets based decision making model," *Appl. Soft Comput.*, vol. 138, May 2023, Art. no. 110170, doi: [10.1016/J.ASOC.2023.110170.](http://dx.doi.org/10.1016/J.ASOC.2023.110170)
+- [[31]](#page-1-15) A. Alamleh et al., "Multi-attribute decision-making for intrusion detection systems: A systematic review," *Int. J. Inf. Technol. Decis. Mak.*, vol. 22, no. 1, pp. 589–636, 2023, doi: [10.1142/S021962202230004X.](http://dx.doi.org/10.1142/S021962202230004X)
+- [[32]](#page-1-16) S. Qahtan, K. Yatim, H. Zulzalil, M. H. Osman, A. A. Zaidan, and H. A. Alsattar, "Review of healthcare industry 4.0 application-based blockchain in terms of security and privacy development attributes: Comprehensive taxonomy, open issues and challenges and recommended solution," *J. Netw. Comput. Appl.*, vol. 209, Jan. 2023, Art. no. 103529, doi: [10.1016/J.JNCA.2022.103529.](http://dx.doi.org/10.1016/J.JNCA.2022.103529)
+- [[33]](#page-1-17) L. A. Zadeh, "The concept of a linguistic variable and its application to approximate reasoning-III," *Inf. Sci.*, vol. 9, no. 1, pp. 43–80, 1975, doi: [10.1016/0020-0255(75)90017-1.](http://dx.doi.org/10.1016/0020-0255(75)90017-1)
+- [[34]](#page-1-18) C. Kahraman and N. Alkan, "Circular intuitionistic fuzzy TOPSIS method with vague membership functions: Supplier selection application context," *Notes Intuitionistic Fuzzy Sets*, vol. 27, no. 1, pp. 24–52, 2021, doi: [10.7546/nifs.2021.27.1.24-52.](http://dx.doi.org/10.7546/nifs.2021.27.1.24-52)
+- [[35]](#page-2-5) K. T. Atanassov, "Circular intuitionistic fuzzy sets," *J. Intell. Fuzzy Syst.*, vol. 39, no. 5, pp. 5981–5986, 2020, doi: [10.3233/JIFS-189072.](http://dx.doi.org/10.3233/JIFS-189072)
+- [[36]](#page-3-10) F. Jia, Y. Liu, and X. Wang, "An extended MABAC method for multi-criteria group decision making based on intuitionistic fuzzy rough numbers," *Expert Syst. Appl.*, vol. 127, pp. 241–255, Aug. 2019, doi: [10.1016/j.eswa.2019.03.016.](http://dx.doi.org/10.1016/j.eswa.2019.03.016)
+- [[37]](#page-3-11) C. H. Chen, "A novel multi-criteria decision-making model for building material supplier selection based on entropy-AHP weighted TOPSIS," *Entropy*, vol. 22, no. 2, p. 259, 2020, doi: [10.3390/e22020259.](http://dx.doi.org/10.3390/e22020259)
+- [[38]](#page-6-3) U. S. Mahmoud et al., "DAS benchmarking methodology based on FWZIC II and FDOSM II to support industrial community characteristics in the design and implementation of advanced driver assistance systems in vehicles," *J. Ambient Intell. Humaniz Comput.*, vol. 14, pp. 12747–12774, Jul. 2022, doi: [10.1007/s12652-022-04201-4.](http://dx.doi.org/10.1007/s12652-022-04201-4)
+- [[39]](#page-6-3) H. Ghailani et al., "Developing sustainable management strategies in construction and demolition wastes using a q-rung orthopair probabilistic hesitant fuzzy set-based decision modelling approach," *Appl. Soft Comput.*, vol. 145, Sep. 2023, Art. no. 110606, doi: [10.1016/j.asoc.2023.110606.](http://dx.doi.org/10.1016/j.asoc.2023.110606)
+- [[40]](#page-6-3) Z. K. Mohammed et al., "Bitcoin network-based anonymity and privacy model for metaverse implementation in industry 5.0 using linear diophantine fuzzy sets," *Ann. Oper. Res.*, to be published, doi: [10.1007/s10479-023-05421-3.](http://dx.doi.org/10.1007/s10479-023-05421-3)
+- [[41]](#page-6-4) J. H. Klein and C. W. Kirkwood, "Strategic decision making multiobjective decision analysis with spreadsheets," *J. Oper. Res. Soc.*, vol. 49, no. 1, pp. 96–97, 1998, doi: [10.2307/3010661.](http://dx.doi.org/10.2307/3010661)
+</list>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/17">
+**Hassan A. Alsattar** received the bachelor's and master's degree in statistics from Baghdad University, Baghdad, Iraq, in 2012 and 2015, respectively, and the Ph.D. degree in artificial intelligence from Universiti Pendidikan Sultan Idris, Tanjong Malim, Malaysia, in 2023.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/18">
+He is currently working as a Researcher with the Department of Business Administration, College of Administrative Science, University of Mashreq, Baghdad. His main research interests include intelligent computation, optimization, and decision theory.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/19">
+**Nahia Mourad** received the master's degree in mathematics from the Doctoral School of Science and Technology, Lebanese University, Beirut, Lebanon, in 2011, and the Doctoral degree from Paris-Est University, Marne-la-Vallée, France, in 2015.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/20">
+She was given a grant from the École Nationale des Ponts et Chaussées, Champs-sur-Marne, France, and the Lebanese National Council for Scientific Research, Beirut, to carry out a Ph.D. in applied mathematics. She is currently working as a Senior Lecturer with the Faculty of Engineering &amp; IT, British University in Dubai, Dubai, UAE. Her research interests include applying mathematics to decision theory, programming, and numerical analysis.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/21">
+**A. A. Zaidan** received the Bachelor of Science degree (Hons.) in computer engineering from the University of Technology, Baghdad, Iraq, in 2004, the master's degree in data communications and computer network from the University of Malaya, Kuala Lumpur, Malaysia, in 2009, and the Ph.D. degree in artificial intelligence from Multimedia University, Cyberjaya, Malaysia, in 2013.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/22">
+He is currently working as a Professor in Data Science and Artificial Intelligence with the SP Jain School of Global Management, Sydney, NSW, Australia. His research areas include artificial intelligence and decision theory.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/23">
+**Muhammet Deveci** (Member, IEEE) received the B.Sc. degree in industrial engineering from Cukurova University, Adana, Turkey, in 2010, and the Ph.D. degree in industrial engineering from Yildiz Technical University, Istanbul, Turkey, in 2017.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/24">
+He is an Honorary Senior Research Fellow with the Bartlett School of Sustainable Construction, University College London, London, U.K., and a Visiting Professor with the Royal School of Mines, Imperial College London, London. He is also an Associate Professor with the Department of Industrial Engineering, Turkish Naval Academy, National Defence University, Istanbul, Turkey. He has published over 170 papers in journals indexed by SCI/SCI-E papers at reputable venues. His research and development activities are multidisciplinary and lie at the interface of operational research, computer science, and artificial intelligence science.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/25">
+**Sarah Qahtan** received the Bachelor of Science degree in computer science from Baghdad University, Baghdad, Iraq, in 2006, the master's degree in computer graphics from Universiti Putra Malaysia, Putrajaya, Malaysia, in 2017, and the Ph.D. degree in software engineering from the Faculty of Computer Science and Info. Tech, Universiti Putra Malaysia, in 2023.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/26">
+She is currently working as a Senior Lecturer with the Department of Computer Center, College of Health and Medical Technology-Baghdad, Middle Technical University, Baghdad. Her research areas include artificial intelligence and decision theory.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/27">
+**Vaidyanathan Jayaraman** received the B.S. degree in applied mathematics from the University of Madras, Chennai, India, the M.S. degree in mathematical sciences and the M.B.A. degree from the University of Akron, Akron, OH, USA, in 1990, and the Ph.D. degree from the Fisher College of Business, The Ohio State University, Columbus, OH, USA, in 1994.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/28">
+He is currently working as a Professor with the SP Jain School of Global Management, Sydney, NSW, Australia. His research interests include supply chain management, transportation and logistics problems, hierarchical network design, and production planning and control in a recoverable manufacturing environment.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/29">
+**Zainab Khalid** received the bachelor's and master's degrees in statistics from Baghdad University, Baghdad, Iraq, in 2012 and 2015, respectively. She is currently pursuing the Ph.D. degree with the Department of Information and Communication Technology, UNITEN University, Kajang, Malaysia.
+</text>
+
+<text page="10" section="REFERENCES" source="author" id="/page/9/Text/30">
+Her main research interests include intelligent computation, optimization, and decision theory.
+</text>
+
+</page>
+</paper>

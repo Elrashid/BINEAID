@@ -1,0 +1,1007 @@
+<paper source_file="A3.R28" title="Annual Review 2019" total_pages="28" figures="10" figures_with_images="10">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 10 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R28_fig01.jpg">[FIGURE: see A3.R28_fig01.jpg]</figure>
+
+
+<heading page="1" section="Annual Review 2019" source="author" id="/page/0/SectionHeader/1" level="1">
+# Annual Review 2019
+</heading>
+
+</page>
+<page number="2">
+<figure page="2" section="Annual Review 2019" source="author" id="/page/1/Picture/0" image="A3.R28_fig02.jpg">[FIGURE: see A3.R28_fig02.jpg]</figure>
+
+</page>
+<page number="3">
+
+<heading page="3" section="CONTENT" source="author" id="/page/2/SectionHeader/0" level="1">
+# CONTENT
+</heading>
+
+<block type="TableOfContents" page="3" section="CONTENT" source="author" id="/page/2/TableOfContents/1">
+CONTENT1-INTRODUCTION BY THE CHANCELLOR2-BUID-UK UNIVERSITIES ALLIANCE &amp; PROFESSIONAL ACCREDITATION3-THE UNIVERSITY COUNCIL4-GENERAL NEWS5-ACCREDITATION AND MEMBERSHIP6-CUTTING-EDGE RESEARCH7-PROGRAMMES8-ACADEMIC AND PROFESSIONAL COLLABORATION, AND LINKS WITH INDUSTRY9-AWARDS10-INTERNATIONAL REACH11-COMMUNITY OUTREACH
+</block>
+
+</page>
+<page number="4">
+<figure page="4" section="CONTENT" source="author" id="/page/3/Picture/0" image="A3.R28_fig03.jpg">[FIGURE: see A3.R28_fig03.jpg]</figure>
+
+
+<heading page="4" section="INTRODUCTION BY THE CHANCELLOR" source="author" id="/page/3/SectionHeader/1" level="1">
+# INTRODUCTION BY THE CHANCELLOR
+</heading>
+
+
+<heading page="4" section="HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **" source="author" id="/page/3/SectionHeader/2" level="1">
+# HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **
+</heading>
+
+<text page="4" section="HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **" source="author" id="/page/3/Text/3">
+It is with great pleasure that I introduce this annual review of The British University in Dubai. BUiD has now developed into a leading research-based university, built on the sound foundations established in its formative years. It is led by an influential and informed Council and a staff of experienced academics and administrators. All are working towards meeting the objectives set for BUiD by the Dubai Law #5/2003 as re-affirmed by Ruler's Decree #7/2015.
+</text>
+
+<text page="4" section="HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **" source="author" id="/page/3/Text/4">
+I congratulate the seventh cohort of Doctoral graduates who in 2019 joined the growing number of students who have completed their postgraduate degrees at BUiD and have made a difference in their workplace, actively participating in international research, knowledge development, and innovation. I would also like to congratulate the staff of the University who taught and encouraged them. BUiD is now the foremost university in the UAE in terms of the number of postgraduate alumni and students pursuing research-based degrees. This is a significant intellectual force for positive social development.
+</text>
+
+<text page="4" section="HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **" source="author" id="/page/3/Text/5">
+Strong support received from commercial and public sector bodies continues to be of vital importance, and to
+</text>
+
+<text page="4" section="HIS HIGHNESS SHEIKH **AHMED BIN SAEED AL MAKTOUM **" source="author" id="/page/3/Text/6">
+the benefit of students. In turn, BUiD is supporting both public and private sectors in meeting requirements for a qualified workforce of UAE nationals. One third of BUiD students are Emirati; the remaining student body consists of 30 other nationalities. This provides for a truly cross-cultural and intellectually stimulating learning environment. BUiD's contribution to the community is also growing, with continuing emphasis on sustainable economic development, corporate social responsibility, effective professional practice, and educational inclusivity.
+</text>
+
+
+<heading page="4" section="I would like to thank the founders, current contributors" source="author" id="/page/3/SectionHeader/7" level="3">
+### I would like to thank the founders, current contributors
+</heading>
+
+<text page="4" section="I would like to thank the founders, current contributors" source="author" id="/page/3/Text/8">
+and all those who have enabled BUiD to achieve the successes set out in this review. I thank the Minister of Education — Higher Education Affairs for his support and encouragement, the UK Universities Alliance, other academic partners, and the external examiners for their sound contribution to the development of BUiD in its pursuit of world-class standards for higher education and advanced learning. I thank the members of the University Council, Senate, Advisory Groups, the Vice-Chancellor and his staff including the Registrar and Chief Administrative Officer.
+</text>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/SectionHeader/0" level="1">
+# **BUID-UK UNIVERSITIES ALLIANCE **
+</heading>
+
+<text page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/Text/1">
+The British University in Dubai (BUiD) was established in 2003 to be the region's leading research-based university, facilitating world-class education, training and research, BUiD is licensed by the UAE Ministry of Education – Higher Education Affairs to award its own degrees. Its qualifications are also recognised internationally by NARIC. BUID's internal quality assurance includes processes that ensure our programmes and students' achievements are of standards on a par with those of our UK partner universities (the University of Edinburgh, the University of Glasgow, and the University of Manchester). The UK Universities Alliance collaborates with BUiD within a Concordat agreement that provides a comprehensive framework for the strategic direction and governance of the Alliance.
+</text>
+
+<figure page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/Picture/2" image="A3.R28_fig04.jpg">[FIGURE: see A3.R28_fig04.jpg]</figure>
+
+<figure page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/Picture/3" image="A3.R28_fig05.jpg">[FIGURE: see A3.R28_fig05.jpg]</figure>
+
+<figure page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/Picture/4" image="A3.R28_fig06.jpg">[FIGURE: see A3.R28_fig06.jpg]</figure>
+
+<text page="5" section="**BUID-UK UNIVERSITIES ALLIANCE **" source="author" id="/page/4/Text/5">
+The University of Manchester
+</text>
+
+
+<heading page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/SectionHeader/6" level="1">
+# PROFESSIONAL ACCREDITATION
+</heading>
+
+<figure page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Picture/7" image="A3.R28_fig07.jpg">[FIGURE: see A3.R28_fig07.jpg]</figure>
+
+<figure page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Picture/8" image="A3.R28_fig08.jpg">[FIGURE: see A3.R28_fig08.jpg]</figure>
+
+<text page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Text/9">
+ACCREDITED PROGRAM
+</text>
+
+<figure page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Picture/10" image="A3.R28_fig09.jpg">[FIGURE: see A3.R28_fig09.jpg]</figure>
+
+<figure page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Picture/11" image="A3.R28_fig10.jpg">[FIGURE: see A3.R28_fig10.jpg]</figure>
+
+<figure page="5" section="PROFESSIONAL ACCREDITATION" source="author" id="/page/4/Picture/12" image="A3.R28_fig11.jpg">[FIGURE: see A3.R28_fig11.jpg]</figure>
+
+</page>
+<page number="6">
+
+<heading page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/SectionHeader/0" level="1">
+# THE UNIVERSITY COUNCIL
+</heading>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/1">
+His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE, and Ruler of Dubai issued Decree #7/2015 appointing new Council Members of The British University of Dubai chaired by His Highness Sheikh Ahmed bin Saeed Al Maktoum.
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/4">
+**President** - Dubai Civil Aviation Authority
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/5">
+Chairman - Dubai Airports
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/6">
+Chairman &amp; CEO - Emirates Group
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/7">
+Chancellor - BUiD
+</text>
+
+<figure page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Picture/8" image="A3.R28_fig12.jpg">[FIGURE: see A3.R28_fig12.jpg]</figure>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/9">
+Professor Abdullah Alshamsi Vice Chancellor - BUID
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/12">
+ChairmanAl Maktoum College of Higher Education
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/13">
+Director
+    Office of
+    H.H. Sheikh Hamdan
+    bin Rashid AlMaktoum
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/16">
+Chief of Creativity, Happiness and Innovation KHDA
+</text>
+
+<figure page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Picture/17" image="A3.R28_fig13.jpg">[FIGURE: see A3.R28_fig13.jpg]</figure>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/41">
+Al Muhairbi
+</text>
+
+<caption page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Caption/18">
+Council of Energy
+</caption>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/21">
+Chairman and Chief Executive Officer
+    British Business Group of Dubai and the
+    Northern Emirates
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/24">
+Managing DirectorDubai Holding
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/27">
+**Country Director**Rolls-Royce
+International, UAE
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/39">
+Secretary General
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/40">
+**Dubai Supreme **
+</text>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/30">
+■ General Manager
+Senior Executive Vice
+President, Head of
+Wholesale Banking
+Emirates National Bank of
+Dubai (Emirates NBD)
+</text>
+
+<figure page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Picture/31" image="A3.R28_fig14.jpg">[FIGURE: see A3.R28_fig14.jpg]</figure>
+
+<text page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Text/42">
+**Grant Porter **
+</text>
+
+<caption page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Caption/32">
+Chief Executive Officer
+    Atkins, Middle East &amp; Africa
+</caption>
+
+<caption page="6" section="THE UNIVERSITY COUNCIL" source="author" id="/page/5/Caption/37">
+**Hugh Martin **
+</caption>
+
+</page>
+<page number="7">
+
+<heading page="7" section="GENERAL NEWS" source="author" id="/page/6/SectionHeader/0" level="1">
+# GENERAL NEWS
+</heading>
+
+
+<heading page="7" section="BUiD celebrates its 15th anniversary" source="author" id="/page/6/SectionHeader/1" level="3">
+### BUiD celebrates its 15th anniversary
+</heading>
+
+<figure page="7" section="BUiD celebrates its 15th anniversary" source="author" id="/page/6/Picture/2" image="A3.R28_fig15.jpg">[FIGURE: see A3.R28_fig15.jpg]</figure>
+
+<text page="7" section="BUiD celebrates its 15th anniversary" source="author" id="/page/6/Text/3">
+BUID marked its 15th anniversary with a celebration which was attended by His Excellency Dr Thani Ahmed Al Zeyoudi, Minister of Climate Change and Environment, and His Excellency Hesham Khalifa Al Qaizi, Chief Executive Officer of the Knowledge Fund Establishment, the University's major contributing partner. The celebration was also attended by members of the University Council including Graham Outterside, Country Director, Rolls-Royce International, UAE, and Gavin Anderson, Director of the British Council, UAE. Founders and partners who attended included Faisal Al Raisi, Director of Business Development, Etihad Energy Services Company (Etihad ESCO), Shadi Al-Kadi, Director of Programme Management at TAQATI, and Mohammad Abdullah, DIAC and Dubai Knowledge General Manager.
+</text>
+
+<text page="7" section="BUiD celebrates its 15th anniversary" source="author" id="/page/6/Text/4">
+The Vice Chancellor, Professor Abdullah Alshamsi, gave the guests a brief presentation about BUiD's history and its future plans. Recognition awards were given to the longest serving members of staff in appreciation of their role in the University's success.
+</text>
+
+<figure page="7" section="BUiD celebrates its 15th anniversary" source="author" id="/page/6/Picture/5" image="A3.R28_fig16.jpg">[FIGURE: see A3.R28_fig16.jpg]</figure>
+
+</page>
+<page number="8">
+
+<heading page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/SectionHeader/0" level="1">
+# BUID celebrates its fourteenth cohort of Masters and PhD graduates
+</heading>
+
+<figure page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Picture/1" image="A3.R28_fig17.jpg">[FIGURE: see A3.R28_fig17.jpg]</figure>
+
+<text page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Text/2">
+Under the Chancellorship of His Highness Sheikh Ahmed bin Saeed Al Maktoum, President of the Dubai Civil Aviation Authority and CEO and Chairman of the Emirates Group, The British University in Dubai celebrated the graduation of its 14th cohort of doctoral and Masters graduates at the Cultural and Scientific Association.
+</text>
+
+<text page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Text/3">
+The Ceremony was attended by His Excellency Andrew Jackson, Her Majesty's Consul General of the British Embassy in Dubai, Dr Nasser bin Ali Aljahouri, the Omani Cultural Attaché to the UAE, members of the University Council, representatives of its UK Universities Alliance, academic and administrative staff, and family and friends of the graduates.
+</text>
+
+<figure page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Picture/4" image="A3.R28_fig18.jpg">[FIGURE: see A3.R28_fig18.jpg]</figure>
+
+<figure page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Picture/5" image="A3.R28_fig19.jpg">[FIGURE: see A3.R28_fig19.jpg]</figure>
+
+<figure page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Picture/6" image="A3.R28_fig20.jpg">[FIGURE: see A3.R28_fig20.jpg]</figure>
+
+<figure page="8" section="BUID celebrates its fourteenth cohort of Masters and PhD graduates" source="author" id="/page/7/Picture/7" image="A3.R28_fig21.jpg">[FIGURE: see A3.R28_fig21.jpg]</figure>
+
+</page>
+<page number="9">
+
+<heading page="9" section="**Graduates 2018-2019 **" source="author" id="/page/8/SectionHeader/0" level="1">
+# **Graduates 2018-2019 **
+</heading>
+
+
+<heading page="9" section="PhD Masters
+
+232" source="author" id="/page/8/SectionHeader/1" level="1">
+# PhD Masters
+
+232
+</heading>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/2" image="A3.R28_fig22.jpg">[FIGURE: see A3.R28_fig22.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Figure/3" image="A3.R28_fig23.jpg">[FIGURE: see A3.R28_fig23.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/4" image="A3.R28_fig24.jpg">[FIGURE: see A3.R28_fig24.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/5" image="A3.R28_fig25.jpg">[FIGURE: see A3.R28_fig25.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/6" image="A3.R28_fig26.jpg">[FIGURE: see A3.R28_fig26.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/7" image="A3.R28_fig27.jpg">[FIGURE: see A3.R28_fig27.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/8" image="A3.R28_fig28.jpg">[FIGURE: see A3.R28_fig28.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/9" image="A3.R28_fig29.jpg">[FIGURE: see A3.R28_fig29.jpg]</figure>
+
+<figure page="9" section="PhD Masters
+
+232" source="author" id="/page/8/Picture/10" image="A3.R28_fig30.jpg">[FIGURE: see A3.R28_fig30.jpg]</figure>
+
+</page>
+<page number="10">
+
+<heading page="10" section="A group of British university leaders from the Association of Heads of University Administration (AHUA) visits BUID" source="author" id="/page/9/SectionHeader/0" level="1">
+# A group of British university leaders from the Association of Heads of University Administration (AHUA) visits BUID
+</heading>
+
+<figure page="10" section="A group of British university leaders from the Association of Heads of University Administration (AHUA) visits BUID" source="author" id="/page/9/Picture/1" image="A3.R28_fig31.jpg">[FIGURE: see A3.R28_fig31.jpg]</figure>
+
+<text page="10" section="A group of British university leaders from the Association of Heads of University Administration (AHUA) visits BUID" source="author" id="/page/9/Text/2">
+At the invitation of the Registrar and Chief Administrative Officer, a group of British university leaders from the Association of Heads of University Administration (AHUA) visited BUID from 29 January to 3 February.
+</text>
+
+<text page="10" section="A group of British university leaders from the Association of Heads of University Administration (AHUA) visits BUID" source="author" id="/page/9/Text/3">
+AHUA is the representative body for senior university managers (University Secretaries, Registrars, Chief Operating Officers, and Heads of Administration) in the United Kingdom and Ireland. BUiD is the first and only international university to be a member of AHUA. The visitors were given a presentation on the history of BUiD by the Vice Chancellor as well as introductions to BUiD's research and faculties by the Deans. During their visit, our guests met with BUiD's senior staff and held discussions around potential collaborative research and teaching. It is hoped the visit will lead to new and exciting partnerships between BUiD and more UK universities.
+</text>
+
+
+<heading page="10" section="The Engineering Deans Council (EDC) holds its bi-annual meeting at BUiD" source="author" id="/page/9/SectionHeader/4" level="1">
+# The Engineering Deans Council (EDC) holds its bi-annual meeting at BUiD
+</heading>
+
+<figure page="10" section="The Engineering Deans Council (EDC) holds its bi-annual meeting at BUiD" source="author" id="/page/9/Picture/5" image="A3.R28_fig32.jpg">[FIGURE: see A3.R28_fig32.jpg]</figure>
+
+<text page="10" section="The Engineering Deans Council (EDC) holds its bi-annual meeting at BUiD" source="author" id="/page/9/Text/6">
+On 2 February, the Engineering Deans Council (EDC) held its bi-annual meeting at BUiD. The EDC membership is comprised of the Deans of engineering faculties of all federally accredited universities in the UAE. Professor Mohamed Yousif Baniyas, Director of the Commission for Academic Accreditation (CAA) – Ministry of Education, attended the meeting and discussed issues related to accreditation of engineering programmes and ways to improve the process in order to enhance the quality of these programmes in the UAE.
+</text>
+
+</page>
+<page number="11">
+
+<heading page="11" section="**ACCREDITATION AND MEMBERSHIP **" source="author" id="/page/10/SectionHeader/0" level="1">
+# **ACCREDITATION AND MEMBERSHIP **
+</heading>
+
+
+<heading page="11" section="BUID Engineering Management programme receives accreditation from The American Society for Engineering Management (ASEM)" source="author" id="/page/10/SectionHeader/1" level="1">
+# BUID Engineering Management programme receives accreditation from The American Society for Engineering Management (ASEM)
+</heading>
+
+<text page="11" section="BUID Engineering Management programme receives accreditation from The American Society for Engineering Management (ASEM)" source="author" id="/page/10/Text/2">
+BUID's Engineering Management programme received accreditation from The American Society for Engineering Management (ASEM), making BUID the first university in the UAE to receive such accreditation. Students graduating with a Masters degree from an ASEM-certified graduate programme are eligible for immediate instatement as a Certified Associate in Engineering Management (CAEM).
+</text>
+
+<figure page="11" section="BUID Engineering Management programme receives accreditation from The American Society for Engineering Management (ASEM)" source="author" id="/page/10/Picture/3" image="A3.R28_fig33.jpg">[FIGURE: see A3.R28_fig33.jpg]</figure>
+
+<text page="11" section="BUID Engineering Management programme receives accreditation from The American Society for Engineering Management (ASEM)" source="author" id="/page/10/Text/4">
+ASEM is a global professional society dedicated to the promotion and advancement of the engineering and technical management profession. Programme certification is designed to provide recognition to those programmes that excel in offering education at the Masters level that meet the rigorous standards of ASEM.
+</text>
+
+
+<heading page="11" section="Project Management programmes at BUiD receive PMI Global accreditation" source="author" id="/page/10/SectionHeader/5" level="3">
+### Project Management programmes at BUiD receive PMI Global accreditation
+</heading>
+
+<text page="11" section="Project Management programmes at BUiD receive PMI Global accreditation" source="author" id="/page/10/Text/6">
+BUiD's Project Management programmes received accreditation for the next five years from PMI Global Accreditation Center for Project Management Education Programs (GAC). GAC is the world's leading specialised accrediting body for project management and related degree programmes. Graduates from BUiD's Project Management programmes can now receive 1500 hours of project management experience credit towards earning the Project Management Professional certification (PMP).
+</text>
+
+<text page="11" section="Project Management programmes at BUiD receive PMI Global accreditation" source="author" id="/page/10/Text/9">
+BUiD launched its first Masters programme in Project Management in 2004, and has since expanded to offer a specialised portfolio of Masters programmes in Project Management including Project Management, Construction Project Management, Infrastructure Project Management, Enterprise Risk Project Management, and Information Technology Project Management.
+</text>
+
+
+<heading page="11" section="BUiD becomes a member of AACSB International" source="author" id="/page/10/SectionHeader/10" level="2">
+## BUiD becomes a member of AACSB International
+</heading>
+
+
+<heading page="11" section="-The Association to Advance Collegiate Schools of Business" source="author" id="/page/10/SectionHeader/11" level="3">
+### -The Association to Advance Collegiate Schools of Business
+</heading>
+
+<text page="11" section="-The Association to Advance Collegiate Schools of Business" source="author" id="/page/10/Text/12">
+BUID became a member of AACSB International — The Association to Advance Collegiate Schools of Business. This membership will allow BUID to promote engagement, encourage innovation, and increase impact in its business programmes. In attaining this membership, BUID joined universities with the highest standards in business education.
+</text>
+
+<text page="11" section="-The Association to Advance Collegiate Schools of Business" source="author" id="/page/10/Text/13">
+AACSB International (AACSB) is a global non-profit association that connects educators, students, and business to achieve a common goal: to create the next generation of great leaders.
+</text>
+
+<figure page="11" section="-The Association to Advance Collegiate Schools of Business" source="author" id="/page/10/Picture/14" image="A3.R28_fig34.jpg">[FIGURE: see A3.R28_fig34.jpg]</figure>
+
+</page>
+<page number="12">
+
+<heading page="12" section="**CUTTING-EDGE RESEARCH **" source="author" id="/page/11/SectionHeader/0" level="1">
+# **CUTTING-EDGE RESEARCH **
+</heading>
+
+
+<heading page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/SectionHeader/1" level="3">
+### ■ BUiD professors win at the 2019 Emerald Literati Awards
+</heading>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/2">
+BUID professors won at the 2019 Emerald Literati Awards for their articles published by Emerald Publishing in the areas of
+</text>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/3">
+Facilities, Managerial Finance, and Educational Management.
+</text>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/4">
+Emerald Literati Awards
+Celebrating high quality scholarly research
+</text>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/5">
+The article 'Emerging financial risks from climate changes on building Celebrating high quality scholarly research
+</text>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/6">
+assets in the UK', co-authored by Professor Halim Boussabaine, Dean of the Faculty of Business and Law, and Dr Khalid Al Marri, Associate Professor of Project Management, won the Outstanding Paper Award.
+</text>
+
+<text page="12" section="■ BUiD professors win at the 2019 Emerald Literati Awards" source="author" id="/page/11/Text/7">
+Articles by Professor Husam Al-Malkawi, Professor of Finance and Head of the MSc in Finance programme ('Corporate social responsibility and financial performance in Saudi Arabia: Evidence from Zakat contribution') and Professor Stephen Wilkins ('Transnational higher education: the importance of institutional reputation, trust and student-university identification in international partnerships') were selected as Highly Commended.
+</text>
+
+
+<heading page="12" section="■ BUiD holds its fourth Doctoral Research Conference" source="author" id="/page/11/SectionHeader/8" level="1">
+# ■ BUiD holds its fourth Doctoral Research Conference
+</heading>
+
+<figure page="12" section="■ BUiD holds its fourth Doctoral Research Conference" source="author" id="/page/11/Picture/9" image="A3.R28_fig35.jpg">[FIGURE: see A3.R28_fig35.jpg]</figure>
+
+<text page="12" section="■ BUiD holds its fourth Doctoral Research Conference" source="author" id="/page/11/Text/10">
+The fourth BUiD Doctoral Research Conference was held on 4 May at the University. The day began with an introduction by the Vice Chancellor, and then a keynote presentation by Professor Dejan Mumovic of UCL who delivered an overview of the PhD journey.
+</text>
+
+<text page="12" section="■ BUiD holds its fourth Doctoral Research Conference" source="author" id="/page/11/Text/11">
+BUiD's PhD students participated in the Conference and 74 papers were presented. Prizes were awarded for the best poster overall and best conference papers in Architecture and Sustainable Built Environment, Project Management, Business Management, Education and Computer Science.
+</text>
+
+
+<heading page="12" section="BUiD conducts the inaugural Construction Law and Arbitration Training" source="author" id="/page/11/SectionHeader/12" level="1">
+# BUiD conducts the inaugural Construction Law and Arbitration Training
+</heading>
+
+<figure page="12" section="BUiD conducts the inaugural Construction Law and Arbitration Training" source="author" id="/page/11/Picture/13" image="A3.R28_fig36.jpg">[FIGURE: see A3.R28_fig36.jpg]</figure>
+
+<text page="12" section="BUiD conducts the inaugural Construction Law and Arbitration Training" source="author" id="/page/11/Text/14">
+BUID conducted training on Construction Law and Arbitration on 14-15 December. BUID's Professors of Construction Law and Dispute Resolution gave the training, which awarded its participants CPD points in accordance with the Government of Dubai Legal Affairs Department. The 2-day training discussed issues related to construction law and arbitration in the UAE including construction contacts, defects liability, decennial liability, arbitration agreement, arbitral tribunal, and arbitration awards.
+</text>
+
+</page>
+<page number="13">
+
+<heading page="13" section="BUiD hosts the 16th European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS 2019)" source="author" id="/page/12/SectionHeader/0" level="1">
+# BUiD hosts the 16th European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS 2019)
+</heading>
+
+<text page="13" section="BUiD hosts the 16th European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS 2019)" source="author" id="/page/12/Text/1">
+In collaboration with the University of Nicosia and the Dubai Blockchain Center, BUiD organised EMCIS 2019 on 9-10 December. EMCIS is an annual research conference, which addresses research into information systems regionally and globally.
+</text>
+
+<text page="13" section="BUiD hosts the 16th European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS 2019)" source="author" id="/page/12/Text/2">
+It aims to bring together researchers, academics, and professionals from around the world to exchange innovative ideas covering technical, organisational, business and social issues in the application of information technology. The conference accepted 50 research papers.
+</text>
+
+<figure page="13" section="BUiD hosts the 16th European, Mediterranean and Middle Eastern Conference on Information Systems (EMCIS 2019)" source="author" id="/page/12/Picture/3" image="A3.R28_fig37.jpg">[FIGURE: see A3.R28_fig37.jpg]</figure>
+
+
+<heading page="13" section="BUiD students participate in the Solar Decathlon Middle East competition" source="author" id="/page/12/SectionHeader/4" level="1">
+# BUiD students participate in the Solar Decathlon Middle East competition
+</heading>
+
+<figure page="13" section="BUiD students participate in the Solar Decathlon Middle East competition" source="author" id="/page/12/Picture/5" image="A3.R28_fig38.jpg">[FIGURE: see A3.R28_fig38.jpg]</figure>
+
+<text page="13" section="BUiD students participate in the Solar Decathlon Middle East competition" source="author" id="/page/12/Text/6">
+BUiD's team Harmony was shortlisted in the Solar Decathlon Middle East competition organised by Dubai Electricity and Water Authority. The team was formed of students from different disciplines at BUiD including sustainable design, engineering management, architecture, smart buildings, structural engineering, information technology and project management under the guidance of Professor Bassam Abu Hijleh, Dean of the Faculty of Engineering and IT.
+</text>
+
+<text page="13" section="BUiD students participate in the Solar Decathlon Middle East competition" source="author" id="/page/12/Text/7">
+Solar Decathlon Middle East is a collegiate competition of 10 contests that challenges students to design and build solar-powered houses. The projects are developed by multidisciplinary teams, giving students the opportunity to learn about technical issues, teamwork, communication skills, and sustainable lifestyle and socio-economic issues in order to ensure the viability of their project. This year's edition will be held in conjunction with the World Expo 2020 Dubai.
+</text>
+
+</page>
+<page number="14">
+
+<heading page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/SectionHeader/0" level="1">
+# **BUID ACADEMIC RESEARCH GRANTS **
+</heading>
+
+<text page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Text/7">
+Female
+</text>
+
+<text page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Text/8">
+Male
+</text>
+
+<figure page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Figure/1" image="A3.R28_fig39.jpg">[FIGURE: see A3.R28_fig39.jpg]</figure>
+
+<figure page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Figure/2" image="A3.R28_fig40.jpg">[FIGURE: see A3.R28_fig40.jpg]</figure>
+
+<figure page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Figure/3" image="A3.R28_fig41.jpg">[FIGURE: see A3.R28_fig41.jpg]</figure>
+
+<figure page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Figure/4" image="A3.R28_fig42.jpg">[FIGURE: see A3.R28_fig42.jpg]</figure>
+
+<text page="14" section="**BUID ACADEMIC RESEARCH GRANTS **" source="author" id="/page/13/Text/5">
+**Nationality **
+</text>
+
+</page>
+<page number="15">
+
+<heading page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/SectionHeader/0" level="3">
+### **ACADEMIC PUBLICATIONS **
+</heading>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/1">
+The Vice Chancellor and the Dean of Research contribute a chapter in a book about talent management
+</text>
+
+<figure page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Picture/2" image="A3.R28_fig43.jpg">[FIGURE: see A3.R28_fig43.jpg]</figure>
+
+<figure page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Picture/3" image="A3.R28_fig44.jpg">[FIGURE: see A3.R28_fig44.jpg]</figure>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/4">
+Professor Abdullah Alshamsi, Vice Chancellor, and Professor Ashly Pinnington, Dean of Research, contributed a chapter in a book about talent management titled 'Macro Talent Management in Emerging and Emergent Markets'.
+</text>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/5">
+In their chapter, they presented research involving 4 case studies and 84 interviews with people holding responsibility for Talent Management (TM) in public, private, and not-for-profit sector organisations. The main findings of their research demonstrated some of the key stakeholder roles of government in macro TM and showed the potential for public sector organisations collaborating in areas of global TM and organisational TM.
+</text>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/6">
+BUiD academics and students contribute to an educational policies book
+</text>
+
+<figure page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Picture/7" image="A3.R28_fig45.jpg">[FIGURE: see A3.R28_fig45.jpg]</figure>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/8">
+Dean of Education contributes chapters in two books
+</text>
+
+<figure page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Picture/9" image="A3.R28_fig46.jpg">[FIGURE: see A3.R28_fig46.jpg]</figure>
+
+<figure page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Picture/10" image="A3.R28_fig47.jpg">[FIGURE: see A3.R28_fig47.jpg]</figure>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/11">
+Dr Solomon David, Associate Professor and Head of the Master of Education programme, and Professor Abdulai Abukari, edited a book about educational policies titled 'Educational Policy in the Age of Social Advancement – Studies from the United Arab Emirates'.
+</text>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/12">
+The book consists of 12 chapters, which were contributed by BUiD's PhD in Education students. These chapters address the unique areas, aspects and practices of education policies in the UAE that contribute to the ongoing debate that shapes educational innovation and social advancement.
+</text>
+
+<text page="15" section="**ACADEMIC PUBLICATIONS **" source="author" id="/page/14/Text/13">
+Professor Eman Gaad, Dean of the Faculty of Education, wrote a chapter in 'Education in the United Arab Emirates – Innovation and Transformation'. The book, published by Springer, overviews education in the UAE. In her chapter Professor Eman discusses the status of inclusive education and initiatives taken by the UAE to support inclusion. She also co-authored a chapter in 'Leading Change in Teacher Education', published by Routledge. The book discusses topics relevant to education, policymakers and international organisations involved in the design and implementation of programmes in teacher education.
+</text>
+
+</page>
+<page number="16">
+
+<heading page="16" section="**PROGRAMMES **" source="author" id="/page/15/SectionHeader/0" level="2">
+## **PROGRAMMES **
+</heading>
+
+<text page="16" section="**PROGRAMMES **" source="author" id="/page/15/Text/1">
+■ BUiD accepts students on the BSc in Electro-Mechanical Engineering programme
+</text>
+
+<figure page="16" section="**PROGRAMMES **" source="author" id="/page/15/Picture/2" image="A3.R28_fig48.jpg">[FIGURE: see A3.R28_fig48.jpg]</figure>
+
+<text page="16" section="**PROGRAMMES **" source="author" id="/page/15/Text/3">
+BUID offered undergraduate programmes for the first time in 2018. In 2019, it accepted the first group of students on the BSc in Electro-Mechanical Engineering. The programme is designed to produce well-rounded graduates who can work across a wide range of roles from design and consulting to contracting and management in a wide range of modern industries such as construction, manufacturing, energy services, renewable energy, transportation, and aviation. An electro-mechanical engineer can ensure the reliable and efficient functioning of the majority of systems and subsystems that underpin today's societies. Proper integration and optimisation of these has significant environmental, economic and social implications and therefore plays a decisive role in enhancing the sustainability of society.
+</text>
+
+<text page="16" section="**PROGRAMMES **" source="author" id="/page/15/Text/4">
+Master of Education programme introduces a successful blended learning approach
+</text>
+
+<figure page="16" section="**PROGRAMMES **" source="author" id="/page/15/Picture/5" image="A3.R28_fig49.jpg">[FIGURE: see A3.R28_fig49.jpg]</figure>
+
+<figure page="16" section="**PROGRAMMES **" source="author" id="/page/15/Picture/6" image="A3.R28_fig50.jpg">[FIGURE: see A3.R28_fig50.jpg]</figure>
+
+<text page="16" section="**PROGRAMMES **" source="author" id="/page/15/Text/7">
+Dr. Tendai Charles, Assistant Professor of Education, introduced an innovative teaching approach to his class. The Teaching &amp; Learning module was enhanced with the introduction of a blended learning component that uses a combination of 'Team-Based Learning' pedagogy, 'Micro-Learning' pedagogy and the 'Flipped Classroom' method. Students were divided into teams and each team leader was responsible for ensuring that the students were on track with their weekly homework tasks and the core assignments for the module.
+</text>
+
+
+<heading page="16" section="■ BUiD offers a portfolio of Masters in Education programmes" source="author" id="/page/15/SectionHeader/8" level="3">
+### ■ BUiD offers a portfolio of Masters in Education programmes
+</heading>
+
+<figure page="16" section="■ BUiD offers a portfolio of Masters in Education programmes" source="author" id="/page/15/Picture/9" image="A3.R28_fig51.jpg">[FIGURE: see A3.R28_fig51.jpg]</figure>
+
+<text page="16" section="■ BUiD offers a portfolio of Masters in Education programmes" source="author" id="/page/15/Text/10">
+In 2004, BUID offered its first Master of Education programme. In 2019, based on this now highly successful MEd programme, it introduced a portfolio of programmes in Education including Master of Education in Management Leadership and Policy, Master of Education in Special and Inclusive Education, Master of Education in Teaching English to Speakers of Other Languages, Master of Education in Information and Communication Technology, Master of Education in Science Education, Master of Education in Psychology, and Master of Education in Learning and Teaching.
+</text>
+
+</page>
+<page number="17">
+
+<heading page="17" section="ACADEMIC AND PROFESSIONAL COLLABORATION, AND LINKS WITH INDUSTRY" source="author" id="/page/16/SectionHeader/0" level="1">
+# ACADEMIC AND PROFESSIONAL COLLABORATION, AND LINKS WITH INDUSTRY
+</heading>
+
+
+<heading page="17" section="■ BUiD signs an MoU with the Knowledge Fund Establishment" source="author" id="/page/16/SectionHeader/1" level="3">
+### ■ BUiD signs an MoU with the Knowledge Fund Establishment
+</heading>
+
+<figure page="17" section="■ BUiD signs an MoU with the Knowledge Fund Establishment" source="author" id="/page/16/Picture/2" image="A3.R28_fig52.jpg">[FIGURE: see A3.R28_fig52.jpg]</figure>
+
+<text page="17" section="■ BUiD signs an MoU with the Knowledge Fund Establishment" source="author" id="/page/16/Text/3">
+Under the patronage and in the presence of His Highness Sheikh Ahmed bin Saeed Al Maktoum, President, Dubai Civil Aviation Authority, Chairman &amp; Chief Executive, Emirates Group, Chairman Dubai Airports, and BUID Chancellor, the Knowledge Fund Establishment and The British University in Dubai signed a memorandum of understanding. The MoU signing marked the continued support of the Knowledge Fund Establishment in the development of BUID. The
+</text>
+
+<text page="17" section="■ BUiD signs an MoU with the Knowledge Fund Establishment" source="author" id="/page/16/Text/4">
+MoU was signed by Professor Abdullah Alshamsi, Vice Chancellor, and His Excellency Hesham Khalifa Al Qaizi, Chief Executive Officer and Member of the Board of Directors of the Knowledge Fund Establishment. The ceremony was also attended by His Excellency Ahmad Abdulkarim Julfar, Chairman of the Board of Directors of the Knowledge Fund Establishment, and members of the University's Council.
+</text>
+
+
+<heading page="17" section="■ BUiD signs an MoU with the Ministry of Health and Prevention (MoHAP)" source="author" id="/page/16/SectionHeader/5" level="3">
+### ■ BUiD signs an MoU with the Ministry of Health and Prevention (MoHAP)
+</heading>
+
+<figure page="17" section="■ BUiD signs an MoU with the Ministry of Health and Prevention (MoHAP)" source="author" id="/page/16/Picture/6" image="A3.R28_fig53.jpg">[FIGURE: see A3.R28_fig53.jpg]</figure>
+
+<text page="17" section="■ BUiD signs an MoU with the Ministry of Health and Prevention (MoHAP)" source="author" id="/page/16/Text/7">
+On 24 November, BUiD signed a memorandum of understanding with the Ministry of Health and Prevention, (MoHAP), represented by the Health Statistics and Research Center. The two organisations agreed on enhancing their cooperation to conduct health statistical research, exchange experiences and research in health and data field, and develop a framework of cooperation in the field of data science and informatics.
+</text>
+
+<text page="17" section="■ BUiD signs an MoU with the Ministry of Health and Prevention (MoHAP)" source="author" id="/page/16/Text/8">
+The MoU was signed at BUiD by Alya Zaid Harbi, Director of the Health Statistics and Research Center, and Professor Abdullah Alshamsi, Vice Chancellor.
+</text>
+
+
+<heading page="17" section="BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding" source="author" id="/page/16/SectionHeader/9" level="1">
+# BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding
+</heading>
+
+<text page="17" section="BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding" source="author" id="/page/16/Text/10">
+On 2 April, BUiD signed a Memorandum of Understanding (MoU) with the Dubai Blockchain Center and the University of Nicosia during the Future Blockchain Summit. The MoU was signed by Professor Abdullah Alshamsi, Vice Chancellor,
+</text>
+
+<text page="17" section="BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding" source="author" id="/page/16/Text/11">
+Dr Marwan Alzarouni, Chief Executive Officer – Dubai Blockchain Center and Antonis Polemitis, Chief Executive Officer – University of Nicosia.
+</text>
+
+<text page="17" section="BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding" source="author" id="/page/16/Text/12">
+The three parties agreed to collaborate to further the promotion and understanding of blockchain through training courses, workshops, conferences, educational programmes and research.
+</text>
+
+<figure page="17" section="BUiD, Dubai Blockchain Center and the University of Nicosia sign a Memorandum of Understanding" source="author" id="/page/16/Picture/13" image="A3.R28_fig54.jpg">[FIGURE: see A3.R28_fig54.jpg]</figure>
+
+</page>
+<page number="18">
+
+<heading page="18" section="■ BUID signs an MoU with the British Council to become an IELTS Registration and Test Centre" source="author" id="/page/17/SectionHeader/0" level="1">
+# ■ BUID signs an MoU with the British Council to become an IELTS Registration and Test Centre
+</heading>
+
+<figure page="18" section="■ BUID signs an MoU with the British Council to become an IELTS Registration and Test Centre" source="author" id="/page/17/Picture/1" image="A3.R28_fig55.jpg">[FIGURE: see A3.R28_fig55.jpg]</figure>
+
+<figure page="18" section="■ BUID signs an MoU with the British Council to become an IELTS Registration and Test Centre" source="author" id="/page/17/Picture/2" image="A3.R28_fig56.jpg">[FIGURE: see A3.R28_fig56.jpg]</figure>
+
+<text page="18" section="■ BUID signs an MoU with the British Council to become an IELTS Registration and Test Centre" source="author" id="/page/17/Text/3">
+On 7 October BUiD signed an MoU with the British Council to become an approved IELTS Registration and Test Centre. The MoU was signed during an official ceremony held at BUiD attended by Gavin Anderson, Director of the British Council, UAE, Deep Adhikari, Director – Exams, Gulf South Cluster, Professor Abdullah Alshamsi, Vice Chancellor, and Hugh Martin, Registrar and Chief Administrative Officer.
+</text>
+
+
+<heading page="18" section="■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes" source="author" id="/page/17/SectionHeader/4" level="1">
+# ■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes
+</heading>
+
+<figure page="18" section="■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes" source="author" id="/page/17/Picture/5" image="A3.R28_fig57.jpg">[FIGURE: see A3.R28_fig57.jpg]</figure>
+
+<text page="18" section="■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes" source="author" id="/page/17/Text/6">
+BUID signed a collaborative agreement with the University of Glasgow. Through this agreement, BUID Computer Science undergraduates will be able to complete the last two years of their programmes in the UK, benefitting from an exceptional learning experience offered by one of the UK's world-class universities.
+</text>
+
+<text page="18" section="■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes" source="author" id="/page/17/Text/7">
+BUiD's students registered on the BSc in Computer Science – Software Engineering or BSc in Computer Science – Artificial Intelligence will have the option to study the last two years of their degrees on the BSc (Honours) in Computing Science at the University of Glasgow. In addition, students will be offered annual financial support in the form of a scholarship to help them with their education expenses. The University of Glasgow was established in 1451, and it is ranked in the top 100 universities in the world. It is a member of the prestigious Russell Group that represents 24 leading UK universities.
+</text>
+
+<text page="18" section="■ BUiD signs 2+2 agreement with the University of Glasgow for Computer Science programmes" source="author" id="/page/17/Text/8">
+This agreement follows two similar 2+2 collaborative agreements, which BUiD signed with the University of Edinburgh and the University of Glasgow for engineering programmes in 2018.
+</text>
+
+</page>
+<page number="19">
+
+<heading page="19" section="Energy certified programmes at BUiD" source="author" id="/page/18/SectionHeader/0" level="3">
+### Energy certified programmes at BUiD
+</heading>
+
+<figure page="19" section="Energy certified programmes at BUiD" source="author" id="/page/18/Picture/1" image="A3.R28_fig58.jpg">[FIGURE: see A3.R28_fig58.jpg]</figure>
+
+<text page="19" section="Energy certified programmes at BUiD" source="author" id="/page/18/Text/2">
+In 2019, BUiD's Professional Development and Examination Centre (PDEC) conducted 19 workshop sessions through the Taqati training programme which brings in a suite of internationally and locally certified training programmes and modules to cater to the learning &amp; development needs of different audiences in Dubai's energy sector. Workshops conducted through the year included LEED (GA, AP O+M, AP BD+C, and AP ID+C), Certified Energy
+</text>
+
+<text page="19" section="Energy certified programmes at BUiD" source="author" id="/page/18/Text/3">
+Manager (CEM), Certified Energy Auditor (CEA), Certified Measurement &amp; Verification Professional (CMVP), WELL AP, Performance Contracting &amp; Funding Professional (PCF), and Advanced Measurement &amp; Verification (AMV).
+</text>
+
+<text page="19" section="Energy certified programmes at BUiD" source="author" id="/page/18/Text/4">
+Specialised training sessions were held for major stakeholders such as RTA, Dubai Airports, ENOVA, and MAF. The goal of the training programmes was to help bridge the knowledge and skill gaps in the energy market. BUiD has also forged partnerships with governmental and non-governmental agencies and organisations throughout the UAE and GCC for the provision of organisational training. It delivered the first Certified Building Commissioning Professional (CBCP) in the Middle East.
+</text>
+
+
+<heading page="19" section="■ BUiD hosts a lecture about intelligent engines and intelligent services" source="author" id="/page/18/SectionHeader/5" level="3">
+### ■ BUiD hosts a lecture about intelligent engines and intelligent services
+</heading>
+
+<text page="19" section="■ BUiD hosts a lecture about intelligent engines and intelligent services" source="author" id="/page/18/Text/6">
+On 18 February, BUiD hosted Professor Andrew Harrison, Engineering Associate Fellow at Rolls-Royce, who gave a presentation titled 'Intelligent engines and intelligent services – the perfect partnership'. In his presentation, Professor Harrison talked about the extent of technological advancement being used in Rolls-Royce engines, making them some of the safest, most intelligent and cost efficient. The presentation explored how application of these technologies from the setting of product requirements through to in-service support planning are transforming product availability, reliability, and cost of ownership.
+</text>
+
+<figure page="19" section="■ BUiD hosts a lecture about intelligent engines and intelligent services" source="author" id="/page/18/Picture/7" image="A3.R28_fig59.jpg">[FIGURE: see A3.R28_fig59.jpg]</figure>
+
+<figure page="19" section="■ BUiD hosts a lecture about intelligent engines and intelligent services" source="author" id="/page/18/Picture/8" image="A3.R28_fig60.jpg">[FIGURE: see A3.R28_fig60.jpg]</figure>
+
+</page>
+<page number="20">
+
+<heading page="20" section="**AWARDS **" source="author" id="/page/19/SectionHeader/0" level="1">
+# **AWARDS **
+</heading>
+
+
+<heading page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/SectionHeader/1" level="1">
+# ■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019
+</heading>
+
+<text page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/Text/2">
+On 27 February, His Highness Sheikh Mansour bin Mohammed bin Rashid Al Maktoum, President of the Dubai International Marine Club, honoured the winners of the 11th edition of the Dubai Award for Sustainable Transport (DAST).
+</text>
+
+<text page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/Text/3">
+Aysha Hasan Alshehhi, BUiD's student on the PhD in Architecture and Sustainable Built Environment, won the second place award in the Best Student Project category for her research about a priority indicator for the lighting of federal roads in the UAE. The DAST award is an initiative of Dubai's Roads and Transport Authority (RTA) to motivate the public and private sectors to contribute to easing traffic congestion and protect the environment.
+</text>
+
+<figure page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/Picture/4" image="A3.R28_fig61.jpg">[FIGURE: see A3.R28_fig61.jpg]</figure>
+
+<figure page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/Picture/5" image="A3.R28_fig62.jpg">[FIGURE: see A3.R28_fig62.jpg]</figure>
+
+<figure page="20" section="■ BUiD PhD student wins the Dubai Award for Sustainable Transport 2019" source="author" id="/page/19/Picture/6" image="A3.R28_fig63.jpg">[FIGURE: see A3.R28_fig63.jpg]</figure>
+
+
+<heading page="20" section="BUID students win best paper awards at the Graduate Students Research Conference 2019" source="author" id="/page/19/SectionHeader/7" level="3">
+### BUID students win best paper awards at the Graduate Students Research Conference 2019
+</heading>
+
+<text page="20" section="BUID students win best paper awards at the Graduate Students Research Conference 2019" source="author" id="/page/19/Text/8">
+Two of BUiD's PhD students won the best paper award at the Graduate Students Research Conference 2019 (GSRC) held at Zayed University in Abu Dhabi.
+</text>
+
+<text page="20" section="BUID students win best paper awards at the Graduate Students Research Conference 2019" source="author" id="/page/19/Text/9">
+Joe Hazzam won 1st place and best paper award in the Business and Management track for his paper 'Co-creation of value in the digital age: the role of customer engagement and social media activities'.
+</text>
+
+<text page="20" section="BUID students win best paper awards at the Graduate Students Research Conference 2019" source="author" id="/page/19/Text/10">
+Maqsoud Kruse won 1st place and best paper award in the Arts, Humanities and Social Sciences track for his paper 'Can neuroimaging identify giftedness? An exploratory experimental study'.
+</text>
+
+<text page="20" section="BUID students win best paper awards at the Graduate Students Research Conference 2019" source="author" id="/page/19/Text/11">
+The main purpose of the GSRC is to provide opportunities for graduate students to share their research work receive scholarly feedback, and network professionally.
+</text>
+
+
+<heading page="20" section="BUiD academic wins Best Presentation Award" source="author" id="/page/19/SectionHeader/12" level="1">
+# BUiD academic wins Best Presentation Award
+</heading>
+
+<text page="20" section="BUiD academic wins Best Presentation Award" source="author" id="/page/19/Text/13">
+Dr Emad Abu-Ayyash, Assistant Professor of Education, won the Best Presentation Award at the XIII ICLLL 2019: International Conference on Languages, Literature and Linguistics. His winning paper titled 'Context and Culture in EFL Learners' and Native Speakers' Discourses' explored the functions of exophoric and homophoric cohesive devices in EFL learners' essays and professional NS writers' articles about the same topic. The conference, which was
+</text>
+
+<figure page="20" section="BUiD academic wins Best Presentation Award" source="author" id="/page/19/Picture/14" image="A3.R28_fig64.jpg">[FIGURE: see A3.R28_fig64.jpg]</figure>
+
+<text page="20" section="BUiD academic wins Best Presentation Award" source="author" id="/page/19/Text/15">
+held in Bali, Indonesia on 24 October, brought together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of languages, literature and linguistics.
+</text>
+
+</page>
+<page number="21">
+
+<heading page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/SectionHeader/0" level="1">
+# BUiD professors receive recognition awards
+</heading>
+
+<figure page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/Picture/1" image="A3.R28_fig65.jpg">[FIGURE: see A3.R28_fig65.jpg]</figure>
+
+<text page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/Text/2">
+Professor Husam Al-Malkawi Professor of Finance and the Head of Finance programmes, won one of the Asian Education Leadership Awards under the Best Professor in Finance Studies category. The Awards ceremony was held on 10 October in Dubai. The award indicates excellence in application of leadership principles to business situations.
+</text>
+
+<text page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/Text/3">
+Professor Khaled Shaalan, Head of Computer Science programmes, won the Transformation Maestro in IT Research Award at the Enterprise Transformation Summit &amp; Awards 2019 held in Dubai on 7 October. The Summit is a leadership platform for top CXOs and IT Heads. It focuses
+</text>
+
+<figure page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/Picture/4" image="A3.R28_fig66.jpg">[FIGURE: see A3.R28_fig66.jpg]</figure>
+
+<text page="21" section="BUiD professors receive recognition awards" source="author" id="/page/20/Text/5">
+on continued efforts towards embracing new technologies and how enterprises in the region are enhancing their competitive edge by the deployment of technologies including Al and machine learning, robotic process automation, digital workspaces, IoT, blockchain, and data analytics.
+</text>
+
+
+<heading page="21" section="Dean of Education wins awards for her research" source="author" id="/page/20/SectionHeader/6" level="1">
+# Dean of Education wins awards for her research
+</heading>
+
+<figure page="21" section="Dean of Education wins awards for her research" source="author" id="/page/20/Picture/7" image="A3.R28_fig67.jpg">[FIGURE: see A3.R28_fig67.jpg]</figure>
+
+<text page="21" section="Dean of Education wins awards for her research" source="author" id="/page/20/Text/8">
+Professor Eman Gaad, Dean of the Faculty of Education, won the Best Research Award at the Asia-Pacific Down Syndrome Federation (APDSF) Excellence Awards 2019 ceremony for her research on Down syndrome. She also won The Best Paper Award at the International Conference on Literature, Languages, Humanities and Social Sciences, which was held in Istanbul, for her research paper titled 'The Quest for Effective Inclusive Education: from Equality to Equity in Mainstream Classroom'.
+</text>
+
+
+<heading page="21" section="BUiD academic wins Best Presenter Award" source="author" id="/page/20/SectionHeader/9" level="1">
+# BUiD academic wins Best Presenter Award
+</heading>
+
+<figure page="21" section="BUiD academic wins Best Presenter Award" source="author" id="/page/20/Picture/10" image="A3.R28_fig68.jpg">[FIGURE: see A3.R28_fig68.jpg]</figure>
+
+<text page="21" section="BUiD academic wins Best Presenter Award" source="author" id="/page/20/Text/11">
+Dr. Solomon David, Associate Professor and Head of Master of Education programmes, won the Best Presenter Award at the International Conference on Teaching, Education &amp; Learning held on 24-25 June at Lusófona University, Lisbon, Portugal. The Conference was organised by the Teaching and Education Research Association (TERA). TERA aims to bring researchers and professionals together to encourage intellectual development and to create opportunities for networking and collaboration.
+</text>
+
+</page>
+<page number="22">
+
+<heading page="22" section="INTERNATIONAL REACH" source="author" id="/page/21/SectionHeader/0" level="1">
+# INTERNATIONAL REACH
+</heading>
+
+
+<heading page="22" section="■ BUiD students participate in leadership and multicultural training in Dundee, Scotland" source="author" id="/page/21/SectionHeader/1" level="1">
+# ■ BUiD students participate in leadership and multicultural training in Dundee, Scotland
+</heading>
+
+<figure page="22" section="■ BUiD students participate in leadership and multicultural training in Dundee, Scotland" source="author" id="/page/21/Picture/2" image="A3.R28_fig69.jpg">[FIGURE: see A3.R28_fig69.jpg]</figure>
+
+<text page="22" section="■ BUiD students participate in leadership and multicultural training in Dundee, Scotland" source="author" id="/page/21/Text/3">
+Four of BUiD's postgraduate students were among 63 students from the UAE, Egypt and Malaysia who participated in the 27th educational programme at the Al Maktoum College of Higher Education in Dundee.
+</text>
+
+<text page="22" section="■ BUiD students participate in leadership and multicultural training in Dundee, Scotland" source="author" id="/page/21/Text/4">
+During the training programme, the students were involved in debates on multiculturalism, international politics, globalisation, leadership and dialogue of civilisations. The concluding ceremony was held on 22 February in the presence of His Excellency Mirza Al Sayegh, Chairman of the College Board and member of the University Council, His Excellency Sulaiman Hamid Almazroui, UAE Ambassador to the UK, and Ian Borthwick, the Right Honourable Lord Lieutenant and Lord Provost of Dundee. Students were awarded with certificates accredited by the Scottish Qualifications Authority.
+</text>
+
+
+<heading page="22" section="**■ BUiD students visit leading UK universities **" source="author" id="/page/21/SectionHeader/5" level="3">
+### **■ BUiD students visit leading UK universities **
+</heading>
+
+<text page="22" section="**■ BUiD students visit leading UK universities **" source="author" id="/page/21/Text/6">
+In BUiD's fifteen year history, regular educational visits to the UK have formed an important part of the University's student experience. This year for the first time, BUiD was able to include in these trips undergraduate students from its initial cohort who started our new Bachelors programmes this year.
+</text>
+
+<text page="22" section="**■ BUiD students visit leading UK universities **" source="author" id="/page/21/Text/7">
+In June, BUiD students from the Faculty of Education along with Dr Christopher Hill, Associate Professor and Director of the Doctoral Training Centre, travelled to the UK. They were hosted by the University of Westminster and were able to take part in an international colloquium. The students discussed developing research that benefits society and how to work internationally and benefit from conferences. The students then attended a series of research presentations at the University of Glasgow. The group discussed good practice, developing research skills and how to work with the local community to ensure relevant and valuable outputs to research activity. All of the BUiD students along with students from the University of Glasgow then presented their research work during an international student research conference. Professor Stephen McKinney, Leader of Pedagogy, Praxis and Faith at the University of Glasgow, delivered a professional development workshop, on getting work published.
+</text>
+
+<figure page="22" section="**■ BUiD students visit leading UK universities **" source="author" id="/page/21/Picture/8" image="A3.R28_fig70.jpg">[FIGURE: see A3.R28_fig70.jpg]</figure>
+
+<figure page="22" section="**■ BUiD students visit leading UK universities **" source="author" id="/page/21/Picture/9" image="A3.R28_fig71.jpg">[FIGURE: see A3.R28_fig71.jpg]</figure>
+
+</page>
+<page number="23">
+
+<heading page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/SectionHeader/0" level="3">
+### ■ BUiD students participated in an educational trip to the United Kingdom
+</heading>
+
+<text page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/Text/1">
+In July, a mixed Faculty group of BUiD postgraduates and undergraduates travelled to the United Kingdom on an educational trip, led by the Registrar and Chief Administrative Officer. The trip included visits to Rolls-Royce in Derby, the Universities of Edinburgh and Glasgow, the UK's largest onshore wind farm at Whitelee in Scotland, as well as two days exploring the sights of London. During the trip, students attended workshops at the Rolls-Royce plant in Derby.
+</text>
+
+<figure page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/Picture/2" image="A3.R28_fig72.jpg">[FIGURE: see A3.R28_fig72.jpg]</figure>
+
+<figure page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/Picture/3" image="A3.R28_fig73.jpg">[FIGURE: see A3.R28_fig73.jpg]</figure>
+
+<figure page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/Picture/4" image="A3.R28_fig74.jpg">[FIGURE: see A3.R28_fig74.jpg]</figure>
+
+<text page="23" section="■ BUiD students participated in an educational trip to the United Kingdom" source="author" id="/page/22/Text/5">
+The trip also afforded senior BUiD staff the opportunity to meet with their UK Universities Alliance partners in Edinburgh and Glasgow, and to visit the Manufacturing Technology Centre in Coventry, where they held productive meetings with Rolls-Royce managers to discuss plans to develop further the ongoing relationship between the two partners.
+</text>
+
+</page>
+<page number="24">
+
+<heading page="24" section="**■ Visit to Rolls-Royce **" source="author" id="/page/23/SectionHeader/0" level="1">
+# **■ Visit to Rolls-Royce **
+</heading>
+
+<figure page="24" section="**■ Visit to Rolls-Royce **" source="author" id="/page/23/Picture/1" image="A3.R28_fig75.jpg">[FIGURE: see A3.R28_fig75.jpg]</figure>
+
+<figure page="24" section="**■ Visit to Rolls-Royce **" source="author" id="/page/23/Picture/2" image="A3.R28_fig76.jpg">[FIGURE: see A3.R28_fig76.jpg]</figure>
+
+<text page="24" section="**■ Visit to Rolls-Royce **" source="author" id="/page/23/Text/3">
+Students visited the Rolls-Royce plant in Derby where they attended lectures and participated in workshops.
+</text>
+
+<figure page="24" section="**■ Visit to Rolls-Royce **" source="author" id="/page/23/Picture/4" image="A3.R28_fig77.jpg">[FIGURE: see A3.R28_fig77.jpg]</figure>
+
+</page>
+<page number="25">
+
+<heading page="25" section="**COMMUNITY OUTREACH **" source="author" id="/page/24/SectionHeader/0" level="1">
+# **COMMUNITY OUTREACH **
+</heading>
+
+
+<heading page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/SectionHeader/1" level="3">
+### ■ The British University in Dubai holds its Sustainability Spring School 2019
+</heading>
+
+<figure page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/Picture/2" image="A3.R28_fig78.jpg">[FIGURE: see A3.R28_fig78.jpg]</figure>
+
+<text page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/Text/3">
+BUID organised its Sustainability Spring School 2019, sponsored by the Emirates National Oil Company (ENOC), under the theme 'Green Bridge' and aimed at giving students a better understanding of sustainability. More than 60 students from the UAE, UK, Kingdom of Saudi Arabia, China, and Singapore participated. Students were engaged in a wide range of activities including seminars, debates, roundtable discussions, competitions, and site visits. They visited DEWA Sustainable Building in Al Quoz, Sustainable City, Zayed Desert Learning Centre, and UAE University. Participants were divided into seven teams which competed to win the best design of the Future Petrol Station. The winning team for the best design was chosen by a judging panel that included His Excellency Saif Al Falasi, Group CEO of ENOC, Dr. Waddah Ghanem, Sr. Director of Sustainability, Operational &amp; Business Excellence, and other members from the ENOC management team, along with the Vice Chancellor and Dean of the Faculty of Engineering and IT. The one-week activity at the University was concluded in a closing ceremony in the presence of His Excellency Dr. Thani bin Ahmed Al Zeyoudi, Minister of Climate Change and Environment, and His Excellency Saif Humaid Al Falasi.
+</text>
+
+<figure page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/Picture/4" image="A3.R28_fig79.jpg">[FIGURE: see A3.R28_fig79.jpg]</figure>
+
+<figure page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/Picture/5" image="A3.R28_fig80.jpg">[FIGURE: see A3.R28_fig80.jpg]</figure>
+
+<figure page="25" section="■ The British University in Dubai holds its Sustainability Spring School 2019" source="author" id="/page/24/Picture/6" image="A3.R28_fig81.jpg">[FIGURE: see A3.R28_fig81.jpg]</figure>
+
+</page>
+<page number="26">
+
+<heading page="26" section="BUiD organises its first Entrepreneurship and Innovation Competition" source="author" id="/page/25/SectionHeader/0" level="3">
+### BUiD organises its first Entrepreneurship and Innovation Competition
+</heading>
+
+<figure page="26" section="BUiD organises its first Entrepreneurship and Innovation Competition" source="author" id="/page/25/Picture/1" image="A3.R28_fig82.jpg">[FIGURE: see A3.R28_fig82.jpg]</figure>
+
+<text page="26" section="BUiD organises its first Entrepreneurship and Innovation Competition" source="author" id="/page/25/Text/2">
+BUiD organised its first Entrepreneurship and Innovation Competition for schools. The competition aimed to encourage innovation and entrepreneurship by engaging students and giving them the opportunity to develop and pursue their business ideas. Nine teams from three schools (St Mary's Catholic High School, the International School of Creative Science, and SAMA American Private School) competed in presenting their projects in front of a jury panel. The first place winner was the Frame Work team from the International School of Creative Science. The Preference Speculators team from St Mary's Catholic High School came in second and in third place was the EGR team from the International School of Creative Science.
+</text>
+
+
+<heading page="26" section="Faculty of Education offers parenting training" source="author" id="/page/25/SectionHeader/3" level="3">
+### Faculty of Education offers parenting training
+</heading>
+
+<text page="26" section="Faculty of Education offers parenting training" source="author" id="/page/25/Text/4">
+On 24 September, Professor Eman Gaad, Dean of the Faculty of Education, and Rawy Thabet, Academic Associate, provided training for 25 staff working at the Psychiatric Clinic at Rashid Hospital. The training focused on how to deliver parenting strategies effectively, particularly through the use of case discussion and role play. One of the main objectives of the training was to help trainees gain confidence in delivering regular group sessions to parents. This training was awarded one CPD Credit Point by Dubai Health Authority (Accreditation 1584/19).
+</text>
+
+<figure page="26" section="Faculty of Education offers parenting training" source="author" id="/page/25/Picture/5" image="A3.R28_fig83.jpg">[FIGURE: see A3.R28_fig83.jpg]</figure>
+
+<figure page="26" section="Faculty of Education offers parenting training" source="author" id="/page/25/Picture/6" image="A3.R28_fig84.jpg">[FIGURE: see A3.R28_fig84.jpg]</figure>
+
+<figure page="26" section="Faculty of Education offers parenting training" source="author" id="/page/25/Picture/7" image="A3.R28_fig85.jpg">[FIGURE: see A3.R28_fig85.jpg]</figure>
+
+</page>
+<page number="27">
+<figure page="27" section="Faculty of Education offers parenting training" source="author" id="/page/26/Picture/0" image="A3.R28_fig86.jpg">[FIGURE: see A3.R28_fig86.jpg]</figure>
+
+</page>
+<page number="28">
+<figure page="28" section="Faculty of Education offers parenting training" source="author" id="/page/27/Picture/0" image="A3.R28_fig87.jpg">[FIGURE: see A3.R28_fig87.jpg]</figure>
+
+
+<heading page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/SectionHeader/1" level="1">
+# **CONNECT WITH BUID **
+</heading>
+
+<figure page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/Picture/2" image="A3.R28_fig88.jpg">[FIGURE: see A3.R28_fig88.jpg]</figure>
+
+<figure page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/Picture/3" image="A3.R28_fig89.jpg">[FIGURE: see A3.R28_fig89.jpg]</figure>
+
+<figure page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/Picture/4" image="A3.R28_fig90.jpg">[FIGURE: see A3.R28_fig90.jpg]</figure>
+
+<figure page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/Picture/5" image="A3.R28_fig91.jpg">[FIGURE: see A3.R28_fig91.jpg]</figure>
+
+<figure page="28" section="**CONNECT WITH BUID **" source="author" id="/page/27/Picture/6" image="A3.R28_fig92.jpg">[FIGURE: see A3.R28_fig92.jpg]</figure>
+
+
+<heading page="28" section="THE BRITISH UNIVERSITY IN DUBAI" source="author" id="/page/27/SectionHeader/7" level="3">
+### THE BRITISH UNIVERSITY IN DUBAI
+</heading>
+
+<text page="28" section="THE BRITISH UNIVERSITY IN DUBAI" source="author" id="/page/27/Text/8">
+Block 10 &amp; 11 Dubai International Academic City, PO Box 345015, Dubai, UAE **tel.:** +971 4 279 1400, **email:** info@buid.ac.ae
+</text>
+
+</page>
+</paper>

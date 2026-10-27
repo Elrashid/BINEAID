@@ -1,0 +1,741 @@
+<paper source_file="A3.R22" title="**Qualitative Case Study Guidelines**" total_pages="25" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R22_fig01.jpg">[FIGURE: see A3.R22_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **Qualitative Case Study Guidelines**
+</heading>
+
+<text page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/Text/3">
+Saša Baškarada Defence Science and Technology Organisation, Melbourne Australia
+</text>
+
+<text page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/Text/4">
+*Although widely used, the qualitative case study method is not well * *understood.* *Due to conflicting epistemological presuppositions and the * *complexity inherent in qualitative case-based studies, scientific rigor can * *be difficult to demonstrate, and any resulting findings can be difficult to * *justify. For that reason, this paper discusses methodological problems * *associated with qualitative case-based research and offers guidelines for * *overcoming them.* *Due to its nearly universal acceptance, Yin's six-stage * *case study process is adopted and elaborated on. Moreover,* *additional * *principles* *from the wider methodological literature are integrated* *and* *explained.* *Finally, some modifications* *to the dependencies* *between the six * *case study stages are suggested. It is expected that following the guidelines * *presented in this paper may* *facilitate the collection of the most relevant * *data in the most efficient and effective manner, simplify the subsequent * *analysis, as well as enhance the* *validity* *of the resulting findings.* *The paper * *should be of interest to students (honour, masters, doctoral), academics, * *and practitioners involved with conducting and reviewing qualitative case**based studies. Keywords:* *Qualitative Research, Case Study, Guidelines, * *Validity. *
+</text>
+
+<text page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/Text/5">
+Where quantitative research is mainly concerned with the testing of hypotheses and  statistical generalisations [(Jackson, 2008)](#page-21-0), qualitative research does not usually employ  statistical procedures or other means of quantification, focusing instead on understanding  the nature of the research problem rather than on the quantity of observed characteristics [(Strauss &amp; Corbin, 1994)](#page-22-0). Given that qualitative researchers generally assume that social  reality is a human creation, they interpret and contextualise meanings from people's beliefs  and practices [(Denzin &amp; Lincoln, 2011)](#page-20-0).
+</text>
+
+<text page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/Text/6">
+Case study research involves "intensive study of a single unit for the purpose of  understanding a larger class of (similar) units … observed at a single point in time or over  some delimited period of time" [(Gerring, 2004, p. 342)](#page-21-1). As such, case studies provide an  opportunity for the researcher to gain a deep holistic view of the research problem, and  may facilitate describing, understanding and explaining a research problem or situation [(Baxter &amp; Jack, 2008;](#page-20-1)[ Tellis, 1997a,](#page-23-0)[ 1997b)](#page-23-1).
+</text>
+
+<text page="1" section="**Qualitative Case Study Guidelines**" source="author" id="/page/0/Text/7">
+Besides being widely used in academia, the method is also popular with  practitioners as a tool for evaluation and organisational learning. However, although widely  used, the qualitative case study method is not well understood [(Barratt, Choi, &amp; Li, 2011;](#page-19-0) [Dooley, 2002;](#page-20-2) [Flyvbjerg, 2006;](#page-21-2) [Gerring, 2004;](#page-21-1) [Stuart, McCutcheon, Handfield, ](#page-23-2) [McLachlin, &amp; Samson, 2002)](#page-23-2). Given the considerable time and resource requirements associated with conducting such studies [(GAO, 1990)](#page-21-3), any misunderstandings regarding  the purpose and implementation of the method as well as the validity of the resulting  findings can have significant negative consequences. In the context of academic studies,  significant misunderstandings identified during the peer-review process may potentially
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/2">
+invalidate the whole study, thus, leading to wasted time and effort on the part of the  researchers and the case study participants. Any misunderstandings in practitioner-oriented  case studies may potentially result in dysfunctional [(Merton, 1940)](#page-22-1) or superstitious [(Levitt ](#page-21-4) [&amp; March, 1988)](#page-21-4) organisational learning [(March, Sproull, &amp; Tamuz, 1991;](#page-22-2)[ Yukl, 2009)](#page-23-3).
+</text>
+
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/3">
+Justifying the rigour of qualitative case studies to researchers experienced with the  method and the problem domain can be challenging. For any justification to be persuasive,  it has to rely on arguments rooted in the methodological literature. Justifying such studies  to more quantitatively minded researchers who may not be experienced with the domain  under investigation may seem like an almost unsurmountable obstacle. The author has  experienced such challenges first-hand as a doctoral student, researcher, and practitioner.
+</text>
+
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/4">
+The author has been a predominantly qualitative researcher for almost a decade, and has conducted and published numerous case studies, largely in the information systems domain, including [(Baškarada, 2010,](#page-19-1) [2011;](#page-19-2) [Baškarada &amp; Koronios, 2011;](#page-19-3)[ Baškarada, ](#page-20-3) [Koronios, &amp; Gao, 2007;](#page-20-3)[ Baškarada, McKay, &amp; McKenna, 2013)](#page-20-4). Most recently, as part of  his role as an operations analyst in the Australian Defence Science and Technology  Organisation (DSTO), the author has been engaged in case studies in the domains of operations management, leadership, and organisational learning. This paper originated  from a study aimed at providing methodological foundations to Lessons Learned activities  conducted by the Australian Defence Force (ADF).
+</text>
+
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/5">
+ADF's adaptability and continuous improvement are underpinned by its ability to  learn from experience. Such learning requires the ability to capture and analyse  observations, and to take adaptive actions that ensure lessons identified become learned  and institutionalised. In order to facilitate the collection of relevant observations, as well  as to assure the validity of the subsequent analysis, it is essential that ADF follows a  scientifically rigorous process and employs the most appropriate methods. This paper  presents qualitative case study guidelines, which may facilitate the collection of the most  relevant observations in the most efficient and effective manner. Furthermore, it is expected  that following these guidelines will also simplify the subsequent analysis as well as assure  the rigour of any identified lessons. In addition to being of potential benefit to the ADF,  this paper should also be of interest to other practitioners as well as academics with a stake  in qualitative case studies.
+</text>
+
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/6">
+In order to assist students, academics, and practitioners with conducting and  evaluating qualitative case studies, this paper adopts Yin's [(2009)](#page-23-4) nearly universally  accepted six-stage case study process and enriches it by integrating additional guidelines  from the wider methodological literature. The paper concludes by elaborating on suggested  modifications to the dependencies between some of the case study stages (see[ ](#page-2-0)
+</text>
+
+<text page="2" section="**Qualitative Case Study Guidelines**" source="author" id="/page/1/Text/7">
+[Figure](#page-2-0) **1**); original dependencies are represented in blue, suggested additions in red,  and suggested deletions in gray.
+</text>
+
+
+<heading page="2" section="**Plan**" source="author" id="/page/1/SectionHeader/8" level="2">
+## **Plan**
+</heading>
+
+<text page="2" section="**Plan**" source="author" id="/page/1/Text/9">
+The planning stage focuses on identifying the research questions or other rationale  for doing a case study, deciding to use the case study method (compared with other  methods), and understanding its strengths and limitations [(Yin, 2009)](#page-23-4). Clearly defining the  research problem is probably the most important step in the entire research project. As  such, every case study should begin with a comprehensive literature review and a careful
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Plan**" source="author" id="/page/2/Text/1">
+consideration of the research questions and study objectives [(Ravitch &amp; Riggan, 2011)](#page-22-3). A  comprehensive literature review, which enhances the face validity of the study [(Dooley, ](#page-20-2) [2002)](#page-20-2), should identify relevant gaps in the literature and relate them to the research  questions [(Darke, Shanks, &amp; Broadbent, 1998)](#page-20-5).
+</text>
+
+<figure_group page="3" section="**Plan**" source="author" id="/page/2/FigureGroup/232">
+<caption page="3" section="**Plan**" source="author" id="/page/2/Caption/2">
+**Figure 1**: The Case Study Process, adapted from [(Yin, 2009, p. 1)](#page-23-4)
+</caption>
+<figure page="3" section="**Plan**" source="author" id="/page/2/Figure/3" image="A3.R22_fig02.jpg">[FIGURE: see A3.R22_fig02.jpg]</figure>
+</figure_group>
+
+<text page="3" section="**Plan**" source="author" id="/page/2/Text/4">
+Another key point of the planning stage is to ensure that no mismatch exists  between the research questions and the case study method [(GAO, 1990)](#page-21-3). The choice of the  research method is determined by several factors, including the type of research question,  the control an investigator has over actual behavioural events, and the focus on  contemporary as opposed to historical phenomena [(Yin, 2009)](#page-23-4). The case study method  should also align with the underlying research paradigm; e.g., positivist/postpositivist,  interpretive, and critical/postmodern [(Gephart, 2004)](#page-21-5). Critical realism has been advocated  as the preferred paradigm for case study research [(Easton, 2010)](#page-20-6).
+</text>
+
+<text page="3" section="**Plan**" source="author" id="/page/2/Text/5">
+While the case study method has traditionally been classed as soft research, the  properties described above actually make case studies particularly difficult to execute well [(Yin, 2009)](#page-23-4). Nevertheless, they are particularly suitable when research sponsors (rather  than investigators) define the research questions [(GAO, 1990)](#page-21-3). Additionally, while experiments usually control the context in an artificial environment and have many more  data points than variables of interest, case studies usually have "many more variables of  interest than data points," rely "on multiple sources of evidence, with data needing to  converge in a triangulating fashion," and benefit "from the prior development of theoretical  propositions to guide data collection and analysis" [(Yin, 2009, p. 18)](#page-23-4).
+</text>
+
+<text page="3" section="**Plan**" source="author" id="/page/2/Text/6">
+The United States Government Accountability Office (GAO) extensively uses case  studies in their evaluations. GAO defines case study as "a method for learning about a  complex instance, based on a comprehensive understanding of that instance obtained by  extensive description and analysis of that instance taken as a whole and in its context"  [(GAO, 1990, p. 15)](#page-21-3). Case studies allow for confirmatory (deductive) as well as explanatory  (inductive) findings [(Hyde, 2000;](#page-21-6)[ Yin, 2009)](#page-23-4), can be based on *single* or *multiple cases,* and  can include *qualitative* and/or *quantitative* data [(Gerring, 2004)](#page-21-1). They can be *exploratory*,  *descriptive*, or *explanatory*, and they have been described as the preferred research method  when *how* and *why* questions are posed, the investigator has little control over events, and  the focus is on a contemporary phenomenon within a real-life context [(Yin, 2009)](#page-23-4).  Conversely, case study research method may not be the best choice in situations where the  phenomenon of interest is mature and well-understood, where there is little interest
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/2">
+regarding *how* or *why* a phenomenon occurs, and where real-life context is irrelevant  [(Darke et al., 1998)](#page-20-5).
+</text>
+
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/3">
+According to Yin, *how* and *why* questions are better answered through case studies  as such questions "deal with operational links needing to be traced over time, rather than  mere frequencies or incidence" (p. 9). On the other hand, surveys, for example, are more  appropriate when answering questions like *who*, *what*, *where*, *how many*, and *how much* [(Dane, 2010)](#page-20-7). However, as surveys are usually analysed using statistical techniques, the  unit of analysis also needs to be taken into consideration. For instance, when studying  groups/organisations, it may be difficult (or even impossible) to obtain a sufficiently large  sample; in such instances case studies may be more appropriate.
+</text>
+
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/4">
+While case studies do not aim to generalise to populations (*statistical * *generalisation*), similar to experiments, they aim to generalise to theories (*analytical * *generalisation*;[ Yin, 2009)](#page-23-4). Thus, according to Yin, replication may be claimed "if two or  more cases are shown to support the same theory" (p. 38). Stake [(1978)](#page-22-4), on the other hand,  argues that case studies are particularly well-suited for *naturalistic generalisations* that are  based on experiential transformation of tacit knowledge into explicit knowledge. In any  case, case studies are particularly well-suited for extensive and in-depth descriptions of  complex social phenomena. In fact, the depth of analysis is one of the primary virtues of  the case study method [(Gerring, 2004)](#page-21-1). As a research method, case studies are commonly  used in psychology, sociology, political science [(Gerring, 2004)](#page-21-1), business [(Eisenhardt &amp; ](#page-21-7) [Graebner, 2007)](#page-21-7), information systems [(Darke et al., 1998)](#page-20-5), education [(Stake, 1978)](#page-22-4), operations management [(McCutcheon &amp; Meredith, 1993)](#page-22-5), marketing [(Easton, 2010)](#page-20-6), and  the like.
+</text>
+
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/5">
+However, "given the time required, the rich, in-depth, nature of the information  sought, and the need to achieve credibility," case studies can also be costly to conduct  [(GAO, 1990, p. 11)](#page-21-3). Other challenges identified by GAO include choosing the method for  selecting cases, reporting the basis for selecting cases, and integrating findings across  several cases when the findings in one were inconsistent with those in another.
+</text>
+
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/6">
+*Exploratory* case studies may be undertaken prior to the definition of the research  questions and hypotheses. Accordingly, they are mainly used for theory building.  *Descriptive* case studies try to completely describe different characteristics of a  phenomenon in its context and so they are also mainly used for theory building. Such  studies may also identify differences between individual cases with a view of potentially  generating a classificatory framework [(Gerring, 2004)](#page-21-1). *Explanatory* case studies may be  undertaken to investigate causal relationships; hence, they are mainly used for theory  testing. They are characterised by *how* and *why* research questions because they investigate  the relationships that are proposed between different theory components [(Yin, 2009)](#page-23-4). Any  inconsistencies between a preliminary theory and the evidence may lead to theory modification and enhancement [(Aneshensel, 2012)](#page-19-4). A notable example of an explanatory  case study is the Allison and Zelikow [(1999)](#page-19-5) study of the 1962 Cuban missile crisis, which  according to Yin [(2009)](#page-23-4) demonstrates how a "single case study can be the basis for  significant explanations and generalisations" (p. 6).
+</text>
+
+<text page="4" section="**Plan**" source="author" id="/page/3/Text/7">
+As surveys are usually considered as the preferred method for theory testing,  providing clear justification for the use of deductive (explanatory) case studies is  imperative [(Barratt et al., 2011)](#page-19-0). Since purely descriptive studies are frequently criticised
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Plan**" source="author" id="/page/4/Text/1">
+due to a lack of theoretical contribution, it has been suggested that exploratory case studies  may be "the safest option" [(Pan &amp; Tan, 2011, p. 163)](#page-22-6).
+</text>
+
+<text page="5" section="**Plan**" source="author" id="/page/4/Text/2">
+Stake [(1995)](#page-22-7) differentiates between *intrinsic*, *instrumental*, and *collective* case  studies. *Intrinsic* case studies only aim at acquiring better understanding of the particular  case of interest. Thus, such case studies are not used for theory building. *Instrumental* case  studies provide insights into an issue or are used to refine a theory, and *collective* case  studies comprise several instrumental case studies. However, Stake also argues that studies  seldom fit neatly into such categories, and that researchers have to make a strategic choice  in deciding on the scope of the case study, since everything cannot and need not be  understood.
+</text>
+
+<text page="5" section="**Plan**" source="author" id="/page/4/Text/3">
+GAO [(1990)](#page-21-3) provides a more detailed classification, differentiating between six  types of case studies:
+</text>
+
+<list page="5" section="**Plan**" source="author" id="/page/4/ListGroup/251">
+- *illustrative*—this case study is descriptive in character and intended to add realism  and in-depth examples to other information about a program or policy;
+- *exploratory*—this is also a descriptive case study but is aimed at generating  hypotheses for later investigation rather than for illustrating;
+- *critical instance*—this examines a single instance of unique interest or serves as a  critical test of an assertion about a program, problem, or strategy;
+- *program implementation*—this case study investigates operations, often at several  sites, and often normatively;
+- *program effects*—this application uses the case study to examine causality and  usually involves multi-site, multi-method assessments; and
+- *cumulative*—this brings together findings from many case studies to answer an  evaluation question, whether descriptive, normative, or cause-and-effect.
+</list>
+
+
+<heading page="5" section="**Design**" source="author" id="/page/4/SectionHeader/10" level="2">
+## **Design**
+</heading>
+
+<text page="5" section="**Design**" source="author" id="/page/4/Text/11">
+The design stage focuses on defining the unit of analysis and the likely cases to be  studied, developing theory/propositions and identifying issues underlying the anticipated  study, identifying the case study design (*single*, *multiple*, *holistic*, *embedded*), and  developing procedures to maintain case study quality [(Yin, 2009)](#page-23-4). Research design  logically links the research questions to the research conclusions through the steps  undertaken during data collection and data analysis. Thus, research design, which can be  seen as a "blueprint" for the research project, should address the research questions, relevant propositions/hypotheses, the unit of analysis, the logic linking the data to the  propositions, and the criteria for interpreting the findings. The logic linking the data to the  propositions should also ensure the correct type and amount of relevant information is  collected. The criteria for interpreting the findings should include any relevant rival  theories/explanations so that relevant data can be collected during the data collection stage.  Common design-related issues include choosing an inappropriate unit of analysis,  inappropriate case selection, insufficient attention to alternative theories/hypotheses, and  more/fewer cases selected than necessary [(GAO, 1990)](#page-21-3). Countering some of these issues  requires a careful balance between "knowing more about less and knowing less about  more" [(Gerring, 2004, p. 348)](#page-21-1).
+</text>
+
+<text page="5" section="**Design**" source="author" id="/page/4/Text/12">
+The unit of analysis defines what the case is—for example, an event, a process, an  individual, a group, or an organisation [(GAO, 1990;](#page-21-3)[ Yin, 2009)](#page-23-4). As the literature is not
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**Design**" source="author" id="/page/5/Text/2">
+consistent with respect to the terminology—for example, Gerring [(2004)](#page-21-1) advocates a  taxonomy in which units comprise cases—clearly defining relevant terms is critical. In the  case of an event or a process, defining the time boundaries (i.e., the beginning and the end  of the case) is imperative. While it may sound obvious and simple, identifying the  appropriate unit of analysis requires careful consideration, as any confusion over it may  invalidate the whole study [(Gerring, 2004)](#page-21-1). Nevertheless, a review of qualitative case  studies in operations management recently found that 83% of articles did not clearly state  their unit of analysis [(Barratt et al., 2011)](#page-19-0). Similarly, most case studies published in the  information systems literature fail to identify the unit of analysis [(Dubé &amp; Paré, 2003)](#page-20-8).
+</text>
+
+<text page="6" section="**Design**" source="author" id="/page/5/Text/3">
+Since all research is based on theory, the theoretical foundations of the study should  be clearly articulated [(Flynn, Sakakibara, Schroeder, Bates, &amp; Flynn, 1990)](#page-21-8). This includes  differentiating between theory building [(Eisenhardt, 1989)](#page-21-9) and theory testing approaches.  As previously discussed, case studies are appropriate for answering *how* and *why* questions.  The specific questions can be identified and developed by closely examining any previous  studies and identifying any suggestions/opportunities for future research [(Yin, 2009)](#page-23-4).  However, as the *how* and *why* questions are usually quite broad, they may not provide  enough guidance on what data needs to be collected. In such cases, deriving more specific  propositions/hypotheses may be of benefit. Deciding on which propositions apply to the  case(s) under study and which are intended to be generalised to a broader population is  critical [(Gerring, 2004)](#page-21-1). Stating all relevant propositions also has the benefit of illustrating  the study scope [(Baxter &amp; Jack, 2008)](#page-20-1). As the choice of the theoretical lens is entirely  subjective, there are no explicit guidelines for how exactly this should be done [(Walsham, ](#page-23-5) [2006)](#page-23-5). Nevertheless, from a pragmatic standpoint, theoretical foundations should not be  dated, immature, overused, or overly practitioner-oriented [(Pan &amp; Tan, 2011)](#page-22-6). When the  case study data uncovers constructs that do not neatly fit within the foundational theoretical  schema, the researchers may have the opportunity to extend it by including additional  constructs and/or propositions. The alternative and reasonably controversial view [(Walsham, 1995)](#page-23-6) argues against any theoretical preconception prior to data collection with  a view that any theory should purely emerge from the raw data [(Eisenhardt, 1989;](#page-21-9)[ Glaser ](#page-21-10) [&amp; Strauss, 1967)](#page-21-10).
+</text>
+
+<text page="6" section="**Design**" source="author" id="/page/5/Text/4">
+As studies may have multiple stakeholders (e.g., researchers and the organisation  under study), it is also important to either clearly differentiate between, or align, expected  practical and theoretical contributions [(Darke et al., 1998)](#page-20-5). Potential practical benefits to  the case study organisation include benchmarking against best-practices and other  organisations, and rich descriptions of the phenomenon under investigation. Interviewees  may also benefit by gaining a better understanding of the research problem [(Onwuegbuzie, ](#page-22-8) [Leech, &amp; Collins, 2012)](#page-22-8).
+</text>
+
+<text page="6" section="**Design**" source="author" id="/page/5/Text/5">
+It has been shown that many published case studies fail to identify the rationale for  case selection [(Dubé &amp; Paré, 2003)](#page-20-8). Individual cases may be selected based on  *convenience*, *purpose*, and *probability* (see [Table 1)](#page-6-0).[ Table 2](#page-6-1) shows another non-mutuallyexclusive taxonomy for the selection of cases. According to Yin, reasons for justifying  *single-case* studies include studying a *critical case*, an *extreme case*, a *representative* or  *typical case*, a *revelatory case* (involving a novel situation), and a *longitudinal case*.  *Purposive* case selection provides an ability to collect the most relevant data [(Edmonds &amp; ](#page-21-11) [Kennedy, 2012)](#page-21-11), and *longitudinal* cases provide an ability to identify trends over time  [(GAO, 1990)](#page-21-3).
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="**Design**" source="author" id="/page/6/Text/1">
+According to Yin, in *multi-case studies*, each case should be selected so that it either  predicts similar results (*literal replication*), or predicts contrasting results but for  anticipatable reasons (*theoretical replication*). If multiple cases lead to contradictory  results, the preliminary theory should be revised and tested with another set of cases [(Yin, ](#page-23-4) [2009)](#page-23-4). Both single and multiple designs can be either holistic (one unit of analysis per case)  or embedded (multiple units of analysis per case).
+</text>
+
+<table_group page="7" section="**Design**" source="author" id="/page/6/TableGroup/220">
+<caption page="7" section="**Design**" source="author" id="/page/6/Caption/2">
+**Table 1**: Instance Selection in Case Studies [(GAO, 1990, p. 25)](#page-21-3)
+</caption>
+<table page="7" section="**Design**" source="author" id="/page/6/Table/3">
+| Selection Basis | When to use and what questions it can answer |
+| --- | --- |
+| Convenience | Case selected because it was expedient for data collectionpurposes. |
+| Purpose |  |
+| Bracketing | What is happening at extremes? What explains such differences? |
+| Best Cases | What accounts for an effective program? |
+| Worst Cases | Why isn't the program working? |
+| Cluster | How do different types of programs compare with each other? |
+| Representative | Instances chosen torepresent important variations. |
+| Typical | Instance chosen to represent a typical case. |
+| Special Interest | Instances chosen based on an unusual/special attribute. |
+| Probability | What is happening in the program as a whole, and why? |
+</table>
+<caption page="7" section="**Design**" source="author" id="/page/6/Caption/4">
+**Table 2**: Strategies for the Selection of Cases [(Flyvbjerg, 2001)](#page-21-12)
+</caption>
+</table_group>
+
+<table page="7" section="**Design**" source="author" id="/page/6/Table/5">
+| Selection Basis | Description |
+| --- | --- |
+| Extreme/deviant case | Extreme or unusual case. |
+| Maximum variation cases | Cases which are very different on one dimension. |
+| Critical case | A case with strategic importance to the general problem. |
+| Paradigmatic case | A prototypical case. |
+</table>
+
+<text page="7" section="**Design**" source="author" id="/page/6/Text/6">
+While there is no ideal number of cases, depending on the nature of the research  question, the available resources, the study timeframe, and case availability, either breadth (across multiple cases) or depth (within case) may take precedence [(Darke et al., 1998;](#page-20-5) [Perry, 1998)](#page-22-9). Nevertheless, multiple cases typically lead to more robust outcomes than  single-case research, especially in the context of inductive theory building [(Eisenhardt &amp; ](#page-21-7) [Graebner, 2007)](#page-21-7). As gaining access to suitable case study organisations is perhaps the most  challenging step in the entire process [(Walsham, 2006)](#page-23-5), some argue that it may be more  pragmatic to tailor any theoretical contribution based on case study accessibility [(Pan &amp; ](#page-22-6) [Tan, 2011)](#page-22-6). In other words, that searching for, and gaining access to, relevant cases should  come prior to the identification of research questions. This advice especially makes sense  if one agrees with the claim that unsolicited contact should be avoided.
+</text>
+
+<text page="7" section="**Design**" source="author" id="/page/6/Text/7">
+The quality of any empirical studies, including case studies, depends on *construct * *validity*, *internal validity*, *external validity*, and *reliability* [(Edmonds &amp; Kennedy, 2012)](#page-21-11).
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="**Design**" source="author" id="/page/7/Text/2">
+*Construct validity*, which is especially challenging in case study research, deals with  concept operationalisation. *Operationalisation* is the process of defining a concept through  a set of attributes/variables in order to make it measurable through empirical observations  [(Loseke, 2012)](#page-21-13). Numerous threats to *construct validity* have been identified, including  inadequate explication of constructs, construct confounding, mono-operation bias, monomethod bias, confounding constructs with levels of constructs, treatment sensitive factorial  structure, reactive self-report changes, reactivity to the experimental situation,  experimenter expectancies, novelty and disruption effects, compensatory equalisation,  compensatory rivalry, resentful demoralisation, and treatment diffusion. Shadish, Cook,  and Campbell [(2002)](#page-22-10) discuss each of these threats in great detail and provide  recommendations on how to mitigate against them. According to Yin [(2009)](#page-23-4), three  strategies for improving construct validity include using multiple sources of evidence, having key informants review the case study report, and maintaining a chain of evidence.  Employing multiple sources of evidence can contribute to construct validity by providing  multiple measures of the same phenomenon. Designing the case study so that the chain of  evidence is maintained should allow reviewers to trace from conclusions back to the initial  research questions, or from questions to the conclusions [(Sarker &amp; Lee, 1998)](#page-22-11). The  corrections made through reviews by key informants may enhance the accuracy of the case  study as well as identify a range of competing perspectives.
+</text>
+
+<text page="8" section="**Design**" source="author" id="/page/7/Text/3">
+*Internal validity*, which is concerned with justifying causal relationships, only  applies to explanatory and not to descriptive or exploratory case studies [(GAO, 1990)](#page-21-3). Threats to internal validity include ambiguous temporal precedence, selection, history,  maturation, regression, attrition, testing, instrumentation, and additive and interactive  effects. Again, Shadish et al. [(2002)](#page-22-10) provide detailed explanations and recommendations.  The use of methodological and data source triangulation (including cross-case  comparisons) can lead to increased internal validity [(GAO, 1990)](#page-21-3). Other types of  *triangulation* include investigator triangulation and theory triangulation [(Denzin, 1978)](#page-20-9).  For instance, a number of individual investigators or teams may separately engage in data  collection and preliminary analysis activities, prior to converging and comparing their  initial findings [(Gerring, 2004)](#page-21-1). Separate investigators could then actively attempt to  invalidate each other's preliminary findings [(Campbell, 1975)](#page-20-10). In addition, a theory should  be enhanced and validated by continually and iteratively evaluating cases against it [(Sykes, ](#page-23-7) [1990)](#page-23-7). It has also been argued that *pattern matching* may be used to enhance the internal  validity, whereby, involving qualitative but logical deduction [(Lee, 1989)](#page-21-14), an empirically  based pattern is logically compared against a predicted pattern [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="8" section="**Design**" source="author" id="/page/7/Text/4">
+*External validity* deals with the problem of knowing whether the findings are  generalisable to other cases. Threats to external validity include interaction of the causal  relationship with units, interaction of the causal relationship over treatment variations,  interaction of the causal relationship with outcomes, interaction of the causal relationship  with settings, and context dependent mediation [(Shadish et al., 2002)](#page-22-10). However, it has been  argued that the use of one case is similar to the use of one experiment, in the sense that  neither one is sufficient to reject or disprove propositions, and that several are necessary to  demonstrate accuracy of a theory [(Eisenhardt &amp; Graebner, 2007;](#page-21-7)[ Lee, 1989;](#page-21-14)[ Yin, 2009)](#page-23-4). In  other words, "case studies, like experiments, are generalisable to theoretical propositions  and not to populations or universes. In this sense, the case study, like the experiment, does  not represent a 'sample', and the investigator's goal is to expand and generalise theories
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="**Design**" source="author" id="/page/8/Text/1">
+[*analytical* *generalisation*] and not to enumerate frequencies [*statistical generalisation*]"  [(Yin, 2009, p. 10)](#page-23-4). Nevertheless, it is worth noting that the methodological literature  provides little consensus regarding how exactly analytical generalisation may be achieved [(Halkier, 2011)](#page-21-15).
+</text>
+
+<text page="9" section="**Design**" source="author" id="/page/8/Text/2">
+*Reliability* is concerned with demonstrating that same results can be obtained by repeating the data collection procedure. In other words, other investigators should in  principle be able to follow the same procedures and arrive at the same results. Two  strategies for ensuring reliability of case studies include creation of the case study protocol,  and development of a case study database [(Yin, 2009)](#page-23-4). The case study protocol contributes  to the reliability by standardising the investigation. Relevant documents may include an  overview of the project, field procedures, guiding questions, and a report outline.
+</text>
+
+<text page="9" section="**Design**" source="author" id="/page/8/Text/3">
+In addition to construct/internal/external validity and reliability, *data quality* is also  a key validity criterion. Research has identified a range of relevant data quality dimensions,  including accuracy, objectivity, believability, reputation, interpretability, ease of  understanding, concise and consistent representation, relevancy, value-added, timeliness,  completeness, amount of information, accessibility, and access security [(Wang &amp; Strong, ](#page-23-8) [1996)](#page-23-8). In relation to these dimensions, data may become corrupted during collection, transmission, storage, integration, retrieval, and analysis [(Baškarada, 2010,](#page-19-1)[ 2011)](#page-19-2).
+</text>
+
+
+<heading page="9" section="**Prepare**" source="author" id="/page/8/SectionHeader/4" level="2">
+## **Prepare**
+</heading>
+
+<text page="9" section="**Prepare**" source="author" id="/page/8/Text/5">
+The prepare stage focuses on developing skills as a case study investigator, training  for a specific case study, developing a case study protocol, conducting a pilot case, and  gaining any relevant approvals [(Yin, 2009)](#page-23-4). Preparation should also aim to identify any  relevant issues in the case study design and/or the team composition, and endeavour to  address any such issues before starting the data collection stage. Even though critical, it  has been observed that this step is frequently omitted in published accounts of case studies  [(Dubé &amp; Paré, 2003)](#page-20-8).
+</text>
+
+<text page="9" section="**Prepare**" source="author" id="/page/8/Text/6">
+According to Yin, the researchers should be sufficiently familiar with the study  domain as to understand the main concepts and theoretical/methodological issues relevant  to the study. They should know why the study is being done, what evidence is being sought,  what empirical variations can be anticipated (including what should be done if such  variations occur), and what constitutes supportive or contrary evidence. Specific  preparations for data collection activities may include reviewing the original case study  proposal, case study protocol, sample reports, and the like. In addition to being sufficiently  familiar with the study domain, case study investigators should also be able to interpret the  information in real-time and adjust their data collection activities accordingly to suit the  case study [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="9" section="**Prepare**" source="author" id="/page/8/Text/7">
+As previously discussed, the use of a case study protocol positively contributes  toward reliability of the study, and should ideally include introduction to the case study  and the purpose of the protocol, the data collection procedures, an outline of the case study  report, high-level case study questions, and any references. Pilot case studies may also be  used to refine the "data collection plans with respect to both the content of the data and the  procedures to be followed" [(Yin, 2009, p. 92)](#page-23-4). Any pilot reports should reflect on the  lessons identified and, as appropriate, provide avenues for the implementation of lessons  into the next iteration. Nevertheless, it has been shown that most case studies published in  the information systems literature fail to mention any pilots [(Dubé &amp; Paré, 2003)](#page-20-8). Any
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="**Prepare**" source="author" id="/page/9/Text/2">
+subsequent changes to, or deviations from, the case study protocol should be completely  and accurately documented [(Dooley, 2002)](#page-20-2).
+</text>
+
+<text page="10" section="**Prepare**" source="author" id="/page/9/Text/3">
+Before proceeding further, the investigators should also reach an agreement with  the case study organisation/participants regarding any limitations on the disclosure of data,  identities, and findings [(Darke et al., 1998)](#page-20-5). Potential participants should also be informed  about the research timeframe, the proposed nature of their involvement, and the expected  practical outcomes.
+</text>
+
+
+<heading page="10" section="**Collect**" source="author" id="/page/9/SectionHeader/4" level="2">
+## **Collect**
+</heading>
+
+<text page="10" section="**Collect**" source="author" id="/page/9/Text/5">
+The collect stage involves following the case study protocol, using multiple sources  of evidence, creating a case study database, and maintaining a chain of evidence [(Yin, ](#page-23-4) [2009)](#page-23-4). GAO [(1990)](#page-21-3) similarly recommends that multiple sources of evidence should be  used, that a case study database should be used to store relevant evidence, and that an  auditable chain of evidence (also referred to as an "audit trail") should explain how any  conclusions have been drawn [(Miles &amp; Huberman, 1994)](#page-22-12).
+</text>
+
+<text page="10" section="**Collect**" source="author" id="/page/9/Text/6">
+According to Yin, one major difference between survey based studies and case  studies is that surveys capture perceptions and attitudes about events and behaviours,  whereas case studies collect direct evidence. Furthermore, in case studies, data are analysed  as they become available, and the emerging results are used to shape the next set of  observations [(GAO, 1990)](#page-21-3), or the next data collection activity [(Dooley, 2002)](#page-20-2).
+</text>
+
+<text page="10" section="**Collect**" source="author" id="/page/9/Text/7">
+*Theoretical sampling*, which differs from *statistical sampling*, originated with the  development of *grounded theory* [(Glaser &amp; Strauss, 1967)](#page-21-10). In contrast to statistical  sampling, the goal of theoretical sampling is not to undertake representative capture of all  possible variations, but to gain a deeper understanding of the cases in order to facilitate the  development of theories. Theoretical sampling implies that the researchers guide their data  collection activities on the basis of provisionary theoretical ideas [(Boeije, 2002)](#page-20-11). Thus, it  enables answering of questions that have arisen from the analysis of and reflection on  previous data, since each piece of analysed data provides indications about where to look  next. Theoretical reasons for sampling cases include revelation of something  unusual/unexpected, seeking replication/falsification, elimination of alternative  explanations, and elaboration of emerging theory [(Eisenhardt &amp; Graebner, 2007)](#page-21-7). Selecting  extreme case-pairs (e.g., good vs. bad) is a common theoretical sampling approach. As  such, the theory is continually modified as a consequence of further research. Such  comprehensive data collection approach helps ensure that key aspects have not been  missed, the associated flexibility provides an ability to collect the most relevant data, and  multiple sources of evidence lead to enhanced validity and reduced bias [(Eisenhardt &amp; ](#page-21-7) [Graebner, 2007;](#page-21-7)[ GAO, 1990)](#page-21-3). In addition, the ability to search for disproving evidence may  lead to a reduction in confirmation bias, and maintaining a chain of evidence allows for  stronger justifications of any conclusions.
+</text>
+
+<text page="10" section="**Collect**" source="author" id="/page/9/Text/8">
+In addition to investigator bias that may result from personal values and  assumptions, and which can unduly influence data collection and analysis, potential effects  of the investigators on the behaviour of the case study participants also need to be taken  into consideration [(Darke et al., 1998)](#page-20-5). For instance, "double hermeneutics" refers to the  situation where researchers influence the interpretations of the study participants [(Giddens, ](#page-21-16) [1984)](#page-21-16). Arguments that such type of bias may be minimised by building rapport between  the investigators and the participants [(Miles &amp; Huberman, 1994)](#page-22-12) are questionable. In any
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/1">
+case, researchers should explicitly acknowledge any such aspects and critically reflect on  how meanings may have been socially constructed [(Klein &amp; Myers, 1999)](#page-21-17).
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/2">
+Relevant data may be collected through *documents, archival records, interviews, * *direct observations, and physical artefacts* [(Yin, 2009)](#page-23-4). According to Yin, when reviewing  documents, researchers should bear in mind that they may not always accurately reflect  reality (e.g., policy and process documents may be out-of-date). Archival records are  arguably more reliable, as they are usually used for record keeping purposes.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/3">
+A case study database allows investigators to develop an audit trail from data  collection, through analysis, to final conclusions. According to Yin, any interested reader  should be able to link the conclusions presented in the case study report to the underlying  analyses, the supporting evidence, the case study protocol, and the original research  questions. A case study database may include interview transcripts, investigator notes,  documentary evidence, preliminary analyses, and the like. As such, the use of a case study  database enhances the reliability of the study. All items in the database should be  categorised, indexed, and cross-referenced in order to facilitate easy retrieval.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/4">
+Before data collection is completed, researchers should ensure they have collected  enough confirmatory evidence for most of the main study topics, and that the evidence  included attempts to investigate major rival hypotheses or explanations. According to Yin,  any case study findings are "likely to be more convincing and accurate if [they] are based  on several different sources of information" (p. 116), because multiple sources of evidence  allow for data triangulation and the development of converging lines of inquiry. In other  words, "examining consistency of evidence across different types of data sources is akin to  verification" [(GAO, 1990, p. 21)](#page-21-3). Construct validity is also supported as multiple sources  of evidence provide multiple measures of the same construct [(Yin, 2009)](#page-23-4). According to  GAO [(1990)](#page-21-3) selection of appropriate instances/cases, triangulation, and the search for  disproving evidence are the key features of case studies.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/5">
+Interviews (see[ Table 3)](#page-11-0) are guided conversations that are usually one of the most  important sources of case study evidence [(Yin, 2009)](#page-23-4). However, "they should only be used  to obtain information that cannot be obtained in any other way" [(Darke et al., 1998, p. 283)](#page-20-5).  For instance, information about organisational functional areas, reporting structures, and  roles and responsibilities can be obtained from a range of internal documents (e.g., policies  and procedures), public documents (e.g., annual reports), and websites. Even though the  interview conversation has been described as a "pipeline for transmitting knowledge"  [(Silverman, 1997, p. 113)](#page-22-13), effective interviewing remains a very difficult undertaking  [(Fontana &amp; Frey, 1994)](#page-21-18). Interviews can be *structured*, *semi-structured*, or *unstructured*.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/6">
+*Structured interviews* involve asking pre-defined questions, with a limited set of  response categories. The responses are coded by the interviewer based on an already  established coding scheme [(Miles &amp; Huberman, 1994)](#page-22-12), thus being somewhat similar to  written surveys.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/7">
+*Semi-structured interviews,* or focused interviews [(Dane, 2010)](#page-20-7), can be more  flexible and allow the researcher to better understand the perspective of the interviewees  [(Daymon &amp; Holloway, 2002)](#page-20-12). In semi-structured interviews, a researcher is able to refocus  the questions, or prompt for more information, if something interesting or novel emerges.
+</text>
+
+<text page="11" section="**Collect**" source="author" id="/page/10/Text/8">
+*Unstructured interviews*, on the other hand, do not impose any predefined answer  categories [(Fontana &amp; Frey, 1994)](#page-21-18). They utilise open-ended questions, thus allowing for  even more flexibility. While such interviews are least efficient, they may generate rich data
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/2">
+and uncover surprising/unexpected evidence [(Daymon &amp; Holloway, 2002)](#page-20-12). The experience  of an interviewer with regard to technique and subject matter expertise is a key factor in  identifying and maximising the collection of relevant information. It is recommended  interviewers mainly use probe questions, which start with "How…?" and cannot be  answered with a "yes" or a "no," in unstructured interviews [(Perry, 1998)](#page-22-9).
+</text>
+
+<table_group page="12" section="**Collect**" source="author" id="/page/11/TableGroup/233">
+<caption page="12" section="**Collect**" source="author" id="/page/11/Caption/3">
+**Table 3**: Interview Process, adapted from [(Kasunic, 2010, p. 77)](#page-21-19)
+</caption>
+<table page="12" section="**Collect**" source="author" id="/page/11/Table/4">
+| Orientation | Introductions and exchange of contact details. Description of the study andthe interview process. Clarification of any expectations regarding nonattribution, sharing of data, and any other issues. |
+| --- | --- |
+| InformationGathering | The interviewer uses a questionnaire to guide the interview and to recordresponses. |
+| Closing | The interviewer reviews the key points, any issues, and/or action items,and confirms accuracy with the respondent. The interviewee is invited toprovide feedback on the interview process. The interviewer thanks theinterviewee and seeks permission for any future contact. |
+</table>
+</table_group>
+
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/5">
+The appropriate number of interviews depends on the size of the unit of analysis  (e.g., organisation or department), the phenomenon under investigation, the scope of the  study, and the timeframe available [(Pan &amp; Tan, 2011)](#page-22-6). Nevertheless, anything less than 15  interviews per case study organisation is generally not considered sufficient.
+</text>
+
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/6">
+Ideally, at least two researchers should participate in each interview, so that one can  fully focus on the interview while the other records interviewee responses [(Kasunic, 2010)](#page-21-19).  As is the case with any case study researcher, interviewers require relevant subject matter  expertise as well as information collection (i.e., interviewing) skills. They also need to have  a flexible approach, be objective, and critical.
+</text>
+
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/7">
+Some common pitfalls that can threaten an effective interview include:  misinterpretation/misunderstanding of questions and answers (perhaps due to personal  prejudices or convictions), leading/loaded questions and interjecting comments that can  bias the response, listening only to what is easy to understand, and making assumptions  about what the interviewee may answer based on prior responses [(Barker, 1971)](#page-19-6). Furthermore, it has been observed that posing of *why* questions may create defensiveness  on the part of the interviewees, and that *how* questions are usually a better choice [(Yin, ](#page-23-4) [2009)](#page-23-4).
+</text>
+
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/8">
+Additionally, as interviewees may be biased, have poor recall, or poor articulation,  it is usually necessary to corroborate such data with information from other sources. For  instance, Yin argues that interviewing people with different perspectives can be a valuable  approach. If possible, views of individuals from all relevant sections of the organisation  should be obtained, and the views of more senior officials should not be given greater  weight than views of less highly placed persons [(Eisenhardt &amp; Graebner, 2007;](#page-21-7)[ GAO, ](#page-21-3) [1990)](#page-21-3). Interviewees themselves may also suggest other persons to interview, or other  sources of evidence that may be of interest [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="12" section="**Collect**" source="author" id="/page/11/Text/9">
+Any interview questionnaire used should include topic areas that address important  issues; however, interviewers should preferably not read the questions but memorise the  first few and refer to the instrument only occasionally [(Kasunic, 2010)](#page-21-19). Interviewers should
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/1">
+use eye contact and a confident manner to set the tone for the interview and help establish  rapport with the respondent. When tempted to omit a question because they think they  already know the answer, interviewers should confirm their assumptions with the  interviewee. Also, when an answer is too brief or vague, the interviewer should try to elicit  more detail. This can be done by employing the silent probe (i.e., pause and wait), using  overt encouragement (e.g., saying "uh-huh" or "okay"), asking for elaboration, asking for  clarification, repetition (verify understanding by paraphrasing interviewee responses), and  so on [(Kasunic, 2010)](#page-21-19).
+</text>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/2">
+Using recording devices is a matter of personal preference. However, most  interview methodologists do not think that mechanised recording is a good idea as  recording may make interviewees uncomfortable as well as introduce additional  transcription and analysis related complications [(Yin, 2009)](#page-23-4). For instance, in the case  where the recording device malfunctions and the interviewers haven't been taking notes,  the whole interview (or series of interviews) may be lost. Additionally, respondents may  struggle to say things only in a socially acceptable way [(Kasunic, 2010)](#page-21-19). As complete  transcription and analysis of recorded interviews can be expensive and very time  consuming, it may be argued that conducting more non-recorded interviews instead could  be a more productive approach [(Walsham, 2006)](#page-23-5). Thus, it is recommended interviewers  mainly rely on pen and paper [(Trochim, 2001)](#page-23-9). The scribe should record responses as they  are being stated as this conveys the idea that they are interested in what the respondent is  saying. While the scribe does not have to write down everything, certain key phrases or  quotes may need to be recorded verbatim [(Kasunic, 2010)](#page-21-19). However, if the case study is  being undertaken as part of a higher education project (honours, masters, or doctoral), full  interview transcripts may be expected [(Darke et al., 1998)](#page-20-5). In any case, interviewers should  ensure that interviewees understand how the data will be used as well as that statements  can be made off-the-record.
+</text>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/3">
+In order to bring the interview to closure, the interviewer should review any actions  and issues that were identified during the meeting. Upon the completion of the interview,  researchers should discuss it as soon as possible in order to compare impressions and  identify any potential misunderstandings. The interviewer should also review the interview  transcript and annotate it as needed (e.g., abbreviations, incomplete thoughts, etc.)  [(Kasunic, 2010)](#page-21-19). Any clarifications should be followed up with the interviewees as soon as  possible.[ ](#page-12-0)
+</text>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/4">
+[Table](#page-12-0) **4** details additional recommendations for the interviewer.
+</text>
+
+<caption page="13" section="**Collect**" source="author" id="/page/12/Caption/5">
+**Table 4**: Do's and Don'ts for the Interviewer [(Kasunic, 2010, p. 83)](#page-21-19)
+</caption>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/6">
+Do's Focus on the primary objective of the meeting. Ask every question. Manage  time so that all questions are covered during the interview. Record responses  on the interview form. Do not rely on an audio recording device.
+</text>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/7">
+Don'ts Allow personal stories to take up valuable time. Diverge too far from the  questionnaire. Allow your personal interests to become part of the discussion.
+</text>
+
+<text page="13" section="**Collect**" source="author" id="/page/12/Text/8">
+In addition to individual interviews, focus group discussions can be used to capture  data on the attitudes of small groups of participants to the research problem [(Basch, 1987)](#page-19-7).
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="**Collect**" source="author" id="/page/13/Text/2">
+The ideal number of participants ranges from eight to 12 [(Sim, 1998)](#page-22-14), and in contrast with  individual interviews, the interviewer also needs to facilitate interaction among focus group  members. While focus groups are usually more time and cost effective than individual  interviews, they may discourage creativity or individual responsibility (e.g., through  uneven participation and groupthink).
+</text>
+
+<text page="14" section="**Collect**" source="author" id="/page/13/Text/3">
+Any observation data collection instruments should be developed as part of the case  study protocol [(Yin, 2009)](#page-23-4). Observations may be targeted at artefacts (e.g., physical audits),  or any events/activities of interest (e.g., meetings). Such observational evidence (e.g., photographs) may provide additional information about the study domain or a particular  event. For instance, if the case study is about a new technology, observations of the  technology in the field setting can be highly valuable. Similar to interviews, having  multiple investigators making the same observation may increase the reliability of the  resulting evidence. Participant-observation refers to a special kind of observation where  the investigator is not purely a passive observer, but an active participant in the events  being studied (e.g., when the investigator is a staff member in the organisation being  studied) [(Yin, 2009)](#page-23-4). However, participant-observations can be biased as the investigator  is not an independent party. Also, such observers may find it difficult to think "outside of  the box" and, as such, adopting a novel perspective may be challenging.
+</text>
+
+
+<heading page="14" section="**Analyse**" source="author" id="/page/13/SectionHeader/4" level="2">
+## **Analyse**
+</heading>
+
+<text page="14" section="**Analyse**" source="author" id="/page/13/Text/5">
+The analyse stage relies on theoretical propositions and other strategies, considers  and employs analytic techniques, explores rival explanations, and displays data (facts)  apart from interpretations [(Yin, 2009)](#page-23-4). Qualitative analysis has been described as both the  most difficult and the least codified part of the case study process [(Eisenhardt, 1989)](#page-21-9).  Eisenhardt and Graebner [(2007)](#page-21-7) even suggest avoiding the use of term "qualitative  research," recommending instead to contrast the qualitative approach employed with  alternative qualitative approaches [(Onwuegbuzie et al., 2012)](#page-22-8).
+</text>
+
+<text page="14" section="**Analyse**" source="author" id="/page/13/Text/6">
+As already discussed, qualitative research aims towards analytical generalisation,  as opposed to statistical generalisation usually aimed at in quantitative studies. Analytical  generalisation involves the extraction of abstract concepts from each unit of analysis [(Yin, ](#page-23-10) [2013)](#page-23-10). These abstract concepts should link to the theoretical foundations and be potentially  applicable to other cases. It is important to note that even purely quantitative studies  presuppose some qualitative knowledge; otherwise, the numbers would be meaningless  [(Meredith, 1998)](#page-22-15). Where statistical generalisation aims to make an inference about a  population on the basis of empirical data collected from a sample, analytical generalisation  uses previously developed theory with which empirical case study results are compared.  As such, analytical generalisation is made to theory and not to population; the theory can  be further strengthened by performing cross-case comparisons [(Yin, 1981,](#page-23-11) 2009).
+</text>
+
+<text page="14" section="**Analyse**" source="author" id="/page/13/Text/7">
+Case studies that use both within and cross-case analysis have been found to be  more effective at generating theoretical frameworks and formal propositions than studies  only employing within case or only cross-case analysis [(Barratt et al., 2011)](#page-19-0). Analysing  case study data in parallel with data collection activities allows the researchers to make  quick adjustments to study design as required [(GAO, 1990)](#page-21-3). However, failing to explore  rival explanations, inconsistently applying analytic techniques, only using a subset of data,  and inadequately relating findings across cases can lead to unjustified conclusions.
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="**Analyse**" source="author" id="/page/14/Text/1">
+In the context of case studies, "data analysis consists of examining, categorising,  tabulating, testing, or otherwise recombining evidence to draw empirically based  conclusions" [(Yin, 2009, p. 126)](#page-23-4). This process should be guided by prior theory [(Perry, ](#page-22-9) [1998)](#page-22-9). In other words, idiographic details should be related to general theoretical concepts  [(Klein &amp; Myers, 1999)](#page-21-17). Nevertheless, researchers should remain open to revising their  theoretical preconceptions based on actual findings.
+</text>
+
+<text page="15" section="**Analyse**" source="author" id="/page/14/Text/2">
+The *constant comparative method* (CCM) and theoretical sampling form the core  of qualitative analysis [(Boeije, 2002)](#page-20-11). CCM, which was developed for the creation of  theories that are grounded in the data [(Glaser &amp; Strauss, 1967)](#page-21-10), works inductively to  "discover the latent pattern in the multiple participant's words" [(Glaser, 2002, p. 2)](#page-21-20).  Possible differences in interpretation among the case study participants should be identified  and highlighted [(Klein &amp; Myers, 1999)](#page-21-17). Comparison, the main tool in qualitative analysis, is used to identify constructs, group them into themes, find negative evidence, and so on  [(Tesch, 1990)](#page-23-12). As such, the key objective of qualitative analysis is to identify conceptual  similarities/differences and to discover types, classes, sequences, processes, patterns or  wholes [(Jorgensen, 1989)](#page-21-21). Any inductively developed theories should aim to address a  number of criteria for "good theory development" as much as possible, including:  uniqueness, conservatism, generalisability, fecundity, parsimony, internal consistency,  empirical riskiness, and abstraction [(Wacker, 1998)](#page-23-13).
+</text>
+
+<text page="15" section="**Analyse**" source="author" id="/page/14/Text/3">
+*Hermeneutic* interpretations may be derived by iteratively changing focus between the whole and its parts [(Darke et al., 1998;](#page-20-5)[ Klein &amp; Myers, 1999)](#page-21-17). Such interpretations are  rooted in *semiotics*, a field of study that deals with the relationships between  representations, intended meanings, and interpretations of signs and symbols [(Baškarada ](#page-20-13) [&amp; Koronios, 2013)](#page-20-13). Modern semiotics, which studies the construction of meanings with  respect to communication as well as to the construction and maintenance of reality  [(Beynon-Davies, 2009;](#page-20-14)[ Chandler, 2007)](#page-20-15), is based on the supposition that the whole of  human experience is an interpretive activity mediated and sustained by signs [(Deely, 1990)](#page-20-16).  As such, social activities are seen as being underpinned by sign-systems (organised  collections of signs); e.g. spoken and body language [(Beynon-Davies, 2007)](#page-20-17).
+</text>
+
+<text page="15" section="**Analyse**" source="author" id="/page/14/Text/4">
+Computer-based tools may aid with the coding and categorising of large amounts  of narrative text that may have been collected through interviews or obtained as  documentary evidence [(Yin, 2009)](#page-23-4). An important point to make is that these tools can only  assist an investigator with data analysis, and that much of their functionality is not  automated, but analyst-driven, and does not negate the need for subject matter expertise [(Walsham, 2006)](#page-23-5). This is especially the case with the qualitative (as opposed to  quantitative) data analysis tools. Any meaningful patterns and categories in qualitative data  as well as any explanatory/descriptive theories need to be identified and interpreted by the  analyst. With that in mind, "nearly all scholars express strong caveats about any use of  computer-assisted tools" [(Yin, 2009, p. 129)](#page-23-4).
+</text>
+
+<text page="15" section="**Analyse**" source="author" id="/page/14/Text/5">
+According to Yin, the most important strategy is to follow the theoretical  propositions or hypotheses that led to the case study. In other words, such propositions can  help the analyst plan and focus on the most relevant data, organise the entire case study,  and define alternative explanations. In the absence of any propositions/hypotheses, an  alternative is to develop a descriptive framework (e.g., a draft table of contents) for  organising the case study, while not pre-empting outcomes before the data has been fully
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/2">
+analysed. Such a framework can help the analyst with organising the data as well as with  developing a story line [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/3">
+As researchers usually start the case study with some preconceived ideas, as already  noted, in order to minimise any potential bias it is important to identify and test any rival  explanations. In other words, researchers should try to anticipate potential counter  arguments critical readers of the case study report may have. The process of identifying  any such rival views may involve presenting preliminary analyses/findings to critical  stakeholders and incorporating any feedback in the ongoing analysis. Rival views, which can often be identified via validity and reliability threats, may include the null hypothesis (the effect is the result of chance), direct rival (other interventions that account for the  effect), commingled rival (other interventions contributed to the effect), rival theory (another theory explains the effect better), and so on [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/4">
+In addition to the general strategies described above, any of the following  techniques can also be used to analyse the case study evidence: *pattern matching*,  *explanation building*, *time-series analysis*, *logic models*, and *cross-case analysis* [(Yin, ](#page-23-4) [2009)](#page-23-4).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/5">
+*Pattern matching* is one of the most desirable techniques as it involves the  comparison of predicted patterns and/or effects with the ones that have been empirically  observed, and the identification of any variances or gaps [(GAO, 1990)](#page-21-3). Detailed records of  such predictions and relevant results are essential. Of course, the greater the difference in  rival patterns/effects, the easier it is to perform the matching, and the more convincing any  resulting findings/conclusions will be. Additionally, confirmations of counterintuitive  predictions will be more convincing than confirmations of commonsensical predictions  [(Campbell, 1975)](#page-20-10).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/6">
+*Explanation building *is a special type of pattern matching which aims to analyse  the case study data by building an explanation about the case [(Yin, 2009)](#page-23-4). In this context,  explaining refers to the process of building a set of causal links about *how* or *why* something  happened [(Miles &amp; Huberman, 1994)](#page-22-12). The process is usually iterative and involves making  initial predictions, and comparing them against the case study evidence. Then, based on  any variances, the initial predictions are revised and compared against additional evidence  and/or cases. This process is repeated until a satisfactory match is obtained. According to  Yin, compared to surveys, "the ability to trace changes over time is a major strength of case  studies" (p. 145).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/7">
+*Time-series analysis*, which can also be considered a type of pattern matching,  involves temporal patterns, and may involve statistical analysis techniques (e.g., regression  analysis). Chronological analysis of events may involve any of the following rules: event X must always occur before event Y, event X must always be followed by event Y on a  contingency basis, event X can only follow event Y after a prescribed interval of time, and certain time periods in a case study may be marked by classes of events that differ  substantially from those of other time periods [(Yin, 2009)](#page-23-4).
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/8">
+*Logic models* are a cross between pattern matching and time-series analysis, where  a predicted cause-effect chain of events is compared with the empirically observed  evidence. Such logic models, which may be represented as *influence diagrams* (*causal * *maps*), can be used to causally model competing explanations.
+</text>
+
+<text page="16" section="**Analyse**" source="author" id="/page/15/Text/9">
+*Cross-case analysis*/synthesis applies to multiple cases and can involve any of the  techniques described above.
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="**Analyse**" source="author" id="/page/16/Text/1">
+According to GAO [(1990)](#page-21-3), the concept *observe, think, test, and revise* (OTTR) is  central to case study data collection and analysis. It suggests that during and after  *observations*, the researchers *think* about the meanings of information collected in terms of  what it may imply. This *thinking* leads to ideas about new types of information required in  order to confirm existing interpretations, or rule out alternative explanations (this is  equivalent to theoretical sampling). During the *test* phase the researchers collect additional  information which, when examined, may lead to *revisions* of initial interpretations. Such  *revisions* may in turn lead to another *test* phase. This process can be stopped when a  plausible explanation has been developed, there are no outlier or unexplained data, no  further interpretations are possible, or it is obvious that any additional data will not lead to  new information/insights [(GAO, 1990)](#page-21-3). Thus, according to GAO "in case study methods,  causality is established through the internal consistency and plausibility of explanation,  derived additively through the OTTR sequence" (p. 70).
+</text>
+
+<text page="17" section="**Analyse**" source="author" id="/page/16/Text/2">
+As previously discussed, coding is a key step in qualitative data analysis. During  qualitative analysis, the data is broken up into manageable pieces, which the  researcher/analyst then reconstructs to reflect back a view of reality [(Beekhuyzen, Nielsen, ](#page-20-18) [&amp; von Hellens, 2010)](#page-20-18). The initial step usually involves reading the interview transcripts,  observational notes, and/or any other relevant documents, which may lead to the  development of preliminary notes or memos that can then be used to formulate initial  categories, themes and relationships. Memos are research notes that may contain  interpretations of patterns found in the data, or general comments on issues revealed during  the analysis, which can be coded in a similar way to interview transcripts. Coding is an  iterative and incremental process that may be performed at differing levels of abstraction.  *Descriptive coding* pertains to the broad topics that the researcher may wish to develop prior to conducting interviews and observations [(Morse &amp; Richards, 2002)](#page-22-16). *Topic coding* pertains to issues that generally only become apparent during data analysis, [(Beekhuyzen ](#page-20-18) [et al., 2010)](#page-20-18). *Analytical coding* involves arranging the coded data into a more abstract  framework with categories that are generally more abstract than words in interview  transcripts.
+</text>
+
+<text page="17" section="**Analyse**" source="author" id="/page/16/Text/3">
+Leech and Onwuegbuzie [(2011)](#page-21-22) discuss several additional qualitative data analysis  techniques. *Key Word In Context (KWIC) analysis* may be used to identify how words are  used in context with other words (e.g., Google search). *Word count analysis* assumes that  more frequently used words may be more important. Such quantitative analysis of  qualitative data is difficult to classify; some consider it qualitative, others quantitative  [(Gephart, 2004)](#page-21-5). *Classical content analysis,* which is similar to constant comparison  analysis, counts themes or codes, and can help identify the most common concepts. *Domain * *analysis* (a domain is a category of categories) involves identification of cover terms (i.e., domains), included terms, and semantic relationships—for example, strict inclusion (X is  a kind of Y), spatial (X is a place in Y or X is a part of Y), cause-effect (X is a result of Y  or X is a cause of Y), rationale (X is a reason for doing Y), location for action (X is a place  for doing Y), function (X is used for Y), means-end (X is a way to do Y), sequence (X is a  step or stage in Y), and attribution (X is an attribute or characteristic of Y) [(Spradley, 1979)](#page-22-17). Case studies can be particularly useful in elucidating causal mechanisms; i.e., the  intermediate causes lying between X and Y [(Gerring, 2004)](#page-21-1). *Taxonomic analysis,* which  may follow domain analysis, adds another level of complexity by assuming that words can  have different meanings and distinct connotations for different people. *Componential *
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="**Analyse**" source="author" id="/page/17/Text/2">
+*analysis* may also follow domain analysis in order to investigate if certain domains were  used in different data sets.
+</text>
+
+
+<heading page="18" section="**Share**" source="author" id="/page/17/SectionHeader/3" level="2">
+## **Share**
+</heading>
+
+<text page="18" section="**Share**" source="author" id="/page/17/Text/4">
+The share stage focuses on defining the audience, composing textual and visual  materials, displaying enough evidence for a reader to reach his/her own conclusions, and  reviewing and re-writing until done well [(Yin, 2009)](#page-23-4). GAO [(1990)](#page-21-3) provides a detailed  checklist for reviewing case study reports, and argues that presenting actual cases may  persuade potential readers by providing an assurance of authenticity. Similarly, Klein and Myers [(1999)](#page-21-17) discuss seven principles for evaluating interpretive field studies.
+</text>
+
+<text page="18" section="**Share**" source="author" id="/page/17/Text/5">
+Common case study drawbacks include potential overgeneralisation, inadequate  interpretation, unintegrated narrative, results not adequately related to research questions,  and not enough evidence (i.e., raw data) being presented. To counter some of these  concerns, authors are encouraged to report all potentially relevant facts and hypotheses  [(Gerring, 2004)](#page-21-1). In other words, authors are encouraged to over- rather than under-report.  Direct quotations from key informants should be used to support the main points  [(Eisenhardt &amp; Graebner, 2007)](#page-21-7). In order to contextualise the findings and demonstrate  novel contribution, the findings should be related back to the literature [(Dooley, 2002;](#page-20-2) [Eisenhardt, 1989)](#page-21-9) as well as to the social and historical background of the research setting  [(Klein &amp; Myers, 1999)](#page-21-17).
+</text>
+
+<text page="18" section="**Share**" source="author" id="/page/17/Text/6">
+A critical step involves defining/identifying the audience for the case study report (e.g., industry, academia, or government). As different audiences have different needs, "no  single report will serve all audiences simultaneously" [(Yin, 2009, p. 167)](#page-23-4). For instance,  while some audiences may prefer the analytic/academic writing style, others may prefer  reflective reporting that incorporates a range of literarily devices [(Dooley, 2002)](#page-20-2). Successful communication with more than one audience may require multiple versions of  the case study report. Examining previous reports that were well-received by the intended  audience can provide the author with useful ideas about the expected structure, type of  content, report length, etc. [(Yin, 2009)](#page-23-4). In any case, the report should clearly articulate how  the intended audience may be able to use the findings [(Walsham, 2006)](#page-23-5).
+</text>
+
+<text page="18" section="**Share**" source="author" id="/page/17/Text/7">
+The importance of presenting the case study as an interesting and convincing story  should not be underestimated [(Darke et al., 1998)](#page-20-5). However, conceptual frameworks,  matrices and network displays should be used when appropriate, since long narrative  sections can make the identification and comparison of variables of interest difficult  [(Miles, Huberman, &amp; Saldaña, 2013)](#page-22-18). The inability to simplify from descriptive  information into patterns and abstract concepts is a common analysis-related weakness  frequently found in case-based research papers [(Stuart et al., 2002)](#page-23-2).
+</text>
+
+<text page="18" section="**Share**" source="author" id="/page/17/Text/8">
+Academic case studies are expected to be published in peer-reviewed literature  [(Gephart, 2004)](#page-21-5). Generally, they should comprise an introduction section that  contextualises/justifies the study and identifies the research questions, a literature review  section that links the research questions to a gap in the literature, a methodology section  that justifies the use of the case study method, an analysis section that logically/analytically  links data to findings, a discussion section that discusses implications, and a conclusion
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="**Share**" source="author" id="/page/18/Text/1">
+section that recapitulates the main points and discusses limitations and future research [(Pan ](#page-22-6) [&amp; Tan, 2011;](#page-22-6)[ Perry, 1998;](#page-22-9)[ Walsham, 2006)](#page-23-5).
+</text>
+
+<text page="19" section="**Share**" source="author" id="/page/18/Text/2">
+The authors should not assume that the readers (or reviewers) are experienced with,  or accepting of, case-based research [(Stuart et al., 2002)](#page-23-2). As such, brief relevant  justifications should initially be provided in the introduction, and later elaborated on in the  methodology section. When reporting on multi-case studies, it is recommended to structure  the analysis section around the theory, and support each part of the theory with evidence  from at least some of the cases [(Eisenhardt &amp; Graebner, 2007)](#page-21-7). In any case, it is important  that the theory (the conceptual argument) is convincing and plausible, even without explicit evidentiary support [(Siggelkow, 2007)](#page-22-19). The persuasiveness of the theory can be  strengthened by discussing any alternative explanations in detail. Acceptance and eventual  publication of peer-reviewed academic papers is contingent upon being able to effectively respond to reviewers' criticisms [(Stuart et al., 2002)](#page-23-2). It is worth noting that some journals  are more receptive to case-based research than others.
+</text>
+
+<text page="19" section="**Share**" source="author" id="/page/18/Text/3">
+Another important point is to start writing as early as possible. For instance, it  should be possible to draft certain sections of the report (e.g., background and  methodology) before data collection and analysis have been completed [(Yin, 2009)](#page-23-4). Most  importantly, the draft report should be reviewed by peers with relevant subject matter  expertise as well as by the case study participants. The review by the case study participants  provides the investigator with an opportunity to corroborate key facts as the participants  may disagree with the findings and recommendations. It may even be worth considering  including such review responses in the final report, perhaps as an appendix.
+</text>
+
+
+<heading page="19" section="**Conclusion**" source="author" id="/page/18/SectionHeader/4" level="2">
+## **Conclusion**
+</heading>
+
+<text page="19" section="**Conclusion**" source="author" id="/page/18/Text/5">
+Qualitative case study has been rapidly gaining acceptance as a valid and valuable  research method in a large number of diverse scientific domains. However, while it has  often been viewed as a soft (easy and not particularly rigorous) research method, it is  actually remarkably difficult to execute well in practice. As a result, having a set of clear  and succinct guidelines that can be referenced and followed in practice is imperative.
+</text>
+
+<text page="19" section="**Conclusion**" source="author" id="/page/18/Text/6">
+This paper adopted Yin's [(2009)](#page-23-4) six-stage case study process and integrated  additional relevant guidelines from the wider methodological literature. Based on the  arguments presented in previous sections, we now propose modifications to the  dependencies between some of the stages in the process (see[ ](#page-18-0)
+</text>
+
+<text page="19" section="**Conclusion**" source="author" id="/page/18/Text/7">
+**[Figure 2](#page-18-0)**). Original dependencies are represented in blue, suggested additions in  red, and suggested deletions in gray.
+</text>
+
+<caption page="19" section="**Conclusion**" source="author" id="/page/18/Caption/8">
+**Figure 2**: The Case Study Process, adapted from [(Yin, 2009, p. 1)](#page-23-4) [This is a reprise of Figure 1]
+</caption>
+
+</page>
+<page number="20">
+<figure page="20" section="**Conclusion**" source="author" id="/page/19/Picture/2" image="A3.R22_fig03.jpg">[FIGURE: see A3.R22_fig03.jpg]</figure>
+
+<text page="20" section="**Conclusion**" source="author" id="/page/19/Text/3">
+Since the prepare stage aims to identify any issues in the case study design, the red  arrow back to the design stage provides an opportunity to update the design based on any  issues identified during preparation.
+</text>
+
+<text page="20" section="**Conclusion**" source="author" id="/page/19/Text/4">
+Even though preparation includes considerations of the potential audience and the  report structure, this point is not unique to preparation, but applies to all other stages as  well. Thus, the link between the prepare stage and the share stages is deemphasised  (coloured in gray).
+</text>
+
+<text page="20" section="**Conclusion**" source="author" id="/page/19/Text/5">
+While any design modifications requiring changes to data collection should first be  recorded in the case study protocol (hence, the original blue arrow from design to prepare),  any design-related changes to the theoretical framework (e.g. propositions) may directly  impact data analysis stage (hence, the new red arrow from design to analyse).
+</text>
+
+<text page="20" section="**Conclusion**" source="author" id="/page/19/Text/6">
+Finally, reviews of draft findings by peers and case study participants may uncover  issues with the original study design. This may necessitate additional data  collection/analysis, and/or identify additional theoretical questions to be addresses in future  related studies. Thus, we propose a new red arrow from share back to design.
+</text>
+
+
+<heading page="20" section="**References**" source="author" id="/page/19/SectionHeader/7" level="2">
+## **References**
+</heading>
+
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/168">
+- Allison, G. T., &amp; Zelikow, P. (1999). *Essence of decision: Explaining the Cuban missile * *crisis* (2nd ed.). New York, NY: Addison Wesley Longman.
+- Aneshensel, C. S. (2012). *Theory-based data analysis for the social sciences*. Thousand  Oaks, CA: Sage.
+- Barker, L. (1971). *Listening behavior*. Englewood Cliffs, NJ: Prentice Hall.
+- Barratt, M., Choi, T. Y., &amp; Li, M. (2011). Qualitative case studies in operations  management: Trends, research outcomes, and future research implications. *Journal * *of Operations Management, 29*(4), 329-342.
+- Basch, C. E. (1987). Focus group interview: An underutilized research technique for  improving theory and practice in health education. *Health Education &amp; Behavior, * *14*(4), 411-448. doi: 10.1177/109019818701400404
+- Baškarada, S. (2010). *Information quality management capability maturity model*.  Wiesbaden, Germany: Vieweg+Teubner.
+- Baškarada, S. (2011). How spreadsheet applications affect information quality. *Journal of * *Computer Information Systems, 51*(3), 77-84.
+- Baškarada, S., &amp; Koronios, A. (2011). Exploring the effects of enterprise instant messaging  presence information on employee attendance in a distributed workforce: An
+</list>
+
+</page>
+<page number="21">
+<list page="21" section="**References**" source="author" id="/page/20/ListGroup/203">
+- ethnographic study of a large professional services organization. *International * *Journal of e-Collaboration, 8*(3), 1-18.
+- Baškarada, S., &amp; Koronios, A. (2013). Data, information, knowledge, wisdom (DIKW): A  semiotic theoretical and empirical exploration of the hierarchy and its quality  dimension. *Australasian Journal of Information Systems, 18*(1), 5-24.
+- Baškarada, S., Koronios, A., &amp; Gao, J. (2007). Assuring enterprise-wide information  quality management capability maturity. In W. Abramowicz &amp; H. Mayr (Eds.),  *Technologies for business information systems* (pp. 353-365). Dordrecht, The  Netherlands: Springer.
+- Baškarada, S., McKay, T., &amp; McKenna, T. (2013). Technology deployment process model.  *Operations Management Research, 6*(3-4), 105-118.
+- Baxter, P., &amp; Jack, S. (2008). Qualitative case study methodology: Study design and  implementation for novice researchers. *The Qualitative Report, 13*(4), 544-559.  Retrieved from www.nova.edu/ssss/QR/QR13-4/baxter.pdf
+- Beekhuyzen, J., Nielsen, S., &amp; von Hellens, L. (2010). *The Nvivo looking glass: Seeing the * *data through the analysis*. Paper presented at the 5th Conference on Qualitative  Research in IT, Brisbane, Australia.
+- Beynon-Davies, P. (2007). Informatics and the Inca. *International Journal of Information * *Management, 27*(5), 306-318. doi: 10.1016/j.ijinfomgt.2007.05.003
+- Beynon-Davies, P. (2009). Neolithic informatics: The nature of information. *International * *Journal of Information Management, 29*(1), 3-14. doi:  10.1016/j.ijinfomgt.2008.11.001
+- Boeije, H. (2002). A purposeful approach to the constant comparative method in the  analysis of qualitative interviews. *Quality &amp; Quantity, 36*, 391-409.
+- Campbell, D. T. (1975). "Degrees of freedom" and the case study. *Comparative Political * *Studies, 8*(2), 178-193.
+- Chandler, D. (2007). *Semiotics: The basics* (2nd ed.). London, UK: Routledge.
+- Dane, F. C. (2010). *Evaluating research: Methodology for people who need to read * *research*. Thousand Oaks, CA: Sage.
+- Darke, P., Shanks, G., &amp; Broadbent, M. (1998). Successfully completing case study  research: Combining rigour, relevance and pragmatism. *Information Systems * *Journal, 8*(4), 273-289.
+- Daymon, C., &amp; Holloway, I. (2002). *Qualitative research methods in public relations and * *marketing communications*. New York, NY: Routledge.
+- Deely, J. (1990). *Basics of semiotics*. Bloomington, IN: Indiana University Press.
+- Denzin, N. K. (1978). *The research act: A theoretical introduction to sociological methods* (2nd ed.). New York, NY: McGraw Hill.
+- Denzin, N. K., &amp; Lincoln, Y. S. (2011). *The Sage handbook of qualitative research*.  Thousand Oaks, CA: Sage.
+- Dooley, L. M. (2002). Case study research and theory building. *Advances in Developing * *Human Resources, 4*(3), 335-354.
+- Dubé, L., &amp; Paré, G. (2003). Rigor in information systems positivist case research: Current  practices, trends, and recommendations. *MIS Quarterly*, 597-636.
+- Easton, G. (2010). Critical realism in case study research. *Industrial Marketing * *Management, 39*(1), 118-128.
+</list>
+
+</page>
+<page number="22">
+<list page="22" section="**References**" source="author" id="/page/21/ListGroup/217">
+- Edmonds, W. A., &amp; Kennedy, T. D. (2012). *An applied reference guide to research * *designs: Quantitative, qualitative, and mixed methods*. Thousand Oaks, CA: Sage.
+- Eisenhardt, K. M. (1989). Building theories from case study research. *Academy of * *Management Review, 14*(4), 532-550.
+- Eisenhardt, K. M., &amp; Graebner, M. E. (2007). Theory building from cases: Opportunities  and challenges. *Academy of Management Journal, 50*(1), 25-32.
+- Flynn, B. B., Sakakibara, S., Schroeder, R. G., Bates, K. A., &amp; Flynn, E. J. (1990).  Empirical research methods in operations management. *Journal of Operations * *Management, 9*(2), 250-284.
+- Flyvbjerg, B. (2001). *Making social science matter*. Cambridge, UK: Cambridge  University Press.
+- Flyvbjerg, B. (2006). Five misunderstandings about case-study research. *Qualitative * *Inquiry, 12*(2), 219-245.
+- Fontana, A., &amp; Frey, J. H. (1994). Interviewing: The art of science. In N. K. Denzin &amp; Y. S. Lincoln (Eds.), *Handbook of qualitative research*. Thousand Oaks, CA: Sage.
+- General Accounting Office (GAO). (1990). *Case study evaluations*. Washington, DC.
+- Gephart, R. P. (2004). Qualitative research and the Academy of Management Journal.  *Academy of Management Journal, 47*(4), 454-462.
+- Gerring, J. (2004). What is a case study and what is it good for? *American Political Science * *Review, 98*(2), 341-354.
+- Giddens, A. (1984). *The constitution of society: Outline of the theory ofstructuration*.  Cambridge, UK Polity.
+- Glaser, B. G. (2002). Constructivist grounded theory? *Forum: Qualitative Social Research, * *3*(3).
+- Glaser, B. G., &amp; Strauss, A. L. (1967). *The discovery of grounded theory*. London, UK:  Weidenfeld and Nicolson.
+- Halkier, B. (2011). Methodological practicalities in analytical generalization. *Qualitative * *Inquiry, 17*(9), 787-797.
+- Hyde, K. (2000). Recognising deductive processes in qualitative research. *Qualitative * *Market Research: An International Journal, 3*(2), 82-89.
+- Jackson, S. L. (2008). *Research methods and statistics: A critical thinking approach*.  Belmont, CA: Wadsworth Cengage Learning.
+- Jorgensen, D. L. (1989). *Participant observation: A methodology for human studies*.  Newbury Park, CA: Sage.
+- Kasunic, M. (2010). *Measurement and analysis infrastructure diagnostic, version 1.0: * *Method definition document.* Retrieved from www.sei.cmu.edu/reports/10tr035.pdf
+- Klein, H. K., &amp; Myers, M. D. (1999). A set of principles for conducting and evaluating  interpretive field studies in information systems. *MIS Quarterly, 23*(1), 67-94.
+- Lee, A. S. (1989). A scientific methodology for MIS case studies. *MIS Quarterly, 13*(1),  33-50.
+- Leech, N. L., &amp; Onwuegbuzie, A. J. (2011). Beyond constant comparison qualitative data  analysis: Using NVivo. *School Psychology Quarterly, 26*(1), 70-84.
+- Levitt, B., &amp; March, J. G. (1988). Organizational learning. *Annual Review of Sociology*,  319-340.
+- Loseke, D. R. (2012). *Methodological thinking: Basic principles of social research design*.  Thousand Oaks, CA: Sage.
+</list>
+
+</page>
+<page number="23">
+<text page="23" section="**References**" source="author" id="/page/22/Text/1">
+March, J. G., Sproull, L. S., &amp; Tamuz, M. (1991). Learning from samples of one or fewer.  *Organization Science, 2*(1), 1-13. doi: 10.1287/orsc.2.1.1
+</text>
+
+<list page="23" section="**References**" source="author" id="/page/22/ListGroup/203">
+- McCutcheon, D. M., &amp; Meredith, J. R. (1993). Conducting case study research in  operations management. *Journal of Operations Management, 11*(3), 239-256.
+- Meredith, J. (1998). Building operations management theory through case and field  research. *Journal of Operations Management, 16*(4), 441-454.
+- Merton, R. K. (1940). Bureaucratic structure and personality. *Social Forces, 18*(4), 560- 568.
+- Miles, M. B., &amp; Huberman, A. M. (1994). *Qualitative data analysis: An expanded * *sourcebook*. Thousand Oaks, CA: Sage.
+- Miles, M. B., Huberman, A. M., &amp; Saldaña, J. (2013). *Qualitative data analysis: A methods * *sourcebook*. Thousand Oaks, CA: Sage.
+- Morse, J., &amp; Richards, L. (2002). *Readme first for a user's guide to qualitative methods*.  London, UK: Sage.
+- Onwuegbuzie, A. J., Leech, N. L., &amp; Collins, K. M. (2012). Qualitative analysis techniques  for the review of the literature. *Qualitative Report, 17*(56), 1-28. Retrieved from  http://www.nova.edu/ssss/QR/QR17/onwuegbuzie.pdf
+- Pan, S. L., &amp; Tan, B. (2011). Demystifying case research: A structured–pragmatic– situational (SPS) approach to conducting case studies. *Information and * *Organization, 21*(3), 161-176.
+- Perry, C. (1998). Process of a case study methodology for postgraduate research in  marketing. *European Journal of Marketing, 32*(9/10), 785-802.
+- Ravitch, S. M., &amp; Riggan, M. (2011). *Reason &amp; rigor: How conceptual frameworks guide * *research*. Thousand Oaks, CA: Sage.
+- Sarker, S., &amp; Lee, A. S. (1998). *Using a positivist case research methodology to test a * *theory about IT-enabled business process redesign*. Paper presented at the  International Conference on Information Systems, Helsinki, Finland.
+- Shadish, W. R., Cook, T. D., &amp; Campbell, D. T. (2002). *Experimental and quasi**experimental designs for generalized causal inference*. Boston, MA: Houghton  Mifflin.
+- Siggelkow, N. (2007). Persuasion with case studies. *Academy of Management Journal, * *50*(1), 20-24.
+- Silverman, D. (1997). *Qualitative research: Theory, method, practice*. New Delhi, India:  Sage.
+- Sim, J. (1998). Collecting and analysing qualitative data: Issues raised by the focus group.  *Journal of Advanced Nursing, 28*(2), 345-352.
+- Spradley, J. P. (1979). *The ethnographic interview*. Fort Worth, TX: Holt, Rinehart &amp;  Winston.
+- Stake, R. E. (1978). The case study method in social inquiry. *Educational Researcher*, 5- 8.
+- Stake, R. E. (1995). *The art of case study research*. Thousand Oaks, CA: Sage.
+- Strauss, A., &amp; Corbin, J. (1994). Grounded theory methodology. In N. K. Denzin &amp; Y. S.  Lincoln (Eds.), *Handbook of qualitative research* (pp. 273-286). Thousand Oaks,  CA: Sage.
+</list>
+
+</page>
+<page number="24">
+<list page="24" section="**References**" source="author" id="/page/23/ListGroup/200">
+- Stuart, I., McCutcheon, D., Handfield, R., McLachlin, R., &amp; Samson, D. (2002). Effective  case research in operations management: a process perspective. *Journal of * *Operations Management, 20*(5), 419-433.
+- Sykes, W. (1990). Validity and reliability in qualitative market research: A review of the  litareture. *Journal of the Market Research Society, 32*(3), 289-328.
+- Tellis, W. (1997a). Application of a case study methodology. *The Qualitative Report, 3*(3),  1-17. Retrieved from www.nova.edu/ssss/QR/QR3-3/tellis2.html
+- Tellis, W. (1997b). Introduction to case study. *The Qualitative Report, 3*(2). Retrieved from  www.nova.edu/ssss/QR/QR3-2/tellis1.html
+- Tesch, R. (1990). *Qualitative research analysis types and software*. London, UK: Falmer  Press.
+- Trochim, W. M. K. (2001). *The research methods knowledge base* (2nd ed.). Cincinnati,  OH: Atomic Dog.
+- Wacker, J. G. (1998). A definition of theory: Research guidelines for different theorybuilding research methods in operations management. *Journal of Operations * *Management, 16*(4), 361-385.
+- Walsham, G. (1995). Interpretive case studies in IS research: Nature and method. *European * *Journal of Information Systems, 4*(2), 74-81.
+- Walsham, G. (2006). Doing interpretive research. *European Journal of Information * *Systems, 15*(3), 320-330.
+- Wang, R. Y., &amp; Strong, D. (1996). Beyond accuracy: What data quality means to data  consumers. *Journal of Management Information Systems, 12*(4), 5-34.
+- Yin, R. K. (1981). The case study crisis: Some answers. *Administrative Science Quarterly, * *26*(1), 58-65.
+- Yin, R. K. (2009). *Case study research: Design and methods* (4 ed.). Los Angeles, CA:  Sage.
+- Yin, R. K. (2013). Validity and generalization in future case study evaluations. *Evaluation, * *19*(3), 321-332.
+- Yukl, G. (2009). Leading organizational learning: Reflections on theory and research. *The * *Leadership Quarterly, 20*(1), 49-53.
+</list>
+
+
+<heading page="24" section="**Author Note**" source="author" id="/page/23/SectionHeader/16" level="2">
+## **Author Note**
+</heading>
+
+<text page="24" section="**Author Note**" source="author" id="/page/23/Text/17">
+Dr. Saša Baškarada is a Social Scientist at the Australian Defence Science and  Technology Organisation (DSTO), and an Adjunct Research Fellow in the School of  Information Technology and Mathematical Sciences at the University of South Australia.  He is an experienced researcher and information systems professional who has published widely on a range of topics. Correspondence regarding this article can be addressed to Dr.  Saša Baškarada, Email: [sasa.baskarada@dsto.defence.gov.au](mailto:sasa.baskarada@dsto.defence.gov.au)
+</text>
+
+
+<heading page="24" section="**Acknowledgement**" source="author" id="/page/23/SectionHeader/18" level="2">
+## **Acknowledgement**
+</heading>
+
+<text page="24" section="**Acknowledgement**" source="author" id="/page/23/Text/19">
+The author would like to thank *The Qualitative Report* Co-Editor, Dan Wulff, for  his invaluable assistance with manuscript preparation.
+</text>
+
+<text page="24" section="**Acknowledgement**" source="author" id="/page/23/Text/20">
+Copyright 2014: Saša Baškarada and Nova Southeastern University
+</text>
+
+</page>
+<page number="25">
+
+<heading page="25" section="**Article Citation**" source="author" id="/page/24/SectionHeader/1" level="2">
+## **Article Citation**
+</heading>
+
+<text page="25" section="**Article Citation**" source="author" id="/page/24/Text/2">
+Baškarada, S. (2014). Qualitative case studies guidelines. *The Qualitative Report, 19*(How To Artcile 24), 1-25. Retrieved from  http://www.nova.edu/ssss/QR/QR19/baskarada24.pdf
+</text>
+
+</page>
+</paper>

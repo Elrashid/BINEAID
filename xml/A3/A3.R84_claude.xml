@@ -1,0 +1,300 @@
+<paper source_file="A3.R84" title="REVIEW ARTICLE" total_pages="9" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R84_fig01.jpg">[FIGURE: see A3.R84_fig01.jpg]</figure>
+
+
+<heading page="1" section="REVIEW ARTICLE" source="author" id="/page/0/SectionHeader/2" level="3">
+### REVIEW ARTICLE
+</heading>
+
+
+<heading page="1" section="LIMITATIONS AND DELIMITATIONS IN THE RESEARCH PROCESS" source="author" id="/page/0/SectionHeader/3" level="1">
+# LIMITATIONS AND DELIMITATIONS IN THE RESEARCH PROCESS
+</heading>
+
+
+<heading page="1" section="**Dimitrios** **Theofanidis1** **, Antigoni** **Fountouki2**" source="author" id="/page/0/SectionHeader/4" level="4">
+#### **Dimitrios** **Theofanidis1** **, Antigoni** **Fountouki2**
+</heading>
+
+<list page="1" section="**Dimitrios** **Theofanidis1** **, Antigoni** **Fountouki2**" source="author" id="/page/0/ListGroup/159">
+- 1. PhD, MSc, Assistant Professor, Nursing department, Clinical Professor, Alexandreio Educational Institute of Thessaloniki, Greece
+- 2. PhD(c), MSc, Clinical Lecturer, Nursing department, Clinical Professor, Alexandreio Educational Institute of Thessaloniki, Greece
+</list>
+
+<text page="1" section="**Dimitrios** **Theofanidis1** **, Antigoni** **Fountouki2**" source="author" id="/page/0/Text/7">
+*DOI:* *10.5281/zenodo.2552022*
+</text>
+
+<text page="1" section="**Dimitrios** **Theofanidis1** **, Antigoni** **Fountouki2**" source="author" id="/page/0/Text/8">
+*Cite as: Theofanidis, Dimitrios, &amp; Fountouki, Antigoni. (2019). Limitations And Delimitations In The Research Process. Periopera**tive nursing (GORNA), E-ISSN:2241-3634, 7(3), 155–162. http://doi.org/10.5281/zenodo.2552022*
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/9" level="3">
+### **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/10">
+**Introduction: **Many authors tempt to balance the recognition of shortcomings and study limitations with the risk of  having their paper rejected. Yet, before any attempt to run a study, a researcher needs to recognise the meaning and  operational definitions of the terms 'limitations' and 'delimitations' in biomedical research. **Aim: **to define, review and  elaborate how limitations and delimitations are currently acknowledged in the nursing and biomedical literature and  their implications in health care studies. **Methods: **A critical literature review was undertaken, focusing on papers  debating the core essence of research limitations and associated concepts. Initial searches yielded &gt;300 papers of  which only 25 were appropriate for this paper's needs. **Results:** It is evident that any research attempt inevitably carries limitations and delimitations regarding its underlying theories, study design, replication potential, shortcomings  in data collection and questionnaire design, insufficient subgroups or data for robust statistical analysis, narrow time  span for data collection, lack of consideration for seasonal differences and missing data, causal relationships, measurement errors, study setting, population or sample, ethical parameters, data collection/analysis, result interpretations and corresponding conclusions. Delimitations require challenging the assumptions of the researchers and openly  exposing shortcomings that might have been better tackled. Some authors cite study limitations solely because it is  required by journal policy. Under these circumstances, the weakest limitation may be put forward in an attempt to  'safeguard' the study's chance of being published. Researchers need to be aware of the wide range of limitations and  delimitations and address them early in the research process **Conclusions: **Constructive rethinking and restructuring  of the global nursing and biomedical research agenda is necessary to upgrade the profession and reassure the public.  Thus, authors should openly and extensively report their research limitations, delimitations and assumptions in order  to improve the quality of their findings and the interpretation of the evidence presented. On the contrary, when any  of these key elements are neglected, overlooked or hushed, the study kudos is jeopardised.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/11">
+**Keywords**: Study Limitations, Methodology, Nursing Research
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/12">
+*Corresponding Author:* *Theofanidis Dimitrios, Ierosolimon 21, Kalamaria, 55134, Thessaloniki, e-mail: dimitrisnoni@yahoo.gr, Mo**bile:6945227796*
+</text>
+
+</page>
+<page number="2">
+<figure page="2" section="**Abstract**" source="author" id="/page/1/Picture/1" image="A3.R84_fig02.jpg">[FIGURE: see A3.R84_fig02.jpg]</figure>
+
+
+<heading page="2" section="**Introduction**" source="author" id="/page/1/SectionHeader/2" level="3">
+### **Introduction**
+</heading>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/3">
+In today's highly competitive culture of international publishing, many authors are rather tempted  to balance the recognition of shortcomings and  study limitations with the risk of having their paper  rejected.1 In this respect, this critical discussion paper was developed through analysis and self-reflection by the author, a researcher in the health care  sector, who has also experience as editor and reviewer of national and international nursing publications.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/4">
+Before any attempt to run a study, one needs to  grasp the fundamental principles which make a paper suitable or not for publication and acceptable  to a wider readership base. Thus, as a first step, a  researcher needs to recognise the meaning and operational definitions of the terms 'limitations' and  'delimitations' in biomedical research which include the following:
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/5">
+*Limitations* of any particular study concern potential weaknesses that are usually out of the researcher's control, and are closely associated with  the chosen research design, statistical model constraints, funding constraints, or other factors. In  this respect, a limitation is an 'imposed' restriction  which is therefore essentially out of the researcher's control. Still, it may affect the study design, results and ultimately, conclusions and should  therefore be acknowledged clearly in the paper  when submitted. For example, when exploring participants' responses to a survey, the researcher  may be limited to access only a small geographical
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/6">
+area which would not provide an overall scope of  responses. 2
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/7">
+Thus, in quantitative studies, that sample would  not have been representative and when doing  qualitative research, data saturation would not  have been achieved. With regards to measurements and testing, the research tool itself may be  a limiting factor by providing 'narrow results'. For  example, a set of good reliable scales would be perfect for weight measurements but would provide  only one of two essential parameters for estimating body mass index. Time is another factor that  may limit a study by distorting results. For example,  a study on dietary habits may limit the extent of the  conclusions drawn, depending on the time of year  data were gathered. In addition, greater societal  circumstances and financial trends that may coincide with the study period should be acknowledged  as such.3
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/8">
+Data analysis methodology is another area of potential limitation. For example, most qualitative  methodologies cannot be truly replicated (as in  controlled experimental conditions) and therefore  are unable to be verified per se. With regards to  quantitative statistical analysis, most models can  easily determine correlation between two or more  variables, but again, not causation per se. Thus, all  of the above limitations must be clearly stated so  that results are not distorted and misinterpreted  by the wider readership. Unfortunately, when reporting results, '*author excitement*' may easily  overlook this important aspect of conducting and  reporting research.4
+</text>
+
+</page>
+<page number="3">
+<figure page="3" section="**Introduction**" source="author" id="/page/2/Picture/1" image="A3.R84_fig03.jpg">[FIGURE: see A3.R84_fig03.jpg]</figure>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/2">
+*Delimitations* are in essence the limitations consciously set by the authors themselves. They are  concerned with the definitions that the researchers  decide to set as the boundaries or limits of their  work so that the study's aims and objectives do not  become impossible to achieve. In this respect, it  can be argued that delimitations are in the researcher's control. Thus, delimitations are mainly  concerned with the study's theoretical background, objectives, research questions, variables  under study and study sample. The alternatives to  these and reasons for rejecting them, e.g. the particular sampling technique chosen out of many  available, should be clearly presented so that the  reader is fully informed .5,6
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/3">
+In a way, delimitations are not as much as "*why * *I did this*" but rather "*why I did not do it like this*".  Reasons for rejecting a certain course of action during the research process and the options available  should also be cited. Then, a brief rationale should  be provided. Usual reasons for choosing a particular sampling technique for example are related to  available resources, local circumstances (practical  access), ethical and permit considerations or time  constraints. In this light, delimitations are not positive or negative but rather a detailed account of  reasoning which enlightens the scope of the  study's core interest as it relates to the research  design and underpinning philosophical framework.7
+</text>
+
+
+<heading page="3" section="**Aim**" source="author" id="/page/2/SectionHeader/4" level="2">
+## **Aim**
+</heading>
+
+<text page="3" section="**Aim**" source="author" id="/page/2/Text/5">
+The goal of this critical discussion paper was to review and elaborate how limitations and
+</text>
+
+<text page="3" section="**Aim**" source="author" id="/page/2/Text/6">
+delimitations are currently acknowledged in the  nursing and biomedical literature and their implications in health care studies. A further objective is to  examine briefly the implications of limitations in biomedical studies and patient care per se.
+</text>
+
+
+<heading page="3" section="**Methods**" source="author" id="/page/2/SectionHeader/7" level="3">
+### **Methods**
+</heading>
+
+<text page="3" section="**Methods**" source="author" id="/page/2/Text/8">
+A critical literature review was undertaken, focusing on recognised scholarly papers debating the  core essence of research limitations and associated  concepts. Key words used included research limitations, delimitations, assumptions and biases within  a 20 year time span in Medline and Google Scholar  databases. Initial searches yielded more than 300  papers which were concerned with particular (often clinical) limitations within specific research  fields such as the limitations in cancer studies or  animal models and not the research process itself.  Close scrutiny of abstracts concluded that only 25  articles could be used for this paper's needs. As this  is a discussion and position paper, findings are incorporated in the discussion.
+</text>
+
+
+<heading page="3" section="**Discussion **" source="author" id="/page/2/SectionHeader/9" level="3">
+### **Discussion **
+</heading>
+
+<text page="3" section="**Discussion **" source="author" id="/page/2/Text/10">
+In any given study, potential study limitations may  include assumptionsregarding underlying theories,  causal relationships, measurement errors, study  setting, population or sample, data collection/analysis, result interpretations and corresponding conclusions. Furthermore, failure to measure important aspects and potential confounding variables are also common study limitations while the  remaining refer to aspects of applicability of the results to clinical practice, i.e. external validity. All of
+</text>
+
+</page>
+<page number="4">
+<figure page="4" section="**Discussion **" source="author" id="/page/3/Picture/1" image="A3.R84_fig04.jpg">[FIGURE: see A3.R84_fig04.jpg]</figure>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/2">
+these may contain potential factors that could induce uncertainty in a study overall. Some uncertainty in biomedical research is inevitable but open  communication about it can inform readers on the  validity and applicability of a study's findings. It is  therefore important to recognize the uncertainties  within research findings which should be explicitly  expressed in research papers.8
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/3">
+A fundamental form of limitation is when scientists are restricted in their research scope due to  ethical concerns.9 One of the pillars for establishing  limitations to research is the Harm Principle established by John Stuart Mills (based on the Hippocratic Oath) whereby an inquiry is limited if the outcomes of the research might cause harm especially  to vulnerable groups or individuals.10
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/4">
+Thus, as much as researchers may carefully plan  and design their study, it is inevitable they will face  some limitations which are not always identified at  the beginning, before conducting the research. For  example, in most health care research, it would be  ideal to conduct a qualitative study before designing a quantitative one as this would inform and improve the methodology of the latter.11 Yet, in most  instances, this may not be possible due to limited  time and other resources.
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/5">
+According to Morris et al.,12 when credible clinical evidence is lacking, then the consequences on  patient's care and outcomes may be dramatic.  Thus, limitations in biomedical studies may carry a  further effect on clinical decisions and desired  health outcomes. According to Boyko, although  randomized controlled trials (RCTs) are the gold  standard for treatment efficacy; they are in most
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/6">
+cases costly and sometimes lengthy.13 In this case,  observational research can be used instead. However, an awareness of the benefits and limitations  of observational research needs to be exercised as  there is a potential for bias. As clinical decisions often involve a degree of uncertainty it could be argued that such research needs to be at a level of  certainty sufficient to influence diagnostic and/or  treatment decisions albeit less certain than RCTs.14
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/7">
+In this light, Rubin &amp; van der Laan15 suggested  that a means of minimising study limitations is personalised medicine by the use of replication. They  argued that working towards more tailored therapies, could provide additional evidence of safety  and efficacy before pharmaceutical drugs can be  marketed. However, their model of patient simulations based on two active RCTs of antibacterial  drugs for the treatment of skin and skin structure  infections gave poor results and the authors concluded that statistical approaches to personalized  medicine will often face difficult challenges. Yang  and Rannala,16 used a Bayesian modeling approach  to generate posterior probabilities, i.e. when relevant background is taken into account. The statistical performance of their method incorporated simulations but again, limitations in their proposed  statistical approach remain evident.
+</text>
+
+<text page="4" section="**Discussion **" source="author" id="/page/3/Text/8">
+With regards to data collection, when an on-line  tool is to be used, an inherit shortcoming is that the  questionnaire needs to be shorter than a 'paper  and pencil' one.17 A long self-administered questionnaire risks 'participant fatigue' and consequent  higher drop-out rate. This limits the study as some  of the potential (polarised) participants' views
+</text>
+
+</page>
+<page number="5">
+<figure page="5" section="**Discussion **" source="author" id="/page/4/Picture/1" image="A3.R84_fig05.jpg">[FIGURE: see A3.R84_fig05.jpg]</figure>
+
+<text page="5" section="**Discussion **" source="author" id="/page/4/Text/2">
+would not be represented in the results. An inherit  limitation on a self-administered survey, is that the  researcher cannot control the course of the investigation and clarify any questions from respondents. Another built-in limitation of a self-administered questionnaire is missing data due to respondent withdraws or failure to fill in the whole survey,  but since this is nowadays usually done as postal or  more likely an online survey, the researcher cannot  prevent this from happening.18,19
+</text>
+
+<text page="5" section="**Discussion **" source="author" id="/page/4/Text/3">
+The specific period when a survey is distributed  is in itself a limiting factor, for example when a  study on university students is conducted during  summer and particularly during August. During this  time most of the students are not in the university  or tend to spend a limited amount of time on the  university websites so they may not easily come  across and answer a survey. Also, the time span of  a survey may have an impact on the sample size.  Again, when looking at the previous example with  the study population of university students, it is unlikely that a big sample size is to be achieved during  summer months. As a consequence of a limited  sample size, outcomes may be unevenly distributed regarding participants' parameters. Therefore, some socio-demographic characteristics may  need to be grouped in order to form bigger subgroups such as the ethnicity of the students. Thus,  instead of many ethnic groups, ethnicity may be  limited to only Black, White or Other. Furthermore,  when the research design incorporates a non-probability or convenience sampling, this may also lead  to sampling biases and corresponding limitations.  When a sample has not been chosen randomly, this
+</text>
+
+<text page="5" section="**Discussion **" source="author" id="/page/4/Text/4">
+can result in a non representative population, thus  the results cannot be generalised to the rest of the  student population.20
+</text>
+
+<text page="5" section="**Discussion **" source="author" id="/page/4/Text/5">
+Some studies within the nursing paradigm  gather data through self-reporting questionnaires  in order to identify relationships between variables. By using these, the researcher relies on the  honesty of the participants and the problem starts  at the point where the respondent is willing to disclose the truth or not.21 It is a common problem in  behavioural research that the questionnaire involves personal and sometimes indiscreet questions; however, most studies try to avoid seeking  invasive personal data and the survey questionnaires are usually anonymous. Still, there may be  some participants that do not want to report their  actual, true responses and therefore this can constitute another limitation to a study. The semistructured, open-ended interview is a gold standard alternative for questionnaires in qualitative  health research. Yet, despite its methodological  merits, a long interview is unsuitable when participants find content sensitive to discuss, or when  they have restricted communication skills. Thus, researchers who explore emotionally sensitive topics  should look for alternative data collection methods  and careful wording that lead to uninhibited emotional expression.22
+</text>
+
+<text page="5" section="**Discussion **" source="author" id="/page/4/Text/6">
+Last but not least, the use of Likert scale on the  questionnaire can be a limiting factor when asking  attitudes or behavioural questions. Many participants may avoid selecting the extreme measures  '*Strongly Disagree'* and *'Strongly Agree'* and prefer  choosing middle measures like '*Agree*' and
+</text>
+
+</page>
+<page number="6">
+<figure page="6" section="**Discussion **" source="author" id="/page/5/Picture/1" image="A3.R84_fig06.jpg">[FIGURE: see A3.R84_fig06.jpg]</figure>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/2">
+'*Disagree*'; this could lead to masking of the intensity of the real attitudes and behaviours of the participants.23,24
+</text>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/3">
+Although unbiased and frank discussion and detailed presentation of a study's limitations are the  core part of scientific integrity, too few papers in  the medical literature openly admit to how limitations could affect their findings and interpretations. Morris and Ioannidis explored some philosophical and scientific underpinnings of clinical research and corresponding evidence within the patient-clinician arena.12 They suggest that due to  lack of credible evidence making correct clinical  choices is often a low-probability exercise. Thus,  when study limitations are not clearly expressed,  the findings may wrongly guide clinical practice to  an extent where these may become the new 'unquestionable' therapeutic or interventional norm.
+</text>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/4">
+In every day rhetoric and daily interactions, assumptions cannot be avoided as every viewpoint  holds to some degree a concealed assumption. Research assumptions are essentially issues, ideas, or  positions found anywhere from the beginning of  the study design to the final report, that are taken  for granted and viewed as reasonable and widely  accepted. Regarding nursing studies, the researcher may assume for example that the respondents will show true responsiveness to a faceto-face interview. Yet, in reality, some respondents  may intend to answer in terms of 'what the researcher wants to or would be pleased to hear'. According to Hyland,25 authors should be presenting a  proposition as an opinion rather than a fact, i.e.  should "hedge" their statements. Thus, by using
+</text>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/5">
+hedging, authors can express an element of uncertainty about their study's validity in order to prevent readers from accepting strong or definitive  statements without critical interpretation.
+</text>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/6">
+Although a conscientious author seeks to report his results by avoiding unfair assumptions, all too  often nursing literature is littered with crude examples of stereotyping or over-generalizations. A typical example has just been provided in the proceeding sentence where the assumption was made that  'most authors are male!'. Similarly, in many nursing  journals, the prevailing culturally associated assumption is that nurses are female. Yet, research  assumptions and biases are so commonplace and  inherit to the content of any study, Leedy and  Ormrod (2016) state that, *"…without them, the re**search problem itself could not exist*".6 Thus, as long  as these are spelled out clearly in either the study  limitations section or in the discussion, the author  is covering for potential pitfalls. Yet, even more importantly, an investigator needs to clarify and record all identified assumptions.
+</text>
+
+<text page="6" section="**Discussion **" source="author" id="/page/5/Text/7">
+Although not identical, often limitations and assumptions are viewed interchangeably as of the  same essence and hence, grouped together. Therefore, a researcher should not only cite them distinctively (e.g. in the Methods and Discussion/Conclusions sections respectively), but also take adequate  steps that these are not contradicting each other  both at a theoretical and practical level. For example, if a particular statistical test is used which has  inherited limitations concerning data distribution,  when reporting results, generalizations should be  avoided. In this respect, it becomes apparent that
+</text>
+
+</page>
+<page number="7">
+<figure page="7" section="**Discussion **" source="author" id="/page/6/Picture/1" image="A3.R84_fig07.jpg">[FIGURE: see A3.R84_fig07.jpg]</figure>
+
+<text page="7" section="**Discussion **" source="author" id="/page/6/Text/2">
+a study's limitation is totally outside that researcher's control, while an assumption is somewhat. Yet, both should be clearly addressed.
+</text>
+
+<text page="7" section="**Discussion **" source="author" id="/page/6/Text/3">
+Thus, in order to optimise a study from contemplation to completion, a valid self-reflective exercise during all research stages should be exercised.  That is, the investigator should challenge his/her  own biases, judgments and assumptions, whether  personal or in an assumed wider socio-cultural context. In this respect, self-reflection exercises may  turn uninformed assumptions to informed opinions. Unfortunately, some authors cite study limitations solely because it is required by journal policy. Furthermore, under these circumstances, the  weakest limitation may be put forward in an attempt to 'safeguard' the study's chance of being  published.
+</text>
+
+
+<heading page="7" section="**Conclusions**" source="author" id="/page/6/SectionHeader/4" level="3">
+### **Conclusions**
+</heading>
+
+<text page="7" section="**Conclusions**" source="author" id="/page/6/Text/5">
+Serious rethinking and restructuring of the  global nursing and biomedical research agenda is  necessary to upgrade the profession and reassure  the public. Authors should report their research  limitations, delimitations and assumptions in order  to improve the quality of their findings and the interpretation of the evidence presented. On the  contrary, when any of these key elements are neglected, overlooked or hushed, the study kudos is  jeopardised. However, when a solid study elaborates on its limitations, delimitations and assumptions, it is more likely to be cited and may also act  as a benchmark for future nursing research endeavors.
+</text>
+
+<text page="7" section="**Conclusions**" source="author" id="/page/6/Text/6">
+Overall, study limitations, delimitations and
+</text>
+
+<text page="7" section="**Conclusions**" source="author" id="/page/6/Text/7">
+assumptions should be put in the context of the entire paper. In this respect, authors will tend to present a proposition as an opinion rather than a fact.  Thus, researchers will be exposing the possible uncertainties of the study and the readership will decide more easily if the findings are supporting weak or definitive conclusions or if further studies are  definitely needed before clinical practice can be informed accordingly.
+</text>
+
+<text page="7" section="**Conclusions**" source="author" id="/page/6/Text/8">
+This paper itself has its limitations as it was designed as a critical analysis rather than an extensive  literature review whereby biomedical literature  would have been scrutinised for individual limitations. For example, a detailed assessment of all relevant papers (in the region of thousands) would  have revealed all recorded limitations within the  selected papers referring for example to aspects of  internal validity which could distort the results. Delimitations of this paper include the lack of depth  when statistical techniques were discussed and  presented in the text. Assumptions of this paper include that the basic premise that all aspects of the  notions of Limitations-Delimitations-Assumptions  have been adequately covered and thoroughly discussed
+</text>
+
+</page>
+<page number="8">
+<figure page="8" section="**Conclusions**" source="author" id="/page/7/Picture/1" image="A3.R84_fig08.jpg">[FIGURE: see A3.R84_fig08.jpg]</figure>
+
+
+<heading page="8" section="**References**" source="author" id="/page/7/SectionHeader/2" level="4">
+#### **References**
+</heading>
+
+<list page="8" section="**References**" source="author" id="/page/7/ListGroup/304">
+- 1. Brown K, Cozby P, Kee D, Worden P. Research methods in human development. Mayfield Publishing  Company, California.1999
+- 2. Montori V, Jaeschke R, Schunemann H, Bhandari M,  Brozek J, Devereaux P, Guyatt G. Users' guide to detecting misleading claims in clinical research reports. BMJ. 2004;329(7474):1093–1096
+- 3. Hackshaw A. Small studies: strengths and limitations. European Respiratory Journal. 2008; 8(32):  1141-1143
+- 4. Puhan M, Akl E, Bryant D, Xie F, Apolone G, Riet G.  Discussing study limitations in reports of biomedical  studies- the need for more transparency, Health  and Quality of Life Outcomes. 2012; 10(1):23-28
+- 5. Ellis T, Levy Y. Towards a Guide for Novice Researchers on Research Methodology: Review and Proposed Methods. Issues in Informing Science and Information Technology. 2009; 6:323-347
+- 6. Leedy P, Ormrod J. Practical Research: Planning and  Design. (11th Ed), Pearson. 2016
+- 7. Simon M. Dissertation and scholarly research: Recipes for success (2011 Ed.). Seattle, WA, Dissertation  Success, LLC. 2011
+- 8. Helmich E, Boerebach B, Arah O, Lingard L. Beyond  limitations: Improving how we handle uncertainty  in health professions education research. Med  Teach. 2015; 37(11):1043-1050
+- 9. Victor E. Scientific research and human rights: a response to Kitcher on the limitations of inquiry. Sci  Eng Ethics. 2014; 20(4):1045-1063
+- 10. Ogunkoya D. John Stuart Mill's "Harm Principle" as  the foundation for healthy social relations. The  Journal of International Social Research.  2011;4(17): 516-533
+- 11. Curry L, Nembhard I, Bradley E. Qualitative and  Mixed Methods Provide Unique Contributions to
+</list>
+
+<list page="8" section="**References**" source="author" id="/page/7/ListGroup/305">
+- Outcomes Research. Circulation. 2009;  119(10):1442-1452
+- 12. Morris A, Ioannidis J. Limitations of medical research and evidence at the patient-clinician encounter scale. Chest. 2013; 143(4):1127-1135
+- 13. Boyko E. Observational research opportunities and  limitations. J Diabetes Complications. 2013;  27(6):642-648
+- 14. Wang M, Bolland M. Grey A. Reporting of  Limitations of Observational Research. JAMA Intern  Med. 2015; 175(9):1571-1572
+- 15. Rubin D, van der Laan M. Statistical issues and limitations in personalized medicine research with clinical trials. Int J Biostat. 2012; 20;8(1):18-23
+- 16. Yang Z, Rannala B. Bayesian species delimitation using multilocus sequence data. Proc Natl Acad Sci  USA. 2010; 18;107(20):9264-9269
+- 17. Sue V, Ritter L. Conducting Online Surveys. 1st ed.  Los Angeles, California: SAGE. 2007
+- 18. Aday L, Cornelius L. Designing and Conducting  Health Surveys: A Comprehensive Guide. 3rd ed.  San Francisco, John Wiley &amp; Son. 2006
+- 19. Chang L, Krosnick J. Comparing oral interviewing  with self-administered computerized questionnaires: an experiment Public Opinion Quarterly.  2010; 74(1):154–167
+- 20. Schuster D, Powers W. Translational and Experimental Clinical Research. Lippincott Williams &amp;  Wilkins, 2005
+- 21. Robins R, Fraley R, Krueger R. (Eds.) Handbook of research methods in personality psychology, pp.224- 239. New York: Guilford. 2007
+- 22. Affleck W, Glass K, Macdonald M. The limitations of  language: male participants, stoicism, and the qualitative research interview. Am J Mens Health. 2013;  7(2):155-162
+- 23. Ogden J, Lo J. How meaningful are data from Likert  scales?: an evaluation of how ratings are made and
+</list>
+
+</page>
+<page number="9">
+<figure page="9" section="**References**" source="author" id="/page/8/Picture/1" image="A3.R84_fig09.jpg">[FIGURE: see A3.R84_fig09.jpg]</figure>
+
+<list page="9" section="**References**" source="author" id="/page/8/ListGroup/45">
+- the role of the response shift in the socially disadvantaged. J Health Psychol. 2012; 17(3):350-361
+- 24. Jamieson S. Likert Scales: How to (Ab) Use Them.  Medical Education, 2004; 38: 1217-1218
+- 25. Hyland K. Hedging in scientific research articles.  Amsterdam and Philadelphia: John Benjamins Publication Company, 1998
+</list>
+
+</page>
+</paper>

@@ -1,0 +1,859 @@
+<paper source_file="A3.R48" title="Journal of Building Engineering" total_pages="16" figures="7" figures_with_images="7">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 7 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R48_fig01.jpg">[FIGURE: see A3.R48_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+Contents lists available at [ScienceDirect](https://www.sciencedirect.com/science/journal/23527102)
+</text>
+
+
+<heading page="1" section="Journal of Building Engineering" source="author" id="/page/0/SectionHeader/3" level="1">
+# Journal of Building Engineering
+</heading>
+
+<text page="1" section="Journal of Building Engineering" source="author" id="/page/0/Text/4">
+journal homepage: [www.elsevier.com/locate/jobe](https://www.elsevier.com/locate/jobe)
+</text>
+
+<figure page="1" section="Journal of Building Engineering" source="author" id="/page/0/Picture/5" image="A3.R48_fig02.jpg">[FIGURE: see A3.R48_fig02.jpg]</figure>
+
+<figure page="1" section="Journal of Building Engineering" source="author" id="/page/0/Picture/6" image="A3.R48_fig03.jpg">[FIGURE: see A3.R48_fig03.jpg]</figure>
+
+
+<heading page="1" section="Assessing the effectiveness of building retrofits in reducing GHG emissions: A Canadian school case study" source="author" id="/page/0/SectionHeader/7" level="1">
+# Assessing the effectiveness of building retrofits in reducing GHG emissions: A Canadian school case study
+</heading>
+
+<text page="1" section="Assessing the effectiveness of building retrofits in reducing GHG emissions: A Canadian school case study" source="author" id="/page/0/Text/8">
+Felipe Grossi [a](#page-0-0) , Hua Ge [a](#page-0-0), [*](#page-0-1) , Radu Zmeureanu [a](#page-0-0) , Fuad Baba [b](#page-0-2)
+</text>
+
+<list page="1" section="Assessing the effectiveness of building retrofits in reducing GHG emissions: A Canadian school case study" source="author" id="/page/0/ListGroup/1190">
+- ^(a) *Centre* *for* *Zero* *Energy* *Building* *Studies,* *Department* *of* *Building,* *Civil,* *and* *Environmental* *Engineering,* *Concordia* *University,* *Montreal,* *QC,* *H3G* *1M8,* *Canada*
+- ^(b) *Faculty* *of* *Engineering,* *British* *University* *in* *Dubai,* *Dubai,* *United* *Arab* *Emirates*
+</list>
+
+
+<heading page="1" section="ARTICLE INFO" source="author" id="/page/0/SectionHeader/11" level="4">
+#### ARTICLE INFO
+</heading>
+
+
+<heading page="1" section="*Keywords:* Whole building life cycle analysis Life cycle assessment Embodied emissions" source="author" id="/page/0/SectionHeader/12" level="4">
+#### *Keywords:* Whole building life cycle analysis Life cycle assessment Embodied emissions
+</heading>
+
+<text page="1" section="*Keywords:* Whole building life cycle analysis Life cycle assessment Embodied emissions" source="author" id="/page/0/Text/13">
+Operational emissions Building energy retrofits Electricity grid profile Carbon neutrality
+</text>
+
+
+<heading page="1" section="ABSTRACT" source="author" id="/page/0/SectionHeader/14" level="4">
+#### ABSTRACT
+</heading>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/15">
+This paper investigates the impact of energy retrofits on life cycle greenhouse gas (GHG) emissions across different electricity grid profiles in Montreal, Ottawa, and Halifax, using an existing school building as a case study. Using DesignBuilder for energy simulations and OneClick LCA for GHG emissions estimation, this study evaluates whether the reduction in the operational emission achieved by energy savings from retrofits can outweigh the increased embodied emissions from new envelope materials and equipment. In Montreal and Ottawa, where electricity is mainly generated from renewables and non-fossil fuels, retrofits involving electric heating and envelope improvements could decrease life cycle GHG emissions by up to 75 %. However, if the building initially used electric heating, the retrofits led to an increase in life cycle carbon emissions by 170 % in Montreal and 56 % in Ottawa, respectively, due to the embodied emissions of retrofit materials and equipment. In Halifax, where the electricity grid relies heavily on fossil fuels, all retrofit scenarios showed a positive impact on GHG reductions. Enhancing the building envelope and transitioning from natural gas to electric heating slightly reduced total emissions by 4 %, but retaining natural gas heating decreased the total life cycle GHG emissions by 27 %. This study emphasizes the importance of a comprehensive life cycle assessment in developing policies for achieving carbon neutrality. It demonstrates that the effectiveness of retrofits in reducing GHG emissions significantly depends on the local energy grid, suggesting tailored approaches based on regional energy profiles to optimize emission reductions and energy efficiency.
+</text>
+
+
+<heading page="1" section="**1.** **Introduction**" source="author" id="/page/0/SectionHeader/16" level="2">
+## **1.** **Introduction**
+</heading>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/17">
+The extensive consumption of energy, notably from fossil fuels, plays a significant role in influencing climate change (P.S. and P.C. Government of [[1,](#page-14-0)[2](#page-14-1)]). The building and construction sector contributed around 37 % of the total CO^(2) emissions and one-third of global energy consumption [[3]](#page-14-2). Since 28 % of CO^(2) emissions are generated from the operational emissions in the buildings, including the energy from electricity, natural gas, and refrigerant, and 11 % due to materials and construction processes (embodied emissions) ([[4](#page-14-3)]9), most of the previous studies focus on operational emissions. For example, Cuéllar-Franca and Azapagic [[5](#page-14-4)], Asdrubali et al. [[6](#page-14-5)], and Chastas et al. [[7]](#page-14-6) highlighted that buildings contribute at least 80–90 % of CO^(2) emissions during their use phase, while around 10–20 % of CO^(2) emissions occur during the construction phase.
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/18">
+To reduce operational energy consumption and carbon emission, many countries have implemented new building standards aimed at achieving net-zero energy buildings [[1,](#page-14-0)8–[10]](#page-14-7). In addition, new energy laws are being introduced to reduce the carbon inten-
+</text>
+
+<text page="1" section="**1.** **Introduction**" source="author" id="/page/0/Text/20">
+*E-mail* *address:* [hua.ge@concordia.ca](mailto:hua.ge@concordia.ca) (H. Ge).
+</text>
+
+<footnote page="1" section="**1.** **Introduction**" source="author" id="/page/0/Footnote/19">
+^(*) Corresponding author.
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/2">
+sity of energy supplies around the world. Renewable electricity generation in Canada increased by 18 % in 2019 compared to 2010 [[11,](#page-14-8)[12]](#page-14-9). This trend is expected to continue in the coming decades to lower operational emissions from buildings [[13]](#page-14-10).
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/3">
+Ramesh et al. [[14](#page-14-11)] and Gustavsson and Joelsson [[15]](#page-14-12) found that in buildings with low energy efficiency, the embodied emissions contributed by 10 %–20 % to total emissions, while in buildings with high energy efficiency, this value can reach about 45 %. Paleari et al. [[16]](#page-14-13) and Dodoo et al. [[17]](#page-14-14) discovered that in highly energy-efficient buildings, the proportion of embodied emissions can exceed 60 %. Therefore, in the last decade, the environmental impacts associated with embodied emissions in materials and equipment throughout a building's life cycle have become increasingly significant and should not be overlooked, especially with NZEBs [[18](#page-14-15)–20]. Also, a new awareness of accounting for whole building life cycle carbon emissions has motivated the construction industry to develop Net-Zero Carbon Buildings (ZCB) [[19](#page-14-16),[21,](#page-14-17)[22]](#page-14-18), also referred to as Carbon Neutral Buildings. Carbon Neutral Buildings are highly efficient buildings, operated using 100 % fossil-free energy and designed following the "best practice sustainable construction" [[21](#page-14-17)]. This term stands for a number of strategies to reduce carbon emissions in buildings, such as promoting energy savings and well-being of occupants through passive design, maximizing the use of recycled and nature-based materials, minimizing energy use in all stages of the building's life, and creating new green spaces [[22]](#page-14-18).
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/4">
+With the growing emphasis on sustainable development, the Life Cycle Assessment (LCA) technique has gained importance in architectural and engineering practices. LCA can be used to evaluate the environmental impact of a building across its entire life cycle, guiding informed decision-making on design solutions that can enhance a building's environmental performance. In 2023, the term "Whole Building Life-Cycle Assessments (WBLCAs)", which was adopted from European Standards 15978:2011 and 15643, was developed [[23](#page-14-19)]. The WBLCAs are a framework that allows for the assessment of the environmental impacts from all life-cycle stages of a building, including embodied and operational impacts [[23]](#page-14-19). Brooks et al. [[24]](#page-14-20) analyzed the operational emissions and the embodied carbon life cycle (LCA) of an old residential building in the UK, and they evaluated the impact of low carbon and clean technologies on reducing embodied and operational carbon using the 'cradle-to-grave' process. They found that the use of photovoltaic panels to reduce operational emissions, and the use of recycled steel, lightweight brick, and Supplementary Cementing Material (SCM) for mortar and concrete reduced overall CO^(2) emissions by 22 % [[24]](#page-14-20). Asdrubali and Grazieschi [[25](#page-14-21)] conducted a study to assess the potential reduction of both operational and embodied emissions by retrofitting old buildings in Italy. Their findings indicate that retrofitting an old building to a net-zero energy building leads to a substantial reduction in operational emissions, with a maximum decrease of 89 %. However, when considering embodied emissions from added materials, which include organic fossil insulation materials (EPS), new windows, photovoltaic panels, and solar thermal systems, the maximum reduction achieved by the reduction in the operational emissions will decrease to 48 % [[25]](#page-14-21).
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/5">
+In net-zero energy buildings (NZEBs), not only do embodied emissions emerge as a crucial factor in LCA, but also the presence of electricity mix systems within NZEBs necessitates the utilization of Dynamic LCA (DLCA) methodologies. Dynamic LCA allows for consideration of temporal changes and is defined as ''an approach to LCA which explicitly incorporates dynamic process modelling in the context of temporal and spatial variations in the surrounding industrial and environmental systems" [[26]](#page-14-22). The utilization of onsite renewable energy generation for electricity production experiences temporal changes. For instance, photovoltaic (PV) systems generate electricity during daylight hours but are inactive at night. Additionally, substantial variations occur seasonally, with increased production during the summer months and decreased generation in winter, therefore, Dynamic LCA became necessary [[27](#page-14-23)]. Also, Dynamic LCA is used to evaluate the impact of future years on the LCA during the lifetime of the buildings [[28,](#page-14-24)[29](#page-14-25)]. Goldstein et al. [[30](#page-14-26)] discovered that occupant consumption patterns and socioeconomic variances can impact the evaluation of LCA for buildings, emphasizing the importance of employing Dynamic LCA for WBLCA. Ramon et al. [[31]](#page-14-27) evaluated the potential changes in operational emissions use due to climate change in Belgian office buildings. They found that with the Representative Concentration Pathway (RCP) 8.5 scenario, the annual heating consumption will reduce by 18 % but the cooling consumption will increase by 34 %. They additionally assessed the impact of the electricity mix, representing the blend of energy sources (both renewable and fossil fuels) utilized for electricity generation within a specific region over time, as a strategy for climate change mitigation compared to static electricity, where the energy source remains fixed over time. They found that the CO^(2) emissions of the office building will be reduced by 13 % for an electricity mix dominated by renewable electrical generation (56 %), but increased by 10 % for an electricity mix dominated by gas.
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/6">
+Despite the great number of studies addressing building LCA and low-carbon design strategies, there is still no consensus on the strategy for large-scale implementation of carbon-neutral buildings. While progress has been made toward designing and constructing carbon-neutral buildings, comprehensive case studies that cover the full range of building components and life cycle stages are relatively scarce in the literature. Most LCA studies present an incomplete scope, usually overlooking the impacts of embodied emissions from mechanical equipment, Photovoltaic (PV) panels, internal partitions, and finishes. Several case studies that implement low-carbon strategies to attempt for carbon-neutral building status have been identified. The low-carbon strategies include highperformance building envelopes such as high-value thermal resistance, triple-pane windows, airtightness, bio-based building materials, air-source or geothermal heat pump systems, hybrid PV and solar thermal systems, green roofs or green areas surrounding buildings. All case studies cover energy efficiency analysis, while the scope of carbon emission analysis is primarily on the embodied carbon in structural and building envelope materials with some including the carbon sequestration of greenery over the building's service life. These case studies were chosen because they are real-case existing buildings and provided details about design solutions, materials, software used, building's carbon footprint, and energy use.
+</text>
+
+<text page="2" section="**1.** **Introduction**" source="author" id="/page/1/Text/7">
+The report from Humber College [[32](#page-14-28)] showcases the achievement of Zero Carbon Building (ZCB)-Design certification through a building retrofit project in Toronto, Canada. The retrofit included envelope improvements, mechanical system upgrades, lighting enhancements, and the installation of a PV system. The 5-storey building of about 4500 m^(2) was designed to achieve an Energy Use Intensity (EUI) of 63 kWh/m^(2) ∙year, which corresponds to a 70 % reduction in energy use compared to existing institutional buildings.
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/2">
+The embodied carbon emissions, of new and existing building materials, were estimated at 377.4 kgCO2eq/m^(2) of floor area. However, the embodied emissions related to HVAC and PV systems were not included.
+</text>
+
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/3">
+Dabaieh et al. [[33](#page-14-29)[,34](#page-14-30)] assessed the environmental impacts of a Swedish experimental house over 15 years. They incorporated passive systems to reduce cooling and heating loads (i.e. earth air heat exchanger; Trombe wall, and green walls), used bio-based construction materials (i.e. compressed straw panels, wood fiberboards, wood-fiber insulation, cross-laminated timber), and integrated renewable energy systems (hybrid solar PV and wind power systems, solar water heater, and biogas tank using organic waste for cooking and domestic hot water). The energy simulations showed a 33 % reduction in energy consumption than the reference house. The life cycle assessment showed that plant-based materials can drastically reduce the carbon footprint. When the sequestration capacity of plants (green walls) and storage in plant-based materials are considered, the overall Global Warming Potential (GWP) is reduced by 226.2 kgCO2eq/m^(2) . Otherwise, the GWP was increased by 254.7 kgCO2eq/m^(2) over a 15-year period compared to the reference Swedish house. The embodied emissions of PV panels and wind turbines were not considered in the LCA analysis.
+</text>
+
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/4">
+Bhavsar et al. [[35](#page-14-31)] analyzed a new educational facility at Mohawk College, Canada. The walls, roof, and windows have higher thermal resistance than the Ontario Building Code. The building was designed to generate 100 % of its end-use energy by using an onsite PV system for electricity generation, a geothermal system for heating and cooling, and a solar thermal system for domestic hot water. Other low-carbon solutions included the use of steel with highly recyclable contents, concrete mix with Supplementary Cementing Material (SCM) content (such as slag), a cistern for rainwater harvesting, low-flush urinals in toilets, and low-flow faucets. The cradle-to-grave LCA analysis of the building structure over a 60-year period was performed, however, other carbon-intensive components such as windows, insulation, mechanical equipment, and PV systems were not included.
+</text>
+
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/5">
+Similarly, LCA studies on the Evolv office building [[36](#page-15-0)] in Canada, which was certified under the CaGBC Zero Carbon Building Standard with embodied emissions due to the envelope and structural materials estimated at 260 kgCO2eq/m^(2) , and a dwelling in Taiwan [[37]](#page-15-1) also did not include HVAC and PV systems in their analysis.
+</text>
+
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/6">
+The incomplete scope of many LCA studies can potentially introduce biased benchmarking and restrict our understanding of the effectiveness of building decarbonization strategies. In the context of energy efficiency and retrofit design solutions for carbonneutral buildings, this paper presents a complete LCA analysis approach coupling energy efficiency, operational and embodied carbon emission, and the regional electricity grid profile that architects and engineers may consider, along with policymakers, when conducting the environmental impact assessment of a building. This approach addresses the incompleteness in LCA impact analysis, i.e. incomplete building systems, and incomplete life cycle stages, and introduces the connection between buildings and the electricity grid. This is the novelty of this paper.
+</text>
+
+<text page="3" section="**1.** **Introduction**" source="author" id="/page/2/Text/7">
+The objective of this study is to develop a holistic approach to evaluate the effectiveness of retrofitting strategies in achieving carbon-neutral building status through life cycle carbon emission analysis within the context of local electricity grid profiles to assist building designers and policymakers in retrofitting decision-making from life cycle carbon emission perspective. This approach is applied to a 2-storey natural gas-heated school building as a case study to test the hypothesis that those building retrofit measures that reduce the energy use for heating might not always reduce the building's greenhouse gas (GHG) emission during its life cycle depending on the local electricity-grid profile. The impact of local grid profile on buildings' environmental performance is assessed for three cities, Montreal (Quebec), Ottawa (Ontario), and Halifax (Nova Scotia), having similar climatic characteristics but different electricity grid profiles. Few studies have been reported in the literature, especially within the Canadian context, for such a complete life cycle carbon analysis. This study attempts to fill this gap and contribute to advancing the large-scale realization of carbon-neutral buildings.
+</text>
+
+
+<heading page="3" section="**2.** **Methodology**" source="author" id="/page/2/SectionHeader/8" level="4">
+#### **2.** **Methodology**
+</heading>
+
+<text page="3" section="**2.** **Methodology**" source="author" id="/page/2/Text/9">
+The approach described in this paper demonstrates the process of assessing the environmental performance of building retrofits, using energy simulation and life cycle assessment (LCA). Energy simulation is employed to estimate the potential reduction of annual energy consumption when introducing different improvements, such as adding thermal insulation, replacing windows, and adding exterior shading. On the other hand, LCA estimates the embodied emissions associated with the manufacture of each new envelope or HVAC component, as well as the reduction of operational emissions resulting from the energy efficiency improvements. This holistic overall system analysis provides a more complete picture for retrofitting from a life cycle carbon emission perspective.
+</text>
+
+
+<heading page="3" section="*2.1.* *Overview*" source="author" id="/page/2/SectionHeader/10" level="2">
+## *2.1.* *Overview*
+</heading>
+
+<text page="3" section="*2.1.* *Overview*" source="author" id="/page/2/Text/11">
+The process began with an analysis of the existing school building located in Montreal, which served as the baseline. An energy model was developed using DesignBuilder (EnergyPlus) (v7.0.2.006) [[38](#page-15-2)]to simulate the building's annual energy use. Following the simulation for the original design, the model was refined to incorporate each retrofit improvement, and the new annual energy use was calculated at each step. The data on annual energy use obtained from DesignBuilder (EnergyPlus) served as one of the inputs for calculating the building's operational CO^(2) emissions. The calculation of both embodied and operational emissions was carried out using OneClick LCA [[39]](#page-15-3), which is an automated LCA tool designed to estimate the carbon footprint of buildings and infrastructure.
+</text>
+
+<text page="3" section="*2.1.* *Overview*" source="author" id="/page/2/Text/12">
+After using the energy simulation results from DesignBuilder (EnergyPlus) to calculate operational emissions in OneClick LCA, the next step involved the calculation of embodied emissions. A list of materials organized by building assembly was mapped into OneClick LCA software, with each item linked to an inventory data point. The software's datasets are customized regionally, accounting for factors such as local electricity grids and material options specific to the building's location. When necessary, information regarding thickness, density, and other material properties was also provided.
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="*2.1.* *Overview*" source="author" id="/page/3/Text/2">
+SimaPro, Sophera (GaBi), and OneClick LCA are different examples of LCA tools. The choice between these softwares often depends on the specific requirements of the LCA study and the availability of relevant databases. SimaPro (2022) [[40](#page-15-4)] and GaBi (2024) [[41]](#page-15-5) are process-based softwares that allow users to create the life cycle of a product based on inputs such as raw materials, extraction methods, transportation modes, and processing methods. In this study, we looked for an LCA tool that could provide product-ready inputs to represent an entire building. OneClick LCA was selected for being an automated, cloud-based software that offers simplified LCA workflows for buildings and infrastructure. The software uses third-party-verified industry-available data, such as Environmental Product Declarations (EPDs) from various manufacturers to create material options that can be put together to estimate the environmental impacts of an entire building over a defined calculation period. Other commonly used LCA tools include the Athena Impact Estimator for Buildings [[42]](#page-15-6), which allows users to input a bill of materials or quickly describe building assemblies through dialogue boxes. The software then calculates a bill of materials with associated environmental impacts. A comparison between LCA results provided by Athena and OneClick LCA for a different building can be found in our previous study, Grossi et al. [[43](#page-15-7)].
+</text>
+
+<text page="4" section="*2.1.* *Overview*" source="author" id="/page/3/Text/3">
+The LCA results presented in this paper were estimated from cradle-to-grave over a 20-year calculation period. The choice of the 20-year calculation period is to avoid the incidence of secondary emissions resulting from subsequent replacements of building components and systems. The purpose of this study is to demonstrate the advantages or disadvantages of a single retrofit event occurring at different Canadian locations. In addition, adopting a shorter calculation period reduces the uncertainties related to future energy profiles and technological development, which are key factors influencing LCA estimation outcomes. Given that many LCA standards recommend a 60-year timeframe, we have also included a scenario considering the heat pump COP of 2.0 over a 60-year period for comparison, and results are presented in section [3.5](#page-11-0).
+</text>
+
+<text page="4" section="*2.1.* *Overview*" source="author" id="/page/3/Text/4">
+The case study building is located in Montreal (Quebec). To investigate the influence of local electricity-grid profiles on the building's environmental performance, the same process was applied to Ottawa (Ontario), and Halifax (Nova Scotia), using the corresponding weather files and electricity-grid profiles.
+</text>
+
+
+<heading page="4" section="*2.2.* *Case* *study* *building* *and* *retrofit* *measures*" source="author" id="/page/3/SectionHeader/5" level="2">
+## *2.2.* *Case* *study* *building* *and* *retrofit* *measures*
+</heading>
+
+<text page="4" section="*2.2.* *Case* *study* *building* *and* *retrofit* *measures*" source="author" id="/page/3/Text/6">
+The baseline of this study is a 2-story school building with a total heated floor area of 2300 m^(2) . The exterior walls are composed of brick veneer on the outside, followed by a 25 mm air gap, 70 mm of mineral wool (MW) insulation, Concrete Masonry Units, and gypsum plaster on the inner layer. The roof consists of a waterproof roofing membrane, fiberboard, 130 mm of XPS insulation, and a 100 mm concrete slab. The windows are double (clear) glazing with a 13 mm air gap. As many other schools built in the past, the building does not have a cooling system and mechanical ventilation. More information about the baseline building can be found in Ref. [[44](#page-15-8)].
+</text>
+
+<text page="4" section="*2.2.* *Case* *study* *building* *and* *retrofit* *measures*" source="author" id="/page/3/Text/7">
+Five retrofitting improvements are implemented sequentially, as shown in [Fig.](#page-3-0) 1. The first improvement consists of replacing the natural gas heating system with a thermal efficiency of 0.75 with an electric heating system with a Coefficient of Performance (COP) of 1 while maintaining all other components such as insulation and windows in their original condition. An electrical baseboard is a commonly used heating system in Quebec. The next step consists of increasing the thermal insulation of the roof and exterior walls to meet the National Energy Code of Canada for Buildings [[45](#page-15-9)] requirements. Then, the building envelope airtightness is increased from 3.9 ACH to 2.0 ACH at 50 Pa as input in the energy model to reflect post-retrofit conditions by adding a new roofing membrane and air barriers as necessary to reduce the air infiltration rate through the building envelope. The subsequent step consists of upgrading windows and interior blinds, and the installation of overhangs. The addition of blinds and overhangs is to address the summer overheating issue [[46]](#page-15-10). Finally, a mechanical ventilation system is added to ensure the supply of minimum ventilation air (as required by NECB), followed by the installation of a heat recovery ventilator from the exhaust air with a heat transfer effectiveness of 0.7.
+</text>
+
+<text page="4" section="*2.2.* *Case* *study* *building* *and* *retrofit* *measures*" source="author" id="/page/3/Text/8">
+The input parameters for building components and systems are listed in [Table](#page-4-0) 1 and [Table](#page-4-1) 2 for both the baseline and full retrofit designs.
+</text>
+
+
+<heading page="4" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/3/SectionHeader/9" level="1">
+# *2.3.* *Embodied* *emissions* *estimation*
+</heading>
+
+<text page="4" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/3/Text/10">
+Each improvement introduced in the design (such as new insulation or new HVAC equipment) carries an environmental impact linked to manufacturing and installation processes. This section details the materials and equipment considered in the estimation of
+</text>
+
+<figure_group page="4" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/3/FigureGroup/1660">
+<figure page="4" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/3/Figure/11" image="A3.R48_fig04.jpg">[FIGURE: see A3.R48_fig04.jpg]</figure>
+<caption page="4" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/3/Caption/12">
+**Fig.** **1.** The sequence of the building retrofit improvements.
+</caption>
+</figure_group>
+
+</page>
+<page number="5">
+<table_group page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/TableGroup/1324">
+<caption page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Caption/2">
+**Table** **1** Comparison between baseline and retrofit design (energy model inputs).
+</caption>
+<table page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Table/3">
+|  | Building components | Baseline | Full retrofit |
+| --- | --- | --- | --- |
+| HVAC | Heating system | Natural Gas, thermal efficiency of 0.75 | Electric baseboard, COP = 1.0 |
+| System | Cooling system | No | No |
+|  | Mechanical ventilation | No | Yes 7.5 L/s person |
+|  | Heat recovery ventilator | No | Yes (eff. = 0.7) |
+| Envelope | Wall insulation thickness (mm) | 70, Mineral Wool | 200, Mineral Wool |
+|  | Roof Insulation thickness (mm) | 130, XPS | 250, XPS |
+|  | Air Infiltration (ACH 50 Pa) | 3.9 | 2.0 |
+| Windows | Window to Wall Ratio (%) | 60 | 60 |
+|  | Glazing type | Double (Clear)/Air | Double (Low E)/Argon |
+|  | SHGC | 0.76 | 0.60 |
+|  | Shade rolls | Medium Opaque | Low reflect/High Transmittance |
+|  |  | 0.5 Reflectance | 0.2 Reflectance |
+|  |  | 0.05 Transmittance | 0.7 Transmittance |
+|  | Overhang | No | Yes, 1 m Overhang |
+</table>
+<caption page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Caption/4">
+**Table** **2** U-values (W/m 2 .K) of building envelope components.
+</caption>
+</table_group>
+
+<table_group page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/TableGroup/1325">
+<table page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Table/5">
+| Baseline | Full retrofit | NECB [45].a |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 0.22 | 0.12 | 0.14 |  |
+|  | 0.422.97 | 0.171.73 | 0.241.73 |
+</table>
+<footnote page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Footnote/6">
+^(a) Considering prescriptive thermal requirements for climate Zone 6.
+</footnote>
+</table_group>
+
+<text page="5" section="*2.3.* *Embodied* *emissions* *estimation*" source="author" id="/page/4/Text/7">
+embodied emissions tied to each building retrofit. The specifications, environmental profiles, embodied emissions, and data sources for each item are compiled from manufacturer-specific data sourced from Environmental Product Declarations (EPDs) accessible through the OneClick LCA database, as shown in [Table](#page-4-3) 3. For the materials or equipment where manufacturer-specific information is not available, Canadian industry averages (provided by OneClick LCA) were used. The total embodied emission listed in [Table](#page-4-3) 3 is over a 20-year period. As previously mentioned, a calculation period of 20 years was considered for the assessment, but an additional scenario for a period of 60 years is also calculated, which is not shown in [Table](#page-4-3) 3. As required by ISO 21930 [[47](#page-15-11)], the environmental profiles reported by EPDs and employed by the LCA software are based on the accumulated radiative forcing under the GWP^(100) perspective.
+</text>
+
+
+<heading page="5" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/4/SectionHeader/8" level="2">
+## *2.4.* *Operational* *emissions* *estimation*
+</heading>
+
+<text page="5" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/4/Text/9">
+The local electricity grid profile plays a determinant role in LCA, being potentially one of the most influential factors affecting the environmental performance estimation of a building. To investigate the impact of local electricity grid profile on a building's environmental performance, we have selected three Canadian cities: Montreal (Quebec), Ottawa (Ontario), and Halifax (Nova Scotia).
+</text>
+
+<table_group page="5" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/4/TableGroup/1326">
+<caption page="5" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/4/Caption/10">
+**Table** **3** Embodied emissions of materials and equipment added to the retrofit design over a 20-year period.
+</caption>
+<table page="5" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/4/Table/11">
+| Materials andEquipment | Specification | Environmental Profile | Total EmbodiedEmissions | Data source |
+| --- | --- | --- | --- | --- |
+| Mineral Wool Insulation | Mineral wool insulation panels, L = 0.038 W/m.K,2density 40 kg/m3, 0,038 m = 1 W/m.K | 1.31 kgCO2eq/m2 | 8359 kgCO2eq | EPD, Rockwool NorthAmerica |
+| XPS Insulation | XPS insulation panels, L = 0.035W/m.K, per 100 mm,3.8 kg/m2, 38 kg/m3 | 14.5 kgCO2eq/m2 | 26,621 kgCO2eq | EPD, DuPont StyrofoamBrand XPS |
+| Air and MoistureResistive Barrier | Air and moisture resistive barrier system, fluid applied,0.9 kg/m2, Tyvek | 3.5 kgCO2eq/m2 | 1621 kgCO2eq | EPD, DuPont Tyvek |
+| Hot Applied RubberizedAsphalt | Hot-applied rubberized asphalt membrane,waterproofing, 5.56 mm, 6.39 kg/m2, monolithic | 2.7 kgCO2eq/m2 | 3988 kgCO2eq | EPD, HydrotechMembrane Corp |
+| Aluminum Windows | 2, 37 kg/m2Aluminum frame windows, per m, 30 %aluminum, 61 % glazing, 9 % others | 136.0 kgCO2eq/m2 | 67,148 kgCO2eq | EPD, AluQuebec |
+| Aluminum Overhangs | Painted aluminum sunshades, 36.81 kg/m2 | 229.0 kgCO2eq/m2 | 12,623 kgCO2eq | EPD, IndustrialLouvers, Inc. |
+| Electric heating system | Electric heating for educational and commercial buildings2(per m) | 15,05 kgCO2eq/m2blgdgross floor area | 34,619 kgCO2eq | The industry average,OneClick LCA |
+| Air Handling Unit | Air handling unit, with heat recovery rotatory heat3exchanger, 950 kg/unit, 10,000 m/h | 6884.02 kgCO2eq/unit | 6884 kgCO2eq | The industry average,OneClick LCA |
+</table>
+</table_group>
+
+</page>
+<page number="6">
+<text page="6" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/5/Text/2">
+[Fig.](#page-5-0) 2 shows the share of electricity generation by fuel type, based on information from the Canada Energy Regulator [[48](#page-15-12)], for the three cities included in this study. In Quebec and Ontario, the electricity is generated mainly from renewable and non-fossil fuel energy sources: about 94 % of electricity is generated by hydropower in Quebec, about 59 % by nuclear power plants, and 24 % by hydropower in Ontario. In Nova Scotia, most of the electricity is generated by fossil fuels: 52 % from coal and coke, and 22 % from natural gas.
+</text>
+
+<text page="6" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/5/Text/3">
+In Quebec, electricity generation predominantly relies on renewable sources, with hydropower accounting for 94 % and wind power contributing 5 %. However, the electrification of society, including the transportation sector, could potentially lead to increased electricity demand in the coming decades. Quebec currently stands as one of the Canadian provinces with the least energyrelated GHG emissions. As reported by CER [[49]](#page-15-13), the GHG intensity of Quebec's electricity grid was 0.0015 kgCO2eq/kWh of electricity generated in 2020. However, this value does not include other impacts such as biogenic decay in hydro reservoirs (rotting vegetation emitting CO^(2) and Methane (CH4)) and emissions related to transmission processes. In this study, we considered the value of 0.01023 kgCO2eq/kWh, sourced from OneClick LCA [[39]](#page-15-3) and Athena's Transparency Document (2019). This value was calculated based on data from the Ecoinvent 3.4 [[50](#page-15-14)] databases and incorporates all carbon emissions up to the final point of consumption.
+</text>
+
+<text page="6" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/5/Text/4">
+Ontario is also a province that has its electricity generation mostly based on non-fossil sources. As reported by CER [[51]](#page-15-15), the GHG intensity of Ontario's electricity grid was 0.025 kgCO2eq/kWh of electricity generated in 2020. Similar to the case of Quebec, this value only reflects the emissions at the power plants. Therefore, in this study, we used the value of 0.028 kgCO2eq/kWh of electricity considered at the final point of consumption. This value was obtained from calculations based on Ecoinvent databases, sourced from OneClick LCA [[39](#page-15-3)] and Athena's Transparency Document [[52](#page-15-16)].
+</text>
+
+<text page="6" section="*2.4.* *Operational* *emissions* *estimation*" source="author" id="/page/5/Text/5">
+Nova Scotia has a totally different electricity grid profile, which relies mostly on fossil fuels. As reported by CER [[53]](#page-15-17), the GHG intensity of Nova Scotia's electricity grid was 0.670 kgCO2eq/kWh of electricity generated in 2020. We used a slightly higher value of 0.680 kgCO2eq/kWh, incorporating all carbon emissions up to the final point of consumption, based on the OneClick LCA [[39](#page-15-3)] and the Ecoinvent database [[50](#page-15-14)]. Due to the different grid mixes, the use of electricity in Nova Scotia generates 65 times more GHG emissions than in Quebec, and 24 times more than in Ontario. Although the use of natural gas is significantly intense in GHG emissions, it can be considered as an option for places dependent on coal, like Nova Scotia. The amount of CO₂ emitted in the production of 1 kWh of electricity using coal versus natural gas can vary based on several factors, including the efficiency of the power plants, the type of coal or natural gas being used, and the technology in place. On average, based on EIA [[54]](#page-15-18), coal-fired power plants emit around 1.025 kgCO₂eq/kWh of electricity generated, while natural gas-fired power plants are generally more efficient, ranging from 0.180 kgCO2eq/kWh [[55]](#page-15-19) to 0.440 kgCO2eq/kWh [[54]](#page-15-18)). The factor of 10.55 kWh/m^(3) [[56]](#page-15-20) was employed to convert the energy provided by 1 m^(3) of natural gas to an energy equivalent value of electricity. In this study, we considered the GHG intensity of natural gas use equal to 0.218 kgCO2eq/kWh (equivalent to 2.30 kgCO2/m^(3) ), based on the OneClick LCA [[39](#page-15-3)] database.
+</text>
+
+
+<heading page="6" section="**3.** **Results** **and** **discussion**" source="author" id="/page/5/SectionHeader/6" level="4">
+#### **3.** **Results** **and** **discussion**
+</heading>
+
+<text page="6" section="**3.** **Results** **and** **discussion**" source="author" id="/page/5/Text/7">
+This section presents the case study results for each location (Montreal, Ottawa, and Halifax), followed by a discussion regarding each retrofit step. For each design improvement, at each location, the results include the annual energy consumption (in kWh/year), and total GHG emissions (in kgCO2eq) over a 20-year life cycle. Results are presented for Montreal first [(Table](#page-6-0) 4) and followed by Ottawa ([Table](#page-6-1) 6) and Nova Scotia ([Table](#page-10-0) 10). A comparative analysis between cities is provided at the end of this section.
+</text>
+
+<figure_group page="6" section="**3.** **Results** **and** **discussion**" source="author" id="/page/5/FigureGroup/1512">
+<figure page="6" section="**3.** **Results** **and** **discussion**" source="author" id="/page/5/Figure/8" image="A3.R48_fig05.jpg">[FIGURE: see A3.R48_fig05.jpg]</figure>
+<caption page="6" section="**3.** **Results** **and** **discussion**" source="author" id="/page/5/Caption/9">
+**Fig.** **2.** Provincial electricity generation by fuel type. Source: Adapted based on data from Canada Energy Regulator, CER [[48](#page-15-12)].
+</caption>
+</figure_group>
+
+</page>
+<page number="7">
+<table_group page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/TableGroup/1382">
+<caption page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Caption/2">
+**Table** **4** Change of annual energy use and change of total life cycle GHG emissions calculated at each retrofit step (Montreal).
+</caption>
+<table page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Table/3">
+|  | NaturalGas | Electric | Envelope | Air | Windows | Mech.Vent. → | Heat |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Heating → | Heating → | Insulation → | Infiltration → | & Shading → |  | Recovery |
+| Total Annual Energy Use | 188,555 | 151,201 | 125,535 | 104,930 | 55,875 | 104,448 | 75,351 |
+| [kWh/year] |  | (-37,354) | (−25,666) | (−20,605) | (−49,055) | (+48,573) | (-29,097) |
+| Space Heating | 149,416 | 112,062 | 87,093 | 66,489 | 33,807 | 33,807 | 33,807 |
+| Interior Lighting | 27,216 | 27,216 | 26,736 | 26,736 | 10,362 | 10,362 | 10,362 |
+| Computers/Plugs | 11,923 | 11,923 | 11,706 | 11,706 | 11,706 | 11,706 | 11,706 |
+| Mech. Ventilation | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 48,573 | 19,476 |
+| Total Emissions [kgCO2e over | 659,493 | 65,567 | 100,902 | 96,685 (-4217) | 166,416 | 183,348 | 177,393 |
+| 20y] |  | (-593,926) | (+35,335) |  | (+69,731) | (+16,932) | (-5955) |
+| Operational Emissions | 659,493 | 30,948 | 25,694 | 21,477 | 11,436 | 21,378 | 15,423 |
+| Embodied Emissions | 0.0 | 34,619 | 75,208 | 75,208 | 154,979 | 161,970 | 161,970 |
+</table>
+</table_group>
+
+<text page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Text/4">
+Note: The values displayed between parenthesis, for instance (−37,354), represent the relative variation of results at each calculation step.
+</text>
+
+<table_group page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/TableGroup/1383">
+<caption page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Caption/5">
+**Table** **5** Comparison of results for Montreal, baseline versus full retrofit.
+</caption>
+<table page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Table/6">
+|  | Baseline (a) | Baseline (b)Full Retrofit (c) | VARIATION |  |
+| --- | --- | --- | --- | --- |
+|  | (NAT GAS HEATING) | (ELECTR. HEATING) | (ELECTR. HEATING) | (a) to (c) | (b) to (c) |
+| Total Annual Energy Use (kWh/year) | 188,555 | 151,201 | 75,351 | −113,204 | −75,850 |
+| Space Heating | 149,416 | 112,062 | 33,807 | (-60 %) | (-50 %) |
+| Interior Lighting | 27,216 | 27,216 | 10,362 |  |  |
+| Computers/Plugs | 11,923 | 11,923 | 11,706 |  |  |
+| Mech. Ventilation w/heat recovery | 0.0 | 0.0 | 19,476 |  |  |
+| Total Emissions (kgCO2eq over 20y) | 659,493 | 65,567 | 177,393 | −482,100 (-73 %) | +111,826 (+170 %) |
+| Operational Emissions | 659,493 | 30,948 | 15,423 | −644,070 (−98 %) | −15,525 (−50 %) |
+| Embodied Emissions | 0.0 | 34,619 | 161,970 |  |  |
+</table>
+<caption page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Caption/7">
+**Table** **6** Total energy use and total emissions calculated at each retrofit stage for Ottawa.
+</caption>
+</table_group>
+
+<table page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Table/8">
+|  | NaturalGas | Electric | Envelope | Air | Windows | Mech.Vent. → | Heat |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Heating → | Heating → | Insulation→ | Infiltration → | & Shading → |  | Recovery |
+| Total Annual Energy Use[kWh/year] | 228,055 | 180,834(−47,221) | 150,145(-30,689) | 124,193(-25,952) | 66,021(-58,172) | 125,862(+59,841) | 90,162(−35,700) |
+| Space Heating | 188,884 | 141,663 | 111,673 | 85,721 | 45,282 | 45,282 | 45,282 |
+| Interior Lighting | 27,248 | 27,248 | 26,766 | 26,766 | 9033 | 9033 | 9033 |
+| Computers/Plugs | 11,923 | 11,923 | 11,706 | 11,706 | 11,706 | 11,706 | 11,706 |
+| Mech. Ventilation | 0 | 0 | 0 | 0 | 0 | 59,842 | 24,141 |
+| Total Emissions [kgCO2e over20y] | 845,506 | 135,886(-709,620) | 159,289(+23,403) | 144,756(-14,553) | 191,951(+47,195) | 232,453(+40,502) | 212,461(-19,992) |
+| Operational Emissions | 845,506 | 101,267 | 84,081 | 69,548 | 36,972 | 70,483 | 50,491 |
+| Embodied Emissions | 0 | 34,619 | 75,208 | 75,208 | 154,979 | 161,970 | 161,970 |
+</table>
+
+<text page="7" section="**3.** **Results** **and** **discussion**" source="author" id="/page/6/Text/9">
+Note: The values displayed between parenthesis, for instance (−47,221) represent the relative variation of results at each calculation step.
+</text>
+
+
+<heading page="7" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/6/SectionHeader/10" level="2">
+## *3.1.* *Results* *for* *Montreal* *(Quebec)*
+</heading>
+
+<text page="7" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/6/Text/11">
+Results presented in [Table](#page-6-0) 4 and [Fig.](#page-7-0) 3 illustrate the impact of each retrofit step on LCA, beginning with the transition from "Natural Gas Heating," as the baseline, to an electrical heating system, and culminating with the installation of heat recovery systems in Montreal. The results show that:
+</text>
+
+<list page="7" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/6/ListGroup/1384">
+- 1. **Baseline** **Situation** **(Natural** **Gas** **Heating**): The overall annual energy consumption is 188,555 kWh/year, and the total GHG emissions are 659,493 kg CO^(2) eq. The substantial value of carbon emissions is entirely attributed to operational emissions, with 99 % associated with natural gas use for space heating, and only 1 % due to lighting, computers, and plug loads. Embodied emissions remain at zero in this first step, as no new materials or equipment are introduced during this stage.
+- 2. **Natura** **Gas** **Heating** **to** **Electric** **Heating**: the replacement of natural gas heating system (thermal efficiency = 0.75) with an electric heating system (COP = 1) reduced the overall energy consumption by 37,354 kWh/year, from 188,555 kWh/year to 151,201 kWh/year and total carbon emissions by 593,926 kgCO2eq over 20 years, from 659,493 to 65,567 kgCO2eq. This significant reduction in emissions is primarily attributed to the decrease in operational emissions (from 659,493 to 30,948
+</list>
+
+</page>
+<page number="8">
+<figure_group page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/FigureGroup/1634">
+<figure page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/Figure/2" image="A3.R48_fig06.jpg">[FIGURE: see A3.R48_fig06.jpg]</figure>
+<caption page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/Caption/3">
+**Fig.** **3.** Energy use (red line) and GHG emissions (operational and embodied, in gray and black) are calculated at each retrofit stage (for Montreal). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+</caption>
+</figure_group>
+
+<text page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/Text/4">
+kgCO2eq), due to the replacement of natural gas by the grid-purchased electricity, which is from a low-carbon renewable source. The remaining emissions (34,619 kgCO2eq) are associated with the embodied carbon tied to the manufacturing of the new heating equipment.
+</text>
+
+<list page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/ListGroup/1635">
+- 3. **Upgrading** **building** **envelope**: adding additional insulation in the exterior walls and roofs and new roofing membrane and air barriers where necessary resulted in a reduction in total energy consumption, from 151,201 to 125,535 kWh/year, primarily due to a decrease in space heating demand, from 112,062 to 87,093 kWh/year. The operational emissions dropped from 30,948 to 25,694 kgCO2eq, while embodied emissions increased from 34,916 to 75,208 kgCO2eq. This indicates that the embodied emissions associated with manufacturing the new insulation materials, air barriers, and roofing membranes (i.e., 26,621 kgCO2eq from XPS, 8359 kgCO2eq from mineral wool, 1621 kgCO2eq from air barrier, and 3988 kgCO2eq from the roofing membrane [(Table](#page-4-3) 3) outweighed the reduction in operational emissions (5254 kgCO2eq).
+- 4. **Improving** **building** **airtightness**: The air infiltration rate of 3.9 ACH^(50) (air changes per hour, measured at a pressure differential of 50 Pa) was reduced to 2.0 ACH50. Although this value is not as low as the 0.6 ACH^(50) recommended in Passive House [[57](#page-15-21)]) certifications, we aimed at a more conservative retrofit scenario. The air infiltration requirements outlined, for example, in Quebec's energy transition program Novoclimat [[58]](#page-15-22) recommends a maximum value of 1.5 ACH^(50) for new buildings, while the Ontario Building Code [[59](#page-15-23)] suggests 2.5 ACH^(50) for homes. Similarly, standards like Energy Star [[60]](#page-15-24) specify the maximum air infiltration rate between 2.5 and 3.0 ACH50. In light of these considerations and variations in workmanship, we selected the value of 2.0 ACH^(50) to represent the improved airtightness. The improvement in the building's airtightness resulted in a reduction of annual energy consumption from 125,535 to 104,930 kWh/year and total GHG emissions reduction from 100,902 to 96,685 kgCO2eq due to the reduction of operational energy use emissions. Embodied emissions remained unchanged from the previous stage, as no new materials or equipment were added to this improvement.
+- 5 **Upgrading** **Windows** **and** **adding** **interior** **and** **exterior** **shading**: The previous double (clear) glazing was upgraded to a double low-E coated Argon-filled glazing unit, with a lower solar heat gain coefficient (SHGC) and lower U-values (see [Table](#page-4-1) [2)](#page-4-1). The improvements in local shading were achieved through the substitution of conventional blinds with low-reflectance, high-transmittance shade rolls, which helped reduce lighting use and heating loads. The installation of overhangs above the windows' heads was implemented to avoid overheating during the summer season since the school building does not have a cooling system. This set of improvements led to a substantial decrease in overall energy consumption from 104,930 to 55,875 kWh/year. This reduction is attributed to both a 50 % drop in energy use for space heating (from 66,489 to 33,807 kWh/year), and a reduction in interior lighting usage (from 26,736 to 10,362 kWh/year). However, the total emissions still increased (from 96,685 to 166,416 kgCO2eq) primarily attributed to the embodied emissions associated with the production of new aluminum windows (i.e., 67,148 kgCO2eq, see [Table](#page-6-0) 4) and overhangs (12,623 kgCO2eq, see [Table](#page-4-3) 3). On the other hand, the reduction of operational emissions only offset 10,141 kgCO2eq (from 21,477 to 11,436 kgCO2eq).
+- 6. **Adding** **mechanical** **ventilation** **and** **heat** **recovery** **system**: To meet [[45]](#page-15-9) requirements, a mechanical ventilation system was added, replacing the previous reliance solely on natural ventilation in the old building. The mechanical ventilation system was designed to operate based on a minimum fresh air supply of 7.5 L/s/person as outlined in [Table](#page-4-0) 1. Additionally, a heat recovery system was added, with a heat recovery effectiveness of 0.70. The introduction of the mechanical ventilation system initially led to an increase in total energy use from 55,875 to 104,448 kWh/year. However, with the addition of heat recovery, the energy use decreased substantially from 104,448 to 75,310 kWh/year. The total emissions increased from 166,416 to 183,348 kgCO2eq (without the heat recovery) but decreased with the addition of the heat recovery from 183,348 to 177,393 kgCO2eq.
+</list>
+
+<text page="8" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/7/Text/9">
+As shown in [Table](#page-6-2) 5, the 'baseline (a)' represents the existing school building, which uses natural gas for space heating. The 'baseline (b)' shares the same envelope characteristics, with the exception of the gas heating system being replaced by an electric heating
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/8/Text/2">
+system. These two scenarios were compared with the final design, labeled as 'full retrofit (c)', which incorporates all the retrofit improvements previously mentioned in section [2.2.](#page-3-1) From the baseline (a) to the full retrofit (c), there is a reduction of 113,204 kWh/ year in total energy use, primarily in the energy use for space heating, attributed to the improvements made to the building envelope and installation of electric heating. Meanwhile, the total emissions decreased by 482,100 kgCO2eq, (a 73 % reduction), notably due to the reduction in operational emissions (a 98 % reduction) attributed to the replacement of natural gas with electric heating. As discussed in previous sections, Quebec's electricity grid is based on hydropower, which is a low-carbon source (i.e., 0.01023 kgCO2eq/ kWh), while the use of natural gas for heating has about 20 times higher GHG emission (i.e., 0.218 kgCO2eq/kWh). As a result, the transition from (a) to (c) yields reductions of the operational emissions that outweigh any potential increases in embodied emissions associated with the production of materials and equipment.
+</text>
+
+<text page="9" section="*3.1.* *Results* *for* *Montreal* *(Quebec)*" source="author" id="/page/8/Text/3">
+However, when examining the transition from (b) to (c), where the pre-retrofit design already includes electric heating, the conclusions are significantly different. There is a reduction of 75,850 kWh/year (60 %) in total energy use and operational emission reduction by 50 % associated with building envelope improvements and, while an increase of 111,826 kgCO2eq (by 170 %) is observed. Since the baseline (b) already uses electric heating, the reduction of operational emissions (by 50 %) is unable to offset the embodied emissions from adding new materials and equipment. In this context, the decision to undertake a retrofit may not appear justified solely from a GHG emission perspective. Nevertheless, its viability remains valid considering the potential reduction in electricity demand derived from energy efficiency, as well as the financial savings and improved user comfort. Further improvement could focus on retrofitting building envelope with low-carbon materials.
+</text>
+
+
+<heading page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/SectionHeader/4" level="3">
+### *3.2.* *Results* *for* *Ottawa* *(Ontario)*
+</heading>
+
+<text page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Text/5">
+The results calculated at each step of the retrofit are presented in [Table](#page-6-1) 6 and [Fig.](#page-8-0) 4 for Ottawa. To avoid overlapping information about the intermediate steps (previously discussed for the Montreal scenario), we concentrated our discussions on the final outcomes, comparing the baseline designs (a) and (b) with the full retrofit (c), as presented in [Table](#page-8-1) 7.
+</text>
+
+<text page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Text/6">
+From the baseline (a) to the full retrofit (c), there is a reduction of 137,893 kWh/year in total energy use (a reduction of 60 %), primarily in the energy demand for space heating, attributed to the improvements made to the building envelope and the installation of the electric heating system (see [Table](#page-8-1) 7). Meanwhile, the total emissions decreased by 633,045 kgCO2eq (a reduction of 75 %), no-
+</text>
+
+<figure_group page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/FigureGroup/1259">
+<figure page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Figure/7" image="A3.R48_fig07.jpg">[FIGURE: see A3.R48_fig07.jpg]</figure>
+<caption page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Caption/8">
+**Fig.** **4.** Energy use (red) and carbon emissions (operational (gray) embodied (black)) at each retrofit step (Ottawa). (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+</caption>
+</figure_group>
+
+<table_group page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/TableGroup/1260">
+<caption page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Caption/9">
+**Table** **7** Comparison of results for Ottawa, baseline versus full retrofit.
+</caption>
+<table page="9" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/8/Table/10">
+|  | Baseline (a) | Baseline (b) | Full Retrofit (c) | VARIATION |
+| --- | --- | --- | --- | --- |
+|  | (NAT GAS HEATING) | (ELECTR. HEATING) | (ELECTR. HEATING) | (a) to (c) | (b) to (c) |
+| Total Annual Energy Use (kWh/year) | 228,055 | 180,834 | 90,162 | −137,893 | −90,672 |
+| Space Heating | 188,884 | 141,663 | 45,282 | (-60 %) | (-50 %) |
+| Interior Lighting | 27,248 | 27,248 | 9033 |  |  |
+| Computers/Plugs | 11,923 | 11,923 | 11,706 |  |  |
+| Mech. Ventilation w/heat recovery | 0 | 0 | 24,141 |  |  |
+| Total Emissions (kgCO2eq over 20y) | 845,506 | 135,886 | 212,461 | −633,045 | +76,575 (+56 %) |
+|  |  |  |  | (-75 %) |  |
+| Operational Emissions | 845,506 | 101,267 | 50,491 | −795,015 | −50,776 |
+|  |  |  |  | (-94 %) | (-50 %) |
+| Embodied Emissions | 0 | 34,619 | 161,970 |  |  |
+</table>
+</table_group>
+
+</page>
+<page number="10">
+<text page="10" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/9/Text/2">
+tably due to the reduction in operational energy use emissions (a reduction of 94 %), which are attributed to the replacement of natural gas with electric heating, an electricity GHG intensity of 0.028 kgCO2eq/kWh compared to GHG intensity of natural gas, i.e., 0.218 kgCO2eq/kWh. As a result, the transition from (a) to (c) yields significant reductions, outweighing any potential increases in embodied emissions associated with the production of materials and equipment.
+</text>
+
+<text page="10" section="*3.2.* *Results* *for* *Ottawa* *(Ontario)*" source="author" id="/page/9/Text/3">
+However, when examining the transition from (b) to (c), where we assumed that the baseline already includes electric heating in the pre-retrofit situation, the conclusions are similar to the ones discussed for Montreal. While there is a reduction of 90,672 kWh/ year in total energy use (provided by the envelope improvement by 60 %) and operational emission by 50 %, there is an increase of 76,575 kgCO2eq in total life cycle emissions (by 56 %). The decision to undertake a retrofit may not appear justified solely from a GHG emissions perspective if the existing building already uses electric heating. The energy efficiency improvement achieved through retrofits is similar to Montreal because of the similar weather conditions while the increase in embodied emission is less significant compared to Montreal due to the difference in electricity grid profile. Similarly, the benefits of energy retrofits lie in the reduction of energy use, financial savings, and enhanced occupant thermal comfort, in the meantime, efforts should be made to lowcarbon building envelope retrofit solutions.
+</text>
+
+
+<heading page="10" section="*3.3.* *Results* *for* *Halifax* *(Nova* *Scotia)*" source="author" id="/page/9/SectionHeader/4" level="3">
+### *3.3.* *Results* *for* *Halifax* *(Nova* *Scotia)*
+</heading>
+
+<text page="10" section="*3.3.* *Results* *for* *Halifax* *(Nova* *Scotia)*" source="author" id="/page/9/Text/5">
+As discussed As discussed in section [2.4](#page-4-4), the primary sources of electricity generation in Nova Scotia are fossil fuels (76 %), specifically coal (52 %), natural gas (22 %), and petroleum (2 %). Within this context, Nova Scotia presents a setting where the deployment of natural gas as a substitute for coal could potentially mitigate part of the grid's carbon footprint. This transitional approach could contribute to a reduction in emissions as the province expands its access to renewable sources. The analyses conducted for Montreal and Ottawa involved the use of electric heating in the full retrofit scenario. For the case of Halifax, besides the electric heating retrofit approach, we explore an additional full retrofit configuration that does not entail the replacement of natural gas heating. It's also important to highlight that the higher order of magnitude in GHG emissions for the Nova Scotia scenario required adjusting a new scale for the bar charts presented in this section.
+</text>
+
+
+<heading page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/SectionHeader/6" level="2">
+## *3.3.1.* *Halifax* *with* *electric* *heating*
+</heading>
+
+<text page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Text/7">
+When the Natural Gas Heating was replaced by Electric Heating [(Table](#page-9-0) 8 and [Fig.](#page-10-1) 5), the total energy use was reduced from 185,704 to 149,121 kWh/year. This is solely due to the decrease in space heating energy use, which drops from 146,334 to
+</text>
+
+<table_group page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/TableGroup/1596">
+<caption page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Caption/8">
+**Table** **8** Total energy use and total emissions at each retrofit stage, considering Halifax location, electric heating approach.
+</caption>
+<table page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Table/9">
+|  | Natural Gas | Electric | Envelope | Air | Windows | Mech. | Heat |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Heating → | Heating → | Insulation→ | Infiltration → | & Shading → | Vent. → | Recovery |
+| Total Annual Energy Use [kWh/year] | 185,704 | 149,121 | 123,260 | 101,640 | 50,112 | 98,799 | 70,987 |
+|  |  | (-36,583) | (-25,861) | (-21,620) | (-51,528) | (+48,687) | (-27,812) |
+| Space Heating | 146,334 | 109,751 | 84,592 | 62,972 | 29,833 | 29,833 | 29,833 |
+| Interior Lighting | 27,447 | 27,447 | 26,962 | 26,962 | 8573 | 8573 | 8573 |
+| Computers/Plugs | 11,923 | 11,923 | 11,706 | 11,706 | 11,706 | 11,706 | 11,706 |
+| Mech. Ventilation | 0 | 0 | 0 | 0 | 0 | 48,687 | 20,874 |
+| Total Emissions | 1,173,477 | 2,062,665 | 1,751,539 | 1,457,509 | 836,504 | 1,505,643 | 1,127,387 |
+| [kgCO2e over 20y] |  | (+889,188) | (-311,126) | (-300,030) | (-601,005) | (+669,139) | (-378,256) |
+| Operational Emissions | 1,173,477 | 2,028,046 | 1,676,331 | 1,382,301 | 681,525 | 1,343,673 | 965,417 |
+| Embodied Emissions | 0 | 34,619 | 75,208 | 75,208 | 154,979 | 161,970 | 161,970 |
+</table>
+</table_group>
+
+<text page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Text/10">
+Note: The values displayed between parenthesis, for instance (−36,583), represent the relative variation of results at each calculation step.
+</text>
+
+<table_group page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/TableGroup/1597">
+<caption page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Caption/11">
+**Table** **9** Total energy use and total emissions calculated at each retrofit step with natural gas heating (Halifax).
+</caption>
+<table page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Table/12">
+|  | Natural Gas | Electric | Envelope | Air | Windows & Shading → | Mech. | Heat |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Heating → | Heating→ | Insulation → | Infiltration → |  | Vent. → | Recovery |
+| Total Annual Energy Use [kWh/year] | 185,704 |  | 151,456 | 122,630 | 60,057 | 98,799 | 80,931 |
+|  |  |  | (-34,248) | (-28,826) | (-62,573) | (+38,742) | (-17,868) |
+| Space Heating (gas) | 146,334 |  | 112,789 | 83,963 | 39,778 | 39,778 | 39,778 |
+| Interior Lighting | 27,447 |  | 26,962 | 26,962 | 8573 | 8573 | 8573 |
+| Computers/Plugs | 11,923 |  | 11,706 | 11,706 | 11,706 | 11,706 | 11,706 |
+| Mech. Ventilation | 0 |  | 0 | 0 | 0 | 38,742 | 20,874 |
+| Total Emissions | 1,173,477 |  | 1,058,247 | 932,560 | 569,595 | 1,103,486 | 860,473 (-243,013) |
+| [kgCO2e over 20y] |  |  | (-115,230) | (-125,687) | (-362,965) | (+533,891) |  |
+| Operational Emissions | 1,173,477 |  | 1,017,658 | 891,971 | 449,235 | 976,132 | 733,122 |
+| Embodied Emissions | 0 |  | 40,589 | 40,589 | 120,360 | 127,351 | 127,351 |
+</table>
+</table_group>
+
+<text page="10" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/9/Text/13">
+Note: The values displayed between parenthesis, for instance (−34,248), represent the relative variation of results at each calculation step.
+</text>
+
+</page>
+<page number="11">
+<table_group page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/TableGroup/820">
+<caption page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/Caption/2">
+**Table** **10** Comparison of results for baseline versus full retrofit for Halifax.
+</caption>
+<table page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/Table/3">
+|  | Baseline (a) | Full Retrofit (b) | Full Retrofit (c) | VARIATION |
+| --- | --- | --- | --- | --- |
+|  | (NAT GAS HEATING) | (ELECTR. HEATING). | (NAT GAS HEATING). | (a) to (b) | (a) to (c) |
+| Total Annual Energy Use (kWh/year) | 185,704 | 70,987 | 80,931 | −114,717 | −104,773 |
+| Space Heating | 146,334 | 29,833 | 39,778 | (-62 %) | (-56 %) |
+| Interior Lighting | 27,447 | 8573 | 8573 |  |  |
+| Computers/Plugs | 11,923 | 11,706 | 11,706 |  |  |
+| Mech. Ventilation w/heat recovery | 0 | 20,874 | 20,874 |  |  |
+| Total Emissions (kgCO2eq over 20y) | 1,173,477 | 1,127,387 | 860,473 | −46,090 (-4%) | −313,004 (-27 %) |
+| Operational Emissions | 1,173,477 | 965,417 | 733,122 | −208,060 | −440,355 |
+|  |  |  |  | (-18 %) | (-38 %) |
+| Embodied Emissions | 0 | 161,970 | 127,351 |  |  |
+</table>
+</table_group>
+
+<figure_group page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/FigureGroup/821">
+<figure page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/Figure/4" image="A3.R48_fig08.jpg">[FIGURE: see A3.R48_fig08.jpg]</figure>
+<caption page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/Caption/5">
+**Fig.** **5.** Energy use (red line) and carbon emissions (operational and embodied in gray and black) at each retrofit step (Halifax), using electric heating. (For interpretation of the references to colour in this figure legend, the reader is referred to the Web version of this article.)
+</caption>
+</figure_group>
+
+<text page="11" section="*3.3.1.* *Halifax* *with* *electric* *heating*" source="author" id="/page/10/Text/6">
+109,751 kWh/year as we assumed a thermal efficiency of 0.75 for natural gas heating and a coefficient of performance (COP) of 1 for electric heating. However, the total life cycle emissions increased from 1,173,477 to 2,062,665 kgCO2eq over 20 years. This represents a rise of 889,188 kgCO2eq, a 76 % increase from the baseline, in which 96 % of the increase is due to operational emissions and the remaining 4 % is attributed to embodied emissions in manufacturing electric heating systems. When we switch from natural gas heating to electric heating, the increase in operational emissions is expected because the electricity grid in Nova Scotia produces more GHG emissions itself (i.e., 0.680 kgCO2eq/kWh) than burning natural gas for space heating (i.e., 0.218 kgCO2eq/kWh). The total emissions in the final stage of the retrofit (identified as "Heat Recovery" [(Table](#page-9-0) 8 and [Fig.](#page-10-1) 5) are slightly lower than those for the baseline that utilizes natural gas heating (1,173,477 kgCO2eq versus 1,127,387 kgCO2eq, that is 3.9 % reduction.
+</text>
+
+
+<heading page="11" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/10/SectionHeader/7" level="4">
+#### *3.3.2.* *Halifax* *with* *natural* *gas* *heating*
+</heading>
+
+<text page="11" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/10/Text/8">
+As shown in [Table](#page-9-1) 9 and [Fig.](#page-10-2) 6, in the scenario where the natural gas heating system remains unchanged throughout the retrofit process both operational emissions and embodied emissions present significant reductions at each step of the retrofit. In contrast to
+</text>
+
+<figure_group page="11" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/10/FigureGroup/822">
+<figure page="11" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/10/Figure/9" image="A3.R48_fig09.jpg">[FIGURE: see A3.R48_fig09.jpg]</figure>
+<caption page="11" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/10/Caption/10">
+**Fig.** **6.** Energy use and carbon emissions (embodied and operational) at each retrofit step with natural gas heating for Halifax.
+</caption>
+</figure_group>
+
+</page>
+<page number="12">
+<text page="12" section="*3.3.2.* *Halifax* *with* *natural* *gas* *heating*" source="author" id="/page/11/Text/2">
+the earlier scenario where the electric heating was implemented (see [Fig.](#page-10-1) 5), we can see in [Fig.](#page-10-2) 6 the clear trend in overall reduction in operational emissions associated with improvements made to the building envelope. Meanwhile, the non-inclusion of electric heating equipment, which would incur an embodied emission of 34,619 kgCO2eq as listed in [Table](#page-4-3) 3, resulted in slightly lower levels of embodied emissions.
+</text>
+
+
+<heading page="12" section="*3.3.3.* *Results* *for* *Halifax* *scenarios*" source="author" id="/page/11/SectionHeader/3" level="2">
+## *3.3.3.* *Results* *for* *Halifax* *scenarios*
+</heading>
+
+<text page="12" section="*3.3.3.* *Results* *for* *Halifax* *scenarios*" source="author" id="/page/11/Text/4">
+As shown in [Table](#page-10-0) 10, for the case of Halifax, we compared the existing design (baseline (a), reliant on natural gas heating with two retrofit solutions (full retrofit (b) with the electric heating, and full retrofit (c) with the natural gas heating. From (a) to (b), where the full retrofit included the replacement of natural gas heating with an electric heating system, the total annual energy use was reduced by 114,717 kWh/year, (62 %), resulting in the operational emission reduction by 18 %, while the total life cycle GHG emissions were reduced by 46,090 kgCO2eq over 20 years, 4 %. However, the transition from (a) to (c) yielded even more favorable outcomes. While the reduction in total annual energy consumption was slightly lower (i.e., 104,773 kWh/year v.s. 114,717 kWh/year, 56 %) due to the thermal efficiency of the natural gas heating system versus the COP = 1 considered for electric heating, the operational emission reduction by 38 % and the total GHG emission reduction achieved from (a) to (c) (i.e., 313,004 kgCO2eq) is approximately seven times greater than those from (a) to (b) (i.e., 46,090 kgCO2eq). The primary driver behind this improvement was the reduction of operational emissions, as the use of natural gas for space heating has a lower carbon footprint than relying on gridpurchased electricity in Nova Scotia. Furthermore, the shift from (a) to (c) also resulted in reduced embodied emissions, as the electric heating equipment was not added to the design.
+</text>
+
+<text page="12" section="*3.3.3.* *Results* *for* *Halifax* *scenarios*" source="author" id="/page/11/Text/5">
+In summary, the results show that all retrofit scenarios for Halifax (Nova Scotia) offered benefits in both reducing total annual energy consumption and overall life cycle GHG emissions with the natural gas heating scenario yielding lower environmental impact. These findings indicate that the decision to undertake this retrofit in Nova Scotia can be justified from both energy and GHG emissions perspectives.
+</text>
+
+
+<heading page="12" section="*3.4.* *Summary* *of* *results* *from* *Montreal,* *Ottawa* *and* *Halifax*" source="author" id="/page/11/SectionHeader/6" level="1">
+# *3.4.* *Summary* *of* *results* *from* *Montreal,* *Ottawa* *and* *Halifax*
+</heading>
+
+<text page="12" section="*3.4.* *Summary* *of* *results* *from* *Montreal,* *Ottawa* *and* *Halifax*" source="author" id="/page/11/Text/7">
+[Fig.](#page-11-1) 7 shows the comparison in energy use and total life cycle emission for these three locations. Due to the significant difference in energy use between Halifax and the other two locations, only energy use for Halifax is plotted (solid red line in [Fig.](#page-11-1) 7), but the trends among these three cities are similar. As shown in [Fig.](#page-11-1) 7, the retrofit steps reduce the energy use by switching to electric heating and improving the building envelope, and the addition of mechanical ventilation increases the energy use but reduces with the addition of heat recovery ventilation. The dash lines show the total emission and for Halifax both electric heating and natural gas heating scenarios are plotted. As discussed in previous sections, the trends for Montreal and Ottawa are similar, the switching from natural gas to electric heating, dramatically reduced the total life cycle emission while further retrofits increased the total life cycle emission due to the embodied emission. For Nova Scotia, the total emission is much higher than in Montreal and Ottawa due to the electricity grid profile. The building envelope retrofits reduce both energy use and total life cycle emissions. The use of a natural gas heating system is more favorable than electric heating.
+</text>
+
+
+<heading page="12" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/11/SectionHeader/8" level="4">
+#### *3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*
+</heading>
+
+<text page="12" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/11/Text/9">
+We evaluated an additional scenario involving the use of heat pumps (COP = 2) instead of electric heating (COP = 1) as well as a longer life cycle (of 60 years) as considered in different LCA studies and standards. As shown in [Table](#page-12-0) 11 the only region where this scenario could potentially change our conclusions is Nova Scotia, due to its high GHG intensity in electricity generation. The conclusions remain similar to the scenario with a 20-year life cycle and electric heating with COP = 1: When switching from natural gas heating to electric heating the total emissions in Montreal are reduced by 1,620,800 kgCO2eq over 60 years (from 1,978,479 to 357,679 kgCO2eq, 82 %). In Ottawa (Ontario) the reduction is 2,101,292 kgCO2eq over 60 years (from 2,536,517 to 435,225
+</text>
+
+<figure_group page="12" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/11/FigureGroup/1583">
+<figure page="12" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/11/Figure/10" image="A3.R48_fig10.jpg">[FIGURE: see A3.R48_fig10.jpg]</figure>
+<caption page="12" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/11/Caption/11">
+**Fig.** **7.** Comparison of results for all three cities, total emissions, and annual energy use.
+</caption>
+</figure_group>
+
+</page>
+<page number="13">
+<table_group page="13" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/12/TableGroup/1844">
+<caption page="13" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/12/Caption/2">
+**Table** **11** Summary of results considering the alternative scenario of 60 years calculation period and Heat pumps (COP = 2).
+</caption>
+<table page="13" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/12/Table/3">
+|  | BASELINE |  | BASELINE a | FULL RETROFIT b |
+| --- | --- | --- | --- | --- |
+|  | (NAT GAS HEATING) |  |  | (HEAT PUMP) |  |  |  |  |
+|  | Montreal | Ottawa | Halifax | Montreal | Ottawa | Halifax | Montreal | Ottawa | Halifax (HEAT | cHalifax(GASHEATING) |
+|  |  |  |  |  |  |  | HEATPUMP | HEATPUMP | PUMP) |
+| Total Energy Use(kWh/year) | 188,555 | 228,055 | 185,704 | 95,170 | 110,002 | 94,246 | 58,447 | 67,521 | 70,987 | 80,931 |
+| Space Heating | 149,416 | 188,884 | 146,334 | 56,031 | 70,832 | 54,876 | 16,903 | 22,641 | 14,917 | 39,778 |
+| Interior Lighting | 27,216 | 27,248 | 27,447 | 27,216 | 27,248 | 27,447 | 10,362 | 9033 | 8573 | 8573 |
+| Computers/Plugs | 11,923 | 11,923 | 11,923 | 11,923 | 11,923 | 11,923 | 11,706 | 11,706 | 11,706 | 11,706 |
+| Mech. Ventilation | 0.0 | 0 | 0 | 0 | 0 | 0 | 19,476 | 24,141 | 35,791 | 20,874 |
+| Total Emissions (kgCO2eover 20y) | 1,978,479 | 2,536,517 | 3,520,432 | 162,787 | 289,153 | 3,949,570 | 357,679 | 435,225 | 3,218,042 | 2,416,806 |
+| Operational Emissions | 1,978,479 | 2,536,517 | 3,520,432 | 58,438 | 184,804 | 3,845,221 | 35,889 | 113,435 | 2,896,252 | 2,199,365 |
+| Embodied Emissions | 0 | 0 | 0 | 104,349 | 110,002 | 104,349 | 321,790 | 321,790 | 321,790 | 217,441 |
+</table>
+<footnote page="13" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/12/Footnote/4">
+^(a) Same design asthe original baseline, only switching to Heat pump system. Also,the energy consumption isthe same asthe gasscenario,since the simulation is working on heat demand.
+</footnote>
+</table_group>
+
+<text page="13" section="*3.5.* *Additional* *scenario* *with* *heat* *pumps* *(COP* *=* *2)* *and* *60* *years* *calculation* *period*" source="author" id="/page/12/Text/7">
+kgCO2eq, 83 %), which is a slightly higher reduction than 20-year life cycle period with COP of 1.0. When the existing system has heat pump heating, the retrofits increased the total life cycle GHG emission by +120 % for Montreal and 51 % for Ottawa, which is slightly lower than the 20-year life cycle period with COP of 1.0. In Nova Scotia, adopting the heat pump approach in replacement of natural gas heating system leads to an increase of life cycle total emission by 12 %, which is significantly lower than the 20-year life cycle period with COP of 1.0 (i.e. 96 %), and a slight reduction in total emissions (from 3,520,432 to 3,218,042 kgCO2eq, 8.6 %), for the full retrofit, however, it is still more advantageous to maintain natural gas heating for this location with the current electricitygrid profile since in this case, the total emissions would reduce from 3,520,432 to 2,416,806 kgCO2eq, 31.3 %), which is slightly higher reduction than the 20-year life cycle period with COP of 1.0 electric heating system.
+</text>
+
+
+<heading page="13" section="**4.** **Conclusions**" source="author" id="/page/12/SectionHeader/8" level="1">
+# **4.** **Conclusions**
+</heading>
+
+<text page="13" section="**4.** **Conclusions**" source="author" id="/page/12/Text/9">
+This paper presented the case study of a school building retrofit and used energy simulations and life cycle assessment tools to evaluate whether the reduction of operational emissions resulting from retrofit solutions can outweigh the embodied emissions tied to the new building envelopes and HVAC equipment. The analysis was carried out at three locations, i.e., Montreal, Ottawa, and Halifax, having similar climatic conditions but different electricity-grid profiles. The key findings include:
+</text>
+
+<list page="13" section="**4.** **Conclusions**" source="author" id="/page/12/ListGroup/1845">
+- **Impact** **of** **grid** **electricity** **source:** Building energy retrofit outcomes vary significantly depending on the electricity grid profile of the location. In regions where grid electricity relies heavily on fossil fuels (e.g., Nova Scotia), energy retrofits can effectively reduce both energy consumption and life cycle greenhouse gas (GHG) emissions. Conversely, in areas with a non-fossil fuel-based electricity supply (e.g., Quebec and Ontario), the embodied emissions from new materials and equipment may outweigh the operational emissions savings due to the energy efficiency improvement, particularly if the buildings already use electric heating.
+- **Potential** **of** **energy** **retrofits** **in** **GHG** **emission** **reduction:** While retrofits promote energy efficiency and reduce operational energy use and operational carbon emissions, the level of benefits achieved for their implementation from a carbon emissions perspective varies with the local energy mix. o In Montreal and Ottawa, retrofitting to electric heating and improving envelopes could cut operational emissions by up to 98 % and the total life cycle GHG emissions by up to 75 %. The shift from natural gas heating was the primary driver for the life cycle emissions reduction. However, if buildings already use electric heating, the reduction in operational emissions is unable to outweigh the embodied emissions associated with adding new materials and HVAC systems incorporated through the retrofits. The total life cycle emissions increased by +170 % for Montreal and by +56 % for Ottawa, respectively, for the electric-heated building.
+</list>
+
+<text page="13" section="**4.** **Conclusions**" source="author" id="/page/12/Text/13">
+oFor Halifax, where the grid-purchased electricity is generated primarily from fossil fuels, retrofitting to electric heating and improving envelopes can only reduce the total emissions by 4 % compared to 75 % in Montreal and Ottawa. This is due to the much less reduction in operational emissions by switching space heating from natural gas to electricity, only achieved 18 % compared to 94 % for Ottawa and 98 % for Montreal. The total life cycle GHG emissions can be reduced by 27 % when retaining the natural gas system for space heating due to an increased reduction in operational emission to 38 %. The results indicate that for places with electricity grid heavily from fossil fuel sources, energy efficiency retrofits are beneficial but switching building operations to all-electric may not be from a carbon perspective until the grid becomes cleaner.
+</text>
+
+<text page="13" section="**4.** **Conclusions**" source="author" id="/page/12/Text/14">
+oThe general conclusion is consistent with existing literature: the contribution of building energy retrofits to reducing the life cycle carbon emission is reduced when the embodied carbon associated with adding materials and equipment is accounted for,
+</text>
+
+<footnote page="13" section="**4.** **Conclusions**" source="author" id="/page/12/Footnote/5">
+^(b) Full retrofit design including improved envelope and windows, overhangs, mechanical ventilation, and heat recovery.
+</footnote>
+
+<footnote page="13" section="**4.** **Conclusions**" source="author" id="/page/12/Footnote/6">
+^(c) Full retrofit design including all the improvements aforementioned but keeping the natural gas heating system instead of switching to heat pump.
+</footnote>
+
+</page>
+<page number="14">
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/2">
+from 98 % in operational carbon emission to 75 % in total life cycle carbon emission, similar to the study by Asdrubali and Grazieschi [[25](#page-14-21)], which concluded that the total carbon emission reduction was 48 % compared to a 89 % reduction in operational emission. The life cycle carbon benefits of building energy retrofits depend on the energy mix, similar to what has been concluded by Ramon et al. [[31](#page-14-27)], however, their study focused on operational emission only.
+</text>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/3">
+• **Carbon** **Neutral** **Policies**: The study highlights the need for comprehensive carbon-neutral policies that consider both the building stock and the electricity grid's makeup. This approach is essential to maximize the spatial impact and effectiveness of decarbonization efforts.
+</text>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/4">
+oThe development of energy-efficient buildings is valid in any context. In this specific scenario of Quebec and Ontario, the decision to undertake a retrofit cannot be justified solely from a carbon perspective. With the increase in electricity demand due to the transition to electric vehicles, electrification of society, and global population increase, which may pressure the reintroduction of non-renewable sources to meet the increased demand for electricity, improving energy efficiency to reduce energy consumption is important.
+</text>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/5">
+oThese analyses provide insights highlighting the importance of a complete whole building life cycle GHG emission analysis including the local electricity grid profile for policymaking and performing LCA-based optimization considering both embodied and operational emissions in the design and operation of buildings. When the operational energy and emissions are significantly reduced due to a cleaner electricity grid and higher energy efficiency, reducing the embodied emission in developing retrofit strategies to achieve carbon-neutral buildings becomes important. Efforts should be made to low-carbon building materials and low-carbon building envelope retrofit solutions.
+</text>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/6">
+Although the conclusions are only based on this specific design, with limited information about the LCA database for local materials or future scenarios of electricity generation, this paper shows that the Carbon Neutral policies applied to a large territory, province, or country should be developed by considering the whole system composed of buildings and electricity grid. Otherwise, the success of a few Carbon carbon-neutral buildings will have a limited spatial impact, probably at additional costs, but will not contribute to the larger scope of complete decarbonization.
+</text>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/7">
+Limitations of the current study include:
+</text>
+
+<list page="14" section="**4.** **Conclusions**" source="author" id="/page/13/ListGroup/1659">
+- **Limited** **LCA** **data** **for** **local** **materials** **and** **equipment** to accurately represent the existing design specifications. For instance, there are few options for heating equipment and fenestration systems. While the impact on final results may be minimal, different brands and products have varying values of embodied emissions. The ones selected for this case study were the closest industry-available options to represent the existing design.
+- **Static** **energy** **consumption** **analysis** **and** **electricity** **grid** **profiles:** The energy consumption analysis was carried out over the typical metrological year and kept constant over the 20-year period. The LCA analysis assumes constant GHG intensity for electricity grids over 20 years, not accounting for potential changes in grid compositions due to technological advances or policy changes.
+- **Generalizability** **of** **findings:** Results are based on specific case scenarios and designs, which may not be universally applicable across different regions or building types.
+</list>
+
+<text page="14" section="**4.** **Conclusions**" source="author" id="/page/13/Text/11">
+To determine the optimal retrofit strategies based on local energy mixes, the framework presented in this study can be expanded in future studies:
+</text>
+
+<list page="14" section="**4.** **Conclusions**" source="author" id="/page/13/ListGroup/1660">
+- **Expansion** **of** **study** **regions** **and** **future** **energy** **scenarios:** Future studies should include a broader range of geographic locations and consider varying future electricity grid profiles by incorporating projections about emerging technologies and their impact on electricity demand and grid compositions to enhance the applicability and relevance of findings. The energy consumption over time considering the future climates should be also included.
+- **Integrating** **lifecycle** **cost** **analysis:** Life cycle cost analysis will be included to evaluate the economic benefits of retrofit strategies alongside the environmental impacts. Our future objectives include pursuing the development of a guideline for building design that takes into account the electricity grid profile, total life cycle carbon emissions, and the levelized cost of energy (LCOE) with respect to various geographic locations.
+- **Development** **of** **low-carbon** **building** **envelope** **solutions:** There is a need for focused research on low-carbon building materials and building envelope retrofit solutions to further reduce embodied emissions in the pursuit of achieving carbonneutral buildings.
+</list>
+
+
+<heading page="14" section="**CRediT** **authorship** **contribution** **statement**" source="author" id="/page/13/SectionHeader/15" level="1">
+# **CRediT** **authorship** **contribution** **statement**
+</heading>
+
+<text page="14" section="**CRediT** **authorship** **contribution** **statement**" source="author" id="/page/13/Text/16">
+**Felipe** **Grossi:** Writing – original draft, Validation, Methodology, Investigation, Formal analysis. **Hua** **Ge:** Writing – review &amp; editing, Writing – original draft, Supervision, Methodology, Funding acquisition, Conceptualization. **Radu** **Zmeureanu:** Writing – review &amp; editing, Supervision, Methodology, Funding acquisition, Conceptualization. **Fuad** **Baba:** Writing – review &amp; editing, Methodology.
+</text>
+
+
+<heading page="14" section="**Declaration** **of** **competing** **interest**" source="author" id="/page/13/SectionHeader/17" level="1">
+# **Declaration** **of** **competing** **interest**
+</heading>
+
+<text page="14" section="**Declaration** **of** **competing** **interest**" source="author" id="/page/13/Text/18">
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+</text>
+
+</page>
+<page number="15">
+
+<heading page="15" section="**Data** **availability**" source="author" id="/page/14/SectionHeader/2" level="1">
+# **Data** **availability**
+</heading>
+
+<text page="15" section="**Data** **availability**" source="author" id="/page/14/Text/3">
+Data will be made available on request.
+</text>
+
+
+<heading page="15" section="**Acknowledgments**" source="author" id="/page/14/SectionHeader/4" level="2">
+## **Acknowledgments**
+</heading>
+
+<text page="15" section="**Acknowledgments**" source="author" id="/page/14/Text/5">
+The authors acknowledge the financial support from the Natural Sciences and Engineering Research Council (NSERC) Discovery Grants (Grant no. RGPIN/2019-6994 and RGPIN/2021–04030), and the Gina Cody School of Engineering and Computer Science of Concordia University.
+</text>
+
+
+<heading page="15" section="**References**" source="author" id="/page/14/SectionHeader/6" level="3">
+### **References**
+</heading>
+
+<list page="15" section="**References**" source="author" id="/page/14/ListGroup/2185">
+- [1] N.R. Canada, Green Building Principles, 2023 [Online]. Available: [https://natural-resources.canada.ca/energy-efficiency/green-buildings/green-building](https://natural-resources.canada.ca/energy-efficiency/green-buildings/green-building-principles/25301)[principles/25301.](https://natural-resources.canada.ca/energy-efficiency/green-buildings/green-building-principles/25301) (Accessed 2 April 2024).
+- [2] H. [Karunathilake,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref2) K. Hewage, R. Sadiq, Opportunities and challenges in energy demand reduction for Canadian residential sector: a review, Renew. Sustain. [Energy](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref2) Rev. 82 (2018) 2005–2016.
+- [3] United Nations Environment Programme (UNEP), Global status report for buildings and construction: towards a zero-emission, efficient and resilient buildings and construction sector, Available online: [https://globalabc.org/sites/default/files/2021-10/GABC_Buildings-GSR-2021_BOOK.pdf,](https://globalabc.org/sites/default/files/2021-10/GABC_Buildings-GSR-2021_BOOK.pdf) 2021. (Accessed 2 April 2024).
+- [4] World Green Building Council (WorldGBC), Bringing embodied carbon upfront: coordinated action for the building and construction sector to tackle embodied carbon, Available. [https://www.worldgbc.org/sites/default/files/WorldGBC_Bringing_Embodied_Carbon_Upfront.pdf](https://www.worldgbc.org/sites/default/files/WorldGBC_Bringing_Embodied_Carbon_Upfront.pdf)[,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref5) 2019. (Accessed 2 April 2024).
+- [5] R.M. Cuéllar-Franca, A. Azapagic, Environmental impacts of the UK residential sector: life cycle assessment of houses, Build. Environ. 54 (2012) 86–99.
+- [6] F. Asdrubali, C. Baldassarri, V. Fthenakis, Life cycle analysis in the construction sector: guiding the optimization of [conventional](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref6) Italian buildings, Energy Build. 64 [(2013)](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref6) 73–89.
+- [7] P. Chastas, T. Theodosiou, D. Bikas, Embodied energy in residential [buildings-towards](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref7) the nearly zero energy building: a literature review, Build. Environ. 105 [(2016)](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref7) 267–282.
+- [8] US-EPA, United States environmental protection agency, Summary Energy Independ Secur Act: Publ. Law (2007) 110–140 2007. Available online: [https://](https://www.epa.gov/laws-regulations/summary-energy-independence-and-security-act) [www.epa.gov/laws-regulations/summary-energy-independence-and-security-act.](https://www.epa.gov/laws-regulations/summary-energy-independence-and-security-act) (Accessed 20 August 2022).
+- [9] EU, European union European parliament, directive 2010/31/EU of the European parliament and of the Council of 19 may 2010 on the energy performance of [buildings,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref9) Off. J. Eur. Union 2010 (2010) 13–35.
+- [10] G. Lloyd, BC energy step Code local government needs assessment.", Available: [https://energystepcode.ca/how-it-works/](https://energystepcode.ca/how-it-works/), 2019. (Accessed 2 April 2024).
+- [11] P.S. and P.C. Government of Canada, Progress Report for the Federal Sustainable Development Strategy/Sustainable Development Office, Environment Canada, E–1-46E-PDF – Government of Canada Publications - Canada.ca, 2023 Available: [https://publications.gc.ca/site/eng/9.864480/publication.html](https://publications.gc.ca/site/eng/9.864480/publication.html). (Accessed 24 May 2023).
+- [12] N.R. Canada, Energy fact book 2020-2021, [https://natural-resources.canada.ca/sites/nrcan/files/energy/energy_fact/energy-factbook-2020-2021-English.pdf](https://natural-resources.canada.ca/sites/nrcan/files/energy/energy_fact/energy-factbook-2020-2021-English.pdf), 2022.
+- [13] United States Environmental Protection Agency (US-EPA), Climate change indicators: weather and climate, Available online: [https://www.epa.gov/climate](https://www.epa.gov/climate-indicators/weather-climate)[indicators/weather-climate,](https://www.epa.gov/climate-indicators/weather-climate) 2021. (Accessed 15 August 2022).
+- [14] T. Ramesh, R. Prakash, K.K. Shukla, Life cycle energy analysis of [buildings:](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref14) an overview, Energy Build. 42 (10) (2010) 1592–1600.
+- [15] L. [Gustavsson,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref15) A. Joelsson, Life cycle primary energy analysis of residential buildings, Energy Build. 42 (2) (2010) 210–220.
+- [16] M. Paleari, M. Lavagna, A. Campioli, The assessment of the relevance of building components and life phases for the [environmental](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref16) profile of nearly zero-energy buildings: life cycle assessment of a [multifamily](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref16) building in Italy, Int. J. Life Cycle Assess. 21 (2016) 1667–1690.
+- [17] A. Dodoo, L. Gustavsson, R. Sathre, Lifecycle carbon implications of [conventional](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref17) and low-energy multi-storey timber building systems, Energy Build. 82 (2014) 194–[210.](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref17)
+- [18] T. Lützkendorf, G. Foliente, M. Balouktsi, A.H. Wiberg, Net-zero buildings: incorporating embodied impacts, Build. Res. Inf. 43 (2015) 62–81 [https://doi.org/](https://doi.org/10.1080/09613218.2014.935575) [10.1080/09613218.2014.935575,](https://doi.org/10.1080/09613218.2014.935575) 2015.
+- [19] J. Grinham, H. Fjeldheim, B. Yan, T.D. Helge, K. Edwards, T. Hegli, A. Malkawi, Zero-carbon balance: the case of HouseZero, Build. Environ. 207 (2022), 108511 [https://doi.org/10.1016/j.buildenv.2021.108511,](https://doi.org/10.1016/j.buildenv.2021.108511) Part B, 2022.
+- [20] R. Giordano, V. Serra, E. Tortalla, V. Valentini, C. Aghemo, Embodied energy and [operational](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref20) energy assessment in the framework of nearly zero energy building and [building](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref20) energy rating, Energy Proc. 78 (2015) 3204–3209.
+- [21] CaGBC, Canada Green Building Council. Zero Carbon Building—Design [Standard](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref21) Version 3; 2022, Canada Green Building Council, Ottawa, ON, Canada, 2022 [978-1-7781454-1-4.](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref21)
+- [22] WGBC, World green building Council, Adv. Net Zero Whole Life Carbon (2021) Available online: [https://worldgbc.org/advancing-net-zero/advancing-net-zero](https://worldgbc.org/advancing-net-zero/advancing-net-zero-whole-life-carbon/)[whole-life-carbon/.](https://worldgbc.org/advancing-net-zero/advancing-net-zero-whole-life-carbon/) (Accessed 20 August 2022).
+- [23] F. Greer, P. Raftery, G. Brager, A. Horvath, A perspective on tools for assessing the building sector's [greenhouse](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref23) gas emissions and beyond, Environ. Res.: [Infrastruct.](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref23) Sustain. 3 (4) (2023) 043001.
+- [24] M. Brooks, M. Abdellatif, R. Alkhaddar, [Application](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref24) of life cycle carbon assessment for a sustainable building design: a case study in the UK, Int. J. Green Energy 18 (4) [(2021)](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref24) 351–362.
+- [25] F. Asdrubali, G. Grazieschi, Life cycle assessment of [energy-efficient](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref25) buildings, Energy Rep. 6 (2020) 270–285.
+- [26] W.O. Collinge, A.E. Landis, A.K. Jones, L.A. Schaefer, M.M. Bilec, Dynamic life cycle assessment: framework and application to an institutional building, Int. J. Life Cycle Assess. 18 (2013) 538–552 [https://doi.org/10.1007/s11367-012-0528-2,](https://doi.org/10.1007/s11367-012-0528-2) 2013.
+- [27] W.O. Collinge, H.J. [Rickenbacker,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref27) A.E. Landis, C.L. Thiel, M.M. Bilec, Dynamic life cycle assessments of a conventional green building and a net zero energy building: exploration of static, dynamic, attributional, and [consequential](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref27) electricity grid models, Environ. Sci. Technol. 52 (19) (2018) 11429–11438.
+- [28] A.A.W. Karl, E. Maslesa, M. Birkved, Environmental performance assessment of the use stage of buildings using dynamic [high-resolution](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref28) energy consumption and data on grid [composition,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref28) Build. Environ. 147 (2019) 97–107.
+- [29] C. Roux, P. Schalbart, B. Peuportier, [Development](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref29) of an electricity system model allowing dynamic and marginal approaches in LCA—tested in the French context of space heating in [buildings,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref29) Int. J. Life Cycle Assess. 22 (2017) 1177–1190.
+- [30] B. Goldstein, J.P. Newell, How to track [corporations](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref30) across space and time, Ecol. Econ. 169 (2020) 106492.
+- [31] D. Ramon, K. Allacker, D. Trigaux, H. Wouters, N.P. van Lipzig, Dynamic modeling of [operational](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref31) energy use in a building LCA: a case study of a Belgian office [building,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref31) Energy Build. 278 (2023) 112634.
+- [32] Humber College, Building NX, "zero carbon building design certification report", Available online: [https://portal.cagbc.org/cagbcdocs/zerocarbon/CaGBC_](https://portal.cagbc.org/cagbcdocs/zerocarbon/CaGBC_Humber_College_Case_Study_EN.pdf) [Humber_College_Case_Study_EN.pdf,](https://portal.cagbc.org/cagbcdocs/zerocarbon/CaGBC_Humber_College_Case_Study_EN.pdf) 2019. (Accessed 20 September 2022).
+- [33] M. Dabaieh, Design and build with straw, earth and reeds for a minus carbon and plus energy building practice; IOP conf. Seri: earth and, Environ. Sci. 2019 (2019), 012063 [https://doi.org/10.1088/1755-1315/352/1/012063](https://doi.org/10.1088/1755-1315/352/1/012063), 352.
+- [34] M. Dabaieh, N. Emami, J.T. Heinonen, B. Marteinsson, A life cycle assessment of a minus carbon refugee house: global warming potential and sensitivity analysis", Int. J. Architect. Res. 14 (2020) 559–579 [https://doi.org/10.1108/ARCH-11-2019-0258](https://doi.org/10.1108/ARCH-11-2019-0258), 2020, N. 3.
+- [35] R. Bhavsar, A. Cupido, M. Arriaga, Mohawk College's net zero energy and zero carbon building: a living lab for high efficiency and renewable energy technologies in buildings, J. Green Build. 15 (2020) 185–214 [https://doi.org/10.3992/1943-4618.15.1.185](https://doi.org/10.3992/1943-4618.15.1.185), 2020.
+</list>
+
+</page>
+<page number="16">
+<list page="16" section="**References**" source="author" id="/page/15/ListGroup/1298">
+- [36] Evolv, Office building from the cora group real estate, ZCB-Design Certification in April 2018/ZCB-Performance Certification in April 2020; LEED Platinum: (2018), 2018 Waterloo, ON, Canada; Available online: [https://portal.cagbc.org/cagbcdocs/zerocarbon/CaGBC_evolv1_Case_Study_EN.pdf](https://portal.cagbc.org/cagbcdocs/zerocarbon/CaGBC_evolv1_Case_Study_EN.pdf). (Accessed 19 September 2022).
+- [37] H.Y. Liu, Building a dwelling that remains [carbon-neutral](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref36) over its lifetime–A case study in Kinmen, J. Clean. Prod. 208 (2019) 522–529.
+- [38] DesignBuilder Software Ltd, 2022, Version v7.0.2.006. [https://designbuilder.co.uk/download/uk-energy-assessors](https://designbuilder.co.uk/download/uk-energy-assessors).
+- [39] OneClick LCA, Helsinki: OneClick LCA ltd, Available online: [https://www.oneclicklca.com/construction/life-cycle-assessment-software/,](https://www.oneclicklca.com/construction/life-cycle-assessment-software/) 2023. (Accessed 20 March 2023).
+- [40] Pre-Consultants, SimaPro (v.9.6), PRé Sustainability. Amersfoort, 2022 The Netherlands: Available online: [https://simapro.com.](https://simapro.com/)
+- [41] Sphera Solutions, GaBi Software, 2024 Chicago, United States. [https://sphera.com/life-cycle-assessment-lca-software/.](https://sphera.com/life-cycle-assessment-lca-software/)
+- [42] Athena Software, Athena Impact Estimator for Buildings (v.5.5), Athena Sustainable Materials Institute, Ottawa, Canada, 2023 Available online: [https://](https://calculatelca.com/software/impact-estimator/download-impact-estimator/) [calculatelca.com/software/impact-estimator/download-impact-estimator/](https://calculatelca.com/software/impact-estimator/download-impact-estimator/).
+- [43] F. Grossi, H. Ge, R. Zmeureanu, F. Baba, Feasibility of planting trees around buildings as a nature-based solution of carbon sequestration—an LCA approach using two case studies, Buildings 13 (2023) 41 [https://doi.org/10.3390/buildings13010041](https://doi.org/10.3390/buildings13010041), 2023.
+- [44] F.M. Baba, H. Ge, R. Zmeureanu, L.L. Wang, Calibration of building model based on indoor [temperature](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref39) for overheating assessment using genetic algorithm: [Methodology,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref39) evaluation criteria, and case study, Build. Environ. 207 (2022) 108518.
+- [45] NECB, National Energy Code of Canada for Buildings, National Research Council, 2020 Issued by Canadian [Commission](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref40) on Building and Fire Codes National [Research](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref40) Council of Canada.
+- [46] F.M. Baba, H. Ge, L.L. Wang, R. [Zmeureanu,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref41) Assessing and mitigating overheating risk in existing Canadian school buildings under extreme current and future [climates,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref41) Energy Build. 279 (2023) 112710.
+- [47] ISO 21930, Sustainability in Buildings and Civil Engineering Works—Core Rules for [Environmental](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref42) Product Declarations of Construction Products and Services, ISO, Geneva, [Switzerland,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref42) 2017 2017.
+- [48] Canada's Energy Regulator (CER), Provincial and territorial energy profiles—Canada, Available online: [https://www.cer-rec.gc.ca/en/data-analysis/energy](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html)[markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html,](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-canada.html) 2020. (Accessed 10 July 2023).
+- [49] Canada's Energy Regulator (CER), Canada's energy future 2021: provincial and territorial energy profiles—Quebec, Available online: [https://www.cer](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-quebec.html)[rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-quebec.html,](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-quebec.html) 2021. (Accessed 22 September 2022).
+- [50] E. Moreno Ruiz, L. Valsasina, D. Fitzgerald, F. Brunner, C. Vadenbo, C. Bauer, G. Bourgault, A. Symeonidis, G. Wernet, [Documentation](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref45) of Changes Implemented in the Ecoinvent Database v3.4, ecoinvent, Zürich, [Switzerland,](http://refhub.elsevier.com/S2352-7102(24)01190-2/sref45) 2017.
+- [51] Canada's Energy Regulator (CER), Canada's energy future 2021: Provincial and territorial energy profiles—ontario, Available online: [https://www.cer](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-ontario.html)[rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-ontario.html](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-ontario.html), 2021. (Accessed 22 September 2022).
+- [52] Athena Impact Estimator for Buildings, User Manual and Transparency Document—Impact Estimator for Buildings V, vol. 5, 2019 IE4B v.5.4.0101; Athena Sustainable Materials Institute: Ottawa, ON, Canada, 2019. Available online: [https://calculatelca.com/wp-content/uploads/2019/05/IE4B_v5.4_User_Guide_](https://calculatelca.com/wp-content/uploads/2019/05/IE4B_v5.4_User_Guide_May_2019.pdf) [May_2019.pdf.](https://calculatelca.com/wp-content/uploads/2019/05/IE4B_v5.4_User_Guide_May_2019.pdf) (Accessed 5 August 2022).
+- [53] Canada's Energy Regulator. (CER), Canada's Energy Future 2021: Provincial and Territorial Energy Profiles—Nova Scotia, 2021-c Available online: [https://](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-nova-scotia.html) [www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-nova-scotia.html](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/provincial-territorial-energy-profiles/provincial-territorial-energy-profiles-nova-scotia.html). (Accessed 22 September 2022).
+- [54] Energy Information Administration EIA, How much CO^(2) is produced per kilowatt-hour of U.S. electricity generation? [https://www.eia.gov/tools/faqs/faq.php?](https://www.eia.gov/tools/faqs/faq.php?id=74&amp;t=11#:%7E:text=In%202021%2C%20total%20annual%20U.S.,billion%20short%20tons%96of%20carbon) id=74&amp;t=11#:∼[:text=In%202021%2C%20total%20annual%20U.S.,billion%20short%20tons](https://www.eia.gov/tools/faqs/faq.php?id=74&amp;t=11#:%7E:text=In%202021%2C%20total%20annual%20U.S.,billion%20short%20tons%96of%20carbon)—of%20carbon, 2021. (Accessed 28 July 2023).
+- [55] NIR, National inventory report 1990-2021. Greenhouse gas sources and sinks in Canada, Part 2, table A6.1-1, "CO2Emission factors for marketable natural gas", based on: [https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/](https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html) [federal-greenhouse-gas-offset-system/emission-factors-reference-values.html](https://www.canada.ca/en/environment-climate-change/services/climate-change/pricing-pollution-how-it-will-work/output-based-pricing-system/federal-greenhouse-gas-offset-system/emission-factors-reference-values.html), 2021. (Accessed 22 July 2023).
+- [56] Natural Resources Canada. Natural NRCan, Gas: A Primer, Energy Sources and Distribution: Approximate Natural Gas Conversions, 2015 Available online: [https://www.nrcan.gc.ca/energy/energy-sources-distribution/natural-gas/natural-gas-primer/5641#conversion](https://www.nrcan.gc.ca/energy/energy-sources-distribution/natural-gas/natural-gas-primer/5641#conversion). (Accessed 20 September 2022).
+- [57] Passive House, International passive house association. The international network for passive house knowledge, [https://passivehouse.com,](https://passivehouse.com/) 2023.
+- [58] Gouvernement du Québec, Novoclimat big-multiple unit buildings, Available online: [https://transitionenergetique.gouv.qc.ca/en/residential/programs/](https://transitionenergetique.gouv.qc.ca/en/residential/programs/novoclimat/novoclimat-big-multiple-unit-buildings) [novoclimat/novoclimat-big-multiple-unit-buildings](https://transitionenergetique.gouv.qc.ca/en/residential/programs/novoclimat/novoclimat-big-multiple-unit-buildings), 2021. (Accessed 12 July 2023).
+- [59] Ontario Building Code, 2017 Available Online: [https://www.buildingcode.online](https://www.buildingcode.online/). (Accessed 20 June 2023).
+- [60] Energy Star, Natural resources Canada, Energy Star for New Homes Standard  Version 12.6. Available online: [https://natural-resources.canada.ca/energy](https://natural-resources.canada.ca/energy-efficiency/energy-star-canada/about-energy-star-canada/energy-star-announcements/energy-starr-new-homes-standard-version-126/14178)[efficiency/energy-star-canada/about-energy-star-canada/energy-star-announcements/energy-starr-new-homes-standard-version-126/14178,](https://natural-resources.canada.ca/energy-efficiency/energy-star-canada/about-energy-star-canada/energy-star-announcements/energy-starr-new-homes-standard-version-126/14178) 2015. (Accessed 19 June 2023).
+</list>
+
+</page>
+</paper>

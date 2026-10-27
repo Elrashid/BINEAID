@@ -1,0 +1,678 @@
+<paper source_file="A3.R20" title="**RESEARCH** **Open Access**" total_pages="10" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="**RESEARCH** **Open Access**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **RESEARCH** **Open Access**
+</heading>
+
+<figure page="1" section="**RESEARCH** **Open Access**" source="author" id="/page/0/Picture/3" image="A3.R20_fig01.jpg">[FIGURE: see A3.R20_fig01.jpg]</figure>
+
+
+<heading page="1" section="Integrating agency and resource  dependency theories: the moderating  efect of board size on the relationship  between dividends and frm value in Malaysia" source="author" id="/page/0/SectionHeader/4" level="1">
+# Integrating agency and resource  dependency theories: the moderating  efect of board size on the relationship  between dividends and frm value in Malaysia
+</heading>
+
+<text page="1" section="Integrating agency and resource  dependency theories: the moderating  efect of board size on the relationship  between dividends and frm value in Malaysia" source="author" id="/page/0/Text/5">
+Mohd Ashari Bakri1[*](http://orcid.org/0000-0002-3698-0931) , Nurjeehan Ayub1 and Hanefa Muchlis Gazali1
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/6" level="2">
+## **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+**Purpose** This paper aims to examine the moderating efects of board size on the relationship between dividends and frm value in Malaysian settings. The theoretical foundations of this research were the integration  between agency and resources dependency theories.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/8">
+**Design/methodology/approach** Panel data are extracted from DataStream and the annual report for the period  of 2012 to 2021, and pooled OLS, random efects, and fxed efects analyses were employed to examine the relationship. Breusch–Pagan Lagrange multiplier (LM) test and the Hausman test used to determine the most appropriate  between these three analyses (OLS, random efects, and fxed efects). The results are valid even after calculating  the robust standard error to mitigate the potential heteroskedasticity and serial correlation.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/9">
+**Findings** The empirical results show that board size positively moderates the relationship between dividends  and frm value in all the models tested. The results indicate that a larger board of size can minimize the agency problem (agency theory) because a larger board size can more efectively monitor and control management's opportunistic behavior due to more set of skilled and talented individuals included in the boardroom (resources dependency  theory). Additionally, efective monitoring can also lead to the increase in dividend payout to maintain a good reputation among investors and simultaneously increase frm value.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/10">
+**Practical implication** This study contributes to helping the regulators and industry players in Malaysia to improve  existing guidelines for determining dividend and board size to increase frm value. The fndings may also provide  inputs to the policymakers in recommending the optimum dividend and board size that resulting an increase  in valuation.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/11">
+**Originality/value** By incorporating agency and resources dependency theory, authors investigate the moderating  efect of board size on dividend and frm value relationships in Malaysian markets.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/12">
+**Keywords** Dividend, Firm value, Board size, Agency theory, Resources dependency
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/13">
+*Correspondence: Mohd Ashari Bakri mohd.ashari@ums.edu.my
+</text>
+
+
+<heading page="1" section="**Introduction**" source="author" id="/page/0/SectionHeader/15" level="2">
+## **Introduction**
+</heading>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/16">
+Te dividend puzzles concept remains one of the most  debated topics over the past several decades to date.  Te concept of the dividend puzzle emerged when the  infuential works of Gordon [[17]](#page-9-0), Lintner [[31,](#page-9-1) [32]](#page-9-2), and  Miller and Modigliani [[34]](#page-9-3) proposed some concepts  related to dividends. Gordon, for example, introduced
+</text>
+
+<figure page="1" section="**Introduction**" source="author" id="/page/0/Picture/17" image="A3.R20_fig02.jpg">[FIGURE: see A3.R20_fig02.jpg]</figure>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/18">
+© The Author(s) 2024. **Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which  permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the  original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or  other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line  to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory  regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this  licence, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+</text>
+
+<footnote page="1" section="**Introduction**" source="author" id="/page/0/Footnote/14">
+^( )Labuan Faculty of International Finance, Universiti Malaysia Sabah,  Labuan International Campus, 87000 Labuan F.T, Malaysia
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 2 of 10
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/1">
+the Gordon growth model to determine the intrinsic  value of a stock based on future dividend series. On the  other hand, Lintner introduced an economic formula to  determine the optimal dividend policy of a frm. Perhaps  one of the most infuential papers that led to the controversy over the dividend puzzle was presented by Miller  and Modigliani [[34](#page-9-3)]. Te infuential work of Miller and  Modigliani [[34](#page-9-3)] was the catalyst for the development of  dividend irrelevance theory. Te theory states that in a  perfect capital market, the dividend is not related to the  value of the frm and there is no confict between shareholders and managers (no agency costs). Te theory also  assumes that all investors have equal access to all information (no information asymmetry) and that no costs  are incurred when selling and buying shares (no trading  frictions). However, this assumption falls short due to  the existence of agency costs, information asymmetry,  and trading costs. For example, frictions exist as part  of the trading process and frictions such as information  asymmetry and agency costs infuence the amount and  timing of the dividend and afect the value of the frm  [[26]](#page-9-4). Te opposite argument posited dividend is related  to the value of the frm, and this is known as the dividend relevance theory.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/2">
+Te relevance theory of dividends suggests that an  increase in dividends positively infuences a frm position in the stock market and vice versa. Te pioneers of  dividend relevance theory, Lintner and Gordon [[31]](#page-9-1), posited that shareholders prefer dividends to capital gains.  Tis argument suggests that investors are risk averse  and prefer to reduce uncertainty causing frms to discount frm earnings at a lower rate and thus all things  being equal place better value on frms. However, some  other researchers later argue that it should not really  matter whether a company pays a dividend or not. As a  result, the motive of paying dividends to increase frm  value remains controversial to this day. One of the earliest theories to support this claim is the dividend signal  theory. Te concept of dividend signals is supported by  Woolridge (1983), who states that changes or signals  about changes in dividends are one of the main drivers  of changes in stock prices. Fama and French [[15]](#page-9-5) later  documented that dividends can convey information that  reinforces a positive relationship between dividends and  frm value. Motivated by this inconsistency the study  aims to provide an insight into the relationship between  dividends and frm value and bridging the gaps by discovering whether board size can moderate the relationship.  Additionally, the study is also motivated by real issues  namely the increased concern for competitiveness of  frms to increase frm value.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/3">
+In Malaysia, the relationship between dividends  and firm value has been studied by academics for
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/4">
+more than a decade. The increase in competitiveness  becomes one of the driving factors for the emergence  of this topic. In particular, increasing globalization,  economic development, emphasis on sustainability,  and information technology are becoming driving factors for corporate competitiveness. For instance, the  Malaysian economy records an increase of 3.3% in the  third quarter of 2023 and an increase of 2.9% in the  second quarter of 2023, leading to an overall growth of  3.9% in 2023 [[9](#page-9-6)]. As a result, the increase in firm value  becomes a critical factor to be considered by shareholders and investors. To significantly increase firm  value, paying out dividends is known to be one of the  great strategies.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/5">
+Te study was motivated not only by the real issue  of the need to enhance frm value in Malaysian frms  but also by the unclear discovery of the relationship  between dividends and frm value in the Malaysian context. Much recent empirical evidence supports a positive relationship between dividends and frm value in  Malaysia [[4](#page-9-7)]. Despite ample empirical evidence to support these claims, the signaling theory has been refuted  with empirical evidence that dividends are irrelevant to  frm value (Chen et al., 2002, Irum et al., 2012). Additionally, Bakri [[5](#page-9-8)] also discovered a negative association  between dividends and frm value, where audit quality becomes a moderator for the study. Using dividend  yield as a proxy for dividend, dividend and frm value  relationship is rather inconsistent compared to the  existing empirical evidence in the Malaysian context [[4](#page-9-7)]  and relevant theories of dividends. Tis inconsistency  contributes to the need for further research into the  dividend puzzle.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/6">
+Our study specifcally posited that this inconsistency may be due to the size of the board, which could  potentially strengthen the relationship. Board size's  relationship with frm performance is considered to  be a fundamental issue in corporate governance [[10](#page-9-9)].  Agency theory describes the board size relationship  with corporate performance in two diferent ways. Te  frstview, the economics perspective, perceived that the  smaller board size increases monitoring and control  and thus enhancesoverall corporate fnancial performance [[20]](#page-9-10). However, past empirical evidence neglects  to incorporate the resources dependency theory with  agency theory to better explain the association between  dividends, board size, and frm value. As pointed out,  the idea of integrating agency theory with resourcedependency extends the former's gamut. In line with the  suggestion, integrate the two theories and explain that  the increases in board size also means better monitoring and mitigating the agency cost (agency theory)  because a bigger board size improves advisory capacity,
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 3 of 10
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/1">
+deliberation, and external relations (resources dependency) and thereby enhance corporate fnancial performance [[40](#page-9-11)].
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/2">
+Empirically, board size is often shown negative association with frm performance in the Malaysia context. As  found in many previous studies [[6](#page-9-12), [30,](#page-9-13) [33]](#page-9-14), board size is  associated with a negative impact on frm performance.  However, many previous studies neglect the concept of  agency theory in relation to resources dependency theory in reducing the agency problem as well. For example,  increasing the size of the board of directors also means  increasing monitoring and control mechanisms providing a larger size of talent and skills, which reduces the  agency problem and the likelihood of management misconduct (e.g., tunneling incentives or investing in unprofitable projects).
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/3">
+In addition to the theoretical aspect, we also discuss  the empirical aspect or the discovery of this relationship. To get a better insight into the relationship between  board size and dividend as well as frm value, the study  frst looks at the previous empirical relationship between  board size and dividend. Previous empirical studies have  found that board size positively infuences dividend  payout. For instance, Elmagrhi et  al. [[14]](#page-9-15) found a positive relationship between board size and dividend payout among small and medium-sized companies in the  UK for the period from 2010 to 2013. Similarly, Khan  [[25]](#page-9-16) and García-Meca, E et al. [[16](#page-9-17)] in a recent empirical  study found that board size is positively associated with  dividends. Te results suggest that not only the strong  positive association between board size and dividend  was found in much earlier studies, but also in most of  the more recent studies. Tis also suggests a strong and  consistent positive relationship between board size and  dividends.
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/4">
+Second, and fnally, we discuss the empirical evidence  for the relationship between board size and frm value.  Te empirical evidence for this relationship is quite  abundant. For example, Mak and Kusnadi [[33](#page-9-14)] found a  negative relationship between board size and frm value  in Malaysia and Singapore, suggesting that the larger the  board, the lower the frm value. A much earlier empirical  study in small companies also found a negative correlation between board size and enterprise value in Finnish  companies [[13](#page-9-18)]. A study in Australian companies has  also found a strong negative correlation between board  size and enterprise value, and the result also shows that  this correlation is stronger in small companies [[35]](#page-9-19). A  recent empirical study also found a negative relationship  between board size and frm value [[6,](#page-9-12) [30]](#page-9-13). Despite the  negative relationship between board size and frm value,  our studies suggest that the property of board size would
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/5">
+increase frm value in mitigating the agency problem by  controlling and monitoring dividend payouts. In other  words, the positive efect of board size on ensuring better dividend payout would outweigh the negative efect of  board size on frm value.
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/6">
+Te rest of this chapter is as follows: Te next section  deals with the literature review, followed by the methodology, the results, the discussion and fnally the conclusion based on the discovery of the results.
+</text>
+
+
+<heading page="3" section="**Literature review and hypothesis development**" source="cited" id="/page/2/SectionHeader/7" level="2">
+## **Literature review and hypothesis development**
+</heading>
+
+<text page="3" section="**Literature review and hypothesis development**" source="cited" id="/page/2/Text/8">
+Te topic of dividends and frm value is still relevant  today because of its signifcant contribution in the feld  of corporate fnance. Te dividend decision is of great  importance to frms as it indicates their performance  and future growth potential [[2](#page-9-20), [43](#page-9-21)]. Leary and Michaely  [[28]](#page-9-22) documented that managers place a premium on the  stock of a company that pays a stable dividend and that  managers behave in such a way that the dividend matters  for frm value. While there is ample empirical evidence  and theory to support the relevance of dividends to frm  value, early theory on the relationship between dividends  and frm value established their irrelevance. In general,  the dividend and frm value relationship can be divided  into two schools of thought. Te frst school of thought  was pioneered by the relevance theory of dividend, and  this theory posited that dividend poses an impact on frm  value. On the contrary, the second school of thought provides the opposite claim where dividend is irrelevance on  frm value.
+</text>
+
+
+<heading page="3" section="**Dividend irrelevance theory**" source="author" id="/page/2/SectionHeader/9" level="3">
+### **Dividend irrelevance theory**
+</heading>
+
+<text page="3" section="**Dividend irrelevance theory**" source="author" id="/page/2/Text/10">
+Dividend irrelevance theory is considered to be one of  the most remarkable theories in the world of corporate  fnance, frst put forward by Nobel Prize winners Miller  and Modigliani [[34]](#page-9-3). Te theory assumes that in a perfect  capital market, the dividend payout is not related to the  value of the frm. Te theory also assumes that in an ideal  business world, there are no conficts between shareholders and managers and that investors have equal access to  all information. Furthermore, according to this theory,  there are no costs for buying and selling shares and no  diference is seen between the tax rates for dividends and  capital gains. Furthermore, the theory suggests that the  dividend policy follows the investment decision made,  which then becomes the residual dividend policy and  thus results in the dividend having no impact on the  value of the frm.
+</text>
+
+
+<heading page="3" section="**Dividend relevance theory**" source="author" id="/page/2/SectionHeader/11" level="3">
+### **Dividend relevance theory**
+</heading>
+
+<text page="3" section="**Dividend relevance theory**" source="author" id="/page/2/Text/12">
+In contrast to the theory of dividend irrelevance, the theory of dividend relevance comprises several theories that
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Dividend relevance theory**" source="author" id="/page/3/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 4 of 10
+</text>
+
+<text page="4" section="**Dividend relevance theory**" source="author" id="/page/3/Text/1">
+underpin the relevance of dividends for frm value. In this  study, we discuss the most important and infuential theories of dividend relevance.
+</text>
+
+
+<heading page="4" section="*Bird in hand theory*" source="author" id="/page/3/SectionHeader/2" level="4">
+#### *Bird in hand theory*
+</heading>
+
+<text page="4" section="*Bird in hand theory*" source="author" id="/page/3/Text/3">
+Tis theory states that in a world of economic uncertainty, investors prefer dividends (i.e., a bird in the hand)  and capital gains (i.e., two in the hand). Te latter may  be correlated with the future of the company, which is  much riskier than the current dividend. Terefore, they  are willing to pay a higher price for companies with dividend payments, which leads to a higher company value  [[18,](#page-9-23)[ 45](#page-9-24)].
+</text>
+
+
+<heading page="4" section="*Signaling theory*" source="author" id="/page/3/SectionHeader/4" level="4">
+#### *Signaling theory*
+</heading>
+
+<text page="4" section="*Signaling theory*" source="author" id="/page/3/Text/5">
+In general, information asymmetry arises when one party  has more information than another. In the context of  corporate governance, a company is likely to have more  information about current and future company performance than an outsider. Terefore, managers can use the  dividend as a tool to give signals to the fnancial market  about current and future company growth [[23]](#page-9-25). In addition, Lintner [[31]](#page-9-1) has highlighted managers' concerns  about the signal of the company's earnings distribution  over time. Accordingly, Bhattacharya's [[7]](#page-9-26) proposition  describes how the dividend serves as a function of the  frm's fnancial health, which is indicated by the dividend  payout refecting future frm performance. Teoretically,  a higher dividend signals a higher valuation of the frm.
+</text>
+
+
+<heading page="4" section="*Agency theory and free cash fow hypothesis*" source="author" id="/page/3/SectionHeader/6" level="4">
+#### *Agency theory and free cash fow hypothesis*
+</heading>
+
+<text page="4" section="*Agency theory and free cash fow hypothesis*" source="author" id="/page/3/Text/7">
+In addition, agency theory and free cash fow hypothesis are also used to prove the relevance of dividends to  frm value. Agency theory suggests that the interests of  shareholders and managers are not the same, and thus,  dividends can act as a control mechanism to better control cash fow (monitor). Additionally, the free cash fow  hypothesis implies that dividends are paid to shareholders to prevent the manager from misusing capital. Jensen  [[21]](#page-9-27) argues that free cash fow at the managerial level may  lead to investment in unproftable investment opportunities. Terefore, investors prefer a frm that minimizes  agency costs by paying higher dividends. As a result,  investors invest more in such a frm than in a frm that  pays little or no dividends [[42]](#page-9-28).
+</text>
+
+
+<heading page="4" section="*Empirical evidence on dividend relevance*" source="author" id="/page/3/SectionHeader/8" level="4">
+#### *Empirical evidence on dividend relevance*
+</heading>
+
+<text page="4" section="*Empirical evidence on dividend relevance*" source="author" id="/page/3/Text/9">
+Te importance of the dividend for the value of the company is not only discussed in the theories but also empirically examined. Empirical evidence shows a positive  relationship between dividends and frm value, but it is  controversial how dividends afect frm value. For example, Fama and French [[15](#page-9-5)] found a positive relationship
+</text>
+
+<text page="4" section="*Empirical evidence on dividend relevance*" source="author" id="/page/3/Text/10">
+between dividends and frm value and argued that this  is because dividends pick up information about the  frm's future business prospects. Pinkowitz et  al. [[42](#page-9-28)],  on the other hand, argue that investors value a frm that  pays dividends better because they appreciate the frm's  eforts to mitigate the agency problem (better corporate  governance). A mixed argument has been put forward  by Baker and Wugler (2004) who claim that the relationship between dividends and frm value depends on  the premium that could lead to a positive or negative  association.
+</text>
+
+<text page="4" section="*Empirical evidence on dividend relevance*" source="author" id="/page/3/Text/11">
+Up to a decade later, the inconsistency between dividends and enterprise value persists. For example, Dang  et  al. [[11](#page-9-29)] and Bakri [[5]](#page-9-8) discover a positive relationship  between dividend and frm value in Vietnam and Malaysia, respectively. However, Bakri [[4]](#page-9-7) and Sondakh [[44](#page-9-30)]  also found a negative relationship between dividends  and frm value. For example, Bakri [[4](#page-9-7)] demonstrated that  dividends have a negative impact on frm value when  dividend yield is used as a proxy for dividends. In terms  of distributable net income, the dividend policy shows  how successful the company is in increasing shareholder  wealth [[19](#page-9-31)]. In terms of a company's fnancial performance, dividend policy is also a factor that determines  the success of the frm. Previous research has examined  the impact of the dividend payout ratio on frm value in  detail [[1]](#page-9-32) and found that the dividend payout ratio has a  positive efect on share price, which refects the value of  the frm.
+</text>
+
+<text page="4" section="*Empirical evidence on dividend relevance*" source="author" id="/page/3/Text/12">
+However, Dennis and Smith [[12](#page-9-33)] claim that dividend  policy has a detrimental efect on frm value. Setting an  artifcial dividend can lower the value of the company as  it diverts capital from investment to consumption of luxury goods. Dennis and Smith [[12](#page-9-33)] also found in a separate analysis that dividend policy has no impact on frm  value. Te inconsistency of the relationship between dividends and frm value suggests that a possible moderating factor could infuence this relationship. We therefore  suspect that board size may contribute to this inconsistency and could be an important moderating factor. Past  empirical evidence has shown that board size positively  afects dividends [[14,](#page-9-15) [16,](#page-9-17) [25]](#page-9-16) and, on the contrary, negatively afects frm value [[6](#page-9-12), [13,](#page-9-18) [30](#page-9-13), [33](#page-9-14), [35]](#page-9-19). After considering the empirical aspect of the relationship, the next  section discusses and develops the hypothesis based on  the theoretical aspect supported by the empirical aspects  discussed in this section.
+</text>
+
+
+<heading page="4" section="**Agency theory, dividend and frm value**" source="author" id="/page/3/SectionHeader/13" level="4">
+#### **Agency theory, dividend and frm value**
+</heading>
+
+<text page="4" section="**Agency theory, dividend and frm value**" source="author" id="/page/3/Text/14">
+Agency theory was originally developed by Jensen and  Meckling in 1976 [[22](#page-9-34)]. Tis theory states that the governance mechanism of a frm or organization is based  on the conficts of interest between the company owner
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Agency theory, dividend and frm value**" source="author" id="/page/4/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 5 of 10
+</text>
+
+<text page="5" section="**Agency theory, dividend and frm value**" source="author" id="/page/4/Text/1">
+(shareholder), the manager and the provider of capital in  the form of outside capital. According to this theory, the  agency problem is something inevitable and the only way  to control it is through the use of regulation, instruments,  or mechanisms. One of the most popular instruments  used or proposed by scholars to potentially mitigate the  agency problem is the dividend. Tis idea is supported  by the free cash fow hypothesis developed by Jensen in  1986, which states that dividends are paid to shareholders to prevent the manager from investing in unproftable  projects and, in the worst case, in his own personal interest (tunneling incentives). Based on this theory, we have  thus established that dividends should reduce the agency  problem.
+</text>
+
+
+<heading page="5" section="**Agency theory, board size and frm value**" source="author" id="/page/4/SectionHeader/2" level="4">
+#### **Agency theory, board size and frm value**
+</heading>
+
+<text page="5" section="**Agency theory, board size and frm value**" source="author" id="/page/4/Text/3">
+When it comes to the relationship between board size  and frm performance, agency theory also plays an  essential role in explaining the basis of this relationship.  Agency theory posits that having a larger board grants  efcient monitoring by mitigating the CEO denomination inside the board and simultaneously protecting the  interest of the shareholder [[3]](#page-9-35). Additionally, the improved  monitoring would then lead to uncertainty avoidance, as  suggested by Li and Harrison [[29]](#page-9-36), and the reduction in  agency costs would eventually lead to better frm performance [[24](#page-9-37)]. However, substantial amount of empirical studies on the relationship between board size and  frm performance argues against the agency cost theory.  For example, Mak and Kusnadi [[33](#page-9-14)] discover a negative  relationship between board size and frm performance  in Malaysia and Singapore. Liao et al. [[30]](#page-9-13) and Ben and  Chouaibi [[6]](#page-9-12) also fnd a negative relationship between  board size and frm performance. Te result of this  empirical evidence points to the stewardship theory.  Stewardship theory states that a manager left to his own  devices acts as a steward of the assets he controls [[24]](#page-9-37).
+</text>
+
+<text page="5" section="**Agency theory, board size and frm value**" source="author" id="/page/4/Text/4">
+However, despite the empirical results pointing more  to the stewardship theory than to the agency cost theory,  we believe that agency costs and resources dependency  theories play a more important role when it comes to the  relationship between dividends and frm value, at least  in the Malaysian context. Tis is because a larger board  ensures better control and monitoring of dividend payments to shareholders. Also, a larger board can have  more diversity in the board background, e.g., more professionals from diferent felds, who in turn make better  decisions for overall performance without compromising  the minority (provide dividend payout). In other words,  agency theory would potentially outweigh stewardship  theory in the relationship between dividend and frm  value when board size acts as a moderator.
+</text>
+
+
+<heading page="5" section="**Resources dependency theory, board size and frm value**" source="author" id="/page/4/SectionHeader/5" level="2">
+## **Resources dependency theory, board size and frm value**
+</heading>
+
+<text page="5" section="**Resources dependency theory, board size and frm value**" source="author" id="/page/4/Text/6">
+Resources dependency theory was introduced by Pfeffer in Salancik in 1978 [[41]](#page-9-38). Te principle of the theory  is that an organization such as a frm or proft-oriented  organization required to engage with other actors and  organizations within its environment to acquire the  resources. Concerning board size and frm performance,  resource dependency theory suggests that board size is  considered to be a bank of resources [[3]](#page-9-35). Tis is because  the board size provides the necessary resources, skills,  knowledge, and expertise to invest in innovative projects  (Chen, 2012). Based on the argument in Sects.  ["Agency ](#page-3-0) [theory, dividend and frm value,](#page-3-0)" ["Agency theory, board ](#page-4-0) [size and frm value,](#page-4-0)" and ["Resources dependency theory, ](#page-4-1) [board size and frm value,"](#page-4-1) we thus hypothesize that:
+</text>
+
+<text page="5" section="**Resources dependency theory, board size and frm value**" source="author" id="/page/4/Text/7">
+*Hypothesis 1* Board size moderates the relationship  between dividend and frm value in Malaysia.
+</text>
+
+<text page="5" section="**Resources dependency theory, board size and frm value**" source="author" id="/page/4/Text/8">
+Te study thus aims to unravel this mystery by examining the relationship between these variables, with  board size included as a moderator. (Fig. [1](#page-4-2)) Te following research framework used as a visual representation  of the moderating efect of board size on the relationship  between dividend and frm value:
+</text>
+
+
+<heading page="5" section="**Methodology**" source="author" id="/page/4/SectionHeader/9" level="2">
+## **Methodology**
+</heading>
+
+
+<heading page="5" section="**Empirical model**" source="author" id="/page/4/SectionHeader/10" level="3">
+### **Empirical model**
+</heading>
+
+<text page="5" section="**Empirical model**" source="author" id="/page/4/Text/11">
+Te following model specifcation used to examine the  moderating efect of board size on dividend and frm  value relationship:
+</text>
+
+<equation page="5" section="**Empirical model**" source="author" id="/page/4/Equation/12">
+$$
+\text{Tobin's } Q_{i,t} = \alpha + \beta_1 DPS_{i,t} + \beta_2 \text{Board size}_{i,t} \\ + \beta_3 DPS \cdot \text{Board}_{i,t} + \beta_4 \log(\text{size})_{i,t} \\ + \beta_5 TLTA_{i,t} + \beta_6 \text{Blockholder}_{i,t} \\ + \beta_7 \text{Cash holding}_{i,t} + \varepsilon_t \tag{1}
+$$
+</equation>
+
+<text page="5" section="**Empirical model**" source="author" id="/page/4/Text/13">
+Tobin's q is the frm value, DPS is the dividend per  share, board size is the total number of board members  in the frm, DPS*board is the interaction term between  DPS, and board size used as moderator. In addition to  moderator variables, we also add control variables that
+</text>
+
+<figure_group page="5" section="**Empirical model**" source="author" id="/page/4/FigureGroup/396">
+<figure page="5" section="**Empirical model**" source="author" id="/page/4/Figure/14" image="A3.R20_fig03.jpg">[FIGURE: see A3.R20_fig03.jpg]</figure>
+<caption page="5" section="**Empirical model**" source="author" id="/page/4/Caption/15">
+**Fig.** **1** Research framework (integrating agency and resources  dependency theories)
+</caption>
+</figure_group>
+
+</page>
+<page number="6">
+<text page="6" section="**Empirical model**" source="author" id="/page/5/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 6 of 10
+</text>
+
+<text page="6" section="**Empirical model**" source="author" id="/page/5/Text/1">
+can potentially infuence frm value. Tese variables  include TLTA, representing total liabilities relative to  total assets, blockholder, representing the percentage  of strategic ownership of 5% or more, cash holdings,  representing cash and cash equivalents divided by total  assets, and εt is the error term. Te  sources of the data  collected are from DataStream  and annual report, the  range  period is between 2012 to 2021. Te process of  collecting data through various fltering processes, for  instance, we exclude banks and fnancial sectors in the  sample due to this sector being heavily regulated (Dewasiri et  al., 2016). Additionally, all individual data were  winsorized at 1 and 99 percent percentile to mitigate the  potential outlier. We used Stata, specifcally version 17.0,  to perform the analysis.
+</text>
+
+
+<heading page="6" section="**Results**" source="author" id="/page/5/SectionHeader/2" level="2">
+## **Results**
+</heading>
+
+<text page="6" section="**Results**" source="author" id="/page/5/Text/3">
+Table [1 ](#page-5-0)presents the descriptive statistics of the variables  tested for the moderating efect of dividend on frm value  in Malaysia. As shown in Table [1,](#page-5-0) the number of observations is unbalanced due to some incomplete fnancial  data. Te highest mean value is reported by blockholder  at 50.20, followed by log (size) and board size at 12.87  and 7.38, respectively. Te mean values of the remaining variables are less than 2 at 1.35, 0.41, 0.36, 0.17, and  0.04 respectively. Blockholder variable has the highest  standard deviation at 17.61, followed by board size and  log(size) at 1.97 and 1.72, respectively. Table [1](#page-5-0) also shows  the minimum and maximum value for each variable  tested in the study. Tobin's Q ranges from 0 to 7.67, DPS  from 0 to 0.57, board size from 4 to 13, DPS*Board size  from 0 to 25.30, log(size) from 2.30 to 19.02, TLTA from  0.02 to 0.99, Blockholder from 0 to 85 and fnally Cash  balance from 0.003 to 0.66.
+</text>
+
+<table_group page="6" section="**Results**" source="author" id="/page/5/TableGroup/425">
+<caption page="6" section="**Results**" source="author" id="/page/5/Caption/4">
+**Table** **1** Descriptive statistics
+</caption>
+<table page="6" section="**Results**" source="author" id="/page/5/Table/5">
+| Variables | Observation | Mean | Standard deviation | Min | Max |
+| --- | --- | --- | --- | --- | --- |
+| Tobin's Q | 5123 | 1.3492 | 1.2271 | 0.0000 | 7.6676 |
+| DPS | 5140 | 0.0404 | 0.0945 | 0.0000 | 0.5700 |
+| Board size | 5151 | 7.3871 | 1.9663 | 4.0000 | 13.0000 |
+| DPS*Board | 5129 | 0.4127 | 1.5526 | 0.0000 | 25.2900 |
+| Log (size) | 5167 | 12.8763 | 1.7199 | 2.3026 | 19.0206 |
+| TLTA | 5166 | 0.3651 | 0.2043 | 0.0177 | 0.9463 |
+| Blockholder | 5096 | 50.2000 | 17.6135 | 0.0000 | 85.0000 |
+| Cash holding | 5167 | 0.1686 | 0.1437 | 0.0028 | 0.6664 |
+</table>
+<caption page="6" section="**Results**" source="author" id="/page/5/Caption/6">
+**Table** **2** Pearson correlation matrix
+</caption>
+</table_group>
+
+<table_group page="6" section="**Results**" source="author" id="/page/5/TableGroup/426">
+<table page="6" section="**Results**" source="author" id="/page/5/Table/7">
+|  | Panel A |
+| --- | --- |
+|  | Tobin's Q | DPS | Board size | DPS*Boardsize | Log (size) | TLTA | blockholder | Cash holding |
+| Tobin's Q | 1 |  |  |  |  |  |  |  |
+| DPS | 0.3747*** | 1 |  |  |  |  |  |  |
+| Board size | 0.0648*** | 0.1836*** | 1 |  |  |  |  |  |
+| DPS*Boardsize | 0.3996*** | 0.7971*** | 0.1742*** | 1 |  |  |  |  |
+| Log (size) | −0.0639*** | 0.3678*** | 0.3956*** | 0.2431*** | 1 |  |  |  |
+| TLTA | 0.1136*** | 0.0197 | 0.1115*** | 0.0653*** | 0.2622*** | 1 |  |  |
+| Blockholder | 0.0653*** | 0.2660*** | 0.1595*** | 0.2030*** | 0.2790*** | −0.0274* | 1 |  |
+| Cash holding | 0.2003*** | 0.1126*** | −0.023*** | −0.0478*** | −0.1533*** | −0.3832*** | 0.0053 | 1 |
+|  | Panel B |  |
+|  | DPS | Board size | DPS* Boardsize | Insize | TLTA | blockholder | Cash holding |  |
+| VIF | 3.19 | 1.20 | 2.83 | 1.52 | 1.28 | 1.12 | 1.23 |  |
+| 1/VIF | 0.3133 | 0.8357 | 0.3532 | 0.6567 | 0.7800 | 0.8905 | 0.8153 |  |
+| Mean VIF | 1.77 |  |  |  |  |  |  |  |
+</table>
+<footnote page="6" section="**Results**" source="author" id="/page/5/Footnote/8">
+^(***, **, )and* denote statistical signifcance at the 1%, 5%, and 10% levels, respectively
+</footnote>
+</table_group>
+
+</page>
+<page number="7">
+<text page="7" section="**Results**" source="author" id="/page/6/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 7 of 10
+</text>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/1">
+Panel A in Table  [2](#page-5-1) shows the Pearson correlation  matrix between dividends and frm value relationship  moderated by board size. As can be seen, the interaction term "DPS*board size" correlates positively with  frm value, which is represented by Tobin's Q. Panel A in  Table [2](#page-5-1) also shows an early signs of multicollinearity as  one value above 0.50 (0.7971). However, in deterministic  analysis of true multicollinearity, variance infation factor (VIF) in Panel B demonstrates no sign of multicollinearity. Te results show that no mean VIF value is above  4 and the average value is only 1.77. Tus, we conclude  that there is no risk of multicollinearity based on the VIF  analysis.
+</text>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/2">
+Table  [3](#page-6-0) presents a main analysis of the study. Te  study uses pooled ordinary least squares (OLSs), random efects (REs), and fxed efects (FEs) for the period  from 2012 to 2021. Te study uses a two-stage analysis  to determine the most appropriate model for the study.  First, we conduct the Breusch–Pagan LM test to determine which model is a better ft between OLS and RE.  Te results of the Breusch–Pagan LM test are less than  0.05, indicating that the random efect is a better ft. In  the next phase, we used the Hausman test to determine  which of RE and FE is more appropriate. Te results of  the Hausman test are less than 0.05, indicating that FE is  more appropriate. However, for comparison purposes,  we still show all the results (pooled OLS, RE and FE) as  shown in Table [3.](#page-6-0)
+</text>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/3">
+Panel A and B in Table[ 3](#page-6-0) show the results of the pooled  OLS and the random efect. Dividend has a signifcant  and positive relationship with frm value with a coefcient of 3.1194 and 2.3900, signifcant at the one percent
+</text>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/4">
+level. Board size also shows a signifcant and positive  relationship with frm value at the one percent level in  both pooled OLS and random efect analysis (coefcient  0.0297 and 0.0497). Te interaction terms DPS*board  size shows a positive relationship with frm value at the  one percent level (0.1654 and 0.1312 coefcient) in both  the pooled OLS analysis and the random efects analysis,  suggesting that board size signifcantly moderates the  relationship between dividend and frm value. Te control variables used in this study are diferently related to  dividend. For example, frm size has a negative and signifcant relationship with dividend (−0.1836 and –0.3186  coefcient) at the one percent level in both the pooled  OLS analysis and the random efect analysis. In contrast,  leverage (TLTA) and cash holding have a positive and signifcant relationship with frm value with coefcients of  1.3941 and 1.5102, respectively, at one percent signifcant  level in the pooled OLS. On the other hand, the coefcients for the control variables in the random efect are  signifcant at the one percent and fve percent levels with  1.2514 and 1.3723, respectively, as shown in the table. On  the other hand, blockholders demonstrate an insignifcant relationship with frm value in both models.
+</text>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/5">
+Panel C in Table [3](#page-6-0) shows that a fxed efect is the bestftting model after being tested by the Breusch–Pagan  test LM and the Hausman test. Te result of Panel C,  Table [3](#page-6-0), shows a consistent signifcant result from Panel  A and B, except for a few variables such as board size and  blockholders. In Panel C, dividend and board size have  a signifcant positive correlation with frm value with a  coefcient of 1.5506 and 0.0487, respectively, which is  signifcant at the one percent level. Te interaction term
+</text>
+
+<table_group page="7" section="**Results**" source="author" id="/page/6/TableGroup/343">
+<caption page="7" section="**Results**" source="author" id="/page/6/Caption/6">
+**Table** **3** Main Result-Pooled OLS, Random Efect and Fixed Efect
+</caption>
+<table page="7" section="**Results**" source="author" id="/page/6/Table/7">
+| Variables | Panel A: Pooled OLS | Panel B: Random Effect | Panel C: Fixed Effect |
+| --- | --- | --- | --- |
+| DPS | 3.1194*** (0.2745) | 2.3900*** (0.3113) | 1.5506*** (0.3420) |
+| Board size | 0.0297*** (0.0078) | 0.0497*** (0.0088) | 0.0487*** (0.0096) |
+| DPS*board size | 0.1654*** (0.0166) | 0.1312*** (0.0188) | 0.1125*** (0.0205) |
+| Log(size) | −0.1836*** (0.0110) | −0.3186*** (0.0172) | −0.3819*** (0.0216) |
+| TLTA | 1.3941*** (0.0792) | 1.2514*** (0.0912) | 1.1400*** (0.1000) |
+| Blockholder | 0.0011 (0.0009) | 0.0008 (0.0011) | −0.0032** (0.0012) |
+| Cash holding | 1.5102*** (0.1113) | 1.3723*** (0.1138) | 1.3862*** (0.1205) |
+| Constant | 2.4878*** (0.3360) | 4.1711*** (0.8500) | 5.3156*** (0.2936) |
+| Observations | 5057 |  |  |
+| Industry dummy | Included | Included | Excluded |
+| Year dummy | Included | Included | Excluded |
+| Breusch–Pagan LM test | 7404.57 (0) |  |  |
+| Hausman test | 105.78 (0) |  |  |
+</table>
+</table_group>
+
+<text page="7" section="**Results**" source="author" id="/page/6/Text/8">
+This table presents the Pooled OLS, RE and FE for Eqs. [(1](#page-4-3)). Standard errors are reported in parentheses. P values for the Breusch–Pagan LM test and Hausman test are  reported in squared brackets
+</text>
+
+<footnote page="7" section="**Results**" source="author" id="/page/6/Footnote/9">
+^(***,**, )and * denote statistical signifcance at the 1%, 5%, and 10% levels, respectively
+</footnote>
+
+</page>
+<page number="8">
+<text page="8" section="**Results**" source="author" id="/page/7/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 8 of 10
+</text>
+
+<text page="8" section="**Results**" source="author" id="/page/7/Text/1">
+between dividend and board size (DPS*board size) shows  a positive and signifcant relationship between dividend  and enterprise value, suggesting that board size does  indeed have a signifcant and positive impact on the relationship between dividend and frm value. Te remaining  efects of the control variables are similar to those in panels A and B, but blockholders have a signifcant impact on  frm value.
+</text>
+
+<text page="8" section="**Results**" source="author" id="/page/7/Text/2">
+Our result, presented in Table [3,](#page-6-0) might sufer from heteroskedasticity and serial correlation due to the nature  of panel data. To mitigate this problem, following Ofori  Sasu, Abor and Osei [[39](#page-9-39)], we used a robust standard  error calculation in the additional analysis. Te result of  the analysis is shown in Table [4](#page-7-0), Panel A, B and C. Using  the result in Table [4,](#page-7-0) we note that the results presented  in Table  [3](#page-6-0) remain consistent even after weakening the  potential heteroskedasticity and serial correlation. Te  persistent and consistent signifcant relationship of the  variables tested in Table  [4](#page-7-0), especially the interaction  terms, indicates that board size does indeed positively  and signifcantly moderate the relationship between dividend and frm value, even after weakening the potential  heteroskedasticity and serial correlation problems.
+</text>
+
+
+<heading page="8" section="**Robustness check**" source="author" id="/page/7/SectionHeader/3" level="2">
+## **Robustness check**
+</heading>
+
+<text page="8" section="**Robustness check**" source="author" id="/page/7/Text/4">
+Te document results, as illustrated in Table [3,](#page-6-0) may not  be robust to the heteroskedasticity and serial correlation issue. Tus, we follow Law et al. [[27]](#page-9-40) in using robust  standard error for robustness check of our result.
+</text>
+
+
+<heading page="8" section="**Discussion**" source="author" id="/page/7/SectionHeader/5" level="2">
+## **Discussion**
+</heading>
+
+<text page="8" section="**Discussion**" source="author" id="/page/7/Text/6">
+Although a considerable number of studies have examined the relationship between dividends and frm value,  the existing evidence remains inconclusive due to inconsistency of results and theory suggesting a contradictory  relationship. Terefore, we re-examine the relationship  between dividend and frm value by adding board size  as a moderator and re-examine on whether the outcome  supports the proposed integrated theories of agency and  resources dependency.
+</text>
+
+<text page="8" section="**Discussion**" source="author" id="/page/7/Text/7">
+In the frst part of the analysis, we used pooled OLS,  random  efects, and fxed efects to identify the role of  board size as a moderator between dividends and frm  value. In Table [3,](#page-6-0) Panel A, B and C, we fnd a strong relationship between dividend and frm value and a strong  positive moderating efect of board size on the relationship between dividend and frm value. Te results are  consistent with the earlier fndings of Bakri [[4]](#page-9-7), Dang  et al. [[11]](#page-9-29), Fama and French [[15](#page-9-5)]. Te results suggest that  frms that pay higher dividends are likely to have better frm valuation and that board size has a signifcant  impact on dividend payout, thus contributing to better  frm valuation. A notable discovery of the study, based on  agency theory, highlights the very important key aspect  of board size on the relationship between dividend and  frm value. Te discovery suggests that a larger board  is more efective in controlling and monitoring opportunistic behavior (agency cost) by management. Since a  larger board is associated with more expertise and experience (resources dependency), it can mitigate the agency  problem while improving frm performance, including  dividend payout [[36–](#page-9-41)[38]](#page-9-42). Consequently, the relationship
+</text>
+
+<table_group page="8" section="**Discussion**" source="author" id="/page/7/TableGroup/347">
+<caption page="8" section="**Discussion**" source="author" id="/page/7/Caption/8">
+**Table** **4** Pooled OLS, Random Efect and Fixed Efect (Robust Standard Error)
+</caption>
+<table page="8" section="**Discussion**" source="author" id="/page/7/Table/9">
+| Variables | Panel A: Pooled OLS | Panel B: Random Effect | Panel C: Fixed Effect |
+| --- | --- | --- | --- |
+| DPS | 3.1194*** (0.4422) | 2.3900*** (0.6018) | 1.5506** (0.5895) |
+| Board size | 0.0298*** (0.0085) | 0.0497*** (0.0139) | 0.0487** (0.0146) |
+| DPS*board size | 0.1654*** (0.0327) | 0.1312** (0.0460) | 0.1125* (0.0449) |
+| Log(size) | −0.1835*** (0.0183) | −0.3186*** (0.0620) | −0.3819*** (0.0852) |
+| TLTA | 1.3941*** (0.1117) | 1.2514*** (0.2221) | 1.1400*** (0.2337) |
+| Blockholder | 0.0012 (0.0009) | 0.0007 (0.0021) | −0.0032 (0.0025) |
+| Cash holding | 1.5102*** (0.1547) | 1.3723*** (0.2676) | 1.3862*** (0.2962) |
+| Constant | 2.4878*** (0.2269) | 4.1711*** (0.7092) | 5.3156*** (1.0713) |
+| Observations | 5057 |  |  |
+| Industry dummy | Included | Included | Excluded |
+| Year dummy | Included | Included | Excluded |
+| Breusch–Pagan LM test | 7404.57 (0) |  |  |
+| Hausman test | 105.78 (0) |  |  |
+</table>
+</table_group>
+
+<text page="8" section="**Discussion**" source="author" id="/page/7/Text/10">
+This table presents the Pooled OLS, RE and FE for Eqs. [(1](#page-4-3)). Standard errors are reported in parentheses. *P* values for the Breusch–Pagan LM test and Hausman test are  reported in squared brackets
+</text>
+
+<footnote page="8" section="**Discussion**" source="author" id="/page/7/Footnote/11">
+^(***, **, )and * denote statistical signifcance at the 1%, 5%, and 10% levels, respectively
+</footnote>
+
+</page>
+<page number="9">
+<text page="9" section="**Discussion**" source="author" id="/page/8/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 9 of 10
+</text>
+
+<text page="9" section="**Discussion**" source="author" id="/page/8/Text/1">
+between dividend and frm value can be strengthened by  board size as a moderator variable.
+</text>
+
+<text page="9" section="**Discussion**" source="author" id="/page/8/Text/2">
+In the second part of the analysis, we also used pooled  OLS, random  efects, and fxed efects, but with robust  standard error to mitigate potential heteroskedasticity  and serial correlation. Te result remains consistent as  shown in Table  [3.](#page-6-0) Table  [4](#page-7-0) also suggests that board size  positively afects the relationship between dividend and  frm value after addressing the potential concerns of heteroskedasticity and serial correlation. Tis also suggests  that the monitoring and control efect of board members increases expertise and experience as the number  of members increases, thereby reducing the likelihood  of managerial misconduct (i.e., tunneling incentives).  Te results of the study once again are consistent with  the argument of Ntim [[36]](#page-9-41), Ntim et  al. [[37](#page-9-43)] and Ntim  et al. [[38]](#page-9-42) that board size could reduce the agency problem and improve dividend payout while increasing frm  performance. Te result of the analysis also implies that  agency and resource dependency integration can be used  to explain this empirical result.
+</text>
+
+
+<heading page="9" section="**Conclusions**" source="author" id="/page/8/SectionHeader/3" level="2">
+## **Conclusions**
+</heading>
+
+<text page="9" section="**Conclusions**" source="author" id="/page/8/Text/4">
+Tis paper examines the moderating efect of board size  on the relationship between dividend and frm value  using a sample of the Malaysian market for the period  2012 to 2021 by integrating an explanation from agency  and resource dependency theories. Our study contributes  to the literature in several ways. First, despite numerous empirical studies examining the impact of dividend  on frm value, previous studies have neglected the role  of board size as a moderator and lack empirical explanation and integration between agency and resources  dependency theories aspect to provide more insight into  this dividend puzzle, especially in the context of Malaysian markets. Although previous empirical studies have  found that board size has a negative impact on frm  value, previous empirical studies have neglected the fact  that larger board size is associated with more expertise  and experience (resources dependency) to infuence the  direct negative relationship. Tis can mitigate the agency  problem and increase dividend payout, which simultaneously increases frm value. Second, our discovery ofers  a number of implications for shareholders, policymakers, and regulators in other countries, particularly those  with relatively similar governance environments. Te  results suggest that while board size can have a negative  impact on frm value, as has been found in many previous studies, regulators, policymakers, and especially  shareholders should not only be concerned with the  direct negative impact, as board size also serves as a control and monitoring mechanism, especially in providing
+</text>
+
+<text page="9" section="**Conclusions**" source="author" id="/page/8/Text/5">
+better dividend payout, which in turn leads to better frm  valuation.
+</text>
+
+<text page="9" section="**Conclusions**" source="author" id="/page/8/Text/6">
+Our study, like all previous studies, is subject to some  limitations. First, the data focused on the Malaysian  market, so the results may not be generalizable to other  regions, especially countries with a diferent governance environment. Future studies could test the impact  of board size as a moderator with signifcant diferences  in governance environment. Second, the study tested  only one moderator, which may not cover the entire  mystery of the dividend puzzle. We therefore strongly  recommend that future studies also examine other  moderators that potentially have a strong relationship  with dividends and frm value simultaneously. Furthermore, and in conclusion, the data used in this study  focus on secondary data analysis. Future studies should  engage in qualitative analysis through face-to-face  interviews to gain a better understanding of how board  size can actually contribute to mitigating agency problems while increasing dividend payout and frm value.
+</text>
+
+
+<heading page="9" section="**Abbreviations**" source="author" id="/page/8/SectionHeader/7" level="3">
+### **Abbreviations**
+</heading>
+
+<text page="9" section="**Abbreviations**" source="author" id="/page/8/Text/8">
+DPS Dividend per share FE Fixed efect LM Lagrange multiplier LOG Natural logarithm OLS Ordinary least square RE Random efect TLTA Total liability over total asset
+</text>
+
+
+<heading page="9" section="VIF Variance infation factor" source="author" id="/page/8/SectionHeader/9" level="4">
+#### VIF Variance infation factor
+</heading>
+
+<text page="9" section="VIF Variance infation factor" source="author" id="/page/8/Text/10">
+**Acknowledgements** Not Applicable.
+</text>
+
+
+<heading page="9" section="**Author contributions**" source="author" id="/page/8/SectionHeader/11" level="3">
+### **Author contributions**
+</heading>
+
+<text page="9" section="**Author contributions**" source="author" id="/page/8/Text/12">
+MAB structured the research framework, analyzed and interpreted the  research data, and developed the conclusion. NA and HMG developed and  constructing the review of literature.
+</text>
+
+
+<heading page="9" section="**Funding**" source="author" id="/page/8/SectionHeader/13" level="3">
+### **Funding**
+</heading>
+
+<text page="9" section="**Funding**" source="author" id="/page/8/Text/14">
+The research is funded by Universiti Malaysia Sabah grants scheme  SGA0060-2019.
+</text>
+
+
+<heading page="9" section="**Availability of data and materials**" source="author" id="/page/8/SectionHeader/15" level="3">
+### **Availability of data and materials**
+</heading>
+
+<text page="9" section="**Availability of data and materials**" source="author" id="/page/8/Text/16">
+The dataset used or analyzed during the study is available from corresponding  author on reasonable request.
+</text>
+
+
+<heading page="9" section="**Declarations**" source="author" id="/page/8/SectionHeader/17" level="2">
+## **Declarations**
+</heading>
+
+
+<heading page="9" section="**Ethics approval and consent to participate**" source="author" id="/page/8/SectionHeader/18" level="3">
+### **Ethics approval and consent to participate**
+</heading>
+
+<text page="9" section="**Ethics approval and consent to participate**" source="author" id="/page/8/Text/19">
+Not Applicable.
+</text>
+
+
+<heading page="9" section="**Consent for publication**" source="author" id="/page/8/SectionHeader/20" level="3">
+### **Consent for publication**
+</heading>
+
+<text page="9" section="**Consent for publication**" source="author" id="/page/8/Text/21">
+Not Applicable.
+</text>
+
+
+<heading page="9" section="**Competing interest**" source="author" id="/page/8/SectionHeader/22" level="3">
+### **Competing interest**
+</heading>
+
+<text page="9" section="**Competing interest**" source="author" id="/page/8/Text/23">
+The authors declare that they have no competing interests.
+</text>
+
+<text page="9" section="**Competing interest**" source="author" id="/page/8/Text/24">
+Received: 17 July 2023 Accepted: 13 March 2024
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="**Competing interest**" source="author" id="/page/9/Text/0">
+Bakri *et al. Future Business Journal (2024) 10:37 *Page 10 of 10
+</text>
+
+
+<heading page="10" section="**References**" source="author" id="/page/9/SectionHeader/1" level="2">
+## **References**
+</heading>
+
+<list page="10" section="**References**" source="author" id="/page/9/ListGroup/499">
+- 1. Anton SG (2016) The impact of dividend policy on frm value. A panel  data analysis of Romanian listed frms. J Public Admin Financ Law  10:107–112
+- 2. Ali H (2022) Corporate dividend policy in the time of COVID-19: Evidence  from the G-12 countries. Financ Res Lett 46:102493
+- 3. Akram F, Haq AU, M. (2022) Integrating agency and resource dependence  theories to examine the impact of corporate governance and innovation  on frm performance. Cogent Bus Manag 9(1):2152538
+- 4. Bakri MA (2021) Does dividend policy afect frm value in an emerging  markets? Evidence from Malaysian frms. Labuan Bull Int Bus Financ  (LBIBF) 19(1):49–58
+- 5. Bakri MA (2021) Moderating efect of audit quality: the case of dividend  and frm value in Malaysian frms. Cogent Business and Management  8(1):2004807
+- 6. Ben Fatma H, Chouaibi J (2023) Corporate governance and frm value:  a study on European fnancial institutions. Int J Product Perform Manag  72(5):1392–1418
+- 7. Bhattacharya S (1979) Imperfect information, dividend policy, and" the  bird in the hand" fallacy. Bell J Econ 10(1):259–270
+- 8. Black F (1976) The dividend puzzle. J Portfolio Manag 2(2):5–8
+- 9. Bank Negara Malaysia (2023). Retrieved from[ https://www.bnm.gov.](https://www.bnm.gov.my/-/qb23q3_en_pr#:~:text=The%20economy%20grew%20by%203.3,growth%20in%20employment%20and%20wages) my/-/qb23q3_en_pr#:~:text=[The%20economy%20grew%20by%203.](https://www.bnm.gov.my/-/qb23q3_en_pr#:~:text=The%20economy%20grew%20by%203.3,growth%20in%20employment%20and%20wages) [3,growth%20in%20employment%20and%20wages](https://www.bnm.gov.my/-/qb23q3_en_pr#:~:text=The%20economy%20grew%20by%203.3,growth%20in%20employment%20and%20wages).
+- 10. Cheng S (2008) Board size and the variability of corporate performance. J  Financ Econ 87(1):157–176
+- 11. Dang HN, Nguyen TTC, Tran DM (2020) The impact of earnings quality on  frm value: the case of Vietnam. J Asian Financ Econ Bus 7(3):63–72
+- 12. Dennis, S. A., and Smith, W. S. (2014). Dividend irrelevance and frm control. In *Signs that Markets are Coming Back* (Vol. 30, pp. 149–167). Emerald  Group Publishing Limited.
+- 13. Eisenberg T, Sundgren S, Wells MT (1998) Larger board size and decreasing frm value in small frms. J Financ Econ 48(1):35–54
+- 14. Elmagrhi MH, Ntim CG, Crossley RM, Malagila JK, Fosu S, Vu TV (2017)  Corporate governance and dividend pay-out policy in UK listed SMEs:  the efects of corporate board characteristics. Int J Account Inf Manag  25(4):459–483
+- 15. Fama EF, French KR (1998) Value versus growth: the international evidence. J Financ 53(6):1975–1999
+- 16. García-Meca E, López-Iturriaga FJ, Santana-Martín DJ (2022) Board gender  diversity and dividend payout: the critical mass and the family ties efect.  Int Rev Financ Anal 79:101973
+- 17. Gordon, M. J. (1959). Dividends, earnings, and stock prices. The review of  economics and statistics, 99–105.
+- 18. Gordon MJ (1963) Optimal investment and fnancing policy. J Financ  18(2):264–272
+- 19. Husain T, Sunardi N (2020) Firm's value prediction based on proftability  ratios and dividend policy. Financ Econ Rev 2(2):13–26
+- 20. Jensen MC (1993) The modern industrial revolution, exit, and the failure  of internal control systems. J Financ 48(3):831–880
+- 21. Jensen MC (1986) Agency costs of free cash fow, corporate fnance, and  takeovers. Am Econ Rev 76(2):323–329
+- 22. Jensen MC, Meckling WH (1976) Theory of the frm: Managerial behavior,  agency costs and ownership structure. J Financ Econ 3(4):305–360
+- 23. John K, Williams J (1985) Dividends, dilution, and taxes: A signalling  equilibrium. J Financ 40(4):1053–1070
+- 24. Kalsie A, Shrivastav S (2016) Analysis of board size and frm performance:  Evidence from NSE companies using panel data approach. Indian Journal  of Corporate Governance 9(2):148–172
+- 25. Khan A (2022) Ownership structure, board characteristics and dividend  policy: evidence from Turkey. Corporate Governance: The international  journal of business in society 22(2):340–363
+- 26. Kim S, Park SH, Suh J (2018) A J-shaped cross-sectional relation between  dividends and frm value. J Corp Finan 48:857–877
+- 27. Law SH, Naseem MN, Roslan A, Singh N (2021) Business credit, household  credit and economic performance in Malaysia: A quantile regression  approach. Malays J Econ Stud 58(2):293–314
+- 28. Leary MT, Michaely R (2011) Determinants of dividend smoothing:  Empirical evidence. Rev Financ Stud 24(10):3197–3249
+- 29. Li J, Harrison JR (2008) Corporate governance and national culture: a  multi-country study. Corporate Governance Int J Bus Soc 8(5):607–621
+</list>
+
+<list page="10" section="**References**" source="author" id="/page/9/ListGroup/500">
+- 30. Liao Y, Huang P, Ni Y (2022) Convertible bond issuance volume, capital  structure, and frm value. The North American Journal of Economics and  Finance 60:101673
+- 31. Lintner J (1956) Distribution of incomes of corporations among dividends, retained earnings, and taxes. Am Econ Rev 46(2):97–113
+- 32. Lintner, J. (1962). Dividends, earnings, leverage, stock prices and the  supply of capital to corporations. The review of Economics and Statistics,  243–269.
+- 33. Mak YT, Kusnadi Y (2005) Size really matters: Further evidence on the  negative relationship between board size and frm value. Pac Basin  Financ J 13(3):301–318
+- 34. Miller MH, Modigliani F (1961) Dividend policy, growth, and the valuation  of shares. J Bus 34(4):411–433
+- 35. Nguyen P, Rahman N, Tong A, Zhao R (2016) Board size and frm value:  evidence from Australia. J Manage Governance 20:851–873
+- 36. Ntim CG (2011) The king reports, independent non-executive directors  and frm valuation on the Johannesburg stock exchange. Corp Ownersh  Control 9(1):428–440
+- 37. Ntim CG, Opong KK, Danbolt J (2015) Board size, corporate regulations  and frm valuation in an emerging market: a simultaneous equation  approach. Int Rev Appl Econ 29(2):194–220
+- 38. Ntim CG, Lindop S, Osei KA, Thomas DA (2015) Executive director pay,  corporate governance and performance: a simultaneous equation  approach. Manag Decis Econ 36(2):67–96
+- 39. Ofori-Sasu D, Abor JY, Osei AK (2017) Dividend policy and shareholders' value: evidence from listed companies in Ghana. Afr Dev Rev  29(2):293–304
+- 40. Pfefer, J. (2019). Size and composition of corporate boards of directors:  The organization and its environment. In *Corporate Governance* (pp.  53–64). Gower.
+- 41. Pfefer J, Salancik G (1978) External control of organizations—Resource  dependence perspective. Harper and Row, New York
+- 42. Pinkowitz L, Stulz R, Williamson R (2006) Does the contribution of corporate cash holdings and dividends to frm value depend on governance? A  cross-country analysis. J Financ 61(6):2725–2751
+- 43. Shehata N (2022) Board national diversity and dividend policy: Evidence  from Egyptian listed companies. Financ Res Lett 45:102132
+- 44. Sondakh R (2019) The efect of dividend policy, liquidity, proftability  and frm size on frm value in fnancial service sector industries listed in  Indonesia stock exchange 2015–2018 period. Accountability 8(2):91–101
+- 45. Walter JE (1963) Dividend policy: its infuence on the value of the enterprise. J Financ 18(2):280–291
+</list>
+
+
+<heading page="10" section="**Publisher's Note**" source="author" id="/page/9/SectionHeader/47" level="2">
+## **Publisher's Note**
+</heading>
+
+<text page="10" section="**Publisher's Note**" source="author" id="/page/9/Text/48">
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afliations.
+</text>
+
+</page>
+</paper>

@@ -1,0 +1,760 @@
+<paper source_file="A3.R91" title="HVAC multivariable system modelling and control" total_pages="13" figures="8" figures_with_images="8">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 8 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R91_fig01.jpg">[FIGURE: see A3.R91_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/1">
+Control
+</text>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/2" image="A3.R91_fig02.jpg">[FIGURE: see A3.R91_fig02.jpg]</figure>
+
+
+<heading page="1" section="HVAC multivariable system modelling and control" source="author" id="/page/0/SectionHeader/3" level="1">
+# HVAC multivariable system modelling and control
+</heading>
+
+<text page="1" section="HVAC multivariable system modelling and control" source="author" id="/page/0/Text/4">
+Proc IMechE Part C: J Mechanical Engineering Science 2023, Vol. 237(9) 2049–2061 - IMechE 2022 Article reuse guidelines: [sagepub.com/journals-permissions](https://uk.sagepub.com/en-gb/journals-permissions) [DOI: 10.1177/09544062221138836](https://doi.org/10.1177/09544062221138836) [journals.sagepub.com/home/pic](journals.sagepub.com/home/pic)
+</text>
+
+
+<heading page="1" section="Basim Touqan1 , Alaa Abdul-Ameer1 and Muna Salameh2" source="author" id="/page/0/SectionHeader/5" level="4">
+#### Basim Touqan1 , Alaa Abdul-Ameer1 and Muna Salameh2
+</heading>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/6" level="3">
+### Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/7">
+Heating, Ventilation and Air Conditioning (HVAC) is a multivariable process where any alteration with one system input affects most or all of the system's outputs simultaneously. Owing to its comprehensiveness, a readily derived multivariable HVAC mathematical model is selected for this work, mainly a hybrid distributed-lumped parameters model. As the transfer function matrix was not established in the selected HVAC model, it was exclusively developed in this study, using the time domain graphical responses of the chosen model. Based on the developed transfer function matrix, a conceptual two-step approach was followed to control HVAC model performance. The first was decoupling the interactions that affect all the system outputs, and the second was designing proper PID controllers for each decoupled loop similar to those used for single input single output (SISO) systems. A direct Nyquist Array (DNA) multivariable control strategy was used for this purpose and successfully decoupled the HVAC system into three separate (SISO) loops. Three PID controllers afterwards were applied for each decoupled loop. The results showed quite decoupled system outputs with a minor coupling percentage so that any change in a system input only affected the corresponding system output. The output responses are also underdamped with almost zero steady-state error confirming the effectiveness of the selected PID parameters. The values of steady-state responses are obtained in (10– 15) s compared with (200–600) s of open-loop response time. However, various overshoot percentages in the responses are encountered but are relatively small, with a short settling time, so they don't affect the thermal comfort of the ventilated volume. System stability using the Nyquist criterion has also been examined and found to satisfy the criterion. The multivariable DNA control technique and the SISO closed-loop PID controllers have shown the capability to suppress external disturbances and restore the system to its original functional steady-state values.
+</text>
+
+
+<heading page="1" section="Keywords" source="author" id="/page/0/SectionHeader/8" level="1">
+# Keywords
+</heading>
+
+<text page="1" section="Keywords" source="author" id="/page/0/Text/9">
+HVAC, transfer function matrix, multivariable control, Direct Nyquist Array, loops decoupling
+</text>
+
+<text page="1" section="Keywords" source="author" id="/page/0/Text/10">
+Date received: 24 June 2022; accepted: 9 October 2022
+</text>
+
+
+<heading page="1" section="Introduction" source="author" id="/page/0/SectionHeader/11" level="1">
+# Introduction
+</heading>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/12">
+There are many reasons why (HVAC) systems are considered so important. They are one of the major energy consumers in buildings and account for about 50% of total building energy consumption.1 Furthermore, they are essential to maintaining the standard of living for a significant portion of the global population.2 The following decades are predicted to see a sharp rise in the number of HVAC systems installed, mostly due to economic expansion, global warming and improved living standards.3,4 The effectiveness of HVAC systems can be judged by their ability to achieve thermal comfort and indoor air quality with minimal energy consumption. Based on such HVAC working efficiency requirements, indirect solutions such as passive architectural strategies were proposed to reduce the thermal load of HVAC systems so that their working time becomes lesser and thus reduced energy consumption. These architectural strategies include, for example, proper building
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/13">
+orientation, increasing building envelope insulation and using shading devices, namely external screens and louvres, as outlined in Palmero-Marrero and Oliveira.5 System engineering approaches can also contribute significantly to HVAC working efficiency requirements. In essence, the integrity of the system model; and compatibility of the control system are crucial for achieving the best results. The fundamental approach to achieving HVAC system model integrity is a proper understanding of the system structure, the internal interactions and the system's performance through incorporating the mathematical
+</text>
+
+
+<heading page="1" section="Corresponding author:" source="author" id="/page/0/SectionHeader/16" level="4">
+#### Corresponding author:
+</heading>
+
+<text page="1" section="Corresponding author:" source="author" id="/page/0/Text/17">
+Basim Touqan, The British University in Dubai, Block 10 &amp; 11, 1st and 2nd Floor, PO Box: 345015, Dubai International Academic City, Dubai, United Arab Emirates.
+</text>
+
+<text page="1" section="Corresponding author:" source="author" id="/page/0/Text/18">
+Email: basem.tuqan@buid.ac.ae
+</text>
+
+<footnote page="1" section="Corresponding author:" source="author" id="/page/0/Footnote/14">
+^(1) The British University in Dubai, Dubai, United Arab Emirates
+</footnote>
+
+<footnote page="1" section="Corresponding author:" source="author" id="/page/0/Footnote/15">
+^(2) Ajman University, Ajman, United Arab Emirates
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="Corresponding author:" source="author" id="/page/1/Text/2">
+equations describing the functions of electrical and mechanical components combined with the equations of energy equilibrium, mass reservation and heat transfer. In this sense, the need for comprehensive HVAC modelling and using systematic, scientific, multivariable feedback controller design methodology is a prerequisite. If not, energy savings and operational efficiency, which are important in constructing environmentally friendly buildings, would not be achieved.&lt;sup&gt;6&lt;/sup&gt;
+</text>
+
+<text page="2" section="Corresponding author:" source="author" id="/page/1/Text/3">
+According to Whalley and Abdul-Ameer, comprehensive modelling can be obtained by considering the inlet and extraction fans as lumped parameter realizations which provide accurate, reliable modelling methods and keeps complexity to a minimum. This will allow the pressure changes at the inlet and outlet, to and from the ventilated space, to be adjusted by voltage variations across the fan motors. However, the dimensions of ventilated volume demand a distributed parameter modelling approach where the system's physical properties are distributed along the length of the system itself. With advanced automatic control application, these modelling methods permit the computation of the varying airflow dynamics.
+</text>
+
+<text page="2" section="Corresponding author:" source="author" id="/page/1/Text/4">
+Control System is an engineering design employed by process engineers to dictate some or all related process variables or states to provide process desired output responses in terms of dynamic and steadystate behaviours. The control system's design must also have the capability to deal with unexpected external interferences, changing loads and disturbances so it can restore the system's behaviour to the originally desired reference inputs.8 From the perspective of automatic control theory, the importance of the control system arises when there is often little prospect and difficulty obtaining a state vector to regulate an industrial process in practice. Furthermore, estimating the process states using observers or filters might implicate too much complexity and creates less assertion. Therefore, directly measuring the system output vector available for feedback purposes is a better way to regulate an industrial process. However, the employment of an incomplete output vector limits the choice of the controller design method and includes some restrictions.9 Examples can be experienced when employing the 'pole assignment' control strategy; so, as highlighted by Davison, 10 a part of the system poles in the open-loop configuration can be forced to a pre-confirmed location in the s-plane employing an individual proportional controller. In contrast, the rest of the poles migrate arbitrarily. But, such a situation creates a serious performance gap and constrains many application studies. Hence, locations of the whole set of the poles related to the open-loop system can be prescribed by using output measurements alone which had been recommended by Patel and Munro.&lt;sup&gt;11&lt;/sup&gt; However, the approach necessitates the employment of dynamic controllers because such
+</text>
+
+<text page="2" section="Corresponding author:" source="author" id="/page/1/Text/5">
+dynamics can seriously affect the system performance before reaching the steady-state response. Furthermore, the problem reduces to the implementation matter as the controller-related computed dynamics cannot be tolerated due to high gains, noise amplification problems, non-minimum phase elements, etc., which are considered undesirable. Alternatively, the designer can identify poles and zeros that draw the closed poles to a desired location in the s-plane by using polynomial functions generated by the controller employed in conjunction with the naturally occurring system outputs. Practically, all the closed-loop system poles and zeros can be located using well-proven frequency-domain techniques. Consequently, single-loop and multivariable techniques combined, the Nyquist Array method as illustrated by Rosenbrock, 12 can be used, employing phase lag-lead networks, when requested to achieve an improved HVAC multivariable system performance.
+</text>
+
+<text page="2" section="Corresponding author:" source="author" id="/page/1/Text/6">
+Consequently, a comprehensive HVAC system model that accommodates all the possible components, dynamics and internal interactions of the system ending with a multivariable HVAC model along with a proper multivariable closed-loop feedback control strategy can achieve HVAC operational efficiency and thus optimized energy consumption.
+</text>
+
+
+<heading page="2" section="**HVAC** mathematical model" source="author" id="/page/1/SectionHeader/7" level="4">
+#### **HVAC** mathematical model
+</heading>
+
+<text page="2" section="**HVAC** mathematical model" source="author" id="/page/1/Text/8">
+Mathematical models are widely used for many aspects, such as operator training, simulation and fault diagnosis. &lt;sup&gt;13&lt;/sup&gt; They can also be used for some industrial processes that cannot be constructed within laboratories to measure and analyse their behaviour. Nevertheless, a small test zone was used to describe its thermal and moisture behaviour as studied in Virk et al.14 Typically, HVAC systems are too large for laboratory studies because of the size of components; for instance, long air-ways and large ventilated volumes, 15 so a practical solution would be modelling the system mathematically. However, the accuracy of the model representation is vital to obtaining reliable predicted results. The outcome of reviewing HVAC modelling works reveals that most of the HVAC models were fragmented into one or more individual components. Hence, an HVAC model represents a single loop model or multiple independent loops, each with one controlled variable to avoid reaching a complete HVAC plant. This avoidance might be caused by the anticipated complexity resulting in a comprehensive HVAC mathematical model. However, few multivariable modelling approaches were also explored. In Preglei et al.. 16 the HVAC multivariable modelling was confined to a test plant consisting of a fan, heating and cooling coils, and a steam humidifier, but, the conditioned zone model still was not explicitly included in a final mathematical model. The researchers in Satyavada et al.&lt;sup&gt;17&lt;/sup&gt; presented an integrated model
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/1">
+of an HVAC system with a boiler, radiator, AHU, thermal zone, valve, damper, fan, pump, pipes and ducts. A recirculating damper was also designed in the model to allow the amount of return air and fresh air to be mixed and to be changed in accordance with the damper control signal. Conversely, the final transfer function matrix converted from mathematical differential equations explaining the system dynamics behaviour with the analysis of the applied control technique was not presented.
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/2">
+Physics-based or white box HVAC modelling is also a technique where it employs mass and energy conservation, as well as heat transfer Equations taking into consideration the full knowledge of the concerned process.&lt;sup&gt;18&lt;/sup&gt; Equations, as described by the laws of Darcy (law of water flow), Fick (law of gaseous flow) and Fourier (law of heat flow), were used by Lü&lt;sup&gt;19&lt;/sup&gt; to derive a model that predicts indoor thermal conditions. Similarly, the authors in Tashtoush et al.&lt;sup&gt;20&lt;/sup&gt; developed a dynamic model based on Equations of energy and mass balance incorporating HVAC system components, such as room zone, cooler, heater, fan, humidifier, dehumidifier and ducts. They were conscious of the dispersed properties of the system, but they did not take the extra mile to consider the dispersed nature of the physical process in the modelling procedure due to the complexity incorporated in the model derivation method.
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/3">
+Nevertheless, due to the complex structure of complete HVAC plants, which involve many parameters governing their performance, data-driven or black box modelling methodology is sometimes preferred as it is a straightforward procedure for deriving HVAC system models. Probability Density Functions (PDF) is an example of such an approach. It is a statistical prediction method that addresses the probability distribution of a continuous random variable of a process. Modelling by predicting the weather and the room occupancy by using the Probability Density Functions (PDF) technique to identify the building thermal load was followed by Ma et al., &lt;sup&gt;21&lt;/sup&gt; Hong and Jiang, &lt;sup&gt;22&lt;/sup&gt; and Zlatanović et al. &lt;sup&gt;23&lt;/sup&gt;
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/4">
+Another modelling approach, namely the grey box modelling technique followed by Wu and Sun&lt;sup&gt;24&lt;/sup&gt; and Li et al.&lt;sup&gt;25&lt;/sup&gt; was proposed to use the physics-based Equations to build the process model while the values of the parameters can be identified by the measured data, which can be obtained by the manufacturer's operational data included in the catalogue or through a system commissioning procedure. It is worthy to mention that such models might be able to encompass the whole physical properties of the HVAC plant reaching a comprehensive model, but developing the transfer function matrix of the resulting multivariable model in the frequency domain was always missing, which is the basis of systematic, scientific, multivariable, feedback controller design methodologies.
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/5">
+On the one hand, HVAC for large ventilated volume is characterized by spatially and dimensional
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/6">
+dispersed system components such as long ventilated volume where the physical properties of air such as flow, temperature, and pressure are distributed along with the component. A similar model for airflow in a long road tunnel is recognized in Bartlett and Whalley. 26 Other components such as motors can be modelled as pointwise lumped parameters. On the other hand, considering the modelling of a building envelope, indoor space, and HVAC electrical and mechanical components creates a comprehensive HVAC multivariable model. It should be noted that such a model will lead to heavy couplings between the outputs which lead to a situation of an input change affecting all the system outputs. Despite the difficulties and the extensive mathematical operations used to decouple the interaction between the system outputs caused by a multivariable system, it can provide a model that can be, along with a compatible control strategy, the basis to secure improved HVAC system performance, thus energy-efficient building.
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/7">
+Based on the previous discussions, a hybrid distributed parameter-lumped model developed by Whalley and Abdul-Ameer is a good practical approach to represent a general HVAC system enabling compact modelling of large-scale HVAC systems. As the authors have considered the slenderness effect of some HVAC plant components, such as the long tunnel ventilated volume, where the ratio of length to diameter is high, an accurate model close to reality can be obtained. This model incorporates distributed parameter elements as well as concentrated lumped point-wise elements. It enables constructing the analytical model realizations that integrate all the dispersed salient dynamics of the system, including the finite time delay. In the meantime, without affecting the accuracy, lumped modelling is entirely appropriate for duct terminals, such as inlet, exit fan motors, and chilled water pump motors, due to their point-wise physical nature. More energy efficiency can be achieved by the installation of a recirculation duct reducing the thermal load on the cooling unit. However, time delays are incorporated in the final model, which makes it difficult to apply some control strategies.
+</text>
+
+<text page="3" section="**HVAC** mathematical model" source="author" id="/page/2/Text/8">
+Therefore, a readily derived model in the form of the time domain is found in Whalley and Abdul-Ameer&lt;sup&gt;7&lt;/sup&gt; and approved to be used in this study. The final model also incorporated the mathematical Equations that govern the variations of air stream temperature with the mathematical hybrid lumped distributed parameter model. These temperature variations are caused by (i) airflow, and pressure changes at the inlet to the indoor ventilated space, (ii) changes in air temperature caused by circulation and air conditioning effects and (iii) temperature changes caused by changes in airflow at the exit from the indoor ventilated space. The model has also considered the typical losses related to the circulation network, ducting, dynamic impedance, and steady-state friction.
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**HVAC** mathematical model" source="author" id="/page/3/Text/2">
+This study avoids reinventing the wheel to derive the complete mathematical model as it is already available in Whalley and Abdul-Ameer.7 Based on being comprehensive, it is quite practical enough to tackle and process the time domain graphical responses of this model, aiming to convert them into a transfer function matrix representing the frequency domain of the system. In addition to the multivariable decoupling control strategy used as illustrated in the upcoming sections, identification of the transfer function in Laplace Transform are the two significances of the study
+</text>
+
+
+<heading page="4" section="Multivariable control techniques" source="author" id="/page/3/SectionHeader/3" level="2">
+## Multivariable control techniques
+</heading>
+
+<text page="4" section="Multivariable control techniques" source="author" id="/page/3/Text/4">
+Today's advanced HVAC systems are designed with multiple inputs interacting on different levels with multiple outputs. Meanwhile, according to MacFarlane,27 multivariable system control application is specified with some restrictions like the internal interactions between the various system outputs, which influence each other. A conceptual two-step approach can be followed to control a multivariable system. The first is to decouple the interactions in the system transfer function so that any alteration in a system input can affect only the corresponding output. The second step is to design a proper single input single output control technique similar to those used in SISO processes.28
+</text>
+
+<text page="4" section="Multivariable control techniques" source="author" id="/page/3/Text/5">
+Certain techniques were used to decouple the multivariable system, such as the one used in O¨zgo¨ren,29 which presumes that virtual control inputs would have a decoupled, non-interactive effect on the outputs of interest. Decoupling a multivariable model by including a steady-state matrix with a low coupling percentage in the feedback control law has been approached by Whalley and Ebrahimi.30 However, the familiar approach to decouple internal loops in a multivariable system is to design a matrix of compensators to decouple the multivariable system into multiple individual loops. Many techniques to achieve such essential steps were proposed, such as the pseudo-diagonalization procedure employed in Hawkins.31
+</text>
+
+<text page="4" section="Multivariable control techniques" source="author" id="/page/3/Text/6">
+A British school-related control technique, namely Nyquist-Array in either inverse or direct array, is a multivariable control technique that combines the competency of modern algebra with the analytical procedures of classical control theory. It examines whether the internal coupling of the multivariable model is reduced or not. In addition to the Nyquist Array technique, the characteristic loci technique has also been following the same decoupling approach and reviewed in MacFarlane and Kouvaritakis.32 The H' loop-shaping design procedure also has a decoupling technique by initially developing a precompensator matrix to create a plant with desirable properties. The primary distinction in this approach
+</text>
+
+<text page="4" section="Multivariable control techniques" source="author" id="/page/3/Text/7">
+is that the matrix of the pre-compensators used in the decoupling procedure is a totally multivariable controller designed using optimization.
+</text>
+
+<text page="4" section="Multivariable control techniques" source="author" id="/page/3/Text/8">
+Several ways were researched to achieve dominance with the employment of a matrix of compensators. Obtaining a dominant matrix allows for the creation of simple controllers when other approaches would call for more complicated ones. But reaching a dominant diagonal matrix usually depends on trial and error. Therefore, more advancement in this direction is still required. The Nyquist-Array multivariable control strategy is an effective tool for multivariable control system design and analysis. Using this approach, the multivariable problem is typically divided into nearly non-interactive single-input/single-output feedback problems, which can then be resolved using conventional control design techniques. Although finding the matrix of compensators is not a trivial task, the Nyquist Direct Array control technique will be employed in this study due to its capability to reduce the internal interactions of the system, and then normal achievable classic SISO feedback controllers can be applied, aiming to obtain well-behaved HVAC system performance
+</text>
+
+
+<heading page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/SectionHeader/9" level="1">
+# Extracting HVAC transfer function matrix
+</heading>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/10">
+In the selected model developed by Whalley and Abdul-Ameer,7 the authors used MATLAB and SIMULATION software to simulate the system output graphical responses in the open-loop system configuration. Extracting the frequency domain of the model can be done by undertaking these open-loop system time-domain graphical responses and converting them into the frequency domain responses in Laplace 's' variable representation, creating a threeinput thee-outputs multivariable model. The multivariable input-output relationship is getting the following form:
+</text>
+
+<equation page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Equation/11">
+$$
+\begin{bmatrix} P(s) \\ q(s) \\ T(s) \end{bmatrix} = \begin{bmatrix} g_{11}(s) &amp; g_{12}(s) &amp; g_{13}(s) \\ g_{21}(s) &amp; g_{22}(s) &amp; g_{23}(s) \\ g_{31}(s) &amp; g_{32}(s) &amp; g_{33}(s) \end{bmatrix} \begin{bmatrix} v_{fans}(s) \\ v_{wp}(s) \\ Q(s) \end{bmatrix} (1)
+$$
+</equation>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/12">
+where:
+</text>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/13">
+P(s): First output represents the air pressure at the entry of indoor ventilated space
+</text>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/14">
+q(s): Second output represents the volume air flow rate at the entry of indoor ventilated space
+</text>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/15">
+T(s): Third output represents the air temperature at the entry of indoor ventilated space
+</text>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/16">
+vfans(s): First input represents the voltages applied at the inlet and outlet of the fans simultaneously
+</text>
+
+<text page="4" section="Extracting HVAC transfer function matrix" source="author" id="/page/3/Text/17">
+vwp(s): Second input represents the voltages applied at the chilled water pump
+</text>
+
+</page>
+<page number="5">
+<table page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Table/1">
+| Table I. (x, v | ) coordinates of air | flow rate response curve at unit | y % step change in the v_{fans}(s). |
+| --- | --- | --- | --- |
+</table>
+
+<table page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Table/2">
+| x | 0 | 25 | 50 | 75 | 100 | 125 | 150 | 175 | 500 | 525 | 550 | 575 | 600 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| у | 0 | 0.68 | 1.68 | 2.37 | 2.87 | 3.17 | 3.33 | 3.47 | 3.42 | 3.4 | 3.38 | 3.36 | 3.34 |
+</table>
+
+<figure_group page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/FigureGroup/191">
+<figure page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Figure/3" image="A3.R91_fig03.jpg">[FIGURE: see A3.R91_fig03.jpg]</figure>
+<caption page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Caption/4">
+**Figure 1.** Step responses of reduced-order in comparison with originally derived transfer functions for the air pressure, air flow rate and temperature of air at the entry of indoor ventilated space when 1% step change in voltage v_{fans}(s) is applied.
+</caption>
+</figure_group>
+
+<text page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Text/5">
+Q(s): Third input represents ambient heat transfer into the ventilated volume
+</text>
+
+<text page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Text/6">
+g_{ij}(s): Transfer function elements of the HVAC plant
+</text>
+
+<text page="5" section="Extracting HVAC transfer function matrix" source="author" id="/page/4/Text/7">
+g_{ij}(s) will be identified and calculated through MATLAB in the next section
+</text>
+
+
+<heading page="5" section="System identification" source="author" id="/page/4/SectionHeader/8" level="4">
+#### System identification
+</heading>
+
+<text page="5" section="System identification" source="author" id="/page/4/Text/9">
+This is the most important research stage, which is developing a transfer function matrix of the selected model. The developed transfer function model will be afterwards the basis for applying a suitable control strategy. MATLAB Toolbox of System Identification is used to extract the transfer function elements in Laplace variable representations. The procedure incorporates three steps. In the first, the graphical dynamical response illustrating a model open loop output, as shown in Whalley and Abdul-Ameer, will be processed to identify the (x, y) coordinates of the response curve itself. This response is supposed to embody salient dynamic characteristics of the system behaviour. Second, the identified (x, y) coordinates are introduced to MATLAB System Identification
+</text>
+
+<text page="5" section="System identification" source="author" id="/page/4/Text/10">
+generated with defined parameters which are mainly the coefficients of the numerator and denominator polynomials. It also gives the percentage of data fit, which means how much-fit the ratio of the transfer function is against the time domain data fed to the system. The coordinates of the open loop graphical model response are indeed a group of abscissa and ordinate pairs. The abscissa of a point is how far from the origin the point is on the horizontal or x - axis, while the ordinate of a point is the value that tells how far from the origin the point is on the vertical or v - axis. The Table 1 shows the identified (x, y) coordinates of the time domain for volume air flow rate response when a 1% step variation is initiated in the voltage v_{fans}(t) that powers simultaneously the inlet and exit fan motors. The data afterwards is fed to the MATLAB System Identification Application:
+</text>
+
+<text page="5" section="System identification" source="author" id="/page/4/Text/11">
+Similar tables of the eight remaining graphical time-domain responses have been identified (but not shown in this study) and fed in the same way to the MATLAB Toolbox of System Identification Application. Accordingly, nine elements of the multivariable HVAC system transfer function matrix representing the open-loop configuration is obtained in the following matrix equation:
+</text>
+
+<equation page="5" section="System identification" source="author" id="/page/4/Equation/12">
+$$
+G(s) = \begin{bmatrix} \frac{0.001402s - 2.04e - 07}{s^2 + 0.03509s + 3.44e - 09} &amp; \frac{-0.02075s^2 - 2.227e - 05s - 2.162e - 07}{s^3 + 0.2141s^2 + 8.726e - 05s + 2.189e - 06} &amp; \frac{0.001252s + 2.159e - 05}{s^2 + 0.06249s + 0.0005558} \\ \frac{-0.007734s^2 + 0.004677s + 7.761e - 08}{s^3 + 0.08749s^2 + 0.001259s + 3.132e - 07} &amp; \frac{-0.1314s - 0.001673}{s^2 + 0.0385s + 0.000147} &amp; \frac{0.02071s + 6.281e - 05}{s^2 + 0.009175s + 1.64e - 05} \\ \frac{-0.02075s^2 - 4.227e - 05s - 3.085e - 07}{s^2 + 0.0385s + 0.000147} &amp; \frac{0.000137s + 1.657e - 07}{s^2 + 0.009175s + 1.64e - 05} \\ \frac{-0.02075s^2 - 4.227e - 05s - 3.085e - 07}{s^3 + 0.4551s^2 + 0.003889s + 2.48e - 05} &amp; \frac{0.000137s + 1.657e - 07}{s^2 + 0.05461s + 0.0003927} \end{bmatrix}
+$$
+</equation>
+
+<text page="5" section="System identification" source="author" id="/page/4/Text/13">
+Application as a set of time domain data. In the third step, the transfer function of the response is estimated by MATLAB Application based on the introduced data. The resulting transfer function element will be
+</text>
+
+<text page="5" section="System identification" source="author" id="/page/4/Text/14">
+The step responses of the derived transfer function for each element of matrix equation (2) are shown in Figures 1 to 3 with the legend of 'Original Transfer Function'. These transfer functions are labelled as
+</text>
+
+</page>
+<page number="6">
+<figure_group page="6" section="System identification" source="author" id="/page/5/FigureGroup/180">
+<figure page="6" section="System identification" source="author" id="/page/5/Figure/2" image="A3.R91_fig04.jpg">[FIGURE: see A3.R91_fig04.jpg]</figure>
+<caption page="6" section="System identification" source="author" id="/page/5/Caption/3">
+Figure 2. Step responses of reduced-order in comparison with originally derived transfer functions for the air pressure, air flow rate and temperature of air at the entry of indoor ventilated space when 1% step change in water pump v_{wp}(s) is applied.
+</caption>
+</figure_group>
+
+<figure_group page="6" section="System identification" source="author" id="/page/5/FigureGroup/181">
+<figure page="6" section="System identification" source="author" id="/page/5/Figure/4" image="A3.R91_fig05.jpg">[FIGURE: see A3.R91_fig05.jpg]</figure>
+<caption page="6" section="System identification" source="author" id="/page/5/Caption/5">
+Figure 3. Step responses of reduced-order in comparison with originally derived transfer functions for the air pressure, air flow rate and temperature of air at the entry of indoor ventilated space when 1% step change in heat transfer Q(s) is initiated.
+</caption>
+</figure_group>
+
+<text page="6" section="System identification" source="author" id="/page/5/Text/6">
+original because in the next section their orders will be reduced producing new functions aiming to reduce their complexity. The responses of 'Original Transfer Function' are fit to estimation of more than 98% with the time domain graphical responses developed in Whalley and Abdul-Ameer. The responses are plotted by MATLAB at 1% change while other inputs change remain zero so the responses are shown in Figures 1 to 3
+</text>
+
+
+<heading page="6" section="Process of transfer function reduction" source="author" id="/page/5/SectionHeader/7" level="4">
+#### Process of transfer function reduction
+</heading>
+
+<text page="6" section="Process of transfer function reduction" source="author" id="/page/5/Text/8">
+Transfer function order reduction is required because multivariable control techniques incorporate complicated mathematical and algebraic operations. The reduction must consider keeping the original model's major dynamics and characteristics, which are crucial for the industrial process application performance. There are many methods that can be used to reduce the model order; the one used in this study is the Pole-Zero simplification which eliminates the similar or near pole-zero pairs. As an outcome of applying the Pole-Zero simplification procedure by MATLAB Model Reduction Application, the reduced G_{red}(s) elements are shown in matrix equation (3). Figures 1 to 3 illustrate also the responses of transfer function elements of G_{red}(s) superimposed with the responses
+</text>
+
+<text page="6" section="Process of transfer function reduction" source="author" id="/page/5/Text/9">
+of original higher-order transfer functions G(s) elements. The responses show a satisfactory relative overlapping of originally derived transfer functions in comparison to the reduced-order transfer functions maintaining almost the same transient and steady-state characteristics. This difference must be slight and minor as showed in the figures maintaining the original dynamics of the steady state and time constant otherwise order reduction wouldn't be useful.
+</text>
+
+<equation page="6" section="Process of transfer function reduction" source="author" id="/page/5/Equation/10">
+$$
+G_{red}(s) = \begin{bmatrix} \frac{0.001319}{s + 0.03509} &amp; \frac{-0.02386}{3.5s + 0.2137} &amp; \frac{0.002003}{2.8s + 0.05175} \\ \frac{-0.007193 + 0.004349}{s^2 + 0.08724s + 0.001237} &amp; \frac{-0.06996}{s + 0.006335} &amp; \frac{0.02223}{s + 0.006335} \\ \frac{-0.003539}{1.4s + 0.04581} &amp; \frac{-0.005388}{7s + 0.4465} &amp; \frac{0.0001918}{2.228s + 0.04609} \end{bmatrix}
+(3)
+$$
+</equation>
+
+
+<heading page="6" section="**Control objectives **" source="author" id="/page/5/SectionHeader/11" level="4">
+#### **Control objectives **
+</heading>
+
+<text page="6" section="**Control objectives **" source="author" id="/page/5/Text/12">
+Referring to the open-loop system responses in Figures 1 to 3, it can be observed that significant coupling exists between the output responses so that any step change at any of the system inputs causes corresponding variations in all system outputs. The error at the steady state is obvious, but the system is stable, showing no oscillation around the steady-state value. As a result, reducing the coupling between the outputs should be one of the control objectives. Meanwhile,
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="**Control objectives **" source="author" id="/page/6/Text/1">
+the system in the closed feedback control must show stability and behave satisfactorily in terms of steadystate error and settling time.
+</text>
+
+<text page="7" section="**Control objectives **" source="author" id="/page/6/Text/2">
+Furthermore, HVAC systems are exposed to many sources of disturbances. Hence, the closed feedback control has to be able to reject such disturbances with the least time and energy dissipation.
+</text>
+
+
+<heading page="7" section="**Direct Nyquist Array (DNA) **" source="author" id="/page/6/SectionHeader/3" level="1">
+# **Direct Nyquist Array (DNA) **
+</heading>
+
+<text page="7" section="**Direct Nyquist Array (DNA) **" source="author" id="/page/6/Text/4">
+Direct Nyquist Array (DNA) is a multivariable control technique where the feedback control problem related to multivariable system is reduced to a set of single closed-loop control designs. The procedure is based on reducing the interactions between system outputs by decoupling them so that a closed-loop control technique can be applied to each decoupled loop independently.
+</text>
+
+
+<heading page="7" section="System decoupling" source="author" id="/page/6/SectionHeader/5" level="4">
+#### System decoupling
+</heading>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/6">
+The decoupling procedure incorporates designing a matrix of compensators K(s) so that when it is multiplied by the plant transfer function G_{red}(s), the product is a diagonally dominant matrix. Afterwards, a closed-loop control technique can be applied to each loop independently. Mathematically, diagonal dominant means that the amplitude of any diagonal-location matrix element is greater than the summation of the amplitudes of the off-diagonal matrix elements for a row or a column. If m \times m, A(s) is a complex elements matrix, then:
+</text>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/7">
+A(s) can be said diagonal row dominant when:
+</text>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/8">
+$$
+|a_{ii}(s)| &gt; \sum_{\substack{j=1\\i\neq j}}^{m} |a_{ij}(s)| \tag{4}
+$$
+</equation>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/9">
+for all i = 1, 2, \dots, m and a_{ii}(s) is a diagonal element.
+</text>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/10">
+However, A(s) can be said column dominant when:
+</text>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/11">
+$$
+|a_{ii}(s)| &gt; \sum_{\substack{j=1\\i\neq j}}^{m} |a_{ji}(s)| \tag{5}
+$$
+</equation>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/12">
+for all i = 1, 2, \dots, m.
+</text>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/13">
+A mixture of row and column dominance is not applicable for a matrix to be diagonal dominance, so either definition will be enough.&lt;sup&gt;33&lt;/sup&gt; The diagonal dominant matrix can be also investigated graphically. A row in a matrix is graphically dominant when the union of circles centred by a_{ii}(s) with a radius value calculated by equation (6) at an extended certain range of frequencies exclude the origin of the complex plane.
+</text>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/14">
+$$
+r_i = \sum_{\substack{j=1\\i\neq j}}^m \left| a_{ij}(s) \right| \tag{6}
+$$
+</equation>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/15">
+The trial and error approach to identify the decoupling pre-compensators with no guarantee to yield a solution is the familiar approach.&lt;sup&gt;23&lt;/sup&gt; The complexity of the exercise increases with a multivariable system of a three-input three-output size. Alternatively, using a systematic way of solving a system of equations that can result from the multiplication of matrices as in equation (7) will be followed to calculate the precompensators elements with the aid of MATLAB.
+</text>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/16">
+A(s) elements can be selected purposely fulfilling equations (4) and (6). Accordingly, the matrix equation (8) is developed so that with an insight into this matrix, it can be realized that the value of the matrix diagonal element at any frequency is clearly higher than the sum of row off-diagonal elements at the same frequency
+</text>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/17">
+Since A(s) and G_{red}(s) are known matrices up to this stage, therefore, K(s) elements can be calculated mathematically with the aid of MATLAB software employing equation (7).
+</text>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/18">
+$$
+A(s) = G_{red}(s)K(s) \tag{7}
+$$
+</equation>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/19">
+$$
+A(s) = \begin{bmatrix} \frac{50s + 100}{50s^2 + 85s + 36} &amp; \frac{s + 5}{5s^2 + 35s + 60} &amp; \frac{3s + 10}{10s^2 + 35s + 30} \\ \frac{s + 10}{10s^2 + 45s + 50} &amp; \frac{200s + 200}{200s^2 + 450s + 253} &amp; \frac{s + 5}{5s^2 + 35s + 60} \\ \frac{s + 10}{10s^2 + 45s + 50} &amp; \frac{s + 5}{5s^2 + 35s + 60} &amp; \frac{200s + 400}{200s^2 + 450s + 253} \end{bmatrix} 
+(8)
+$$
+</equation>
+
+<text page="7" section="System decoupling" source="author" id="/page/6/Text/20">
+In a MATLAB script file aiming to solve simultaneous equations, K_{ij}(s) are considered as the variables and the equations are developed based on equation (7) so using the command 'solve' and running the script file yielded to have the following set of compensators:
+</text>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/21">
+$$
+K_{11}(s) = \frac{3.4737(s-50.13)(s+1.184)(s-0.657)(s+0.06942)(s+0.0573)(s+0.3509)(s+0.03271)(s+0.01782)}{(s+0.01381)(s-0.003315)} \\ K_{11}(s) = \frac{(s+0.01381)(s-0.003315)}{(s+2.5)(s+2)(s+0.9)(s+0.9)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)} \\ K_{11}(s) = \frac{(s+0.01381)(s-0.003315)}{(s+2.5)(s+2)(s+0.9)(s+0.9)(s+0.03271)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)} \\ K_{11}(s) = \frac{(s+0.01381)(s-0.003315)}{(s+2.5)(s+2)(s+0.9)(s+0.9)(s+0.03496)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)} \\ K_{11}(s) = \frac{(s+0.01381)(s-0.003315)}{(s+2.5)(s+2)(s+0.9)(s+0.9)(s+0.9)(s+0.03496)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)} \\ K_{11}(s) = \frac{(s+0.01381)(s-0.003315)}{(s+2.5)(s+2)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9)(s+0.9
+$$
+</equation>
+
+<equation page="7" section="System decoupling" source="author" id="/page/6/Equation/22">
+$$
+K_{21}(s) = \frac{-217.01(s + 3.624)(s + 0.07259)(s + 0.06379)(s + 0.06106)(s + 0.03501)(s + 0.02348)(s^2 + 0.03362s + 0.0002854)}{(s^2 + 3.161s + 2.703)}
+K_{21}(s) = \frac{(s^2 + 3.161s + 2.703)}{(s + 2.5)(s + 2)(s + 0.9)(s + 0.8)(s + 0.03496)(s + 0.02151)(s + 0.01702)(s - 0.00248)(s^2 + 0.1335s + 0.004464)}
+$$
+</equation>
+
+</page>
+<page number="8">
+<equation page="8" section="System decoupling" source="author" id="/page/7/Equation/2">
+$$
+K_{31}(s) = \frac{-676.69(s+3.797)(s+0.09354)(s+0.035)(s+0.02069)(s+0.01848)(s+0.01738)(s\frac{2}{2}+0.1115s+0.003114)}{(s+2.5)(s+2)(s+0.9)(s+0.8)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{12}(s) = \frac{-66.6(s+5.001)(s+1.141)(s+1.107)(s+0.06942)(s+0.064)(s+0.03509)(s+0.03271)(s+0.02103)(s+0.01782)}{(s-0.002463)}
+K_{12}(s) = \frac{(s-0.002463)}{(s+4)(s+3)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{22}(s) = \frac{(s^2+2.103s+1.119)}{(s+4)(s+3)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{32}(s) = \frac{(s^2+1.786s+0.8053)}{(s^2+4)(s+3)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{33}(s) = \frac{(s^2+1.786s+0.8053)}{(s+4)(s+3)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{13}(s) = \frac{-362.28(s+4)(s+3)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{13}(s) = \frac{-362.28(s+4)(s+3)(s+1.473)(s+0.06942)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}{(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{13}(s) = \frac{-362.28(s+4)(s+3)(s+1.473)(s+0.06942)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}{(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+K_{13}(s) = \frac{-362.28(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.1)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}{(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.15)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+C_{13}(s) = \frac{-362.28(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.15)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}{(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.15)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}
+C_{14}(s+3)(s+2)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.15)(s+0.03496)(s+0.02151)(s+0.01702)(s-0.00248)(s^2+0.1335s+0.004464)}{(s+4)(s+3)(s+2)(s+1.5)(s+1.15)(s+1.15)(s
+$$
+</equation>
+
+<text page="8" section="System decoupling" source="author" id="/page/7/Text/3">
+The order value of the computed compensators varies between 10th and 12th. Orders could be higher if the original HVAC transfer function elements were not reduced as done in the section of "Process of transfer function reduction". These compensators can be reduced to a multiplication of gain, first and secondorder lead-lag compensators. Some compensators include zeros and unstable poles whose locations are on the left side of the s-plane and some of them are located on the imaginary axis. Practically compensators with unstable poles should be avoided because their role is to stabilize the system. However, the approach herein is totally different as the designed compensators merely serve as 'decoupling commentators' so that the entire decoupled system G_{red}(s)K(s) can be stabilized using PID controllers.
+</text>
+
+
+<heading page="8" section="Gershgorin circles" source="author" id="/page/7/SectionHeader/4" level="2">
+## Gershgorin circles
+</heading>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/5">
+Next is to visualize the decoupling effect by plotting the Nyquist contour of each diagonal element a_{ii}(s) of A(s) matrix which is a connection of points representing the centres of the Gershgorin circles at each point of frequency in the complex plane. The range of frequencies considered in this study varies from (0.1) to (10^6) rad/sec which represent frequencies that industrial processes work within. The Gershgorin band is
+</text>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/6">
+then established by the circles centred around a_{ii}(j\omega) points and with radii of:
+</text>
+
+<equation page="8" section="Gershgorin circles" source="author" id="/page/7/Equation/7">
+$$
+\sum_{\substack{j=1\\j\neq i}}^{3} a_{ji}(j\omega) \text{ for a row at the range from } (0.1) \text{ to}
+$$
+</equation>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/8">
+(10&lt;sup&gt;6&lt;/sup&gt;)rad/sec frequencies.
+</text>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/9">
+If the Gershgorin bands are not encircling the complex plane origin, then A(s) matrix is said to be a diagonally dominant matrix. More diagonal dominance corresponds with a narrower Gershgorin band thus more cross-decoupling between the system outputs. Meanwhile, the wider Gershgorin band corresponds to less diagonal dominance and then reflected on less cross-decoupling effect between the system outputs.
+</text>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/10">
+Figure 4 shows the Gershgorin band and Nyquist diagram for each matrix element a_{11}(s), a_{22}(s) and a_{33}(s). Eventually the Gershgorin circles of each row are not encircling the complex plane origin confirming A(s) as row dominant matrix. This situation is illustrated through the magnified window shown in Figure 4
+</text>
+
+<text page="8" section="Gershgorin circles" source="author" id="/page/7/Text/11">
+This graphical situation can be interpreted that the magnitude of the diagonal elements of a matrix is quite higher than the summation of the magnitudes of both remaining off-diagonal elements. Therefore, the following equation holds:
+</text>
+
+</page>
+<page number="9">
+<figure_group page="9" section="Gershgorin circles" source="author" id="/page/8/FigureGroup/164">
+<figure page="9" section="Gershgorin circles" source="author" id="/page/8/Figure/1" image="A3.R91_fig06.jpg">[FIGURE: see A3.R91_fig06.jpg]</figure>
+<caption page="9" section="Gershgorin circles" source="author" id="/page/8/Caption/2">
+Figure 4. Gershgorin bands and Nyquist diagrams for matrix elements, a_{11}(s), a_{22}(s) and a_{33}(s).
+</caption>
+</figure_group>
+
+<equation page="9" section="Gershgorin circles" source="author" id="/page/8/Equation/3">
+$$
+|a_{ii}(s)| &gt; \sum_{\substack{j=1\\i\neq i}}^{3} |a_{ij}(s)|
+$$
+</equation>
+
+<text page="9" section="Gershgorin circles" source="author" id="/page/8/Text/4">
+This configuration allows designing a controller for each decoupled loop individually aiming to have improved system performance. C(s) is a diagonal matrix that contains loops PID controllers. The transfer function matrix of closed loop configuration is given by the following equation:
+</text>
+
+<equation page="9" section="Gershgorin circles" source="author" id="/page/8/Equation/5">
+$$
+G_{cl}(s) = \frac{H(s)}{1 + H(s)} \tag{9}
+$$
+</equation>
+
+<text page="9" section="Gershgorin circles" source="author" id="/page/8/Text/6">
+where H(s) is the transfer function matrix of open-loop configuration and given by:
+</text>
+
+<equation page="9" section="Gershgorin circles" source="author" id="/page/8/Equation/7">
+$$
+H(s) = G_{red}(s)K(s)C(s) 
+(10)
+$$
+</equation>
+
+
+<heading page="9" section="System stability test" source="author" id="/page/8/SectionHeader/8" level="4">
+#### System stability test
+</heading>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/9">
+The stability of the system at closed-loop configuration can be examined by forming Gershgorin bands for the open-loop matrix equation in (10). Criterion of Nyquist stability for multivariable systems is explained as follows:
+</text>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/10">
+If the Gershgorin bands, encircle the complex point of (-1,0J) by a number of times equal to (N_i), the system under the closed-loop loop configuration is stable if and only if:
+</text>
+
+<equation page="9" section="System stability test" source="author" id="/page/8/Equation/11">
+$$
+\sum_{i=1}^{m} N_i = p_0 \tag{11}
+$$
+</equation>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/12">
+(p_0) is number of H(s) poles which is an open-loop configuration positioned at the right of the s-plane imaginary axis. Usually, most open-loop industrial processes are stable so that (p_0 = 0), similar assumption is considered in this paper. Stability Gershgorin bands are centred about the diagonal elements h_{ii}(s) of open-loop transfer function H(s), where 1, 2, \dots, m with radii equal to summation of all elements of a particular row or column except the diagonal element h_{ii}(s).
+</text>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/13">
+The block diagram in Figure 5 is built and introduced to MATLAB/SIMULATION software while tuning the PID controllers is done through MATLAB PID tuner Tool Box application. Consequently, the following PID controllers' parameters were identified as fulfilling the system stability and improved closed-loop system responses.
+</text>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/14">
+i. PID controller for the first loop:
+</text>
+
+<equation page="9" section="System stability test" source="author" id="/page/8/Equation/15">
+$$
+PID_1 = \frac{0.05\,\mathrm{s}^2 + 0.58\,\mathrm{s} + 0.5}{\mathrm{s}}\tag{12}
+$$
+</equation>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/16">
+where: Kp_1 = 0.58, Ki_1 = 0.5, Kd_1 = 0.05
+</text>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/17">
+ii. PID controller for the second loop:
+</text>
+
+<equation page="9" section="System stability test" source="author" id="/page/8/Equation/18">
+$$
+PID_2 = \frac{-0.07 \,\mathrm{s}^2 + 1.84 \,\mathrm{s} + 4.6}{\mathrm{s}} \tag{13}
+$$
+</equation>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/19">
+where:Kp_2 = 1.84, Ki_2 = 4.6, Kd_2 = 0.07
+</text>
+
+<text page="9" section="System stability test" source="author" id="/page/8/Text/20">
+iii. PID controller for the second loop:
+</text>
+
+</page>
+<page number="10">
+<figure_group page="10" section="System stability test" source="author" id="/page/9/FigureGroup/270">
+<figure page="10" section="System stability test" source="author" id="/page/9/Figure/2" image="A3.R91_fig07.jpg">[FIGURE: see A3.R91_fig07.jpg]</figure>
+<caption page="10" section="System stability test" source="author" id="/page/9/Caption/3">
+Figure 5. Block Diagram for HVAC multivariable system under Direct Array Nyquist Controller.
+</caption>
+</figure_group>
+
+<figure_group page="10" section="System stability test" source="author" id="/page/9/FigureGroup/271">
+<figure page="10" section="System stability test" source="author" id="/page/9/Figure/4" image="A3.R91_fig08.jpg">[FIGURE: see A3.R91_fig08.jpg]</figure>
+<caption page="10" section="System stability test" source="author" id="/page/9/Caption/5">
+Figure 6. Gershgorin bands centred about the diagonal elements of, and with radii equal to the summation of the off-diagonal elements of same row.
+</caption>
+</figure_group>
+
+<equation page="10" section="System stability test" source="author" id="/page/9/Equation/6">
+$$
+PID_3 = \frac{0.93 \,\mathrm{s}^2 + 1.25}{s} \tag{14}
+$$
+</equation>
+
+<text page="10" section="System stability test" source="author" id="/page/9/Text/7">
+where: Kp^(3) = 0:93, Ki^(3) = 1:25, Kd^(3) = 0
+</text>
+
+<text page="10" section="System stability test" source="author" id="/page/9/Text/8">
+Figure 6 shows the Gershgorin bands of the diagonal elements h11ð Þs , h22ð Þs and h33ð Þs where each band is centred about the diagonal elements hiið Þs and with radii equal to the summation of the off-diagonal elements of same row. It is evident that the bands exclude the complex point of ð Þ -1, 0J fulfilling the stability criterion. Avoiding the encirclement of the complex point of ð Þ -1, 0J by the Gershgorin bands of the diagonal elements h11ð Þs , h22ð Þs and h33ð Þs confirms graphically the stability of the system under the feedback control configuration
+</text>
+
+
+<heading page="10" section="Results and discussions" source="author" id="/page/9/SectionHeader/9" level="1">
+# Results and discussions
+</heading>
+
+<text page="10" section="Results and discussions" source="author" id="/page/9/Text/10">
+Simulating the block diagram in Figure 5 by the MATLAB/SIMULATION software at different step
+</text>
+
+<text page="10" section="Results and discussions" source="author" id="/page/9/Text/11">
+input changes will be investigated. Figure 7 illustrates the responses of system outputs of the air pressure P sð Þ, volume airflow rate q sð Þ, and air temperature T sð Þ at the entry of the ventilated volume following consecutive application of 1% change at vfansð Þs , vwpð Þs and Q sð Þ one by one while other two inputs remain zero. In the first case when change is 1% at vfansð Þs while other inputs are zero, the outputs of the system are decoupled with a very small coupling percentage and underdamped with almost zero steady-state error. The steady-state responses are reaching their values in 10 s in comparison with (200–600) s of open-loop response time. The controller managed successfully to speed up the responses, however, various overshoot percentages in the responses are encountered but relatively small and with a short settling time. These overshoots don't affect the thermal comfort of the ventilated volume nor the functionality of the HVAC machinery. The same pattern of performance can be observed when a 1% change is applied at vwpð Þt with
+</text>
+
+</page>
+<page number="11">
+<figure_group page="11" section="Results and discussions" source="author" id="/page/10/FigureGroup/252">
+<figure page="11" section="Results and discussions" source="author" id="/page/10/Figure/1" image="A3.R91_fig09.jpg">[FIGURE: see A3.R91_fig09.jpg]</figure>
+<caption page="11" section="Results and discussions" source="author" id="/page/10/Caption/2">
+Figure 7. Output responses owing to consecutive application of unity percent step change at a system input while other two inputs remain zero under closed loop Direct Nyquist Array Controller.
+</caption>
+</figure_group>
+
+<figure_group page="11" section="Results and discussions" source="author" id="/page/10/FigureGroup/253">
+<figure page="11" section="Results and discussions" source="author" id="/page/10/Figure/3" image="A3.R91_fig10.jpg">[FIGURE: see A3.R91_fig10.jpg]</figure>
+<caption page="11" section="Results and discussions" source="author" id="/page/10/Caption/4">
+Figure 8. Output responses following consecutive application of unity percent step disturbance change at a system output while other two disturbance inputs remain zero under closed loop Direct Nyquist Array Controller.
+</caption>
+</figure_group>
+
+<text page="11" section="Results and discussions" source="author" id="/page/10/Text/5">
+zero change on the other inputs. The output responses are also decoupled with a very small cross interaction between the loops. In the third response, it is a bit different, when a 1% change of heat transfer Q sð Þ is initiated, the interaction between the loops is also zero but the air temperature T sð Þ takes 15 s to reach the steadystate value. This longer response time is caused by the selection of the PID parameters for this particular decoupled loop. It is worthy to mention that PID parameters are subject to change over time which could lead to reducing the stability margin, therefore it is recommended to have a large stability margin in order to maintain a well-behaved system response under the selected control strategy as long as possible. Nevertheless, more PID tuning can be carried out to have more robustness of the system performance but at the price of reducing the stability margin and having slower system output responses.
+</text>
+
+<text page="11" section="Results and discussions" source="author" id="/page/10/Text/6">
+Performance assessment, when exposed to disturbance effect on its outputs, will be investigated too. The disturbance effect will be examined when there are no changes in the system reference inputs vfansð Þs , vwpð Þs and Q sð Þ. Figure 8 shows the system output responses when consecutive disturbance signals d1ð Þs , d2ð Þs and d3ð Þs shown in Figure 5 are applied alternatively one by one on the system outputs P sð Þ, q sð Þ and T sð Þ at the inlet of the ventilated volume. In
+</text>
+
+<text page="11" section="Results and discussions" source="author" id="/page/10/Text/7">
+the first case when change is 1% at d1ð Þs is initiated while other disturbance signals are zero, the system under Direct Nyquist Array Controller was successful to reject the disturbance where the system outputs are returned to close to zero change corresponding to the zero reference input changes. The same Performance can also be observed in the second case when unity step disturbance change at d2ð Þs is initiated while other disturbance signals are zero. In the third case when unity step disturbance change at d3ð Þs is initiated while other disturbance signals are zero, a wellbehaved system is also obtained in this condition and the system outputs are recovered to its zero-original reference, but a bit slower than other two cases. Consequently, the closed-loop multivariable DNA controller along with the SISO PID controllers have shown capability in suppressing the external disturbances and restoring the system to original reference values.
+</text>
+
+
+<heading page="11" section="Conclusion" source="author" id="/page/10/SectionHeader/8" level="1">
+# Conclusion
+</heading>
+
+<text page="11" section="Conclusion" source="author" id="/page/10/Text/9">
+An HVAC system is classified as a building's highest energy consumer. Reliable and accurate HVAC mathematical models, as well as a suitable control strategy, are part of the efforts to achieve greater
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/2">
+building energy efficiency. This study followed a thorough exploration method to identify an accurate, comprehensive, mathematically HVAC system model, mainly a hybrid distributed parameterlumped model. It enables constructing the analytical model realizations that integrate all the dispersed salient dynamics of the long-ventilated volume, including the finite time delay. In the meantime, without affecting the accuracy, lumped modelling is entirely appropriate for duct terminals, such as inlet and exit fan motors, as well as chilled water pump motors. Since the transfer function matrix was not developed in the approved model-related article, it was exclusively developed in this study employing System Identification Application by MATLAB and using the graphical time domain responses. The transfer function matrix becomes the basis for systematic, scientific, multivariable feedback controller design. Following two conventional steps, Direct Nyquist Array (DNA) control strategy is applied to the derived transfer function matrix. In the first step, it successfully managed to decouple the HVAC system into three separate single input single output (SISO) loops and afterwards, a feedback control technique, mainly PID, is used for each loop individually in the second step. According to the results obtained, the system's outputs are decoupled with a very low coupling percentage, which means that each change in a system input only affects the associated system output. The underdamped system output responses and practically negligible steady-state error demonstrate the effectiveness of the chosen PID parameters.
+</text>
+
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/3">
+In contrast to the open-loop response time of (200–600) s, the values of steady-state responses in the closed-loop configuration are obtained in (10–15) s speeding up the responses. However, different overshoot percentages in the responses are observed, but they are often negligible and settle quickly. Thus, they have little impact on the ventilated volume's thermal comfort. The Nyquist criterion for system stability has also been investigated and confirmed to satisfy the requirement. The SISO closed-loop PID controllers and the multivariable DNA control technology have demonstrated the ability to suppress outside disturbances and return the system to its original functional steady-state values.
+</text>
+
+
+<heading page="12" section="Declaration of conflicting interests" source="author" id="/page/11/SectionHeader/4" level="4">
+#### Declaration of conflicting interests
+</heading>
+
+<text page="12" section="Declaration of conflicting interests" source="author" id="/page/11/Text/5">
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="12" section="Funding" source="author" id="/page/11/SectionHeader/6" level="4">
+#### Funding
+</heading>
+
+<text page="12" section="Funding" source="author" id="/page/11/Text/7">
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="12" section="References" source="author" id="/page/11/SectionHeader/8" level="4">
+#### References
+</heading>
+
+<list page="12" section="References" source="author" id="/page/11/ListGroup/434">
+- 1. Chua KJ, Chou SK, Yang WM, et al. Achieving better energy-efficient air conditioning – A review of technologies and strategies. Appl Energy 2013; 104: 87–104.
+- 2. Ma Z, Ren H and Lin W. A review of heating, ventilation and air conditioning technologies and innovations used in solar-powered net zero energy Solar Decathlon houses. J Clean Prod 2019; 240: 118158.
+- 3. Isaac M and van Vuuren DP. Modeling global residential sector energy demand for heating and air conditioning in the context of climate change. Energy Policy 2009; 37(2): 507–521.
+- 4. Pe´rez-Lombard L, Ortiz J and Pout C. A review on buildings energy consumption information. Energy Build 2008; 40(3): 394–398.
+- 5. Palmero-Marrero AI and Oliveira AC. Effect of louver shading devices on building energy requirements. Appl Energy 2010; 87(6): 2040–2049.
+- 6. Zaheer-uddin M. Temperature and humidity control of indoor environmental spaces. Energy Build 1993; 19(4): 275–284.
+- 7. Whalley R and Abdul-Ameer A. Heating, ventilation and air conditioning system modelling. Build Environ 2011; 46(3): 643–656.
+- 8. Albertos P and Sala Pea¨ rez A. Multivariable control systems: an engineering approach. London: Springer, 2004.
+- 9. Whalley R and Ebrahimi M. Multivariable system regulation with minimum control effort. Proc IMechE, Part I: J Systems and Control Engineering 1999; 213(6): 505–514.
+- 10. Davison E. On pole assignment in linear systems with incomplete state feedback. IEEE Trans Automat Contr 1970; 15(3): 348–351.
+- 11. Patel RV and Munro N. Multivariable system theory and design. Oxford, New York, Toronto, Sydney, Paris, Frankfurt [Main I.E. Kronberg-Taunus]: Pergamon Press, 1982.
+- 12. Rosenbrock HH. Discussion contributions. IFAC Proc Volumes 1974; 7(1): 143–147.
+- 13. Homod RZ. Review on the HVAC system modeling types and the shortcomings of their application. J Energy 2013; 2013: 1–10.
+- 14. Virk GS, Cheung JYM and Loveday DL. Occupancy and refurbishment effects on digital modelling for buildings. Proc IMechE, Part I: J Systems and Control Engineering 1994; 208(3): 169–175.
+- 15. Whalley R and Abdul-Ameer A. Ventilation system modeling and turbulence minimization. Int J Model Simul Sci Comput 2014; 05(01): 1350017.
+- 16. Preglej A, Rehrl J, Schwingshackl D, et al. Energy-efficient fuzzy model-based multivariable predictive control of a HVAC system. Energy Build 2014; 82: 520– 533.
+- 17. Satyavada H, Babuska R and Baldi S. Integrated dynamic modelling and multivariable control of HVAC components. In: European Control Conference (ECC), 2016, pp.1171–1173.
+- 18. Afram A and Janabi-Sharifi F. Theory and applications of HVAC control systems – A review of model predictive control (MPC). Build Environ 2014; 72: 343–355.
+- 19. Lu¨ X. Modelling of heat and moisture transfer in buildings. Energy Build 2002; 34(10): 1045–1054.
+</list>
+
+</page>
+<page number="13">
+<text page="13" section="References" source="author" id="/page/12/Text/1">
+Tashtoush B, Molhim M and Al-Rousan M. Dynamic model of an HVAC system for control analysis. *Energy *2005; 30(10): 1729–1745.
+</text>
+
+<list page="13" section="References" source="author" id="/page/12/ListGroup/150">
+- Ma Y, Matusko J and Borrelli F. Stochastic Model Predictive Control for building HVAC systems: Complexity and Conservatism. *IEEE Trans Control Syst Technol* 2015; 23(1): 101–116.
+- Hong T and Jiang Y. Stochastic weather model for building HVAC systems. *Build Environ* 1995; 30(4): 521–532.
+- Zlatanović I, Gligorević K, Ivanović S, et al. Energysaving estimation model for hypermarket HVAC systems applications. *Energy Build* 2011; 43(12): 3353– 3359.
+- 24. Wu S and Sun J-Q. A physics-based linear parametric model of room temperature in office buildings. *Build Environ* 2012; 50: 1–9.
+- 25. Li J, Poulton G, Platt G, et al. Dynamic zone modelling for HVAC system control. *Int J Model Identification Control* 2010; 9(1/2): 5.
+- 26. Bartlett H and Whalley R. Analogue solution to the modelling and simulation of distributed-lumped parameter systems. *Proc IMechE, Part I: J Systems and Control Engineering* 1998; 212(2): 99–114.
+</list>
+
+<list page="13" section="References" source="author" id="/page/12/ListGroup/151">
+- MacFarlane AG. Return-difference and return-ratio matrices and their use in analysis and design of multivariable feedback control systems. *Proc Inst Electr Eng *1970; 117(10): 2037.
+- Bosgra H. Multivariable Feedback Control  analysis and Design (Skogestad, S. and Postlewaite, I.; 2005) [book review]. *IEEE Control Syst* 2007; 27(1): 80–81.
+- Özgören MK. An algebraic method for designing controllers for multi-input multi-output linear systems via s-domain input-output decoupling. *Proc IMechE, Part I: J Systems and Control Engineering* 2009; 223(2): 263–274.
+- Whalley R and Ebrahimi M. Optimum multivariable wind tunnel system control. *Proc IMechE, Part I: J Sys*tems and Control Engineering 2005; 219(7): 519–531.
+- Hawkins DJ. "Pseudodiagonalisation" and the inverse-Nyquist array method. Proc Inst Electr Eng 1972; 119(3): 337.
+- 32. MacFarlane AGJ and Kouvaritakis B. A design technique for linear multivariable feedback systems. *Int J Control* 1977: 25(6): 837–874.
+- Leininger GG. An interactive design suite for the multivariable Nyquist Array method. *IFAC Proc Volumes *1979; 12(7): 325–330.
+</list>
+
+</page>
+</paper>

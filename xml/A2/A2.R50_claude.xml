@@ -1,0 +1,611 @@
+<paper source_file="A2.R50" title="**Implementation **" total_pages="26" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="**Implementation **" source="author" id="/page/0/SectionHeader/2" level="1">
+# **Implementation **
+</heading>
+
+
+<heading page="1" section="Reader's guide" source="author" id="/page/0/SectionHeader/3" level="2">
+## Reader's guide
+</heading>
+
+<text page="1" section="Reader's guide" source="author" id="/page/0/Text/4">
+In Chapter 2 we argued that a public policy is intended to solve a certain social problem that has reached the institutional agenda. As a rule, the problem that initiated the policy-making process can only be solved effectively if the adopted policy is properly put into practice. If a given policy is introduced but insufficiently implemented, it is possible that the ultimate result will be less desirable than the previous state. Despite the importance of this aspect, for a long time there has been the (implicit) assumption that once a policy is adopted, it will be implemented and then produce the desired results. This expectation rests upon a number of conditions, which may not be found in all political systems. Rather, implementation research has demonstrated that it is anything but a straightforward task to put public policies into practice. Most importantly, the specific interests of actors are likely to affect the outcomes. In this chapter, the central focus is on what has been called 'post-decisional' politics. We will approach the implementation of public policy from different analytical angles, including a clarification as to which actors implement public policy and a presentation of the major theoretical perspectives on implementation activities (which can combine 'top-down' and 'bottom-up' approaches). We then propose categories for assessing the degree to which a policy can be implemented effectively and identify factors that might hamper such implementation. The latter also include considerations about the design of public policies, thus underscoring the interlinkage between decision-making and implementation.
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="Reader's guide" source="author" id="/page/1/Text/3">
+Policy implementation is the stage in the policy-making process where a policy is put into effect by the responsible bureaucracies. So implementation is the stage in the policy cycle where there is a connection between policy-makers and policy addressees, mediated by the implementers. In more technical terms, implementation involves the transformation of a policy output into a policy outcome. The attainment of the intended policy outcome is a necessary condition for bringing about the desired policy impact. However, it should be kept in mind that only the policy outcome can be directly affected by the implementers but not the policy impact since the latter might also by affected by additional factors. Therefore, all arguments made in this chapter solely concern the process of how policy outputs are turned into policy outcomes, leaving completely aside considerations about policy impacts.
+</text>
+
+<text page="2" section="Reader's guide" source="author" id="/page/1/Text/4">
+What happens to a policy or political programme after its official passing by the government or the legislature? How do the formal transposition and the practical application of legal acts take shape? Which problems and deviations from the initial objectives can be observed? At first glance, it could be assumed that questions like these are relatively trivial. Why do problems in the execution of an apparently well-devised measure that was accepted by the cabinet and/or parliament subsequently emerge? In practice, numerous problems with implementation routinely occur. In this chapter we will show that the study of implementation is multi-faceted and demanding in both empirical and theoretical terms.
+</text>
+
+<text page="2" section="Reader's guide" source="author" id="/page/1/Text/5">
+Analysing policy implementation always involves a judgement about the intended policy outcomes and about those actually achieved. Therefore, most approaches to implementation evaluate whether there is a difference between expected and achieved outcomes. Related to this is the often implicit assumption that there are 'implementation problems', that is, a policy cannot be put in place as intended by policy-makers due to the implementers' failure to overcome obstacles. Hogwood and Gunn (1984: 197) refer to such situations as 'non-implementation'; and they introduce a second type of implementation problems, i.e. 'unsuccessful implementation', which is seen to occur when a public policy fails to produce the intended outcome despite being fully implemented. While we only refer to implementation problems in the sense of non-implementation in this chapter, Hogwood and Gunn's second category suggests that the study of policy implementation is closely related to evaluation research. Indeed, Pressman and Wildavsky (1973) regarded policy implementation as the 'missing link' between policy-making and evaluation.
+</text>
+
+</page>
+<page number="3">
+
+<heading page="3" section="Who is involved in policy implementation?" source="author" id="/page/2/SectionHeader/3" level="1">
+# Who is involved in policy implementation?
+</heading>
+
+<text page="3" section="Who is involved in policy implementation?" source="author" id="/page/2/Text/4">
+In most polities, policy implementation is primarily carried out by different levels of bureaucracy. At the central level, there are the various national ministries (education, defence, trade, etc.), which form the core of the executive branch. Also at the central level, there are autonomous agencies located outside of the ministries that are charged with implementing public policy. These are set up with specialized expertise for dealing with complex or new policy areas. Therefore, in 1970, the United States government founded the Environmental Protection Agency, which is responsible for the implementation of environmental policy. Many countries, such as Ireland or the United Kingdom, followed the example of the United States and created such agencies.
+</text>
+
+<text page="3" section="Who is involved in policy implementation?" source="author" id="/page/2/Text/5">
+This international trend of delegating implementation – and often also policy formulation – competencies to autonomous agencies is based on the assumption that these will improve overall implementation performance and efficiency (Bouckaert and Peters 2004). This is also related to the idea of separating politics from administration and insulating certain decisions from political considerations, which is expected to minimize deviations from the original intentions of policy-makers and prevent delays (see Pollitt and Talbot 2004; Pollitt *et al.* 2004). Regulatory agencies are a subgroup of such autonomous agencies and one of their main tasks is to implement public policy in market-related areas, such as electricity, telecommunications or water supply. These bodies carry out regulation using their own delegated power, resources and responsibilities (see Gilardi 2008).
+</text>
+
+<text page="3" section="Who is involved in policy implementation?" source="author" id="/page/2/Text/6">
+While centrally located ministries and autonomous agencies play an important role in policy implementation, national policy is also implemented by public entities at the local level. Employment and to a certain extent also social policy is usually carried out by local employment agencies. In Germany, for example, employment agencies do not only support job seekers to find an employer, they are also responsible for processing applications for many kinds of social benefits, including child benefits, business start-up and part-time working allowances, unemployment benefits and insolvency payments, providing vocational and further training, and the integrating of older and disabled people into the labour market. In a similar vein, the 20 District Health Boards in New Zealand are responsible for implementing national health policy by providing or funding the provision of health care services.
+</text>
+
+<text page="3" section="Who is involved in policy implementation?" source="author" id="/page/2/Text/7">
+There are also public policies that are implemented by multiple organizations, which might even be located at different levels of government. In such a situation, implementation involves collaborative efforts and brings inter-organizational relations to the fore. Recent empirical studies have pointed out that a considerable share of legislation requires multiorganizational structures (see Hall and O'Toole 2000). In this context,
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="Who is involved in policy implementation?" source="author" id="/page/3/Text/3">
+the role of inter-organizational networks has been emphasized as they can provide an effective means of coordination. Such networks are relatively stable structures through which individuals and organizations act in situations in which they are dependent on the contributions of others (Hanf and O'Toole 1992). Drug policy is an area that typically requires the collaborative efforts of different ministries and agencies to implement it properly due to its intersectoral character, which can involve the ministry of health and local health offices as well as other ministries and/or agencies working in the fields of education, finance, economy, trade, foreign affairs and criminal justice.
+</text>
+
+<text page="4" section="Who is involved in policy implementation?" source="author" id="/page/3/Text/4">
+Depending on the specific policy to be implemented, bureaucracies can have more or less decisional discretion. For example, in the case of unemployment benefits specific conditions are defined for eligibility, the levels of benefits and the duration of their payment. Therefore, most bureaucratic decisions on the implementation of such benefits involve the application of the conditions specified in the legislation to the facts of the case at hand. Bureaucracies might, however, have greater leeway in the interpreting of policy outputs if these are characterized by vague policy contents or goals. An example of such a difficult to define policy goal is the achievement of sustainable development, which is a very broad concept that involves an ecological, a social and an economic dimension. In such cases, the bureaucracy can certainly shape public policy by providing an operational definition of vague policy objectives. As we will show later in this chapter, policy outputs characterized by vagueness, inconsistency and complexity have higher chances of being implemented inconsistently.
+</text>
+
+<text page="4" section="Who is involved in policy implementation?" source="author" id="/page/3/Text/5">
+All in all, policy implementation is far from being a trivial activity. It involves multiple actors located in different public entities that may or may not have the same preferences concerning the way in which a given policy should be implemented. Thus, when looking at how implementation is carried out, it is not surprising that most studies concentrate on deviations from legislation. However, as we will outline in the next section, such deviations are not always perceived as problematic.
+</text>
+
+
+<heading page="4" section="Key points" source="author" id="/page/3/SectionHeader/6" level="2">
+## Key points
+</heading>
+
+<list page="4" section="Key points" source="author" id="/page/3/ListGroup/76">
+- ☐ Policy implementation is primarily carried out by bureaucratic actors.
+- ☐ These can be ministries or autonomous agencies located at the central or the local level.
+- ☐ There has been an international trend to transfer implementation competences to autonomous agencies, triggered by the idea that they can carry these tasks out in more efficient ways.
+</list>
+
+</page>
+<page number="5">
+
+<heading page="5" section="Analytical perspectives in implementation research" source="author" id="/page/4/SectionHeader/3" level="1">
+# Analytical perspectives in implementation research
+</heading>
+
+<text page="5" section="Analytical perspectives in implementation research" source="author" id="/page/4/Text/4">
+At the most basic level, implementation is about putting new public policy into practice. While at first glance this definition is straightforward, the empirical analysis is complex as it encompasses various actions by public and private actors that are directed at the achievement of certain goals specified in terms of their policy outputs (Van Meter and Van Horn 1975: 447). To illustrate this point, let us assume that a government has adopted a policy that requires food products to be labelled in a transparent and easy-to-understand manner in order to increase consumer trust (i.e. the policy objective). The food industry (i.e. the target group) may not comply with the requirements unless its products are to be scrutinized by the responsible administrative agency (e.g. the food standards agency). Thus, to achieve the intended policy outcome, compliance with the relevant policy has to be monitored. However, the policy could, in principle, also demand that a specific website is established on which consumers can complain about food products that are insufficiently labelled. Again, the target group of the policy would be the food industry and the policy outcome a modification of product labelling. This time, however, the activity of the implementers would involve the establishment and maintenance of the requested website. Many more examples could be given here, but what matters is that there is not only one way of implementing policy outputs and often implementation requires multiple actions, which further complicates analysis.
+</text>
+
+<text page="5" section="Analytical perspectives in implementation research" source="author" id="/page/4/Text/5">
+The diversity of activities is reflected in the theoretical perspectives adopted to describe and explain policy implementation. The traditional approach is characterized by a top-down perspective, which concentrates on policy outputs and investigates the extent to which the intended objectives have been achieved over time and why. In the late 1970s and early 1980s, the bottom-up perspective emerged. This perspective analyses the multitude of actors who interact at the operational level of a particular policy issue. Bottom-up models usually stress the strong interlinkages between the stages of policy formulation, implementation and reformulation (Sabatier 1986: 22). More recently, hybrid models of implementation have been advanced, which seek to overcome the divide between the other two approaches by incorporating elements of top-down, bottom-up and other theoretical models (Pülzl and Treib 2007: 90). In this section, we present the main characteristics of these three approaches.
+</text>
+
+
+<heading page="5" section="Top-down models of policy implementation" source="author" id="/page/4/SectionHeader/6" level="2">
+## Top-down models of policy implementation
+</heading>
+
+<text page="5" section="Top-down models of policy implementation" source="author" id="/page/4/Text/7">
+In their path-breaking study on policy implementation, Pressman and Wildavsky (1973) demonstrated that great deviations and shifts in policy
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Top-down models of policy implementation" source="author" id="/page/5/Text/3">
+goals can occur during the implementation phase. The subtitle of their book concisely summarizes the central finding of the analysis: 'How Great Expectations in Washington Are Dashed in Oakland; or, Why It's Amazing that Federal Programs Work at all'. According to the authors, deviations in policy goals are likely if action depends upon a number of actors who are required to cooperate. Hence, the longer the implementation chain and the greater the number of actors involved in the process, the more difficult implementation becomes.
+</text>
+
+<text page="6" section="Top-down models of policy implementation" source="author" id="/page/5/Text/4">
+The approach of Pressman and Wildavsky corresponds to rational choice theories as they conceive of implementation as purposive action by different groups of actors with different preferences. Since the success of implementation depends on the cooperation of actors, there is a relatively high chance that problems will occur, which implies a mismatch between intended policy objectives and the actual outcomes. Put this way, implementation can be analysed by means of game theory, as outlined in Chapter 4. So implementation can be modelled as a 'one-shot' or a repeated game (see also Bardach 1977). The reasoning about the importance of the number of actors involved in the implementation process, i.e. the length of the implementation chain, resembles the argument underlying the theories of veto points and veto players presented in Chapter 6. In both cases, that is during decision-making and implementation, a greater number of actors can lead to conflict over policy goals as well as delays and deviations from what policy-makers originally intended.
+</text>
+
+<text page="6" section="Top-down models of policy implementation" source="author" id="/page/5/Text/5">
+The central finding of Pressman and Wildavsky that shifts in policy objectives can be frequently observed during the implementation stage is closely associated with the top-down approach (see Smith 1973; Van Meter and Van Horn 1975; Hood 1976; Sabatier and Mazmanian 1980; Mazmanian and Sabatier 1983; Hogwood and Gunn 1984; Sabatier 1986). Most importantly, this perspective makes a clear distinction between the stages of policy formulation and implementation (Hill 2009: 196). It is only on this basis that an actual comparison between policy requirements and their degree of actual implementation is possible. The degree of goal attainment serves as an indicator of implementation success; and effective implementation corresponds to a match between policy objectives and outcomes. If the objective of national legislation is, for instance, to set a certain standard for industrial emissions into the air, effective implementation is achieved as soon as the prescribed emission levels are met by the industry. Likewise, an effective implementation of bans on smoking in public buildings requires that appropriate steps are taken by the authorities in these buildings to make sure that nobody smokes inside. This can be achieved by no-smoking signs, the removal of ashtrays, monitoring and the announcement of sanctions.
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="Top-down models of policy implementation" source="author" id="/page/6/Text/2">
+In this context, Van Meter and Van Horn (1975) put forward a model in which they combine the characteristics of the policy to be implemented, institutional characteristics of the implementation agencies and how these are interrelated with other relevant organizations, contextual factors (including the economic, social and political environment) and the response of the implementers to all these factors. Based on this model, the authors hypothesize that implementation will be most successful when the policy output only requires marginal changes as compared to the status quo and when goal consensus among the public and private actors involved is high.
+</text>
+
+<text page="7" section="Top-down models of policy implementation" source="author" id="/page/6/Text/3">
+The logic of the top-down perspective is also well illustrated by the four-step model suggested by Sabatier and Mazmanian (1980). The model first addresses the extent to which the actions of implementing officials and target groups were consistent with the objectives and procedures outlined in a public policy. Next, they focus on the extent to which the objectives were attained over time. Thirdly, they evaluate the principal factors affecting policy outcomes. Finally, they suggest analysing whether and how the policy was reformulated on the basis of experience. Even though the main characteristics of policy evaluation will only be introduced in Chapter 8, it is apparent that the analytical perspective advanced by Sabatier and Mazmanian is 'evaluative' (see Laws and Hajer 2008: 411), especially when looking at the fourth step which points out a feedback process (Hill and Hupe 2009: 49). This observation holds true more generally for the various top-down models, as they all compare actual with expected policy outcomes in order to assess the degree to which they are congruent.
+</text>
+
+<text page="7" section="Top-down models of policy implementation" source="author" id="/page/6/Text/4">
+While the top-down perspective has produced many interesting insights into implementation processes, it has also been met with three sets of criticisms (Matland 1995: 147-8). First, this perspective takes policy outputs as the starting point of analysis and disregards actions taken earlier in the process, especially during policy drafting. Second, top-down models tend to see implementation as a purely administrative process that ignores political aspects. However, as already discussed in Chapter 4, bureaucratic actors may not be 'Weberian' in nature and always make independent decisions based on technical criteria, but might also pursue their own interests in accordance with the argument put forward by Niskanen (1971) and other theorists of public choice (for an overview, see Mueller 2003). Third, top-down models have been criticized for not taking into account local actors and the particular conditions for policy implementation at the 'street level'. These points of criticism paved the way for bottom-up models of policy implementation.
+</text>
+
+</page>
+<page number="8">
+
+<heading page="8" section="Bottom-up models of policy implementation" source="author" id="/page/7/SectionHeader/3" level="2">
+## Bottom-up models of policy implementation
+</heading>
+
+<text page="8" section="Bottom-up models of policy implementation" source="author" id="/page/7/Text/4">
+Bottom-up models regard effective implementation in a process-oriented way that abandons the divide between policy formulation and implementation (see Berman 1978; Lipsky 1980; Hjern and Porter 1981; Hjern 1982; Hjern and Hull 1982). Policy objectives and instruments are no longer defined as benchmarks to be reached; instead it is expected that they may undergo modifications during the process of implementation. Implementers have flexibility and autonomy to adjust policy in the light of particular local requirements and changes in the perception or constellation of policy problems, as well as new scientific evidence on the causal relationships between means and ends. Hence, effective implementation is not measured by the attainment of a certain centrally defined objective, but judged by the extent to which the perceived outcomes correspond with the preferences of the actors involved. The crucial question for evaluating implementation success is the extent to which a certain policy allowed for processes of learning, capacitybuilding and support-building in order to address problems associated with it in a decentralized way, consistent with the interests of the actors involved (see Wilson 1989; Schneider and Ingram 1997).
+</text>
+
+<text page="8" section="Bottom-up models of policy implementation" source="author" id="/page/7/Text/5">
+It is important to note that policy implementation occurs at two levels. Firstly, there is the macro-implementation level comprising central actors that devise a policy output. Secondly, local actors at the micro-implementation level react to macrolevel policies and develop their own proand implement them. According to Berman grammes implementation problems stem from the fact that the macro-implementation level cannot influence microlevel implementers, leading to a variation in how the same national policy is implemented at the local level (Matland 1995: 148). This corresponds to the logic of the principal-agent problem which we outlined in Chapter 6: the agent (here, the local implementers) can be inclined to deviate from the principal (here, the centrally located actors). We will return to this point later in this chapter as agency problems represent an important source of imperfect implementation.
+</text>
+
+<text page="8" section="Bottom-up models of policy implementation" source="author" id="/page/7/Text/6">
+In this regard, Lipsky (1980) argues that the likelihood of local implementers or street-level bureaucrats deviating from centrally defined policy objectives stems from pressures imposed on them and how they cope with them. They develop methods of providing a service in a relatively routine way. These local implementers are oppressed by the bureaucracy within which they work and yet they possess discretionary freedom and autonomy. Against this background, street-level bureaucrats make choices about the use of scarce resources under pressure. So, increasing the monitoring of local implementers would not reduce the odds of imperfect implementation but increase the tendency to provide routine services and variations at the local level, as routines might vary
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="Bottom-up models of policy implementation" source="author" id="/page/8/Text/2">
+from one local unit to another (see Hill and Hupe 2009: 52–3). Therefore, Hjern and Porter (1981), Hjern (1982) and Hjern and Hull (1982) suggest that bottom-up studies of implementation will be particularly insightful if they focus on microlevel implementers and their goals and preferences as well as the constraints they face.
+</text>
+
+<text page="9" section="Bottom-up models of policy implementation" source="author" id="/page/8/Text/3">
+This conception challenges the simplifying assumptions of the top-down perspective and tries to take into account the complexity of the implementation processes. Thus, it is emphasized that the formulation of clear-cut objectives often contrasts with the interests of politicians who have a preference for vague and ambiguous objectives in order to facilitate a positive evaluation later and to make detection of potential failures more difficult. In addition, the bottom-up perspective accounts for the fact that implementation processes are rarely characterized by a clear delineation of competencies between the political and administrative actors involved at different institutional levels. Hence, implementation is based less on hierarchically defined and controlled requirements, and instead can be understood as a bargaining between a great number of public and private actors as well as administrative agencies participating in the implementation process.
+</text>
+
+<text page="9" section="Bottom-up models of policy implementation" source="author" id="/page/8/Text/4">
+The precise mapping of the complexities of the implementation process inherent in the bottom-up approach also introduces problems when it comes to the measurement of success. As effective implementation is not measured on the basis of a comparison between initial objectives and actual achievements, but on the extent to which goals have been reached by taking into account the specific conditions 'on the ground', general and comparative assessments of effectiveness are difficult (Knill and Lenschow 2000). In addition, there are two further frequently expressed criticisms of bottom-up models (Matland 1995: 149–50). First, there is the normative criticism that in democratic polities local implementers should be subject to central control. Second, bottom-up models tend to over-emphasize the level of local autonomy as often it is the policy itself that defines how it should be implemented.
+</text>
+
+
+<heading page="9" section="Hybrid models of policy implementation" source="author" id="/page/8/SectionHeader/5" level="2">
+## Hybrid models of policy implementation
+</heading>
+
+<text page="9" section="Hybrid models of policy implementation" source="author" id="/page/8/Text/6">
+In view of the specific problems of both top-down and bottom-up models, there have been increasing efforts to combine the two perspectives and enrich them with additional theoretical approaches (see Mayntz 1979; Windhoff-Héritier 1980; Elmore 1985; Sabatier 1986; Matland 1995; Winter 2003; O'Toole 2003). As a rule, hybrid models seek to integrate the 'macroworld' of the policy-makers with the 'microworld' of the implementers (McLaughlin, 1987: 177). One possibility is to integrate both approaches into one model (see Goggin *et al.* 1990; Winter 2003). Other authors (see Sabatier 1986; Matland 1995) identify additional con-
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/3">
+ditions of scope that in a given constellation render a distinctive approach more or less analytically promising or suitable. These conditions include, the ambiguity of political objectives, the level of political conflict surrounding a policy decision, the complexity of policy networks, and government capacity (see Linder and Peters 1989; Knill and Lenschow 2000; Pülzl and Treib 2007).
+</text>
+
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/4">
+Particularly insightful is the hybrid model of policy implementation advanced by Matland (1995), which analyses the ambiguity and conflict levels of policies to determine whether a top-down or a bottom-up approach is more appropriate for explaining a particular implementation process. Policy ambiguity refers to a lack of clarity of goals and/or means of achieving them. Policy conflict is the difference between the most preferred outcome of an implementation agency and the output that the agency has to implement. The conception of these two dimensions as being high or low gives way to four ideal-typical implementation processes: administrative, political, experimental and symbolic.
+</text>
+
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/5">
+Administrative implementation involves low policy ambiguity and low policy conflict. Policy outcomes are determined by resources, and the process is compared to a machine, which is the central policy-making authority. All in all, administrative implementation fits with the top-down model.
+</text>
+
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/6">
+Political implementation involves low policy ambiguity and high policy conflict. In such constellations, actors have clearly defined goals, though there is dissent when they are incompatible or a conflict occurs over the means of achieving them. Therefore, policy outcomes are determined by power or bargaining, which clearly indicates the top-down logic underlying this implementation process.
+</text>
+
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/7">
+The remaining two implementation processes build on the bottom-up approach. Experimental implementation refers to a situation of high policy ambiguity and low policy conflict. Following this model, policy outcomes depend on the resources and actors present in the micro-implementation level, which are likely to vary from context to context. As this implementation process emphasizes the relevance of contextual conditions and the role of chance, it parallels the garbage can model (Cohen *et al.* 1972) and the multiple streams approach (Kingdon 2003). From this it follows that policy outcomes are hard to predict.
+</text>
+
+<text page="10" section="Hybrid models of policy implementation" source="author" id="/page/9/Text/8">
+Symbolic implementation involves a situation in which there is high policy ambiguity and high policy conflict. The central principle is that coalitions of actors at the local level exist who control the available resources. However, the power of the various actor coalitions is again determined by contextual conditions. The preferences of actors' groups are likely to be based on their professional training. Among groups trained in different ways, there will be disagreement over proposals for policy implementation, leading to long battles and significant delays in attaining outcomes.
+</text>
+
+</page>
+<page number="11">
+
+<heading page="11" section="Key points" source="author" id="/page/10/SectionHeader/3" level="2">
+## Key points
+</heading>
+
+<list page="11" section="Key points" source="author" id="/page/10/ListGroup/82">
+- ☐ There are three types of implementation models: top-down, bottom-up and hybrid.
+- ☐ Top-down models primarily emphasize the ability of policy-makers to produce specific policy outcomes; most are characterized by an 'evaluative' strategy for analysis.
+- ☐ Bottom-up models stress the characteristics of the actors implementing policy outputs; (local) implementers make ongoing choices themselves about the appropriate courses of action in specific contexts.
+- Hybrid models integrate elements of both the above models and other theoretical models.
+</list>
+
+
+<heading page="11" section="Implementation success: criteria and determinants" source="author" id="/page/10/SectionHeader/8" level="1">
+# Implementation success: criteria and determinants
+</heading>
+
+<text page="11" section="Implementation success: criteria and determinants" source="author" id="/page/10/Text/9">
+In this section we first outline how implementation effectiveness can be empirically assessed. The criteria we suggest are intended to provide a better understanding of the different activities related to policy implementation. We then provide some explanations for possible variations in the effectiveness of implementation.
+</text>
+
+
+<heading page="11" section="Criteria of implementation success" source="author" id="/page/10/SectionHeader/10" level="2">
+## Criteria of implementation success
+</heading>
+
+<text page="11" section="Criteria of implementation success" source="author" id="/page/10/Text/11">
+The assessment of implementation is not only affected by the analytical perspective adopted, but also by the criteria that are applied (to measure 'successful' or 'perfect'). Based on the logic of top-down models, we suggest distinguishing between formal transposition and practical application (see Knill and Lenschow 1998; Weale *et al.* 2000; Winter 2003; Knill 2006; Hartlapp and Falkner 2009; Robichau and Lynn 2009). While there are some valid points of criticism concerning the top-down logic that we outlined above, it is clearly more suitable for providing a measurement of implementation.
+</text>
+
+<text page="11" section="Criteria of implementation success" source="author" id="/page/10/Text/12">
+Formal transposition focuses on the entirety of the specific provisions of a given public policy and their incorporation into the existing legal and administrative system. In so doing, bureaucrats have to ensure that this is done in a complete manner and within the time frame specified by the legal act by which a policy is adopted. Put differently, this stage is about the steps necessary to make a policy 'implementable' so that it can actually be put into practice. In some polities, policy-makers adopt
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="Criteria of implementation success" source="author" id="/page/11/Text/3">
+detailed and specific laws, whereas in others they adopt general and vague laws that leave the bureaucrats with considerable discretion to fill in the policy details (Huber and Shipan 2002).
+</text>
+
+<text page="12" section="Criteria of implementation success" source="author" id="/page/11/Text/4">
+Although formal transposition is mostly unproblematic, it can sometimes still be a demanding task. This holds particularly true for federal states when the implementation of a new federal policy requires that the constituent units make adjustments to their respective policy arrangements (see Haider-Markel 1998; Huque and Watton 2010). Formal transposition can also be difficult when it is related to international agreements, such as the UN Convention on Climate Change, or supranational law. Formal transposition is particularly challenging in the context of the EU. In Chapter 3 we explained that the EU represents one of the few organizations that enacts supranational policies which must be transposed by its member states. Though we will discuss the EU's role in policy-making beyond national borders in detail in Chapter 10, here we want to point out that there is a sizable literature acknowledging that the transposition of EU policies by member states is marked by persistent deficits (see Knill and Lenschow 1998; Weale et al. 2000; Knill 2001, 2006; Falkner et al. 2005; Steunenberg and Toshkov 2009; Thomson 2009).
+</text>
+
+<text page="12" section="Criteria of implementation success" source="author" id="/page/11/Text/5">
+Practical application corresponds to the actual putting into practice of a policy. Depending on the content of a policy, practical application comprises different activities. It can refer to the provision of services defined by legislation, such as social benefits which are given to those entitled to them. Likewise, the actual provision of education, health care, infrastructure or equal opportunities for job applicants are the result of the practical application of corresponding public policies. However, this dimension is not the only aspect of practical application.
+</text>
+
+<text page="12" section="Criteria of implementation success" source="author" id="/page/11/Text/6">
+In most cases, the implementation of a policy entails that the policy addressees have to modify their behaviour in ways that it is fully in line with the obligations stemming from a public policy. An ideal outcome of practical application would be one in which organizations and individuals that are targeted by legislation voluntarily demonstrate the behaviour that conforms to the legislation in question, that is, that they comply with it. However, as non-compliance might occur, actions are required to enforce the policy.
+</text>
+
+<text page="12" section="Criteria of implementation success" source="author" id="/page/11/Text/7">
+There exists a wide range of non-coercive measures to achieve compliance. Governments can, for instance, make appeals to policy addressees to comply by underlining the respective policy's benefits. Likewise, implementers can provide information about a policy. More generally, it is the perception of the legitimacy of the policy by those it is addressed to that is crucial for compliance. Thus, as a rule, compliance is likely to be higher when non-compliance is widely perceived as socially unacceptable. In most cases, however, and especially when command-
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="Criteria of implementation success" source="author" id="/page/12/Text/2">
+and-control policies are employed, practical application involves monitoring and enforcement activities.
+</text>
+
+<text page="13" section="Criteria of implementation success" source="author" id="/page/12/Text/3">
+Monitoring is about surveillance, increased transparency and information gathering as to how well the target group actually complies with the requirements of a given public policy. This can be achieved in many different ways, for example by requesting compliance reports or carrying out announced or unannounced on-site inspections. Widespread monitoring activities are, for instance, speed controls on motorways or controls on drivers' blood alcohol concentration. If such activities reveal non-compliance, the next step is enforcement to ensure that the non-compliance stops and remedial action is taken. Enforcement powers available to implementers include prohibition notices, suspension of operational licences, injunctions and the carrying out of remedial works. For example, a driver exceeding road speed limits or being found to be driving while drunk may be punished by means of a fine or the temporary or even permanent loss of his or her driver's licence (see Table 7.1).
+</text>
+
+<text page="13" section="Criteria of implementation success" source="author" id="/page/12/Text/4">
+For effectively assessing implementation success, either of these two dimensions can be employed. As concerns the analytical insights, focusing on formal transposition is particularly promising for policies that are intersectoral and require collaborative efforts by many different organizations, and might yield interesting insights in federal states. As concerns practical application, the study of this dimension certainly gives a better understanding of the more substantive aspects of public policy that go beyond what is written in the law book, though it is more complex to assess due to the various types of activities related to it. Therefore, empirical studies will most likely generate major insights if
+</text>
+
+<table_group page="13" section="Criteria of implementation success" source="author" id="/page/12/TableGroup/56">
+<caption page="13" section="Criteria of implementation success" source="author" id="/page/12/Caption/5">
+Table 7.1 Criteria for measuring implementation success
+</caption>
+<table page="13" section="Criteria of implementation success" source="author" id="/page/12/Table/6">
+|  | Focus | Criteria |
+| --- | --- | --- |
+| Formaltransposition | Legal and administrative provisions for the transposition of requirements into the existing legal and administrative system | Time frame Completeness Correct integration intothe regulatory context |
+| Practicalapplication | Organizational and administrative structures and procedures | Provision of policy-related services
+Provision of non-coerciveincentives for compliance
+Monitoring andenforcement |
+</table>
+</table_group>
+
+</page>
+<page number="14">
+<text page="14" section="Criteria of implementation success" source="author" id="/page/13/Text/3">
+they focus on specific aspects of practical application, that is, either on how well implementers provide a certain service or by which means they seek to induce the target population to change their behaviour.
+</text>
+
+
+<heading page="14" section="Determinants of implementation success" source="author" id="/page/13/SectionHeader/4" level="2">
+## Determinants of implementation success
+</heading>
+
+<text page="14" section="Determinants of implementation success" source="author" id="/page/13/Text/5">
+We now turn to the most important factors that explain variation in implementation effectiveness, beginning with those factors that refer to the characteristics of policy outputs and then moving to institutional factors and the strategies for increasing their social acceptance.
+</text>
+
+
+<heading page="14" section="Choice of policy instruments" source="author" id="/page/13/SectionHeader/6" level="3">
+### Choice of policy instruments
+</heading>
+
+<text page="14" section="Choice of policy instruments" source="author" id="/page/13/Text/7">
+An important theoretical debate centres on the question of whether the choice of policy instruments makes a difference regarding effective implementation (Mayntz 1979; Bressers and Klok 1988; Linder and Peters 1989; Howlett 1991; Knill and Lenschow 2000; May 2003). To illustrate this argument, we present the model of instrument preferences advanced by Howlett *et al.* (2009: 173–5). The assumption underlying the model is that certain policy instruments are better equipped than others to bring about the intended policy outcomes as they are easier to implement.
+</text>
+
+<text page="14" section="Choice of policy instruments" source="author" id="/page/13/Text/8">
+According to Howlett et al., the appropriateness of the choice of policy instruments depends on two dimensions: the complexity of the policy environment, also known as the 'policy subsystem', and the capacity of the state to effect changes in the light of institutional constraints. Governments with a high capacity for facing complex policy environments are able to use directive instruments, including measures such as a government reorganization in order to create or modify policy subsystems. The next constellation refers to high-capacity governments faced with simple policy environments; these can achieve effective implementation by using authoritative instruments, involving the creation of specialized independent regulatory commissions or advisory committees, which help to cultivate ideas that favour compliance with public policy. In contrast, governments possessing a low capacity to cope with complex policy environments can rely on subsidy instruments such as grants or specific funding schemes to induce policy addressees to comply with the provisions of a policy. However, when low-capacity governments are confronted with simple policy environments they can use information instruments, such as campaigns or information disclosure, to induce compliance (see Table 7.2).
+</text>
+
+<text page="14" section="Choice of policy instruments" source="author" id="/page/13/Text/9">
+The logical consequence of this model is that implementation problems stem from the 'wrong' policy instruments being chosen by policymakers who are restricted by the ability of governments and the characteristics of the policy environment. From this it follows that a government that fails to evaluate correctly its capacity or the characteristics
+</text>
+
+</page>
+<page number="15">
+<caption page="15" section="Choice of policy instruments" source="author" id="/page/14/Caption/2">
+Complexity policy environment
+
+High Low
+
+Capacity of the state | High Low
+
+Directive instruments Subsidy instruments Informative instruments
+
+Source: Adapted from Howlett et al. (2009: 175).
+</caption>
+
+<caption page="15" section="Choice of policy instruments" source="author" id="/page/14/Caption/3">
+Table 7.2 Instrument choices in the light of capacity and subsystem characteristics
+</caption>
+
+<text page="15" section="Choice of policy instruments" source="author" id="/page/14/Text/4">
+of the policy subsystem is likely to experience problems in achieving compliance.
+</text>
+
+
+<heading page="15" section="Precision and clarity of policy design" source="author" id="/page/14/SectionHeader/5" level="3">
+### Precision and clarity of policy design
+</heading>
+
+<text page="15" section="Precision and clarity of policy design" source="author" id="/page/14/Text/6">
+The second policy-related explanation for implementation problems concerns deficient policy formulation. Such problems of policy design can first of all be the result of vague and ambiguous policy objectives and requirements. For example, in 2004 the US State of Montana enacted a law to legalize medical marijuana, which is, however, defined so vaguely that it cannot be enforced (Hausen 2010).
+</text>
+
+<text page="15" section="Precision and clarity of policy design" source="author" id="/page/14/Text/7">
+Often, it is only on the basis of such imprecise formulations that the adoption of a policy is possible at all. High degrees of distributional conflict and politicization favour a negotiation context that is dominated by bargaining rather than problem solving, that is, the involved actors are primarily concerned with potential losses and gains than with analysing more thoroughly the extent to which there actually exists a sound causal relationship between policy objectives and the suggested policy instruments. As a result, distributional conflicts might lead to the formulation of ill-designed policies that are characterized by inaccurate assumptions about the causal relationship between policy problems and politically adopted remedies. This relationship between politics and the implementation process has already been acknowledged by Bardach (1977), who contended that conflicts that are not sufficiently resolved during the formulation stage bear a high risk of popping up again during the implementation process, where they possess far-reaching deficits (see also Winter 2003; Knill 2006).
+</text>
+
+<text page="15" section="Precision and clarity of policy design" source="author" id="/page/14/Text/8">
+The likelihood of deficient policy designs is not only affected by the degree of distributional conflicts characterizing a certain policy area. It also varies with the number of actors that are involved in the decision-making process. As was illustrated in Chapter 6, the greater the number of actors with veto potential and the more complex the overall decision-making structure, the higher is the probability for compromises based on open formulations and inconsistencies in policy design. An example is
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="Precision and clarity of policy design" source="author" id="/page/15/Text/3">
+provided by the persistent deficits in implementing gender mainstreaming policies. In the Netherlands – a country typically ruled by multiparty coalition governments - vague formulations about the assignment of formal responsibility for gender mainstreaming at the local level have seriously hampered policy implementation. The formulation that gender equality should be integrated 'everywhere' entailed that many gender equality offices were closed because gender equality was regarded as 'the responsibility of everyone' (Verloo 2001: 8).
+</text>
+
+
+<heading page="16" section="Control structures" source="author" id="/page/15/SectionHeader/4" level="3">
+### Control structures
+</heading>
+
+<text page="16" section="Control structures" source="author" id="/page/15/Text/5">
+Principal-agent theories constitute an important starting point for the explanation of implementation deficits. In these theories, it is assumed that implementation problems result from the differences between policy objectives and their actual implementation through the responsible administrative agencies. This difference is seen as an unavoidable consequence emerging from the configuration of modern political-administrative systems that are characterized by the delegation of competencies to subordinate administrative authorities. This delegation is of particular relevance with regard to the distinction between the tasks of policy formulation (usually taking place within central ministries) and the implementation of these policies (often delegated to agencies at the subnational or local level) (Howlett et al. 2009: 160-3).
+</text>
+
+<text page="16" section="Control structures" source="author" id="/page/15/Text/6">
+Delegation entails the problem of bureaucratic drift, a problem that is inherent to the configuration of political-administrative systems, which is further aggravated by two factors. On the one hand, high organizational complexity might increase the number of agents and government levels that are involved in the implementation process and hence increase the potential for bureaucratic drift. Schnapp (2000) shows that bureaucratic drift is likely in countries with coalition governments that have a high number of coalition parties, namely Finland, Switzerland, Belgium and Japan. By contrast, it seems less likely in Spain, Canada, New Zealand, Greece and the United Kingdom since their governments are normally composed of one party only. The occurrence of bureaucratic drifts during implementation in governments consisting of several parties is hypothesized to be more likely since one of the coalition partners that could not realize its preferences during policy formulation might be willing to accept policy change if it knows it can attempt to modify policy outcomes during the implementation phase (Hammond and Knott 1996). On the other hand, a high degree of scientific or technological complexity of the underlying policy problem will increase the chances of different interpretations of policy objectives by principals and agents. The more specialized knowledge is needed to implement a public policy, the more likely is the implementer to possess an information advantage vis-à-vis policymakers, which facilitates deviations from the original policy guidelines.
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="Control structures" source="author" id="/page/16/Text/2">
+There are two ways in which politicians can control the bureaucracy and the way it implements public policy. The first form is formal oversight, in which the parliament directly monitors agency behaviour to gain the information it needs to correct undesirable behaviour (see Aberbach 1990). This principally takes place by means of committee hearings and investigations (see Meier 2000). In the United States and United Kingdom, for instance, members of Congress or Parliament are frequently involved in 'casework', which concerns the handling of problems that occurred to citizens during the stage of policy implementation. Such cases typically involve delays in the provision of different kinds of social benefits or an unsatisfactory provision of certain services and/or infrastructure. Congressmen and Members of Parliament devote their resources to this casework since, in this way, they can demonstrate their responsiveness to the needs and problems of their electorate, which is expected to increase their chances for re-election (Anderson 2010: 219).
+</text>
+
+<text page="17" section="Control structures" source="author" id="/page/16/Text/3">
+The second form is statutory control, in which the executive or the legislature designs the agency's structure and processes to favour some policies over others. While oversight occurs after the bureaucratic actors have implemented a policy, statutory controls are established before they act (Bawn 1997: 102). There are two forms of statutory controls: those designed around 'fire alarms' and those around 'stacked decks'. 'Fire alarms' are defined as a system in which the parliament establishes rules and informal practices that enable individual citizens and interest groups to examine administrative decisions and to 'raise the alarm' should they disagree strongly with specific decisions (McCubbins and Schwartz 1984: 427). Alternatively, legislation that delegates policy decisions to an agency may specify in great detail how the agency decisions are to be made. McCubbins et al. (1987) argued that these issues of agency structure and process can be designed strategically by legislators to 'stack the deck' in favour of groups that the legislators want to help. Additionally, courts can play an important role in ensuring that administrative agencies do not exploit their implementation powers.
+</text>
+
+<text page="17" section="Control structures" source="author" id="/page/16/Text/4">
+So far, we have only concentrated on ways of controlling administrative agencies. However, Newton and van Deth (2010: 124–5) point out additional possibilities for reducing the risk of a bureaucratic drift. Firstly, politicians can appoint bureaucrats on the grounds of political considerations such as their ideological proximity to the party or parties to which the government and/or the parliamentary majority belong. Secondly, the potential of bureaucratic drift could be reduced by training bureaucrats in a manner that develops a professional ethos of public service. Thirdly, financial controls could be used as one form of oversight. Fourthly, an increasing share of open government might help to reduce delegation problems. The authors suggest the employment of 'sunshine laws', that is, a type of law that requires administrative agen-
+</text>
+
+</page>
+<page number="18">
+
+<heading page="18" section="Box 7.1 Delivery units for improving implementation" source="author" id="/page/17/SectionHeader/3" level="4">
+#### Box 7.1 Delivery units for improving implementation
+</heading>
+
+<text page="18" section="Box 7.1 Delivery units for improving implementation" source="author" id="/page/17/Text/4">
+Imperfect policy implementation is widespread and therefore governments around the world are continuously looking for instruments to improve the process. Several governments (e.g. Australia, India, Indonesia, Malaysia and South Africa) have recently established delivery units at the centre of government to drive implementation improvements. The first such organization charged with optimizing implementation, and arguably the model for the more recent delivery units, is the United Kingdom prime minister's Delivery Unit, which was established by Tony Blair in 2001 and existed until October 2010. This unit monitored and reported on progress in relation to the prime minister's top delivery and reform priorities in the areas of climate change, education, health, fighting of crime, social exclusion and transport policy. Now that this Delivery Unit has been abolished, it will be interesting to see whether those countries that mimicked the United Kingdom in creating similar organizations will also follow its example and end them too in the near future.
+</text>
+
+<text page="18" section="Box 7.1 Delivery units for improving implementation" source="author" id="/page/17/Text/5">
+cies to do their work in public through open meetings. Finally, maladministration might be reduced through the presence of ombudsmen.
+</text>
+
+<text page="18" section="Box 7.1 Delivery units for improving implementation" source="author" id="/page/17/Text/6">
+It should be noted that most of the points mentioned above include assumptions about the behaviour of bureaucrats that correspond more to Niskanen than to Weber. Following Weber, bureaucrats should be guided by their professional ethos and thus behave in ways that serve their political masters. In contrast, the view purported by Niskanen stresses the self-interests of bureaucrats and their objective of maximizing them. However, the second suggestion by Newton and van Deth essentially approximates to the Weberian ideal of a bureaucrat.
+</text>
+
+
+<heading page="18" section="Institutional Design" source="author" id="/page/17/SectionHeader/7" level="3">
+### Institutional Design
+</heading>
+
+<text page="18" section="Institutional Design" source="author" id="/page/17/Text/8">
+Except for very rare cases where policies to some extent are 'self-implementing', i.e. the declaration of policy requires no further actions to bring about the desired policy outcomes, the implementation of policies generally requires institutional structures and arrangements (O'Toole 2003: 234). In other words, policies generally have institutional implications, i.e. requirements for the establishment of appropriate structures and procedures for their proper implementation. A distinction can be made between policies that can be implemented by single organizations or authorities (Torenvlied 1996), and measures whose proper implementation entails horizontal and vertical coordination across several administrative units and levels (Hiern and Porter 1981). It is obvious that in the latter case much greater challenges to effective implementation exist than in the case of an integrated implementation structure: 'between or among organizations, the differing routines and specialized languages,
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="Institutional Design" source="author" id="/page/18/Text/2">
+not to mention distinct ways of seeing the world, mean that interorganizational implementation poses particularly daunting challenges' (O'Toole 2003: 235).
+</text>
+
+<text page="19" section="Institutional Design" source="author" id="/page/18/Text/3">
+These challenges are based on the fact that the implementation of a policy in this way requires major changes in existing institutional structures. This aspect is of empirical importance with regard to implementation in federal polities. For example, Canada possesses one of the most decentralized frameworks for environmental policy implementation in the world. The provinces have supremacy over most environmental matters and are relatively free to set their own standards and carry out implementation activities (Huque and Watton 2010: 77–8). As a consequence of the well-developed competences of the provinces and the difficulties in achieving institutional cooperation across the different levels of government, the federal government has faced problems in the nation-wide implementation of environmental policy. Therefore, this policy implementation is mainly carried out by the provinces, with federal policy only defining 'soft' environmental measures that can be implemented without coordination efforts.
+</text>
+
+<text page="19" section="Institutional Design" source="author" id="/page/18/Text/4">
+The central argument here is that it is less the choice of the instrument per se that affects the implementation success of policies than the extent of necessary institutional modifications that arise from public policy (see Knill and Lenschow 1998; Knill 2001). This institutional perspective rests on two central assumptions: first, effective implementation is generally a question of effective institutional adaptation; second, the extent of institutional change is limited by existing institutional arrangements.
+</text>
+
+<text page="19" section="Institutional Design" source="author" id="/page/18/Text/5">
+Although policies are generally directed at the specification of policy contents and instruments rather than institutional arrangements, there is often a tight linkage between policy content and the corresponding requirements of institutional implementation. Therefore, decisions on instruments to a certain extent always entail decisions on the corresponding institutional arrangements for their proper application. Consequently, implementation problems can be conceived of as problems of institutional change (Knill and Lenschow 1998).
+</text>
+
+<text page="19" section="Institutional Design" source="author" id="/page/18/Text/6">
+The role of institutions has long been acknowledged in the literature on implementation. However, institutions were initially analysed mainly from the perspective of adequate institutional design. Analysts coming from the top-down perspective developed optimal structural and organizational arrangements that would permit effective implementation of a certain policy (see Pressmann and Wildavsky 1973). This reasoning relies on the implicit assumption that existing institutions would easily adapt to the suggested 'model' structure. Problems of institutional change were ignored. The bottom-up perspective assumes a similar malleability of existing institutional factors. Here, analysts are interested in the impact of varying institutional designs on the skills, resources and
+</text>
+
+</page>
+<page number="20">
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/3">
+capacities of relevant actors. They are interested in the perfect design that serves to equip the implementing authorities with sufficient finan-cial, legal and personal resources.
+</text>
+
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/4">
+Without denying the importance of adequate institutional design, such a perspective remains incomplete as long as it ignores the problems associated with the process of adjusting the existing institutional arrangements to the defined 'ideal' arrangements. This latter aspect in particular, and to a lesser extent the gaps in the knowledge about appropriate institutional design, makes the implementation of public policies problematic.
+</text>
+
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/5">
+This leads us to the second basic assumption of the institutionalist perspective: effective institutional adaptation to external requirements can only be expected within certain limits. It is one of the few generally accepted findings in the otherwise diverse research literature that institutional change, regardless of whether it is required explicitly or implicitly, rarely takes place in a smooth and unproblematic way. Existing institutions 'matter' and they do so mainly by constraining the options for future change and adaptations (see pp. 78–82).
+</text>
+
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/6">
+An emphasis on institutional stability and continuity is, however, not synonymous with an entirely static understanding of institutional development. Rather institutions often find themselves in a permanent process of adaptation to their environment. However, the scope of these adaptations is restricted by the structuring effects of existing institutional arrangements. Institutional change is hence often limited to aspects that do not question the 'identity' of an institution (March and Olsen 1989; Thelen and Steinmo 1992).
+</text>
+
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/7">
+This abstract argument is of limited explanatory value so long as we do not have any criteria to judge which particular institutional requirements stemming from public policy are likely to exceed the adaptation capacity of existing institutions and when they are not. To cope with this problem, Knill and Lenschow (1998) suggest a distinction between three levels of adaptation pressure, each of them linked to different expectations with regard to implementation effectiveness. This distinction is based on the understanding that institutionally grown structures and routines prevent easy modification of institutional arrangements (March and Olsen 1989; DiMaggio and Powell 1991). Hence, institutional adaptation appears to be more likely in cases where new policies imply incremental rather than fundamental departures from existing arrangements.
+</text>
+
+<text page="20" section="Institutional Design" source="author" id="/page/19/Text/8">
+The first scenario refers to constellations where there is low pressure for institutional adaptation. In this case, the institutional implications of new policies are completely in line with existing arrangements, i.e. none or only marginal changes are demanded. Implementation is therefore expected to be relatively unproblematic, as adjustment requirements are very limited or completely absent. In the second scenario of high adaptation pressure, new requirements exceed the adjustment capacities of
+</text>
+
+</page>
+<page number="21">
+<text page="21" section="Institutional Design" source="author" id="/page/20/Text/2">
+existing institutions. Ineffective implementation is the probable consequence. Such constellations can be expected, for instance, when new requirements contradict the strongly entrenched institutional elements of policy arrangements. In this regard, Krasner (1988) differentiates between two dimensions of institutional anchorage: 'institutional depth', which refers to the extent to which institutional arrangements are embedded in normative orientations and dominant belief systems; and 'institutional breadth', which refers to the extent to which institutional arrangements are interlinked with their environment.
+</text>
+
+<text page="21" section="Institutional Design" source="author" id="/page/20/Text/3">
+The third scenario of moderate adaptation pressure refers to constellations in which new policies require substantive adjustments of existing institutions, though without challenging well-entrenched core patterns within the political, legal and administrative system. While in such cases there is a higher probability of an effective implementation of policies, it cannot be taken for granted. In contrast with the two other scenarios, an institutional perspective is insufficient to develop hypotheses on expected implementation performance (in terms of institutional adjustments to new requirements). To answer this question we have to complement our analysis with a second explanatory step which considers the particular interest constellation and institutional opportunity structures. To what extent is there sufficient public support for adjusting to new requirements? To what extent have actors who support regulatory change sufficient powers and resources to realize their interests? As Figure 7.1 shows, institutional adaptation and hence effective implementation can only be expected if they are facilitated by favourable contexts (Knill and Lenschow 1998; Knill and Lehmkuhl 2002a).
+</text>
+
+<figure_group page="21" section="Institutional Design" source="author" id="/page/20/FigureGroup/82">
+<figure page="21" section="Institutional Design" source="author" id="/page/20/Figure/4" image="A2.R50_fig01.jpg">[FIGURE: see A2.R50_fig01.jpg]</figure>
+<caption page="21" section="Institutional Design" source="author" id="/page/20/Caption/5">
+Figure 7.1 Institutional adaptation pressure and implementation effectiveness
+</caption>
+</figure_group>
+
+<text page="21" section="Institutional Design" source="author" id="/page/20/Text/6">
+Source: Knill and Lehmkuhl (2002a).
+</text>
+
+</page>
+<page number="22">
+
+<heading page="22" section="Box 7.2 Implementation of Mexican environmental policy" source="author" id="/page/21/SectionHeader/3" level="4">
+#### Box 7.2 Implementation of Mexican environmental policy
+</heading>
+
+<text page="22" section="Box 7.2 Implementation of Mexican environmental policy" source="author" id="/page/21/Text/4">
+Mexico has emulated various environmental protection standards of the United States. This transfer of policies was primarily motivated by the country's wish to become a member of the North American Free Trade Agreement (NAFTA). To avoid criticism from the US public concerning environmental issues, the Mexican government displayed notable efforts to bring its legislation in line with that of its northern neighbour. Despite legal reforms, environmental degradation is still occurring in Mexico due to insufficient policy implementation. Of course, there are many reasons why the authorities face such implementation problems. One of the main reasons is that the transfer of US environmental protection standards turned out to be the wrong choice as they are technically too demanding for the country. This point is best illustrated by Mexican wastewater standards, which were originally sector-specific as is the case in the United States. However, since it became clear that the Mexican authorities lack the necessary institutional infrastructure for monitoring such a sophisticated regulatory approach, wastewater standards have been modified in a manner to make them 'implementable' (Knill et al. 2008a). This entailed the abolition of the ambitious initial standards and the establishment of a new regulatory system that does not differentiate between industry sectors. The modification of the regulatory approach reduced the extent of non-compliance, but the overall state of compliance is still far from perfect.
+</text>
+
+
+<heading page="22" section="Administrative capacities" source="author" id="/page/21/SectionHeader/5" level="3">
+### Administrative capacities
+</heading>
+
+<text page="22" section="Administrative capacities" source="author" id="/page/21/Text/6">
+While the factors discussed so far are particularly focused on the willingness of actors to achieve effective implementation, the focus on administrative capacities entails a different perspective that is concerned with the ability rather than willingness to comply with given policy requirements. In other words: varying implementation effectiveness can also be explained by different capacities, which affect the opportunities available for effective formal and practical implementation. As already mentioned, implementation is generally carried out by a designated government agency that has responsibility for the new policy measure. Theoretically the responsible agency should be equipped with the necessary resources to ensure that the policy is carried out as intended, though in reality this does not always occur. For successful implementation, the entity concerned must possess sufficient resources to be able to translate the policy objectives into an operational framework. Particular emphasis is placed on human capacity (administrative and technical expertise) as well as financial, technical and organizational resources (see Gerston 2004: 103). The less developed these capacities, the more important becomes the allocation of existing resources in the light of political priorities.
+</text>
+
+</page>
+<page number="23">
+
+<heading page="23" section="Box 7.3 Alcohol control in Russia" source="author" id="/page/22/SectionHeader/3" level="4">
+#### Box 7.3 Alcohol control in Russia
+</heading>
+
+<text page="23" section="Box 7.3 Alcohol control in Russia" source="author" id="/page/22/Text/4">
+Consumption of alcoholic beverages has been one of the most significant public health problems in Russia for many decades. For a long time, the government tried to conceal the severity of these problems and the mortality related to alcohol consumption. Prior attempts to control its consumption have been unsuccessful, in part due to the government's reliance on alcohol revenue and its inability to implement creative and manageable solutions. In this context, Levintova (2007) examines the implementation of the 2005 federal alcohol control law in the Russian Federation. She finds that poor organizational capacities prior to implementation have been a major impediment to its realization. Specifically, as of 1 January 2006, excise stamps for imported products were to be affixed on alcoholic beverages. However, in mid-January the Russian government issued a sixmonth extension in response to a serious shortage of excise stamps. Even though this extension allowed for the printing of additional stamps, most alcohol quickly disappeared from store shelves, with many consumers turning to illicit sources. Consequently, in autumn 2006 almost 200 Russians died and thousands were hospitalized due to alcohol induced poisoning, reportedly from drinking alcohol tainted with industrial spirits. More generally, models of alcohol control often advocated by 'Western' policy consultants ignore the preponderance of homemade alcohol. Under such circumstances, taxing alcohol will most likely have little impact – and may even be counter-productive.
+</text>
+
+
+<heading page="23" section="Social acceptance" source="author" id="/page/22/SectionHeader/5" level="3">
+### Social acceptance
+</heading>
+
+<text page="23" section="Social acceptance" source="author" id="/page/22/Text/6">
+As already outlined above, the main purpose of policy implementation is to modify the behaviour of policy addressees. While there are many policy-specific and institutional factors that might hamper this goal, it is ultimately the social acceptance of public policy that matters for successful implementation. There are certainly some policy measures that are welcomed by policy addressees, such as increases in social benefit levels. By the same token, there is legislation that is less well received either because it imposes costs on the target group or because its implications are not well understood. In such cases, implementers might approach interest groups to seek their support actively for the policy measure in question (Anderson 2010: 227). Interest groups can communicate the exact content of the law to their members and convince them of the advantages it entails.
+</text>
+
+<text page="23" section="Social acceptance" source="author" id="/page/22/Text/7">
+However, the involvement of interest groups in policy implementation is an ambivalent strategy. On the one hand, there have been cases in which policies failed because of a lack of interest group support. In 2011, the German government introduced E10 gasoline (which is produced with up to 10 per cent ethanol content) as one of several measures for replacing fossil fuels with renewable energy. German consumers have
+</text>
+
+</page>
+<page number="24">
+<text page="24" section="Social acceptance" source="author" id="/page/23/Text/3">
+refused to purchase this product with the result that gas stations are sitting on ample reserves of it while the non-ethanol gasoline is in short supply. Among the various arguments advanced for explaining the broad rejection of E10 gasoline, one is that the government failed to ensure the support of the German Automobile Club, which is very influential in forming its members' preferences on traffic-related policy. On the other hand, interest groups can be inclined to demand 'corrections' to public policy at the implementation stage in exchange for their support.
+</text>
+
+<text page="24" section="Social acceptance" source="author" id="/page/23/Text/4">
+Even though there is this ambivalence about interest group participation in policy implementation, there are situations where decision-makers have no choice but to include them. Particularly controversial policy issues that seem unlikely to be accepted by the public are likely to require broad support by interest groups and other private actors such as social movements (see Haider-Markel 2001).
+</text>
+
+
+<heading page="24" section="Key points" source="author" id="/page/23/SectionHeader/5" level="2">
+## Key points
+</heading>
+
+<list page="24" section="Key points" source="author" id="/page/23/ListGroup/77">
+- ☐ When measuring implementation effectiveness, it is useful to distinguish between formal transposition and practical application.
+- ☐ Formal transposition is about taking the necessary steps with regard to the accommodation of a policy into the legal and administrative system to make it 'implementable'.
+- ☐ Practical application refers to what is usually conceived of as policy implementation. It involves the provision of services on the one hand and monitoring and enforcement activities on the other.
+- ☐ There are six principal factors affecting implementation effectiveness: choice of policy instruments, policy design, control structure, institutional design, administrative capacity and social acceptance.
+</list>
+
+
+<heading page="24" section="Conclusions" source="author" id="/page/23/SectionHeader/10" level="1">
+# Conclusions
+</heading>
+
+<text page="24" section="Conclusions" source="author" id="/page/23/Text/11">
+Once the government has taken a decision on a public policy, the stipulations of that policy must be put into action to bring about the behavioural changes intended by the policy-makers. Therefore, unless the stipulations of a given policy are actually implemented, the problem originally initiating the policy process will persist. At first glance, implementation appears as an automatic continuation of the policy-making process. Yet there often exists a substantial gap between the passage of new legisla-
+</text>
+
+</page>
+<page number="25">
+<text page="25" section="Conclusions" source="author" id="/page/24/Text/2">
+tion and its application, which is addressed by implementation research. The bureaucracy is delegated a significant degree of power during the implementation stage of the policy process because of its discretion in interpreting the actual intent, method and scope of a policy decision. During implementation, administrative agencies by no means always follow unrestrictedly political guidelines and, even if they do so, in some cases results deviate remarkably from political expectations. The role of bureaucracy during implementation reveals a contradictory picture of great interest. On the one hand, bureaucracies are essential for making policies work; but, on the other hand, senior bureaucrats are often more experienced and better trained than their political masters, which paves the way for bureaucratic drift.
+</text>
+
+<text page="25" section="Conclusions" source="author" id="/page/24/Text/3">
+Previous considerations have made clear that both the formal transposition and practical application of a policy in general are based on complex processes. These can be analysed from different perspectives (top-down versus bottom-up) and by shedding light on various factors that are expected to affect implementation effectiveness. The implementation stage of the policy process is by definition an operational phase where policy is actually translated into action with the desire to solve some public problem. We have identified six key challenges which we believe can routinely impede the effective implementation of public policy. In this context, the question of whether and under what conditions the implementation of policies can be characterized as effective or ineffective cannot be answered in terms of a single cause, but needs to take into account different aspects.
+</text>
+
+</page>
+<page number="26">
+
+<heading page="26" section="Web links" source="author" id="/page/25/SectionHeader/3" level="2">
+## Web links
+</heading>
+
+<list page="26" section="Web links" source="author" id="/page/25/ListGroup/115">
+- www.inece.org. This is the website of the International Network for Environmental Compliance and Enforcement. It is a valuable source of information about the implementation of environmental policy.
+- www.eif.oeaw.ac.at/compliance. This database provides an overview of qualitative academic research on the application and transposition of EU law in the member states.
+- www.eif.oeaw.ac.at/implementation. This website complements the previous one by providing an overview of quantitative academic research on the application and transposition of EU law in the member states.
+- www.healthpolicyinitiative.com/policyimplementation. This is a useful tool for training people in how to interview policy-makers about influences on health policy implementation.
+- www.apsc.gov.au/publications09/devolvedgovernment.htm. Here a link is given to an electronic book that gives an overview of challenges regarding policy implementation through the federal government in Australia.
+</list>
+
+
+<heading page="26" section="Further reading" source="author" id="/page/25/SectionHeader/9" level="2">
+## Further reading
+</heading>
+
+<list page="26" section="Further reading" source="author" id="/page/25/ListGroup/116">
+- Bardach, E. (1977) *The Implementation Game: What Happens After a Bill Becomes a Law*. Boston: MIT Press. A classic book about the complex process of policy implementation.
+- Dyer, C. (2001) Operation Blackboard: Policy Implementation in Indian Elementary Education. Oxford: Symposium Books. This book examines the failure to establish a minimum norm of essential facilities for primary schools in India
+- Falkner, G., O. Treib, M. Hartlapp and S. Leiber (2005) *Complying with Europe: EU Harmonisation and Soft Law in the Member States*. Cambridge: Cambridge University Press. This book provides one of the few accounts of the implementation of EU policies beyond formal transposition.
+- Hill, M. and P. Hupe (2009) *Implementing Public Policy: An Introduction to the Study of Operational Governance*. Thousand Oaks, CA: Sage. This book is a very comprehensive treatise on all aspects related to policy implementation.
+- Lipsky, M. (1980) *Street-level Bureaucracy*. New York: Russell Sage Foundation. This is another classic book that we recommend for further reading.
+- Pressman, J. and A. Wildavsky (1973) *Implementation*. Berkeley, CA: University of California Press. An influential book with respect to policy implementation that is helpful in understanding how implementation actually works.
+</list>
+
+</page>
+</paper>

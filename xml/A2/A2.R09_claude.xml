@@ -1,0 +1,558 @@
+<paper source_file="A2.R09" title="12" total_pages="13" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<text page="1" section="" source="author" id="/page/0/Text/1">
+HEED 11,1
+</text>
+
+
+<heading page="1" section="12" source="author" id="/page/0/SectionHeader/2" level="6">
+###### 12
+</heading>
+
+<text page="1" section="12" source="author" id="/page/0/Text/3">
+Received 29 March 2017 Revised 9 May 2017 Accepted 5 June 2017
+</text>
+
+
+<heading page="1" section="A comparative study of student mobility programs in SEAMEO-RIHED, UMAP, and Campus Asia" source="author" id="/page/0/SectionHeader/4" level="1">
+# A comparative study of student mobility programs in SEAMEO-RIHED, UMAP, and Campus Asia
+</heading>
+
+
+<heading page="1" section="Regulation, challenges, and impacts on higher education regionalization" source="author" id="/page/0/SectionHeader/5" level="2">
+## Regulation, challenges, and impacts on higher education regionalization
+</heading>
+
+
+<heading page="1" section="Angela Yung Chi Hou" source="author" id="/page/0/SectionHeader/6" level="3">
+### Angela Yung Chi Hou
+</heading>
+
+<text page="1" section="Angela Yung Chi Hou" source="author" id="/page/0/Text/7">
+Graduate School of Educational Leadership and Development, Fu Jen Catholic University, New Taipei City, Taiwan
+</text>
+
+
+<heading page="1" section="Christopher Hill" source="author" id="/page/0/SectionHeader/8" level="3">
+### Christopher Hill
+</heading>
+
+<text page="1" section="Christopher Hill" source="author" id="/page/0/Text/9">
+British University in Dubai, Dubai, United Arab Emirates
+</text>
+
+
+<heading page="1" section="Karen Hui-Jung Chen" source="author" id="/page/0/SectionHeader/10" level="3">
+### Karen Hui-Jung Chen
+</heading>
+
+<text page="1" section="Karen Hui-Jung Chen" source="author" id="/page/0/Text/11">
+National Taipei University of Education, Taipei City, Taiwan, and Sandy Tsai and Vivian Chen
+</text>
+
+<text page="1" section="Karen Hui-Jung Chen" source="author" id="/page/0/Text/12">
+Fu Jen Catholic University, New Taipei City, Taiwan
+</text>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/13" level="2">
+## Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/14">
+Purpose – The purpose of this paper is to examine the student mobility programs of the three initiatives – in Southeast Asian Ministers of Education Organization-Regional Institution of Higher Education and Development, University Mobility in Asia and Pacific (UMAP), and Campus Asia – and provide a comparative analysis of the respective programs in terms of the role of government, institutional involvement, quality assurance, and challenges. In addition, the paper will assess their impacts on higher education regionalization by regulatory models toward the end of the paper.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/15">
+Design/methodology/approach – The study adopts qualitative document analysis as a major research method to explore the developmental models of three student mobility programs. Document analysis is an approach used to gather and review the content of existing written documentation related to the study in order to extract pieces of information in a rigorous and systematic manner.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/16">
+Findings – ASEAN International Mobility for Students (AIMS), Collective Action for Mobility Program of University Student in Asia (CAMPUS Asia), and UMAP student mobility schemes have a shared purpose in higher education regionalization, but with different regulatory frameworks and Functional, Organizational, and Political approach models. AIMS and CAMPUS Asia as a strong network and government-led initiatives adopt a combination of functional, organizational, and political approaches; UMAP provides university-driven regional mobility programs with a hybridized force. However, all three of them face the same challenges at regional and national levels, such as different national regulation, coordination among participants, and implementation of credit transfer schemes.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/17">
+Practical implications – The scale of three student mobility programs is still low, which results in limited impact on higher education regionalization in Asia. However, a stronger decision-making model and increased financial support to universities and students are desirable for the creation of a sustainable and effective network.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/18">
+Originality/value – This is an original research and makes a great contribution to Asian nations.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/19">
+Keywords Higher education regionalization, Student mobility programme, AIMS, UMAP, CAMPUS Asia Paper type Research paper
+</text>
+
+<figure page="1" section="Abstract" source="author" id="/page/0/Picture/20" image="A2.R09_fig01.jpg">[FIGURE: see A2.R09_fig01.jpg]</figure>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/21">
+Higher Education Evaluation and Development Vol. 11 No. 1, 2017 pp. 12-24 Emerald Publishing Limited 2514-5789 DOI 10.1108/HEED-08-2017-003
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/22">
+© Angela Yung Chi Hou, Christopher Hill, Karen Hui-Jung Chen, Sandy Tsai and Vivian Chen. Published in the Higher Education Evaluation and Development. Published by Emerald Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at[ http://creativecommons.org/licences/by/4.0/legalcode](http://creativecommons.org/licences/by/4.0/legalcode)
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="Abstract" source="author" id="/page/1/Text/7">
+Student
+</text>
+
+<text page="2" section="Abstract" source="author" id="/page/1/Text/8">
+mobility
+</text>
+
+
+<heading page="2" section="1. Introduction" source="author" id="/page/1/SectionHeader/2" level="2">
+## 1. Introduction
+</heading>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/3">
+Growth in the internationalization of higher education is driving the expansion of tertiary systems and institutions throughout the world. It also articulates cross-border collaboration as well as intensifying student mobility (Daniel *et al.*, 2009; Moor and Henderikx, 2013; Hou, 2014). Student mobility within Asia has been driven and encouraged due to economic growth, national competitiveness, and regional development in the early twenty-first century. One manifestation of the trend is a significant increase in the number of students moving within and amongst Asian campuses, such as China, Japan, South Korea, and Association of Southeast Asian Nations (ASEAN) countries. It was found that more than a half to three quarter of international students on Asian campuses come from the other neighboring countries (British Council, 2008). According to the United Nations Educational, Scientific and Cultural Organization (UNESCO, 2007) yearbook, there were 57,000 Korean students studying in China, compared to 23,000 Chinese students in Korea; 80,000 Chinese students in Japan and 23,000 ASEAN students in China.
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/4">
+While, as a percentage of the total student population, the numbers are still a minority, the increase itself requires response, planning, and understanding. Burgeoning middle classes and demand for higher education are driving population and uptake and this increase is seen within borders as well as across them. Demand for education is not necessarily on par with affordability and funding mechanisms continue to change and place pressures on governments and institutions, thus forcing an alternative solution for the demand-driven model currently in place.
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/5">
+There is a growing sense among nations that the regional cooperation and joint efforts will facilitate a creation of a "common educational space" (Sirat *et al.*, 2014). The Bologna process in Europe is perhaps the best example of this regional level of educational system reform as it not only increases student mobility but also strengthens economic integration within the region. The discussion as to whether Asia, or perhaps ASEAN, should adopt a similar style approach has been ongoing for the past few years but has largely been hampered by the pronounced disparity between systems and expectations, particularly in terms of income demographics, accreditation, and linguistics.
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/6">
+To date, most efforts toward enhancing higher education regionalization in Asia have been linked to three international organizations, Southeast Asian Ministers of Education Organization-Regional Institution of Higher Education and Development (SEAMEO-RIHED) supported by ASEAN, University Mobility in Asia and Pacific (UMAP), and Collective Action for Mobility Program of University Student in Asia (CAMPUS Asia). Their collective aim is the intensification of the integration of higher education systems across the region through student mobility programs. Founded in 1967, ASEAN covers a land area of 4.46 million km&lt;sup&gt;2&lt;/sup&gt;, and has a population of approximately 600 million people, which is 8.8 percent of the world's population. Its objective is to develop an integrated ASEAN Economic Community, which focuses on a single market with free flow of commodities, services, investment, and skilled workforce. It has ten full members and one observer member, including Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, Singapore, Thailand, and Vietnam (ASEAN, 2015a, b). In 2003, ASEAN decided to launch several mobility programs in order to strengthen relations and activities among higher education institutions through the establishment of the ASEAN University Network (AUN) and the SEAMEO-RIHED (ASEAN University Network (AUN), 2014a). SEAMEO-RIHED aims at fostering "the efficiency, effectiveness and harmonisation of higher education in Southeast Asia through system research, empowerment and the development of mechanisms to facilitate sharing and collaboration in higher education" (SEAMEO-RIHED, 2016, p. 8). One of the most influential mobility programs by SEAMEO-RIHED is the ASEAN International Mobility for Students (AIMS) program, also called "M-I-T" (Malaysia-Indonesia-Thailand), launched in 2010 (SEAMEO-RIHED, 2012).
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="1. Introduction" source="author" id="/page/2/Text/2">
+Established in 1991, the UMAP is a voluntary collective of government and non-governmental organizations. It consists of 19 full country members and 565 institutional members, including Japan, Macau, Malaysia, Mexico, Mongolia, Philippines, Taiwan, Thailand, Vietnam, South Korea, etc. (UMAP, 2013). It was expected that mobility of university students and staff would be increased through the cooperation among participating institutions. It aimed at achieving a better regional understanding within each of the countries and territories in the Asia Pacific through three major types of exchange programs (UMAP, 2015).
+</text>
+
+<text page="3" section="1. Introduction" source="author" id="/page/2/Text/3">
+Launched by China, Japan, and South Korea in 2011, CAMPUS Asia is another regional student mobility initiative. The program was designed to promote student mobility between South Korea, China, and Japan. It was expected to foster the next generation of leaders in Asia by nurturing young talent with a shared vision. In particular, quality assurance agencies were mainly responsible for the implementation of the program. Currently, the CAMPUS Asia program has evolved into a unique program that promotes student exchange, creates a new learning model, and develops in-depth discussions of substantial collaborations among consortia despite their political, economic, and cultural differences (CAMPUS Asia, 2016a, b).
+</text>
+
+<text page="3" section="1. Introduction" source="author" id="/page/2/Text/4">
+As Asia looks to respond to the shift in regional student mobility, some key issues must be addressed based on a closer alignment of systems and policies, such as regulatory frameworks, qualification recognition, credit transfer system, and quality assurance (Sugimura, 2012; Knight, 2014). SEAMEO-RIHED, UMAP, and CAMPUS Asia have been actively committed to higher education regionalization through student mobility programs. Hence, this paper will examine the student mobility programs of the three initiatives listed above and provide a comparative analysis of the respective programs in terms of the role of government, institutional involvement, quality assurance, and challenges. In addition, the paper will assess their impacts on higher education regionalization and harmonization by regulatory models at the end of the paper. To that end, there are five research questions addressed as follows:
+</text>
+
+<list page="3" section="1. Introduction" source="author" id="/page/2/ListGroup/177">
+- RQ1. What type of student mobility programs were provided by SEAMEO-RIHED, UMAP, and CAMPUS Asia?
+- RQ2. What were the regulatory models of the three student mobility initiatives adopted?
+- RQ3. How did governments and institutions implement the three student mobility initiatives? What were their respective roles?
+- RQ4. How was the quality of the three student mobility initiatives assured?
+- RQ5. What impact and challenges have the three student mobility initiatives meant for higher education regionalization?
+</list>
+
+
+<heading page="3" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/2/SectionHeader/10" level="2">
+## 2. Regionalization and its rise in Asian higher education
+</heading>
+
+<text page="3" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/2/Text/11">
+Over the past decade, regionalization can be seen to have become a trend worldwide. Traditionally, regionalization has been "viewed within the dual frames of proximity and patterns of exchange and dimensions that in turn have been conceptualized and actualized along prevailing norms of time and space" (Neubauer, 2012, p. 4). It is a formal process of integrating regional policies and shared benefits in alignment with global practices (Dale and Robertson, 2002; Beerkens, 2004). Varying types of orientations of regionalization have been discussed recently, which will likely lead to different consequences and outcomes. In general, regionalization is often considered as either a subset of globalization or just a substitute to globalization (Dale and Robertson, 2002; Beerkens, 2004). The former, to some extent, emphasizes the integration of regional policies and practices into a global context in
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/2">
+alignment with free trade and economic liberalism. On the contrary, the latter tends to resist global forces and protect a distinct cultural identity within region.
+</text>
+
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/3">
+Scholars have proposed another concept that regionalization is generated from "internationalization" linking to higher education policy. Driven by global competition, improving national internationalization levels of higher education is seen by governments as one of the strategies for human resources development and global talent attraction. A notable evolution in higher education internationalization was the rise of regional identity and cultural awareness throughout regional collaborations, engagement, and alliances in higher education systems.
+</text>
+
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/4">
+Higher education is seen as critical to promote regional integration and harmonization. Regionalization of higher education is presented differently according to "the dimensions, actors, and values involved in the process" (Sirat et al., 2014, p. 1). Knight (2012) defined regionalization of higher education as "a process of facilitating, promoting, building and strengthening closer collaboration and alignment among higher education actors within a designed area of framework called a region" (p. 10). Throughout an alignment of higher education systems, collaboration in higher education projects, and activities among partners, "it is expected that the ultimate goal of regional integration can be achieved. A rapid growth in regional student mobility can explain a positive sign in the new phenomenon" (Deardorff et al., 2012, p. 480). Under this concept, regionalization, as a regional form of internationalization, aims at integrating global trends and international practices into regional context (Hawkins et al., 2012; Knight, 2013b; SATO, 2014).
+</text>
+
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/5">
+Higher education in Asia has been growing rapidly since the 1990s. In recent decades, higher education in Asia has transformed into the massification phase, which not only generates access to higher education but also increases public concern over the global competitiveness of national higher education system. In order to respond to international competition, efforts toward enhancing higher education regionalization have gradually increased in Asia since 2000 ( Jayasuriya, 2009; Knight, 2014; Kuroda, 2014). In general, Neubauer (2012) categorized the development of higher education regionalization in Asia into two phases: from 1950s to 1980 and from 1980 to present. During the first phase, neighboring countries were grouped due to economics, intra-regional interactions, trade and security, and education. The Association of Southeast Asian Institutions of Higher Learning established in 1965 aimed to foster the development of the higher education institutions, develop a sense of regional identity and interdependence, and connect with each other's regional and international organizations concerned with research and teaching (Chan, 2015). ASEAN, founded in 1967, is another example. ASEAN had two major goals. The first one was to "accelerate the economic growth, social progress and cultural development." In addition, it also hoped to build a prosperous and peaceful community of Southeast Asian nations through joint endeavors" (ASEAN, 2016, p. 1).
+</text>
+
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/6">
+The period after 1980 to present is a time when Asia was significantly and visibly improving. "Rising Asia" has made a big growth in economic progress and scientific development. The impact of neoliberalism and market deregulation has resulted in the manifestations of a broader-based interregional organization and a multilateral relationship among participating members (Marginson et al., 2011). Although the diversified scopes of regions are overlapping, multi-layered, multi-actors, and multi-faceted, "regional collaborations in higher education remains inseparable from the broader geopolitical context" (Nelson, 2013, p. 246). APEC, APQN, UMAP, and ASEAN+3 emerged due to the newly defined concept. In general, there are three existing regional forms in Asian higher education including Southeast Asia, East Asia, and a combined Greatest East Asian region.
+</text>
+
+<text page="4" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/3/Text/7">
+Marginson et al. (2011) emphasized that a successful regionalization in higher education only depends on a sufficient level of economic and social development, geographical proximity, cultural commonality, and sustained political will of all partners.
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="2. Regionalization and its rise in Asian higher education" source="author" id="/page/4/Text/2">
+Sugimura (2012) emphasized that "regionalization in Asia has been moved by national governments and people in general" (p. 47). Instead, Yavaprabhas (2014) argued that "harmonization," a neutral term, would better replace "regionalization" in higher education to avoid undesirable consequences, such as uniformity, standardization, homogeneity, etc.
+</text>
+
+
+<heading page="5" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/4/SectionHeader/3" level="2">
+## 3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks
+</heading>
+
+<text page="5" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/4/Text/4">
+Due to the tendencies of regionalization discussed above, there would be varying conceptual frameworks for the regulation of higher education regionalization. Earlier in the 1990s, Altbach proposed a "center-periphery" concept which explains the relationship between knowledge domination by western countries and other developing higher education systems affected by neo-colonialism (Altbach, 1998, 2004; Kuroda, 2014). During the period, western hegemony in economy and culture predominately influenced the development of many developing and under-developing Asian countries. The disparity in the maturity of higher education systems between western and non-western nations seemed obvious. Following a booming economy in Asia by the end of the twentieth century, a rise of Asian awareness and identity has rapidly led to higher education regionalization in the region. Although "the Flying Geese" model, considered Japan as an Asian leader, was proposed to the new trajectory of Asian higher education regionalization, some scholars argued that the model likely overestimated Japanese influences in Asian Pacific and Southeast Asia (Altbach and Umakoshi, 2004; Kuroda, 2014). Instead of a melting pot, currently, "Mosaic type" with an emphasis on cultural diversities and harmonization can be better explained by the new scenario in Asia (Kuroda, 2014). In other words, the current conceptual framework of higher education regionalization by Asian networks appears to be supportive of multicultural dimensions, local identities, and diversification through the process of regional collaboration (Hawkins 2012).
+</text>
+
+<text page="5" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/4/Text/5">
+Knight (2013a) proposed Functional, Organizational, and Political approaches called FOPA model that Asian networks would likely adopt with regard to purpose and engagement. Each approach is not completely independent from each other, to some extent, but interrelated. There are two major purposes in the Functional approach initiatives, including an alignment of higher education systems and policies, development of cross-border collaborative programs, establishment of qualification frameworks, and credit transfer systems in order to facilitate regional harmonization and talent mobility. The Organizational mode focuses a multilevel layer of interactions and a diversity of actors. In this approach, government and non-government bodies, higher education institutions, quality assurance agencies, or other professional bodies are in collaboration with each other to achieve the ultimate goal of higher education regionalization. The Political model is meant to implement the agenda and higher education initiatives with the strong engagement of governmental policy makers. Signing declaration, convention, agreements, or treaties are regarded as the significant strategies for regional integration and harmonization in this approach (Knight, 2012, 2013a, 2014).
+</text>
+
+<text page="5" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/4/Text/6">
+When it comes to governance and participation, hard and soft approaches are often implicated by several regional networks or organizations (Hawkins et al., 2012; Chan, 2015). A hard approach means a top-down and structural model which is mainly driven by government and coercive forces. The key participants are ministerial officers. In turn, individuals, universities, or groups could also initiate regional collaborations or projects with a soft or bottom-up approach. Combining joint efforts from governments and institutions, hybridized approach now is drawing more attention. In this approach, governments will likely entrust a group of universities or related higher education organizations which are given a certain level of autonomy to take part in the network (Hawkins et al., 2012; Chan, 2015).
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/5/Text/2">
+Traditionally, the bilateral approach is considered as one of the most popular partnership formula of the intellectual collaborations among universities in Asian countries. Two universities from different countries develop a joint degree, double degrees, or short-term programs collaboratively, aiming at enabling students to develop their global citizenship (Terada, 2003; Hou, 2016). In order to enhance regional consciousness and preserve diversity, the multilateral or multi-layer partnership model that started to flourish in Asian international networks or consortiums is considered as a more effective and efficient approach for higher education regionalization.
+</text>
+
+<text page="6" section="3. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks" source="author" id="/page/5/Text/3">
+In conclusion, international organizations are often regarded as a propeller which gives impetus to regional integration and harmonization in high education. Currently, "Mosaic type" outlines the new concept of higher education regionalization in Asia. In terms of purposes, functions, partnership, and participation, the approaches adopted by Asian networks and organizations could be diverse (see Table I).
+</text>
+
+
+<heading page="6" section="4. Development and intended consequences of three student mobility programs 4.1 AIMS exchange programs" source="author" id="/page/5/SectionHeader/4" level="2">
+## 4. Development and intended consequences of three student mobility programs 4.1 AIMS exchange programs
+</heading>
+
+<text page="6" section="4. Development and intended consequences of three student mobility programs 4.1 AIMS exchange programs" source="author" id="/page/5/Text/5">
+Starting in 2010, AIMS was the exchange program developed by SEAMEO-RIHED. The participants were representatives of ASEAN governments. Each participating country was entitled to a balance between the number of sending and receiving students. In addition, governments were responsible for funding programs provided, the selection of participating universities, and the fields of the programs. All government representatives held regular review meetings in order to ensure the quality of the AIMS exchange program (SEAMEO-RIHED, 2014).
+</text>
+
+<text page="6" section="4. Development and intended consequences of three student mobility programs 4.1 AIMS exchange programs" source="author" id="/page/5/Text/6">
+To date, seven countries with more than 60 universities have taken part in the initiative. There were more than ten field offerings with a total of 500 courses. The participating countries included Brunei Darussalam, Indonesia, Malaysia, Thailand, Vietnam, and Japan. Each year, there was a gradual increase in participating student numbers since the exchange program was launched. Over past five years, the total number of the participating students has risen to 1,200. AIMS targeted elite students, so the selection criteria included studying at least one year at home university, GPA score, English proficiency, and learning motivation. Generally speaking, participating students would take eight to ten credits within one to three semesters. All credits awarded at the host university will be transferred into the home university.
+</text>
+
+
+<heading page="6" section="4.2 UMAP semester and super short programs" source="author" id="/page/5/SectionHeader/7" level="3">
+### 4.2 UMAP semester and super short programs
+</heading>
+
+<text page="6" section="4.2 UMAP semester and super short programs" source="author" id="/page/5/Text/8">
+At the early developmental stage, UMAP was just acting as a platform of information sharing and exchange in higher education issues. It aimed at the creation of a credit transfer system in order to facilitate student mobility easily within region. UMAP did not start
+</text>
+
+<table page="6" section="4.2 UMAP semester and super short programs" source="author" id="/page/5/Table/9">
+| Currentconceptualframework | Purposes/functions | Governance model | Partnership | Actors |
+| --- | --- | --- | --- | --- |
+| Mosaic type | Functional | Soft (bottom up) | Bilateral/multilayer | Universities |
+| Organizational | Hybridized (mutual) | Bilateral/multilayer | Government andnongovernment organizations,professional bodies |
+| Political | Hard (top down) | Multilayer | Government and universities |
+</table>
+
+<text page="6" section="4.2 UMAP semester and super short programs" source="author" id="/page/5/Text/10">
+Table I. Conceptual framework, governance model, and partnership of higher education regionalization in Asian networks
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="4.2 UMAP semester and super short programs" source="author" id="/page/6/Text/2">
+student mobility programs until 2007. Institutional members could nominate a maximum of two students per year to take part in the exchange program. However, it is estimated that only 50 out of 500 institutions actively took part in the semester exchange programs over years (UMAP, 2013, 2015). In 2011, UMAP launched a new type of program called "Super Short-Term Program" (SSTP). It would last between one and eight weeks long in summer or winter breaks. A wide range of disciplines were offered by participating institutions, such as cultural studies, language courses, arts, business, and entrepreneurship. Most importantly, UMAP awarded each selected participant a scholarship of USD800 (UMAP, 2013).
+</text>
+
+<text page="7" section="4.2 UMAP semester and super short programs" source="author" id="/page/6/Text/3">
+Generally speaking, the majority of the country members are not actively engaged in UMAP activities, except Taiwan, Thailand, Malaysia, Japan, and Philippines. Only Taiwan and Japanese Governments provided a special scholarship program for selected students. In 2016, Philippines Government organized a thematic exchange program titled "UMAP Discovery Camp" in collaboration with four local institutions. In country members, like South Korea, Hong Kong, and Macau, universities were the country representatives as well as served as National Secretariat. Universities' participation was voluntary. The financial support from governments is limited.
+</text>
+
+<text page="7" section="4.2 UMAP semester and super short programs" source="author" id="/page/6/Text/4">
+Student selection criteria were set by each university instead of UMAP committee. UMAP encouraged motivated students to apply for the mobility programs. From 2011 to 2015, the number of students who participated in UMAP semester and SSTP was around 380. Whether credits gained at the host institution could be transferred and accumulated still relied on home university decision though UMAP had developed Credit Transfer Scheme (UCTS) in 2000.
+</text>
+
+
+<heading page="7" section="4.3 CAMPUS Asia exchange and joint/dual-degree programs" source="author" id="/page/6/SectionHeader/5" level="3">
+### 4.3 CAMPUS Asia exchange and joint/dual-degree programs
+</heading>
+
+<text page="7" section="4.3 CAMPUS Asia exchange and joint/dual-degree programs" source="author" id="/page/6/Text/6">
+Initiated by Japanese, South Korea, and Chinese leaders in 2009, CAMPUS Asia aimed at promoting exchanges with universities among three countries throughout cooperation among quality assurance agencies. After a joint screening process, ten trilateral collaborative programs among Japan, China, and Korea were launched in 2011, which were implemented on a five-year period. A selection committee by three countries, the Korea-China-Japan Committee for Promoting Exchange and Cooperation among Universities, was organized to develop guidelines for selection of trilateral consortia in terms of procedures, fields, and quality assurance (CAMPUS Asia, 2016a). The major characteristics of the initiative were the participation of top universities, the inclusion of joint/dual-degree programs, as well as the emphasis of quality assurance mechanism.
+</text>
+
+<text page="7" section="4.3 CAMPUS Asia exchange and joint/dual-degree programs" source="author" id="/page/6/Text/7">
+Based on partnership and collaborative experiences, universities from each of three countries would form a trilateral consortium in order to develop student exchanges or joint programs. Although each university would set its own criteria for student recruitment, applicants must be equipped with excellent English proficiency as well as a high academic performance. Each consortium was to support approximately 30 students per institution (10 outbound students and 20 inbound students). Up to 2014, the number of participating students was approximately 450 with a high proportion of graduate students. The majority of participants are exchange students, compared to a limited number of degree-seeking students (Higher Education Evaluation Center, 2014). Most selected students were financially supported by host governments, including scholarship and living expenses.
+</text>
+
+<text page="7" section="4.3 CAMPUS Asia exchange and joint/dual-degree programs" source="author" id="/page/6/Text/8">
+Quality assurance agencies in three countries played a major role in the initiative. The Japan-China-Korea Quality Assurance Council established jointly by National Institution for Academic Degrees and Quality Evaluation of Japan, Higher Education Evaluation Center of the Ministry of Education of China, and Korean Council for University Education of Korea carried out a quality monitoring for the ten pilot programs between 2013 and 2015 based on a shared quality assurance framework. In the process of quality
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="4.3 CAMPUS Asia exchange and joint/dual-degree programs" source="author" id="/page/7/Text/2">
+monitoring, three quality assurance agencies would "address quality assurance of international education, identify and promote successful practices that encourage education quality throughout the higher education community, and draw up joint guidelines for the quality assurance of transnational education for use by quality assurance agencies in Japan, China and Korea" (CAMPUS Asia monitoring, 2016, p. 1).
+</text>
+
+
+<heading page="8" section="5. Analysis and comparisons of three student mobility programs" source="author" id="/page/7/SectionHeader/3" level="2">
+## 5. Analysis and comparisons of three student mobility programs
+</heading>
+
+<text page="8" section="5. Analysis and comparisons of three student mobility programs" source="author" id="/page/7/Text/4">
+There are significant differences among the three programs in terms of government role, institutional involvement, and student recruitment. Credit transfer systems and quality assurance also differ across the three initiatives.
+</text>
+
+
+<heading page="8" section="5.1 Regulatory approach, government role, institutional involvement, and student recruitment" source="author" id="/page/7/SectionHeader/5" level="3">
+### 5.1 Regulatory approach, government role, institutional involvement, and student recruitment
+</heading>
+
+<text page="8" section="5.1 Regulatory approach, government role, institutional involvement, and student recruitment" source="author" id="/page/7/Text/6">
+UMAP was the first and biggest organization committed to developing study mobility programs, but the level of government engagement was the weakest among them. Bottom-up/ soft approach was adopted at national and international levels. In contrast, AIMS and CAMPUS Asia initiated by a strong international network and governments tended to comply with a top-down/hard regulatory model, including selection of institutions and programs. Institutions could join UMAP activities voluntarily and offer exchange programs at their discretion. Instead, institutions in AIMS and CAMPUS Asia were invited and screened by governments first. Institutions in the three initiatives are responsible for program delivery and student recruitment, providing an element of autonomy in design and management.
+</text>
+
+<text page="8" section="5.1 Regulatory approach, government role, institutional involvement, and student recruitment" source="author" id="/page/7/Text/7">
+When it comes to student recruitment, AIMS enrolled more students than the other two; graduate students in CAMPUS Asia outnumbered undergraduates. Besides, CAMPUS Asia intended to attract top students only in comparison with AIMS and UMAP. Up to 2016, AIMS enrolled more than 1,200 students in a relatively higher scale (see Table II).
+</text>
+
+
+<heading page="8" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/7/SectionHeader/8" level="3">
+### 5.2 Credit transfer system, learning outcomes, and quality assurance
+</heading>
+
+<text page="8" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/7/Text/9">
+The credit system is supposed to reflect the number of classes attended as well as other academic requirements fulfilled by students. In other words, what students actually learn during a period should be converted into a number of credits. In order to facilitate student mobility, three initiatives all took a creation of a credit transfer system into consideration. With the initial objective and modeling European Credit Transfer System, UCTS in 2000 became the first credit system designed to be used in the Asia Pacific region. On September 21, 2016, in the 25th anniversary and conference, UMAP published the new version of "UMAP Credit Transfer
+</text>
+
+<table page="8" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/7/Table/10">
+|  | AIMS | UMAP | CAMPUS Asia |
+| --- | --- | --- | --- |
+| Starting year | 2010 | 2007 | 2011 |
+| Role of government | Actively engaged | Loosely engaged | Strongly engaged |
+| Institutional involvement | Nominated/responsiblefor program and coursedelivery/set criteria forstudents recruitment | Voluntary/responsible forprogram and coursedelivery/no specific rulesfor student selection | Invited/responsible forprogram and coursedelivery/set criteria forstudents recruitment |
+| Students participation(2011-2015) | Around 1,200/motivatedstudents/undergraduate | 379/motivated students/undergraduate | 450/elite students/graduate |
+| Quality assurance | Accredited program/external reviews are notavailable | No review | Internal and externalreview by three QAagencies' internal review |
+| Credit transfer system | UCTS/ACTFA | UCTS | None |
+</table>
+
+</page>
+<page number="9">
+<text page="9" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/8/Text/2">
+Scheme: User's Guide." In the new guidebook, it summarized that one UCT was equivalent to 38-48 hours of student workloads, including 13-16 academic hours of instruction (UMAP, 2016). UMAP expected that all participating institutions would apply the principles for the credits earned by exchange students at the host university.
+</text>
+
+<text page="9" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/8/Text/3">
+In addition to UCTS, the AUN created AUN Credit transfer system (ACTS) for 30 participating institutions in 2009 and implemented it as a pilot project in 2011 (ASEAN-AUN-ACTS, 2013; ASEAN, 2015a, b). Through the adoption of ACTS grading scale in which student learning outcomes would be ranked into five subgroups from A (excellent) to E/F (fail), host universities would provide students a "Certificate of Completion" signed by the AUN-ACTS Secretariat as well (ASEAN University Network (AUN), 2014a, b; Sujatanond, 2016).
+</text>
+
+<text page="9" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/8/Text/4">
+Because ACTS are only applicable for AUN institutions, therefore, SEAMEO-RIHED is planning to develop a new credit transfer scheme called Academic Credit Transfer Framework (ACTFA) for all higher education institutions in Southeast Asia, particularly for AIMS, in order to harmonize existing credit transfer arrangements in Asia (SEAMEO-RIHED, 2014). But UCTS has been adopted by three AIMS member countries, Thailand, Malaysia, and Philippines, who actively participated in UMAP's exchange program. Moreover, Philippines Government officially requested all universities and colleges to follow UCTS guideline for exchange programs.
+</text>
+
+<text page="9" section="5.2 Credit transfer system, learning outcomes, and quality assurance" source="author" id="/page/8/Text/5">
+In order to assure learning outcomes of students studying at all participating institutions, credit transferability was regarded as one of the characteristics of CAMPUS Asia. Yet, there was no specific system developed by the initiative. Instead, CAMPUS Asia undertook a quality monitoring process by three quality assurance agencies to determine whether the quality of the mobility program in trilateral consortiums was ensured. In contrast, quality assurance systems were not embedded into AIMS and UMAP initiatives. ASEAN Quality Assurance Network, as a collective body of all ASEAN quality assurance agencies, did not conduct any quality review activities over AIMS yet. Besides, there was no sign that UMAP would collaborate with other quality assurance networks, such as APQN in the near future (Table II).
+</text>
+
+
+<heading page="9" section="6. Discussions" source="author" id="/page/8/SectionHeader/6" level="2">
+## 6. Discussions
+</heading>
+
+
+<heading page="9" section="6.1 FOPA model implication and regulatory governance" source="author" id="/page/8/SectionHeader/7" level="3">
+### 6.1 FOPA model implication and regulatory governance
+</heading>
+
+<text page="9" section="6.1 FOPA model implication and regulatory governance" source="author" id="/page/8/Text/8">
+Examining these three initiatives using Knight's FOPA model, AIMS and CAMPUS Asia consists of three functional, organizational, and political tendencies. In contrast, UMAP falls in the functional mode only. Both AIMS and CAMPUS Asia utilized practical strategies and policy which facilitate closer alignment and student mobility within region. Governments, institutions, and quality assurance agencies collaborated with in the developmental process, credit transfer framework, and quality assurance model of student mobility programs. Based on political will, AIMS and CAMPUS Asia signed multi-layer agreements, promoted regional policy dialogs, and developed funding schemes to formalize initiatives "in order to make regionalization of higher education a priority" (Knight, 2013a, p. 120). With a wellknown and established credit transfer system, UMAP had a more functional strategy to promote higher education regionalization. Yet, given the reality that UMAP was lacking a strong governmental support and organizational architecture, UMAP would exert its limited influence over institutions and students (see Table III).
+</text>
+
+<text page="9" section="6.1 FOPA model implication and regulatory governance" source="author" id="/page/8/Text/9">
+Furthermore, an understanding of the regulatory models of the three initiatives demonstrates that a top-down and government-driven student mobility scheme tends to be more effective than a bottom-up model or a hybrid type. AIMS and CAMPUS Asia initiatives demonstrate that the political support and financial scholarship from the government could strengthen institutional involvement and encourage student participation. In other words, AIMS and CAMPUS Asia initiatives are meant to have an emerging influence on higher
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="6.1 FOPA model implication and regulatory governance" source="author" id="/page/9/Text/2">
+education regionalization due to their hard approach in comparison to UMAP's hybridized force. In general, three initiatives still exerts little influence on regional integration due to a limited scale of the program. However, it can be predicted that a top-down, hard, and intentional approach would likely lead to program sustainability in the long run. This is of particular relevance for future integration debates where the level of disparity is pronounced and the individual national functions distinct and varied.
+</text>
+
+
+<heading page="10" section="6.2 Quality, challenges, and impacts on regionalization" source="author" id="/page/9/SectionHeader/3" level="3">
+### 6.2 Quality, challenges, and impacts on regionalization
+</heading>
+
+<text page="10" section="6.2 Quality, challenges, and impacts on regionalization" source="author" id="/page/9/Text/4">
+Credit transfer systems and quality assurance mechanisms are the key elements in fostering student mobility programs (Knight, 2013a; Yonezawa et al., 2014). Although UCTS, ACTFA, and quality monitoring were created by three initiatives, respectively, the coordination between governments, institutions, and quality assurance agencies would need to be improved further. Furthermore, diversity in national regulations, academic calendars, and grading policies in Asian higher education would continue to challenge the implementation of three initiatives. Nevertheless, quality remains the major concern of three initiatives, with only CAMPUS Asia undergoing an external quality review of the programs provided by participating institutions. The inclusion of quality assurance mechanism in the other two initiatives is still under development (CAMPUS Asia, 2016b).
+</text>
+
+<text page="10" section="6.2 Quality, challenges, and impacts on regionalization" source="author" id="/page/9/Text/5">
+As Horie (2014) indicated, "operating quality programmes requires teaching and coordinating staff who fully understand the pedagogical principles and are capable of facilitating such learning inside and outside the classroom" (p. 19). In the short-term development, AIMS, CAMPUS Asia, and UMAP should think of advising participating institutions and their staff to apply the new academic credit system and change their current grading system. For a long-term perspective, engagement of national QA agencies or regional QA networks will be getting more and more significant.
+</text>
+
+<text page="10" section="6.2 Quality, challenges, and impacts on regionalization" source="author" id="/page/9/Text/6">
+Yet, it is important to note that the total number of students moving within Asia Pacific and Southeast Asia throughout three initiatives remains relatively low. So, there was limited evidence to assess the impacts they brought into higher education regionalization. Since Asian networks have a shared goal to intensify the integration of higher education systems across the region, they anticipate that student mobility schemes would serve as a catalyst that "recognizes diversity of higher education systems and cultures within the region while promoting common practices and guidelines" (Fahmi, 2013).
+</text>
+
+
+<heading page="10" section="7. Conclusion" source="author" id="/page/9/SectionHeader/7" level="2">
+## 7. Conclusion
+</heading>
+
+<text page="10" section="7. Conclusion" source="author" id="/page/9/Text/8">
+AIMS, CAMPUS Asia, and UMAP student mobility schemes have a shared purpose in higher education regionalization, but with different regulatory frameworks and FOPA models. AIMS and CAMPUS Asia as a strong network and government-led initiatives adopt a combination of functional, organizational, and political approaches; UMAP provides university-driven regional mobility programs with a hybridized force. However, all three of
+</text>
+
+<table page="10" section="7. Conclusion" source="author" id="/page/9/Table/9">
+|  | AIMS | UMAP | CAMPUS Asia |
+| --- | --- | --- | --- |
+| FOPA | Functional/organizational/political | Functional | Functional/organizational/political |
+| Governance model | Top-down/hard force | Bottom-up/hybrid type | Top-down/hard force |
+| Management | International network led | University led | Government led |
+| Challenge | Quality/organization/coordination/language | Budget/quality/governmentsupport/language | Learning outcomes/language |
+| Impacts | Low | Low | Low |
+| Source: Authors |  |  |  |
+</table>
+
+<text page="10" section="7. Conclusion" source="author" id="/page/9/Text/10">
+Table III. Regulation, challenges, and impacts among AIMS, UMAP, and CAMPUS Asia
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="7. Conclusion" source="author" id="/page/10/Text/2">
+them face the same challenges at regional and national levels, such as different national regulation, coordination among participants, and implementation of credit transfer schemes. Experience from three initiatives demonstrates that credit transfer has become a key issue in promoting student mobility and exchange, in which a credit calculation system should be associated, and connected, with learning outcomes. Concurrently, the question as to how to harmonize the different credits and grading systems that can recognize learning outcomes and experiences across countries and higher education institutions becomes a major concern at three initiatives (Sirat et al., 2014).
+</text>
+
+<text page="11" section="7. Conclusion" source="author" id="/page/10/Text/3">
+Up to present, the scale of three student mobility programs is still low, which results in limited impact on higher education regionalization in Asia. However, a stronger decisionmaking model and increased financial support to universities and students are desirable for the creation of a sustainable and effective network. Knight (2013a) elaborated that:
+</text>
+
+<text page="11" section="7. Conclusion" source="author" id="/page/10/Text/4">
+There is no one way or right way to go about higher education regionalization. Each region, however defined, will develop its own path which acknowledges and respects the commonalities and differences among higher education institutions and systems (p. 123).
+</text>
+
+<text page="11" section="7. Conclusion" source="author" id="/page/10/Text/5">
+Although regionalization of higher education is still under-developed in the region, Asian nations have begun the process of collaboration to achieve their ultimate goal of regional integration and harmonization through alignment of higher education systems and student mobility programs. It can be foreseen that the joint efforts among varying higher education stakeholders to achieve regionalization will be getting more and more significant.
+</text>
+
+
+<heading page="11" section="References" source="author" id="/page/10/SectionHeader/6" level="2">
+## References
+</heading>
+
+<text page="11" section="References" source="author" id="/page/10/Text/7">
+Altbach, P.G. (1998), Comparative Higher Education: Knowledge, the University and Development, Comparative Education Research Centre, Hong Kong.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/8">
+Altbach, P.G. (2004), "Higher education cross borders", Change, Vol. 36 No. 22, pp. 18-26.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/9">
+Altbach, P.G. and Umakoshi, U. (2004), Asian Universities: Historical Perspectives and Contemporary Challenges, Johns Hopkins University Press, Baltimore, MD.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/10">
+ASEAN (2015a), "Official website", available at:[ www.asean.org/](www.asean.org/) (accessed December 13, 2014).
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/11">
+ASEAN (2015b), Student Mobility and Credit Transfer System in ASEAN, ASEAN Secretariat, Jakarta.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/12">
+ASEAN (2016), "Overview", available at:[ http://asean.org/asean/about-asean/overview/](http://asean.org/asean/about-asean/overview/)
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/13">
+ASEAN-AUN-ACTS (2013), "ASEAN credit transfer system", available at:[ http://acts.ui.ac.id/home/](http://acts.ui.ac.id/home/about/92) [about/92](http://acts.ui.ac.id/home/about/92) (accessed December 13, 2014).
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/14">
+ASEAN University Network (AUN) (2014a), "Official website", available at:[ www.aunsec.org/](www.aunsec.org/qualityassurance_details.php?id=3) [qualityassurance_details.php?id](www.aunsec.org/qualityassurance_details.php?id=3)=3 (accessed December 18, 2014).
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/15">
+ASEAN University Network (AUN) (2014b), "ASEAN university network-quality assurance guidelines", available at:[ www.aunsec.org/pdf/aunwebsite/01_AUNQAGuidelineManual.pdf](www.aunsec.org/pdf/aunwebsite/01_AUNQAGuidelineManual.pdf) (accessed December 18, 2014).
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/16">
+Beerkens, H. (2004), Global Opportunities and Institutional Embeddedness: Higher Education Consortia in Europe and Southeast Asia, CHEPS/UT, Enschede.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/17">
+British Council (2008), "International student mobility in East Asia: executive summary", available at: [www.eahep.org/web/images/Malaysia/bc%20-%20asia%20student%20mobility%20-%20](www.eahep.org/web/images/Malaysia/bc%20-%20asia%20student%20mobility%20-%20summary.pdf) [summary.pdf](www.eahep.org/web/images/Malaysia/bc%20-%20asia%20student%20mobility%20-%20summary.pdf) (accessed July 2011).
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/18">
+CAMPUS Asia (2016a), "Concept and overview", available at:[ www.niad.ac.jp/english/campusasia/](www.niad.ac.jp/english/campusasia/concept.html) [concept.html](www.niad.ac.jp/english/campusasia/concept.html)
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/19">
+CAMPUS Asia (2016b), "Joint monitoring report", CAMPUS Asia Joint Monitoring Committee, Tokyo.
+</text>
+
+<text page="11" section="References" source="author" id="/page/10/Text/20">
+CAMPUS Asia monitoring (2016), "CAMPUS Asia joint monitoring committee (2016)", joint monitoring report, NIAD-QE, HEEC &amp; KCUE.
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="References" source="author" id="/page/11/Text/21">
+Student
+</text>
+
+<list page="12" section="References" source="author" id="/page/11/ListGroup/314">
+- Chan, S.J. (2015), "Deepening intellectual network in East Asia: emerging frameworks and challenges", available at:[ www.icer.snu.ac.kr/upload_files/program_db/Day2/2-35_Shengju%20Chan.pdf](www.icer.snu.ac.kr/upload_files/program_db/Day2/2-35_Shengju%20Chan.pdf)
+- Dale, R. and Robertson, S.L. (2002), "The varying effects of regional organizations as subjects of globalization of education", Comparative Education Review, Vol. 46 No. 1, pp. 10-36.
+- Daniel, J., Kanwar, A. and Uvalić-Trumbić, S. (2009), "From innocence to experience: the politics and projects of cross-border higher education", in Fegan, J. and Field, M.H. (Eds), Education Across-Borders, Springer, Singapore, pp. 19-31.
+- Deardorff, D.K., de Wit, H. and Heyl, J.D. (2012), "Bridges to the future: the global landscape of international higher education", in Deardorff, D.K., de Wit, H. and Heyl, J.D. (Eds), The Sage Handbook of International Higher Education, Sage Publications, Inc., Thousand Oaks, CA, pp. 457-485.
+- Fahmi, Z.M. (2013), Towards an ASEAN Quality Assurance Framework in Higher Education, AQAN, Kuala Lumpur.
+- Hawkins, J. (2012), "The challenges of regionalism and harmonization for higher education in Asia", in Mok, K.H., Hawkins, J.N. and Neubauer, D.E. (Eds), Higher Education Regionalization in Asia Pacific, Palgrave Macmillan, New York, NY, pp. 177-189.
+- Hawkins, H.J., Mok, K.H. and Neubauer, D.E. (2012), "The dynamics of regionalization in contemporary Asia-Pacific higher education", in Mok, K.H., Hawkins, J.N. and Neubauer, D.E. (Eds), Higher Education Regionalization in Asia Pacific, Palgrave Macmillan, New York, NY, pp. 191-206.
+- Higher Education Evaluation Center (HEEC) (2014), "1st quality monitoring report of CAMPUS Asia pilot programs", HEEC, Peking.
+- Horie, M. (2014), "Internationalization of Japanese Universities: learning from the CAMPUS Asia experience", International Higher Education, Vol. 78, Special Issue, pp. 19-21.
+- Hou, A.Y.C. (2014), "Quality in cross-border higher education and challenges for the internationalization of national quality assurance agencies in the Asia-Pacific Region – Taiwan experience", Studies in Higher Education, Vol. 39 No. 6, pp. 135-152.
+- Hou, A.Y.C. (2016), "Quality assurance of joint degree programs from the perspective of quality assurance agencies: experience in East Asia", Higher Education Research &amp; Development, Vol. 35 No. 3, pp. 473-487.
+- Jayasuriya, K. (2009), "Regulatory regionalism in the Asia-Pacific: drivers, instruments and actors", Australian Journal of International Affairs, Vol. 63 No. 3, pp. 335-347.
+- Knight, J. (2012), "A conceptual framework for the regionalization of higher education: application to Asia", in Mok, K.H., Hawkins, J.N. and Neubauer, D.E. (Eds), Higher Education Regionalization in Asia Pacific, Palgrave Macmillan, New York, NY, pp. 191-205.
+- Knight, J. (2013a), "A model for the regionalization of higher education: the role and contribution of Tuning", Tuning Journal for Higher Education, No. 1, November, pp. 105-125.
+- Knight, J. (2013b), "New development and issues in academic mobility", UMAP Workshop, Fu Jen Catholic University, Taipei.
+- Knight, J. (2014), "Towards African higher education regionalization and harmonization: functional, organizational and political approaches", in Wiseman, A.W. and Wolhuter, C. (Eds), The Development of Higher Education in Africa: Prospects and Challenges, International Perspectives on Education and Society Series, Emerald Publishing, London, pp. 347-373.
+- Kuroda, K. (2014), "Asian Regionalization of Higher Education", 1st Cambodia Education Research Forum, National Institute of Education, Phnom Penh.
+- Marginson, S., Kaur, S. and Sawir, E. (2011), "Global, local, national in the Asia-Pacific", in Marginson, S., Kaur, S. and Sawir, E. (Eds), Higher Education in the Asia-Pacific, Springer, Dordrecht, pp. 3-34.
+- Moor, B.D. and Henderikx, P. (2013), International Curricula and Student Mobility, League of European Research Universities, Leuven.
+</list>
+
+</page>
+<page number="13">
+<list page="13" section="References" source="author" id="/page/12/ListGroup/280">
+- Nelson, A.R. (2013), "Regionalisation and internationalization in higher education and development: a historical perspective, c. 1950-1970", Journal of Higher Education Policy and Management, Vol. 35 No. 3, pp. 238-248.
+- Neubauer, D.E. (2012), "Introduction: some dynamics of regionalization in Asia-pacific higher education", in Mok, K.H., Hawkins, J.N. and Neubauer, D.E. (Eds), Higher Education Regionalization in Asia Pacific, Palgrave Macmillan, New York, NY, pp. 191-206.
+- Sato, K. (2014), "Next stage of internationalization in Japanese universities", 2014 UMAP International Conference, available at:[ www.jasso.go.jp/study_j/documents/umap2014panelsession3sato.pdf](www.jasso.go.jp/study_j/documents/umap2014panelsession3sato.pdf) (accessed October 20, 2015).
+- SEAMEO-RIHED (2012), "2010-2011 annual report", SEAMEO-RIHED, Bangkok.
+- SEAMEO-RIHED (2014), "Official website", available at:[ www.seameo.org/index.php?option](www.seameo.org/index.php?option=com_content&amp;view=article&amp;id=155:seameo-rihed&amp;catid=98&amp;Itemid=519)=com_ content&amp;view=article&amp;id=[155:seameo-rihed&amp;catid](www.seameo.org/index.php?option=com_content&amp;view=article&amp;id=155:seameo-rihed&amp;catid=98&amp;Itemid=519)=98&amp;Itemid=519 (accessed October 25, 2015).
+- SEAMEO-RIHED (2016), "2015-2016 annual report", SEAMEO-RIHED, Bangkok.
+- Sirat, M., Azman, N. and Bakar, A.A. (2014), "Towards harmonization of higher education in Southeast Asia: Malaysia's perspective", Inside Higher Education, April 13, available at:[ www.](www.insidehighered.com/blogs/globalhighered/towards-harmonization-higher-education-southeast-asia) [insidehighered.com/blogs/globalhighered/towards-harmonization-higher-education-southeast-asia](www.insidehighered.com/blogs/globalhighered/towards-harmonization-higher-education-southeast-asia)
+- Sugimura, M. (2012), "The function of regional networks in East Asian higher education", in Mok, K.H., Hawkins, J.N. and Neubauer, D.E. (Eds), Higher Education Regionalization in Asia Pacific, Palgrave Macmillan, New York, NY, pp. 45-64.
+- Sujatanond, C. (2016), "SEAMEO-RIHED: programs and initiatives for academic exchanges in Southeast Asia and beyond", available at:[ www.unescobkk.org/fileadmin/user_upload/apeid/](www.unescobkk.org/fileadmin/user_upload/apeid/HigherEdu/Indicators-Nov2016/D2-Chantavit-SEAMEO_RIHED.pdf) [HigherEdu/Indicators-Nov2016/D2-Chantavit-SEAMEO_RIHED.pdf](www.unescobkk.org/fileadmin/user_upload/apeid/HigherEdu/Indicators-Nov2016/D2-Chantavit-SEAMEO_RIHED.pdf)
+- Terada, T. (2003), "Constructing an 'East Asian' concept and growing regional identity: from EAEC to ASEAN+3", The Pacific Review, Vol. 16 No. 22, pp. 51-277.
+- UMAP (2013), 2013 Committees and Board Meeting Agenda, UMAP Secretariat, Taipei.
+- UMAP (2015), "Official website", available at:[ http://140.136.202.112/UMAP_ST2/WebFrontPage/](http://140.136.202.112/UMAP_ST2/WebFrontPage/Introduction.aspx) [Introduction.aspx](http://140.136.202.112/UMAP_ST2/WebFrontPage/Introduction.aspx) (accessed December 21, 2015).
+- UMAP (2016), UMAP Credit Transfer Scheme (UCTS): User's Guide, UMAP, Tokyo.
+- UNESCO (2007), UNESCO Statistical Yearbook, UNESCO, Paris.
+- Yavaprabhas, S. (2014), "The harmonization of higher education in Southeast Asia", in Yonezawa, A., Kitamura, Y., Meerman, A. and Kuroda, K. (Eds), Emerging International Dimensions in East Asian Higher Education, Springer, Singapore, pp. 81-102.
+- Yonezawa, A., Kitamura, Y., Meerman, A. and Kuroda, K. (2014), "Emerging international dimensions in East Asian higher education: pursuing regional and global development", in Yonezawa, A., Kitamura, Y., Meerman, A. and Kuroda, K. (Eds), Emerging International Dimensions in East Asian Higher Education, Springer, Singapore, pp. 1-13.
+</list>
+
+
+<heading page="13" section="Corresponding author" source="author" id="/page/12/SectionHeader/18" level="3">
+### Corresponding author
+</heading>
+
+<text page="13" section="Corresponding author" source="author" id="/page/12/Text/19">
+Angela Yung Chi Hou can be contacted at: 035440@mail.fju.edu.tw
+</text>
+
+</page>
+</paper>

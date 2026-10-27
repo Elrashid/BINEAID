@@ -1,0 +1,800 @@
+<paper source_file="A2.R30" title="Internationalization of the higher education system: an interpretive analysis" total_pages="23" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+
+<heading page="1" section="Internationalization of the higher education system: an interpretive analysis" source="author" id="/page/0/SectionHeader/1" level="1">
+# Internationalization of the higher education system: an interpretive analysis
+</heading>
+
+<text page="1" section="Internationalization of the higher education system: an interpretive analysis" source="author" id="/page/0/Text/2">
+Higher education system
+</text>
+
+<text page="1" section="Internationalization of the higher education system: an interpretive analysis" source="author" id="/page/0/Text/3">
+359
+</text>
+
+<text page="1" section="Internationalization of the higher education system: an interpretive analysis" source="author" id="/page/0/Text/4">
+Received 7 April 2017 Revised 28 May 2017 Accepted 15 June 2017
+</text>
+
+<text page="1" section="Internationalization of the higher education system: an interpretive analysis" source="author" id="/page/0/Text/5">
+Nizar Mohammad Alsharari Department of Accounting, United Arab Emirates University, Abu Dhabi, United Arab Emirates
+</text>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/6" level="2">
+## Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/7">
+Purpose – The purpose of this paper is to explore the process of internationalization of higher education (HE) in the United Arab Emirates by examining the development of its HE system, and analyzing the components and results of internationalization.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/8">
+Design/methodology/approach – The study adopts a qualitative research methodology to analyze primary evidence from interviews with academics in the UAE, and uses documents and archival research as secondary evidence to provide a comprehensive view of the UAE's internationalized HE sector. A review of the literature is undertaken to inform discussion and analysis which focuses on the internal and external environments of the UAE. A strengths, weaknesses, opportunities and threats analysis identifies the benefits and challenges for the UAE of internationalized HE.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/9">
+Findings – The study finds that internationalization of HE in the UAE has grown rapidly in the last decade, and that the UAE has sought to establish and promote itself as an "education hub" in the Middle East. However, this may subsume the government's parallel goal of educating its citizenry to the level of skills necessitated by globalization. Three major forces promoting internationalization in the UAE are neoliberalism, quality assurance, and imported internationalization, an approach seeks the prestige conferred by international accreditation that is predominant in the UAE as well as other Gulf Cooperation Council (GCC) member states. An area of concern is the governance of systems to ensure high quality for universities that may be state-owned, privately owned, or international branch campuses. The study concludes that regional integration could provide the way forward for these countries in their internationalization efforts, not by standardizing but by better formulating study programs across the range of state, private and international higher education institutions.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/10">
+Research limitations/implications – The study has important implications for HE policy and governance in the development of internationalized HE in the UAE. It provides theoretical perspectives with practical implications, focusing on some of the critical issues in this developing field for HE administrators and practitioners alike. It also has implications for the UAE's national social values and cultural identity. This may be a reflection of the UAE's relatively recent unification as a state whose HE system, developed to skill its population, has been overtaken by the imperative to compete in a globalized world. The research is limited by the absence of longitudinal data to review longer-term outcomes.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/11">
+Originality/value – The UAE, like other GCC countries, is striving to take its higher educational system to a higher level of performance. This study can be considered as one of the very few studies in the area of the internationalization of HE in the UAE. It contributes to the HE literature by identifying factors and circumstances that facilitate, and hinder, the development of internationalization of HE in the UAE. Globalization can be considered as one of the history's most significant social processes, and the HE sector plays a vital role in the delivery of knowledge and skills to societies, and thus its socio-economic development.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/12">
+Keywords UAE, Globalization, Higher education, Internationalization, Accreditation
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/13">
+Paper type Research paper
+</text>
+
+
+<heading page="1" section="1. Introduction" source="author" id="/page/0/SectionHeader/14" level="1">
+# 1. Introduction
+</heading>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/15">
+Globalization is a most significant force of economic and social change. Our children and grandchildren are likely to feel the effects of the current wave of globalization that yet seems in its infancy. Appropriately, globalization has commanded the attention of legions of writers, consultants, and advisers who have stepped forward to assist business management as it wrestles with a rapidly globalizing economy. Governments have also given their attention to creating "national champions" and to advancing the growth of their economies in the internationalized market. To date, the accumulated books, articles, proceedings, and
+</text>
+
+<figure page="1" section="1. Introduction" source="author" id="/page/0/Picture/16" image="A2.R30_fig01.jpg">[FIGURE: see A2.R30_fig01.jpg]</figure>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/17">
+International Journal of Educational Management Vol. 32 No. 3, 2018 pp. 359-381 © Emerald Publishing Limited 0951-354X DOI 10.1108/IJEM-04-2017-0082
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/2">
+speeches published about the globalization of business represents a veritable mountain of material (Association to Advance Collegiate Schools of Business (AACSB). Comparatively little is known about globalization's influence on higher education (HE) in the Middle East (Verger et al., 2016).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/3">
+Competing drivers for university administrators to adopt an integrated, rather than a one-dimensional approach to internationalization are today evident. Intensifying competition for talent, changes in global student flows, the establishment of international branch campuses and the growing complexity of cross-border activity, along with the rising influence of institutional rankings, all contribute to the economic impetus for, and reputational consequences of success or failure of internationalized education sectors worldwide. Meanwhile, an additional incentive is provided by the growing awareness that the intercultural skills required for global contexts is equally important for living and working in far more diverse and multicultural societies. Research shows a growing demand by employers for university graduates with global perspectives and cross-cultural competence, and students themselves are showing greater interest in international experience. Internationalization thus has both global and more local intercultural interests at its heart (Healey, 2008; Ziguras and McBurnie, 2015).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/4">
+Internationalization can facilitate a culturally inclusive dimension in the teaching, research, service delivery, and the commercial and entrepreneurial pursuits of a modern university. The concept is most successful when it is enacted in wider corporate goals, rather than as an aim in itself. Embedding internationalization by changing the institutional language, culture, and attitudes into standard university practice is more likely to achieve success than when it is merely upheld as a goal. Internationalization as a powerful force for change is an underlying theme of this series, in contrast to the economic or brand-enhancing aspects of international engagement (Gopinathan and Lee, 2011; Ziguras and McBurnie, 2015). This paper seeks to address the complexities of change wrought by internationalization as it moves into its next phase. It aims to reflect contemporary concerns throughout the following sections geared to the principal objective of the study. The purpose of this study is to capture current trends in the internationalization of HE and analyze the factors in recent successes, challenges, and obstacles in the UAE context.
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/5">
+Following the introduction, Section 2 reviews the key literature on the internationalization of HE that focuses on the process, outcomes, and governance of internationalization. Section 3 details the methodology for this study, which uses a qualitative approach through analysis of the literature and of data collected through purposive sampling. In Section 4, evidence relating to the globalization of HE in the UAE is presented in the context of the development of the country's tertiary education system. Section 5 provides discussion and analysis of evidence from interviews focusing on the internationalization of HE in the UAE and other nation members of the Gulf Cooperation Council (GCC). Section 6 presents a strengths, weaknesses, opportunities and threats (SWOT) analysis of the strengths and weaknesses of internationalization, and identifies opportunities and threats in the development HE in the UAE, and across the GCC region. Section 7 draws conclusions from the main findings of the study.
+</text>
+
+
+<heading page="2" section="2. Literature review" source="cited" id="/page/1/SectionHeader/6" level="1">
+# 2. Literature review
+</heading>
+
+
+<heading page="2" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/1/SectionHeader/7" level="2">
+## 2.1 Internationalization of HE: process, outcomes, and governance
+</heading>
+
+<text page="2" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/1/Text/8">
+The literature describing trends and explaining aspects of the internationalization of HE is diverse, owing to the multiple dimensions of its form and impacts. Internationalization of HE is most comprehensively defined as "[t]he process of integrating an international, intercultural or global dimension into the purpose, functions or delivery of post-secondary education" (Knight, 2004, p. 11). This definition, apart from the range of modalities, also integrates an intercultural and international dimension into all areas of university functioning.
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/2/Text/2">
+It particularly considers internationalization as a response to globalization, although scholars such as Brandenburg and de Wit (2011) find no marked difference between the two concepts, believing them to be interconnected. In the light of this definition of HE internationalization, the broad themes underlying the concept are now explored. The literature review reveals three recurring themes around which studies have been conducted – one is about the process of internationalization (Mitra, 2010; Hawawini, 2011), the second relates to outcomes (Altbach, 2004; Knight, 2004; Ghasempoor et al., 2011), and the third to governance (Enders, 2004; Horta, 2009; Vardhan, 2015). This review, therefore, adopts a framework of the process, outcomes, and governance to understand better internationalized HE, the characteristics of which are summarized in Table I (Vardhan, 2015).
+</text>
+
+<text page="3" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/2/Text/3">
+Universities have been international in their outlook since ancient times; contemporary globalization has, however, changed the contextual environments in which universities operate and, increasingly, universities the world over have moved to internationalize their operations (Ahmed and Rao, 2011). Indeed, Yang (2002) claimed that there is no natural, exclusive and comprehensive meaning of internationalized education because it appears to be a logical development of universities' traditional obligations to disseminate and exchange knowledge and, moreover, it is widely considered an innovative response to external marketing opportunities, similarly to other tradable products. While some scholars delineate
+</text>
+
+<table page="3" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/2/Table/4">
+| Broad views | Theories | Contributing authors | Perspective |
+| --- | --- | --- | --- |
+| Processes | Modes | GATS, Buckner (2011) | Concerned with program mobility, student,institution, and then, academic mobility as thedifferent modesNeoliberal, Quality Assurance, and ImportedInternationalization |
+| Models | Hawawini (2011) | The import model, the export model, the academicjoint-venture model, the partnership model, andthe foreign campus model |
+| Mobilitymodels | (Mitra, 2010; Sharafuddinand Allani, 2012) | Franchising, double or joint degrees,articulation models, and distance education;blended learning |
+| Outcomes | Form ofcolonialism | Altbach, cited in Donn andAl Manthri (2010), | HE considered an internationally tradedcommodity with academic institutions selling a"skill set" |
+| Culturalimperialism | Altbach (2004) cited inAhmed and Rao (2011) | The university as multinational corporation(MNC) |
+| (Grieco and Holmes 1999)cited in Al-Semary et al.(2012) | Forming global citizens, but according to some,highly dominated by Western influences over thedeveloping world |
+| PubliccommodityRationale | Alfantookh and Bakry(2008)(Knight, Qiang) cited inGhasempoor, Liaghatdar,and Jafari (2011) | Education as an international right – globalaccess to HE and the global mobility in HEIsPolitical, academic, cultural/social, and economicdriver |
+| Governance | Glonacal | Marginson (2002) cited inHorta (2009) | Intersections, interactions, and mutualdeterminations of global, national, and local levelsin HEIs |
+| Governancetheory | Horta (2009) | State and non-state actors should participateequally in the governance of HE, unlike in thehierarchical model |
+| Institutionaltheory | Scott, cited in Wilkins andHuisman (2012) | Regulative, normative, and the cultural-cognitivepillars |
+</table>
+
+<text page="3" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/2/Text/5">
+Table I. Broad views of internationalization
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/3/Text/2">
+between internationalization and globalization, others perceive a degree of mutual influence in each process such that the terms can be used interchangeably (Knight, 2004; Altbach and Knight, 2007; Knight, 2013). Since both terms signal complex and multi-dimensional concepts, for the purposes of this study, internationalization will be used to refer to the process of integrating international components into the HE system of a country as a result of globalization (Vardhan, 2015).
+</text>
+
+<text page="4" section="2.1 Internationalization of HE: process, outcomes, and governance" source="author" id="/page/3/Text/3">
+An interesting articulation of the internationalization of HE was made by Beck (2012), who conceptualized an "eduscape," where the flow of ideas, programs, activities, and research reaches across national boundaries. This flow is, however, also influenced or intercepted by other "scapes," such as "ethnoscapes (the movement of people), mediascapes (how ideas about education are formed and influenced by the media), finanscapes (the movement of money in personal lives, as well as nationally and internationally) and ideoscapes (the manufacturing of ideas about education)" (Beck 2012, p. 142). According to Beck (2012), the form of an eduscape can be a result of one of these influences, or aspects of each in combination, which adds to the complexity of analysis.
+</text>
+
+
+<heading page="4" section="2.2 Process in the internationalization of HE" source="author" id="/page/3/SectionHeader/4" level="2">
+## 2.2 Process in the internationalization of HE
+</heading>
+
+<text page="4" section="2.2 Process in the internationalization of HE" source="author" id="/page/3/Text/5">
+Various modalities and models inform the process of internationalization of HE. For instance, trade in education is allowed under the World Trade Organization's General Agreement on Trade in Services (GATS) modes of program mobility, student mobility, institution mobility, and academic mobility (Tilak, 2011), to create turnkey projects (Ahmed and Rao, 2011). From the perspective of this model, the sector undertakes the different stages of internationalization as any international business would. In this context, choices usually depend on resource investments, management control, and risk/return attributes (Vardhan, 2015). Companies decide among exporting, licensing, or joint-venture modes based on business- and market-specific factors influencing control, return, risk, and resources (Dunning, 2000). Specific to the HE sector, there are studies describing the mobility pattern of GATS, or consider some "models" for HE. Hawawini (2011) delineates five such models: the import model, the export model, the academic joint-venture model, the partnership model, and the foreign campus model. These models are very similar to the international entry modes noted by Dunning (2000), whereby institutions select the mode most suitable to their purpose of international expansion. Another study by Mitra (2010) includes franchising, double or joint degrees, articulation models, and distance education. Apart from the increasingly used distance education model, through which large populations, even in remote areas, can be reached, a new approach is blended learning. Sharafuddin and Allani (2012), analyzing the system adopted by the Arab Open University in Kuwait, note the advantage of blending e-learning with traditional face-to-face methods for improved learning outcomes. A growing trend in collaborative and joint programs is mentioned by Chen and Huang (2013), whose research on the development of internationalization of HE in China found, apart from student mobility, evidence of joint programs, and international cooperation and collaboration among higher education institutions (HEIs) and other universities and international organizations.
+</text>
+
+
+<heading page="4" section="2.3 Outcomes of internationalization of HE" source="author" id="/page/3/SectionHeader/6" level="2">
+## 2.3 Outcomes of internationalization of HE
+</heading>
+
+<text page="4" section="2.3 Outcomes of internationalization of HE" source="author" id="/page/3/Text/7">
+The growth of internationalization of HE, and its impacts on the systems of individual countries are dynamic in their evolution, and it is becoming more evident that the rationales which drive the process vary from region to region, country to country, or even between institutions, are themselves evolving (Knight, 2008). The main outcomes of the internationalization process appear to be at the national level since the interest of countries lies in developing their human capital as knowledge workers who will contribute to their economic advancement. Ghasempoor et al. (2011) list four rationales for
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="2.3 Outcomes of internationalization of HE" source="author" id="/page/4/Text/2">
+internationalization: political, academic, social/cultural, and economic. National or political, logic is implied in the studies of Knight (2004) and Ogachi (2009), and also relates to a nation's ideological influence. The academic rationale seeks the achievement of international standards for the institution, similarly to business organizations aiming for global benchmarks of quality. Considered to be a direct response to the market forces, the economic rationale aims to generate revenue for the university as well as human capital. It is the socio-cultural rationale. However, that is held by many studies to be the most controversial. El Semary et al. (2012), for instance, describes the concern of some authors who view internationalization as a modern version of cultural imperialism (Grieco and Holmes, 1999), in which the West reprises its cultural domination and influence over the rest of the world, and who propose the more critical approach to "multidisciplinary education" as a cultural network model. Altbach (2004) and Ahmed and Rao (2011) consider universities to be the multinational corporations of the new age with the same motive for expansion – to gain greater market share and thus, profits. Scholars known for promoting internationalization have expressed caution over this business and commercial approach to it (Beck, 2012), believing that knowledge creation and dissemination may be negatively affected when universities are seen to be forced into the marketplace in ways that are reshaping their purposes as well as the kind of knowledge they create and disseminate.
+</text>
+
+<text page="5" section="2.3 Outcomes of internationalization of HE" source="author" id="/page/4/Text/3">
+An alternative way for nations and institutions to counter the commodification of education is offered, for instance, in the study by Alfantookh and Bakry (2008) that suggests HE should become a public asset with rights, access, and mobility for everyone, on a worldwide basis. While process and outcomes of internationalization of HE for institutions and nations may be disputed, one certainty is of its capacity to advance knowledge and learning, which is the primary goal of HE, alongside economic and cultural considerations.
+</text>
+
+
+<heading page="5" section="2.4 Governance of internationalized HEIs" source="author" id="/page/4/SectionHeader/4" level="2">
+## 2.4 Governance of internationalized HEIs
+</heading>
+
+<text page="5" section="2.4 Governance of internationalized HEIs" source="author" id="/page/4/Text/5">
+The third theme of internationalization and the third component of the literature review's framework informing this study is governance. Enders (2004) postulates in governance theory that both state and non-state actors should participate equally in the governance of HE, unlike in the hierarchical model. HE, once considered the domain of the state, has opened increasingly to investment by private concerns. A study by Conner and Rabovsky (2011) corroborates the fact that as national governments face mounting pressures to fund competing social programs, and endure economic recessions in which state revenues decline dramatically, maintaining previous levels of funding for public institutions of higher learning is increasingly difficult. The burgeoning entry of non-state players into HE brings another perspective to its internationalization, that of management. In a study from China by Liu and Dai (2012), management is considered one of three concrete issues of internationalization, the other two being curricula and teaching, and communication. Whereas the internationalized curriculum takes into account the international background of faculties, course content, and use of foreign languages, management issues include the internal and external operating mechanisms of universities.
+</text>
+
+<text page="5" section="2.4 Governance of internationalized HEIs" source="author" id="/page/4/Text/6">
+Since internationalization occurs, then, at all levels of the university, exchange and collaboration also take place at all levels. Three areas of cooperative activity are identified as academic research, collaborative education, and teacher and student exchange (Liu and Dai, 2012). Such occurrences may be termed "glonacal" – intersections, interactions, and mutual determinations of global, national, and local dimensions in HE (Horta 2009). Marginson (2002) made a claim for the equal weighting of local, national and global perspectives, whereby, beyond considerations of states, markets and education systems, "glonacality" may itself be a force for change. Other studies suggest the tendency of the local and the global to become blurred in their interdependence (Beck, 2012, Edwards and Usher (2000, 2001). In sum, according to Beck (2012), the porosity of local and global
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="2.4 Governance of internationalized HEIs" source="author" id="/page/5/Text/2">
+boundaries and the elasticity of relationships within the international study itself offer a good example of how global trends are subsumed into the local. Governance patterns may thus be inferred to be more influenced by internationalization where countries and institutions are more amenable to the consequences of internationalization. However, to maintain standards of academic quality, most economies will adapt their governance procedures to apply to both public and private education institutions.
+</text>
+
+<text page="6" section="2.4 Governance of internationalized HEIs" source="author" id="/page/5/Text/3">
+The literature reviewed here has presented a range of perspectives on internationalized HE, as influenced by globalization, which can serve as a continuum on which to position the UAE's internationalized HE sector regarding its process, outcomes, and governance. The inevitability of internationalizing HE under the impact of globalization that is suggested by the literature leads to a consideration of how its challenges and effects might be managed. Following an outline of the methodology that will be used in this study of the UAE case, an overview of its HE system, and analysis of the factors characterizing its internationalization, and findings are presented in successive sections.
+</text>
+
+
+<heading page="6" section="3. Research methodology" source="author" id="/page/5/SectionHeader/4" level="1">
+# 3. Research methodology
+</heading>
+
+<text page="6" section="3. Research methodology" source="author" id="/page/5/Text/5">
+This paper aims to explore the internationalization of HE in the UAE as influenced by globalization. Focusing on aspects of process, outcomes and governance, the purpose of the study is to provide a multi-faceted picture of the sector that will enable an understanding of the impact of international education in the country. Consequently, this study adopts a qualitative methodology using interviews and archival documents to construct a broad picture of internationalized education in the UAE that can be used as a basis for decision-making and the development of strategies for how the nation can proceed in the achievement of its national and regional goals for the HE sector.
+</text>
+
+<text page="6" section="3. Research methodology" source="author" id="/page/5/Text/6">
+Qualitative research in this study considers the different paths of the internationalization process and their outcomes (Brignall and Modell, 2000) for the UAE's HE sector, and its society more broadly. Insights from a review of the literature, and data collected from interviews inform the analysis of the study's findings. A SWOT analysis then identifies the internal and external factors influencing internationalized education, and the opportunities and threats to its development. Together with the findings from the qualitative study, this analysis can contribute to recommendations for HE governance policies in the UAE and the GCC region. As primary evidence, the study uses data collected from interviews with academics and administrators in a number of universities across the UAE. Twenty interviews were conducted with participants from different backgrounds in the UAE's HE sector. A retrospective approach was used, with interviewees being asked to describe, explain and reflect upon their experience of internationalization.
+</text>
+
+<text page="6" section="3. Research methodology" source="author" id="/page/5/Text/7">
+The validity of the research results was ensured by using the triangulation method of data collection: interviews and literature as primary evidence, and documents and archival records as secondary evidence. This approach has been used by many authors (Lind, 2001; Marginson, 2002; Hopper and Major, 2007; Lukka, 2007; Vaivio and Sirén, 2010). Constraints on data collection and analysis resulted, however, in limitations to the study. A longitudinal study could not be conducted to observe the historical events unfolding over time; nevertheless, the study reconstructs the development of internationalization in the UAE based on documentary evidence and historical data. The research reveals that while it is important, in a globalized world, for the UAE to become an "education hub" in the Middle East, the impacts of the rapid development of the international component of the HE sector on the sustainability and the governance of an increasingly complex HE system, and those felt in wider social and cultural contexts, remain unresolved.
+</text>
+
+<text page="6" section="3. Research methodology" source="author" id="/page/5/Text/8">
+The process of analysis began simultaneously with the data's collection and preparation for analysis, with interviews recorded and transcribed progressively by word-processor (Lind, 2001; Marginson, 2002; Hopper and Major, 2007; Lukka, 2007; Vaivio and Sirén, 2010).
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="3. Research methodology" source="author" id="/page/6/Text/2">
+The process of analysis commenced with the full transcript of all interviews, which were entered and coded in QSR Nvivo10 software by reading and re-reading data many times, paying particular attention to the mode of expression (e.g. intonation, pauses, etc.). This helped the author to distinguish particular issues that emerged from each interview from other evidence. Thus, data reduction took place when common sequences and patterns were recognized and highlighted. Similar themes were then grouped and classified. Meanwhile, the detection of differences in perceptions among interviewees that might disconfirm any patterns previously identified was closely managed. In this regard, similar themes or opinions expressed by the interviewees were explained within the normal body of discussion and analysis, while dissimilar themes were discussed using direct quotations from the interviewees. These procedures were followed to guarantee the plausibility of the analysis and the authenticity of the study findings.
+</text>
+
+
+<heading page="7" section="4. The influence of globalization on HE" source="author" id="/page/6/SectionHeader/3" level="1">
+# 4. The influence of globalization on HE
+</heading>
+
+<text page="7" section="4. The influence of globalization on HE" source="author" id="/page/6/Text/4">
+The rapid increase in the exchange of trade, knowledge, and capital across the world understood as globalization, is a concept that was first introduced by Adam Smith in The Wealth of Nations in 1776. In the latter part of the twentieth century, when the term became ubiquitous and, driven by communications technology and the rise of the knowledge economy, the worldwide demand for HE exploded.
+</text>
+
+<text page="7" section="4. The influence of globalization on HE" source="author" id="/page/6/Text/5">
+In 2002, the UNDP Arab Human Development Report had pointed out that poor quality was "the 'Achilles heel' of education in the Arab world" and called for radical reform of national education systems (Wilkins and Huisman, 2012). Since then, the landscape of HE has changed dramatically, as can be seen from the number of universities now extant in the United Arab Emirates and across the GCC region. The reforms that have been initiated in each country also include the establishment of national and regional agencies to ensure the essential standards of quality for international accreditation. This rapid development of HE in the region has been achieved through the impetus of globalization, and the globalization of standardized assessments is one of many transformations which have placed educational systems, institutions, and students around the world in a progressively unified field. For both the consumers and producers of HE, the ease of international mobility has allowed ready movement across that global field.
+</text>
+
+<text page="7" section="4. The influence of globalization on HE" source="author" id="/page/6/Text/6">
+Like assessment, educational mobility is not new, but its expanding scale is. The creation of knowledge in every discipline has always transcended institutional and national demarcations; in recent decades, the mobility of students and teachers has been dramatically extended by the volume of information available to students about international educational options on the internet and through global promotion by student recruitment agents. While the affordability and convenience of international travel have improved steadily, allowing both students and educators to relocate more easily, the globalization of economies has expanded the pool of students with the means to pursue HE, as well as supplying labor market demands for advanced qualifications (Healey, 2008; Gopinathan and Lee, 2011; Houghton and Yamada, 2012; Ziguras and McBurnie, 2015). Much has been written about the globalization of HE, and it is not the intention of this paper to recap these developments. Rather, globalization is here taken for granted, and instead, this paper asks how governments might respond to the changing context in which HE is more readily offered across national borders by focusing on the case of the UAE. In the UAE, the effects of globalization can be seen in many sectors of society, particularly so in HE. In a globalized economy, the HE sectors in most countries face numerous challenges: increasing competition among their own and international institutions; the achievement of competitive advantage in higher international ranking; and, not least, the follow-up creation of world-class institutions. Universities worldwide, including in the UAE, have embarked on internationalization programs which may manifest in the establishment of branch
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="4. The influence of globalization on HE" source="author" id="/page/7/Text/2">
+campuses, cross-cultural collaborative programs, exchanges of international students and experts, and the instituting of English language programs and degrees (Ziguras and McBurnie, 2015). Over last decade, the UAE has been on the receiving line of this phenomenon, with the result being a continuous striving toward becoming a center of educational and research excellence in the Middle East (Altbach and Knight, 2007; Romani 2009; Donn and Al Manthri, 2010; Mahani and Molki, 2011).
+</text>
+
+<text page="8" section="4. The influence of globalization on HE" source="author" id="/page/7/Text/3">
+The development of any country rests on the creation of economic wealth that relies on the ability of its educational system to deliver the quality of knowledge and instruction that will sustain growth and improve society for all its citizens. In 2005, in the Gulf News, the late Sheikh Zayed bin Sultan Al Nahyan, the founding father of the UAE, declared, "The real asset of any advanced nation is its people, especially the educated ones, and the prosperity and success of the people are measured by the standard of their education." The primary goal of the HE sector in the UAE has been to offer access to all students within the country to high-quality learning resources. However, the goal of advancing the welfare of its citizenry has also been instrumental in the UAE's internationalizing its HE sector by inviting prominent universities to set up campuses, and establishing itself as a world-class regional education hub, as an evitable consequence of globalization. With the increased emphasis on capacity building and long-term sustainability in the global economy, many countries, including the UAE, are seen to be struggling with a concept that pits idealized objectives against concrete realities. While the struggle for economic transformation is evident in many countries, in those such as the UAE, and others in the Gulf region, that possess sources of economic wealth but lack the human capital necessary for global competition which does not solely depend on outsourcing or expatriate consultants, building a sustainable HE system remains an enormous challenge (Mahani and Molki, 2011).
+</text>
+
+
+<heading page="8" section="5. Internationalization of HE in the UAE" source="author" id="/page/7/SectionHeader/4" level="1">
+# 5. Internationalization of HE in the UAE
+</heading>
+
+<text page="8" section="5. Internationalization of HE in the UAE" source="author" id="/page/7/Text/5">
+The HE system in the UAE needs to be understood in the context of the exponential change the nation has undergone since its establishment as a state almost 46 years ago, when the rulers of the seven emirates formed a union, and Abu Dhabi was named as the capital. While Dubai's economy is mainly generated through its tourism and financial sectors, Abu Dhabi's economy relies mostly on its oil revenues. In 2007 Abu Dhabi contributed nearly 56 percent of the GDP, Dubai just over 30 percent, and the remaining 24 percent was provided from the five other Emirates (Altbach and Knight, 2007; Romani, 2009; Donn and Al Manthri, 2010).
+</text>
+
+<text page="8" section="5. Internationalization of HE in the UAE" source="author" id="/page/7/Text/6">
+At the time of unification in 1971, a total of 74 schools existed throughout the seven Emirates, and the country had not a single university; students who chose to pursue HE had to travel overseas. In 1977, the first university, the United Arab Emirates University (UAEU) was established, followed by the Higher Colleges of Technology in 1988, initially a vocational school that today offers both graduate and post-graduate degrees across 17 campuses. Zayed University was the third university to be founded by the federal government in 1998, progressively expanding its campuses within Abu Dhabi and Dubai, and in 2011 opening a state-of-the-art flagship campus (Mahani and Molki, 2011). The role of education in the development of the nation is recognized in the UAE's Constitution and free education for all Emiratis is guaranteed. Hence, Emirati students who graduate from high school are entitled to attend one of the three national universities. Very few Emirati students attend any of a large numbers of private universities that exist alongside the public institutions, and which are either locally owned or are extensions of foreign universities (who also manage these campuses). Private and locally owned institutions include the American University of Sharjah, established in 1997 by the ruler of Sharjah, Dubai University, created in the same year by the Dubai Chamber of Commerce and Industry, and the Paris Sorbonne University, established in 2006 by the Abu Dhabi Education Council, and locally managed (Mahani and Molki, 2011).
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="5. Internationalization of HE in the UAE" source="author" id="/page/8/Text/2">
+Recently expanded capacity has increased the number of graduates and annual enrollments in science, engineering, and other technical disciplines, demonstrating a superiority over competitors in those fields. Government colleges and universities function as complementary services, to offer much of the population the opportunity of HE. The Emirates Government has established authorities as governing bodies to ensure educational quality, one result of which is that the UAE now has some world-class institutes of education, and has prioritized the development of more institutions of the same standard. Public expenditure is thus being drawn to building educational capacity, in an upward trend, for anticipated growth, and accreditation is sought across the entire field. A consultative service is provided for interested international students through an association of educational consultant agencies who can advise on the UAE education system, program costs and duration, visa schemes, accommodation facilities, and lifestyle and security in the country. Universities in the UAE offer some unique courses that have been developed from its traditional knowledge system, such as negotiating the duality of cultural heritage and sophisticated knowledge, which reflects the country's stage of development.
+</text>
+
+<text page="9" section="5. Internationalization of HE in the UAE" source="author" id="/page/8/Text/3">
+At its current stage of national development, the UAE is a contender, among countries such as China, Singapore, and the Kingdom of Saudi Arabia, in the competition to host top-tier research universities. According to the UAE Ministry of HE, 70 licensed HEIs operate across the Emirates, the majority of which are international branch campuses which include, for example, Herriot Watt University (UK), University of Wollongong (Australia), Middlesex University (UK) and the US's New York University of Abu Dhabi (NYUAD) (Mahani and Molki, 2011). Not all of these survive: the University of Southern Queensland, in Dubai, and George Mason University, in Ras Al Khaimah, are two instances of forced closure. The University of Southern Queensland, Australia, opened its Dubai campus in the Dubai Knowledge Village in September 2004 and closed the following year. Similarly, the branch campus of the Virginia, US, George Mason University in Ras Al Khaimah closed in 2009 after three years of operation. Further, some institutions use direct foreign investment to establish offshore university campuses, which can be considered an expensive approach to internationalizing (Sørensen and Hu, 2014). While the long-term academic and economic outcomes of extant institutions therefore remain to be seen, a critical question raised by the proliferation of foreign university branches in the UAE, given that accreditation is recognition of minimum standards, is why these universities seek beyond accreditation.
+</text>
+
+<text page="9" section="5. Internationalization of HE in the UAE" source="author" id="/page/8/Text/4">
+Accreditation or recognition may mean different things in the parlance of different governments, and there is considerable diversity of criteria. Within the UAE, the Commission of Academic Accreditation (CAA), was established by the UAE's Ministry of and Scientific Research (MOHESR) in response to increasing student numbers, and the limited admissions to university. The CAA recognized the need for standards in licensure and accreditation of private institutions, as well as the importance of supporting scientific research in public institutions, especially in the first research establishment, the UAEU. MOHESR's mission, which makes explicit the UAE's national objectives of education, is "to contribute to the achievement of the knowledge society and the development of HE and scientific research in the State […] to serve society's development and the organization of work in institutions of HE […] according to high-level competitive standards" (MOHESR website).
+</text>
+
+<text page="9" section="5. Internationalization of HE in the UAE" source="author" id="/page/8/Text/5">
+A university's decision to seek beyond accreditation for any program is usually made in order for the program to be recognized in a broader arena than the national. It is a process whereby the institution in question is asked to examine its practices openly and evaluate program quality. A comprehensive self-analysis must be made by the institution before selecting an accrediting agency that will provide the best means of achieving its vision. The process of open and ongoing dialogue requires an understanding of the local context on
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="5. Internationalization of HE in the UAE" source="author" id="/page/9/Text/2">
+the part of the accrediting agency, which may or may not be adequate. Often a university will need to modify programs that are successful locally to match the criteria for international accreditation. Some universities in Dubai, for example, changed the delivery of their MBA modules from a monthly to bi-monthly sequence despite the objections of faculty, administration and, particularly, students (Mahani and Molki, 2011). While accreditation is seen by universities to be a step on the path to an international standard of recognition, the results can be discordant. External accrediting bodies, therefore, need to exercise greater cultural intelligence and appreciate the realities of local contexts.
+</text>
+
+
+<heading page="10" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/9/SectionHeader/3" level="2">
+## 5.1 Internationalization of HE in the GCC region
+</heading>
+
+<text page="10" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/9/Text/4">
+Among the member states of the GCC – Saudi Arabia, Kuwait, the United Arab Emirates, Qatar, Bahrain, and Oman – internationalization in HE is not an entirely recent phenomenon. Since the late 19th century, most of these Middle Eastern countries have sent their students and faculty members abroad for research purposes, among other endeavors made to modernize HE systems (Huang, 2007). With rising per capita national GDP across the region, governments began to realize the value of developing the human capital necessary to sustainable economic growth. Changing demographics, the increased number of secondary school graduates and desire for tertiary education, and the accelerating development of information technology (Mitra, 2010) have contributed to the more recent shape of internationalized education in the GCC region. Vardhan (2015) studied the websites of 167 universities in GCC states to understand their objectives and efforts in internationalizing their HE sectors, and found the years of establishment for 145 institutions. First in Saudi Arabia, and among all GCC countries, was Umm Al-Qura University in Mecca, established in 1949. Most GCC countries had one or two public universities, established prior to the 1990s; since the year 2000, an exponential rise in in the numbers of HE institutions has occurred in a trend that cannot be solely attributed to increasing national populations. Other contributing factors, singly or in combination, and to varying degrees (Verbik and Lasanowski, 2007; Ogachi, 2009; Vardhan, 2015), include economic or political rationales, national agendas to develop higher level skills to better compete in international markets, or to gain prestige through hosting globally recognized institutions. The Arab Network for Quality Assurance in Higher Education (ANQAHE) was established with World Bank support in 2007 (Vardhan, 2015), to encourage GCC member countries to work cooperatively to improve the quality, relevance and accessibility, and transferability and comparability of their institutions' programs and awards, and also the mobility and employability of students (Ogachi, 2009, Woldegiorgis, 2013).
+</text>
+
+<text page="10" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/9/Text/5">
+Among GCC countries, the operant modalities and models of international education reflect the stratification of global players in the field. In the first category are the "major players" – the USA, the UK and Australia, English speaking countries whose well-recognized HE institutions attract students from all over the world. The second category, of European countries, also with renowned universities, such as Germany and France, attract students from neighboring countries and others with socio-cultural or historical ties. The third category groups the evolving countries of Japan, Canada, and New Zealand, which have begun attracting between 75,000 and 115,000 overseas students per year. The "emerging contenders" of the fourth category include Malaysia, Singapore, and China – countries that have realized the importance of global education and are expending resources on developing "world-class" HEIs to compete in the global student market (Verbik and Lasanowski, 2007; Ogachi, 2009; Vardhan, 2015). By this classification, GCC countries sit in the fourth category of emerging players. Moreover, a large proportion of prospective international students are moving to the first or second categories. Saudi Arabia, for example, according to a report published by the Saudi Ministry of HE, is ranked fourth by UNESCO for the mobility of its students to the higher categories, behind China (421,000 students), India (153,300 students), and South Korea (105,300 students),
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/10/Text/2">
+and ahead of Japan and the USA (Alamri, 2011). This highlights a strong rationale for a country to internationalize its HE sector. Thus, most of the GCC countries' public and private HE institutions are increasingly seeking accreditation or establishing partnerships with foreign universities for greater international attention and acceptance.
+</text>
+
+<text page="11" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/10/Text/3">
+Numerous offshore campuses of, or collaborative partnerships with foreign HE institutions have also been established in GCC countries, including the UAE (Verbik and Lasanowski, 2007; Ogachi, 2009; Vardhan, 2015). The source countries for these arrangements, mainly the USA, the UK, Australia, Canada and Netherlands, represent a range of the categories outlined as well as a range of modes, mobility models, and stages of internationalization. For example, while Saudi Arabian students are going abroad, in the high mobility stage, many international students are also coming to Saudi Arabia, particularly for Islamic studies, which demonstrate an import and export model. The UAE and Qatar, as hosts of numerous offshore branch campuses, are prominent examples of the GATS mode of institutional mobility. Omani and Kuwaiti universities offer examples of study programs that have affiliations with foreign universities in a partnership model, and Bahrain follows the "twinning" model whereby students undertake a program of study partly in the host country, and partly in their home country (Verbik and Lasanowski, 2007; Ogachi 2009; Vardhan, 2015).
+</text>
+
+<text page="11" section="5.1 Internationalization of HE in the GCC region" source="author" id="/page/10/Text/4">
+Thus, internationalization of HE among GCC members has been taken up vigorously, following the Western model; it has in fact taken priority over national educational reform agendas in the region (Trent, 2012) at a time when international education is a significant and developing focus of universities worldwide. According to University World News, by 2024 approximately 30 percent of the global increase in international students – an increase of 27 percent from year 2000 levels – will be attributed to GCC countries (Kariwo et al., 2014), who will dominate global demand for international HE over the next two decades which, it is forecast, will continue on a growth trajectory (Ng, 2012). Given this scenario, it is clear that universities in the GCC countries must develop their teaching and learning approaches if they are to compete in the global education marketplace and rise to forecast demand. In addition, educational authorities in these countries need to better understand the various modes of international education in the broader sense of a globalizing economy (Schweisfurth and Gu, 2009). As an example, universities in the UAE have begun changing their admission requirements by including non-academic skills and experience, such as 'leadership, community service and other talents' and shifting to a more "student-oriented" approach from traditional instruction and assessment models (Ramanathan et al., 2012). In UAEU, policy setting for internationalizing the HE system asserts that the government's role in uninterrupted funding support for internationalization, specifically in "attracting international students, enhancing the number of English-medium courses at the universities, and recruiting distinguished professors and scholars to perform joint studies" until such time as these aims have been reached. The UAE government may have be motivated to address these aims to achieve the various benefits of internationalized HE, not least among them, the country's recognition as a regional center of education excellence, or "hub" by 2020 (Shahijan et al., 2016).
+</text>
+
+
+<heading page="11" section="6. Discussion and analysis" source="author" id="/page/10/SectionHeader/5" level="1">
+# 6. Discussion and analysis
+</heading>
+
+<text page="11" section="6. Discussion and analysis" source="author" id="/page/10/Text/6">
+As globalization of economies proceeds, HE in the UAE is becoming more competitive, not only locally but also in its expansion abroad (Chin et al., 2012). While benefitting from all the advantages offered by internationalization and attracting international students to the UAE and the region may be challenging, it should not be neglected by developing countries (Bordean and Borza, 2013). The UAE, among other GCC countries, is striving to elevate its HE system; internationalization is one of the seven key platforms of the HE Strategic Plan 2020 (Aziz and Abdullah, 2014). In the plan's longer-term view of HE, its
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/0">
+IJEM 32,3
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/1">
+370
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/2">
+prospects devolve to internationalization. As one academic interviewee from a faculty of education explained:
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/3">
+[P]olicy makers are focusing on developing the HE sector, investing in developing hubs, and increasingly seeking participation from the private sector and moving toward internationalization.
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/4">
+This is manifest in the composition of students and respective faculties, study programs, educational mobility, and the diversity of HE providers (Ramanathan et al., 2012). Internationalization's rapid growth over the last decade in the UAE evidences the county's drive to develop premier educational center in the region (Shahijan et al., 2016). The reasons for the growth of private educational institutions, and in collaborations with international providers, according to one academic in a business faculty are:
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/5">
+[…] the growing population and the growing economy, although the expansion and internationalization of HEIs not only alludes to the "youth bulge" but also to explicit policy changes on the part of governments to expand university enrolments.
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/6">
+To the extent that the provision of different levels and types of HE is being privatized in the UAE, three major approaches to the process and governance of internationalization are neoliberalism, quality assurance, and imported internationalization (or Americanization) (Buckner, 2011). Neoliberal reforms in the UAE aim to expand access to HE and transfer the costs to the private sector and consumers. This includes the establishment of private universities, and programs that run through "open learning" or "blended learning," the best example being Hamadan Bin Mohammad Smart University, where the majority of students and teachers are from abroad.
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/7">
+The second approach describes initiatives by the state to develop standardized quality assurance programs for all state and private universities. Increasingly, the UAE and other GCC states are reforming their curricula to meet the skill levels required of graduates in a globalized world. A professor of strategic studies at UAEU stated that:
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/8">
+[t]he UAE has over the past years tried to increase non-Islamic content, is adopting English as the language of instruction, and is using the American system of semester and credit hours recognizing the demands of the modern economy.
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/9">
+HE policy in the UAE promotes internationalization from the "glonacal" perspective that attempts to integrate an international outlook with national and local perspectives (Vardhan, 2015). However, its basis in the assumptions of imported internationalization, which relates more to the accrual of prestige and international accreditation to universities in the GCC region, leads to concerns about the erosion of national social and cultural values. A similar view, proposed by El Semary et al. (2012), considers internationalized education to be the key theme for GCC countries anxious to promote education as a symbol of modernity to their population as well as internationally.
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/10">
+The third model of HE policies pursued in the region is that of imported internationalization, which seeks to convey modernization through establishing extensive partnerships with foreign universities. A number of scholars have examined how these institutions are changing HE in the UAE, Qatar, Kuwait, and Saudi Arabia (Shahijan et al., 2016). Academics interviewed for this study agreed that although countries in the GCC region are interested in developing knowledge economies, the oil-rich countries are more interested in creating a global image by inviting world-renowned universities into their established hubs, for example:
+</text>
+
+<text page="12" section="6. Discussion and analysis" source="author" id="/page/11/Text/11">
+[…] Education City, Dubai International Academic City, and Knowledge Village seem to be cases in point […] these hubs host universities like the Northwestern University, Manchester Business School, Carnegie Mellon University, University of Wollongong, Heriot Watt of Scotland, Paris Sorbonne, New York University, and INSEAD, rather than directly initiating quality initiatives for state-run universities.
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="6. Discussion and analysis" source="author" id="/page/12/Text/2">
+Further, although the academic standards of these international universities are very high, according to one academic interviewed for this research:
+</text>
+
+<text page="13" section="6. Discussion and analysis" source="author" id="/page/12/Text/3">
+[…] very small percentages of local students actually qualify and enrolle. The majority of indigenous students seeking tertiary education in the UAE, and across the GCC, enrol in the public universities.
+</text>
+
+<text page="13" section="6. Discussion and analysis" source="author" id="/page/12/Text/4">
+This suggests that the potential for internationalization to lift the general standard of education in an emerging economy is limited. Moreover, as an academic working in the area of corporate governance explained:
+</text>
+
+<text page="13" section="6. Discussion and analysis" source="author" id="/page/12/Text/5">
+An area of concern in governance in UAE as well as the region is how to ensure high quality for all universities, that may be state-owned, privately owned, or international campuses. For example, UAE University, in their seeking toward internationalization, has been accredited by several different international accreditation agencies, including WASC, AACSB and EQUIS.
+</text>
+
+<text page="13" section="6. Discussion and analysis" source="author" id="/page/12/Text/6">
+Internationalization of HE in the UAE has been understood as a business model that offers the benefits of exchange of cultural knowledge and values, overall improvement in the quality of national education, the diffusion of technology, and creating a globally competent workforce. However, while the relationship between the development of human capital through HE and economic growth can be seen to be bidirectional, it is not always straightforward, and outcomes for local cultures and national objectives in the internationalized context may be less than beneficial. Therefore, there is a need to address accreditation as a governance issue if national objectives and cultural integrity are not to be subsumed into globalization's reshaping of the world, which is based on Western interests and models. The next sections present an analysis of the SWOT of internationalized HE in the UAE, which examines the position of the UAE HE sector on the continuum of perspectives on globalization. This examination of the process, outcomes, and governance of internationalization of the UAE HE sector poses the internal strengths and weaknesses of the UAE's HE system against external opportunities and threats (Kirk, 2010; Schwab and Sala, 2011).
+</text>
+
+
+<heading page="13" section="6.1 SWOT analysis of internationalized HE" source="author" id="/page/12/SectionHeader/7" level="2">
+## 6.1 SWOT analysis of internationalized HE
+</heading>
+
+<text page="13" section="6.1 SWOT analysis of internationalized HE" source="author" id="/page/12/Text/8">
+The SWOT analysis was formulated in the 1960s (Dyson, 2004; Beecroft and Pangbourne, 2014; Shahijan et al., 2016), initially as a tool to appraise and evaluate the strengths and weaknesses of organizations, and identify the opportunities and threats in their external environments (Stewart and Richardson, 2000; Dyson, 2004; Shahijan et al., 2016). Before devising strategies for the development of HE in an international context, a SWOT analysis can play a significant role in illuminating the status of the organization and recognizing precisely what information will most usefully contribute to decision-making at the organizational level (Bernroider, 2002; Chermack and Kasshanna, 2007). Similarly, it also provides a clear picture of the organization's products and services in a competitive environment (Biancamaria et al., 2016; Shahijan et al., 2016). The following table presents a summary of the SWOT analysis of international education, against which the current state of its development in the UAE can be measured (Table II).
+</text>
+
+
+<heading page="13" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/12/SectionHeader/9" level="2">
+## 6.2 Strengths and weaknesses of the UAE's internationalized HE system
+</heading>
+
+<text page="13" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/12/Text/10">
+Internationalization of HE in UAE has been understood as a business model for the generation of revenue for the national economy that also offers the benefits of exchanging cultural knowledge and values, overall improvement in the quality of national education, the diffusion of technology, and creating a globally competent workforce. The strengths of a HE system relate to its material and financial resources, skills, infrastructure and facilities, reputation, market leadership or other competitive advantages to enable an effective
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/0">
+IJEM 32,3
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/1">
+372
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/2">
+Strengths S
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/3">
+Presence of international staff, students, and
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/4">
+researchers
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/5">
+Elevated global ranking and reputation of university Vague definition of internationalization strategy Facilitation of intercultural knowledge sharing High cost of studying abroad
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/6">
+Variety of academic programs Inadequate infrastructure
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/7">
+Acquisition and/or improvement of English
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/8">
+language skills
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/9">
+Innovation-led growth
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/10">
+Opportunities Q
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/11">
+Opportunities O Threats T
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/12">
+Improving quality
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/13">
+Elevating reputation
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/14">
+Social engagement in a global, multicultural
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/15">
+society
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/16">
+Strategic geographic position Public funding shortfalls
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/17">
+International networking Raising cultural/racial/ ethnic diversity of staff
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/18">
+Competition with other institutions
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/19">
+Strengths S Weaknesses W
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/20">
+Inadequate budget for internationalization
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/21">
+Income generation and foreign exchange savings Bureaucratic procedures and decision-making processes
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/22">
+Vague definition of internationalization strategy
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/23">
+High cost of studying abroad- Inadequate infrastructure
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/24">
+Research inactivity of international staff
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/25">
+Innovation-led growth Inability to challenge and motivate local academic
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/26">
+community to compete
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/27">
+Threats T
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/28">
+Enduring international partnerships/collaboration Ill-defined corporate identity and organizational culture Improving quality High tuition and other costs deterring international
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/29">
+enrollments of international students
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/30">
+Elevating reputation Economic recession/crisis
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/31">
+Brain drain – loss of prominent academics abroad
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/32">
+Public funding shortfalls
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/33">
+Technological development Expanding international education market
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/34">
+Table II. SWOT analysis of HE internationalization
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/35">
+response to current and prospective market needs. The benefits that derive from the development of these strengths include enhancement of the country's education system across the board (Enders, 2004), increased revenues for the sector and the local economy, increased cultural exchange in more diverse communities (Knight, 2013), regional and global recognition of HE institutions, international academic research collaborations and economic growth led by innovation and creative thinking ( Jones et al., 2014), improved skills in English (as the now dominant language of instruction worldwide and international standards of skill acquisition to ready graduates for work in culturally and linguistically diverse communities (Knight, 2013).
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/36">
+The weaknesses identified in the process, outcomes and governance of international HE in the UAE were found to be mainly associated with the high costs for students of studying in both private and state institutions, compared to many other countries, which is a major barrier to attracting larger enrollments of international students. High costs of tuition, and living in the country, which may deter prospective students need to be offset by the advantages of the university environment, such as internationally recognized academic staff and visiting scholars at campus-based conferences (Palmer and Cho 2011, 2012). According to Lee, funding for educational facilities is a significant input of perceived excellence, and insufficient budget allocations stymie the ability of the country to attract a high caliber of teachers and researchers. Procedures in university and state bureaucracies can impede applying for and obtaining research funds (Adair and Kagitcibasi, 1995).
+</text>
+
+<text page="14" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/13/Text/37">
+Infrastructure and facilities in the state universities are often not optimally conducive to doing research work of an international standard, lacking dedicated and competent faculties. With a very low level of PhD enrolments, UAE universities do not have enough high-quality researchers; there are few opportunities for interdisciplinary or multidisciplinary work, which is further hampered by poor early-stage research experience. Further, an environment that does not sufficiently encourage innovation is not incentivized by prevailing low levels of engagement with industry in research, and may itself be a symptom of a common lack of understanding of the internationalization project, which can
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="6.2 Strengths and weaknesses of the UAE's internationalized HE system" source="author" id="/page/14/Text/2">
+negatively affect process, strategies and outcomes (Deca et al., 2015). For emerging players, such as the UAE, in an internationalized sector, universities need to recognize their role in motivating students to actively engage with pressing issues (Baillie and Fitzgerald, 2000), and developing their skill and abilities for participation in international interactions. Further, a major problem is that study programs in UAE institutions are for the most part theory- rather than practice-based, a fault which cannot be attributed entirely to the education system but to the stage of development of the nation and external factors.
+</text>
+
+
+<heading page="15" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/14/SectionHeader/3" level="2">
+## 6.3 Opportunities and threats in the UAE HE system
+</heading>
+
+<text page="15" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/14/Text/4">
+Globalization of HE has resulted in a well-established market (Hemsley-Brown and Oplatka, 2006, 2010; Sinha, 2014). The progression of the market is extensive in the various forms that internationalization takes, and HEIs across the world seek to continuously improve their offers through different means, suggesting that although competition is increasing, so also is the scale of benefits. The potential to develop international partnerships and collaborations between HEIs worldwide is a significant opportunity of internationalization (Hill et al., 2014) that offers competitive advantages for universities (Heffernan and Poole (2005), and avenues for teachers and students to expand the scope of their knowledge, values, and skills (Sutherland et al., 2010) and enhance the culture of HE (Altbach and Knight, 2007). A higher standard of education for a wider section of the national population is an opportunity arising from improvements to curricula, course programs, diversity of staff, and university facilities (Oyewole, 2009). As a reputational asset, internationalized education is an effective tool for governments to establish global centers of excellence, as well as related programs (Lincicome, 1993).
+</text>
+
+<text page="15" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/14/Text/5">
+The UAE anticipates its emergence as the dominant global education hub of its region, and several opportunities for progressing internationalization of the HE system are apparent. This research found the opportunities that exist for the development of the UAE's internationalized education sector are encapsulated in the government's strategy delineated in five core values set out to address the currency of its education policy: contribution to national development; fostering of global competencies among students; inculcation of a value system; promotion of research and technology; and the quest for brilliance. Supporting these values is the prioritization of research in its universities, particularly in those such as Masdar Institute of Science and Technology (Masdar Institute) which focuses on post-graduate research into renewable energy and environmental sustainability. The government has also prioritized innovation and dedicated research through its support for technology transfer and encouragement of impact-driven research in particular institutions.
+</text>
+
+<text page="15" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/14/Text/6">
+Given that a threat represents a critical situation in an organization's environment, such as the entry a new competitor, decline in market share or growth, or technological change, which are examples of threats regularly faced by business enterprises, the major external threat to the UAE's internationalization of education is the increasingly competitive market. Among academics interviewed for this research, there was agreement that progress in the internationalization of the UAE's education sector faces the particular threat of global competition, with subsequent losses of revenue and skills. Since the choice of university is now an open field, parents in the UAE are increasingly interested in obtaining entry to foreign HEIs for their children, resulting in potential loss of foreign exchange, and perhaps depleting the country's potential to develop its human capital and skills base. Further, the commodification of HE threatens to negatively affect local cultural values and the ethics of social welfare, and the erosion of access to HE by rising tuition fees (Kerkvliet and Nowell, 2014) can result in a lower standard of education for much of the local population.
+</text>
+
+<text page="15" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/14/Text/7">
+The need to comply with international standards in language and program formats and content can dilute an institution's national identity and organizational culture (Akar, 2010),
+</text>
+
+</page>
+<page number="16">
+<text page="16" section="6.3 Opportunities and threats in the UAE HE system" source="author" id="/page/15/Text/2">
+global economic downturns and crises which may, apart from reducing public education funding and student s in austerity policies, results in families being unable to support their children's overseas study (Varghese, 2009), and not least, the loss of highly skilled staff abroad in a globally competitive market with the offer of higher salaries, living standards and overseas experience (Hoyler and Jons, 2008) abroad, or brain drain. Moreover, the Middle Eastern region remains consumed by military turmoil and political uncertainty, a situation which raises questions about the strategy of the UAE's continuing to develop internationalization of its education system which, under the inevitable influence of globalization, must seek to attract and sustain enrollments. The HE sector continues to strive for the approval and recognition conferred by international accreditation. In addition to submitting comprehensive data to government ministries on a regular basis (e.g. reporting on enrollments to the Centre for Higher Education Data and Statistics in the UAE, census information, etc.), the same data must be provided in different formats to accreditation bodies, which increases the pressure for universities to be accredited both locally and internationally. Local and global rankings are assuming greater importance in an environment where for prospective students the globalized world "is their oyster."
+</text>
+
+
+<heading page="16" section="7. Conclusions" source="author" id="/page/15/SectionHeader/3" level="1">
+# 7. Conclusions
+</heading>
+
+<text page="16" section="7. Conclusions" source="author" id="/page/15/Text/4">
+This paper has explored the process of internationalization of HE in the United Arab Emirates as influenced by globalization, by examining the development of its HE system, and analyzing the components and results of its internationalization in terms of process, governance and outcomes. Findings revealed that while it is important for the UAE to promote itself as an 'education hub' in the Middle East, this policy objective has implications for governance as internationalization develops in the UAE and across the region of GCC countries. Further, this goal may derail the national goal for universal quality education aimed to develop human capital and the skills which enable international interactions.
+</text>
+
+<text page="16" section="7. Conclusions" source="author" id="/page/15/Text/5">
+Bordean and Borza (2013) suggest that the benefits of internationalization are much more difficult for emerging economies to realize than for the developed nations who dominate the export education field. Since the early 2000s, government reforms in the UAE have recognized the need to improve the quality and standard of education for national development and the ability to compete globally. At the same time, internationalization has dramatically changed the landscape of HE in the GCC region, evidenced in the number of HEIs that have been established in the UAE and in the range encompassing state and private universities and international university branch campuses. The reforms that have been initiated in each country also include the establishment of national and regional agencies, such as the UAE's CAA, to ensure the essential standards of quality for international accreditation.
+</text>
+
+<text page="16" section="7. Conclusions" source="author" id="/page/15/Text/6">
+Three major drivers of internationalization in the UAE are apparent: neoliberalism, quality assurance, and imported internationalization. The third approach in particular, of inviting international universities to set up campuses, delivers prestige and international accreditation to the UAE and to the GCC region, particularly through its prioritization of research-based institutions, and the establishment of national and regional agencies for international accreditation. Internationalization of HE in UAE has been understood as a business model that promotes the benefits of exchange of cultural knowledge and values, overall improvement in the quality of national education, the diffusion of technology, and creating a globally competent workforce. This perspective, which itself may be a Western construction of what "international" is (De Vita and Case, 2003), has tended, however, to override local cultural and national objectives (Shahijan et al., 2016). Moreover, this approach implies that concerns about the incompatibilities of foreign campuses and local culture are simply a part of the globalization project to manage difference through standardization. However, this paper has argued that these less beneficial outcomes do need
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="7. Conclusions" source="author" id="/page/16/Text/2">
+to be addressed through national governance mechanisms, specifically in the accreditation framework for international and local institutions.
+</text>
+
+<text page="17" section="7. Conclusions" source="author" id="/page/16/Text/3">
+Most private and foreign universities in the UAE have sought international accreditation in order to appeal to a global market, not only to local students. The resulting misalignment with local culture is a consequence of a model which emphasizes such business concepts as "resource allocation," referring to the "financial and human resources (given) to education strategy execution," "communication" – a critical issue at university level – and "operational processes within faculties" ( Jiang and Carpenter, 2013). A major challenge for academics is resolving the conflict between their teaching at home universities and the imposition of elaborating internationalization, which has implications for organizational cultures whose integrity is based on the principles of cooperation and coordination. Resistance to change arises where a culture of marketing internationalization is overlayed and demands to establish partnerships and recruit students in an increasingly diverse and discriminating market become urgent tasks. In addition, the attributes of student support have become a focus on English language requirements, student agreements relating to regulations governing visas and working rights, for example, as well as on issues of transport and accommodation.
+</text>
+
+<text page="17" section="7. Conclusions" source="author" id="/page/16/Text/4">
+In this vein, Warwick and Moogan's (2013) comparative study in the UK of universities' understandings of international education suggested prerequisite strategic stages for successful internationalization. In the HE context, these stages suggest an "inside-out" approach, in that a university should have: an academic-centered approach to maintain flexibility to adapt to changing external circumstances; a close link between the organization's resource capabilities and its external environment, maintained through ongoing organizational development; an evident comprehension of how the internationalization strategy will be applied and supported within the organization; adequate two-way communication channels with staff; objectives for staff progress in their capacities to support opportunities for internationalization, along with parallel systems to disseminate good practice developed in local-level initiatives and pilot schemes; and a top-down ongoing commitment to and support for internationalization and its underpinning values subject monitoring, evaluation and review of its development. In addition, a parallel student-centric perspective may help some universities to more clearly conceptualize internationalization in local contexts (Warwick and Moogan, 2013).
+</text>
+
+<text page="17" section="7. Conclusions" source="author" id="/page/16/Text/5">
+The study has found that education policy makers in the UAE have adopted the "glonacal" approach, a theoretical integration of global and local perspectives in internationalized education which does not, however, address the significant governance concerns that have arisen with the development of a multi-tiered system in which state-run and privately owned universities coexist with international university branch campuses in the UAE and throughout the GCC region. For example, there is no strict regulation of quality and standards in place in the HE free zones in the UAE. In the absence of regulation in a competitive market, many international providers reportedly do not teach courses to the same standards applying on their home campuses. The degrees that students receive from the UAE campuses of foreign universities are also regarded as being of a lower caliber than those obtained at the parent university. The failure of non-viable enterprises is to be expected in any rapidly growing business market, but in the context of HE, the failure of international campuses amid intense competition for students may be a harbinger of the unsustainability of the internationalization project, and of wider effects on the socio-economic development in the UAE.
+</text>
+
+<text page="17" section="7. Conclusions" source="author" id="/page/16/Text/6">
+While internationalization has been instrumental in raising the standard of education in general within the UAE, has assisted the diffusion of technology-based educational advances into the UAE's education system, and supports the acquisition of skills for the knowledge economy and building a globally competent workforce. In addition, particular
+</text>
+
+</page>
+<page number="18">
+<text page="18" section="7. Conclusions" source="author" id="/page/17/Text/2">
+institutions have achieved recognition for their research priorities. From this point of view, internationalization in the UAE has the character of Beck's (2012) "educscapes" that describe the exchange of knowledge and ideas across borders through the mobility of students and academics. However, its intersection with the global "finanscape," in which the flow of money in an education-as-commodity model threatens to derail both national and international goals, through the concentration of HEIs in a market driven by business models which reduce the UAE's capacity to improve the quality of education, or enrich the Emirati culture.
+</text>
+
+<text page="18" section="7. Conclusions" source="author" id="/page/17/Text/3">
+In the neoliberal approach to internationalized education in the UAE that the study has identified, the diversification that comes with international education can contribute to a richer educational experience and also prepare students for engagement in a more democratic society and the world (Guo and Chase, 2011). Internationalization of HE in the UAE is expected to prepare individuals for citizenship and to serve national social and economic objectives which are informed by its culture. This study identified, however, that a significant threat to the UAE's progress in the development of its HE sector is external accreditation being seen as a signal of high quality, when more realistic standards are perhaps more relevant to the values of the local population. This can also be viewed as symptomatic of the tendency of GCC countries to adopt Western models of instruction in HE via the imported internationalization model, perhaps an inevitability of globalization in which free market ideology seeks the removal of administrative barriers to globalized business, and universities are seen as the new global corporations (Altbach, 2004; Ahmed and Rao, 2011). Furthermore, the course content of many study programs in foreign universities in the UAE may also be culturally inappropriate, since their curricula tend to have little relevance to local needs and values. Local institutions, alienated from their experience of history, may also wish to challenge such notions as "inclusion" and "diversity" which are themselves ideological concepts. Similarly, foreign providers' treating university education as an expensive marketable commodity is at odds with traditional principles and values of Arab societies, as is the Western valuing of individuality over collective welfare; Emiratis who are educated abroad are reported to have weakened commitments to observing the culture of extended families and collective responsibilities (Mahani and Molki, 2011).
+</text>
+
+<text page="18" section="7. Conclusions" source="author" id="/page/17/Text/4">
+This study has important implications for HE policy and governance in the development of internationalized HE in the UAE. It provides theoretical perspectives with practical implications, focusing on some of the critical issues in this developing field for HE administrators and practitioners alike. It also highlights some unfavorable social implications for national cultural values and identity. The current situati0on may reflect the UAE's relatively recent incorporation as a state, and that the even more recent recognition that HE is vital to national development has been overtaken by the imperative to compete in a globalized world. Having adopted Western models to facilitate internationalization, HE policy must now address those concerns which could limit the effective contribution of the entire sector to the nation, as well as the sustainability of individual institutions, which may be better served by regional rather than global integration. Therefore, the study concludes that a regional approach to the development of international education should be built on the principles of independence from external influences set out by ANQAHE to promote the mobility of students and study programs within the GCC region. Woldegiorgis (2013) proposes the harmonization of HE in a process not of standardization, but of horizontal and vertical articulation between programs and institutions among the HE systems of the region (Vardhan, 2015), leading to more strategic decisions and stronger governance in national education sectors.
+</text>
+
+<text page="18" section="7. Conclusions" source="author" id="/page/17/Text/5">
+This research is limited by the lack of longitudinal data that could enable review of longer-term outcomes. However, as one of the very few studies in the area of the
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="7. Conclusions" source="author" id="/page/18/Text/2">
+internationalization of HE in the UAE, future studies could provide a longer perspective as the UAE, like other GCC countries, strives to take its HEal system to a higher level of performance. The analysis carried out in this paper identified internal and external factors influencing internationalization; similar analyses could be undertaken to assist individual service providers to clarify the standing of their institutions in a global context to better determine longer-term strategies. Equally, the analysis could be applied to international education in other countries, or to different service sectors, such as tourism, in the UAE. The paper clearly identifies innovative elements that set the starting point for a discussion around the quality of higher level education in the United Arab Emirates and how it serves the aims set on the part of the State. The findings of this study can be used by public policy makers so as to reconsider the way higher education curricula are being designed, accredited and implemented.
+</text>
+
+
+<heading page="19" section="References" source="author" id="/page/18/SectionHeader/3" level="1">
+# References
+</heading>
+
+<list page="19" section="References" source="author" id="/page/18/ListGroup/313">
+- Ahmed, A.A. and Rao, C. (2011), "The university as a multinational corporation", Journal of International Business Education, Vol. 6 No. 1, pp. 119-138.
+- Akar, H. (2010), "Globalization and its challenges for developing countries: the case of Turkish higher education", Asia Pacific Education Review, Vol. 11 No. 3, pp. 447-457.
+- Alamri, M. (2011), "Higher education in Saudi Arabia", Journal of Higher Education Theory and Practice, Vol. 11 No. 4, pp. 88.
+- Alfantookh, A. and Bakry, S.H. (2008), "Views on the globalisation of higher education", International Journal of Arab Culture, Management and Sustainable Development, Vol. 1 No. 1, pp. 123-129.
+- Altbach, P.G. (2004), "Globalisation and the university: myths and realities in an unequal world", Tertiary Education &amp; Management, Vol. 10 No. 1, pp. 3-25.
+- Altbach, P.G. and Knight, J. (2007), "The internationalization of higher education: Motivations and realities", Journal of Studies in International Education, Vol. 11 Nos 3-4, pp. 290-305.
+- Aziz, M.I.A. and Abdullah, D. (2014), "Finding the next 'wave' in internationalisation of higher education: focus on Malaysia", Asia Pacific Education Review, Vol. 15 No. 3, pp. 493-502.
+- Baillie, C. and Fitzgerald, G. (2000), "Motivation and attrition in engineering students", European Journal of Engineering Education, Vol. 25 No. 2, pp. 145-155.
+- Beck, K. (2012), "Globalization/s: reproduction and resistance in the internationalization of higher education", Canadian Journal of Education, Vol. 35 No. 3, pp. 133-148.
+- Beecroft, M. and Pangbourne, K. (2014), "Personal security in travel by public transport: the role of traveller information and associated technologies", IET intelligent transport systems, Vol. 9 No. 2, pp. 167-174.
+- Bernroider, E. (2002), "Factors in SWOT analysis applied to micro, small-to-medium, and large software enterprises: an Austrian study", European Management Journal, Vol. 20 No. 5, pp. 562-573.
+- Biancamaria, S., Lettenmaier, D.P. and Pavelsky, T.M. (2016), "The SWOT mission and its capabilities for land hydrology", Surveys in Geophysics, Vol. 37 No. 2, pp. 307-337.
+- Bordean, O.-N. and Borza, A. (2013), "Board of directors and the internationalization process: The case of Romania", The International Journal of Management Science and Information Technology (IJMSIT), Vol. 1 No. 9, pp. 72-85.
+- Brandenburg, U. and de Wit, H. (2011), "Has international education lost its way", The Chronicle of Higher Education, Vol. 1 No. 1, pp. 1-5.
+- Brignall, S. and Modell, S. (2000), "An institutional perspective on performance measurement and management in the new public sector", Management Accounting Research, Vol. 11 No. 3, pp. 281-306.
+- Buckner, E. (2011), "The role of higher education in the Arab state and society: historical legacies and recent reform patterns", Comparative &amp; International Higher Education , Vol. 3 No. 1, pp. 21-26.
+</list>
+
+</page>
+<page number="20">
+<list page="20" section="References" source="author" id="/page/19/ListGroup/359">
+- Chen, L. and Huang, D. (2013), "Internationalization of Chinese higher education", Higher Education Studies, Vol. 3 No. 1, pp. 92.
+- Chermack, T.J. and Kasshanna, B.K. (2007), "The use and misuse of SWOT analysis and implications for HRD professionals", Human Resource Development International, Vol. 10 No. 4, pp. 383-399.
+- Chin, J.M.C., Wu, C.T. and Ching, G.S. (2012), "Apple and oranges: comparison of Taiwan higher education institutions' internationalization", International Journal of Research Studies in Education, Vol. 1 No. 2, pp. 3-22.
+- Conner, T.W. and Rabovsky, T.M. (2011), "Accountability, affordability, access: a review of the recent trends in higher education policy research", Policy Studies Journal , Vol. 39 No. s1, pp. 93-112.
+- De Vita, G. and Case, P. (2003), "Rethinking the internatinonalisation agenda in UK higher education", Journal of Further and Higher Education, Vol. 27 No. 4, pp. 383-398.
+- Deca, L., Egron-Polak, E. and Fiţ, C.R. (2015), "Internationalisation of higher education in Romanian national and institutional contexts", Higher Education Reforms in Romania, pp. 127-147.
+- Donn, G. and Al Manthri, Y. (2010), Globalisation And Higher Education In The Arab Gulf States, Symposium Books Ltd, Oxford.
+- Dunning, J.H. (2000), "The eclectic paradigm as an envelope for economic and business theories of MNE activity", International Business Review, Vol. 9 No. 2, pp. 163-190.
+- Dyson, R.G. (2004), "Strategic development and SWOT analysis at the University of warwick", European Journal of Operational Research, Vol. 152 No. 3, pp. 631-640.
+- Edwards, R. and Usher, R. (2000), "Postmodern perspectives", Research and Knowledge at Work: Perspectives, Case-Studies And Innovative Strategies, Vol. 1 No. 1, pp. 6-32.
+- Edwards, R. and Usher, R. (2001), "Lifelong learning: a postmodern condition of education?", Adult Education Quarterly, Vol. 51 No. 4, pp. 273-287.
+- El Semary, H., Al Khaja, M. and Hamidou, K. (2012), "The Interaction between education and globalization: a comparative study of four GCC countries", Cross-Cultural Communication, Vol. 8 No. 4, pp. 58.
+- Enders, J. (2004), "Higher education, internationalisation, and the nation-state: recent developments and challenges to governance theory", Higher Education, Vol. 47 No. 3, pp. 361-382.
+- Ghasempoor, A., Liaghatdar, M.J. and Jafari, E. (2011), "The internationalization of higher education: an effective approach for Iran higher education", Higher Education Studies , Vol. 1 No. 2, pp. 35.
+- Gopinathan, S. and Lee, M.H. (2011), "Challenging and co-opting globalisation: Singapore's strategies in higher education", Journal of Higher Education Policy and Management, Vol. 33 No. 3, pp. 287-299.
+- Grieco, M. and Holmes, L. (1999), "Tele options for community business: an opportunity for economic growth in Africa", Africa Notes, Vol. 38 No. 10, pp. 1-3.
+- Guo, S. and Chase, M. (2011), "Internationalisation of higher education: integrating international students into Canadian academic environment", Teaching in Higher Education, Vol. 16 No. 3, pp. 305-318.
+- Hawawini, G. (2011), "The internationalization of higher education institutions: a critical review and a radical proposal", INSEAD Working Paper No. 2011/112/FIN, November 4, 2011, available at: [https://ssrn.com/abstract](https://ssrn.com/abstract=1954697)=1954697 or[ http://dx.doi.org/10.2139/ssrn.1954697](http://dx.doi.org/10.2139/ssrn.1954697)
+- Healey, N.M. (2008), "Is higher education in really 'internationalising'?", Higher Education, Vol. 55 No. 3, pp. 333-355.
+- Heffernan, T. and Poole, D. (2005), "In search of 'the vibe': creating effective international education partnerships", Higher Education, Vol. 50 No. 2, pp. 223-245.
+- Hemsley-Brown, J. and Oplatka, I. (2006), "Universities in a competitive global marketplace: a systematic review of the literature on higher education marketing", International Journal of Public Sector Management, Vol. 19 No. 4, pp. 316-338.
+</list>
+
+</page>
+<page number="21">
+<list page="21" section="References" source="author" id="/page/20/ListGroup/351">
+- Hemsley-Brown, J. and Oplatka, I. (2010), "Market orientation in universities: a comparative study of two national higher education systems", International Journal of Educational Management, Vol. 24 No. 3, pp. 204-220.
+- Hill, C., Cheong, K.-C., Leong, Y.-C. and Fernandez-Chung, R. (2014), "TNE  Trans-national education or tensions between national and external? A case study of Malaysia", Studies in Higher Education, Vol. 39 No. 6, pp. 952-966.
+- Hopper, T. and Major, M. (2007), "Extending institutional analysis through theoretical triangulation: regulation and activity-based costing in Portuguese telecommunications", European Accounting Review, Vol. 16 No. 1, pp. 59-97.
+- Horta, H. (2009), "Global and national prominent universities: internationalization, competitiveness and the role of the State", Higher Education, Vol. 58 No. 3, pp. 387-405.
+- Houghton, S. and Yamada, E. (2012), Developing Criticality in Practice through Foreign Language Education, Peter Lang, Frankfurt Am Mein, Oxford.
+- Hoyler, M. and Jons, H. (2008), "Global knowledge nodes and networks", in Johnson, C., Hu, R. and Abedin, S. (Eds), Connecting Cities: Networks, 9th World Congress of Metropolis, Sydney, pp. 124-151.
+- Huang, F. (2007), "Internationalization of higher education in the developing and emerging countries: A focus on transnational higher education in Asia", Journal of Studies in International Education, Vol. 11 Nos 3-4, pp. 421-432.
+- Jiang, N. and Carpenter, V. (2013), "A case study of issues of strategy implementation in internationalization of higher education", International Journal of Educational Management, Vol. 27 No. 1, pp. 4-18.
+- Jones, S., Harvey, M., Lefoe, G. and Ryland, K. (2014), "Synthesising theory and practice Distributed leadership in higher education", Educational Management Administration &amp; Leadership, Vol. 42 No. 5, pp. 603-619.
+- Kariwo, M., Gounko, T. and Nungu, M. (Eds) (2014), "A synthesis of the issues, challenges, and dilemmas", A Comparative Analysis of Higher Education Systems, SensePublishers, Rotterdam, pp. 215-218.
+- Kerkvliet, J. and Nowell, C. (2014), "Public subsidies, tuition, and public universities' choices of undergraduate acceptance and retention rates in the USA", Education Economics, Vol. 22 No. 6, pp. 652-666.
+- Kirk, D. (2010), "The development of higher education in the United Arab Emirates", The Emirates Occasional Papers, Vol. 1 No. 74, pp. 1-57.
+- Knight, J. (2004), "Internationalization remodeled: Definition, approaches, and rationales", Journal of Studies in International Education, Vol. 8 No. 1, pp. 5-31.
+- Knight, J. (2008), "The internationalization of higher education: complexities and realities", Higher Education in Africa: The International Dimension, Vol. 1 No. 1, pp. 1-43.
+- Knight, J. (2013), "The changing landscape of higher education internationalisation  for better or worse?", Perspectives: Policy and Practice in Higher Education, Vol. 17 No. 3, pp. 84-90.
+- Lincicome, M. (1993), "Nationalism, internationalization, and the dilemma of educational reform in Japan", Comparative Education Review, Vol. 37 No. 2, pp. 123-151.
+- Lind, J. (2001), "Control in world class manufacturing–A longitudinal case study", Management Accounting Research, Vol. 12 No. 1, pp. 41-74.
+- Liu, J. and Dai, Z. (2012), "On the internationalization of higher education institutions in China", Higher Education Studies, Vol. 2 No. 1, p. 60.
+- Lukka, K. (2007), "Management accounting change and stability: loosely coupled rules and routines in action", Management Accounting Research, Vol. 18 No. 1, pp. 76-101.
+- Mahani, S. and Molki, A. (2011), "Internationalization of higher education: a reflection on success and failures among foreign universities in the United Arab Emirates", Journal of International Education Research, Vol. 7 No. 3, p. 1.
+</list>
+
+</page>
+<page number="22">
+<list page="22" section="References" source="author" id="/page/21/ListGroup/329">
+- Marginson, D.E.W. (2002), "Management control systems and their effects on strategy formation at middle‐management levels: evidence from a UK organization", Strategic Management Journal, Vol. 23 No. 11, pp. 1019-1031.
+- Mitra, S.K. (2010), "Internationalization of education in India: emerging trends and strategies", Asian Social Science, Vol. 6 No. 6, pp. 105-110.
+- Ng, S.W. (2012), "Rethinking the mission of internationalization of higher education in the Asia-Pacific region", Compare: A Journal of Comparative and International Education, Vol. 42 No. 3, pp. 439-459.
+- Ogachi, O. (2009), "Internationalization vs regionalization of higher education in East Africa and the challenges of quality assurance and knowledge production", Higher Education Policy, Vol. 22 No. 3, pp. 331-347.
+- Oyewole, O. (2009), "Internationalization and its implications for the quality of higher education in Africa", Higher Education Policy, Vol. 22 No. 3, pp. 319-329.
+- Palmer, J.D. and Cho, Y.H. (2011), "Does internationalization really mean Americanization?", The Internationalization of East Asian Higher Education, pp. 119-145.
+- Palmer, J.D. and Cho, Y.H. (2012), "South Korean higher education internationalization policies: Perceptions and experiences", Asia Pacific Education Review, Vol. 13 No. 3, pp. 387-401.
+- Ramanathan, S., Thambiah, S. and Raman, K. (2012), "A perception based analysis of internationalization at Malaysian private universities", International Journal of Business and Management, Vol. 7 No. 4, pp. 13-25.
+- Romani, V. (2009), "The politics of higher education in the middle east: problems and prospects", Middle East Brief, Vol. 36 No. 1, pp. 1-8.
+- Schwab, K. and Sala, X. (2011), The global competitiveness report 2011-2012, Citeseer.
+- Schweisfurth, M. and Gu, Q. (2009), "Exploring the experiences of international students in UK higher education: possibilities and limits of interculturality in university life", Intercultural Education, Vol. 20 No. 5, pp. 463-473.
+- Shahijan, M.K., Rezaei, S. and Preece, C.N. (2016), "Developing a framework of internationalisation for higher education institutions in Malaysia: a SWOT analysis", International Journal of Management in Education, Vol. 10 No. 2, pp. 145-173.
+- Sharafuddin, H. and Allani, C. (2012), "Evaluation of the blended learning system in higher education: AOU-Kuwait", International Journal of Information and Education Technology, Vol. 2 No. 4, pp. 412-414.
+- Sinha, B. (2014), "The feasibility and fallacies of internationalization of higher education in India", Asia Pacific Journal of Education, Arts and Sciences, Vol. 1 No. 3, pp. 7-11.
+- Sørensen, O.J. and Hu, Y. (2014), "Triple helix going abroad? The case of Danish experiences in China", European Journal of Innovation Management, Vol. 17 No. 3, pp. 254-271.
+- Stewart, S. and Richardson, B. (2000), "Reflection and its place in the curriculum on an undergraduate course: should it be assessed?", Assessment &amp; Evaluation in Higher Education, Vol. 25 No. 4, pp. 369-380.
+- Sutherland, L., Howard, S. and Markauskaite, L. (2010), "Professional identity creation: examining the development of beginning preservice teachers' understanding of their work as teachers", Teaching and Teacher Education, Vol. 26 No. 3, pp. 455-465.
+- Tilak, J.B. (2011), "Trade in higher education: the role of the general agreement on trade in services (GATS)", International Institute for Educational Planning, UNESCO, Oxford.
+- Trent, J. (2012), "The internationalization of tertiary education in Asia: language, identity and conflict", Journal of Research in International Education, Vol. 11 No. 1, pp. 50-69.
+- Vaivio, J. and Sirén, A. (2010), "Insights into method triangulation and 'paradigms' in interpretive management accounting research", Management Accounting Research, Vol. 21 No. 2, pp. 130-141.
+</list>
+
+</page>
+<page number="23">
+<list page="23" section="References" source="author" id="/page/22/ListGroup/159">
+- Vardhan, J. (2015), "Internationalization and the changing paradigm of higher education in the GCC countries", SAGE Open, Vol. 5 No. 2, pp. 1-10.
+- Varghese, N. (2009), "Globalization, economic crisis and national strategies for higher education development", International Institute for Educational Planning (IIEP) Research Paper, UNESCO, Paris.
+- Verbik, L. and Lasanowski, V. (2007), "International student mobility: patterns and trends", World Education News and Reviews, Vol. 20 No. 10, pp. 1-16.
+- Verger, A., Fontdevila, C. and Zancajo, A. (2016), The Privatization of Education: A Political Economy of Global Education Reform, Teachers College Press, Oxford.
+- Warwick, P. and Moogan, Y.J. (2013), "A comparative study of perceptions of internationalisation strategies in UK universities", Compare: A Journal of Comparative and International Education, Vol. 43 No. 1, pp. 102-123.
+- Wilkins, S. and Huisman, J. (2012), "The international branch campus as transnational strategy in higher education", Higher Education, Vol. 64 No. 5, pp. 627-645.
+- Woldegiorgis, E.T. (2013), "Conceptualizing harmonization of higher education systems: the application of regional integration theories on higher education studies", Higher Education Studies, Vol. 3 No. 2, pp. 12-23.
+- Yang, R. (2002), "University internationalisation: its meanings, rationales and implications", Intercultural Education, Vol. 13 No. 1, pp. 81-95.
+- Ziguras, C. and McBurnie, G. (2015), Governing Cross-Border Higher Education, Routledge, London.
+</list>
+
+
+<heading page="23" section="Corresponding author" source="author" id="/page/22/SectionHeader/9" level="2">
+## Corresponding author
+</heading>
+
+<text page="23" section="Corresponding author" source="author" id="/page/22/Text/10">
+Nizar Mohammad Alsharari can be contacted at: nalsharari@uaeu.ac.ae
+</text>
+
+<text page="23" section="Corresponding author" source="author" id="/page/22/Text/11">
+Higher education system
+</text>
+
+<text page="23" section="Corresponding author" source="author" id="/page/22/Text/12">
+381
+</text>
+
+</page>
+</paper>

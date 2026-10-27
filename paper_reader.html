@@ -647,6 +647,7 @@ async function showPaper(rpId) {
         ${p.method_family ? `<span class="pill">${escapeHtml(p.method_family)}</span>` : ''}
         ${p.traced_pct ? `<span class="pill">${p.traced_pct}% traced</span>` : ''}
         ${p.pdf_path ? `<a class="pill link" href="${p.pdf_path}" target="_blank">⬇ PDF</a>` : ''}
+        ${p.xml_path ? `<a class="pill link" href="${p.xml_path}" download>⬇ XML</a>` : ''}
         ${p.doi ? `<a class="pill link" href="https://doi.org/${escapeAttr(p.doi.replace(/^arXiv:/i, '10.48550/arXiv.'))}" target="_blank">DOI</a>` : ''}
         ${p.md_path_ar ? `<span class="pill" title="Arabic translation available">🌐 AR</span>` : ''}
       </div>

@@ -1,0 +1,685 @@
+<paper source_file="A2.R34" title="Adapting to transnational education: students' experiences at an American university in the UAE" total_pages="15" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+
+<heading page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/SectionHeader/1" level="1">
+# Adapting to transnational education: students' experiences at an American university in the UAE
+</heading>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/2">
+Adapting to transnational education
+</text>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/3">
+121
+</text>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/4">
+Received 3 August 2020 Revised 11 January 2021 30 April 2021
+</text>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/18">
+Accepted 2 May 2021
+</text>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/5">
+Zsuzsanna Mikecz Munday
+</text>
+
+<text page="1" section="Adapting to transnational education: students' experiences at an American university in the UAE" source="author" id="/page/0/Text/6">
+Department of English, College of Arts and Sciences, American University of Sharjah, Sharjah, United Arab Emirates
+</text>
+
+
+<heading page="1" section="**Abstract **" source="author" id="/page/0/SectionHeader/7" level="2">
+## **Abstract **
+</heading>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/8">
+**Purpose** – Despite the increasing number of transnational universities around the world, little attention has been paid to students who attend foreign universities in their own countries and their adjustment to the new learning environment. This study aims to examine some of the adaptations freshmen students have to undergo while studying at an American university in the United Arab Emirates (UAE).
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/9">
+**Design/methodology/approach** — This study is conducted at an American university in the UAE and involved 152 freshmen students, investigating their challenges to adapting to the university academically and socially. The target respondents were first-year students, typically 18–19 years old men and women of various majors and nationalities who completed high school in the country. Questionnaires were emailed to students; a total of 184 surveys were completed (with prior permission), but only 152 of those fitted the criteria and were used in the study.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/10">
+**Findings** – Findings indicate that although these students study at home, by attending a foreign university many of them rely heavily on the support of peers, especially co-nationals. They require similar academic and emotional support from teachers as many first-year students at university do.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/11">
+**Research limitations/implications** – The findings have limitations as data were collected at a single point in time through surveys. Being a single researcher, the study did not opt for breadth to answer the research questions but aimed to find out freshmen students' challenges in adapting to the university. Despite the limitations of the study, several issues were raised that can be investigated in future studies.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/12">
+Originality/value — The study provided insights into the challenges first-year students face at a transnational university in the UAE. It identifies the support that could be provided by the university to facilitate students' successful adjustment process to the educational and socio-cultural environment of the university. Although this was small-scale research and cannot be generalized to a larger population, the findings could be transferable to other, similar settings in transnational universities in the region. Findings might be compared and contrasted to other, related cases, as the structural aspects could be noticed in similar cases or situations.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/13">
+**Keywords** UAE, First-year experience, Student adjustment, Transnational university
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/14">
+Paper type Case study
+</text>
+
+<figure page="1" section="**Abstract **" source="author" id="/page/0/Picture/15" image="A2.R34_fig01.jpg">[FIGURE: see A2.R34_fig01.jpg]</figure>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/16">
+© Zsuzsanna Mikecz Munday. Published in *Learning and Teaching in Higher Education: Gulf Perspectives*. Published by Emerald Publishing Limited. This article is published under the Creative Commons Attribution (CC BY 4.0) licence. Anyone may reproduce, distribute, translate and create derivative works of this article (for both commercial and non-commercial purposes), subject to full attribution to the original publication and authors. The full terms of this licence may be seen at http://creativecommons.org/licences/by/4.0/legalcode
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/17">
+Learning and Teaching in Higher Education: Gulf Perspectives Vol. 17 No. 2, 2021 pp. 121-135 Emerald Publishing Limited 2077-5504 DOI 10.1108/LTHE.08-2020-0017
+</text>
+
+</page>
+<page number="2">
+
+<heading page="2" section="Introduction" source="author" id="/page/1/SectionHeader/2" level="2">
+## Introduction
+</heading>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/3">
+The number of students who choose to study abroad has been steadily increasing worldwide and, since the turn of the century, it quadrupled to five million between 1990 and 2014. By 2025, this number is expected to reach eight million [(UNESCO, 2018)](#page-14-0). The majority of these students (80%) come from the developing world and Anglophone and Western European countries such as the USA, UK, Australia, France, Canada are traditionally the main destinations for international students [(Marginson, 2006)](#page-13-0). However, because of recent social, global and geo-political events, many students are choosing to pursue higher education in countries in Asia, such as Singapore and Malaysia and the Middle East. An increasing number of transnational universities have been established there, whether satellite, branch or offshore universities, catering for students with diverse backgrounds, who can thus, benefit from a foreign educational experience without leaving their home countries [(Pyvis &amp; Chapman, 2007)](#page-13-1). These universities offer "internationalization at home" where students can combine study at home and study abroad, leading to dual degrees accredited in both countries [(Bhandari &amp; Blumenthal, 2011](#page-11-0)).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/4">
+The United Arab Emirates (UAE) has become a major hub for transnational university education. In the past two decades, English medium education has become widespread and English has been replacing Arabic as "the language of education" in the UAE [(Solloway,](#page-14-1) [2016](#page-14-1)). The demand for Western higher education is driven by an increased focus toward becoming a knowledge economy by developing human capital with graduates who possess critical thinking skills, creativity and flexibility that match the needs of the labor market [(Gray &amp; Bashir, 2017)](#page-12-0).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/5">
+Several personal, situational and institutional factors that attract students to the UAE have been identified by [Ahmad and Hussain (2017).](#page-11-1) The main factors included the safety of the country, its multicultural population, institutional reputation and cost of education. Thus, an increasing number of expatriate and national students from the UAE and neighboring countries choose to study in one of the transnational universities in the UAE. Although many choose this destination because of the country's proximity to their home countries and families, as well as the cultural similarities to their own, nevertheless they have to overcome numerous challenges to adjust to living and studying at these universities. Even the students who stay in their home environment but attend a foreign university can also face challenges. Therefore, it is important to explore how students "find themselves in very foreign learning environments where approaches and values clash with their prior learning experiences and conflict with their expectations" [(Pyvis &amp; Chapman, 2007,](#page-13-1) p. 25).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/6">
+This study was designed to examine the adaptations freshmen students have to undergo while studying at an American university in the UAE. It involved Emirati and expatriate students of various nationalities, who had lived in the UAE prior to joining the university. Although these students did not leave their home environment, they still experienced challenges in adapting to the university environment and "considerable cultural dissonance" [(Allan, 2003,](#page-11-2) p. 66).
+</text>
+
+
+<heading page="2" section="Literature review" source="cited" id="/page/1/SectionHeader/7" level="3">
+### Literature review
+</heading>
+
+<text page="2" section="Literature review" source="cited" id="/page/1/Text/8">
+Entering university requires great adjustments from most students. The transition to new academic and living environments, social networks and an increased amount of independence can be very stressful. The first year in university is especially crucial as those who struggle with the transition may fail in their studies and drop out. For example, in community colleges across the USA, first and second-year retention was just 55% in 2011 [(Price &amp; Tovar, 2014)](#page-13-2). Because of such high attrition, higher educational institutions across the world have been studying the enabling factors for a successful transition to university,
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="Literature review" source="cited" id="/page/2/Text/2">
+focusing especially on first-year experiences (FYEs). Many of these studies investigated domestic students' experiences, others focused on international students specifically. Research studies on international students in higher education discuss students' adjustment in terms of their specific problems in the college environment, such as academic, psychological and communication difficulties or getting used to the local culture (Mesidor &amp; Sly, 2016; Rienties et al., 2012). However, despite the increasing numbers of transnational universities around the world, little attention has been paid to students who attend foreign universities in their own countries and their adjustment to the new learning environment.
+</text>
+
+
+<heading page="3" section="Transnational offshore programs" source="author" id="/page/2/SectionHeader/3" level="4">
+#### Transnational offshore programs
+</heading>
+
+<text page="3" section="Transnational offshore programs" source="author" id="/page/2/Text/4">
+One of the most significant developments in international education has been transnational higher education, a movement of education across national jurisdictional or geographic borders (Knight, 2006). Transnational universities attract a culturally heterogeneous student population as students apply not only from the "home" location but also from neighboring countries. In transnational universities, even the local student is not "embedded" in the familiar (Pyvis &amp; Chapman, 2007).
+</text>
+
+<text page="3" section="Transnational offshore programs" source="author" id="/page/2/Text/5">
+To promote the advancement of national human capital, international higher education and training institutions have been invited to the UAE to provide educational programs. According to the Ministry of Higher Education, there are over 70 higher educational institutions in the country and the majority of those are international branch campuses (Alsharari, 2017). It has been predicted that by 2024, nearly a third of the global increase of international students will be attributed to the Gulf region (Kariwo et al., 2014). These degrees are not only highly competitive but receive dual accreditation and many graduates continue their education by enrolling in postgraduate programs in the USA, Canada or Europe. As a result, an increasing number of students, both Emiratis and expatriates from the UAE and the region, join these universities.
+</text>
+
+
+<heading page="3" section="Educational and socio-cultural stressors" source="author" id="/page/2/SectionHeader/6" level="4">
+#### Educational and socio-cultural stressors
+</heading>
+
+<text page="3" section="Educational and socio-cultural stressors" source="author" id="/page/2/Text/7">
+Educational stressors include communication barriers, academic and organizational factors that may inhibit successful adjustment to life at an international university. Sociocultural stressors include language barriers, lack of familiarity with culturally different academic rules and systems, loss of one's family and surroundings, as well as cultural differences (Roemer, 2016; Hardy, 2012; Wilton &amp; Constantine, 2003). As the English language is the medium for most courses in higher education in the UAE, many Emirati and other expatriate Arab students face challenges in meeting universities' English language requirements (Alsharari, 2017). Students' ability to read and write fluently in English, and the ability to communicate with peers and teachers have a paramount impact on academic performance. In fact, language barriers seem to be the most challenging issue for most international students too, as insufficient language skills affect not only their academic performance but also their social lives (Iarovici, 2014; Hardy, 2012).
+</text>
+
+<text page="3" section="Educational and socio-cultural stressors" source="author" id="/page/2/Text/8">
+Teaching and learning styles in a transnational university can greatly vary due to the heterogenous nature of students' and faculty backgrounds. Classroom culture and student-staff interaction can be very different in various parts of the world, and these relate to friendliness with students, flexibility, student autonomy, independent learning and study methods (Wilkins et al., 2012). The teacher-student relationship and its effect on students' academic success in higher education has received increasing attention (Snijders et al., 2020; Hornstra et al., 2018; Hagenauer &amp; Volet, 2014; Schneider &amp; Yin, 2011). Views on what constitutes "caring" for students are diverse, but respect, approachability, clear expectations
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="Educational and socio-cultural stressors" source="author" id="/page/3/Text/2">
+and opportunities between teacher-student interaction greatly increase student learning and intrinsic motivation [(Bovill, 2020](#page-12-5); [Derrico, 2020](#page-12-6); [Komarraju et al., 2010](#page-13-9)).
+</text>
+
+<text page="4" section="Educational and socio-cultural stressors" source="author" id="/page/3/Text/3">
+Classroom settings that foster active learning methods and classroom interactions, such as group work, debates or discussions, can also lead to positive social integration between teachers and students [(Hornstra et al., 2018](#page-12-3); [Hagenauer &amp; Volet, 2014](#page-12-4)). In American universities around the world, the Anglo-Saxon perspective of learning dominates, where students develop knowledge through an active construction process, not through the passive reception of information, while collaborative learning strategies encourage independent learning, problem-solving and critical thinking [(Duman &amp; Yavuz, 2018;](#page-12-7) [Van Hover &amp; Hicks, 2017)](#page-14-5).
+</text>
+
+<text page="4" section="Educational and socio-cultural stressors" source="author" id="/page/3/Text/4">
+The different roles of teachers and students have been studied in various ethnic groups. Asian and Western students often have different expectations from teachers and demonstrate different learning styles [(Tran &amp; Vu, 2018;](#page-14-6) [Lee et al., 2019](#page-13-10); [Cortazzi &amp; Jin, 2013](#page-12-8)). Similarly, one of the Arab culture's major features is its formality, which is also reflected in the way students talk to their teachers, and professors are often seen as people of higher social status. Many Arab students need a paternal relationship with professors and advisors and receive strong guidance, even control from them initially and they often learn through a teaching style where they read texts and listen to teachers' lectures [(Yakaboski et al., 2018;](#page-14-7) [Almurideef, 2016)](#page-11-4).
+</text>
+
+
+<heading page="4" section="Support" source="author" id="/page/3/SectionHeader/5" level="2">
+## Support
+</heading>
+
+<text page="4" section="Support" source="author" id="/page/3/Text/6">
+A well-established social support system has a paramount influence on students' psychological well-being ([Bhochhibhoya et al., 2017)](#page-11-5). The importance of international students' connection to the university environment and to each other has been widely discussed. [Warren and Luebsen (2017)](#page-14-8), discuss the importance of "success coaches" in the form of peers, who provide academic and personal support to first-year students. Close friends and peer support can enhance students' social skills, leading to higher academic performance as their friendship networks greatly contribute to their acculturation process [(Warren &amp; Luebsen, 2020](#page-14-9); [Hendrickson et al., 2011)](#page-12-9). International students with a shared nationality form friendships more easily as cultural similarity brings them together. Thus, they mostly rely on co-national friendships followed by friendships with other international students [(Rienties &amp; Nolan, 2014;](#page-13-11) [Jindal-Snape &amp; Rienties, 2016)](#page-12-10).
+</text>
+
+<text page="4" section="Support" source="author" id="/page/3/Text/7">
+Student counseling is an important tool for educators in schools and universities in dealing with students' psychological issues. Psychological and professional counseling services are widely used on college and university campuses across Western Europe and America [(Shiraev &amp; Levy, 2020)](#page-13-12). International students who experience loneliness, depression and other related issues due to a new cultural and social environment are encouraged to use counseling services [(Duffy et al., 2020](#page-12-11)). However, not all cultures have similar attitudes toward counseling and seeking professional help. Studies suggest that many international students under-use counseling services and the same applies to many Arab students. This is because in many countries there is a cultural stigma of mental health problems, lack of information and access to quality care and unfamiliarity with counseling services [(Shea et al., 2019](#page-13-13); [Li et al., 2013)](#page-13-14).
+</text>
+
+
+<heading page="4" section="Methodology" source="author" id="/page/3/SectionHeader/8" level="2">
+## Methodology
+</heading>
+
+<text page="4" section="Methodology" source="author" id="/page/3/Text/9">
+The current study followed a survey methodology to investigate the educational and sociocultural stressors [(Arends-Toth &amp; van de Vijver, 2006](#page-11-6)) of first-year undergraduate students in an American university in the UAE. In addition, academic and social support were also investigated in this study. The following research questions guided the study:
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="Methodology" source="author" id="/page/4/Text/11">
+Adapting to transnational education
+</text>
+
+<list page="5" section="Methodology" source="author" id="/page/4/ListGroup/191">
+- RQ1. What are the greatest challenges students face in adapting to the educational environment at the university?
+- RQ2. What are the greatest challenges students face in their socio-cultural adaptation at the university?
+- RQ3. What type of support could be provided by the university to facilitate students' successful adjustment process to the educational and socio-cultural environment of the university?
+</list>
+
+
+<heading page="5" section="Context" source="author" id="/page/4/SectionHeader/4" level="3">
+### Context
+</heading>
+
+<text page="5" section="Context" source="author" id="/page/4/Text/5">
+The University involved in the study is a non-profit, independent, coeducational institution formed on an American model. It is fully accredited by the Ministry of Higher Education in the UAE and is also independently accredited in the USA. Although the official language of the UAE is Arabic, the language of instruction at the university is English (English as the Medium of Instruction). In fall 2018, 5,031 students were enrolled in the undergraduate programs representing over 70 nationalities. Apart from a large number of Emirati and other Arab students, there are many students from the Indian Subcontinent. The 358 full time faculty represent 49 different nationalities, but nearly half of them are US or Canadian citizens. As a university formed on American models, it gives priority to candidates who have substantial experience in American models of higher education. As this is a multicultural university in a multicultural country, it can be described by the words of Pratt [(Grobman, 1999](#page-12-12)), as a "contact zone" and "a social space where cultures meet, clash and grapple with each other, often in contexts of highly asymmetrical relations of power" [(Grobman, 1999,](#page-12-12) p. 428). In such a heterogeneous environment, a large variety of teaching and learning styles are represented. The University Academic Support Center helps undergraduate students succeed academically providing them with extra support and skills development training and also coordinates academic accommodations for students with documented disabilities.
+</text>
+
+
+<heading page="5" section="Participants" source="author" id="/page/4/SectionHeader/6" level="4">
+#### Participants
+</heading>
+
+<text page="5" section="Participants" source="author" id="/page/4/Text/7">
+The target respondents were first-year students, typically 18–19 years old, men and women of various majors and nationalities who completed high school in the UAE. Study participants were chosen through purposive and snowball sampling and had to fit certain criteria, based on the focus of the study. A total of 152 students participated in the study by responding to the survey.
+</text>
+
+
+<heading page="5" section="Data collection instrument" source="author" id="/page/4/SectionHeader/8" level="3">
+### Data collection instrument
+</heading>
+
+<text page="5" section="Data collection instrument" source="author" id="/page/4/Text/9">
+Quantitative and qualitative data were collected using a survey. The survey questions were based on various studies relating to acculturation, transnational education and FYEs [(Pittman &amp; Richmond, 2008;](#page-13-15) [Clemes et al., 2007;](#page-12-13) [Hendrickson et al., 2011;](#page-12-9) [Eldridge and](#page-12-14) [Cranston, 2009)](#page-12-14).
+</text>
+
+<text page="5" section="Data collection instrument" source="author" id="/page/4/Text/10">
+The survey consisted of 35 items rated on an importance scale to gather critical information about factors that are important to students relating to educational, sociocultural and practical stressors. All questions were in English. The survey was piloted with eight first-year students, who did not take part in the main study. There were also questions about student demographics and open-ended questions focusing on their challenges at the university and potential support that could ensure successful adjustment to the university's
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Data collection instrument" source="author" id="/page/5/Text/2">
+culture and academic life. Surveys were sent to students' university email accounts and conducted online. Survey completion was voluntary and all responses were anonymous.
+</text>
+
+
+<heading page="6" section="Procedures and data analysis" source="author" id="/page/5/SectionHeader/3" level="3">
+### Procedures and data analysis
+</heading>
+
+<text page="6" section="Procedures and data analysis" source="author" id="/page/5/Text/4">
+The survey was emailed to 213 first-year students. Reminders were sent to encourage students to complete the survey. A total of 184 surveys were completed, but only 152 of those fitted the criteria and were used in the study. Those students who had lived outside the UAE prior to joining the university were excluded from the investigation.
+</text>
+
+<text page="6" section="Procedures and data analysis" source="author" id="/page/5/Text/5">
+The survey yielded quantitative data that were analyzed using the statistical package for the social sciences. There were only a small number of open-ended questions; thus, qualitative data were analyzed by thematic coding. Coding the answers helped organizing and grouping data into categories and subcategories and this allowed the identification of shared themes and also highlighted differences.
+</text>
+
+
+<heading page="6" section="Results and discussion" source="author" id="/page/5/SectionHeader/6" level="2">
+## Results and discussion
+</heading>
+
+
+<heading page="6" section="Participant demographics" source="author" id="/page/5/SectionHeader/7" level="3">
+### Participant demographics
+</heading>
+
+<text page="6" section="Participant demographics" source="author" id="/page/5/Text/8">
+The 152 participants represented 23 different countries. In terms of gender, the sample was equally distributed: 51% were men and 49% women. Emirati students comprised 17% of the sample. The largest number of respondents were from other Arab countries and students from the Indian Subcontinent. Although they were UAE residents, 32% of them lived in the dormitories or in nearby housing as their families lived in other emirates in the country. Most of them graduated from English-medium high schools representing different curricula, namely, British, American, Indian. The demographic analysis of the participants is reported below in[Table 1](#page-6-0).
+</text>
+
+
+<heading page="6" section="Educational stressors" source="author" id="/page/5/SectionHeader/9" level="3">
+### Educational stressors
+</heading>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/10">
+Participants' responses to the survey revealed that the most important stress students faced was education. Almost 70% perceived study load as the number one cause of stress, followed by examinations ([Table 2](#page-7-0) below). The amount of reading and writing, as well as having to do presentations also caused considerable challenges. Although most respondents graduated from high schools that followed American or British curricula, nearly half claimed that the teaching style at the university is a very important source of stress.
+</text>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/11">
+As nearly 85% of the respondents graduated from English language medium schools, most of them had excellent English language skills. In fact, at the university where the study took place, new students' average Test of English as a Foreign Language score was 578 and the average International Language Testing System score was 7.1 ([Fast Facts, 2019](#page-12-15)). Thus, the language of instruction and language barriers were not important stressors and neither was coeducation. However, cultural backgrounds can influence learning styles because of students' previous experiences, educational backgrounds and socio-demographic factors.
+</text>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/12">
+As seen in [Table 2](#page-7-0), surveys showed that not only academic but also organizational requirements created challenges for students including the registration process and lack of information about programs.
+</text>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/13">
+To the question: "what have been the greatest challenges for you in getting used to studying at the university?", students' responses emphasized teaching styles, study load and study skills such as time management and independent learning:
+</text>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/14">
+Working hard and then getting an unsatisfying grade.
+</text>
+
+<text page="6" section="Educational stressors" source="author" id="/page/5/Text/15">
+Time management, keeping a high GPA.
+</text>
+
+</page>
+<page number="7">
+<table page="7" section="Educational stressors" source="author" id="/page/6/Table/0">
+| Demographic categories | Frequency (%) |
+| --- | --- |
+| GenderFemaleMale | 4951 |
+| Age1819 | 4357 |
+| NationalityUAEJordanEgyptLebanonPalestineSaudi ArabiaSyriaIndiaPakistanBangladeshOther | 179977541311414 |
+| ResidenceHomeDormitories | 6832 |
+| High school curriculumAmericanBritishIndianArabicOther | 3326161213 |
+</table>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/1">
+Study load, managing social and academic life.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/2">
+Forcing myself to have a discussion in class. In my Indian school I only had to listen to the teacher and take notes.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/3">
+The workload and adapting to each and every professor's needs and expectations to maintain a good GPA.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/4">
+Constant stress, constant assignments, quizzes and midterms, finding friends.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/5">
+The extremely serious environment. Definitely Definitely [sic] my bad time management skills.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/6">
+Group work. Some students are impossible and I do all the work.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/7">
+Working with a team. If others all come from the same country and speak their own language I feel completely left out.
+</text>
+
+<text page="7" section="Educational stressors" source="author" id="/page/6/Text/8">
+When joining an American university, the amount of independence expected from learners in all areas of learning and university life can be overwhelming. Students do not just have to study independently but also organize their own schedule, and unlike in
+</text>
+
+</page>
+<page number="8">
+<table page="8" section="Educational stressors" source="author" id="/page/7/Table/0">
+|  | Order ofimportance | Source of educational stress | Veryimportant | Somewhatimportant | Notimportant | N/A | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **LTHE**17,2 | 1 | Study load | 105 | 41 | 6 | 0 | 152 |
+| 2 | Examinations | 103 | 38 | 11 | 0 | 152 |
+| 2 | Registration process | 88 | 41 | 18 | 4 | 151 |
+| 3 | Teaching style | 75 | 53 | 19 | 3 | 150 |
+| **128** | 4 | Lack of information aboutprograms | 67 | 49 | 28 | 7 | 151 |
+|  | 5 | Reading and writing tasks | 64 | 62 | 23 | 1 | 150 |
+| 6 | Presentations in English | 53 | 47 | 44 | 5 | 149 |
+| 7 | Unsure major | 48 | 54 | 37 | 9 | 148 |
+| **Table 2.**Major sources ofeducational stress(N = 152) | 8 | Managing time | 46 | 56 | 48 | 2 | 152 |
+| 9 | Independent learning | 30 | 50 | 65 | 4 | 149 |
+| 10 | Language barriers with peers/teachers | 29 | 56 | 63 | 3 | 151 |
+</table>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/1">
+high school, they are responsible for selecting their courses, meeting course prerequisites and following university policies and procedures. Survey answers revealed that some students felt being left on their own and struggling with decisions regarding organizational requirements:
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/2">
+Be as maximum positive as you can. Don't expect anything from others, you have to do everything by your own, if you want to get used to the university.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/3">
+The registration is crazy.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/4">
+Advising is useless. I still don't understand many things.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/5">
+Need better, more efficient advising.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/6">
+It is extremely hard for introverts to deal in classrooms with professors that counts[sic] participation grade.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/7">
+When asked about ways the university could help in adapting to the academic environment, students asked for more support and understanding from their professors:
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/8">
+Need more help and advice from professors on what they think we should do in order to perform better in that course.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/9">
+Showing them [students] what is expected from previous students and allowing students to work on their assignments and giving them tests with 'fake grades' at the beginning just to put the course into prospective. This will eventually make it easier to adapt academically.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/10">
+Take it slow on freshmen, and try to cushion the shock of transitioning to uni life.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/11">
+Give us lots of examples of what they [teachers] expect, especially in the first few months.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/12">
+Being a little flexible and for professors to be friendly.
+</text>
+
+<text page="8" section="Educational stressors" source="author" id="/page/7/Text/13">
+Students should receive emotional support from their teachers.
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="Educational stressors" source="author" id="/page/8/Text/2">
+Overall, academic stress including study load, examinations and time management were reported to present the greatest difficulties. Additionally, there were various organizational challenges regarding the registration process and course selection. Like many first-year university students studying in English, students in the study found adapting to an American university environment challenging, especially academically. English language fluency is a significant determinant in successful acculturation and students' self-confidence (Iris &amp; Ngoc, 2014). Although the students in the study had excellent English language skills, the different teaching styles, examinations and assignments presented difficulties. This supports the views of Jones (2017), who states that language proficiency may not directly relate to academic success, whereas competence in academic writing or critical thinking are essential not only to international but also to domestic students. Furthermore, learning and motivational styles may be very different among students with heterogenous backgrounds (Shiraev &amp; Leary, 2016). They must learn to adapt to an academic culture where teaching and testing may be unfamiliar, in addition to various organizational factors that can also cause educational stress.
+</text>
+
+
+<heading page="9" section="Socio-cultural stressors" source="author" id="/page/8/SectionHeader/3" level="3">
+### Socio-cultural stressors
+</heading>
+
+<text page="9" section="Socio-cultural stressors" source="author" id="/page/8/Text/4">
+Meeting family's expectations is a paramount source of stress, especially in cultures that follow a paternalistic family model. In many Arab families, students' academic choices often reflect not only future career prospects and possibilities but also parents' desires in choosing professions for their children (Aljayyousi et al., 2019; Asbah, 2017). Therefore, it is not surprising that meeting parents' expectations was the most important source of stress for many students, closely followed by financial stress (Table 3 below).
+</text>
+
+<text page="9" section="Socio-cultural stressors" source="author" id="/page/8/Text/5">
+In the UAE, like in many countries around the world, the fees of higher education continue to increase and many families require financial aid and grants. New, first-time students at the university may qualify for a financial grant, a merit-based scholarship and a family tuition grant regardless of their race, color, gender, religion or national origin. Nevertheless, many students reported experiencing financial stress and this often negatively impacted them.
+</text>
+
+<table page="9" section="Socio-cultural stressors" source="author" id="/page/8/Table/6">
+| Order of importance | Source of socio-cultural stress | Very important | Somewhat important | Not important | N/A | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Meeting family's expectations | 113 | 34 | 5 | 0 | 152 |
+| 2 | Making friends | 104 | 44 | 4 | 0 | 152 |
+| 3 | Financial stress | 102 | 47 | 2 | 0 | 151 |
+| 4 | Finding my way around the university | 72 | 38 | 27 | 12 | 149 |
+| 5 | Getting involved in on-campus events/activities | 49 | 44 | 46 | 13 | 152 |
+| 6 | Transportation issues | 43 | 63 | 36 | 8 | 150 |
+| 7 | Missing family or friends | 30 | 40 | 42 | 37 | 149 |
+| 8 | Health and diet | 28 | 25 | 72 | 26 | 151 |
+| 9 | Missing home environment | 19 | 41 | 68 | 22 | 150 |
+| 10 | Living in the dorms | 20 | 5 | 25 | 101 | 151 |
+| 11 | Multicultural environment | 8 | 29 | 115 | 0 | 152 |
+| 12 | Culture shock | 11 | 26 | 107 | 8 | 152 |
+| 13 | Discrimination | 3 | 19 | 110 | 20 | 152 |
+| 14 | Coeducation | 8 | 26 | 111 | 7 | 152 |
+</table>
+
+<text page="9" section="Socio-cultural stressors" source="author" id="/page/8/Text/7">
+Table 3. Major sources of socio-cultural stress (N = 152)
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/2">
+Missing the home environment, meals and comfort were either very important or somewhat important to those who lived in the dormitories. Transportation issues arose, perhaps, because public transportation is limited in the city where the university is located and most freshman students rely on parents, taxis and the university buses for getting to and from the university. However, the overall results show that living in the dorms was not a stressor for most participants.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/3">
+The majority of the students claimed that neither the multicultural environment nor culture shock were an important source of stress. As they had lived in the UAE before joining the university, they were used to the lifestyle and the multicultural environment of the country, as this comment from one of the participants shows:
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/4">
+I didn't really face difficulties regarding the culture. I've lived in the UAE my entire life, and one of the many things that stands out about this country is the cultural diversification, so I was pretty much raised to that.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/5">
+Because of culture shock, language barriers and isolation, many students deliberately seek each other's company and often form their own little communities. Responses demonstrated that peer relationships are the most important element in social adaptation and for students' sense of belonging:
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/6">
+Having high school friends and family friends helped me out through my first semester.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/7">
+My Indian friends helped me a lot.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/8">
+I wouldn't have survived the first few weeks without my fellow Egyptians.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/9">
+In some cases, English language skills did not seem to be enough for successful social integration for Arab students. Knowing Arabic was considered important for making friends and socializing and these were explained in the open-ended questions:
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/10">
+Not being able to speak Arabic had a significant impact on socializing and making friends.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/11">
+Most people speak Arabic, and of course since I'm Lebanese I'm expected to know Arabic. But my Arabic is so bad so that has [sic] a big impact on my social life.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/12">
+Although English is the lingua franca in the UAE, the knowledge of Arabic appeared most important for successful social integration, especially for Arab nationals.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/13">
+The support from family is understandable, as most students' families lived in the country. They also had high school friends at the university, thus they were able to rely on their regular support system. Regarding socio-cultural adjustment, students' suggestions included friendships and a warm, welcoming environment that offers cultural events and more opportunities to make friends and meet students from their home countries:
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/14">
+Need a more friendlier [sic] and welcoming environment and activities for new students.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/15">
+More events to familiarize the students with the university and fellow students.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/16">
+Students should be able to get in touch easier with other students from their home countries.
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/17">
+However, the division of the student population into small, distinct groups was criticized by some students in the study. As one respondent stated:
+</text>
+
+<text page="10" section="Socio-cultural stressors" source="author" id="/page/9/Text/18">
+I found the people here a bit "categorized". They are very clearly a lot more comfortable around people from the same country/culture, and vice versa. I came from a high school where your
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="Socio-cultural stressors" source="author" id="/page/10/Text/2">
+origins didn't really matter and you got to know people for who they are rather than make initial assumptions based on your simplified background.
+</text>
+
+<text page="11" section="Socio-cultural stressors" source="author" id="/page/10/Text/3">
+The university is proud of its international faculty and student body and makes efforts to demonstrate diversity through cultural and international events on campus. Nevertheless, there is evidence that the support of co-national friends is often invaluable (Table 4 below).
+</text>
+
+
+<heading page="11" section="Summary" source="author" id="/page/10/SectionHeader/4" level="3">
+### Summary
+</heading>
+
+<text page="11" section="Summary" source="author" id="/page/10/Text/5">
+Financial and family pressure are a primary source of stress, especially for freshmen (Britt et al., 2016) and also for many students in the study. Besides families and friends, their main sources of support are co-nationals. They are not only essential for socialization and emotional support, but as a key source of information. In some US universities, specific outreach programs are recommended for Arab international students (Abu Rabia, 2017). Thus, it is important to have organized events and activities where students can meet and form friendships. Although English is the language of instruction, the knowledge of the Arabic language is another asset that seemed to be important in establishing new social relationships.
+</text>
+
+<text page="11" section="Summary" source="author" id="/page/10/Text/6">
+The findings raise the question regarding what faculty members could do to facilitate first-year students' learning experiences. Positive rapport in a student-teacher relationship improves students' motivation and participation and helps students adapt to the learning environment. However, teachers are often restricted by "relational boundaries and power structures" and students rely on their peers for classroom connectedness (Brandi et al., 2020, p. 291).
+</text>
+
+<text page="11" section="Summary" source="author" id="/page/10/Text/7">
+Students also need to be encouraged to seek teachers' help both inside and outside of the classroom, especially during office hours. Teachers' support and caring attitudes are important for students' motivation and success, especially, as many do not make use of the counseling services. This could be the result of lack of information but also the negative attitudes toward counseling. Some ethnic minorities in US colleges, including Arab students, underuse counseling and mental health services due to fear of stigma, mistrust and cultural attitudes (Smith, 2011).
+</text>
+
+<text page="11" section="Summary" source="author" id="/page/10/Text/8">
+Overall, transitioning to a new academic and social environment, and managing an increased amount of workload and independence can be very stressful, especially when students rely almost entirely on friends and family for social and psychological support.
+</text>
+
+<table_group page="11" section="Summary" source="author" id="/page/10/TableGroup/76">
+<table page="11" section="Summary" source="author" id="/page/10/Table/9">
+| Order of importance | Source of support | Veryimportant | Somewhat important | Notimportant | N/a | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Family | 86 | 41 | 25 | 0 | 152 |
+| 2 | Friends from high school | 79 | 56 | 17 | 0 | 152 |
+| 3 | Friends from my country | 70 | 58 | 11 | 12 | 151 |
+| 4 | Friends from other countries | 41 | 64 | 47 | 0 | 152 |
+| 5 | Teachers | 26 | 62 | 27 | 36 | 151 |
+| 6 | Academic advisors | 23 | 48 | 62 | 16 | 149 |
+| 7 | Student counsellors | 18 | 35 | 88 | 10 | 151 |
+| 8 | Clubs/association | 5 | 49 | 98 | 0 | 152 |
+| 9 | Clinical psychologist | 5 | 12 | 120 | 11 | 148 |
+</table>
+<caption page="11" section="Summary" source="author" id="/page/10/Caption/10">
+**Table 4.** Students' responses regarding their source of support (*N* = 152)
+</caption>
+</table_group>
+
+</page>
+<page number="12">
+
+<heading page="12" section="Conclusion" source="author" id="/page/11/SectionHeader/2" level="2">
+## Conclusion
+</heading>
+
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/3">
+The study was conducted at an American university in the UAE and aimed to identify challenges first-year students face in their academic and social adjustment to the international university environment. It included 152 students, men and women, of various nationalities who had resided in the country prior to joining the university. Survey responses revealed that students require more academic and emotional support from teachers and rely heavily on co-national peers for social and emotional support.
+</text>
+
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/4">
+Based on the findings, teachers working with first-year students need to be more aware of students' needs, and introduce more effective peer support and peer mentoring. The university has already made considerable efforts to retain and support freshmen by introducing the FYE program that encourages first-year students to integrate into the university socially, culturally and academically. Additionally, students must be made more aware of university services and facilities and be encouraged to seek professional advise and counseling. Campus wide activities and peer mentoring could be better promoted, preferably with opportunities to make contacts with students from the same culture even during the orientation week.
+</text>
+
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/5">
+Although this was a small-scale research study and cannot be readily generalized, the findings could be transferable to other, similar settings in transnational universities in the region. Despite the limitations of the study, several issues were raised that can be further investigated in future studies using a larger student population.
+</text>
+
+<text page="12" section="Conclusion" source="author" id="/page/11/Text/6">
+With the increasing internationalization of higher education in the Gulf, university communities need to understand students' challenges in academic and social adjustments and formulate an effective support mechanism for a successful transition from high school to the university environment.
+</text>
+
+
+<heading page="12" section="References" source="author" id="/page/11/SectionHeader/7" level="2">
+## References
+</heading>
+
+<list page="12" section="References" source="author" id="/page/11/ListGroup/238">
+- Abu Rabia, H. M. (2017). Undergraduate Arab international students' adjustment to US universities. International Journal of Higher Education, 6(1), 131-139.
+- Ahmad, S. Z. &amp; Hussain, M. (2017). An investigation of the factors determining student destination choice for higher education in the United Arab Emirates. Studies in Higher Education, 42(7), 1324-1343.
+- Aljayyousi, G. F., Abu Munshar, M., Al-Salim, F., &amp; Osman, E. R. (2019). Addressing context to understand physical activity among Muslim university students: the role of gender, family, and culture. BMC Public Health, 19(1), 1-12.
+- Allan, M. (2003). Frontiers crossing. Journal of Research in International Education, 2(1), 83-110.
+- Almurideef, R. (2016). The challenges that international students face when integrating into higher education in the United States. (Theses and Dissertations 2336). Retrieved from [https://rdw.](https://rdw.rowan.edu/etd/2336) [rowan.edu/etd/2336](https://rdw.rowan.edu/etd/2336)
+- Alsharari, N. M. (2017). Internationalization of the higher education system: an interpretive analysis. International Journal of Educational Management, 32(3), 359-381.
+- Arends-Toth, J. V. &amp; van de Vijver, F. J. R. (2006). Issues in conceptualization and assessment of acculturation. In M. H. Bernstein &amp; L. R. Cote (Eds), Acculturation and Parents-Child relationships: Measurement and development, Mahwah, NJ: Lawrence Erlbaum.
+- Asbah, K. A. (2017). The linkage between choosing the course of study in high-school and choosing the domain of study in the high education among Arab students in Israel. Researchers World, 8(1), 170-181, doi: [10.18843/rwjasc/v8il/20.](http://dx.doi.org/10.18843/rwjasc/v8il/20)
+- Bhandari, R. &amp; Blumenthal, P. (2011). International students and global mobility in higher education: National trends and new directions, New York, NY: Palgrave Macmillan. doi[:10.1057/9780230117143.](http://dx.doi.org/10.1057/9780230117143)
+- Bhochhibhoya, A., Dong, Y., &amp; Branscum, P. (2017). Sources of social support among international college students in the United States. Journal of International Students, 7(3), 671-686.
+</list>
+
+</page>
+<page number="13">
+<text page="13" section="References" source="author" id="/page/12/Text/20">
+Adapting to transnational education
+</text>
+
+<list page="13" section="References" source="author" id="/page/12/ListGroup/295">
+- Bovill, C. (2020). Co-creation in learning and teaching: The case for a whole-class approach in higher education. Higher Education, 79(6), 1023-1037.
+- Brandi, N., Frisby, B. N., Hosek, N. A., &amp; Beck, A. C. (2020). The role of classroom relationships as sources of academic resilience and hope. Communication Quarterly, 68(3), 289-305.
+- Britt, S. L., Mendiola, M. R., Schink, G. H., Tibbetts, R. H., &amp; Jonese, S. H. (2016). Financial stress, coping strategy, and academic achievement of college students. Journal of Financial Counseling and Planning, 27(2), 172-183.
+- Clemes, M. D., Gan, C. E. C., &amp; Kao, T. -H. (2007). University student satisfaction: an empirical analysis. Journal of Marketing for Higher Education, 17(2).
+- Cortazzi, M. &amp; Jin, L. (2013). Researching cultures of learning: International perspectives on language learning and education, Houndmills, Basingstoke, Hampshire: Palgrave MacMillian.
+- Derrico, C. M. H. (2020). Thriving on campus: the role of residency type in first-year college students' intent to persist. Available from Coronavirus Research Database; ProQuest One Academic (2438660837). Retrieved from: [http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/thriving-on-campus-role-residency-type-first-year/docview/2438660837/se-2?accountid=16946) [idm.oclc.org/dissertations-theses/thriving-on-campus-role-residency-type-](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/thriving-on-campus-role-residency-type-first-year/docview/2438660837/se-2?accountid=16946)first-year/docview/ [2438660837/se-2?accountid=16946](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/thriving-on-campus-role-residency-type-first-year/docview/2438660837/se-2?accountid=16946)
+- Duffy, A., Keown-Stoneman, C., Goodday, S., Horrocks, J., Lowe, M., King, N. and Saunders, K. E. A. (2020). Predictors of mental health and academic outcomes in first-year university students: identifying prevention and early-intervention targets. Bjpsych Open, 6(3), 46.
+- Duman, B. &amp; Yavuz,  C. (2018). The effect of project-based learning on students' attitude towards English classes. Journal of Education and Training Studies, 6(11a), 186-193.
+- Eldridge, K. &amp; Cranston, N. (2009). Managing transnational education: does national culture really matter?. Journal of Higher Education Policy and Management, 31(1), 67-79.
+- Fast Facts (2019). American University of Sharjah, Retrieved from: [www.aus.edu/about/aus-at-a](https://www.aus.edu/about/aus-at-a-glance/facts-and-figures/fast-facts-fall-2019)glance/facts-and-fi[gures/fast-facts-fall-2019](https://www.aus.edu/about/aus-at-a-glance/facts-and-figures/fast-facts-fall-2019)
+- Gray, K. &amp; Bashir, H. (Eds) (2017). Western higher education in Asia and the Middle East: Politics, economics, and pedagogy. Lexington Books.
+- Grobman, L. (1999). Beyond internationalization: Multicultural education in the professional writing contact zone. Journal of Business and Technical Communication, 13(4), 427-448.
+- Hagenauer, G. &amp; Volet, S. E. (2014). Teacher-student relationship at university: An important yet under-researched field. Oxford Review of Education, 40(3), 370-388.
+- Hardy, D. M. (2012). Crossing borders and confronting social boundaries: international students' experiences in the United States. Available from ProQuest One Academic (925657363). Retrieved from: [http://aus.](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/crossing-borders-confronting-social-boundaries/docview/925657363/se-2?accountid=16946) [idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/crossing](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/crossing-borders-confronting-social-boundaries/docview/925657363/se-2?accountid=16946)[borders-confronting-social-boundaries/docview/925657363/se-2?accountid=16946](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/crossing-borders-confronting-social-boundaries/docview/925657363/se-2?accountid=16946)
+- Hendrickson, B., Rosen, D., &amp; Aune, R. (2011). An analysis of friendship networks, social connectedness, homesickness, and satisfaction levels of international students. International Journal of Intercultural Relations, 35(3), 281-295.
+- Hornstra, L., Stroet, K., van Eijden, E., Goudsblom, J., &amp; Roskamp, C. (2018). Teacher expectation effects on need-supportive teaching, student motivation, and engagement: a self-determination perspective. Educational Research and Evaluation, 24(3-5), 324-345.
+- Iarovici, D. (2014). Mental health issues and the university student, ProQuest Ebook Central. Retrieved from: [https://ebookcentral-proquest-com.aus.idm.oclc.org](https://ebookcentral-proquest-com.aus.idm.oclc.org)
+- Iris, Y. L. &amp; Ngoc, H. B. (2014). Acculturation and linguistic factors on international students' selfesteem and language confidence. Journal of International Students, 4(4), 314-329.
+- Jindal-Snape, D. &amp; Rienties, B. (Eds) (2016). Multi-dimensional transitions of international students to higher education, Routledge.
+</list>
+
+</page>
+<page number="14">
+<list page="14" section="References" source="author" id="/page/13/ListGroup/272">
+- Jones, E. (2017). Problematising and reimagining the notion of 'international student experience'. Studies in Higher Education, 42(5), 933-943.
+- Kariwo, M., Gounko, T. &amp; Nungu, M. (Eds) (2014). A synthesis of the issues, challenges, and dilemmas. In Comparative analysis of higher education systems (pp. 215-218). Rotterdam: SensePublishers.
+- Knight, J. (2006). Higher education crossing borders: A guide to the implications of the general agreement on trade in services (GATS) for cross-border education, Commonwealth of Learning, Vancouver and UNESCO.
+- Komarraju, M., Musulkin, S., &amp; Bhattacharya, G. (2010). Role of student-faculty interactions in developing college students' academic self-concept, motivation, and achievement. Journal of College Student Development, 51(3), 332-342.
+- Lee, J., Kim, N., &amp; Wu, Y. (2019). College readiness and engagement gaps between domestic and international students: re-envisioning educational diversity and equity for global campus. Higher Education : The International Journal of Higher Education Research, 77(3), 505-523. Retrieved from: [https://doi.org/10.1007/s10734-018-0284-8](https://doi.org/10.1007/s10734-018-0284-8)
+- Li, P., Wong, Y. J., &amp; Toth, P. (2013). Asian international students' willingness to seek counseling: A mixed-methods study. International Journal for the Advancement of Counselling, 35(1), 1-15.
+- Marginson, S. (2006). National and global competition in higher education. In H., Lauder, P., Brown, J., Dillabough and A. Halsey (Eds), Education, globalization and social change, Oxford: Oxford University Press.
+- Mesidor, J. K. &amp; Sly, K. F. (2016). Factors that contribute to the adjustment of international students. Journal of International Students, 6(1), 262-282.
+- Pittman, L. R. &amp; Richmond, A. (2008). University belonging, friendship quality, and psychological adjustment during the transition to college. The Journal of Experimental Education, 76(4), 343-361.
+- Price, D. V. &amp; Tovar, E. (2014). Student engagement and institutional graduation rates: Identifying high-impact educational practices for community colleges. Community College Journal of Research and Practice, 38(9), 766-766.
+- Pyvis, D. &amp; Chapman, A. (2007). Why university students choose an international education: a case study in Malaysia. International Journal of Educational Development, 27(2), 235-246.
+- Rienties, B. C., Beausaert, S. A. J., Grohnert, T., Niemantsverdriet, S., &amp; Kommers, P. (2012). Understanding academic performance of international students: the role of ethnicity, academic and social integration. Higher Education, 63(6), 685-700.
+- Rienties, B. &amp; Nolan, E. M. (2014). Understanding friendship and learning networks of international and host students using longitudinal social network analysis. International Journal of Intercultural Relations, 41, 165-180.
+- Roemer, A. E. (2016). Veiled incivilities: International students and campus/classroom climate at predominantly white universities (order no. 10156541). Available from ProQuest One Academic (1818564054). Retrieved from: [http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/veiled-incivilities-international-students-campus/docview/1818564054/se-2?accountid=16946) [idm.oclc.org/dissertations-theses/veiled-incivilities-international-students-campus/docview/](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/veiled-incivilities-international-students-campus/docview/1818564054/se-2?accountid=16946) [1818564054/se-2?accountid=16946](http://aus.idm.oclc.org/login?url=https://www-proquest-com.aus.idm.oclc.org/dissertations-theses/veiled-incivilities-international-students-campus/docview/1818564054/se-2?accountid=16946)
+- Schneider, M., &amp; Yin, L. (2011). The high cost of low graduation rates: How much does dropping out of college really cost?. American Institutes for Research, Retrieved from: https://fi[les.eric.ed.gov/](https://files.eric.ed.gov/fulltext/ED523102.pdf) [fulltext/ED523102.pdf](https://files.eric.ed.gov/fulltext/ED523102.pdf)
+- Shea, M., Wong, Y. J., Nguyen, K. K., &amp; Gonzalez, P. D. (2019). College students' barriers to seeking mental health counseling: Scale development and psychometric evaluation. Journal of Counseling Psychology, 66(5), 626.
+- Shiraev, E. B. &amp; Levy, D. A. (2020). Cross-cultural psychology: Critical thinking and contemporary applications, Routledge.
+</list>
+
+</page>
+<page number="15">
+<text page="15" section="References" source="author" id="/page/14/Text/16">
+Adapting to transnational education
+</text>
+
+<list page="15" section="References" source="author" id="/page/14/ListGroup/202">
+- Shiraev, E. B. &amp; Leary, D. A. (2016). Cross-cultural psychology: critical thinking and contemporary applications, New York, NY: Taylor &amp; Francis.
+- Smith, J. (2011). Removing barriers to therapy with Muslim-Arab-American clients (Doctoral dissertation), Antioch University.
+- Snijders, I., Wijnia, L., Rikers, R. M., &amp; Loyens, S. M. (2020). Building bridges in higher education: student-faculty relationship quality, student engagement, and student loyalty. International Journal of Educational Research, 100, 101538.
+- Solloway, A. (2016). English-Medium instruction in higher education in the United Arab Emirates: The perspective of students (Doctoral thesis), University of Exeter, UK. Retrieved from: [https://ore.](https://ore.exeter.ac.uk/repository/handle/10871/26316) [exeter.ac.uk/repository/handle/10871/26316](https://ore.exeter.ac.uk/repository/handle/10871/26316)
+- Tran, L. T. &amp; Vu, T. T. P. (2018). 'Agency in mobility': towards a conceptualisation of international student agency in transnational mobility. Educational Review, 70(2), 167-187.
+- UNESCO (2018). Education data, UNESCO Institute for Statistics. Retrieved from: [http://data.uis.](http://data.uis.unesco.org/Index.aspx?queryid=1) [unesco.org/Index.aspx?queryid=1](http://data.uis.unesco.org/Index.aspx?queryid=1)
+- Van Hover, S. &amp; Hicks, D. (2017). Social constructivism and student learning in social studies. The wiley handbook of social studies research, UK, John Wiley &amp; Sons, Incorporated, pp. 270-318.
+- Warren, D. &amp; Luebsen, W. (2017). 'Getting into the flow of university': a coaching approach to student peer support. Journal of Educational Innovation, Partnership and Change, 3(1).
+- Warren, D. &amp; Luebsen, W. (2020). Students as partners and peer coaches in student engagement. In T. Lowe &amp; Y. El Hakim, (eds) A handbook for student engagement in higher education: Theory into practice, Routledge.
+- Wilkins, S., Balakrishnan, M. S., &amp; Huisman, J. (2012). Student satisfaction and student perceptions of quality at international branch campuses in the United Arab Emirates. Journal of Higher Education Policy and Management, 34(5), 543-556.
+- Wilton, L. &amp; Constantine, M. (2003). Length of residence, cultural adjustment difficulties, and psychological distress symptoms in Asian and Latin American international college students. Journal of College Counseling, 6(2), 177-186.
+- Yakaboski, T., Perez-Velez, K., &amp; Almutairi, Y. (2018). Breaking the silence: Saudi graduate student experiences on a US campus. Journal of Diversity in Higher Education, 11(2), 221.
+</list>
+
+
+<heading page="15" section="Corresponding author" source="author" id="/page/14/SectionHeader/13" level="3">
+### Corresponding author
+</heading>
+
+<text page="15" section="Corresponding author" source="author" id="/page/14/Text/14">
+Zsuzsanna Mikecz Munday can be contacted at: [smunday@aus.edu](mailto:smunday@aus.edu)
+</text>
+
+</page>
+</paper>

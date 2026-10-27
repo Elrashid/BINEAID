@@ -1,0 +1,377 @@
+<paper source_file="A1.R08" title="**The institutionalization of rankings in higher education: ** **continuities, interdependencies, engagement**" total_pages="13" figures="3" figures_with_images="3">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 3 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A1.R08_fig01.jpg">[FIGURE: see A1.R08_fig01.jpg]</figure>
+
+
+<heading page="1" section="**The institutionalization of rankings in higher education: ** **continuities, interdependencies, engagement**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **The institutionalization of rankings in higher education: ** **continuities, interdependencies, engagement**
+</heading>
+
+<text page="1" section="**The institutionalization of rankings in higher education: ** **continuities, interdependencies, engagement**" source="author" id="/page/0/Text/3">
+**Jelena Brankovic1** **[ ·](http://orcid.org/0000-0002-0485-9096)**** Julian Hamann2** **[ ·](http://orcid.org/0000-0002-3196-908X)**** Leopold Ringel****[1](http://orcid.org/0000-0002-4894-3337)**
+</text>
+
+<text page="1" section="**The institutionalization of rankings in higher education: ** **continuities, interdependencies, engagement**" source="author" id="/page/0/Text/4">
+Accepted: 23 February 2023 / Published online: 5 April 2023 © The Author(s) 2023
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/5" level="2">
+## **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/6">
+In this article, we introduce the special issue of *Higher Education* that centers on the question of the institutionalization of rankings in higher education. The article has three parts.  In the frst part, we argue that the grand narratives such as globalization and neoliberalism  are unsatisfactory as standalone explanations of why and how college and university rankings become institutionalized. As a remedy, we invite scholars to pay closer attention to the  dynamics specifc to higher education that contribute to the proliferation, persistence, and  embeddedness of rankings. In the second part, we weave the articles included in the issue  into three sub-themes—continuities, interdependencies, and engagement—which we link  to the overarching theme of institutionalization. Each contribution approaches the subject  of rankings from a diferent angle and casts a diferent light on continuities, interdependencies, and engagement, thus suggesting that the overall story is much more intricate than  often assumed. In the third and fnal part, we restate the main takeaways of the issue and  note that systematic comparative research holds great promise for furthering our knowledge on the subject. We conclude the article with a hope that the special issue would stimulate further questioning of rankings—in higher education and higher education research.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+**Keywords** Higher education · Rankings · Institutionalization · Evaluation · Organizations
+</text>
+
+
+<heading page="1" section="**Blunt facts?**" source="author" id="/page/0/SectionHeader/8" level="2">
+## **Blunt facts?**
+</heading>
+
+<text page="1" section="**Blunt facts?**" source="author" id="/page/0/Text/9">
+Over the course of the past century, rankings have proliferated dramatically. Loosely  understood as a specifc way of quantifying and presenting performance comparisons (Werron  &amp; Ringel,[ 2017)](#page-12-0), rankings can nowadays be found in an increasing number of sectors, at any
+</text>
+
+<text page="1" section="**Blunt facts?**" source="author" id="/page/0/Text/10">
+* Jelena Brankovic  jelena.brankovic@uni-bielefeld.de Julian Hamann  julian.hamann@hu-berlin.de Leopold Ringel  leopold.ringel@uni-bielefeld.de
+</text>
+
+<list page="1" section="**Blunt facts?**" source="author" id="/page/0/ListGroup/144">
+- ^(1) Faculty of Sociology, Bielefeld University, Universitätsstraße 25, 33615 Bielefeld, Germany
+- ^(2) Department of Educational Sciences, Humboldt-Universität zu Berlin, Unter den Linden 6,  10099 Berlin, Germany
+</list>
+
+<figure page="1" section="**Blunt facts?**" source="author" id="/page/0/Picture/13" image="A1.R08_fig02.jpg">[FIGURE: see A1.R08_fig02.jpg]</figure>
+
+</page>
+<page number="2">
+<text page="2" section="**Blunt facts?**" source="author" id="/page/1/Text/2">
+level, from local to global. Nation-states, businesses, cities, restaurants, and artists are  among the many entities whose performances are regularly compared, quantifed and rankordered. Not only are rankings becoming more common and in some cases quite salient,  but they are also becoming more diverse and elaborate, and some of them notably resourceintensive to produce and sustain. At the same time, keeping track of the latest rankings  results, and not least of the requirements for participation and data submission, has become  ever  more demanding. And in some domains, rankings have become ubiquitous to such  an extent that they are now an object of a sustained interest of both key stakeholders and  scholars studying it. Higher education is one of those domains.
+</text>
+
+<text page="2" section="**Blunt facts?**" source="author" id="/page/1/Text/3">
+Rankings of higher education institutions, whether we refer to them as college or  university rankings, have been around for more than a century (Hammarfelt et al., [2017;](#page-11-0) Myers &amp; Robe,[ 2009](#page-11-1)). But despite this long history, it was not before the 1980s and the frst  editions of college rankings published by *US News &amp; World Report* that rankings attained  the status of a phenomenon beyond narrow policy and otherwise specialized circles, in  the United States at least (Espeland &amp; Sauder, [2007](#page-10-0)). In a somewhat similar fashion, the  frst so-called global rankings of universities in the early 2000s would prompt worldwide  interest, efectively making them a hotly debated topic across policy, administrative, and  scholarly circles (Brankovic et al., [2022;](#page-10-1) O'Connell, [2013](#page-11-2); Paradeise &amp; Filliatreau, [2016](#page-11-3)).  About a decade later, Sarah Amsler would observe:
+</text>
+
+<text page="2" section="**Blunt facts?**" source="author" id="/page/1/Text/4">
+We are drowning in words about rankings: how they emerged, how to design them,  how to theorize them, their classifcations and comparisons, the extent of their  efectiveness for diferent purposes, why to critique them, why to defend them,  improvements that will make them methodologically robust, etc. Writing about  rankings has become a global business. *What more can possibly be said?* (Amsler,  [2014](#page-9-0), p. 155, emphasis added)
+</text>
+
+<text page="2" section="**Blunt facts?**" source="author" id="/page/1/Text/5">
+One could have expected at this point that the scholarly conversation on rankings was  about to reach saturation, leading to a decline in interest and overall attention. However, this  is not what happened. If "writing about rankings," as Amsler put it, was a global business  a decade ago, it seems that the business only grew in the years that followed. Notably,  throughout the second decade of this century, rankings further evolved, became more  complex to produce and maintain, but arguably also more of a business-as-usual in  everyday higher education afairs. By this point, the Academic Ranking of World  Universities (ARWU, also commonly known as the Shanghai ranking), the rankings  produced by Quacquarelli Symonds (QS) and Times Higher Education (THE), and later  also U-Multirank, became common references in higher education management, policy,  and research. And although rankings as such have stopped being inherently newsworthy  for many people in and around higher education, they have continued to make international  and national news world over (Barats, [2020;](#page-10-2) Shahjahan et al., [2022)](#page-12-1). Scholars have kept  writing about them, with even greater intensity it seems[.1](#page-1-0)
+</text>
+
+<text page="2" section="**Blunt facts?**" source="author" id="/page/1/Text/6">
+A striking characteristic of much of the literature on rankings in higher education and especially when it comes to the works published in journals specializing in education,  higher education, and science studies—is that it largely takes rankings for granted. The
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Blunt facts?**" source="author" id="/page/2/Text/2">
+questions such as why and how rankings have become so pervasive are rarely addressed  as an empirical puzzle. Rather, regardless of their attitude toward academic performance  evaluation (critical, neutral, or afrmative), scholars would typically assume that rankings  have origins and drivers beyond higher education, and are loosely connected, sometimes  causally even, with globalization, managerialism, neoliberalism, recent geopolitical, and  other broader trends (e.g., Collins &amp; Park, [2015](#page-10-3); Hazelkorn, [2016](#page-11-4); Locke, [2014](#page-11-5); Lynch,  [2014;](#page-11-6) Peters, [2019)](#page-11-7).[2](#page-2-0)  This writing is often permeated with a sense that rankings were and  still are, one way or the other, inevitable. It is further notable that a great deal of research is  more or less explicitly evaluative and normative: university rankings would be judged—and  often deemed inadequate—for their ftness for purpose, soundness of their methodologies,  transparency, or their performative and other kind of efects on higher education (e.g., see  recent volumes edited by Hazelkorn &amp; Mihut, [2021b](#page-11-8); Stack, [2021;](#page-12-2) Welch &amp; Li, [2021](#page-12-3)).  Without any doubt, the research on rankings to date has greatly contributed to a better  understanding of the dynamics surrounding rankings in higher education. And yet, we  do not seem to be any closer to explaining their ubiquity—and to some extent also their  legitimacy—than we were a decade ago.
+</text>
+
+<text page="3" section="**Blunt facts?**" source="author" id="/page/2/Text/3">
+To address this problem, we propose seeing the proliferation and normalization of  rankings in higher education as part of the larger process of institutionalization (Colyvas  &amp; Jonsson, [2011](#page-10-4)). The very claim that rankings are becoming institutionalized, however  unproblematic it may seem, requires qualifcation. Broadly speaking, and for our purposes  here, we see institutionalization as a process in which a phenomenon, such as rankings,  becomes progressively embedded in a community's belief systems, norms, and practices  (Berger &amp; Luckmann, [1966;](#page-10-5) DiMaggio &amp; Powell, [1983;](#page-10-6) Jepperson, [1991;](#page-11-9) Zucker, [1977](#page-12-4)).  Its existence becomes taken for granted and as such rarely questioned by members of the  community. In suggesting that this could be the case with rankings in higher education,  we do not mean to say that rankings are not criticized or alternatives to existing rankings  are not discussed. What we mean is that even for critical scholars a world without them  may seem too far of. The widespread sentiment shared by proponents and opponents  that rankings are inevitable, in fact, attests that this indeed may be the case. Despite the  ongoing criticism addressed at specifc rankings and their producers, for most actors in  higher education the idea that higher education institutions operate within hierarchies,  based on some notion of quality or performance, seems to be a legitimate one. In view of  such a widespread consensus, it does not surprise that a rank given to a university often  assumes the status of a "blunt fact"—which universities can do little to ignore (Sauder &amp;  Espeland,[ 2009](#page-12-5), p. 77).
+</text>
+
+<text page="3" section="**Blunt facts?**" source="author" id="/page/2/Text/4">
+Observing rankings through the lens of institutionalization, however, does not mean  that the future developments can only take one direction, that is, the one of further or deeper  institutionalization. For institutionalization is, as a rule, an uneven, patchy process, of varying  depth, and not least also a reversible one (Oliver, [1992)](#page-11-10). Therefore, applying the lens of  institutionalization allows us to open up a space for asking questions about the nature of this  process. Doing this would require us to go beyond the issues of rankings' legitimacy as such  and their alignment with higher educations' historical tendency—in some contexts at least—to  vertically diferentiate between higher education institutions based on some notion of quality,  performance, or prestige (Brankovic, [2018;](#page-10-7) Clark, [1983](#page-10-8)). Institutionalization, in particular in  a strong form, would arguably mean that rankings themselves become an institution and are
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Blunt facts?**" source="author" id="/page/3/Text/2">
+as such integrated into the modes of reproduction, and not only "contingent on alignment  with existing cultural and cognitive frames" (Colyvas &amp; Jonsson, [2011,](#page-10-4) p. 45). Neither  taken-for-grantedness nor legitimacy are sufcient conditions for considering rankings as  permanent features of higher education. For this to be the case, the "chronic" (re)production,  legitimation, and maintenance of rankings would need to be also embedded in higher  education's frames, rules, and routines (Colyvas &amp; Jonsson, [2011](#page-10-4); Jepperson, [1991](#page-11-9)).[3](#page-3-0)  By  implication, for the institutionalization of rankings to be considered a process unfolding *on * *a global scale*, this embeddedness would need to be evidenced not only in some parts of  the world, but progressively all over the world. Whether this is indeed happening, and not  least the degree to which it may be happening, is an empirical question whose addressing  requires moving beyond the usual accounts on how and why rankings have become pervasive  in higher education.
+</text>
+
+<text page="4" section="**Blunt facts?**" source="author" id="/page/3/Text/3">
+In examining this process, we start with a simple point: in order to question the  institutionalization of rankings as a social phenomenon, we need to take seriously *both* the  broader social, political, and historical conditions, *and* the conditions specifc to higher  education, and treat them as objects of empirical investigation. From this follows that we  need to observe *not only* the broad institutional developments, *but also* how these shape and  are shaped by the dynamics pertaining to the social-organizational and even individual levels  of the social order (Jepperson &amp; Meyer, [2011](#page-11-11)); and relatedly, not only how rankings difuse,  but also how they "stick" (Colyvas &amp; Jonsson, [2011,](#page-10-4) p. 30). This requires turning our  gaze to the ensemble that possibly fosters the institutionalization of rankings: not only the  organizations producing them, but also policy makers, universities and their administrators,  publishers, researchers, consultants, and many others (as illustrated or empirically shown in,  e.g., Hallett &amp; Ventresca, [2006;](#page-10-10) Scott et al., [2000;](#page-12-6) Zilber, [2002)](#page-12-7), some of whom are possibly  even unaware of their contribution. For us scholars who study rankings, addressing this  question, by defnition, also implies turning the analytical gaze towards ourselves, given that  we too—like those rankings we write (and rant) about—are invested in knowledge claims  about higher education. Last but not least, it means being refexive about our position(s)  as participants in higher education, who are usually employed at the institutions evaluated  by the very rankings we seek to study objectively. This is one way the challenges arising in  researching university rankings could difer from those arising in researching, for example,  rankings of prisons or hospitals: "we" are *both* observers *and* parties concerned.
+</text>
+
+<text page="4" section="**Blunt facts?**" source="author" id="/page/3/Text/4">
+Once we recalibrate our lens for capturing the material and discursive conditions that  undergird rankings, and not least the spatial and temporal ones, it becomes apparent that in  front of us lie not some mysterious and immovable forces, but very real people, processes,  and structures. It is when we start observing interactions, routines, practices, and actors,  and not least how they evolve, that we are in a position to see rankings—and organizational  status hierarchies (re)produced through them—as an artifce whose institutionalization is  not a linear path dependency, but a practical accomplishment that we still know too little  about. The question then becomes how rankings proliferate, persist, and become embedded, which urges us to take a more comprehensive view on the multiplicity of contributing  and potentially entangled factors. As we start treating the ubiquity and legitimacy of rankings as empirical questions, grand narratives such as globalization and neoliberalism while surely important macro-conditions—become in and of themselves unsatisfactory as  standalone explanations.
+</text>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**Continuities, interdependencies, and engagement**" source="author" id="/page/4/SectionHeader/2" level="2">
+## **Continuities, interdependencies, and engagement**
+</heading>
+
+<text page="5" section="**Continuities, interdependencies, and engagement**" source="author" id="/page/4/Text/3">
+The special issue *The Institutionalization of University Rankings: Continuities, Interde**pendencies, Engagement* aims to broaden the burgeoning scholarly conversation on rankings in higher education, specifcally by shifting the attention towards empirical questions  about the underlying conditions of their ubiquity, both in higher education and higher education research. This special issue brings together scholars of diverse backgrounds who  have diferent interests with regards to rankings and higher education. In the spirit of the  journal, they draw from a range of epistemic traditions, including sociology, history, organization and management studies, critical theory, and of course higher education and science studies. The seven articles, each from a diferent angle and with a diferent theoretical  or empirical foci, aim to contribute to a better understanding of what university rankings  are, where they come from, the way they operate, and how they have become increasingly  entangled in the processes and structures of higher education and science.
+</text>
+
+<text page="5" section="**Continuities, interdependencies, and engagement**" source="author" id="/page/4/Text/4">
+In the remainder of this section we organize the contributions along three themes:  continuities, interdependencies, and engagement. Specifcally, these themes draw attention  to (a) how rankings, their relevance, and the purposes and meaning(s) assigned to them  evolve over time (*continuities*); (b) what relationships and structural entanglements emerge  around and keep rankings going (*interdependencies*); and (c) how the institutionalization of  rankings is fostered through the interaction with diferent audiences (*engagement*). These  are not discrete categories and are better viewed as strategies of evidencing the multiplicity  of conditions that enable the sustenance and proliferation of rankings in higher education.  Under each theme, we discuss a selection of articles included in the special issue, whereby  we highlight how each connects to continuity, interdependencies, or engagement. Notably,  and as we show later on, none of the articles is limited to one theme, as they are all standalone works that make their own contributions to the study of rankings, which also  go  beyond this special issue. We proceed by discussing each theme in turn.
+</text>
+
+
+<heading page="5" section="**Continuities**" source="author" id="/page/4/SectionHeader/5" level="3">
+### **Continuities**
+</heading>
+
+<text page="5" section="**Continuities**" source="author" id="/page/4/Text/6">
+There is a tendency in the literature to narrate the history of college and university rankings as a succession of events, usually centering on the publication of various "successful"  rankings and their respective methodologies (e.g., Hazelkorn &amp; Mihut, [2021a](#page-11-12); Myers &amp;  Robe, [2009](#page-11-1); Usher, [2017)](#page-12-8). Paired with the enduring interest in the efects, this tendency  has led to foregrounding certain rankings, in particular the more recent ones, at the expense  of the context in which present and past rankings were produced and the circumstances that  enabled (or impeded) their impacts. However, left unchecked, this tendency carries with  itself a risk of promoting narratives of history that are overly deterministic and too simplifed. Furthermore, taking specifc historical events and neatly delineated eras for granted,  instead of questioning them, could easily magnify change and novelty at the expense of  continuity and more gradual transitions. After all, questioning the institutionalization of  rankings requires a better understanding of not only why some rankings succeed or perish, in the sense given above, but also appreciating the historical contingencies in their  evolution.
+</text>
+
+<text page="5" section="**Continuities**" source="author" id="/page/4/Text/7">
+A striking example of a continuous and gradually intensifying interest in rankings  stretching over many decades is found in the history of rankings in the United States. In their  contribution, titled "The emergence of university rankings: a historical-sociological account,"
+</text>
+
+<figure page="5" section="**Continuities**" source="author" id="/page/4/Picture/8" image="A1.R08_fig03.jpg">[FIGURE: see A1.R08_fig03.jpg]</figure>
+
+</page>
+<page number="6">
+<text page="6" section="**Continuities**" source="author" id="/page/5/Text/2">
+Wilbers and Brankovic [(2021)](#page-12-9) take a closer look at this process, with the aim to better  understand the circumstances under which ranking universities based on repeated  observations became a widely accepted method of discussing quality and excellence. The  authors argue that the increasing attention to rankings during the 1960s and 1970s—across  administrative, policy, and scientifc circles—was possible in large part due to a shift in the  understanding of what it meant to perform as a university. The crux of this understanding,  which found a ftting expression in the zero-sum ranking table, is that the performance of one  organization can be determined only in relation to the performances of other organizations.  By casting light on the often-neglected developments during the 1960s and 1970s, the article  also contributes to a fuller understanding of the historical context leading to the 1980s—the  decade in which *US News &amp; World Report *would emerge on the college ranking scene.
+</text>
+
+<text page="6" section="**Continuities**" source="author" id="/page/5/Text/3">
+China is a somewhat contrasting case. Here, too, we see a prolonged interest in rankings,  but pursued chiefy by the country's central government. In their article "The politics of university rankings in China," Ahlers and Christmann-Budian [(2023](#page-9-1)) argue that in the case of  China, university rankings are an organic part of the state's top-down science, technology, and  innovation policy structure, rather than a tool primarily for international comparison, as it is  sometimes portrayed. Since the frst national ranking published by the ministry for science and  technology in the 1980s, via the frst international ranking by Shanghai Jiao Tong University  in the early 2000s, until today, the discourse on rankings in China has been largely shaped by  national concerns. Western rankings and other performance indicators would be increasingly  challenged, also on the grounds that they are not sufciently relevant for the Chinese context.  Ahlers and Christmann-Budian conclude that, unlike most countries in which international  rankings tend to exert a more direct infuence on universities, in China, this efect has always  been thickly mediated by its government's strategic interest in higher education and science which long precedes the frst global rankings.
+</text>
+
+<text page="6" section="**Continuities**" source="author" id="/page/5/Text/4">
+While both articles speak to continuities, they are also revealing of the interdependencies between those credited with producing a ranking and other parties contributing to it,  including their supporters, sponsors, and critics, thus a more nuanced picture of what makes  a ranking—and its efect(s)—possible and indeed likely. Clearly, and as the two cases also  illustrate, the constellation of actors and the nature of their involvement vary across countries  as well as over time. This, however, complicates the usual understanding of agency when it  comes to university rankings, in which the role of the so-called "rankers" tends to be overdramatized. Yet, as we shall argue in the following section, considering agency as distributed  rather than unitary has potentially much to ofer to the study of rankings.
+</text>
+
+
+<heading page="6" section="**Interdependencies**" source="author" id="/page/5/SectionHeader/5" level="3">
+### **Interdependencies**
+</heading>
+
+<text page="6" section="**Interdependencies**" source="author" id="/page/5/Text/6">
+The best-known university rankings nowadays are complex undertakings. To produce a  ranking, major ranking  organizations rely on continuous participation of multiple third  parties, including universities, their administrative staf, and individual faculty members.  Universities supplying data or academics completing reputation surveys are examples of  this participation. The complexity becomes evident also when we observe that rankers are  embedded in an increasingly dense network of organizations that collect, supply, and compile  data for various rankings (Chen &amp; Chan, [2021](#page-10-12); Krüger, [2020;](#page-11-13) Williamson, [2021)](#page-12-10). Finally,  the complexity is evident from the fact that some rankers are engaged in a host of additional  and supplementary activities: for instance, they organize events, sell consulting services to  universities and governments, and actively engage with various other audiences. However,  research tends to treat rankings as almost exclusively a doing of the organizations owning
+</text>
+
+<figure page="6" section="**Interdependencies**" source="author" id="/page/5/Picture/7" image="A1.R08_fig04.jpg">[FIGURE: see A1.R08_fig04.jpg]</figure>
+
+</page>
+<page number="7">
+<text page="7" section="**Interdependencies**" source="author" id="/page/6/Text/2">
+major rankings, such as THE and QS, whereby the role and agency of other actors, such as  that of higher education institutions, are often neglected (as also recently argued by Locke,  [2021)](#page-11-14). Understanding how rankings become (or do not become) institutionalized requires  broadening this scope by, among others, paying close notice to distributed agencies and  therefore interdependencies between rankers and other actors in higher education.
+</text>
+
+<text page="7" section="**Interdependencies**" source="author" id="/page/6/Text/3">
+In their study "The power in managing numbers: changing interdependencies and the rise  of ranking expertise," Chun and Sauder [(2022)](#page-10-13) investigate universities' ranking management  departments in South Korea. The authors note that these units have become increasingly  infuential because they have turned the management of rankings within and across universities into a valuable new form of expertise. This new kind of expertise, the authors argue, has  reshaped key interdependencies both within universities and between universities and external constituents, and has further led to a change in work routines and new organizational  practices. Drawing on the insights from their study, Chun and Sauder challenge the usual line  of argument in which rankings are credited with generating competition by calling attention  to how they also lead to new forms of cooperation. They thus conclude:
+</text>
+
+<text page="7" section="**Interdependencies**" source="author" id="/page/6/Text/4">
+A key recipe for successful rankings is to incorporate multiple actors to collectively  build expertise in the management of rankings. Rankings maintain and extend their  infuence over higher education through proliferating relational ties and interdependencies among universities, rankings, and other external parties. (Chun &amp; Sauder,  [2022](#page-10-13), p. 17).
+</text>
+
+<text page="7" section="**Interdependencies**" source="author" id="/page/6/Text/5">
+Interdependencies often arise in relation to resources, which are especially important  to consider in the case of commercially driven ranking organizations. In addition to playing  the role of impartial arbiters in creating rankings of higher education institutions, these  organizations also act as businesses who sell services to those same institutions, including  advertising and consulting. In his contribution to the special issue, titled "Does confict of  interest distort global university rankings?" Igor Chirikov [(2022](#page-10-14)) tackles the relationship  between these two roles. He sets out to empirically determine whether a confict of interest  leads to privileging certain universities over others by examining the efect of the universities  in Russia contracting with QS on ranking outcomes. The fndings suggest that, regardless of  changes in the institutional characteristics, the universities with frequent QS-related contracts  did improve their respective ranks more than their competitors. Similar to the recent study by  Jacqmin ([2021](#page-11-15)), in which the author analyzes the relationship between advertising on THE  website and THE rankings, Chirikov's work urges us to pay closer attention to the nature of  linkages and (inter)dependencies that emerge between ranking organizations, higher education  institutions, and other parties directly and indirectly involved in sustaining rankings.
+</text>
+
+<text page="7" section="**Interdependencies**" source="author" id="/page/6/Text/6">
+As both Chun and Sauder's and Chirikov's studies demonstrate, rankings are made  possible through an ongoing collaboration and cooperation between diferent parties,  whose interests and orientations are variously aligned. In his contribution to the special  issue, "How university rankings are made through globally coordinated action: a  transnational institutional ethnography in the sociology of quantifcation," Gary Barron  ([2022)](#page-10-15) is specifcally concerned with the distributed nature of the production of rankings.  He conceptualizes data and infrastructure work across sites as globally coordinated action,  whereby individual members of academic and administrative staf become a part of that  infrastructure, as they work with the data on an ongoing basis across countless physical  sites. Barron notes that the contribution of higher education institutions to the production  of rankings is not uniform; rather, it assumes diferent modalities, which center on  individuals and organizational units doing routine work, often without having a full grasp  of the overarching network of relationships of which they make a vital part.
+</text>
+
+<figure page="7" section="**Interdependencies**" source="author" id="/page/6/Picture/7" image="A1.R08_fig05.jpg">[FIGURE: see A1.R08_fig05.jpg]</figure>
+
+</page>
+<page number="8">
+<text page="8" section="**Interdependencies**" source="author" id="/page/7/Text/2">
+Studying interdependencies, and not least how they evolve, holds promise for improving  our understanding not only of how rankings produce new relationships in higher education,  but also how they strengthen and transform existing ones. The importance of relationships  between actors has also been recognized in the recent work by Engwall, Edlund, and  Wedlin ([2023)](#page-10-16) on the spread of evaluations, including rankings, in academia, and the  work by Brankovic, Ringel, and Werron ([2022)](#page-10-1) on the role of boundary work in the  legitimation of university rankings. Moreover, one can easily see the relevance of studying  interactional and relational dynamics for advancing our understanding of continuities visà-vis rankings, and history more generally. And, as we shall see in the following section,  interdependencies are not only structural but also very much discursive and even actively  initiated and sustained by rankers and their audiences.
+</text>
+
+
+<heading page="8" section="**Engagement**" source="author" id="/page/7/SectionHeader/3" level="3">
+### **Engagement**
+</heading>
+
+<text page="8" section="**Engagement**" source="author" id="/page/7/Text/4">
+One important aspect of rankings is the fact that they are a *public* comparison of performances (Brankovic et  al., [2018)](#page-10-17). Even though this has been highlighted in some of the  classic works on the subject (e.g., Espeland &amp; Sauder, [2007](#page-10-0)), research largely takes the  public character of rankings for granted. Hence, what precisely follows from it is not well  understood. Upon closer observation, we note that, as a function of their public character,  rankings engage with various expert and non-expert audiences for which they serve—or  are believed to serve—diferent needs. As diferent as these audiences are, what they have  in common is that they need, or are perceived as being in need of, orientation, legitimation,  or status signals (Esposito &amp; Stark, [2019;](#page-10-18) Hamann &amp; Schmidt-Wellenburg,[ 2020](#page-10-19)). Yet how  rankings invoke, engage, and infuence their audiences, and how this engagement contributes to or challenges their institutionalization, is something we have very little insight into.
+</text>
+
+<text page="8" section="**Engagement**" source="author" id="/page/7/Text/5">
+Reaching out to and catering for various audiences has always marked rankers' eforts  to secure attention and legitimacy. The growing importance of social media in public life  has made it an attractive space for various organizations to, on the one hand, promote  their causes, services, or products and, on the other, foster engagement across diverse  audiences. In their article "The 'LOOMING DISASTER' for higher education: how  commercial rankers use social media to amplify and foster afect," Riyad Shahjahan,  Adam Grimm, and Ryan Allen [(2021](#page-12-11)) critically examine the social media activities of  THE and QS. Analyzing THE's Twitter feed and QS' Facebook page, the authors show  how these organizations use storytelling to frame and sell their products and services.  Both organizations, the authors fnd, use social media platforms to mobilize collective  emotional states and actions, in particular precarity that comes with feelings of  uncertainty, insecurity, anxiety, and/or competition. The article highlights social media's  uniqueness as afective infrastructure, given its cost-efectiveness, ease of consumption,  the broad and quick outreach it allows, and not least its interactive nature.
+</text>
+
+<text page="8" section="**Engagement**" source="author" id="/page/7/Text/6">
+In their contribution "The discursive resilience of university rankings," Hamann and  Ringel ([2023)](#page-11-16) survey the discursive environment of rankings and distinguish two modes  of critique: a rather fundamental mode that draws attention to the negative efects of rankings, and a more technical mode that is concerned with their methodological shortcomings.  Rankers either counter this criticism and ofer alternative narratives, or confdently highlight rankings' scientifc profciency and stress that rankings are always to be developed  and improved further. Crucially, the confdent responses to criticism also include attempts  to engage critics, inviting them into a productive conversation about how rankings could be  developed further. The ensuing and seemingly never-ending conversation between rankers
+</text>
+
+<figure page="8" section="**Engagement**" source="author" id="/page/7/Picture/7" image="A1.R08_fig06.jpg">[FIGURE: see A1.R08_fig06.jpg]</figure>
+
+</page>
+<page number="9">
+<text page="9" section="**Engagement**" source="author" id="/page/8/Text/2">
+and critics about how to arrive at more rigorous assessments helps bestow university rankings with what the authors refer to as "discursive resilience." The contribution emphasizes  not only that critique is an important element of the institutionalization of university rankings, but, in a general sense, also sensitizes for discursive dynamics that emerge organically and therefore unfold "behind the backs" of rankers and their critics..
+</text>
+
+<text page="9" section="**Engagement**" source="author" id="/page/8/Text/3">
+Both contributions bring to the fore the importance of the digital sphere as a site of engagement and interaction, in particular social media, which have so far not attracted much interest  from research on rankings (for some exceptions, see Lim, [2021](#page-11-17); Stack, [2016](#page-12-12)). Rankers seem  to take their social media and other types of online engagement quite seriously, which urges  us to look beyond their ranking tables if we are to grasp a fuller picture of how a particular  efect is produced. The recent study by Hansen and Van den Bossche ([2022)](#page-11-18), which tracks rhetorical change in the Times Higher Education's rankings coverage, vividly captures how subtle  yet potent this efect can be. Altogether, these insights indicate that dynamics in the public  domain—whether digital, in print or in person—are worth observing when asking questions  about how rankers invoke, engage, and infuence their audiences.
+</text>
+
+
+<heading page="9" section="**What more can possibly be said?**" source="author" id="/page/8/SectionHeader/4" level="2">
+## **What more can possibly be said?**
+</heading>
+
+<text page="9" section="**What more can possibly be said?**" source="author" id="/page/8/Text/5">
+The overarching takeaway of the special issue is that *the institutionalization of rankings is * *driven not only by macro-societal trends, but also by the ongoing engagement in multiple are**nas and spheres between diferent parties, both inside and outside of higher education*. How this  plays out, however, has not been made an object of sustained empirical or theoretical interest in  higher education studies, in particular not on a par with the amount of interest in describing and  interpreting the efects or methodologies of rankings. We therefore wish to reiterate that, if we  are to better understand how rankings in higher education become a taken-for-granted social  fact, as well as how their taken-for-grantedness is challenged, greater theoretical and empirical  attention is needed to the dynamics pertaining to the social-organizational and individual levels  of the social order. We propose that this attention is directed to the questions that concern continuities, interdependencies, and audience engagement.
+</text>
+
+<text page="9" section="**What more can possibly be said?**" source="author" id="/page/8/Text/6">
+The collection of articles included in the issue is a step in the direction of what we see  as an important theoretical and empirical challenge. As we noted, the three themes are not  mutually exclusive, nor do the contributions to the special issue shed light only on one at  a time. Rather, they closely relate to each other and are very much intertwined. And so,  as rankings evolve, they shape and reshape interdependencies between actors and take up  expectations of diferent audiences. Continuity is, after all, another way of acknowledging  at least some degree of path dependency at work. Rankings build resilience in part because  their engagement of diferent audiences is ongoing and gradually normalized and in part  because their production is the work of many diverse actors, who repeatedly contribute  to the collective endeavor, from one ranking cycle to the next. These considerations merit  further investigation. Ultimately, as with the study of institutionalization processes more  generally, puzzling over the institutionalization of rankings equally invites us to consider  the temporal *and* the spatial, the material *and* the discursive.
+</text>
+
+<text page="9" section="**What more can possibly be said?**" source="author" id="/page/8/Text/7">
+Echoing the calls made by some of the authors in the special issue, we believe that there  is a great deal we can learn about rankings by systematically comparing continuities, interdependencies, and engagement in diferent parts of the world and at diferent levels. Comparative studies have so far advanced our understanding of a range of phenomena in higher
+</text>
+
+<figure page="9" section="**What more can possibly be said?**" source="author" id="/page/8/Picture/8" image="A1.R08_fig07.jpg">[FIGURE: see A1.R08_fig07.jpg]</figure>
+
+</page>
+<page number="10">
+<text page="10" section="**What more can possibly be said?**" source="author" id="/page/9/Text/2">
+education (Kosmützky &amp; Nokkala, [2014;](#page-11-19) Kosmützky et al., [2020](#page-11-20); Teichler, [2014)](#page-12-13). And they  hold good promise for unraveling the antecedents and consequences of continuities, but also  of discontinuities; interdependencies and the absence thereof; and, fnally, engagement as well  as disengagement. Furthermore, there is a lot to be learned about rankings in higher education by extending our scope and comparing them with the institutionalization of other devices  of evaluation (Hamann et al., [2023](#page-11-21)). But comparative research need not be limited to higher  education and can take into account rankings in other domains (for an illustration, see Brankovic et al., [2021](#page-10-20)). After all, we should not forget that rankings in higher education (and higher  education as such, for that matter) are part of a larger societal feld in which various quantitative indicators have come to wield signifcant infuence in recent years (de Rijcke et al.,  [2016](#page-10-21); Erkkilä &amp; Piironen, [2018](#page-10-22); Mennicken &amp; Espeland,[ 2019;](#page-11-22) Pardo-Guerra,[ 2022)](#page-11-23). In view  of this, empirically identifed similarities and diferences between rankings and other kinds of  quantifcation-based comparisons—within and beyond higher education—could be fruitfully  exploited for the purpose of furthering our understanding of rankings in higher education.
+</text>
+
+<text page="10" section="**What more can possibly be said?**" source="author" id="/page/9/Text/3">
+In closing, we hope that this special issue would deepen our collective appreciation of the complexity of rankings as a social phenomenon and inspire those working  on the topic to consider some of the perspectives and insights herewith offered. We  equally hope that this issue would stimulate us all to further question the taken-forgrantedness of rankings in higher education as well as in higher education research.  Not because we believe that rankings are all bad or harmful (if this were indeed so,  things would be, we suspect, far simpler), but because it is our task as scholars to  question everything in society, including—and perhaps especially—our own assumptions and beliefs.
+</text>
+
+<text page="10" section="**What more can possibly be said?**" source="author" id="/page/9/Text/4">
+**Acknowledgements** We wish to thank all the authors who have contributed to this special issue. None of it  would have been possible without their ideas, work, and patience. The issue would, of course, have neither  been possible without all the work put in it by the reviewers, and the support and guidance of the Editors-in-Chief of *Higher Education* throughout the process. All errors are our own.
+</text>
+
+<text page="10" section="**What more can possibly be said?**" source="author" id="/page/9/Text/5">
+**Funding** Open Access funding enabled and organized by Projekt DEAL.
+</text>
+
+
+<heading page="10" section="**Declarations**" source="author" id="/page/9/SectionHeader/6" level="2">
+## **Declarations**
+</heading>
+
+<text page="10" section="**Declarations**" source="author" id="/page/9/Text/7">
+**Confict of interest** The authors declare no competing interests.
+</text>
+
+<text page="10" section="**Declarations**" source="author" id="/page/9/Text/8">
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License,  which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long  as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article  are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the  material. If material is not included in the article's Creative Commons licence and your intended use is not  permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly  from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+</text>
+
+
+<heading page="10" section="**References**" source="author" id="/page/9/SectionHeader/9" level="2">
+## **References**
+</heading>
+
+<text page="10" section="**References**" source="author" id="/page/9/Text/10">
+Ahlers, A. L., &amp; Christmann-Budian, S. (2023). The politics of university rankings in China. *Higher Educa**tion*.[ https://link.springer.com/article/10.1007/s10734-023-01014-y](https://link.springer.com/article/10.1007/s10734-023-01014-y)
+</text>
+
+<text page="10" section="**References**" source="author" id="/page/9/Text/11">
+Amsler, S. S. (2014). University ranking: A dialogue on turning towards alternatives. *Ethics in Science and * *Environmental Politics,* *13*(2), 155–166.[ https://doi.org/10.3354/esep00136](https://doi.org/10.3354/esep00136)
+</text>
+
+<figure page="10" section="**References**" source="author" id="/page/9/Picture/12" image="A1.R08_fig08.jpg">[FIGURE: see A1.R08_fig08.jpg]</figure>
+
+</page>
+<page number="11">
+<list page="11" section="**References**" source="author" id="/page/10/ListGroup/278">
+- Barats, C. (2020). Dissemination of international rankings: Characteristics of the media coverage of the  Shanghai Ranking in the French press. *Palgrave Communications,* *6*(1), Article 1. [https://doi.org/10.](https://doi.org/10.1057/s41599-020-0440-5) [1057/s41599-020-0440-5](https://doi.org/10.1057/s41599-020-0440-5)
+- Barron, G. R. S. (2022). How university rankings are made through globally coordinated action: A transnational institutional ethnography in the sociology of quantifcation. *Higher Education*. [https://doi.](https://doi.org/10.1007/s10734-022-00903-y) [org/10.1007/s10734-022-00903-y](https://doi.org/10.1007/s10734-022-00903-y)
+- Berger, P. L., &amp; Luckmann, T. (1966). *The Social Construction of Reality: A Treatise in the Sociology of * *Knowledge*. Anchor Books.
+- Brankovic, J. (2018). The status games they play: Unpacking the dynamics of organisational status competition in higher education. *Higher Education,* *75*(4), 695–709. [https://doi.org/10.1007/](https://doi.org/10.1007/s10734-017-0169-2) [s10734-017-0169-2](https://doi.org/10.1007/s10734-017-0169-2)
+- Brankovic, J., Ringel, L., &amp; Werron, T. (2018). How rankings produce competition: The case of  global university rankings. *Zeitschrift für Soziologie,* *47*(4), 270–288. [https://doi.org/10.1515/](https://doi.org/10.1515/zfsoz-2018-0118) [zfsoz-2018-0118](https://doi.org/10.1515/zfsoz-2018-0118)
+- Brankovic, J., Ringel, L., &amp; Werron, T. (2021). Theorizing University Rankings by Comparison: Systematic and historical analogies with arts and sports. In E. Hazelkorn &amp; G. Mihut (Eds.), *Research * *Handbook on University Rankings: History, Methodology, Infuence and Impact* (pp. 67–79).  Edward Elgar Publishing. [https://doi.org/10.4337/9781788974981.00013](https://doi.org/10.4337/9781788974981.00013)
+- Brankovic, J., Ringel, L., &amp; Werron, T. (2022). Spreading the gospel: Legitimating university rankings  as boundary work. *Research Evaluation*, rvac035.[ https://doi.org/10.1093/reseval/rvac035](https://doi.org/10.1093/reseval/rvac035)
+- Chen, G., &amp; Chan, L. (2021). University Rankings and Governance by Metrics and Algorithms. In E.  Hazelkorn &amp; G. Mihut (Eds.), *Research Handbook on University Rankings: Theory, Methodology, * *Infuence and Impact*. Edward Elgar Publishing. [https://doi.org/10.5281/zenodo.4730593](https://doi.org/10.5281/zenodo.4730593)
+- Chirikov, I. (2022). Does confict of interest distort global university rankings? *Higher Education*.  [https://doi.org/10.1007/s10734-022-00942-5](https://doi.org/10.1007/s10734-022-00942-5)
+- Chun, H., &amp; Sauder, M. (2022). The power in managing numbers: Changing interdependencies and the  rise of ranking expertise. *Higher Education*. [https://doi.org/10.1007/s10734-022-00823-x](https://doi.org/10.1007/s10734-022-00823-x)
+- Clark, B. R. (1983). The Higher Education System: Academic Organization in Cross-National Perspective. University of California Press.
+- Collins, F. L., &amp; Park, G.-S. (2015). Ranking and the multiplication of reputation: Refections from  the frontier of globalizing higher education. *Higher Education,* *72*(1), 115–129. [https://doi.org/10.](https://doi.org/10.1007/s10734-015-9941-3) [1007/s10734-015-9941-3](https://doi.org/10.1007/s10734-015-9941-3)
+- Colyvas, J. A., &amp; Jonsson, S. (2011). Ubiquity and Legitimacy: Disentangling Difusion and Institutionalization. *Sociological Theory,* *29*(1), 27–53.
+- de Rijcke, S., Wallenburg, I., Wouters, P., &amp; Bal, R. (2016). Comparing Comparisons. On Rankings and  Accounting in Hospitals and Universities. In J. Deville, M. Guggenheim, &amp; Z. Hrdličková (Eds.),  *Practising Comparison: Logics, Relations, Collaborations* (pp. 251–280). Mattering Press.
+- DiMaggio, P. J., &amp; Powell, W. W. (1983). The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields. *American Sociological Review,* *48*(2), 147–160.
+- Elken, M., &amp; Stensaker, B. (2018). Conceptualising 'quality work' in higher education. *Quality in * *Higher Education,* *24*(3), 189–202.[ https://doi.org/10.1080/13538322.2018.1554782](https://doi.org/10.1080/13538322.2018.1554782)
+- Engwall, L., Edlund, P., &amp; Wedlin, L. (2023). Who is to blame? Evaluations in academia spreading  through relationships among multiple actor types. *Social Science Information*. [https://doi.org/10.](https://doi.org/10.1177/05390184221146476) [1177/05390184221146476](https://doi.org/10.1177/05390184221146476)
+- Erkkilä, T., &amp; Piironen, O. (2018). *Rankings and Global Knowledge Governance: Higher Education*.  Palgrave Macmillan.[ https://doi.org/10.1007/978-3-319-68941-8](https://doi.org/10.1007/978-3-319-68941-8)
+- Espeland, W. N., &amp; Sauder, M. (2007). Rankings and Reactivity: How Public Measures Recreate Social  Worlds. *American Journal of Sociology,* *113*(1), 1–40.
+- Esposito, E., &amp; Stark, D. (2019). What's Observed in a Rating? Rankings as Orientation in the Face of  Uncertainty. *Theory, Culture and Society,* *36*(4), 3–26.[ https://doi.org/10.1177/0263276419826276](https://doi.org/10.1177/0263276419826276)
+- Gelber, S. M. (2020). Grading the College: A History of Evaluating Teaching and Learning. JHU Press.  [https://jhupbooks.press.jhu.edu/title/grading-college](https://jhupbooks.press.jhu.edu/title/grading-college)
+- Hallett, T., &amp; Ventresca, M. J. (2006). Inhabited Institutions: Social Interactions and Organizational  Forms in Gouldner's Patterns of Industrial Bureaucracy. *Theory and Society,* *35*(2), 213–236.  [https://doi.org/10.1007/s11186-006-9003-z](https://doi.org/10.1007/s11186-006-9003-z)
+- Hamann, J., &amp; Schmidt-Wellenburg, C. (2020). The double function of rankings: Consecration and dispositif in transnational academic felds. In C. Schmidt-Wellenburg &amp; S. Bernhard (Eds.), *Charting * *Transnational Fields: Methodology for a Political Sociology of Knowledge*. Routledge. [https://doi.](https://doi.org/10.4324/9780429274947) [org/10.4324/9780429274947](https://doi.org/10.4324/9780429274947)
+</list>
+
+<figure page="11" section="**References**" source="author" id="/page/10/Picture/25" image="A1.R08_fig09.jpg">[FIGURE: see A1.R08_fig09.jpg]</figure>
+
+</page>
+<page number="12">
+<list page="12" section="**References**" source="author" id="/page/11/ListGroup/290">
+- Hamann, J., Blome, F., &amp; Kosmützky, A. (2023). Devices of evaluation: Institutionalization and impact  – Introduction to the special issue. *Research Evaluation*.
+- Hamann, J., &amp; Ringel, L. (2023). The discursive resilience of university rankings. *Higher Education*.  [https://doi.org/10.1007/s10734-022-00990-x](https://doi.org/10.1007/s10734-022-00990-x)
+- Hammarfelt, B., de Rijcke, S., &amp; Wouters, P. (2017). From Eminent Men to Excellent Universities:  University Rankings as Calculative Devices. *Minerva,* *55*(4), 391–411. [https://doi.org/10.1007/](https://doi.org/10.1007/s11024-017-9329-x) [s11024-017-9329-x](https://doi.org/10.1007/s11024-017-9329-x)
+- Hansen, M., &amp; Van den Bossche, A. (2022). From newspaper supplement to data company: Tracking rhetorical change in the Times Higher Education's rankings coverage. *Poetics*, *92*, 101637.[ https://doi.org/](https://doi.org/10.1016/j.poetic.2021.101637) [10.1016/j.poetic.2021.101637](https://doi.org/10.1016/j.poetic.2021.101637)
+- Hazelkorn, E. (2016). Introduction: The geopolitics of rankings. In E. Hazelkorn (Ed.), *Global Rankings * *and the Geopolitics of Higher Education: Understanding the infuence and impact of rankings on * *higher education, policy and society* (pp. 1–20). Routledge.
+- Hazelkorn, E., &amp; Mihut, G. (Eds.). (2021). *Research Handbook on University Rankings: Theory, Methodol**ogy*. Edward Elgar Publishing.
+- Hazelkorn, E., &amp; Mihut, G. (2021). Introduction: Putting rankings in context - looking back, looking forward. In E. Hazelkorn &amp; G. Mihut (Eds.), *Research Handbook on University Rankings: Theory, Meth**odology, Infuence and Impact* (pp. 1–17). Edward Elgar Publishing.
+- Jacqmin, J. (2021). Do ads infuence rankings? Evidence from the higher education sector. *Education Eco**nomics,* *29*(5), 509–526. [https://doi.org/10.1080/09645292.2021.1918642](https://doi.org/10.1080/09645292.2021.1918642)
+- Jepperson, R. L. (1991). Institutions, institutional efects, and institutionalization. In W. W. Powell &amp; P. J.  DiMaggio (Eds.), *The New Institutionalism in Organizational Analysis* (pp. 143–163). University of  Chicago Press.
+- Jepperson, R. L., &amp; Meyer, J. W. (2011). Multiple Levels of Analysis and the Limitations of Methodological  Individualisms. *Sociological Theory,* *29*(1), 54–73.[ https://doi.org/10.1111/j.1467-9558.2010.01387.x](https://doi.org/10.1111/j.1467-9558.2010.01387.x)
+- Kosmützky, A., &amp; Nokkala, T. (2014). Challenges and trends in comparative higher education: An editorial.  *Higher Education,* *67*(4), 369–380. [https://doi.org/10.1007/s10734-013-9693-x](https://doi.org/10.1007/s10734-013-9693-x)
+- Kosmützky, A., Nokkala, T., &amp; Diogo, S. (2020). Between context and comparability: Exploring new solutions for a familiar methodological challenge in qualitative comparative research. *Higher Education * *Quarterly,* *74*(2), 176–192.[ https://doi.org/10.1111/hequ.12255](https://doi.org/10.1111/hequ.12255)
+- Krüger, A. K. (2020). Quantifcation 2.0? Bibliometric Infrastructures in Academic Evaluation. *Politics and * *Governance,* *8*(2), Article 2.[ https://doi.org/10.17645/pag.v8i2.2575](https://doi.org/10.17645/pag.v8i2.2575)
+- Lim, M. A. (2021). The business of university rankings: The case of Times Higher Education. In E.  Hazelkorn &amp; G. Mihut (Eds.), *Research Handbook on University Rankings: Theory, Methodology, * *Infuence and Impact* (pp. 444–453). Edward Elgar Publishing. [https://doi.org/10.5281/zenodo.47305](https://doi.org/10.5281/zenodo.4730593) [93](https://doi.org/10.5281/zenodo.4730593)
+- Locke, W. (2014). The Intensifcation of Rankings Logic in an Increasingly Marketised Higher Education  Environment. *European Journal of Education,* *49*(1), 77–90.[ https://doi.org/10.1111/ejed.12060](https://doi.org/10.1111/ejed.12060)
+- Locke, W. (2021). Researching and understanding the infuence of rankings on higher education institutions:  Logics, methodologies and conceptualisations. In E. Hazelkorn &amp; G. Mihut (Eds.), *Research Hand**book on University Rankings: Theory, Methodology, Infuence and Impact* (pp. 80–92). Edward Elgar  Publishing.
+- Lynch, K. (2014). New managerialism, neoliberalism and ranking. *Ethics in Science and Environmental * *Politics,* *13*(2), 141–153.[ https://doi.org/10.3354/esep00137](https://doi.org/10.3354/esep00137)
+- Mennicken, A., &amp; Espeland, W. N. (2019). What's New with Numbers? Sociological Approaches to the  Study of Quantifcation. *Annual Review of Sociology,* *45*(1), 223–245. [https://doi.org/10.1146/annur](https://doi.org/10.1146/annurev-soc-073117-041343) [ev-soc-073117-041343](https://doi.org/10.1146/annurev-soc-073117-041343)
+- Myers, L., &amp; Robe, J. (2009). *College Rankings: History, Criticism and Reform*. Center for College Afordability and Productivity. [https://eric.ed.gov/?id=ED536277](https://eric.ed.gov/?id=ED536277)
+- O' Connell, C. (2013). Research Discourses Surrounding Global University Rankings. Exploring the Relationship with Policy and Practice Recommendations. *Higher Education,* *65*(6), 709–723.
+- Oliver, C. (1992). The Antecedents of Deinstitutionalization. *Organization Studies,* *13*(4), 563–588.[ https://](https://doi.org/10.1177/017084069201300403) [doi.org/10.1177/017084069201300403](https://doi.org/10.1177/017084069201300403)
+- Paradeise, C., &amp; Filliatreau, G. (2016). The Emergent Action Field of Metrics: From rankings to altmetrics. In E. Popp Berman &amp; C. Paradeise (Eds.), *The University Under Pressure* (Vol. 46, pp. 87–128).  Emerald Group Publishing Limited.
+- Pardo-Guerra, J. P. (2022). *The Quantifed Scholar: How Research Evaluations Transformed the British * *Social Sciences*. Columbia University Press.
+- Peters, M. A. (2019). Global university rankings: Metrics, performance, governance. *Educational Philoso**phy and Theory,* *51*(1), 5–13.[ https://doi.org/10.1080/00131857.2017.1381472](https://doi.org/10.1080/00131857.2017.1381472)
+</list>
+
+<figure page="12" section="**References**" source="author" id="/page/11/Picture/26" image="A1.R08_fig10.jpg">[FIGURE: see A1.R08_fig10.jpg]</figure>
+
+</page>
+<page number="13">
+<list page="13" section="**References**" source="author" id="/page/12/ListGroup/175">
+- Sauder, M., &amp; Espeland, W. N. (2009). The Discipline of Rankings: Tight Coupling and Organizational  Change. *American Sociological Review,* *74*(1), 63–82.[ https://doi.org/10.1177/000312240907400104](https://doi.org/10.1177/000312240907400104)
+- Scott, W. R., Ruef, M., Mendel, P. J., &amp; Caronna, C. A. (2000). Institutional Change and Healthcare Organizations: From Professional Dominance to Managed Care. University of Chicago Press.
+- Shahjahan, R. A., Grimm, A., &amp; Allen, R. M. (2021). The "LOOMING DISASTER" for higher education:  How commercial rankers use social media to amplify and foster afect. *Higher Education*. [https://doi.](https://doi.org/10.1007/s10734-021-00762-z) [org/10.1007/s10734-021-00762-z](https://doi.org/10.1007/s10734-021-00762-z)
+- Shahjahan, R. A., Bylsma, P. E., &amp; Singai, C. (2022). Global university rankings as 'sticky' objects and  'refrains': Afect and mediatisation in India. *Comparative Education,* *58*(2), 224–241. [https://doi.org/](https://doi.org/10.1080/03050068.2021.1935880) [10.1080/03050068.2021.1935880](https://doi.org/10.1080/03050068.2021.1935880)
+- Stack, M. (2016). Global University Rankings and the Mediatization of Higher Education. Palgrave Macmillan UK.
+- Stack, M. (Ed.). (2021). Global University Rankings and the Politics of Knowledge. University of Toronto  Press. [https://utorontopress.com/us/global-university-rankings-and-the-politics-of-knowledge-4](https://utorontopress.com/us/global-university-rankings-and-the-politics-of-knowledge-4)
+- Teichler, U. (2014). Opportunities and problems of comparative higher education research: The daily life of  research. *Higher Education,* *67*(4), 393–408.[ https://doi.org/10.1007/s10734-013-9682-0](https://doi.org/10.1007/s10734-013-9682-0)
+- Usher, A. (2017). A short global history of rankings. In E. Hazelkorn (Ed.), *Global Rankings and the Geo**politics of Higher Education: Understanding the infuence and impact of rankings on higher educa**tion, policy and society* (pp. 23–53). Routledge.
+- Welch, A., &amp; Li, J. (Eds.). (2021). *Measuring up in higher education: How university rankings and league * *tables are re-shaping knowledge production in the global era*. Palgrave Macmillan. [https://doi.org/10.](https://doi.org/10.1007/978-981-15-7921-9) [1007/978-981-15-7921-9](https://doi.org/10.1007/978-981-15-7921-9)
+- Werron, T., &amp; Ringel, L. (2017). Rankings in a comparative perspective. Conceptual remarks. In S. Lessenich (Ed.), *Geschlossene Gesellschaften. Verhandlungen des 38. Kongresses der Deutschen Gesells**chaft für Soziologie in Bamberg 2016* (pp. 1–10). DGS.
+- Wilbers, S., &amp; Brankovic, J. (2021). The emergence of university rankings: A historical-sociological  account. *Higher Education*.[ https://doi.org/10.1007/s10734-021-00776-7](https://doi.org/10.1007/s10734-021-00776-7)
+- Williamson, B. (2021). Making markets through digital platforms: Pearson, edu-business, and the (e)valuation of higher education. *Critical Studies in Education,* *62*(1), 50–66. [https://doi.org/10.1080/17508](https://doi.org/10.1080/17508487.2020.1737556) [487.2020.1737556](https://doi.org/10.1080/17508487.2020.1737556)
+- Zilber, T. B. (2002). Institutionalization as an Interplay Between Actions, Meanings, and Actors: The Case  of a Rape Crisis Center in Israel. *Academy of Management Journal,* *45*(1), 234–254.[ https://doi.org/10.](https://doi.org/10.5465/3069294) [5465/3069294](https://doi.org/10.5465/3069294)
+- Zucker, L. G. (1977). The Role of Institutionalization in Cultural Persistence. *American Sociological * *Review,* *42*(5), 726–743. [https://doi.org/10.2307/2094862](https://doi.org/10.2307/2094862)
+</list>
+
+<text page="13" section="**References**" source="author" id="/page/12/Text/16">
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and  institutional afliations.
+</text>
+
+<figure page="13" section="**References**" source="author" id="/page/12/Picture/17" image="A1.R08_fig11.jpg">[FIGURE: see A1.R08_fig11.jpg]</figure>
+
+</page>
+</paper>

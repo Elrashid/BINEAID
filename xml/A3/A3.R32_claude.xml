@@ -1,0 +1,441 @@
+<paper source_file="A3.R32" title="" total_pages="14" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R32_fig01.jpg">[FIGURE: see A3.R32_fig01.jpg]</figure>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R32_fig02.jpg">[FIGURE: see A3.R32_fig02.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+**December 2023**
+</text>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/SectionHeader/0" level="1">
+# **STATEMENT OF COMMITMENT**
+</heading>
+
+<figure page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Picture/1" image="A3.R32_fig03.jpg">[FIGURE: see A3.R32_fig03.jpg]</figure>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/2">
+The British University in Dubai (BUiD) was established in  2003 to be the Middle East's leading research-based  university, facilitating world-class education, training and  research. It provides an important and growing community  and resource for young professionals, leading academics,  corporate managers and aspiring leaders of all description.
+</text>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/3">
+BUiD is locally accredited by the Ministry of Education in the  United Arab Emirates and our qualifications are also  recognised internationally by UK ENIC. BUiD has also  achieved global quality accreditation through the Quality  Assurance Agency for Higher Education (QAA). BUiD has  strategic alliance partnerships with UK-based universities,  including the University of Edinburgh, the University of
+</text>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/4">
+Glasgow, and the University of Manchester.
+</text>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/5">
+In 2015, we expressed our commitment to the objectives of the United Nation's Principles for  Responsible Management Education (PRME). This year we renew this commitment to achieve  our objectives, which are similar to yours. We are dedicated to the social and cultural  development of the nation and region, and the creation of a knowledge-based economy. The  University serves market needs by educating high-calibre knowledge-conscious graduates  who have the necessary knowledge and skills to work at senior levels in a range of different  organisations: public; private; from multinational corporations to SMEs.
+</text>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/6">
+Professor Abdullah Alshamsi
+</text>
+
+<text page="2" section="**STATEMENT OF COMMITMENT**" source="author" id="/page/1/Text/7">
+**Vice Chancellor **
+</text>
+
+</page>
+<page number="3">
+
+<heading page="3" section="**Introduction **" source="author" id="/page/2/SectionHeader/0" level="2">
+## **Introduction **
+</heading>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/1">
+The British University in Dubai (BUiD) was established as a not-for-profit entity by law  number 5 in 2003 by His Highness the late Sheikh Maktoum bin Rashid bin Saeed Al  Maktoum, Ruler of Dubai.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/2">
+The University grew out of collaborations between British and Dubai academic, government  and commercial organisations to make a unique contribution to the UAE and the wider  region. The founders of the University are the Al Maktoum Foundation, Dubai Development  and Investment Authority (now Dubai Holding), Rolls-Royce, the British Business Group of  Dubai and the Northern Emirates and Emirates NBD.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/3">
+The University is governed by a Council formed every three years by His Highness Sheikh  Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and  Ruler of Dubai, under the chancellorship of His Highness Sheikh Ahmed bin Saeed Al  Maktoum.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/4">
+The academic support that BUiD enjoys from its alliance with Russell Group universities in  the UK has contributed to its success. These universities include the University of Edinburgh,  the University of Glasgow, and the University of Manchester - all in the world's top 100.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/5">
+BUiD is licensed by the UAE Ministry of Education and our qualifications are also recognised  internationally by UK ENIC. BUiD has achieved global quality accreditation through the  Quality Assurance Agency for Higher Education (QAA). Our internal quality assurance  includes processes that ensure our programmes and students' achievements are of  standards on a par with those of our UK university partners.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/6">
+BUiD offers full- and part-time research-based Doctorate and PhD programmes, Masters  and MBA programmes, and Postgraduate Diplomas, in the fields of education, business, law,  engineering, finance, construction, and Computer science.
+</text>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/7">
+BUiD also offers undergraduate programmes in the fields of computer science, AI,  engineering, finance, business, and law.
+</text>
+
+</page>
+<page number="4">
+
+<heading page="4" section="**BUiD and the Principles**" source="author" id="/page/3/SectionHeader/0" level="1">
+# **BUiD and the Principles**
+</heading>
+
+<text page="4" section="**BUiD and the Principles**" source="author" id="/page/3/Text/1">
+**Principle 1 | Purpose**: We advance responsible management education to foster inclusive  prosperity in a world of thriving ecosystems.
+</text>
+
+<text page="4" section="**BUiD and the Principles**" source="author" id="/page/3/Text/2">
+BUiD supports the UAE's vision of a knowledge-based economy and sustainability; the  University promotes green initiatives, sustainable environments, entrepreneurship,  innovation, and leadership. It has many programmes that incorporate these notions in its  curriculum. All programmes are designed to be research-based to ensure stronger  involvement of the students with society and the real world.
+</text>
+
+<list page="4" section="**BUiD and the Principles**" source="author" id="/page/3/ListGroup/96">
+- The Faculty of Business and Law organised a workshop for the MBA students titled,  'Developing the Leader in You'. The workshop was conducted by Claudine Reid MBE  to discuss leadership topics including, process and skills needed to be a better leader,  types and levels of leadership, and how to handle change.
+- The Faculty of Education at the British University in Dubai hosted a panel session on  teacher's professional values and ethics in multicultural environment. The panellists  shared their reflections from both academic and practitioners' perspectives.
+</list>
+
+<text page="4" section="**BUiD and the Principles**" source="author" id="/page/3/Text/5">
+The university has Community Engagement policy which helps in creating the right  environment for social responsibility. BUiD works on facilitating community access to learning  opportunities and resources wherever possible and welcome all community members to  campus-sponsored activities and events This policy seeks to uphold.
+</text>
+
+<list page="4" section="**BUiD and the Principles**" source="author" id="/page/3/ListGroup/97">
+- The University wishes to demonstrate how higher education institutions operate to  induce positive transformative effects to their community.
+- The University intends that all its staff and students are empowered to mitigate  negative communal impact and take measures to maximise benefits to the local and  wider community.
+</list>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**Principle 2 | Values:** We place organizational responsibility and accountability to society  and the planet at the core of what we do" source="author" id="/page/4/SectionHeader/0" level="2">
+## **Principle 2 | Values:** We place organizational responsibility and accountability to society  and the planet at the core of what we do
+</heading>
+
+<text page="5" section="**Principle 2 | Values:** We place organizational responsibility and accountability to society  and the planet at the core of what we do" source="author" id="/page/4/Text/1">
+In BUiD's Strategic Plan 2019-2024, the University sets its objectives to educate students  regarding the role of leadership, integrity, ethics, and professional engagement. The Plan  empowers students to discover, understand, and communicate how their interests, skills,  values, passions, and their experiences while at BUiD are connected to their future  aspirations.
+</text>
+
+<list page="5" section="**Principle 2 | Values:** We place organizational responsibility and accountability to society  and the planet at the core of what we do" source="author" id="/page/4/ListGroup/136">
+- **In this regard, the University** **has** **planned activities for its students and the larger ** **student body in the country**. Below are some examples:
+- BUiD has organised Sustainability Summer School (BUiD SSS 2023) with the theme  Innovation for a Sustainable Future on 3 July 2023. it is a free event for students where  they get involved in sustainability activities and workshops. Around 40 students has  participated in this year.
+- Pink Day  BUiD students arranged activities to raise awareness on Breast Cancer.
+- Voluntary work  Draw a smile: BUiD students aimed to draw a smile on the faces of  labourers in Dubai by e giving out goodie bags with positive messages in different  languages containing non-perishable items on 7 November 2023.
+- The Faculty of Education at BUiD hosted an open lecture titled, 'Teachers and Inclusion  in Education to Achieve Sustainable Development' on 14 November 2023 by Professor  Chris Forlin, Professorial Research Fellow at the University of Notre Dame in Australia.
+</list>
+
+<text page="5" section="**Principle 2 | Values:** We place organizational responsibility and accountability to society  and the planet at the core of what we do" source="author" id="/page/4/Text/7">
+**BUiD has adopted a Sustainability and Community Engagement Policy since 2012. New ** **polices were created in 2023 **
+</text>
+
+
+<heading page="5" section="**Rationale and Principles which the Sustainability policy seeks to uphold **" source="author" id="/page/4/SectionHeader/8" level="4">
+#### **Rationale and Principles which the Sustainability policy seeks to uphold **
+</heading>
+
+<list page="5" section="**Rationale and Principles which the Sustainability policy seeks to uphold **" source="author" id="/page/4/ListGroup/137">
+- The University recognises that its activities and wider influences have various social,  economic, and environmental impacts, locally and regionally.
+- The University is concerned to account for its social, economic, and environmental  impacts, to mitigate costs and risks, and promote benefits and gains**.**
+</list>
+
+</page>
+<page number="6">
+
+<heading page="6" section="The Policy is to" source="author" id="/page/5/SectionHeader/0" level="3">
+### The Policy is to
+</heading>
+
+<list page="6" section="The Policy is to" source="author" id="/page/5/ListGroup/133">
+- ensure that all sustainability activities align with its mission;
+- ensure that on-going sustainability activities are identified and communicated to staff,  students, and the wider community;
+- ensure that it has access to up-to-date information on environmental legislation and  best practice in order to advise the wider community and make or influence informed  decisions;
+- develop amongst staff and students an appreciation of their role in bringing about  environmental, societal, and economic improvement both as members of the  University community and as members of society at large.
+</list>
+
+
+<heading page="6" section="The University" source="author" id="/page/5/SectionHeader/5" level="4">
+#### The University
+</heading>
+
+<list page="6" section="The University" source="author" id="/page/5/ListGroup/134">
+- In its research, the University will deepen and link areas of distinctive strength in  research that engages sustainability and sustainable action.
+- In its educational programmes the University will prepare students to be engaged  citizens and leaders in the promotion and implementation of sustainable practices in  their communities and professional domains.
+- Faculties and administrative units will generate sustainability practices in accord with  interest, available resources, and opportunity.
+</list>
+
+
+<heading page="6" section="**Principle 3 |** **Teach:** We transform our learning environments by integrating responsible  management concepts and practices into our curriculum and pedagogy." source="author" id="/page/5/SectionHeader/9" level="1">
+# **Principle 3 |** **Teach:** We transform our learning environments by integrating responsible  management concepts and practices into our curriculum and pedagogy.
+</heading>
+
+<text page="6" section="**Principle 3 |** **Teach:** We transform our learning environments by integrating responsible  management concepts and practices into our curriculum and pedagogy." source="author" id="/page/5/Text/10">
+BUiD offers unique programmes that provide the market with high-calibre graduates  equipped with the right knowledge and skills to support the knowledge-based economy in  the UAE. It also develops leading-edge research capabilities in key disciplines. New  programmes were added to BUiD's suite of programmes:
+</text>
+
+
+<heading page="6" section="**Master of Science in Finance and Risk Management**" source="author" id="/page/5/SectionHeader/11" level="3">
+### **Master of Science in Finance and Risk Management**
+</heading>
+
+<text page="6" section="**Master of Science in Finance and Risk Management**" source="author" id="/page/5/Text/12">
+The Master of Science (MSc) in Finance and Risk Management at The British University  in Dubai (BUiD) provides students with the necessary knowledge, skills and tools to  succeed as a financial risk manager or financial analyst and to apply this knowledge in  the real world. The MSc in Finance and Risk Management provides students with an  in-depth knowledge enabling you to understand the key theories and principles that  support and inform you as a corporate, financial and strategic decision-maker.
+</text>
+
+<text page="6" section="**Master of Science in Finance and Risk Management**" source="author" id="/page/5/Text/13">
+Our aim is to graduate skilled professionals with the breadth of knowledge that  permits them to make ethical, thoughtful and significant contributions to their  organisations and communities. Through this programme, students will understand
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="**Master of Science in Finance and Risk Management**" source="author" id="/page/6/Text/0">
+the different types of risk within the industry, and the managerial issues related to risk  control.
+</text>
+
+
+<heading page="7" section="**Master of Science (MSc) in Cybersecurity**" source="author" id="/page/6/SectionHeader/1" level="3">
+### **Master of Science (MSc) in Cybersecurity**
+</heading>
+
+<text page="7" section="**Master of Science (MSc) in Cybersecurity**" source="author" id="/page/6/Text/2">
+Our programme has been carefully designed to develop qualified and skilled cybersecurity  professionals. The programme provides holistic coverage of cybersecurity, from governance  and policy to penetration testing and digital forensics. The programme builds the knowledge  and skills to design, develop, defend and manage secure systems. The programme offers a  wide range of learning opportunities in a stimulating learning environment. Additionally, the  teaching materials, lectures, seminars, research, case studies and labs in our programme are  informed by world-class research in AI and cybersecurity being undertaken at BUiD, in  collaboration with experts holding globally-recognised industry-standard certifications.
+</text>
+
+
+<heading page="7" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/6/SectionHeader/3" level="2">
+## **Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice.
+</heading>
+
+<text page="7" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/6/Text/4">
+BUiD aims to become the regional leader in promoting, conducting, and disseminating  research and innovation to create new knowledge and solutions relevant to the needs of the  UAE and the region in support of their economic growth and future development. In the QS  World University Ranking – Arab Region 2023, BUiD was ranked First in number of papers per  faculty and Third in citation per paper.
+</text>
+
+<text page="7" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/6/Text/5">
+Education and research are interconnected in BUiD. All of our educational programmes are  research based. Students are not only assessed in terms of exams, they are also assessed  through original research, which is benchmarked to international standards by using external  examiners on each programme. Students are required to apply skills and knowledge to  develop research questions, and then conduct studies that accord with the rigour of scientific  principles. Research is fundamental when it comes to doctoral programmes.
+</text>
+
+<text page="7" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/6/Text/6">
+Below are few samples of students' dissertations and theses in the area of sustainability,  energy and leadership management:
+</text>
+
+<list page="7" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/6/ListGroup/143">
+- Investigating the causes and drivers of food waste in the hospitality sector in Dubai-UAE. Toward implementing food waste prevention strategies.
+- Utilizing Current Resources to Deliver Sustainable Living Solutions in Refugee Camps. Case study: Al Za'atari Camp.
+- The impact of sustainable urban planning in the redevelopment of the Agriculture  Area in Sharjah" – Khorfakkan
+- Holistic Transitional Approach of Humanitarian Shelters Through The Implementation  of Adaptable Design Strategies.
+</list>
+
+</page>
+<page number="8">
+<list page="8" section="**Principle 4 | Research**: We study people, organizations, institutions, and the state of the  world to inspire responsible management and education practice." source="author" id="/page/7/ListGroup/127">
+- An Investigation into the effectiveness of the Inclusive Education Standards Policy for  Students with Severe Disabilities in UAE.
+- Link between Transformational Leadership and Organizational Efficiency &amp; Employee  Performance
+- Link Between Transformational Leadership and Creativity
+</list>
+
+
+<heading page="8" section="**In its efforts to support research and innovation in the UAE, BUiD has established** **centres: **" source="author" id="/page/7/SectionHeader/3" level="3">
+### **In its efforts to support research and innovation in the UAE, BUiD has established** **centres: **
+</heading>
+
+<list page="8" section="**In its efforts to support research and innovation in the UAE, BUiD has established** **centres: **" source="author" id="/page/7/ListGroup/128">
+- Dubai-Edinburgh Sustainability Institute. It started as a collaboration between the  British University in Dubai and the Edinburgh Climate Change Institute (ECCI) at the  University of Edinburgh, with the aim of establishing a sustainability centre focused  on innovation in environmental research.
+- Doctoral Training Centre (DTC). The primary focus of the DTC is to provide training,  guidance and support for doctoral students in the pursuit of research excellence and  output. Through a combination of training courses, workshops, presentations,  discussion groups, seminars and conferences, the DTC promotes research activity,  supports student development and seeks to enhance the value and relevance of  BUiD's contribution to both academia and the community at large.
+- The Centre for Research in Digital Education (CRDE). This is the UAE's first non-profit research centre which focuses solely on digital education within the Middle East.
+- BUiD Achievement &amp; Career Excellence (B.ACE) B.ACE is a centre that provides services to our students, empowering their potential,  competencies and skills for future success, as well as helping them choose the right  career.
+</list>
+
+
+<heading page="8" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/7/SectionHeader/8" level="2">
+## **Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice
+</heading>
+
+<text page="8" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/7/Text/9">
+BUiD is very active externally and it has established strong partnerships with leading UK  universities and key stakeholders in the UAE to meet its social and environmental  responsibilities. While being an academic institution, BUiD does not overlook the need to  have active links with the community, industry and professional bodies. Below are some  examples:
+</text>
+
+</page>
+<page number="9">
+<figure page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Picture/0" image="A3.R32_fig04.jpg">[FIGURE: see A3.R32_fig04.jpg]</figure>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/1">
+**BUiD signed a Memorandum of Understanding ** **(MoU) with Abdulla Al Ghurair Foundation for ** **Education. **The MoU was signed at BUID's  Campus on 7 September by BUiD's Vice  chancellor, Professor Abdullah Alshamsi and the  CEO of Abdulla Al Ghurair Foundation, Dr Sonia  Ben Jaafar.
+</text>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/2">
+The purpose of the MoU is to develop co-operation between the two Parties to promote and  facilitate collaboration and encourage BUiD's students to enrol in Al Ghurair Young Thinkers  Program. This programme is an online college prep programme and career readiness platform  developed to help Emirati and Arab youth, ages 15-35, achieve future success.
+</text>
+
+<figure page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Picture/3" image="A3.R32_fig05.jpg">[FIGURE: see A3.R32_fig05.jpg]</figure>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/4">
+On 25 October 2022, The British University in  Dubai signed a Memorandum of Understanding  (MoU) with ILMA University Karachi, Pakistan. The  MoU was signed by Professor Aymen Masadeh, the  Dean of the Faculty of Business and Law, and Mr.  Fawwad Mahmood Butt, Director Quality  Assurance &amp; Liaison/ Global Partnerships. The  signing ceremony was attended by senior staff  from both institutions.
+</text>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/5">
+The MoU aims to encourage cultural, educational and research cooperation. The two  institutions will collaborate through mutual research interest and academic publication,  conference participations, and students and faculty exchange.
+</text>
+
+<figure page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Picture/6" image="A3.R32_fig06.jpg">[FIGURE: see A3.R32_fig06.jpg]</figure>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/7">
+**BUiD** **signed a Memorandum of Understanding ** **(MoU) with Monash University, Australia**. The  MoU was signed by Professor Abdullah Alshamsi,  the Vice Chancellor and Susan Elliott AM,  Provost &amp; Senior Vice-President, Monash  University and witnessed by Dr Nizar Farjou, Director, Middle East, North Africa &amp; Central  Asia Engagement.The MoU aims to encourage
+</text>
+
+<text page="9" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/8/Text/8">
+educational and research cooperation. The two institutions will collaborate through mutual  research interests, exchange programmes, and academic activities.
+</text>
+
+</page>
+<page number="10">
+<figure page="10" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/9/Picture/0" image="A3.R32_fig07.jpg">[FIGURE: see A3.R32_fig07.jpg]</figure>
+
+<figure page="10" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/9/Picture/1" image="A3.R32_fig08.jpg">[FIGURE: see A3.R32_fig08.jpg]</figure>
+
+<text page="10" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/9/Text/2">
+**BUiD signed a collaboration agreement with ** **Wataneya Society in Cairo**. The agreement was  signed by Prof Eman Gaad, the Dean of  Education, on behalf of BUiD's Vice Chancellor  Professor Abdullah Alshamsi, and Azza Abdel  Hamid, Chairman of the Board of Directors of Wataneya Society.
+</text>
+
+<text page="10" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/9/Text/3">
+The main aim of the agreement is to exchange knowledge and experience in the areas of  vocational and technical training by providing expertise in digitisation of learning experiences.  BUiD will be helping in the development of the Society's programmes to enhance the  experience of professional staff working in the alternative care system in Egypt and the Arab  world.
+</text>
+
+<text page="10" section="**Principle 5 | Partner**: We engage people from business, government, civil society, and  academia to advance responsible and accountable management education and practice" source="author" id="/page/9/Text/4">
+**Principle 6 | Share**: We share our successes and failures with each other to enable our  collective learning and best live our common values and purpose.
+</text>
+
+
+<heading page="10" section="**BUiD student educational trips**" source="author" id="/page/9/SectionHeader/5" level="4">
+#### **BUiD student educational trips**
+</heading>
+
+<text page="10" section="**BUiD student educational trips**" source="author" id="/page/9/Text/6">
+As part of BUiD's support for research and knowledge activities, students are encouraged to  be actively involved in research visits to universities and research centres around the world.  The trip served as an invaluable opportunity for the students to gain a holistic perspective on  academic excellence and industrial innovation.
+</text>
+
+<text page="10" section="**BUiD student educational trips**" source="author" id="/page/9/Text/7">
+28 of BUiD students participated in an educational journey to the United Kingdom. The trip  served as an invaluable opportunity for the students to gain a holistic perspective on  academic excellence and industrial innovation.
+</text>
+
+<text page="10" section="**BUiD student educational trips**" source="author" id="/page/9/Text/8">
+One of the highlights of the trip was their visit to the renowned MINI plant in Oxford. The  students were given an exclusive behind-the-scenes glimpse into the intricate process of  assembling the iconic MINI cars.
+</text>
+
+<text page="10" section="**BUiD student educational trips**" source="author" id="/page/9/Text/9">
+On 3 July 2023, they visited the University of Edinburgh where the students explored the  latest updates on cutting-edge academic programmes, ground-breaking research  endeavours, and state-of-the-art laboratories.
+</text>
+
+<text page="10" section="**BUiD student educational trips**" source="author" id="/page/9/Text/10">
+The following day, July 4, 2023, they explored the University of Glasgow. They received firsthand insights into the university's diverse programmes, pioneering research initiatives, and  modern laboratories.
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="**BUiD student educational trips**" source="author" id="/page/10/Text/0">
+**BUiD encourages its students to participate in** **events and competitions to enable them to ** **gain a wider skillset and new experiences which help them in real life situations and ** **challenges.**
+</text>
+
+<list page="11" section="**BUiD student educational trips**" source="author" id="/page/10/ListGroup/136">
+- Nine of BUiD's students on the BSc Computer Science  Artificial Intelligence  participated in Samsung Innovation Campus's AI course which was done in partnership  with the UAE's Office of AI, and the National Program for Coders. The programme  focused on the theoretical and the practical sides of the AI covering machine learning  and deep learning.
+- BUiD's students participated in the Royal Air Force (RAF) Red Arrows 'Engineer for a  Day' event which was organised by the British Embassy in the UAE, sponsored by Rolls-Royce and BAe Systems, and hosted by Heriot-Watt Dubai. our students demonstrated their skills and equipment in the areas of software  engineering and artificial intelligence through interactive systems and robotic coding.
+- Our PhD in Business Management student, Nour Hussein Shakhour, won the Innovator  Award at the 4th UAE Innovation Award ceremony which was organised by The Dubai  Quality Group (DQG).
+- Three students on the BSc Computer Science  Artificial Intelligence programme)  won 2nd place at the Engage X Hackathon. The Hackathon is designed to give  participants the chance to use their technical and creative skills to solve real world  problems using telecommunications technology, and to gain hands-on experience  using industry-leading APIs in applications.
+</list>
+
+
+<heading page="11" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/10/SectionHeader/5" level="4">
+#### **Staff at BUiD shared their expertise ****–** **below are some examples: **
+</heading>
+
+<text page="11" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/10/Text/6">
+Professor Eman Gaad, the Dean of the Faculty of Education has been recognised for her work  in the special and inclusive education
+</text>
+
+<list page="11" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/10/ListGroup/137">
+- She has been recognised for her role in supporting autism awareness. In October 2021  she won the golden award for women pioneers at the Pioneers Summit organised by the Arab  Women Pioneers Network in Cairo. Prof Gaad received this award in recognition of her work  with people with special needs (people of determination) and her expertise in special and  inclusive education.
+- She also won the Middle East's Woman Leaders award for her work and expertise in  special and inclusive education. The world Women Congress and Awards was held in Dubai  on 11 October 2023 recognising Women Leaders in the Middle East. The event celebrated  outstanding leadership and achievements demonstrated by Women leaders that are  reflected by the distinct innovations and initiatives brought in by them in various private and  public sectors.
+</list>
+
+</page>
+<page number="12">
+<list page="12" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/11/ListGroup/146">
+- In October 2022, Prof. Gaad joined as a member the Global Center for Inclusion in  Education Research Collaborative where she shared her expertise to drive the global research  agenda and conversation on inclusion.
+- She was invited as a guest of honour the Special Olympics World Games Berlin.  Professor Gaad also participated in the Global Forum for Inclusion – Partnering for Action on  17 and 18 June, where she moderated a panel discussion on Inclusive education and inclusive  communities in a global context.
+- She chaired a session at the International Forum for the Discovery and Development  of Talents organised by Hamdan Bin Rashid Al Maktoum Foundation for Medical and  Educational Sciences.
+- Hugh Martin, the Registrar and Chief Administrative Officer, participated in a number  of CSR events:
+- 1. was selected for the third year to be a judge of the Tatawwar Competition which was  conducted online on 4 and 5 March 2022 The programme gives students the chance to  practice important business skills, understand sustainable commitments, connect with the  corporate world, and hear from some extraordinary professionals along the way.
+- 2. He represented BUiD and led the judging panel, gave out motivational speech and  awards to the students. The event was held on 16 September 2023 and students came from  Ghana, South Africa, India, Bangladesh, and the UAE.
+- 3. He also participated in the Learnit 2022 conference held in London on 23 March 2022.  Mr Martin participated in 'what do universities owe their local area?' session where he  discussed how universities impact their local communities and how has the idea of civic duty  for universities evolved over time.
+</list>
+
+<text page="12" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/11/Text/7">
+**BUiD has organised and co-hosted joint conferences with international universities and ** **organisations. BUiD's students are always encouraged to participate and take part in these ** **conferences. Below are some examples:**
+</text>
+
+<list page="12" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/11/ListGroup/147">
+- The British University in Dubai (BUiD) held its 7th Doctoral Research Conference on  Saturday, 8 July 2023. Fifty-four research papers were presented by BUiD postgraduate  students under three tracks: education, arts and humanities track; management and social  sciences track; and engineering, information technology, and physical sciences track. The  students presented their research through 13 sessions, which were chaired by BUiD's  students and faculty.
+- The British University in Dubai (BUiD) in collaboration with Amity University Dubai,  organised the 7th ICASE World Conference on Science and Technology Education which was  held at Amity University Dubai's campus from 27 – 30 March 2023. The conference brought  together policy makers, curriculum developers, scientists, university researchers, teachers,
+</list>
+
+</page>
+<page number="13">
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/0">
+and experts in related education and engineering fields to share best practice and research  and to discuss the latest developments.
+</text>
+
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/1">
+•The Faculty of Education hosted two virtual international conference 'Future of Educational  Management and Leadership' in May 2022 and in June 2023
+</text>
+
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/2">
+These conference aimed to explore the future of educational management and leadership  while engaging voices, thoughts, reflections and practices of leaders in education, policy  makers, practitioners, educators and researchers. they gave the participants the opportunity  to discuss the opportunities and challenges of educational management amidst the uncertain  future.
+</text>
+
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/3">
+•The British University in Dubai in collaboration with Dubai Block Chain Centre organised the  20 the European, Mediterranean and Middle Eastern Conference on Information Systems  (EMCIS 2023) on 11-12 December 2023.
+</text>
+
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/4">
+The conference which was at BUiD campus received more than 50 research papers from  around the world. The same conference was organised virtually in 2022.
+</text>
+
+<text page="13" section="**Staff at BUiD shared their expertise ****–** **below are some examples: **" source="author" id="/page/12/Text/5">
+The EMCIS is an annual research conference, which addresses the Information Systems (IS)  regionally and globally. It aims to bring together researchers, academics, and professionals  from around the world to exchange innovative ideas covering technical, organisational,  business and social issues in the application of information technology.
+</text>
+
+
+<heading page="13" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/12/SectionHeader/6" level="1">
+# **Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations
+</heading>
+
+<text page="13" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/12/Text/7">
+The university has Community Engagement policy which helps in creating the right  environment for social responsibility. BUiD works on facilitating community access to  learning opportunities and resources wherever possible and welcome all community  members to campus-sponsored activities and events This policy seeks to uphold.
+</text>
+
+<list page="13" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/12/ListGroup/119">
+- The University wishes to demonstrate how higher education institutions operate to  induce positive transformative effects to their community.
+- The University intends that all its staff and students are empowered to mitigate  negative communal impact and take measures to maximise benefits to the local and wider  community.
+</list>
+
+<text page="13" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/12/Text/10">
+**BUiD has signed an MoU with the Digital School.** Through the MoU, the two institutions aim  to disseminate knowledge through joint efforts and enhanced cooperation in order to  implement the Digital School's initiatives in spreading education and empowering students
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/13/Text/0">
+especially those living in refugee camps, war zones, and disadvantaged communities around  the world.
+</text>
+
+<text page="14" section="**Principle 7 | Practice**: We adopt responsible and accountable management principles in  our own governance and operations" source="author" id="/page/13/Text/1">
+BUiD will be contributing to these initiatives by providing the necessary expertise through its  existing relationships and joint collaboration with the University of Nicosia, and the Dubai  Blockchain Centre to provide the Digital School with access to a diverse range of blockchain  solutions.
+</text>
+
+</page>
+</paper>

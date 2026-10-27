@@ -1,0 +1,706 @@
+<paper source_file="A3.R55" title="**Modeling transitions in nation brand ** **equity: An empirical assessment of ** **the nation equity power grid**" total_pages="23" figures="7" figures_with_images="7">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 7 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R55_fig01.jpg">[FIGURE: see A3.R55_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/1">
+*Article*
+</text>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/2" image="A3.R55_fig02.jpg">[FIGURE: see A3.R55_fig02.jpg]</figure>
+
+
+<heading page="1" section="**Modeling transitions in nation brand ** **equity: An empirical assessment of ** **the nation equity power grid**" source="author" id="/page/0/SectionHeader/4" level="1">
+# **Modeling transitions in nation brand ** **equity: An empirical assessment of ** **the nation equity power grid**
+</heading>
+
+<text page="1" section="**Modeling transitions in nation brand ** **equity: An empirical assessment of ** **the nation equity power grid**" source="author" id="/page/0/Text/5">
+https://doi.org/10.1177/03128962221135496 *Australian Journal of Management* 2024, Vol. 49(2) 249–271 © The Author(s) 2022 Article reuse guidelines:  [sagepub.com/journals-permissions](https://uk.sagepub.com/en-gb/journals-permissions) DOI: 10.1177/03128962221135496 [journals.sagepub.com/home/aum](https://journals.sagepub.com/home/aum)
+</text>
+
+<figure page="1" section="**Modeling transitions in nation brand ** **equity: An empirical assessment of ** **the nation equity power grid**" source="author" id="/page/0/Picture/6" image="A3.R55_fig03.jpg">[FIGURE: see A3.R55_fig03.jpg]</figure>
+
+
+<heading page="1" section="**Katariina Juusola**" source="author" id="/page/0/SectionHeader/7" level="3">
+### **Katariina Juusola**
+</heading>
+
+<text page="1" section="**Katariina Juusola**" source="author" id="/page/0/Text/8">
+Department of Marketing, College of Business Administration, Ajman University, Ajman, United Arab Emirates
+</text>
+
+
+<heading page="1" section="**Abdelmounaim Lahrech**" source="author" id="/page/0/SectionHeader/9" level="2">
+## **Abdelmounaim Lahrech**
+</heading>
+
+<text page="1" section="**Abdelmounaim Lahrech**" source="author" id="/page/0/Text/10">
+Faculty of Business &amp; Law, The British University in Dubai, Dubai, United Arab Emirates
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/11" level="4">
+#### **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/12">
+The purpose of this study is to assess longitudinal nation brand performance by modeling transitions  in *nation brand equity* and to develop a method for nation brand performance assessment. This  study has two objectives: (1) to empirically test Steenkamp's *nation equity power grid* conceptual  framework; its categories (dominant, receding, niche, emerging, and weak nation brands), and  their expected development trajectories, and (2) to identify new types of nation brands and  development patterns to complement the framework. To do this, this study used objective  secondary data and applied the smooth transition technique. We assessed 41 countries' nation  brand performance over the 1995–2017 period to understand the development of their nation  brand equity. Particular attention was paid to countries that had significantly improved their  performance and countries that had lost their brand strength. Our findings support the categories  proposed by Steenkamp, but we provide a more nuanced approach to analyzing countries' brand  strength and the possible development trajectories, and introduce new categories of nation  brands called *volatile nation brands* and *booming nation brands*. Our approach to using the nonlinear  smooth transition demonstrated how countries' brand strength evolved over time, and also  detected the speed of any transitions; in other words, how fast nation brands moved from one  level to another. Our findings benefit country brand managers, enabling them to better determine  their country's positioning and the necessary means to improve brand equity. Understanding the  mechanisms behind transitions in brand equity can also help researchers link these transitions  back to various economic, social, cultural, and political transitions that have occurred in nations.  Our method therefore has powerful explanatory value for a wide range of marketing, economics,  and other social science studies.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/13">
+**JEL Classification: **M31
+</text>
+
+
+<heading page="1" section="**Corresponding author:**" source="author" id="/page/0/SectionHeader/14" level="4">
+#### **Corresponding author:**
+</heading>
+
+<text page="1" section="**Corresponding author:**" source="author" id="/page/0/Text/15">
+Abdelmounaim Lahrech, Faculty of Business &amp; Law, The British University in Dubai, Block 11, 2nd floor, Dubai  International Academic City. P.O. Box 345015 Dubai, United Arab Emirates.  Email:[ abdelmounaim.lahrech@buid.ac.ae](mailto:abdelmounaim.lahrech@buid.ac.ae)
+</text>
+
+<text page="1" section="**Corresponding author:**" source="author" id="/page/0/Text/16">
+Final transcript accepted 09 October 2022 by Dr. Andrew Jackson.
+</text>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**Keywords**" source="author" id="/page/1/SectionHeader/2" level="4">
+#### **Keywords**
+</heading>
+
+<text page="2" section="**Keywords**" source="author" id="/page/1/Text/3">
+Brand equity, nation brand, nation brand index, nation branding, smooth transition
+</text>
+
+
+<heading page="2" section="**1. Introduction**" source="author" id="/page/1/SectionHeader/4" level="3">
+### **1. Introduction**
+</heading>
+
+<text page="2" section="**1. Introduction**" source="author" id="/page/1/Text/5">
+Nation brands and nation branding have attracted considerable interest among academics, practitioners, and policymakers over the past two decades. Nation branding, according to Aronczyk  (2008: 42), refers to the process that "*allows national governments to better manage and control * *the image they project to the world, and to attract the* '*right*' *kinds of investment, tourism, trade * *and talent, successfully competing with a growing pool of national contenders for a shrinking set * *of available resources*." Therefore, nation brands can be assessed through estimations of how well  a brand performs in terms of exports, and in attracting tourism, immigrants and foreign direct  investment (FDI) (Fetscherin, 2010). Several empirical studies have addressed the impact of strong  nation brands. For example, Dimitrova et al. (2017), found that a strong nation brand contributes  to improving a nation's export volume, while numerous studies have indicated how strong nation  brands attract significant amounts in domestic and foreign direct investments (FDIs) (Bose et al.,  2020; Kalamova and Konrad, 2010; Lahrech et al., 2020a; Lee and Lee, 2019; Papadopoulos et al.,  2016; Papadopoulos and Heslop, 2002). Studies by Caldwell and Freire (2004), Gilmore (2002),  and Silvanto and Ryan (2014, 2018) have demonstrated how a strong nation brand was found to  increase the number of tourists visiting a country, and to attract skilled immigrants. Furthermore,  the Reputation Institute has suggested that a mere 1-point increase in a country's reputation ranking can increase its number of tourists per capita by 0.9%, in addition to increasing export rates by  0.3% (Globenewswire, 2018). Developing a strong nation brand and increasing its strength are  therefore important to various interest groups, particularly when the benefits directly relate to a  country's global status, performance, and competitiveness (Mariutti, 2017; Melnyk and Varibrusova,  2019), which then contribute significantly to the country's gross national product (GNP) and economic development (Boisen et al., 2011, 2017; Kotler and Gertner, 2002).
+</text>
+
+<text page="2" section="**1. Introduction**" source="author" id="/page/1/Text/6">
+Nation brands, similar to corporate or product brands, possess a significant amount of *brand * *equity*, meaning the ability to generate added financial value from well-known brands (Mariutti  and Giraldi, 2021; Papadopoulos and Heslop, 2002). Numerous studies on nation branding have  been conducted under the umbrella concept of place branding (e.g. Anholt, 2006; Boisen et al.,  2011; Braun et al., 2014; Chan et al., 2016; Florek et al., 2019; Foroudi et al., 2016; Gertner, 2011;  Hanna and Rowley, 2008), while another stream of studies has focused on smaller units of nation  branding, such as city or destination branding (e.g. Florek, 2015; Florek et al., 2015; Hashim,  2012; Kerr, 2006; Lucarelli and Berg, 2011). Some studies have also addressed regional branding  attempts, focusing on Africa (Abimbola, 2006), Europe (Aveline, 2006), the Nordic countries  (Magnus, 2016), the Baltic Sea region (Andersson and Paajanen, 2012), and the Middle East  (Cooper and Momani, 2009). Regardless of the different scope of the studies, all place brands,  whether country, city, destination or region, have been found to possess significant brand equity.
+</text>
+
+<text page="2" section="**1. Introduction**" source="author" id="/page/1/Text/7">
+While a strong nation brand is seen to reflect that nation's progress and development, active  investment in nation branding also assists further development. Any tangible achievements in making a country more competitive and unique can be actively promoted through marketing efforts,  which are expected to further strengthen the nation brand and generate increased tourism, investment, trade, and other tangible and intangible benefits than bring economic benefits (Zeinalpour et  al., 2013). Such efforts, however, naturally require a significant amount of resources. Since funding for place branding projects often comes from public sources, it requires objective performance  evaluation to gain support from various stakeholders; hence, policymakers need tools for assessing  brand performance in order to justify granting sufficient resources for such purposes and to raise  public awareness of the importance of nation branding (Florek et al., 2019; Zenker, 2014).
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**1. Introduction**" source="author" id="/page/2/Text/1">
+While nation branding is undeniably important for any country, research on nation brand management is still nascent. In their comprehensive review of nation branding literature published during the past two decades, Hao et al. (2019) addressed the limitations of the existing studies, which  sparked the motivation for the present research. They noted that, while numerous scholarly studies  have investigated individual countries' branding attempts, there is a lack of knowledge on how to  measure nation brand strength and performance, and how nations' brands have developed over time.  Longitudinal studies on nation branding, in particular, have remained scarce, and such studies are  necessary for enhancing understanding of how nation brand equity can change over time due to various macroenvironmental factors (Hao et al., 2019). Furthermore, nation brand managers need tools  for assessing how to achieve an optimal balance when investing in different strands of the brand so  that the country can maximize its resource use, considering the aspects of resource scarcity, while  also ensuring that resources are not idle. Following the basic principles of macroeconomics, such as  the theory on the production possibility frontier, there are various trade-offs in managerial decisionmaking where investing in one area will result in decreasing the possibility of investing in another  area and therefore one needs to find an optimal balance to compete effectively (Galles et al., 2019).  The development of nation brand management tools for this purpose is therefore important, so that  countries can optimize their resource outputs across all significant elements of a nation brand, rather  than prioritize only some of them. For example, countries such as Australia and New Zealand have  received criticism for their brand management strategy that seems to emphasize the tourism aspect  while undermining the importance of other elements of the nation brand (Hall, 2010; Khamis, 2012;  Pomering, 2013). Such distortions may result from a lack of nation brand management tools to  understand the different facets of the nation brand and how each of these contributes to the total  value of the nation brand and its role in global and regional competition.
+</text>
+
+<text page="3" section="**1. Introduction**" source="author" id="/page/2/Text/2">
+The purpose of this study is to assess longitudinal nation brand performance by modeling transitions in nation brand equity and developing a method for nation brand performance assessment. To  do this, we employed Steenkamp's (2021) *nation equity power grid* as our conceptual framework,  which has been proposed as a potential tool for measuring and monitoring nation brand equity over  time and comparing nations' performance to that of other nations. Our aim is to empirically test this  model and its expected development trajectories, as well as to identify new types of nation brand  categories by developing a method that uses objective secondary data and the smooth transition  modeling technique. Our findings support this model and its main types of country brands, but our  findings indicate that the development trajectories of countries' brand performance are expected to  be more gradual than those proposed in the original framework. Our paper thus contributes to  emerging studies measuring nation brand management (Fetscherin, 2010; Lahrech et al., 2020b;  Steenkamp, 2021) in two ways. (1) We introduce two new categories of nation brands called *vola**tile nation brands* and *booming nation brands*, which contributes to the theory of nation brand  management. (2) We developed a nonlinear assessment method for assessing nation brand performance based on objective statistical data and modeling transitions in nation brand equity with the  help of the smooth transition modeling technique. Our approach facilitates the analysis of nation  brand equity over a significantly longer period than existing survey-based nation brand indices. It  also signals the speed of brand development and allows for the assessment of the relative performance of a nation brand compared to its peers.
+</text>
+
+
+<heading page="3" section="**2. Review of studies assessing nation brand equity**" source="author" id="/page/2/SectionHeader/3" level="2">
+## **2. Review of studies assessing nation brand equity**
+</heading>
+
+
+<heading page="3" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/2/SectionHeader/4" level="2">
+## *2.1. Assessing nation brand equity through nation brand indices*
+</heading>
+
+<text page="3" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/2/Text/5">
+Probably the most well-known instruments for measuring nation brand equity are the popular annual  survey-based nation brand indices developed by practitioners, such as the Nation Brands Index
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/3/Text/2">
+(NBI) developed by Simon Anholt and the FutureBrand Country Brand Index (CBI) created by the  FutureBrand Consultancy. Both indices have published annual country rankings since 2005. The  NBI ranks countries based on people's perceptions of a country across six areas of its competence  (called the "hexagon"): *exports* (the public's image of a country's products and services), *govern**ance* (public opinion about the national government's competence and fairness, and its commitment  to global issues), *investment and immigration* (the power to attract skilled people to live, work, or  study in a country and how those people perceive a country's quality of life and business environment), *culture* (global perceptions of each nation's heritage and appreciation for its contemporary  culture), *people* (the population's reputation for competence, openness, friendliness, and other qualities such as tolerance), and *tourism* (the level of interest in visiting a country and the draw of natural  and man-made tourist attractions (Ipsos, 2021)). The CBI assesses countries according to somewhat  different dimensions. Originally, it included five dimensions—*value system*, *quality of life*, *business * *potential*, *heritage and culture*, and *tourism—*in its ranking of countries, but since its 2014–2015  ranking, it has added the sixth dimension of *made in* (FutureBrand, 2014, 2019). The "made-in"  effect, also known as the "country-of-origin" effect, is based on the findings of several studies that  have established the linkage between "made-in" or "country-of-origin" effects and nation brands  (e.g. Pappu et al., 2006; Sun and Paswan, 2011; Verlegh and Steenkamp, 1999).
+</text>
+
+<text page="4" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/3/Text/3">
+While both the NBI and the CBI have released annual nation brand rankings since 2005, their  coverage is not sufficient for the longitudinal evaluation of nations' brand performance.  Furthermore, survey-based indices always pose a risk of bias, since they capture only one aspect of  brand equity—*consumer-based brand equity* (Florek et al., 2019; Keller, 1993). This approach  views consumers' perceptions and mental images of countries. An alternative approach for measuring brand strength is the *performance-based approach*, sometimes referred to as the "companybased brand equity approach" (Fetscherin, 2010), which focuses on assessing tangible and  measurable aspects of a country's performance through statistical data (Atilgan et al., 2005). This  statistics-based brand equity approach, according to many scholars (e.g. Fetscherin, 2010; Lahrech  et al., 2020b), can offer a more objective way of measuring country brand strength and what a  country has achieved, enabling longitudinal assessment of how brand strength and equity change  over time. This approach can reveal a country's actual investment and progress in relation to the  underlying foundations of the nation brand, which is necessary to improve the country's image  and, hence, its reputation (Foroudi et al., 2016).
+</text>
+
+<text page="4" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/3/Text/4">
+To the best of our knowledge, only a few existing studies have aimed to measure nation brand  performance by using the performance-based brand equity approach. The first such study was  completed by Fetscherin (2010), who developed the country brand strength index (CBSI) to measure 32 countries' brand performance across five dimensions (*exporting*, *tourism*, *FDI, immigra**tion*, and *government environment*) for 2007 using secondary data. The findings of the study  correlated significantly with the Anholt NBI results, since they used similar factors to assess the  nations' brands, albeit with different sets of data. Exporting, tourism, FDI, and immigration were  measured using per capita statistical data, while the government environment was measured  through the governance environment index developed by Li and Filer (2007), which included the  following indicators: exercise of political rights, rule of law, public trust, free flow of information,  and level of corruption.
+</text>
+
+<text page="4" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/3/Text/5">
+In another study, Lahrech et al. (2020b) further developed the CBSI to rank the brand performance of 131 countries over the 2007–2015 period. The stated purpose of creating the new index,  named the "modified country brand strength index" (MCBSI), was to develop a complementary  index for the Anholt NBI that would have a stronger correlation with it than the CBSI (Lahrech et  al., 2020b). The MCBSI model assessed countries using the same dimensions as the CBSI, but  included also human development index to capture the soft aspects of nation brands. Similar to the
+</text>
+
+</page>
+<page number="5">
+<table page="5" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/4/Table/1">
+| Table 1. | Dimensions used in nation brand indices. |
+| --- | --- |
+</table>
+
+<table page="5" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/4/Table/2">
+| Index | Dimensions used | Sources of data | Type of brandequity approach | Number ofcountries ranked |
+| --- | --- | --- | --- | --- |
+| Anholt NationBrands Index (NBI) | Export, governance,investment andimmigration, culture,tourism, people | Consumersurvey | Consumer-based | 50 |
+| Futurebrand CountryBrand Index (CBI) | Value system, quality oflife, business potential,heritage and culture,tourism, made in effect | Consumersurvey | Consumer-based | 75 |
+| Country BrandStrength Index(CBSI) | Export, governance,FDI, immigration,tourism | Secondary data | Statistics-based | 32 |
+| Modified CountryBrand Strength IndexM(CBSI) | Export, governance,FDI, immigration,tourism, Humandevelopment index | Secondary data | Statistics-based | 131 |
+</table>
+
+<text page="5" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/4/Text/3">
+FDI: foreign direct investment.
+</text>
+
+<text page="5" section="*2.1. Assessing nation brand equity through nation brand indices*" source="author" id="/page/4/Text/4">
+CBSI, it used statistical data, but employed relative values instead of per capita measures, which  the authors claimed provided more objective figures (Lahrech et al., 2020b). Although the study  used longitudinal data, it did not explain why certain countries' rankings had significantly changed  over the assessed years, which was a limitation of the study.
+</text>
+
+
+<heading page="5" section="*2.2. Synthesizing common dimensions used in assessing nation brand equity*" source="author" id="/page/4/SectionHeader/5" level="2">
+## *2.2. Synthesizing common dimensions used in assessing nation brand equity*
+</heading>
+
+<text page="5" section="*2.2. Synthesizing common dimensions used in assessing nation brand equity*" source="author" id="/page/4/Text/6">
+Despite advances in the measuring of nation brand equity, debates about the aspects of nation  brands that matter most are still ongoing (e.g. Mariutti and Tench, 2015; Melnyk and Varibrusova,  2019; Rojas-Méndez, 2013; Steenkamp, 2021). While there is not, and perhaps never will be, a  single set of dimensions for assessing country brands, the existing nation brand indices suggest that  certain commonly used factors can serve as a starting point for studies measuring nation brand  equity. Table 1 summarizes the dimensions used in the indices reviewed in the earlier paragraphs.
+</text>
+
+<text page="5" section="*2.2. Synthesizing common dimensions used in assessing nation brand equity*" source="author" id="/page/4/Text/7">
+Across the reviewed indices, the dimensions most commonly used to assess nation brand performance are *tourism*, *governance*, *exports* and *investment*. Tourism and exports are mentioned in  all four indices, as the *made in* element of the CBI is linked to exports. Three of the four indices  refer to *governance/government* and *investment* and *immigration*; as secondary data are also available for these dimensions, they were included in our model. Culture and people-related aspects are  also measured through some of the indices, but, we excluded these dimensions for methodological  reasons. While those dimensions are important for nation brand equity, their assessment requires  comprehensive longitudinal composite indices, which were unavailable for the study period, or had  changed their methodology during that time period.
+</text>
+
+
+<heading page="5" section="*2.3. Empirical assessments of nation brand equity: scales and frameworks*" source="author" id="/page/4/SectionHeader/8" level="3">
+### *2.3. Empirical assessments of nation brand equity: scales and frameworks*
+</heading>
+
+<text page="5" section="*2.3. Empirical assessments of nation brand equity: scales and frameworks*" source="author" id="/page/4/Text/9">
+Since countries spend billions of dollars on their nation branding and marketing efforts, the stakeholders naturally expect returns on such investment and the ability to assess the effectiveness of
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="*2.3. Empirical assessments of nation brand equity: scales and frameworks*" source="author" id="/page/5/Text/2">
+branding attempts across a range of critical success factors. Consequently, an increasing number of  recent academic studies on place brand management have developed assessment tools and frameworks to measure and monitor the success of such branding attempts (e.g. Bose et al., 2016, 2020;  Lee and Lee, 2019; Rani, 2019; Steenkamp, 2021). These studies have often focused on assessing  a country's performance according to one or a few of the common dimensions of nation brands.  Bose et al. (2016), for example, developed a scale to measure place brand equity from an investment attractiveness perspective that included aspects of brand awareness, brand image, perceived  quality, and brand loyalty. Rani (2019), however, developed a four-component model to assess the  same aspects as Bose et al. (2016) to determine how they affected place branding and helped to  attract tourism. In another study, Bose et al. (2020) developed a scale for assessing place brand  equity from the perspective of public diplomacy. The scale was intended to measure how recognizable a place was to the target audience and what kind of positive or negative images the targeted  people had of the place. Elsewhere, Lee and Lee (2019) used the NBI framework to explain how  the South Korean nation brand was developed strategically by its government to attract foreign  investments through multinational corporations, which consequently boosted Korea's reputation  for strong research and development (R&amp;D) performance. This, in turn, affected consumers' brandequity perceptions of the country's products, making them more nation-brand desirable. Although  these previously mentioned works advanced the assessment of place brand performance, they  focused only on the consumer brand equity approach and were limited to only a few aspects of  nation brand equity, such as investment or tourism. Consequently, more research and tools are  needed to measure nation brand performance, which would include a more comprehensive view of  the different factors that comprise nation brands. Moreover, most of the previously discussed studies used either survey- or interview-based data, which is cross-sectional and can be subjective in  nature. This limitation encouraged us to develop a statistics-based nation brand equity assessment  tool using objective, longitudinal secondary data.
+</text>
+
+
+<heading page="6" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/5/SectionHeader/3" level="2">
+## *2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*
+</heading>
+
+<text page="6" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/5/Text/4">
+In a recent study on nation brand management, Steenkamp (2021) developed the *nation equity * *power grid* for use as a tool for measuring and monitoring nation brand equity. The grid is based  on two dimensions: *nation vitality*, which consists of the combined strengths of the differentiation,  relevance, and energy of a nation, and *nation stature*, which consists of perceived national esteem  and knowledge about the country. According to Steenkamp (2021), a nation's vitality essentially  results from the growth of its nation brand equity, while a nation's stature relates to the longevity  of the brand equity. Nations can fall into one of four quadrants of the grid: *dominant nation brands*,  *receding nation brands*, *niche/emerging nation brands*, and *weak nation brands*, as depicted in  Figure 1.
+</text>
+
+<text page="6" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/5/Text/5">
+According to the model, the dominant nation brands are those of countries that possess high  stature and vitality and such countries are considered to be the ones setting global trends and leading and shaping global economic, political, and cultural environments (Steenkamp, 2021). Their  position may be difficult for other countries to challenge. Receding nation brands are those that  were once dominant nation brands, but which have lost their vitality and competitiveness, although  they are still held in high esteem for nostalgic reasons. Steenkamp (2021) categorized niche and  emerging nation brands as benefiting from high vitality, which gives them significant growth  potential, but means that they suffer from low nation brand stature compared to dominant and  receding nation brands. Finally, weak nation brands are those with low scores for both vitality and
+</text>
+
+</page>
+<page number="7">
+<figure_group page="7" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/6/FigureGroup/83">
+<figure page="7" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/6/Figure/1" image="A3.R55_fig04.jpg">[FIGURE: see A3.R55_fig04.jpg]</figure>
+<caption page="7" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/6/Caption/2">
+**Figure 1.** Nation equity power grid (authors' illustration based on Steenkamp, 2021: 11).
+</caption>
+</figure_group>
+
+<text page="7" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/6/Text/3">
+stature, describing countries that many people may know little about or not even be aware of  (Steenkamp, 2021).
+</text>
+
+<text page="7" section="*2.4. Toward longitudinal nation brand equity assessment: * *the nation equity power grid*" source="author" id="/page/6/Text/4">
+The nation equity power grid is particularly interesting, because it proposes two development  trajectories in nation brand performance, what Steenkamp (2021) describes as "two common trajectories" (p. 11). First expected trajectory is when a weak nation brand moves, via a niche or  emerging nation brand, to become a dominant nation brand, and a second is when a previously  dominant nation loses its brand strength and turns into a receding brand and ultimately into weak  nation brand, unless it is able to revive the brand (Steenkamp, 2021). Steenkamp (2021) proposed  that the United Kingdom could be considered an example of a country that has shifted from a dominant nation to a receding nation, since it was once known as a world leader due to its domestic  industries, institutions, and culture. Conceptually, this model can assist country brand managers to  assess their country's performance on the grid, but to the best of our knowledge, the model has not  yet been validated by empirical data. Furthermore, the nation equity power grid may be a somewhat simplistic categorization of nation brands and the expected development patterns, and other  possible development patterns and country brand types may be discovered.
+</text>
+
+
+<heading page="7" section="**3. Methodology**" source="author" id="/page/6/SectionHeader/5" level="3">
+### **3. Methodology**
+</heading>
+
+<text page="7" section="**3. Methodology**" source="author" id="/page/6/Text/6">
+The literature review discussed in the previous section revealed that the most commonly used factors for assessing nation brand performance were exports, investments, immigration, tourism, and  governance, which served as the starting point for our study. In order to assess longitudinal nation  brand performance, our methodology consisted of three steps: creation of a longitudinal nation  brand index, followed by application of smooth transition modeling to assess countries' ranking  and any changes in their long-term brand performance, and finally we used a clustering method to  partition the data into clusters for data analysis. These steps are discussed in more detail in the following subsections, which discuss our research design.
+</text>
+
+</page>
+<page number="8">
+
+<heading page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/SectionHeader/2" level="3">
+### 3.1. Step 1: constructing a longitudinal nation brand index
+</heading>
+
+<text page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/Text/3">
+First, to create the index, we built a dataset for a number of countries for which historical secondary data on different dimensions of nation brand equity were publicly available. As discussed earlier, we wanted to assess the countries' longitudinal brand performance through the factors of export, investment, immigration, tourism, and governance. These same factors were also used in the Fetscherin (2010) CBSI ranking. We aimed to gather panel data for a number of countries for the longest possible period for which data was available. Longitudinal data for export, investment, immigration, and tourism were obtained from the World Bank, while the governance data were obtained from the PRG/International Country Risk Guide, which includes corruption, law and order, and bureaucratic quality as indicators of governance. Consequently, we identified 41 countries for which all the necessary data was available from 1995 to 2017 (see Table 2 for a list of the countries). Informed by Fetscherin (2010), we constructed the CBSI as follows
+</text>
+
+<equation page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/Equation/4">
+$$
+CBSI_{it} = Nexport_{it} + Nfdi_{it} + Ngovernance_{it} + Nimmigration_{it} + Ntourism_{it} (1)
+$$
+</equation>
+
+<text page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/Text/5">
+Where
+</text>
+
+<equation page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/Equation/6">
+$$
+Nvariable_{it} = Normalized\ score\ of\ variable_{it} = \frac{variable_{it} - Mean(variable_{it})}{Standard\ deviation(variable_{it})}
+$$
+</equation>
+
+<text page="8" section="3.1. Step 1: constructing a longitudinal nation brand index" source="author" id="/page/7/Text/7">
+The subscript *i* corresponds to the country and the subscript *t* corresponds to the year from 1995 to 2017. After normalizing the data, we summed all the normalized scores to create the index.
+</text>
+
+
+<heading page="8" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/7/SectionHeader/8" level="3">
+### 3.2. Step 2: smooth transition modeling
+</heading>
+
+<text page="8" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/7/Text/9">
+After calculating the longitudinal CBSI index for the sample countries, we applied smooth transition modeling to determine the performance of each country according to its CBSI position over time, whether the country had shifted from one regime to another, and how fast such transition had occurred. Regime one in smooth transition was controlled by coefficient \alpha and regime two was controlled by coefficient \alpha + \beta. The speed of the transition from regime one to regime two was controlled by \gamma; the higher the \gamma coefficient, the faster the transition from one regime to another.
+</text>
+
+<text page="8" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/7/Text/10">
+We used the smooth transition modeling suggested by Granger and Teräsvirta (1993) and Lin and Teräsvirta (1994) to determine any structural changes in the nations' brand index time series. Smooth transition analysis has been used to examine the growth effects of liberalization (Leybourne et al., 1997) or disinflationary experiences of Australia, Canada and New Zealand (Leybourne and Mizen, 1999). The smooth transition model was also applied to equity market co-movement between Central and Eastern European countries (Hungary, Poland, the Czech Republic, and Russia) and equity markets in developed countries (Chelley-Steeley, 2005). Compared to these broad economic studies, to the best of our knowledge, smooth transition modeling has been used less frequently in marketing studies.
+</text>
+
+<text page="8" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/7/Text/11">
+For the purposes of the research, the model could measure changes in the nation brand indices over time, allowing for a smooth transition between two or three periods. This was accomplished by fitting a nonlinear trend to these indices and thus estimating the commencement and duration of a transition period during which nation brand index ranking increased or decreased. We considered the following logistic smooth transition regression model for the time series N_{it}
+</text>
+
+<equation page="8" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/7/Equation/12">
+$$
+N_{it} = \alpha + \beta S_t(\gamma, \tau) + u_t \tag{2}
+$$
+</equation>
+
+</page>
+<page number="9">
+<table_group page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/TableGroup/357">
+<table page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Table/1">
+| Country | Augmented DickeyFuller Test p-value | Country | Augmented DickeyFuller Test p-value |
+| --- | --- | --- | --- |
+| Argentina | 0.8575 | Jordan | 0.7824 |
+| Australia | 0.522 | Kuwait | 0.5941 |
+| Austria | 0.4317 | Morocco | 0.6413 |
+| Bahrain | 0.5147 | Netherlands | 0.4876 |
+| Belgium | 0.07806 | Norway | 0.3464 |
+| Brazil | 0.3273 | Paraguay | 0.8831 |
+| Canada | 0.5753 | Peru | 0.8879 |
+| Chile | 0.3203 | Philippines | 0.609 |
+| China | 0.809 | Portugal | 0.2781 |
+| Columbia | 0.5982 | Singapore | 0.4004 |
+| Costa Rica | 0.8797 | South Africa | 0.1018 |
+| Egypt | 0.6515 | South Korea | 0.6621 |
+| Finland | 0.3366 | Sweden | 0.8243 |
+| France | 0.6649 | Taiwan | 0.7079 |
+| Haiti | 0.3919 | Thailand | 0.4203 |
+| Iceland | 0.3623 | Tunisia | 0.655 |
+| India | 0.5077 | Turkey | 0.8265 |
+| Indonesia | 0.1385 | United Kingdom | 0.5656 |
+| Israel | 0.05293 | United States | 0.7132 |
+| Italy | 0.2144 | Uruguay | 0.7242 |
+</table>
+<caption page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Caption/2">
+**Table 2.** Augmented Dicky Fuller test prior to the fitting of smooth transition modeling.
+</caption>
+</table_group>
+
+<text page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Text/3">
+where *ut*  is a zero mean stationary *I*(0) process. The smooth transition between the two time periods  or regimes is controlled by the logistic function *St* ( ) ^(γ) ^(τ), , defined as
+</text>
+
+<text page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Text/7">
+Jamaica 0.6221
+</text>
+
+<equation page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Equation/4">
+$$
+S_t(\gamma, \tau) = [1 + \exp(-\gamma(t - \tau T))]^{-1}, \gamma &gt; 0
+$$
+</equation>
+
+<text page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Text/5">
+where *T* is the sample size, *i* refers to the country's brand index (CBSI) and *t* refers to time. The  assessment period was 1995–2017. Before applying smooth transition, the stationarity of the CBSI  series must be inspected for each country over time. A stationary series implies a horizontal fluctuation and only one level, with no trend from one level to another; in such cases, the smooth  transition approach cannot be applied. By contrast, non-stationary series indicate non-horizontal  fluctuations and a trend involving at least two stationary levels or regimes in the country's CBSI  series, and smooth transition modeling can be applied. The model assumes a smooth change from  one stationary regime with mean α to another stationary regime with mean α+β. If β &gt; 0, it indicates an upward trend; however, if β &lt; 0, it indicates a downward trend. Change between two levels  or regimes is controlled by the parameter γ, which determines the speed of transition from one level  or regime to another one. Small γ values indicate a gradual change while large γ values signal an  abrupt, rapid change. The parameter τ specifies the timing of the transition midpoint, representing  halfway in the move from regime one to regime two.
+</text>
+
+<text page="9" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/8/Text/6">
+As explained earlier, the CBSI series must be tested for stationarity before the smooth transition  model can be applied. To verify this, we used the Augmented Dickey–Fuller test (Dickey and  Fuller, 1979). The results of the test (see Table 2) indicate that we failed to reject the null hypothesis of the unit root in each country's CBSI time series, as all *p*-values are greater than 5%. In short,
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="3.2. Step 2: smooth transition modeling" source="author" id="/page/9/Text/2">
+all series were non-stationary, indicating at least two stationary levels or regimes, and smooth  transition modeling can be applied.
+</text>
+
+
+<heading page="10" section="*3.3. Step 3: clustering*" source="author" id="/page/9/SectionHeader/3" level="3">
+### *3.3. Step 3: clustering*
+</heading>
+
+<text page="10" section="*3.3. Step 3: clustering*" source="author" id="/page/9/Text/4">
+The third step in our methodology is the use of a clustering method to partition level-1 α coefficients and level-2 α+β coefficients data into groups. There are many clustering methods and  techniques to partition the data into clusters, but *k*-means is the simplest and most well-known one.  The *k*-means method is based on minimizing the sum of square error (SSE) between the mean of  the cluster and the data point within the cluster. The idea behind it is to partition the data into *k* clusters so that each data point or observation belongs to the cluster with the nearest mean. The  existence of outliers in a dataset can be an issue for *k*-means, since it can yield a non-representative  cluster (Barnett and Lewis, 1994). An alternative method that is robust to the presence of outliers  is the *k*-medoids method (Kaufman and Rousseeuw, 1990), where data points are selected as  medoids rather than around the mean. In other words, each data point or observation belongs to the  cluster with the nearest medoid rather than the nearest mean as in the *k*-means method. A medoid  of a cluster is considered as the data point with the smallest average distance to other data points  within the same cluster and it is therefore located in the middle of the cluster. This makes the  *k*-medoids method robust to the existence of outliers. Since the United States was identified as an  outlier country in our dataset (see Appendix 1), *k*-medoids was selected as an appropriate clustering method.
+</text>
+
+<text page="10" section="*3.3. Step 3: clustering*" source="author" id="/page/9/Text/5">
+In following the *k*-medoids clustering method, the data implied the number of clusters/groups  in the level-1 α coefficient and the level-2 α+β coefficient. The results from this clustering  revealed three clusters in each level using the elbow and within-cluster sum of squares (WSS)  methods (see Figure 2).
+</text>
+
+<text page="10" section="*3.3. Step 3: clustering*" source="author" id="/page/9/Text/6">
+The clustering indicates that while there are three types of nation brands that have experienced  rather steady development over time—that is, they have remained within the same cluster—there  are also certain (groups of) countries that have gone through unique development patterns, which  will require further elaboration. Table 3 below presents the different clusters of countries and shifts  of certain countries between the clusters, as well as the mean and median values placing them in a  given cluster. Countries' positions and transitions are based on their α coefficients and their corresponding α, β, α+β, and γ values over the assessed years 1995 to 2017. The next chapters discuss our empirical results regarding different nation brand types in more detail.
+</text>
+
+
+<heading page="10" section="**4. Empirical results: part 1**" source="author" id="/page/9/SectionHeader/7" level="2">
+## **4. Empirical results: part 1**
+</heading>
+
+<text page="10" section="**4. Empirical results: part 1**" source="author" id="/page/9/Text/8">
+The results show clustering applied to level 1 (α) and level 2 (α+β), both of which were obtained  from smooth transition results using equation (2) applied for the constructed nation brand index  from equation (1). We explored Steenkamp's (2021) nation equity power grid model and its nation  brand categories in the first step of the data analysis, as we expected to identify such countries. In  this step, we focused on identifying those categories described as weak, emerging, niche and dominant nation brands. The following sections describe these expected categories in more detail.
+</text>
+
+
+<heading page="10" section="*4.1. Weak nation brands*" source="author" id="/page/9/SectionHeader/9" level="3">
+### *4.1. Weak nation brands*
+</heading>
+
+<text page="10" section="*4.1. Weak nation brands*" source="author" id="/page/9/Text/10">
+Of the assessed countries, weak nation brands (Cluster C in Table 3) include Haiti, Peru, Uruguay,  Colombia, Jamaica, the Philippines, Tunisia, Egypt, Paraguay, Kuwait, Costa Rica, Argentina and  Bahrain, which originally had and retained a weak nation brand. This finding thus aligns with how
+</text>
+
+</page>
+<page number="11">
+<figure_group page="11" section="*4.1. Weak nation brands*" source="author" id="/page/10/FigureGroup/12">
+<figure page="11" section="*4.1. Weak nation brands*" source="author" id="/page/10/Figure/1" image="A3.R55_fig05.jpg">[FIGURE: see A3.R55_fig05.jpg]</figure>
+<caption page="11" section="*4.1. Weak nation brands*" source="author" id="/page/10/Caption/2">
+**Figure 2.** Clustering with the elbow and within-cluster sum of square (WSS) methods. (a) and (b) Number of clusters.
+</caption>
+</figure_group>
+
+</page>
+<page number="12">
+<table_group page="12" section="*4.1. Weak nation brands*" source="author" id="/page/11/TableGroup/221">
+<table page="12" section="*4.1. Weak nation brands*" source="author" id="/page/11/Table/3">
+| Clusters for level 1 and level 2.Table 3. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cluster A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean(L1)=6.712 |  |  |  | Mean(L2)=7.174 |  |  |  | Median(L1)=4.390 |  |  |  |  |  | Median(L2)=5.528 |  |  |  |  |
+| AustraliaNorway ItalyL1 |  |  | Sweden | Canada |  | South |  | France | UK | USA |  |  |  |  |  |  |  |  |
+| NorwayL2 |  | China | Sweden |  |  | Korea |  | France | UK | USA |  |  | Finland |  |  |  |  |  |
+| Cluster B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean(L1)=1.286 |  |  |  | Mean(L2)=0.751 |  |  |  | Median(L1)=1.398 |  |  |  |  |  | Median(L2)=0.301 |  |  |  |  |
+| JordanL1 | SouthAfrica | ChinaIndia |  | Singapore | Chile |  | Portugal | Morocco | Israel | Austria |  | Taiwan | Finland |  |  | Netherlands | Iceland | Belgium |
+| AustraliaItalyL2 | SouthAfrica | India |  | CanadaSingapore | Chile | SouthKorea | Portugal | Morocco | Israel | Austria | Indonesia | Taiwan |  | TurkeyBrazil | Thailand | Netherlands | Iceland | Belgium |
+| Cluster C |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Mean(L1)=-1.935 |  |  |  | Mean(L2)=-2.230 |  |  |  | Median(L1)=-1.815 |  |  |  |  |  | Median(L2)=-2.345 |  |  |  |  |
+| L1 | Haiti | UruguayPeru |  | Colombia | Jamaica |  | Philippines | Tunisia | Egypt | Paraguay Indonesia |  | Kuwait | CostaRica | TurkeyBrazil | Thailand | Argentina | Bahrain |  |
+| JordanL2 | Haiti | UruguayPeru |  | Colombia | Jamaica |  | Philippines | Tunisia | Egypt | Paraguay |  | Kuwait | CostaRica |  |  | Argentina | Bahrain |  |
+| L1: Level One; L2: Level Two. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+</table>
+</table_group>
+
+</page>
+<page number="13">
+<text page="13" section="*4.1. Weak nation brands*" source="author" id="/page/12/Text/1">
+Steenkamp characterized such countries, as those countries that "people around the world know  little about" and which have low vitality and stature (Steenkamp, 2021: 12). Therefore, such countries would require significant brand development attempts to improve their status.
+</text>
+
+
+<heading page="13" section="*4.2. Emerging nation brands*" source="author" id="/page/12/SectionHeader/2" level="3">
+### *4.2. Emerging nation brands*
+</heading>
+
+<text page="13" section="*4.2. Emerging nation brands*" source="author" id="/page/12/Text/3">
+Steenkamp (2021) characterized emerging nation brands as those countries that "are seen as  upcoming, dynamic and innovative but do not have the required brand stature" (p. 12). Thus, they  are expected to have demonstrated significant development at least in some aspects of the brand.  In our model, emerging nation brands are those countries that originally belonged to Cluster C  (weak nation brand), but which shifted over the assessed time period to a higher category (Cluster  B). Hence, they have demonstrated their ability to strengthen their nation brands, as they have been  able to shift upward. Such countries include Indonesia, Brazil, Turkey and Thailand. For an  example of such a shift, Figure 3 below presents the underlying breakdown of the nation brand
+</text>
+
+<figure_group page="13" section="*4.2. Emerging nation brands*" source="author" id="/page/12/FigureGroup/50">
+<figure page="13" section="*4.2. Emerging nation brands*" source="author" id="/page/12/Figure/4" image="A3.R55_fig06.jpg">[FIGURE: see A3.R55_fig06.jpg]</figure>
+<caption page="13" section="*4.2. Emerging nation brands*" source="author" id="/page/12/Caption/5">
+**Figure 3.** Breakdown of the nation brand variables in development of Indonesia's nation brand.
+</caption>
+</figure_group>
+
+</page>
+<page number="14">
+<text page="14" section="*4.2. Emerging nation brands*" source="author" id="/page/13/Text/2">
+elements in the case of Indonesia's nation brand development. From this we can conclude that the  most significant factors in boosting Indonesia's brand over the years, especially after 2005, were  tourism, FDI, exports, and governance.
+</text>
+
+
+<heading page="14" section="*4.3. Niche nation brands*" source="author" id="/page/13/SectionHeader/3" level="3">
+### *4.3. Niche nation brands*
+</heading>
+
+<text page="14" section="*4.3. Niche nation brands*" source="author" id="/page/13/Text/4">
+Niche country brands are those that, according to Steenkamp (2021), have high brand vitality, often  in a specific area of the brand, such as economic development, culture, or political systems, but not  across all elements of the nation brand. According to our cluster analysis, the countries in Cluster  B represent niche nation brands, which include South Africa, India, Singapore, Chile, Portugal,  Morocco, Israel, Austria, Taiwan, the Netherlands, Iceland and Belgium. Such countries have been  successful in building strong and stably developing niche brands. In this category, the speed of  development has been significantly faster than in the emerging nation brand category (see Table 3  for the mean and median values). For example, Israel benefits from its reputation as the world's  leading country in attracting and supporting innovation and start-up companies, but at the same  time it has certain weaknesses in its political environment in the long-term disputes between Israel  and the Arab countries (Dubinsky, 2022). Therefore, as an example, it can be argued that while  Israel's nation brand has strengths, it also has certain weaknesses in some areas of its nation brand,  which places it into this category. At the same time, arguably none of these countries has a strong  nation brand across all elements of nation branding.
+</text>
+
+
+<heading page="14" section="*4.4. Dominant nation brands*" source="author" id="/page/13/SectionHeader/5" level="3">
+### *4.4. Dominant nation brands*
+</heading>
+
+<text page="14" section="*4.4. Dominant nation brands*" source="author" id="/page/13/Text/6">
+Dominant nation brands are understood as being the leading brands that benefit from high stature  and high vitality (Steenkamp, 2021). We identified the United States, the United Kingdom, France,  Norway and Sweden as dominant nation brands, which have been able to maintain their position in  this competitive category (Cluster A). The mean and median values in levels 1 and 2 in Table 3 for  this leading cluster mean that such countries are also rapidly developing their nation brand strength  compared to those in Cluster B (niche nation brands), which makes it difficult for niche countries  to make the shift into the dominant nation brand category. This supports the findings of many  scholars (e.g. Anholt, 2010; Fetscherin, 2010; Steenkamp, 2021) that once a country has been able  to reach such a position, it is difficult to be challenged.
+</text>
+
+
+<heading page="14" section="*4.5. Receding nation brands*" source="author" id="/page/13/SectionHeader/7" level="3">
+### *4.5. Receding nation brands*
+</heading>
+
+<text page="14" section="*4.5. Receding nation brands*" source="author" id="/page/13/Text/8">
+As characterized by Steenkamp (2021), receding country brands include those countries that used  to be dominant nation brands, but lost their vitality, and hence are no longer among the dominant  brands. Steenkamp (2021) further stated that such countries "struggle to maintain their relevance,  energy and perhaps even differentiation in a changed marketplace" (p. 12). We identified four such  countries (Italy, Australia, Canada and South Korea) that were initially positioned in the dominant  brand category (Cluster A), but their brand strength has decreased over time, placing them in  Cluster B. This means that such countries are today better described as niche nation brands. While  their position is still rather strong, and their performance across many of the nation brand elements  is strong, their development has been more stagnant compared to the dominant nation brands and  they have not been able to develop their brands at the same speed as their original peers in the  dominant nation brand category. It may be that such receding country brands are also prioritizing  their brand management strategies in a way that places more value on some brand aspects such as  tourism, while undermining other important brand elements, which may cause the nation brand to
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="*4.5. Receding nation brands*" source="author" id="/page/14/Text/1">
+lose its overall strength. For example, Australia's brand management strategies have been criticized for relying on such an approach in the past, with its main focus on tourism promotion  (Pomering, 2013), but more recently the country has engaged in various campaigns to re-brand the  nation to be better positioned in a globalized world and to attract investment and immigrants, and  boost its trade (Khamis, 2012). Therefore, from a brand management perspective, receding nation  brands may have potential and resources for improving the brand strength, but a country may not  fully optimize its resource use. Through more careful resource allocation and comprehensive brand  building, these countries may be able to strengthen the basic pillars of their brands and improve  their status to avoid further loss of brand strength.
+</text>
+
+
+<heading page="15" section="**5. Empirical results: part 2**" source="author" id="/page/14/SectionHeader/2" level="3">
+### **5. Empirical results: part 2**
+</heading>
+
+<text page="15" section="**5. Empirical results: part 2**" source="author" id="/page/14/Text/3">
+In addition to identifying the expected nation brand categories described by Steenkamp (2021), as  discussed in the previous chapter, our data also indicated unique development patterns in country  brand strength, which signal that certain countries belong to new types of country brands not  depicted by Steenkamp. These will be discussed next.
+</text>
+
+
+<heading page="15" section="*5.1. Volatile nation brands*" source="author" id="/page/14/SectionHeader/4" level="3">
+### *5.1. Volatile nation brands*
+</heading>
+
+<text page="15" section="*5.1. Volatile nation brands*" source="author" id="/page/14/Text/5">
+In Table 3, Jordan is identified as representing a new type of negative nation brand development  pattern that we label as "volatile nation brand." The volatile nation brand is witnessed when a  country that was once among emerging nation brands has experienced volatility in its development, which has caused a significant decline in the brand strength. Figure 4 below presents the  breakdown of nation brand components and illustrates that while Jordan has improved its tourism,  export and immigration over the years, it has faced decline in FDI and governance environment.
+</text>
+
+
+<heading page="15" section="*5.2. Booming nation brands*" source="author" id="/page/14/SectionHeader/6" level="2">
+## *5.2. Booming nation brands*
+</heading>
+
+<text page="15" section="*5.2. Booming nation brands*" source="author" id="/page/14/Text/7">
+Booming nation brands is the second new category revealed by our data. A booming nation brand  is one that has been able to develop its brand strength significantly faster than any of its peers  across the assessed years, moving to a position as a new entrant in the dominant nation brand  category. China and Finland can be seen to have experienced such development. Figure 5 presents  the breakdown of China's nation brand elements and illustrates that, despite volatility in its governance environment, it has improved significantly in terms of other aspects of the brand.  However, due to a recent decrease in its FDI, it may be expected that while China may continue  to develop its brand strength and influence in the global world, it may not do so with the same  speed as in the past.
+</text>
+
+<text page="15" section="*5.2. Booming nation brands*" source="author" id="/page/14/Text/8">
+Figure 6 below presents the breakdown of Finland's nation brand components over the assessed  years. It indicates that while the other aspects of its brand are strong, FDI has experienced some  fluctuation. However, due to its strong performance in governance, the country may be able to  improve its ability to attract FDI.
+</text>
+
+
+<heading page="15" section="**6. Conclusion**" source="author" id="/page/14/SectionHeader/9" level="3">
+### **6. Conclusion**
+</heading>
+
+<text page="15" section="**6. Conclusion**" source="author" id="/page/14/Text/10">
+While there have been recent advances in studies on nation branding assessment and brand equity,  it is still a nascent area of research compared to similar research on city/destination branding or  place branding (e.g. Bose et al., 2020; Cleave and Arku, 2017; Florek, 2015; Herezniak and Anders-Morawska, 2015; Rani, 2019). According to a review of place branding effectiveness assessment,
+</text>
+
+</page>
+<page number="16">
+<figure_group page="16" section="**6. Conclusion**" source="author" id="/page/15/FigureGroup/44">
+<figure page="16" section="**6. Conclusion**" source="author" id="/page/15/Figure/2" image="A3.R55_fig07.jpg">[FIGURE: see A3.R55_fig07.jpg]</figure>
+<caption page="16" section="**6. Conclusion**" source="author" id="/page/15/Caption/3">
+**Figure 4.** Breakdown of the nation brand variables in development of Jordan's nation brand.
+</caption>
+</figure_group>
+
+<text page="16" section="**6. Conclusion**" source="author" id="/page/15/Text/4">
+Florek et al. (2019) found that most existing scholarly studies in this domain, and well-known  nation brand indices, such as the Nation Brands Index developed by Simon Anholt and the Country  Brand Index created by the FutureBrand Consultancy, focused on consumer brand equity, with  performance-based brand equity receiving less attention, perhaps due to the more complex methods needed to study it empirically. However, even Anholt (2006) has criticized the use of surveybased data, which are prone to bias if the sample is limited or respondents come from different  backgrounds. Therefore, recent attempts to build alternative nation brand indices have adopted a  performance-based brand equity perspective (Fetscherin, 2010; Lahrech et al., 2020b), using secondary data to measure nation brand equity. Adopting a similar approach, we used secondary data  to assess longitudinal brand equity development, employing smooth transition modeling to test the  categories and expected development trajectories of Steenkamp's (2021) nation brand equity grid.
+</text>
+
+</page>
+<page number="17">
+<figure_group page="17" section="**6. Conclusion**" source="author" id="/page/16/FigureGroup/45">
+<figure page="17" section="**6. Conclusion**" source="author" id="/page/16/Figure/1" image="A3.R55_fig08.jpg">[FIGURE: see A3.R55_fig08.jpg]</figure>
+<caption page="17" section="**6. Conclusion**" source="author" id="/page/16/Caption/2">
+**Figure 5.** Breakdown of the nation brand variables in development of China's nation brand.
+</caption>
+</figure_group>
+
+<text page="17" section="**6. Conclusion**" source="author" id="/page/16/Text/3">
+We assessed 41 countries' nation brand performance over 1995–2017 to understand the development of their nation brand equity. Our findings support the country brand types proposed by  Steenkamp (2021). The "two common trajectories" (Steenkamp, 2021: 11) of the model, the first  in which a weak nation brand moves to a niche or emerging nation brand to become a dominant  nation brand, and the second in which a previously dominant nation declines to become a receding  and ultimately weak nation brand, are partially supported by our findings. We argue that while such  development trajectories are possible, movement from one extreme to another is rare. The latter  trajectory is rare, as it would require a significant socio-economic disruption in such a country.  Furthermore, the former development trajectory is also rare, since most countries are constantly  strengthening their nation brands, which therefore makes the development of a weak nation brand  into a dominant nation brand very challenging. In other words, such a country would have to
+</text>
+
+</page>
+<page number="18">
+<figure_group page="18" section="**6. Conclusion**" source="author" id="/page/17/FigureGroup/50">
+<figure page="18" section="**6. Conclusion**" source="author" id="/page/17/Figure/2" image="A3.R55_fig09.jpg">[FIGURE: see A3.R55_fig09.jpg]</figure>
+<caption page="18" section="**6. Conclusion**" source="author" id="/page/17/Caption/3">
+**Figure 6.** Breakdown of the nation brand variables in development of Finland's nation brand.
+</caption>
+</figure_group>
+
+<text page="18" section="**6. Conclusion**" source="author" id="/page/17/Text/4">
+perform at an exceptional level in terms of its development. Thus, while extreme shifts in nation  brand strength are rare, our model identified more realistic development patterns by identifying  new types of volatile and booming nation brands, in terms of which a country was able to shift its  position upward or downward one category based on its development over two decades.
+</text>
+
+<text page="18" section="**6. Conclusion**" source="author" id="/page/17/Text/5">
+We propose that further studies should focus especially on those countries identified as having  a volatile or booming nation brand, as both these types are currently neglected areas in research.  These phenomena are of great interest to researchers in developing a more detailed understanding  of the underlying reasons and identifying measures to improve the brand. For nations that have lost  brand equity, studies of brand revitalization strategies (e.g. Rodner and Kerrigan, 2018) and  rebranding (e.g. Amujo and Otubanjo, 2012) can offer valuable insights. Booming nation brands,  on the other hand, can be revealing examples of brand re-positioning or of wider large-scale socioeconomic development.
+</text>
+
+</page>
+<page number="19">
+<text page="19" section="**6. Conclusion**" source="author" id="/page/18/Text/1">
+Our study contributes to emerging research on nation brand management (Fetscherin, 2010;  Lahrech et al., 2020b; Steenkamp, 2021). In addition to identifying new types of country brand  profiles (volatile and booming nation brands) to complement Steenkamp's pioneering work, we  developed a comprehensive method for assessing longitudinal brand strength over a longer period  than in previous empirical studies. In addition, to the best of our knowledge, no previous study has  used smooth transition modeling to study nation brand equity. While this method has been used in  economic research, its application to nation brand equity assessment is a novel approach. Our  approach of using the nonlinear smooth transition model proved to be a powerful tool for assessing  longitudinal nation brand performance, since it not only indicated how countries' brand strength  evolved over time, and the relative performance of countries compared to their peers, but also  precisely identified the speed of transitions, in other words, how fast nation brands moved from  one level to another.
+</text>
+
+<text page="19" section="**6. Conclusion**" source="author" id="/page/18/Text/2">
+Our study revealed several interesting findings that are not only of great importance to nation  branding research, but also open a new pathway for using data-driven models in such research.  According to our model, α, β, and γ are the three important coefficients that control the evolution over  time of a country's nation brand performance. More precisely, researchers should consider the three  coefficients together in order to understand how a nation brand evolves from one regime to another  and how fast the transition takes place. This would allow policymakers to determine their countries'  standing in terms of brand performance, and whether their countries' brands are evolving and how  fast; thus, our model provides an econometric tool to help policymakers to assess the effect of any  policy changes aimed at enhancing the brand of a nation and assessing how fast the results of such  policy changes are likely to be reflected in the actual performance of the country. Our applied method  is also important for academics, since understanding the mechanisms behind transitions from one  regime to another can also help researchers link these transitions back to various economic, social,  cultural, and political transitions that have occurred in nations. Our method therefore has powerful  explanatory value for a wide range of marketing, economics, and other social science studies.
+</text>
+
+<text page="19" section="**6. Conclusion**" source="author" id="/page/18/Text/3">
+Our study has some limitations. To date, there is still no common agreement on how brand performance should be operationally measured, what the most appropriate methods of assessment are,  or what indicators should be considered to measure it (Florek et al., 2019); thus, our selected indicators are not necessarily the only ones applicable for the stated purpose. Future studies could  extend our approach by considering additional aspects of nation brands and using relevant secondary data with appropriate indicators; for example, culture and heritage are commonly used variables in nation brand assessment and future studies could assess nation brand performance by  including these variables once secondary data become more widely available. In addition, our  findings are limited to the 1995–2017 period, as secondary data for all dimensions were not available beyond that time. Future studies would benefit from assessing countries' performance over a  longer time span. Finally, we were not able to discuss in detail any of the sample countries' more  specific nation brand development trajectories, which should be addressed by further research.
+</text>
+
+
+<heading page="19" section="**Acknowledgements**" source="author" id="/page/18/SectionHeader/4" level="4">
+#### **Acknowledgements**
+</heading>
+
+<text page="19" section="**Acknowledgements**" source="author" id="/page/18/Text/5">
+We are grateful to the editor and anonymous reviewers of Australian Journal of Management for their constructive comments and suggestions.
+</text>
+
+
+<heading page="19" section="**Funding**" source="author" id="/page/18/SectionHeader/6" level="4">
+#### **Funding**
+</heading>
+
+<text page="19" section="**Funding**" source="author" id="/page/18/Text/7">
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="19" section="**ORCID iD**" source="author" id="/page/18/SectionHeader/8" level="4">
+#### **ORCID iD**
+</heading>
+
+<text page="19" section="**ORCID iD**" source="author" id="/page/18/Text/9">
+Abdelmounaim Lahrech [https://orcid.org/0000-0003-3024-3858](https://orcid.org/0000-0003-3024-3858)
+</text>
+
+</page>
+<page number="20">
+
+<heading page="20" section="**References**" source="author" id="/page/19/SectionHeader/2" level="4">
+#### **References**
+</heading>
+
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/236">
+- Abimbola T (2006) Market access for developing economies: Branding in Africa. *Place Branding* 2: 108–117. Amujo OC and Otubanjo O (2012) Leveraging rebranding of "unattractive" nation brands to stimulate postdisaster tourism. *Tourist Studies* 12: 87–105.
+- Andersson M and Paajanen M (2012) Common or competing products? Towards supra-national branding in  BaltMet Promo. *Journal of Place Management and Development* 5: 56–69.
+- Anholt S (2006) Public diplomacy and place branding: Where's the link? *Place Branding* 2: 271–275.
+- Anholt S (2010) *Places: Identity, Image and Reputation*. Basingstoke: Palgrave Macmillan.
+- Aronczyk M (2008) "Living the Bran": Nationality, globality, and the identity strategies of nation branding  consultants. *International Journal of Communication* 2: 41–65.
+- Atilgan E, Aksoy Ş and Akinci S (2005) Determinants of the brand equity. *Marketing Intelligence &amp; Planning* 23: 237–248.
+- Aveline J (2006) Branding Europe? Branding, design and post-national loyalties. *Place Branding* 2: 334–340. Barnett V and Lewis T (1994) *Outliers in Statistical Data*. 3rd ed. Boston, MA: John Wiley &amp; Sons.
+- Boisen M, Terlouw K and van Gorp B (2011) The selective nature of place branding and the layering of spatial identities. *Journal of Place Management and Development* 4: 135–147.
+- Boisen M, Terlouw K, Groote P, et al. (2017) Reframing place promotion, place marketing, and place branding—Moving beyond conceptual confusion. *Cities* 80: 4–11.
+- Bose S, Roy SK, Alwi SFS, et al. (2020) Measuring customer-based place brand equity (CBPBE) from public  diplomacy perspective: Evidence from West Bengal. *Journal of Business Research* 116: 734–744.
+- Bose S, Roy SK and Tiwari AK (2016) Measuring customer-based place brand equity (CBPBE): An investment attractiveness perspective. *Journal of Strategic Marketing* 24: 617–634.
+- Braun E, Eshuis J and Klijn EH (2014) The effectiveness of place brand communication. *Cities* 41: 64–70.
+- Caldwell D and Freire J (2004) The differences between branding a country, a region and a city: Applying the  brand box model. *Journal of Brand Management* 12: 50–61.
+- Chan CS, Peters M and Marafa LM (2016) An assessment of place brand potential: Familiarity, favourability  and uniqueness. *Journal of Place Management and Development* 9: 269–288.
+- Chelley-Steeley PL (2005) Modeling equity market integration using smooth transition analysis: A study of  Eastern European stock markets. *Journal of International Money and Finance* 24: 818–831.
+- Cleave E and Arku G (2017) Putting a number on place: A systematic review of place branding influence.  *Journal of Place Management and Development* 10: 425–446.
+- Cooper AF and Momani B (2009) The challenge of re-branding progressive countries in the Gulf and Middle  East: Opportunities through new networked engagements versus constraints of embedded negative  images. *Place Branding and Public Diplomacy* 5: 103–117.
+- Dickey DA and Fuller WA (1979) Distribution of the estimators for autoregressive time series with a unit  root. *Journal of the American Statistical Association* 74: 427–431.
+- Dimitrova BV, Korschun D and Yotov YV (2017) When and how country reputation stimulates export volume. *International Marketing Review* 34: 377–402.
+- Dubinsky Y (2022) Sport-tech diplomacy: Exploring the intersections between the sport-tech ecosystem,  innovation, and diplomacy in Israel. *Place Branding and Public Diplomacy* 18: 169–180.
+- Fetscherin M (2010) The determinants and measurement of a country brand: The country brand strength  index. *International Marketing Review* 27: 466–479.
+- Florek M (2015) Application of the concept of destination brand equity: The example of two Polish cities.  *International Journal of Tourism Cities* 1: 152–161.
+- Florek M, Giovanardi M, Herezniak M, et al. (2015) City brand strategy evaluation: In search of effectiveness  indicators. *Journal of Place Management and Development* 8: 187–205.
+- Florek M, Hereźniak M and Augustyn A (2019) You can't govern if you don't measure: Experts' insights into  place branding effectiveness assessment. *Journal of Place Management and Development* 12: 545–565.
+- Foroudi P, Gupta S, Kitchen P, et al. (2016) A framework of place branding, place image, and place reputation. *Qualitative Market Research* 19: 241–264.
+- Futurebrand (2014) Country brand index 2014-2015. Available at: [https://www.futurebrand.com/uploads/](https://www.futurebrand.com/uploads/Country-Brand-Index-2014-15.pdf) [Country-Brand-Index-2014-15.pdf ](https://www.futurebrand.com/uploads/Country-Brand-Index-2014-15.pdf)(accessed 6 June 2021).
+</list>
+
+</page>
+<page number="21">
+<text page="21" section="**References**" source="author" id="/page/20/Text/1">
+Futurebrand (2019) Future brand country index 2019. Available at: [https://www.futurebrand.com/uploads/](https://www.futurebrand.com/uploads/FCI/FutureBrand-Country-Index-2019.pdf) [FCI/FutureBrand-Country-Index-2019.pdf](https://www.futurebrand.com/uploads/FCI/FutureBrand-Country-Index-2019.pdf) (accessed 22 July 2021).
+</text>
+
+<list page="21" section="**References**" source="author" id="/page/20/ListGroup/235">
+- Galles GM, Graves PE and Sexton RL (2019) Leisure and the production possibility frontier: A two-step  pedagogy. *The American Economist* 64: 123–130.
+- Gertner D (2011) A (tentative) meta-analysis of the "place marketing" and "place branding" literature.  *Journal of Brand Management* 19: 112–131.
+- Gilmore F (2002) A country—Can it be repositioned? Spain—The success story of country branding. *Journal * *of Brand Management* 9: 281–293.
+- Globenewswire (2018) Sweden earns top spot as most reputable country in the world. Available at: [https://](https://www.globenewswire.com/news-release/2018/06/21/1527974/0/en/Sweden-Earns-Top-Spot-as-Most-Reputable-Country-in-the-World.html) [www.globenewswire.com/news-release/2018/06/21/1527974/0/en/Sweden-Earns-Top-Spot-as-Most-](https://www.globenewswire.com/news-release/2018/06/21/1527974/0/en/Sweden-Earns-Top-Spot-as-Most-Reputable-Country-in-the-World.html)[Reputable-Country-in-the-World.html ](https://www.globenewswire.com/news-release/2018/06/21/1527974/0/en/Sweden-Earns-Top-Spot-as-Most-Reputable-Country-in-the-World.html)(accessed 22 July 2021).
+- Granger CW and Teräsvirta T (1993) *Modelling Nonlinear Economic Relationships*. Oxford: Oxford  University Press.
+- Hall CM (2010) Tourism destination branding and its effects on national branding strategies: Brand New  Zealand, clean and green but is it smart? *European Journal of Tourism, Hospitality and Recreation* 1:  68–89.
+- Hanna S and Rowley J (2008) An analysis of terminology use in place branding. *Place Branding and Public * *Diplomacy* 4: 61–75.
+- Hao AW, Paul J, Trott S, et al. (2019) Two decades of research on nation branding: A review and future  research agenda. *International Marketing Review* 38: 46–69.
+- Hashim AR (2012) Branding the brand new city: Abu Dhabi, travelers welcome. *Place Branding and Public * *Diplomacy* 8: 72–82.
+- Herezniak M and Anders-Morawska J (2015) City brand strategy evaluation: In search of effectiveness indicators. *Journal of Place Management and Development* 8: 187–205.
+- Ipsos (2021) Anholt Ipsos Nation Brands Index (NBI). Available at: [https://www.ipsos.com/sites/default/](https://www.ipsos.com/sites/default/files/2021-09/Anholt-Ipsos-Place-Branding-09-2021.pdf) [files/2021-09/Anholt-Ipsos-Place-Branding-09-2021.pdf ](https://www.ipsos.com/sites/default/files/2021-09/Anholt-Ipsos-Place-Branding-09-2021.pdf)(accessed 4 November 2022).
+- Kalamova MM and Konrad KA (2010) Nation brands and foreign direct investment. *Kyklos* 63: 400–431.
+- Kaufman L and Rousseeuw PJ (1990) *Finding Groups in Data: An Introduction to Cluster Analysis*. New  York: Wiley.
+- Keller KL (1993) Conceptualizing, measuring, and managing customer-based brand equity. *Journal of * *Marketing* 57: 1–22.
+- Kerr G (2006) From destination brand to location brand. *Journal of Brand Management* 13: 276–283.
+- Khamis S (2012) Brand Australia: Half-truths for a hard sell. *Journal of Australian Studies* 36: 49–63.
+- Kotler P and Gertner D (2002) Country as brand, product and beyond: A place marketing and brand management perspective. *Journal of Brand Management* 9: 249–261.
+- Lahrech A, Alabdulwahab SZ and Bouayach S (2020a) Nation branding and how it is related to foreign direct  investment inflows. *International Journal of Economics and Financial Issues* 10: 248–255.
+- Lahrech A, Juusola K and AlAnsaari ME (2020b) Toward more rigorous country brand assessments: The  modified country brand strength index. *International Marketing Review* 37: 319–344.
+- Lee R and Lee YI (2019) The role of nation brand in attracting foreign direct investments: A case study of  Korea. *International Marketing Review* 38: 124–140.
+- Leybourne SJ and Mizen P (1999) Understanding the disinflations in Australia, Canada and New Zealand  using evidence from smooth transition analysis. *Journal of International Money and Finance* 18:  799–816.
+- Leybourne SJ, Newbold P and Vougas D (1997) Unit roots and smooth transitions. *Journal of Time Series * *Analysis* 19: 83–97.
+- Li S and Filer L (2007) The effects of the governance environment on the choice of investment mode and the  strategic implications. *Journal of World Business* 42: 80–98.
+- Lin CFJ and Teräsvirta T (1994) Testing the constancy of regression parameters against continuous structural  change. *Journal of Econometrics* 62: 211–228.
+- Lucarelli A and Berg PO (2011) City branding: A state-of-the-art review of the research domain. *Journal of * *Place Management and Development* 4: 9–27.
+</list>
+
+</page>
+<page number="22">
+<list page="22" section="**References**" source="author" id="/page/21/ListGroup/166">
+- Magnus J (2016) International branding of the Nordic region. *Place Branding and Public Diplomacy* 12:  195–200.
+- Mariutti FG (2017) The placement of country reputation towards place management. *Journal of Place * *Management and Development* 10: 240–253.
+- Mariutti FG and Giraldi JM (2021) Branding cities, regions and countries: The roadmap of place brand equity.  *RAUSP Management Journal* 56: 202–216.
+- Mariutti FG and Tench R (2015) Are we talking the same language? Challenging complexity in country brand  models. *Athens Journal of Business and Economics* 1: 49–61.
+- Melnyk T and Varibrusova A (2019) Variable indicators affecting the country's brand strategy effectiveness  and competitiveness in the world. *Management Science Letters* 9: 1685–1700.
+- Papadopoulos N and Heslop LA (2002) Country equity and country branding: Problems and prospects.  *Journal of Brand Management* 9: 294–314.
+- Papadopoulos N, Hamzaoui-Essoussi L and El Banna A (2016) Nation branding for foreign direct investment:  An integrative review and directions for research and strategy. *Journal of Product &amp; Brand Management* 25: 615–628.
+- Pappu R, Quester PG and Cooksey RW (2006) Consumer-based brand equity and country-of-origin relationships. *European Journal of Marketing* 40: 696–717.
+- Pomering A (2013) Indigenous identity in the nation brand: Tension and inconsistency in a nation's tourism  advertising campaigns. *Corporate Reputation Review* 16: 66–79.
+- Rani P (2019) Customer-based brand equity index of Kurukshetra. *Journal of Tourism Analysis* 26: 48–61.
+- Rodner V and Kerrigan F (2018) From modernism to populism —Art as a discursive mirror of the nation  brand. *European Journal of Marketing* 52: 882–906.
+- Rojas-Méndez J (2013) The nation brand molecule. *Journal of Product &amp; Brand Management* 22: 462–472.
+- Silvanto S and Ryan J (2014) Relocation branding: A strategic framework for attracting talent from abroad.  *Journal of Global Mobility* 2: 102–120.
+- Silvanto S and Ryan J (2018) An investigation into the core appeals for nation branding to attract and retain  talent to enhance a country's competitiveness. *Competitiveness Review* 28: 584–604.
+- Steenkamp JB (2021) Building strong nation brands. *International Marketing Review* 38: 6–18.
+- Sun Q and Paswan A (2011) Country branding using product quality. *Journal of Brand Management* 19:  143–157.
+- Verlegh PW and Steenkamp JB (1999) A review and meta-analysis of country-of-origin research. *Journal of * *Economic Psychology* 20: 521–546.
+- Zeinalpour H, Shahbazi N and Ezzatirad H (2013) A review on city and country brand index. *World Applied * *Sciences Journal* 27: 1401–1407.
+- Zenker S (2014) Measuring place brand equity with the advanced brand concept map(aBCM) method. *Place * *Branding and Public Diplomacy* 10: 158–166.
+</list>
+
+</page>
+<page number="23">
+<figure_group page="23" section="**References**" source="author" id="/page/22/FigureGroup/12">
+<figure page="23" section="**References**" source="author" id="/page/22/Figure/1" image="A3.R55_fig10.jpg">[FIGURE: see A3.R55_fig10.jpg]</figure>
+<caption page="23" section="**References**" source="author" id="/page/22/Caption/2">
+**Appendix 1.** The USA as an outlier (a) and (b) Box plot.
+</caption>
+</figure_group>
+
+</page>
+</paper>

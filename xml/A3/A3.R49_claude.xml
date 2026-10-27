@@ -1,0 +1,757 @@
+<paper source_file="A3.R49" title="**The Infuence of Environmental, Social, and Governance ** **(ESG) Practices on US Firms' Performance: Evidence ** **from the Coronavirus Crisis**" total_pages="22" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R49_fig01.jpg">[FIGURE: see A3.R49_fig01.jpg]</figure>
+
+
+<heading page="1" section="**The Infuence of Environmental, Social, and Governance ** **(ESG) Practices on US Firms' Performance: Evidence ** **from the Coronavirus Crisis**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **The Infuence of Environmental, Social, and Governance ** **(ESG) Practices on US Firms' Performance: Evidence ** **from the Coronavirus Crisis**
+</heading>
+
+<text page="1" section="**The Infuence of Environmental, Social, and Governance ** **(ESG) Practices on US Firms' Performance: Evidence ** **from the Coronavirus Crisis**" source="author" id="/page/0/Text/3">
+**Ahmed Mohamed Habib****[1](http://orcid.org/0000-0003-1728-6028)** ** · Nahia Mourad2**
+</text>
+
+<text page="1" section="**The Infuence of Environmental, Social, and Governance ** **(ESG) Practices on US Firms' Performance: Evidence ** **from the Coronavirus Crisis**" source="author" id="/page/0/Text/4">
+Received: 8 February 2022 / Accepted: 24 February 2023 / Published online: 18 March 2023 © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature  2023
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/5" level="4">
+#### **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/6">
+This study explores the infuence of total and individual ESG practices and the coronavirus crisis on US frm performance (FP). A large and recent sample of 406 US  frms that adopted ESG issues during 2016–2020 was used. This study uses the generalized least-squares (GLS) regression estimator, the dynamic analysis technique,  and robustness tests. The results indicate that frms with heightened ESG practices  have better performance measures. In most cases, the results suggest that frms with  heightened environmental, social, and governance performances have better performance measures. The results suggest that the coronavirus crisis negatively afected  FP measures. In addition, the analyses of the diferences suggest signifcant distinctions in FP due to the coronavirus crisis. This study's fndings have important implications for stakeholders. Managers could beneft from the results of this examination  by recognizing the status of ESG practices and FP before and during the coronavirus  crisis and identifying the linkage between the fulfllment of ESG responsibilities and  FP. This study provides noteworthy practical implications that could enable managers to develop strategies and policies for adopting and enhancing ESG practices  to achieve the best performance. Furthermore, the results could infuence trading  processes as investors and fnanciers pursue attractive fnancial returns from investments in businesses concerned with ESG issues.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+**Keywords** Environmental · Social · Governance · ESG · Performance · Coronavirus  crisis
+</text>
+
+<footnote page="1" section="**Abstract**" source="author" id="/page/0/Footnote/8">
+^(*) Ahmed Mohamed Habib  dr_ahmedhabib@yahoo.com Nahia Mourad  nahia.mourad@buid.ac.ae
+</footnote>
+
+<footnote page="1" section="**Abstract**" source="author" id="/page/0/Footnote/9">
+^(1) Independent Accounting and Finance Researcher, Independent Research, Zagazig, Egypt
+</footnote>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**Introduction**" source="author" id="/page/1/SectionHeader/2" level="3">
+### **Introduction**
+</heading>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/3">
+The early 2000s fnancial crisis of the USA severely afected global markets,  leading to economic obstacles that required signifcant levels of government  intrusion and societal attention (Nicholson et al., [2011](#page-20-0)). Additionally, there have  been many issues regarding ethical behavior, responsibility, supervision, and  doubts regarding frm reporting as a reliable source of information for stakeholders (Alqallaf &amp; Alareeni, [2018)](#page-18-0). Therefore, many frms seek to develop policies  and strategies to provide information users with a transparent snapshot of their  business responsibility procedures and initiatives by following environmental  (ENV), social (SOC), and governance (GOV) criteria because of stress from ofcials, fnancial markets, and stakeholders (Habib, [2022](#page-19-0)). Enhanced transparency  can help attract money and sustain investors' trust in the stock market. Simultaneously, a lack of disclosure may cause immoral behavior, manipulation, and doubt  in exchange integrity, which costs frms, information users, and the economy  (Demise, [2006](#page-19-1)). Consequently, frms attempt to disclose ESG issues to attract  investments and enhance frm value (Habib, [2022](#page-19-0)).
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/4">
+ESG performance involves the integration of ENV, SOC, and GOV performance  (Habib, [2022](#page-19-0)). Rezaee [(2016](#page-21-0)) confrms that including and employing ESG performance in the management strategy of frms can generate value. In recent years,  ESG performance has attracted decision-makers as an essential method for enhancing frm value (Habib,[ 2022](#page-19-0); Malik, [2015)](#page-20-1). Therefore, some researchers believe that  frms that desire to stand out in the business environment should prioritize enhancing their ESG performance (Habib,[ 2022](#page-19-0); Hockerts &amp; Moir,[ 2004](#page-20-2); Vandekerckhove  et al., [2008](#page-21-1)). Shiller ([2013)](#page-21-2) confrms that as fnancial markets play a crucial role  in maintaining various SOC activities, ESG information also serves investors and  society. Therefore, Eccles et al. ([2014)](#page-19-2) assert that disclosing ESG information to  stakeholders is necessary for frms to attract long-term investors. In addition, ESG  analysis provides a holistic view of the potential ENV and SOC risk areas and  opportunities for frms in rapidly changing markets. Firms concentrating on ESG  investments can reduce costs, enhance productivity, alleviate risk potential, deliver  opportunities for revenue generation, and improve their earnings and long-term sustainability (Eccles et al., [2014;](#page-19-2) Malik,[ 2015](#page-20-1); Rezaee, [2016](#page-21-0)).
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/5">
+Several theories have proposed explanations for the ESG issues. For example,  stakeholder theory posits that corporate SOC responsibility practices may help  businesses enhance their relationships with stakeholders (Bitektine &amp; Haack,  [2015;](#page-19-3) Russo &amp; Perrini, [2010;](#page-21-3) Tu &amp; Huang, [2015](#page-21-4)). Institutional and legitimacy  theories suggest that enhancing SOC practices improves FP (Beddewela &amp; Fairbrass, [2016;](#page-19-4) Velte, [2017)](#page-21-5). In addition, resource allocation theory suggests that  businesses should determine how to allocate resources to all productive activities  in a cost-efective manner (Ferrier, [1994;](#page-19-5) Li &amp; Cui, [2008)](#page-20-3). The resource-based  theory implies that large frms perform better in ESG practices. From a resourcebased perspective, these resources enable frms to enhance their ESG practices  (Ruf et al., [2001](#page-21-6)). Thus, it improves frm image and customer trust (Greening &amp;  Turban, [2000](#page-19-6); Orlitzky et al., [2003](#page-20-4)). Moreover, Godfrey et al. ([2009](#page-19-7)) suggest that
+</text>
+
+<figure page="2" section="**Introduction**" source="author" id="/page/1/Picture/6" image="A3.R49_fig02.jpg">[FIGURE: see A3.R49_fig02.jpg]</figure>
+
+</page>
+<page number="3">
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/2">
+ESG investment is considered a form of a reputational hazard coverage. Sharfman and Fernando ([2008](#page-21-7)) state that ESG can mitigate residual frm hazards. In  addition, a survey by Allianz ([2019](#page-18-1)) found that approximately 79% of Americans  supported the notion of investing in frms that heeded important issues, about  74% stated that ESG investments initiated them to feel confdence, and about  69% mentioned that GOV issues are also necessary for their decision to invest  (Allianz, [2019)](#page-18-1). Customers desire to ensure that frms they buy from have clear  ESG strategies and policies because buying choices are linked to SOC concerns,  which means that frms must concentrate on establishing and enhancing ESG performance to get and keep investors and customers in addition to issues of product costs, competitive prices, product quality, and after-sales services. According to an Allianz report, one-third of customers choose frms based on their SOC  responsibility policies (Allianz, [2019](#page-18-1)). Moreover, the KPMG's global organization found that 96% of the world's largest traded frms are already disclosing  information on their ESG performance. In addition, some frms believe that publishing their performance in this feld shows the importance of ESG for the market and potential investors and that focusing on ESG matters ensures long-term  FP and investment (KPMG, [2020)](#page-20-5).
+</text>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/3">
+In addition, previous studies have attempted to discover the infuence of ESG performance on FP, but their focus was on a single aspect of ESG dimensions, that is,  ENV, SOC, and GOV (Adegbite et  al., [2019;](#page-18-2) Barnett &amp; Salomon, [2012;](#page-19-8) Elsayed  &amp; Paton, [2005](#page-19-9); Hu et  al., [2018](#page-20-6); Qiu et  al., [2016](#page-20-7); Smith et  al., [2007](#page-21-8)). However,  focusing on only one dimension without considering others may not be appropriate for the comprehensive assessment of ESG practices. Only a few ESG studies  have examined all ESG sub-dimensions and their infuence on FP through multiple  indicators related to accounting measurements while neglecting market-based measurements (Ahmad et al., [2021](#page-18-3); Han et al., [2016](#page-20-8); Sassen et al., [2016;](#page-21-9) Tarmuji et al.,  [2016](#page-21-10); Velte,[ 2017](#page-21-5)). Moreover, the impact of the coronavirus pandemic has had great  consequences on all economic aspects, whether on a macro- or micro-scale (Fauci  et  al., [2020)](#page-19-10). Therefore, this study explores the infuence of total and individual  ESG practices on market-based performance indicators, focusing on the coronavirus  crisis's statistical infuence on frms' market value. Because of the signifcance of  frms' current and prospective investments, this study focuses on market-based performance indicators, as investors care about past, current, and future market prices,  and frm market value. Orlitzky et al. [(2003](#page-20-4)) and Ullmann ([1985)](#page-21-11) demonstrate that  market-based performance indicators are superior to accounting-based performance  indicators because they focus on a frm's ability to generate future earnings rather  than on historical performance. Furthermore, accounting adjustments and management manipulations are unlikely to afect market-based performance metrics. Therefore, these indicators are essential for investors to invest in a frm. In addition, this  examination is signifcant for decision-makers to recognize the efciency of businesses' performance and ESG practices during the pandemic and take adequate corrective actions to improve ESG practices and frm value. Additionally, the results  could infuence trading processes as investors and fnanciers pursue attractive fnancial returns from investments in businesses concerned with ESG issues.
+</text>
+
+<figure page="3" section="**Introduction**" source="author" id="/page/2/Picture/4" image="A3.R49_fig03.jpg">[FIGURE: see A3.R49_fig03.jpg]</figure>
+
+</page>
+<page number="4">
+<text page="4" section="**Introduction**" source="author" id="/page/3/Text/2">
+The primary motivation for this study was for multiple reasons. Firstly, ESG  practices play a critical role in helping businesses enhance their relationships with  stakeholders (Bitektine &amp; Haack, [2015;](#page-19-3) Habib, [2022](#page-19-0); Russo &amp; Perrini, [2010](#page-21-3); Tu &amp;  Huang, [2015)](#page-21-4). Secondly, ESG practices should be enhanced to achieve the best performance (Eccles et al., [2014;](#page-19-2) Habib, [2022;](#page-19-0) Malik, [2015;](#page-20-1) Rezaee, [2016](#page-21-0)). Therefore,  this study explores the infuence of ESG practices on market-based performance  indicators, as investors care about market measures when making their investment  decisions. Thirdly, most studies have attempted to explore a single aspect of ESG  dimensions and neglected the remaining aspects, although ESG issues are interrelated, and concentration on one dimension may lead to unsatisfactory (Adegbite  et al., [2019;](#page-18-2) Barnett &amp; Salomon, [2012;](#page-19-8) Elsayed &amp; Paton, [2005;](#page-19-9) Hu et al., [2018;](#page-20-6) Qiu  et al., [2016](#page-20-7); Smith et al., [2007)](#page-21-8). Therefore, the current examination focuses on total  and individual ESG practices to provide comprehensive information regarding these  practices, which could be benefcial for managers in identifying the link between the  fulfllment of ESG responsibilities and FP. Finally, the great consequences of the  emergence and spread of the coronavirus pandemic on all economic aspects necessitate the need to verify the statistical impact of the crisis on the progress of FP.
+</text>
+
+<text page="4" section="**Introduction**" source="author" id="/page/3/Text/3">
+Additionally, this examination contributes to the existing body of knowledge.  Firstly, to our knowledge, this examination is one of the frst to assess the efect of  frm ESG activities on market-based performance before and during the coronavirus  crisis. Secondly, it is justifed to revisit the infuence of ESG performance on FP,  especially in the USA, due to the scarcity of related research. Thirdly, this study  defnes total and individual ESG practices without neglecting any aspect to provide  comprehensive information on the overall performance of frms in terms of these  practices. Fourthly, the results may also be helpful for decision-makers in raising  their cognition of the signifcance of ESG practices in achieving the best performance, and the importance of combining them into all parts of the business. Finally,  this study provides noteworthy practical outcomes, enabling decision-makers to  adopt a mix of ESG practices to enhance continuous improvement processes and  frm value.
+</text>
+
+
+<heading page="4" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/3/SectionHeader/4" level="1">
+# **Literature Review and Hypothesis Formulation**
+</heading>
+
+<text page="4" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/3/Text/5">
+Previous studies that have explored the infuence of ESG practices on FP have  yielded inconclusive results, and most have attempted to explore a single aspect of  ESG dimensions, neglecting the rest of its (Adegbite et al., [2019](#page-18-2); Barnett &amp; Salomon, [2012;](#page-19-8) Elsayed &amp; Paton, [2005;](#page-19-9) Hu et al., [2018](#page-20-6); Qiu et al., [2016](#page-20-7); Smith et al.,  [2007](#page-21-8)). There is no doubt that ESG issues are interrelated and focusing on one  dimension may lead to unsatisfactory results. In addition, few studies have focused  on all ESG sub-dimensions and their infuence on FP (Ahmad et al., [2021](#page-18-3); Habib,  [2022](#page-19-0); Han et al.,[ 2016](#page-20-8); Sassen et al., [2016;](#page-21-9) Tarmuji et al.,[ 2016](#page-21-10); Velte, [2017)](#page-21-5). Given  the importance of these issues, the fndings are necessary for users of accounting  information to increase their awareness of ESG performance, disclosure scores, and  frm status from a comprehensive perspective.
+</text>
+
+<figure page="4" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/3/Picture/6" image="A3.R49_fig04.jpg">[FIGURE: see A3.R49_fig04.jpg]</figure>
+
+</page>
+<page number="5">
+<text page="5" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/4/Text/2">
+Adegbite et  al. [(2019](#page-18-2)) investigate the linkage between SOC performance and  FP in 314 UK-listed frms during 2002–2015, and the results confrm the existence  of a nonlinear link between SOC and FP. Hu et al. [(2018](#page-20-6)) explore the connection  between SOC responsibility and frm value by applying it to a sample of Chinese  manufacturing frms from 2010 to 2015, and the fndings indicate that SOC responsibility is positively connectedwith frm value. Han et al. ([2016)](#page-20-8) investigate the linkage between ESG practices and FP by applying it to a sample of Korean frms from  2008 to 2014. The results show mixed results, as ENV and GOV performance correlates with FP indicators, whereas SOC performance does not show any signifcant  evidence of FP indicators. Qiu et al. ([2016)](#page-20-7) examine the linkage between ENV and  SOC disclosures and FP for a sample of frms listed on the FTSE350 index during 2005–2009, and the fndings suggest that frms with more economic resources  make more comprehensive disclosures and achieve better FP. Barnett and Salomon  [(2012](#page-19-8)) explore the connection between corporate SOC performance and FP for 1214  frms from 1998 to 2006, and the fndings confrm a nonlinear relationship between  corporate SOC performance and FP. Smith et al. [(2007](#page-21-8)) examine the link between  ENV disclosure and the performance of Malaysian frms, and their fndings imply  that ENV disclosure negatively afects FP. Elsayed and Paton ([2005)](#page-19-9) examine the  infuence of ENV performance on FP using dynamic and static panel data on 227  UK frms covering 1994 to 2000, and the fndings imply that ENV performance has  a neutral infuence on FP. In addition, the static panel data estimates demonstrate a  weak but signifcant negative infuence on the return on assets. At the same time,  there is no important impact on the Tobin's *Q* ratio or return on sales. Additionally,  dynamic panel data estimates provide limited proof that ENV afects FP.
+</text>
+
+<text page="5" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/4/Text/3">
+In addition, Ademi and Klungseth [(2022](#page-18-4)) investigate the linkage between ESG  performance and FP using a sample of 150 US frms from 2017 to 2020. The results  show a positive infuence on FP. Al Amosh et al. [(2022](#page-18-5)) examine the infuence of  ESG disclosure on FP using a sample of 124 frms in levant countries from 2012  to 2019. These results demonstrate a positive impact on FP. Buallay and Al Marri  [(2022](#page-19-11)) examine the infuence of ESG disclosure on telecommunications and information technology sector performance in 41 countries using a sample of 1844  observations from 2008 to 2017. The results show that there is a negative infuence  on market performance, but no signifcant infuence on operational and FP. Habib  [(2022](#page-19-0)) examines the impact of ESG performance on corporation value by employing a sample of 964 US frm-year observations from 2016 to 2019. The results show  a positive impact on corporation value. Kalia and Aggarwal ([2022)](#page-20-9) examine the  infuence of ESG practices on the FP of healthcare frms using a sample of 468 frms  in 2020. The results indicate a positive infuence on FP in developed economies and  a negative infuence on developing economies. Nguyen et  al. [(2022](#page-20-10)) examine the  infuence of ESG practices on FP using a sample of 57 US frms. The results reveal a  positive infuence on FP. Nurim et al. ([2022)](#page-20-11) examine the infuence of ESG activities  on FP using a sample of 139 Indonesian frms from 2013 to 2019. The results confrm that FP consistently infuences ESG performance and that ESG performance  mediates the relationship between FP and frm value. Rahi et  al. ([2022)](#page-21-12) examine  the infuence of ESG practices on FP using a sample of 39 fnancial frms in Sweden, Denmark, Finland, and Norway from 2015 to 2019. The results demonstrate a
+</text>
+
+<figure page="5" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/4/Picture/4" image="A3.R49_fig05.jpg">[FIGURE: see A3.R49_fig05.jpg]</figure>
+
+</page>
+<page number="6">
+<text page="6" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/5/Text/2">
+positive infuence on FP in terms of return on assets and a negative infuence on FP  in terms of return on equity, return on invested capital, and earnings per share. Carnini Pulino et al. ([2022)](#page-19-12) examine the infuence of ESG disclosure on FP by employing a sample of 263 Italian-listed corporations from 2011 to 2020. The outcomes  show a positive infuence on FP. Wasiuzzaman et al. ([2022)](#page-21-13) analyze the connection  between ESG practices and FP by employing a sample of 668 corporations in the  energy sector from 2009 to 2016. These outcomes show a negative infuence on FP.  Ahmad et al. [(2021](#page-18-3)) investigate the infuence of ESG on FP by employing a sample  of 351 UK corporations from 2002 to 2018. The outcomes reveal that there is a  signifcantly favorable infuence on FP. Chen et al. [(2021](#page-19-13)) examine the infuence of  ESG responsibility on FP by employing a sample of 311 Chinese-listed corporations  from 2008 to 2019. The outcomes show that the infuence of ESG fulfllment on FP  is dynamic and long term, as a frm's FP is signifcantly and negatively infuenced  by ESG fulfllment in the short term because of the opportunity and incurred costs;  however, a frm's FP is signifcantly and positively infuenced by ESG fulfllment in  the long term. Alareeni and Hamdan ([2020)](#page-18-6) examine the infuence of ESG on the  operational, fnancial, and market performance of the listed US S&amp;P 500 frms from  2009 to 2018. The results confrm a positive connection between ESG disclosure  and FP. Velte [(2017](#page-21-5)) investigates the linkage between ESG performance and FP in  Germany during 2010–2014. The results demonstrate that ESG performance infuences return on assets but does not infuence Tobin's *Q* ratio, and GOV performance  has the most potent impact compared to the other sub-dimensions. Sassen et  al.  [(2016](#page-21-9)) investigate the infuence of ESG on frm risk in Europe from 2002 to 2014.  The results confrm that higher ESG minimizes frm risk, SOC performance has an  unfavorable consequence on all risk measures, ENV performance reduces frm idiosyncratic risk, and the frm's GOV dimension has no signifcant infuence on frm  risk. Tarmuji et al. ([2016)](#page-21-10) investigate the infuence of ESG on FP by using samples  from Malaysia and Singapore from 2010 to 2014. The results show that ESG practices infuence FP. Based on the outcomes of ESG practices, we propose the following hypotheses:
+</text>
+
+<text page="6" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/5/Text/3">
+*H1a. ESG practices positively infuence FP during the study period.* *H1b. ENV practices positively infuence FP performance during the study period.* *H1c. SOC practices positively infuence FP performance during the study period.* *H1d. GOV practices positively infuence FP performance during the study period.*
+</text>
+
+<text page="6" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/5/Text/4">
+Moreover, the impact of the coronavirus pandemic has had signifcant repercussions on all aspects of the economy, whether on a macro- or micro-scale (Fauci  et al., [2020;](#page-19-10) Habib &amp; Kayani, [2022;](#page-19-14) Habib &amp; Mourad, [2022)](#page-20-12). Considerable activities have been suspended due to the crisis in order to restrict the consequences of the  crisis and mitigate its harmful infuence. When governments make assertive eforts  to handle the emerging health dangers posed by the pandemic, corporate managers face considerable challenges in managing ESG practices. This demonstrates the  critical role of resilient decision-makers in enhancing ESG practices and FP. In addition, the author has not found any prior research related to this issue in the context of  the coronavirus crisis. Accordingly, this study is one of the frst attempts to explore
+</text>
+
+<figure page="6" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/5/Picture/5" image="A3.R49_fig06.jpg">[FIGURE: see A3.R49_fig06.jpg]</figure>
+
+</page>
+<page number="7">
+<text page="7" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/6/Text/2">
+the infuence of ESG practices on FP during a crisis. Based on the consequences of  the crisis, we propose the following hypotheses:
+</text>
+
+<list page="7" section="**Literature Review and Hypothesis Formulation**" source="cited" id="/page/6/ListGroup/208">
+- *H2. The coronavirus crisis negatively infuence FP during the study period.*
+- *H3. On average, there were noteworthy diferences in FP due to the crisis.*
+- *H4. On average, there were noteworthy diferences in a frm's total and individ**ual ESG practices due to the crisis.*
+</list>
+
+
+<heading page="7" section="**Data and Methodology**" source="author" id="/page/6/SectionHeader/6" level="2">
+## **Data and Methodology**
+</heading>
+
+<text page="7" section="**Data and Methodology**" source="author" id="/page/6/Text/7">
+The current study uses a large and recent sample of US frms. Table  [1 ](#page-6-0)lists the  sample size and characteristics, representing 403 frms with 2015 frm-year observations. These frms are listed on the NASDAQ Capital Market (NASDAQ-CM),  New York Stock Exchange (NYSE), and NYSE American Exchange (NYSE-AM),  whose annual data were obtained using Standard and Poor's DataStream from 2016  to 2020.
+</text>
+
+<text page="7" section="**Data and Methodology**" source="author" id="/page/6/Text/8">
+Many types of research are subjective regarding FP measurement, as each indicator concentrates on a unique component with inherent biases and limitations.  Orlitzky et al. ([2003)](#page-20-4) argued that the indicators related to accounting measurements  are essential metrics of frm efciency; nonetheless, investors care about past, current, and future market prices and frm market value. Their choices were based on  the observations of these signs. Additionally, Ullmann ([1985)](#page-21-11) states that marketbased performance indicators are superior to indicators based on accounting because  investors focus on a frm's capacity to generate future earnings instead of prior FP.  Moreover, market-based performance indicators are unlikely to be infuenced by
+</text>
+
+<table_group page="7" section="**Data and Methodology**" source="author" id="/page/6/TableGroup/207">
+<caption page="7" section="**Data and Methodology**" source="author" id="/page/6/Caption/9">
+**Table** **1 **Sample size and
+</caption>
+<table page="7" section="**Data and Methodology**" source="author" id="/page/6/Table/10">
+| Table 1 Sample size andcharacteristics | Panel A: Sample description |
+| --- | --- |
+|  | Description | Number | Percentage |
+|  | Initial sample | 547 | 100% |
+|  | Inadequate data | 144 | 26.3% |
+|  | Final sample | 403 | 73.7 % |
+|  | Panel B: Decomposition of the fnal sample |
+|  | Sector classifcation | Number | Percentage |
+|  | Communication services | 14 | 3.5% |
+|  | Consumer discretionary | 39 | 9.7% |
+|  | Consumer staples | 25 | 6.2% |
+|  | Financials | 96 | 23.8% |
+|  | Healthcare | 39 | 9.7% |
+|  | Industrials | 61 | 15.1% |
+|  | Information technology | 52 | 12.9% |
+|  | Materials | 25 | 6.2% |
+|  | Real estate | 28 | 6.9% |
+|  | Utilities | 24 | 6% |
+</table>
+</table_group>
+
+<figure page="7" section="**Data and Methodology**" source="author" id="/page/6/Picture/11" image="A3.R49_fig07.jpg">[FIGURE: see A3.R49_fig07.jpg]</figure>
+
+</page>
+<page number="8">
+<text page="8" section="**Data and Methodology**" source="author" id="/page/7/Text/2">
+accounting changes and management manipulation. These indicators are crucial to  investors' decisions to buy stocks. Thus, this study uses market-based performance  indicators as dependent variables, that is, market value (MV), total enterprise value  (TEV), and Tobin's *Q* ratio, because accounting adjustments and management  manipulations are unlikely to afect market-based performance metrics. Table [2 ](#page-7-0)presents the defnitions of the dependent, independent, and control variables.
+</text>
+
+<text page="8" section="**Data and Methodology**" source="author" id="/page/7/Text/3">
+To explore the infuence of total and individual ESG practices on market-based  performance indicators, focusing on the coronavirus crisis's statistical infuence on  frms' market value, we assign the study models as follows:
+</text>
+
+<equation page="8" section="**Data and Methodology**" source="author" id="/page/7/Equation/4">
+$$
+DepVar_{i,t} = \beta_0 + \beta_1 ESG_{i,t} + \beta_2 COV_{i,t} + \beta_3 SIZE_{i,t} + \beta_4 AGE_{i,t} + \beta_5 LEV_{i,t} + \alpha  (1)
+$$
+</equation>
+
+<text page="8" section="**Data and Methodology**" source="author" id="/page/7/Text/5">
+To further examine ESG performance, this study also examines the infuence  of the sub-dimensions of ESG performance, that is, ENV, SOC, and GOV performance, as follows:
+</text>
+
+<equation page="8" section="**Data and Methodology**" source="author" id="/page/7/Equation/6">
+$$
+DepVar_{i,t} = \beta_0 + \beta_1 ENV_{i,t} + \beta_2 SOC_{i,t} + \beta_3 GOV_{i,t} + \beta_4 COV_{i,t} + \beta_5 SIZE_{i,t} + \beta_6 AGE_{i,t} + \beta_7 LEV_{i,t} + \alpha (2)
+$$
+</equation>
+
+<text page="8" section="**Data and Methodology**" source="author" id="/page/7/Text/7">
+As mentioned in the above equations, the dependent variables are proxied by the  MV, TEV, and Tobin's *Q* ratio. A natural log is considered for the variables to mitigate skewed data from being more normally distributed and to achieve a constant  variance. Specifcally, MV is measured by multiplying a frm's outstanding ordinary shares by its current share price at the end of the period. TEV is measured  as the sum of market capitalization, the market value of debt, and preferred stock  after excluding cash and cash equivalents at the end of the period. Tobin's *Q* ratio  is measured by dividing the market value of a frm by its total assets at the end of  the period. ESG is the sum of the ENV, SOC, and GOV practice scores obtained  from Standard and Poor's DataStream. The score is between 0 and 100, with the  frst quartile (0–25) indicating poor relative ESG performance. The second quartile (&gt; 25–50) indicates satisfactory relative ESG performance. The third quartile  (&gt; 50–75) indicates good relative ESG performance. The last quartile (&gt; 75–100)
+</text>
+
+<table_group page="8" section="**Data and Methodology**" source="author" id="/page/7/TableGroup/326">
+<table page="8" section="**Data and Methodology**" source="author" id="/page/7/Table/9">
+| Table 2 Defnition of Variables | Variable | Defnition |
+| --- | --- | --- |
+|  | MV | Market value of frm i in period t |
+|  | TEV | Total enterprise value of frm i in period t |
+|  | Tobin's Q | Tobin's Q ratio of frm i in period t |
+|  | ESG | ESG performance score of frm i in period t |
+|  | ENV | Environmental performance score of frm i in period t |
+|  | SOC | Social performance score of frm i in period t |
+|  | GOV | Governance performance score of frm i in period t |
+|  | COV | Coronavirus crisis of frm i in period t |
+|  | SIZE | Size of frm i in period t |
+|  | AGE | Age of frm i until period t |
+|  | LEV | Financial leverage of frm i in period t |
+|  |  |  |
+</table>
+</table_group>
+
+<figure page="8" section="**Data and Methodology**" source="author" id="/page/7/Picture/10" image="A3.R49_fig08.jpg">[FIGURE: see A3.R49_fig08.jpg]</figure>
+
+</page>
+<page number="9">
+<text page="9" section="**Data and Methodology**" source="author" id="/page/8/Text/2">
+indicates excellent relative ESG performance. The sub-dimensions of ESG performance are interrelated and have the same importance because frms cannot concentrate on only one dimension to improve their overall ESG performance (Ahmad  et al., [2021;](#page-18-3) Habib, [2022;](#page-19-0) Han et al.,[ 2016](#page-20-8); Sassen et al., [2016;](#page-21-9) Tarmuji et al., [2016;](#page-21-10) Velte, [2017)](#page-21-5). ENV, SOC, and GOV are the environmental, social, and governance  performance scores, respectively. COV is measured by a dummy variable taking the  value of one for the time of the coronavirus crisis and zero otherwise. The control  variables considered are frm size (SIZE), age (AGE), and fnancial leverage (LEV).  SIZE is measured as the natural log of a frm's total assets at the end of the period.  AGE is measured as the natural log of a frm's age until the end of a period. LEV is  measured by dividing a frm's debt by its assets at the end of the period.
+</text>
+
+<text page="9" section="**Data and Methodology**" source="author" id="/page/8/Text/3">
+This study used a generalized least-squares (GLS) regression estimator, which  is considered a generalization of the ordinary least-squares (OLS) estimator and  is used to obtain more accurate inferences for model parameters and overcome the  issue of heteroscedasticity (González-Coya &amp; Perron, [2022](#page-19-15); Hsiao, [2007](#page-20-13); Kaufman,  [2013](#page-20-14)). Furthermore, this study adopted additional analyses using a dynamic analysis technique as a more general model. It is based on the Arellano-Bover/Blundell–Bond generalized method of moments (GMM) system estimator. This technique allows the dependent variable as a lagged variable included in the model to  outline the dynamic efects in the panel data analysis, and it allows error terms to  have autoregressive dependence over time (Ahmad et al., [2021;](#page-18-3) Elsayed &amp; Paton,  [2005](#page-19-9); Geroski et al., [1997)](#page-19-16). In addition, this study adopted robustness tests to verify  the validity of the fndings.
+</text>
+
+
+<heading page="9" section="**Empirical Results**" source="author" id="/page/8/SectionHeader/4" level="1">
+# **Empirical Results**
+</heading>
+
+
+<heading page="9" section="**Descriptive Statistics**" source="author" id="/page/8/SectionHeader/5" level="2">
+## **Descriptive Statistics**
+</heading>
+
+<text page="9" section="**Descriptive Statistics**" source="author" id="/page/8/Text/6">
+Table [3 ](#page-9-0)demonstrates the summary statistics of the examination variables before and  during the coronavirus pandemic crisis.
+</text>
+
+<text page="9" section="**Descriptive Statistics**" source="author" id="/page/8/Text/7">
+The average MV was 6.02 and 5.83, with a standard deviation of 0.97 and 1.01,  before and during the coronavirus crisis, respectively. This indicates that US frms'  market values decreased because of the coronavirus crisis. The average TEV was  5.40 and 5.25, with a standard deviation of 0.72 and 0.64, before and during the  coronavirus crisis, respectively. This indicates that US frms' total enterprise values  decreased because of the coronavirus crisis. The average Tobin's *Q* was 4.81 and  4.56, with a standard deviation of 1.26 and 1.28, before and during the coronavirus  crisis, respectively. This indicates that US frms' Tobin's *Q* ratios decreased because  of the coronavirus crisis. In addition, the average ESG was 3.31 and 3.28, with a  standard deviation of 0.57 and 0.62, before and during the coronavirus crisis, respectively. This indicates that US frms' environmental, social, and governance performance decreased because of the coronavirus crisis. The average ENV was 2.80 and  2.56, with a standard deviation of 1.38 and 1.63, before and during the coronavirus crisis, respectively. This indicates that US frms' environmental performance  decreased because of the coronavirus crisis. The average SOC was 2.80 and 2.75,
+</text>
+
+<figure page="9" section="**Descriptive Statistics**" source="author" id="/page/8/Picture/8" image="A3.R49_fig09.jpg">[FIGURE: see A3.R49_fig09.jpg]</figure>
+
+</page>
+<page number="10">
+<table page="10" section="**Descriptive Statistics**" source="author" id="/page/9/Table/2">
+| **Table 3** Descriptive statisti | cs |
+| --- | --- |
+</table>
+
+<table page="10" section="**Descriptive Statistics**" source="author" id="/page/9/Table/3">
+| Table 3 Descriptive statistics | Variables | Crisis status | Mean | Std. Dev. | Min. | Max. |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | MV | Before | 6.022 | 0.965 | 3.980 | 10.652 |
+|  |  | During | 5.832 | 1.007 | 3.759 | 10.078 |
+|  | TEV | Before | 5.403 | 0.721 | 4.118 | 8.741 |
+|  |  | During | 5.253 | 0.641 | 4.371 | 7.497 |
+|  | Tobin's Q | Before | 4.808 | 1.264 | 0.788 | 8.736 |
+|  |  | During | 4.562 | 1.278 | 0.774 | 7.516 |
+|  | ESG | Before | 3.309 | 0.571 | 1.386 | 4.466 |
+|  |  | During | 3.283 | 0.622 | 1.792 | 4.454 |
+|  | ENV | Before | 2.695 | 1.376 | 0.000 | 4.564 |
+|  |  | During | 2.563 | 1.630 | 0.000 | 4.554 |
+|  | SOC | Before | 2.803 | 0.979 | 0.000 | 4.511 |
+|  |  | During | 2.748 | 1.035 | 0.000 | 4.500 |
+|  | GOV | Before | 3.627 | 0.391 | 2.079 | 4.466 |
+|  |  | During | 3.551 | 0.428 | 2.398 | 4.466 |
+|  | SIZE | Before | 9.790 | 1.412 | 5.280 | 14.804 |
+|  |  | During | 10.04 | 1.388 | 5.666 | 15.035 |
+|  | AGE | Before | 3.739 | 1.348 | 1.946 | 5.460 |
+|  |  | During | 3.785 | 1.346 | 2.398 | 5.464 |
+|  | LEV | Before | 5.306 | 1.037 | 1.987 | 9.139 |
+|  |  | During | 5.399 | 1.031 | 2.439 | 9.130 |
+</table>
+
+<text page="10" section="**Descriptive Statistics**" source="author" id="/page/9/Text/4">
+with a standard deviation of 0.98 and 1.04, before and during the coronavirus crisis,  respectively. This indicates that US frms' social performance decreased because of  the coronavirus crisis. The average GOV was 3.63 and 3.55, with a standard deviation of 0.39 and 0.43, before and during the coronavirus crisis, respectively. This  indicates that US frms' governance performance decreased because of the coronavirus crisis.
+</text>
+
+
+<heading page="10" section="**Correlation Analysis**" source="author" id="/page/9/SectionHeader/5" level="4">
+#### **Correlation Analysis**
+</heading>
+
+<text page="10" section="**Correlation Analysis**" source="author" id="/page/9/Text/6">
+Table [4](#page-10-0) presents the correlation matrices, variance infation factors, and tolerance  values. Table [4 ](#page-10-0)panel A presents the pairwise correlation coefcient results for the  frst set of model variables. The COV was negatively, but insignifcantly, correlated  with ESG performance. SIZE, AGE, and LEV signifcantly and positively correlated with ESG performance. This fnding suggests that frms with higher size,  age, and fnancial leverage have better ESG performance. In addition, SIZE was  signifcantly and positively correlated with the coronavirus crisis. This fnding suggests that frms with larger sizes sufered more because of the crisis. The results  show no explanatory variables with coefcients greater than 0.80. Table [4 ](#page-10-0)panel B  presents the variance infation factors (VIF) and tolerance values of the frst model  variables. The results confrm that multicollinearity did not emerge between the  explanatory variables, as the highest VIF value was 1.48 with a tolerance value of
+</text>
+
+<figure page="10" section="**Correlation Analysis**" source="author" id="/page/9/Picture/7" image="A3.R49_fig10.jpg">[FIGURE: see A3.R49_fig10.jpg]</figure>
+
+</page>
+<page number="11">
+<table_group page="11" section="**Correlation Analysis**" source="author" id="/page/10/TableGroup/268">
+<caption page="11" section="**Correlation Analysis**" source="author" id="/page/10/Caption/2">
+**Table** **4 **Correlation matrices, variance infation factors, and tolerance values
+</caption>
+<table page="11" section="**Correlation Analysis**" source="author" id="/page/10/Table/3">
+| Panel A: Total ESG performance (model 1) |
+| --- |
+| Variables | ESG | COV | SIZE | AGE | LEV |  |  |
+| ESG | 1.000 |  |  |  |  |  |  |
+| COV | -0.018 | 1.000 |  |  |  |  |  |
+| SIZE | 0.325*** | 0.072*** | 1.000 |  |  |  |  |
+| AGE | 0.129*** | 0.036 | 0.500*** | 1.000 |  |  |  |
+| LEV | 0.051** | 0.014 | 0.101*** | 0.226*** | 1.000 |  |  |
+| Panel B: Values of variance inflation factor and tolerance (model 1) |
+| VIF | 1.12 | 1.01 | 1.48 | 1.06 | 1.39 |  |  |
+| Tolerance | 0.891 | 0.993 | 0.678 | 0.948 | 0.718 |  |  |
+| Panel C: Sub-dimensions of ESG performance (model 2) |
+| VariablesENVSOCGOVCOVSIZEAGELEV |
+| ENV1.000 |
+| SOC | 0.780*** | 1.000 |  |  |  |  |  |
+| GOV | 0.684*** | 0.800*** | 1.000 |  |  |  |  |
+| COV | -0.037* | -0.022 | -0.076*** | 1.000 |  |  |  |
+| SIZE | 0.238*** | 0.253*** | 0.278*** | 0.072*** | 1.000 |  |  |
+| AGE | -0.017 | 0.102*** | 0.140*** | 0.036 | 0.500*** | 1.000 |  |
+| LEV | 0.015 | 0.071*** | 0.048** | 0.014 | 0.101*** | 0.226*** | 1.000 |
+| Panel D: Values of variance inflation factor and tolerance (model 2) |
+| VIF | 2.76 | 3.99 | 2.99 | 1.02 | 1.47 | 1.06 | 1.46 |
+| Tolerance | 0.362 | 0.251 | 0.335 | 0.981 | 0.681 | 0.944 | 0.683 |
+| Notes: *p < 0.1; **p < 0.05; ***p < 0.01. |  |  |  |  |  |  |  |
+</table>
+</table_group>
+
+<text page="11" section="**Correlation Analysis**" source="author" id="/page/10/Text/4">
+0.678. Table [4 ](#page-10-0)panel C presents the pairwise correlation coefcient results for the  second model variable. SOC and GOV were signifcantly and positively correlated  with ENV performance. Likewise, GOV was signifcantly and positively correlated  with SOC performance. This fnding suggests that frms with higher social and governance performances have better environmental performance. Similarly, frms with  higher governance performance have better social performance. COV was signifcantly and negatively correlated with ENV and GOV, whereas the correlation with  SOC was negative but insignifcant. This fnding suggests that the sub-dimensions  of ESG performance, especially environmental and governance, were afected by  the coronavirus crisis. SIZE was signifcantly and positively correlated with ENV,  SOC, and GOV. This fnding suggests that frms with higher sizes have better environmental, social, and governance performance. AGE and LEV were signifcantly  and positively correlated with SOC and GOV. This fnding suggests that frms with  higher age and fnancial leverage have better social and governance performance.  Correspondingly, the results show no explanatory variables with coefcients greater  than 0.80. Table  [4](#page-10-0) panel D presents the VIF and tolerance values of the second  model variables. The results confrm that multicollinearity did not emerge between
+</text>
+
+<figure page="11" section="**Correlation Analysis**" source="author" id="/page/10/Picture/5" image="A3.R49_fig11.jpg">[FIGURE: see A3.R49_fig11.jpg]</figure>
+
+</page>
+<page number="12">
+<text page="12" section="**Correlation Analysis**" source="author" id="/page/11/Text/2">
+the explanatory variables, as the highest VIF value was 3.99 with a tolerance value  of 0.251.
+</text>
+
+
+<heading page="12" section="**Regression Analyses**" source="author" id="/page/11/SectionHeader/3" level="4">
+#### **Regression Analyses**
+</heading>
+
+<text page="12" section="**Regression Analyses**" source="author" id="/page/11/Text/4">
+This section presents and discusses the results of the regression models. The statistics of the Hausman test are benefcial in determining whether to use a random- or  fxed-efects regression model. As a result of the Hausman test, the current study  employs a random-efects model to assess the infuence of total and individual ESG  practices on FP.
+</text>
+
+<text page="12" section="**Regression Analyses**" source="author" id="/page/11/Text/5">
+Table  [5 ](#page-11-0)presents the results of the GLS regression models. The coefcients of  the models, standard errors, and coefcients of determination (*R*-sq) were summarized. The model coefcients are denoted by ** and *, which indicate a signifcant  infuence at 0.01 and 0.05 levels, respectively. Standard errors in the models are  reported in parentheses. The results of the frst model show a positive and signifcant
+</text>
+
+<table_group page="12" section="**Regression Analyses**" source="author" id="/page/11/TableGroup/408">
+<caption page="12" section="**Regression Analyses**" source="author" id="/page/11/Caption/6">
+**Table** **5 **GLS regression models
+</caption>
+<table page="12" section="**Regression Analyses**" source="author" id="/page/11/Table/7">
+| Variables |  | Model 1 |  |  | Model 2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | MV | TEV | Tobin's Q | MV | TEV | Tobin's Q |
+| ESG |  | 0.476** | 0.356** | 0.468** | - | - | - |
+|  |  | (0.030) | (0.24) | (0.029) | - | - | - |
+| ENV |  | - | - | - | 0.044** | 0.006 | 0.042** |
+|  |  | - | - | - | (0.012) | (0.009) | (0.012) |
+| SOC |  | - | - | - | 0.079** | 0.102** | 0.085** |
+|  |  | - | - | - | (0.017) | (0.014) | (0.016) |
+| GOV |  | - | - | - | 0.370** | 0.240** | 0.349** |
+|  |  | - | - | - | (0.051) | (0.041) | (0.049) |
+| COV |  | −0.043** | −0.034** | −0.043** | −0.026* | −0.022* | −0.027* |
+|  |  | (0.013) | (0.009) | (0.012) | (0.013) | (0.009) | (0.012) |
+| SIZE |  | −0.679** | −0.399** | −0.668** | −0.640** | −0.382** | −0.629** |
+|  |  | (0.034) | (0.026) | (0.032) | (0.035) | (0.027) | (0.032) |
+| AGE |  | −0.171** | −0.082** | −0.176** | −0.160** | −0.081** | −0.165** |
+|  |  | (0.034) | (0.021) | (0.033) | (0.033) | (0.021) | (0.032) |
+| LEV |  | 0.483** | −0.033 | −0.160** | 0.473** | −0.034 | −0.169** |
+|  |  | (0.048) | (0.028) | (0.034) | (0.048) | (0.028) | (0.034) |
+| _cons |  | 9.172** | 8.606** | 11.302** | 8.694** | 8.455** | 10.865** |
+|  |  | (0.320) | (0.245) | (0.301) | (0.343) | (0.266) | (0.330) |
+| Number of obs. |  | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 |
+| R-sq | Within | 0.553 | 0.424 | 0.501 | 0.569 | 0.444 | 0.518 |
+|  | Between | 0.123 | 0.262 | 0.413 | 0.112 | 0.244 | 0.412 |
+|  | Overall | 0.152 | 0.271 | 0.416 | 0.145 | 0.258 | 0.417 |
+</table>
+<footnote page="12" section="**Regression Analyses**" source="author" id="/page/11/Footnote/8">
+^(** )and * mean that coefcients are signifcant at 0.01 and 0.05 levels, respectively. Standard errors in the  models are reported in parentheses
+</footnote>
+</table_group>
+
+<figure page="12" section="**Regression Analyses**" source="author" id="/page/11/Picture/9" image="A3.R49_fig12.jpg">[FIGURE: see A3.R49_fig12.jpg]</figure>
+
+</page>
+<page number="13">
+<text page="13" section="**Regression Analyses**" source="author" id="/page/12/Text/2">
+infuence of ESG performance on MV, TEV, and Tobin's *Q* at a signifcance level  of 0.01. This fnding suggests that frms with higher ESG performance have better market value, total enterprise value, and Tobin's *Q* ratio. These results support  H1a. These results are consistent with the fndings of the following previous studies  (Ademi &amp; Klungseth, [2022;](#page-18-4) Ahmad et al.,[ 2021](#page-18-3); Al Amosh et al., [2022;](#page-18-5) Alareeni &amp;  Hamdan, [2020](#page-18-6); Carnini Pulino et al., [2022;](#page-19-12) Habib, [2022;](#page-19-0) Kalia &amp; Aggarwal, [2022;](#page-20-9) Nguyen et al.,[ 2022](#page-20-10); Nurim et al.,[ 2022](#page-20-11)). Accordingly, this is considered an opportunity for frm decision-makers to concentrate on adopting and enhancing ESG practices to improve FP. In addition, the results for COV show a negative and signifcant  infuence on MV, TEV, and Tobin's *Q* at a signifcance level of 0.01. This fnding  suggests that the coronavirus crisis negatively afected FP. Therefore, the results  support H2. These results demonstrate the important role of frm leaders in adapting to the pandemic crisis and developing strategies and policies to enhance FP and  achieve continuous improvement.
+</text>
+
+<text page="13" section="**Regression Analyses**" source="author" id="/page/12/Text/3">
+The results of the second model show a positive and signifcant infuence of most  ESG sub-dimensions on MV, TEV, and Tobin's *Q* at a signifcance level of 0.01.  ENV positively and signifcantly infuences MV and Tobin's *Q* at a signifcance  level of 0.01, whereas ENV's infuence on TEV is positive but insignifcant. This  fnding suggests that frms with higher environmental performance have better market values and Tobin's *Q* ratios. These results mostly support H1b. SOC and GOV  positively and signifcantly infuenced MV, TEV, and Tobin's Q, at a signifcance  level of 0.01. This fnding suggests that frms with higher social and governance performance have better market value, total enterprise value, and Tobin's *Q* ratio. These  results support H1c and H1d. Accordingly, this is considered an opportunity for frm  decision-makers to concentrate on adopting and enhancing environmental, social,  and governance practices to improve FP. These results are consistent with the fndings of previous studies (Han et al., [2016;](#page-20-8) Hu et al., [2018;](#page-20-6) Qiu et al.,[ 2016](#page-20-7)). In addition, the results for COV show a negative and signifcant infuence on MV, TEV, and  Tobin's *Q*, at a signifcance level of 0.05. This fnding suggests that the coronavirus  crisis negatively afected FP. Therefore, these results supported H2. These results  demonstrate the important role of frm leaders in adapting to the pandemic crisis and  developing strategies and policies to enhance FP and achieve continuous improvement, as the coronavirus pandemic has had signifcant repercussions on all aspects  of the economy, whether on a macro- or micro-scale (Fauci et al., [2020](#page-19-10); Habib &amp;  Kayani,[ 2022](#page-19-14); Habib &amp; Mourad, [2022)](#page-20-12).
+</text>
+
+
+<heading page="13" section="**Diferences Analysis**" source="author" id="/page/12/SectionHeader/4" level="4">
+#### **Diferences Analysis**
+</heading>
+
+<text page="13" section="**Diferences Analysis**" source="author" id="/page/12/Text/5">
+Table [6](#page-13-0) shows the Mann–Whitney *U* test results. The test is employed to demonstrate the noteworthy diferences between the distribution of variables for the two  groups, that is, the period before the coronavirus crisis and the period during the  crisis.
+</text>
+
+<text page="13" section="**Diferences Analysis**" source="author" id="/page/12/Text/6">
+The test results for MV, TEV, and Tobin's *Q* indicate that the null hypotheses  are not supported at a 0.01 signifcance level, which means that the distributions
+</text>
+
+<figure page="13" section="**Diferences Analysis**" source="author" id="/page/12/Picture/7" image="A3.R49_fig13.jpg">[FIGURE: see A3.R49_fig13.jpg]</figure>
+
+</page>
+<page number="14">
+<table_group page="14" section="**Diferences Analysis**" source="author" id="/page/13/TableGroup/119">
+<caption page="14" section="**Diferences Analysis**" source="author" id="/page/13/Caption/2">
+**Table** **6** Diference analysis using the Mann–Whitney *U* test
+</caption>
+<table page="14" section="**Diferences Analysis**" source="author" id="/page/13/Table/3">
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Variables | Whitney U testMann– |  | Null hypothesis | Decision |
+|  | Z statistic | p value |  |  |
+| MV | −3.581 | <0.001 | MV is the same across categories of groupsThe distribution of | Reject the null hypothesis |
+| TEV | −3.914 | <0.001 | The distribution of TEV is the same across categories of groups | Reject the null hypothesis |
+| Tobin's Q | −3.236 | <0.001 | Tobin's Q is the same across categories of groupsThe distribution of | Reject the null hypothesis |
+| ESG | −1.178 | 0.239 | The distribution of ESG is the same across categories of groups | Retain the null hypothesis |
+| ENV | −0.148 | 0.882 | The distribution of ENV is the same across categories of groups | Retain the null hypothesis |
+| SOC | −1.015 | 0.310 | The distribution of SOC is the same across categories of groups | Retain the null hypothesis |
+| GOV | −4.118 | <0.001 | The distribution of GOV is the same across categories of groups | Reject the null hypothesis |
+</table>
+</table_group>
+
+<figure page="14" section="**Diferences Analysis**" source="author" id="/page/13/Picture/4" image="A3.R49_fig14.jpg">[FIGURE: see A3.R49_fig14.jpg]</figure>
+
+</page>
+<page number="15">
+<text page="15" section="**Diferences Analysis**" source="author" id="/page/14/Text/2">
+of MV, TEV, and Tobin's *Q* are not the same across the categories of groups,  and the major reason for these distinctions is the crisis. Therefore, these results  supported H3 at a 0.01 signifcance level. In contrast, the test results for the  ESG and its sub-dimensions, excluding the GOV dimension, indicate that the  null hypotheses are supported at a 0.01 signifcance level, which means that the  distribution of these variables is the same across categories of groups. The test  results for the GOV dimension indicate that the null hypothesis is not supported  at a 0.01 signifcance level, which means that the distribution of GOV is not the  same across categories of groups, and the major reason for these distinctions  is the crisis. Therefore, these results mostly not supported H4 at a 0.01 signifcance level.
+</text>
+
+<table_group page="15" section="**Diferences Analysis**" source="author" id="/page/14/TableGroup/451">
+<caption page="15" section="**Diferences Analysis**" source="author" id="/page/14/Caption/3">
+**Table** **7 **Dynamic model estimation
+</caption>
+<table page="15" section="**Diferences Analysis**" source="author" id="/page/14/Table/4">
+| Variables | Model 1 |  |  | Model 2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | MV | TEV | Tobin's Q | MV | TEV | Tobin's Q |
+| MV (L1) | −0.003 | - | - | −0.034 | - | - |
+|  | (0.037) | - | - | (0.040) | - | - |
+| TEV (L1) | - | 0.051 | - | - | 0.023 | - |
+|  | - | (0.042) | - | - | (0.044) | - |
+| Tobin's Q (L1) | - | - | 0.001 | - | - | −0.022 |
+|  | - | - | (0.049) | - | - | (0.053) |
+| ESG | 0.593*** | 0.412*** | 0.516*** | - | - | - |
+|  | (0.043) | (0.037) | (0.055) | - | - | - |
+| ENV | - | - | - | 0.046*** | −0.008 | 0.022 |
+|  | - | - | - | (0.016) | (0.011) | (0.015) |
+| SOC | - | - | - | 0.145*** | 0.119*** | 0.130*** |
+|  | - | - | - | (0.022) | (0.017) | (0.022) |
+| CGE | - | - | - | 0.354*** | 0.310*** | 0.334*** |
+|  | - | - | - | (0.063) | (0.053) | (0.074) |
+| COV | 0.055* | 0.026 | 0.056 | 0.068** | 0.038* | 0.069* |
+|  | (0.029) | (0.022) | (0.041) | (0.031) | (0.023) | (0.042) |
+| SIZE | −0.580*** | −0.372*** | −0.717*** | −0.585*** | −0.395*** | −0.736*** |
+|  | (0.083) | (0.067) | (0.095) | (0.090) | (0.070) | (0.097) |
+| AGE | −0.987*** | −0.847*** | −1.421*** | −1.063*** | −0.870*** | −1.472*** |
+|  | (0.307) | (0.226) | (0.441) | (0.324) | (0.0235) | (0.456) |
+| LEV | 0.545*** | 0.072* | −0.077 | 0.553*** | 0.058 | −0.085** |
+|  | (0.066) | (0.040) | (0.049) | (0.067) | (0.039) | (0.048) |
+| _cons | 10.505*** | 10.152*** | 15.804*** | 11.146*** | 10.630*** | 16.416*** |
+|  | (1.337) | (0.909) | (1.949) | (1.404) | (0.948) | (2.007) |
+| Number of obs. | 1612 | 1612 | 1612 | 1612 | 1612 | 1612 |
+| Instruments | 15 | 15 | 15 | 17 | 17 | 17 |
+</table>
+<footnote page="15" section="**Diferences Analysis**" source="author" id="/page/14/Footnote/5">
+^(***, **, )and * mean coefcients are signifcant at 0.01, 0.05, and 0.1 levels, respectively. Standard errors  in the models are reported in parentheses
+</footnote>
+</table_group>
+
+<figure page="15" section="**Diferences Analysis**" source="author" id="/page/14/Picture/6" image="A3.R49_fig15.jpg">[FIGURE: see A3.R49_fig15.jpg]</figure>
+
+</page>
+<page number="16">
+
+<heading page="16" section="**Additional Analyses**" source="author" id="/page/15/SectionHeader/2" level="3">
+### **Additional Analyses**
+</heading>
+
+<text page="16" section="**Additional Analyses**" source="author" id="/page/15/Text/3">
+Table [7 ](#page-14-0)presents the results of additional analyses using GMM system estimator. The  results of the frst model show a positive and signifcant infuence of ESG performance  on MV, TEV, and Tobin's *Q* at a signifcance level of 0.01. In addition, the results of the  second model show a positive and signifcant infuence of most ESG sub-dimensions  on MV, TEV, and Tobin's *Q* at a signifcance level of 0.01. These fndings suggest that  frms with better total and individual ESG implementations have better performance  measures. Additionally, the results show a positive and insignifcant infuence of the  coronavirus crisis on FP in most cases at a signifcance level of 0.05. These results  are comparable to those of previous studies. Ahmad et al. [(2021](#page-18-3)) confrm that ESG  performance has a favorable and signifcant infuence on FP, but the consequences of  ESG sub-dimensions are mixed. Alareeni and Hamdan [(2020)](#page-18-6) confrm a positive efect  between ESG performance and FP, but the fndings on these sub-dimensions are mixed.  Chen et  al. ([2021)](#page-19-13) demonstrate that ESG fulfllment has a dynamic and long-term  infuence on FP, as FP is signifcantly and negatively infuenced by ESG fulfllment  in the short term because of the opportunity and incurred costs, but signifcantly and  positively infuenced by ESG fulfllment in the long term. These results demonstrate  the important role of frm leaders in developing strategies and policies to adopt and  enhance ESG practices in order to achieve the best performance.
+</text>
+
+
+<heading page="16" section="**Robustness Tests**" source="author" id="/page/15/SectionHeader/4" level="4">
+#### **Robustness Tests**
+</heading>
+
+<text page="16" section="**Robustness Tests**" source="author" id="/page/15/Text/5">
+Robustness tests were conducted to assess the validity of the fndings. Tests were  employed to compare the primary models' outcomes with those obtained from the  robustness models (Fixler et al., [2014](#page-19-17); Habib &amp; Shahwan, [2020](#page-20-15); Mourad et al., [2021;](#page-20-16) Mourad et al., [2022](#page-20-17); Parkin &amp; Hollingsworth,[ 1997;](#page-20-18) Shahwan &amp; Habib, [2020](#page-21-14),[ 2023)](#page-21-15).
+</text>
+
+<text page="16" section="**Robustness Tests**" source="author" id="/page/15/Text/6">
+Table  [8 ](#page-16-0)shows the GLS estimator with the frst-order autoregressive disturbance AR(1) to confrm that the outcomes did not change with further techniques  employed. The outcomes confrm that the coefcients of all study variables are  on the same path and importance as those of the basic analysis. Consequently, the  outcomes showed greater confdence and robustness in the study outcomes.
+</text>
+
+<text page="16" section="**Robustness Tests**" source="author" id="/page/15/Text/7">
+Table [9 ](#page-17-0)shows the GLS estimator with 5000 bootstrap replications to confrm  that the outcomes did not change with further techniques employed. Similarly, the  outcomes confrm that the coefcients of all study variables are on the same path  and importance as those of the basic analysis. Hence, the outcomes show greater  confdence and robustness in the study outcomes.
+</text>
+
+
+<heading page="16" section="**Conclusion and Policy Implications**" source="author" id="/page/15/SectionHeader/8" level="1">
+# **Conclusion and Policy Implications**
+</heading>
+
+<text page="16" section="**Conclusion and Policy Implications**" source="author" id="/page/15/Text/9">
+ESG practices are necessary for decision-makers to enhance FP and achieve continuous improvement. This study explores the infuence of total and individual ESG  practices and the coronavirus crisis on US FP. The GLS regression results suggest
+</text>
+
+<figure page="16" section="**Conclusion and Policy Implications**" source="author" id="/page/15/Picture/10" image="A3.R49_fig16.jpg">[FIGURE: see A3.R49_fig16.jpg]</figure>
+
+</page>
+<page number="17">
+<table_group page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/TableGroup/437">
+<caption page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/Caption/2">
+**Table** **8 **GLS regression with AR(1) disturbances
+</caption>
+<table page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/Table/3">
+| Variables |  | Model 1 |  |  | Model 2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | MV | TEV | Tobin's Q | MV | TEV | Tobin's Q |
+| ESG |  | 0.500*** | 0.370*** | 0.494*** | - | - | - |
+|  |  | (0.024) | (0.018) | (0.023) | - | - | - |
+| ENV |  | - | - | - | 0.066*** | 0.017* | 0.063*** |
+|  |  | - | - | - | (0.013) | (0.010) | (0.012) |
+| SOC |  | - | - | - | 0.079*** | 0.096*** | 0.086*** |
+|  |  | - | - | - | (0.018) | (0.014) | (0.018) |
+| GOV |  | - | - | - | 0.344*** | 0.248*** | 0.326*** |
+|  |  | - | - | - | (0.045) | (0.034) | (0.044) |
+| COV |  | −0.054*** | −0.035*** | −0.053*** | −0.041** | −0.027** | −0.042** |
+|  |  | (0.017) | (0.013) | (0.016) | (0.017) | (0.013) | (0.016) |
+| SIZE |  | −0.604*** | −0.353*** | −0.598*** | −0.556*** | −0.332*** | −0.549*** |
+|  |  | (0.024) | (0.017) | (0.023) | (0.023) | (0.016) | (0.022) |
+| AGE |  | −0.148*** | −0.075*** | −0.154*** | −0.137*** | −0.073*** | −0.142*** |
+|  |  | (0.029) | (0.020) | (0.029) | (0.027) | (0.019) | (0.027) |
+| LEV |  | 0.443*** | −0.043** | −0.196*** | 0.418*** | −0.048*** | −0.222*** |
+|  |  | (0.024) | (0.018) | (0.024) | (0.024) | (0.018) | (0.023) |
+| _cons |  | 8.494*** | 8.145*** | 10.652*** | 8.125*** | 8.455*** | 10.304*** |
+|  |  | (0.262) | (0.184) | (0.261) | (0.274) | (0.266) | (0.271) |
+| Number of obs. |  | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 |
+| R-sq | Within | 0.541 | 0.410 | 0.486 | 0.552 | 0.427 | 0.496 |
+|  | Between | 0.122 | 0.269 | 0.435 | 0.118 | 0.254 | 0.448 |
+|  | Overall | 0.154 | 0.278 | 0.437 | 0.154 | 0.268 | 0.451 |
+</table>
+</table_group>
+
+<text page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/Text/4">
+***, **, and * mean that coefcients are signifcant at 0.01, 0.05, and 0.1 levels, respectively. Standard  errors in the models are reported in parentheses
+</text>
+
+<text page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/Text/5">
+that frms with higher ESG performance have better market value measures. In most  cases, the results suggest that frms with higher environmental, social, and governance performance have better market value measures. These results are consistent with previous research showing that better total and individual ESG practices  can improve FP (Ademi &amp; Klungseth, [2022;](#page-18-4) Ahmad et al., [2021](#page-18-3); Al Amosh et al.,  [2022](#page-18-5); Alareeni &amp; Hamdan, [2020](#page-18-6); Carnini Pulino et  al., [2022](#page-19-12); Habib, [2022;](#page-19-0) Han  et al., [2016;](#page-20-8) Hu et al., [2018;](#page-20-6) Kalia &amp; Aggarwal, [2022](#page-20-9); Nguyen et al., [2022](#page-20-10); Nurim  et al., [2022;](#page-20-11) Qiu et al., [2016](#page-20-7)). Accordingly, this is an opportunity for frm leaders to  concentrate on adopting and enhancing ESG practices to improve FP and achieve  continuous improvement. Additionally, the results suggest that the coronavirus crisis negatively afected frms' market value measures. These results demonstrate the  important role of frm leaders in adapting to the pandemic crisis and developing  strategies and policies to enhance FP and achieve continuous improvement, as the  coronavirus pandemic has had signifcant repercussions on all aspects of the economy, whether on a macro- or micro-scale (Fauci et al., [2020;](#page-19-10) Habib &amp; Kayani, [2022;](#page-19-14) Habib &amp; Mourad, [2022)](#page-20-12).
+</text>
+
+<figure page="17" section="**Conclusion and Policy Implications**" source="author" id="/page/16/Picture/6" image="A3.R49_fig17.jpg">[FIGURE: see A3.R49_fig17.jpg]</figure>
+
+</page>
+<page number="18">
+<table_group page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/TableGroup/414">
+<caption page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Caption/2">
+**Table** **9 **GLS regression with the bootstrap
+</caption>
+<table page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Table/3">
+| Variables |  | Model 1 |  |  | Model 2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | MV | TEV | Tobin's Q | MV | TEV | Tobin's Q |
+| ESG |  | 0.476** | 0.356** | 0.468** | - | - | - |
+|  |  | (0.030) | (0.25) | (0.029) | - | - | - |
+| ENV |  | - | - | - | 0.044** | 0.006 | 0.042** |
+|  |  | - | - | - | (0.012) | (0.010) | (0.012) |
+| SOC |  | - | - | - | 0.079** | 0.102** | 0.085** |
+|  |  | - | - | - | (0.017) | (0.014) | (0.016) |
+| GOV |  | - | - | - | 0.370** | 0.240** | 0.349** |
+|  |  | - | - | - | (0.051) | (0.041) | (0.049) |
+| COV |  | −0.043** | −0.034** | −0.043** | −0.026* | −0.022* | −0.027* |
+|  |  | (0.014) | (0.009) | (0.012) | (0.013) | (0.009) | (0.012) |
+| SIZE |  | −0.679** | −0.399** | −0.668** | −0.640** | −0.382** | −0.629** |
+|  |  | (0.036) | (0.027) | (0.033) | (0.037) | (0.029) | (0.034) |
+| AGE |  | −0.171** | −0.082** | −0.176** | −0.160** | −0.081** | −0.165** |
+|  |  | (0.034) | (0.022) | (0.034) | (0.034) | (0.022) | (0.033) |
+| LEV |  | 0.483** | −0.033 | −0.160** | 0.473** | −0.034 | −0.169** |
+|  |  | (0.050) | (0.028) | (0.037) | (0.052) | (0.029) | (0.036) |
+| _cons |  | 9.172** | 8.606** | 11.302** | 8.694** | 8.455** | 10.865** |
+|  |  | (0.315) | (0.252) | (0.312) | (0.346) | (0.281) | (0.336) |
+| Number of obs. |  | 2015 | 2015 | 2015 | 2015 | 2015 | 2015 |
+| R-sq | Within | 0.553 | 0.424 | 0.501 | 0.569 | 0.444 | 0.518 |
+|  | Between | 0.123 | 0.262 | 0.413 | 0.112 | 0.244 | 0.412 |
+|  | Overall | 0.152 | 0.271 | 0.416 | 0.145 | 0.258 | 0.417 |
+</table>
+<footnote page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Footnote/4">
+^(** )and * mean that coefcients are signifcant at 0.01 and 0.05 levels, respectively. Standard errors in the  models are reported in parentheses
+</footnote>
+</table_group>
+
+<text page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Text/5">
+The results of this study support the following theoretical assumptions: for example, ESG practices infuence FP, which aligns with institutional and legitimacy  theories, suggesting that enhancing frm responsibility practices improves FP (Beddewela &amp; Fairbrass, [2016;](#page-19-4) Velte, [2017)](#page-21-5). In addition, stakeholder theory confrms  that frm responsibility practices may help frms enhance their relationships with  stakeholders (Bitektine &amp; Haack, [2015;](#page-19-3) Russo &amp; Perrini,[ 2010](#page-21-3); Tu &amp; Huang, [2015)](#page-21-4).
+</text>
+
+<text page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Text/6">
+The fndings of this examination have noteworthy implications. Managers  could beneft from the results of this examination by recognizing the status of  ESG practices and FP before and during the coronavirus crisis and identifying  the linkage between the fulfllment of ESG responsibilities and FP. This study  provides noteworthy practical implications that could enable managers to develop  strategies and policies to adopt and enhance ESG practices to achieve the best  performance. Furthermore, the results could infuence trading processes as investors and fnanciers pursue attractive fnancial returns from investments in businesses concerned with ESG issues.
+</text>
+
+<figure page="18" section="**Conclusion and Policy Implications**" source="author" id="/page/17/Picture/7" image="A3.R49_fig18.jpg">[FIGURE: see A3.R49_fig18.jpg]</figure>
+
+</page>
+<page number="19">
+<text page="19" section="**Conclusion and Policy Implications**" source="author" id="/page/18/Text/2">
+This study has specifc limitations, which give rise to future research areas.  The impact of working capital management is not considered in this examination and is a probable factor to be explored (Akgün &amp; Memiş Karataş, [2021;](#page-18-7) Habib, [2022;](#page-19-0) Habib &amp; Kayani, [2022](#page-19-14); Habib &amp; Mourad, [2022)](#page-20-12). In addition,  future research can include other countries and concentrate on other factors, such  as managerial ability, intellectual capital, and real earnings management (Alex  &amp; Andrew, [2018;](#page-18-8) Baik et al., [2020;](#page-18-9) Dalwai et al., [2018,](#page-19-18) [2023;](#page-19-19) D'Amato, [2021;](#page-19-20) Kumar et al., [2021](#page-20-19); Potharla et al.,[ 2021;](#page-20-20) Tabassum et al., [2015;](#page-21-16) Tulcanaza-Prieto  &amp; Lee,[ 2022)](#page-21-17), which are noteworthy factors that can infuence FP.
+</text>
+
+<text page="19" section="**Conclusion and Policy Implications**" source="author" id="/page/18/Text/3">
+**Author Contribution** The frst author conceived the project and planning, fundamental analysis, and  the framework and statistical models; collected data and analyzed it; wrote the abstract, introduction,  literature review and hypothesis formulation, data and methodology, empirical results, and conclusion  and policy implications; reviewed and edited the manuscript; and responded to the editor and reviewers'  comments. The second author conceived the project and planning, empirical results and reviewed the  manuscript.
+</text>
+
+
+<heading page="19" section="**References**" source="author" id="/page/18/SectionHeader/4" level="1">
+# **References**
+</heading>
+
+<list page="19" section="**References**" source="author" id="/page/18/ListGroup/212">
+- Adegbite, E., Guney, Y., Kwabi, F., &amp; Tahir, S. (2019). Financial and corporate social performance  in the UK listed frms: The relevance of non-linearity and lag efects. *Review of Quantitative * *Finance and Accounting, 52*(1), 105–158. [https://doi.org/10.1007/s11156-018-0705-x](https://doi.org/10.1007/s11156-018-0705-x)
+- Ademi, B., &amp; Klungseth, N. J. (2022). Does it pay to deliver superior ESG performance? Evidence  from US S&amp;P 500 companies. Journal of Global Responsibility, 17(4), 421–449.[ https://doi.org/](https://doi.org/10.1108/JGR-01-2022-0006) [10.1108/JGR-01-2022-0006](https://doi.org/10.1108/JGR-01-2022-0006)
+- Ahmad, N., Mobarek, A., &amp; Roni, N. N. (2021). Revisiting the impact of ESG on fnancial performance of FTSE350 UK frms: Static and dynamic panel data analysis. *Cogent Business &amp; Man**agement, 8*(1), 1–19. [https://doi.org/10.1080/23311975.2021.1900500](https://doi.org/10.1080/23311975.2021.1900500)
+- Akgün, A. İ., &amp; Memiş Karataş, A. (2021). Investigating the relationship between working capital management and business performance: Evidence from the 2008 fnancial crisis of EU-28.  *International Journal of Managerial Finance, 17*(4), 545–567. [https://doi.org/10.1108/](https://doi.org/10.1108/IJMF-08-2019-0294) [IJMF-08-2019-0294](https://doi.org/10.1108/IJMF-08-2019-0294)
+- Al Amosh, H., Khatib, S. F. A., &amp; Ananzeh, H. (2022). Environmental, social and governance impact  on fnancial performance: Evidence from the Levant countries. *Corporate Governance: The Inter**national Journal of Business in Society*, ahead-of-print (ahead-of-print). [https://doi.org/10.1108/](https://doi.org/10.1108/CG-03-2022-0105) [CG-03-2022-0105](https://doi.org/10.1108/CG-03-2022-0105)
+- Alareeni, B. A., &amp; Hamdan, A. (2020). ESG impact on performance of US S&amp;P 500-listed frms. *Corpo**rate Governance: The International Journal of Business in Society, 20*(7), 1409–1428. [https://doi.](https://doi.org/10.1108/cg-06-2020-0258) [org/10.1108/cg-06-2020-0258](https://doi.org/10.1108/cg-06-2020-0258)
+- Alex, P., &amp; Andrew, P. (2018). Managerial ability, information quality, and the design and pricing of corporate debt. *Review of Quantitative Finance and Accounting, 51*(4), 1033–1069. [https://doi.org/10.](https://doi.org/10.1007/s11156-017-0696-z) [1007/s11156-017-0696-z](https://doi.org/10.1007/s11156-017-0696-z)
+- Allianz. (2019). *How environmental, social, and governance issues impact consumers and investors*. New  York, USA: Allianz Life Company. [https://www.allianzlife.com/-/media/fles/allianz/pdfs/newsr](https://www.allianzlife.com/-/media/files/allianz/pdfs/newsroom/fact-sheet-esg.pdf) [oom/fact-sheet-esg.pdf](https://www.allianzlife.com/-/media/files/allianz/pdfs/newsroom/fact-sheet-esg.pdf)
+- Alqallaf, H., &amp; Alareeni, B. (2018). Evolving of selected integrated reporting capitals among listed Bahraini banks. *International Journal of Business Ethics and Governance, 1*(1), 15–36. [https://doi.org/](https://doi.org/10.51325/ijbeg.v1i1.10) [10.51325/ijbeg.v1i1.10](https://doi.org/10.51325/ijbeg.v1i1.10)
+- Baik, B., Choi, S., &amp; Farber, D. B. (2020). Managerial ability and income smoothing. *The Accounting * *Review, 95*(4), 1–22.[ https://doi.org/10.2308/accr-52600](https://doi.org/10.2308/accr-52600)
+</list>
+
+<figure page="19" section="**References**" source="author" id="/page/18/Picture/15" image="A3.R49_fig19.jpg">[FIGURE: see A3.R49_fig19.jpg]</figure>
+
+</page>
+<page number="20">
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/256">
+- Barnett, M. L., &amp; Salomon, R. M. (2012). Does it pay to be really good? Addressing the shape of the relationship between social and fnancial performance. *Strategic Management Journal, 33*(11), 1304– 1320.[ https://doi.org/10.1002/smj.1980](https://doi.org/10.1002/smj.1980)
+- Beddewela, E., &amp; Fairbrass, J. (2016). Seeking legitimacy through CSR: Institutional pressures and  corporate responses of multinationals in Sri Lanka. *Journal of Business Ethics, 136*(3), 503–522.  [https://doi.org/10.1007/s10551-014-2478-z](https://doi.org/10.1007/s10551-014-2478-z)
+- Bitektine, A., &amp; Haack, P. (2015). The "macro" and the "micro" of legitimacy: Toward a multilevel theory of the legitimacy process. *Academy of Management Review, 40*(1), 49–75. [https://doi.org/10.](https://doi.org/10.5465/amr.2013.0318) [5465/amr.2013.0318](https://doi.org/10.5465/amr.2013.0318)
+- Buallay, A., &amp; Al Marri, M. (2022). Sustainability disclosure and its impact on telecommunication and  information technology sectors' performance: Worldwide evidence. *International Journal of Emer**gency Services, 11*(3), 379–395. [https://doi.org/10.1108/IJES-08-2021-0054](https://doi.org/10.1108/IJES-08-2021-0054)
+- Carnini Pulino, S., Ciaburri, M., Magnanelli, B. S., &amp; Nasta, L. (2022). Does ESG disclosure infuence  frm performance? *Sustainability, 14*(13), 7595. [https://doi.org/10.3390/su14137595](https://doi.org/10.3390/su14137595)
+- Chen, L., Yuan, T., Cebula, R. J., Shuangjin, W., &amp; Foley, M. (2021). Fulfllment of ESG responsibilities and frm performance: A zero-sum game or mutually benefcial. *Sustainability, 13*(19), 10954  [https://www.mdpi.com/2071-1050/13/19/10954](https://www.mdpi.com/2071-1050/13/19/10954)
+- Dalwai, T., Mohammadi, S. S., &amp; Al Siyabi, K. (2018). An empirical analysis of intellectual capital and  frm performance of Oman's fnancial sector companies. In *3rd International Conference on Bank**ing and Finance Perspectives (ICBFP)*. Famagusta.
+- Dalwai, T., Habib, A. M., Mohammadi, S. S., &amp; Hussainey, K. (2023). Does managerial ability and auditor report readability afect corporate liquidity and cost of debt? *Asian Review of Accounting*, 1–23.  [https://doi.org/10.1108/ARA-06-2022-0151](https://doi.org/10.1108/ARA-06-2022-0151)
+- D'Amato, A. (2021). Does intellectual capital impact frms' capital structure? Exploring the role  of frm risk and proftability. *Managerial Finance, 47*(9), 1337–1356. [https://doi.org/10.1108/](https://doi.org/10.1108/MF-02-2020-0089) [MF-02-2020-0089](https://doi.org/10.1108/MF-02-2020-0089)
+- Demise, N. (2006). OECD principles of corporate governance. In *Corporate Governance in Japan* (pp.  109–117). Springer. [https://doi.org/10.1007/978-4-431-30920-8_10](https://doi.org/10.1007/978-4-431-30920-8_10)
+- Eccles, R. G., Ioannou, I., &amp; Serafeim, G. (2014). The impact of corporate sustainability on organizational processes and performance. *Management Science, 60*(11), 2835–2857. [https://doi.org/10.](https://doi.org/10.1287/mnsc.2014.1984) [1287/mnsc.2014.1984](https://doi.org/10.1287/mnsc.2014.1984)
+- Elsayed, K., &amp; Paton, D. (2005). The impact of environmental performance on frm performance: Static  and dynamic panel data evidence. *Structural Change and Economic Dynamics, 16*(3), 395–412.  [https://doi.org/10.1016/j.strueco.2004.04.004](https://doi.org/10.1016/j.strueco.2004.04.004)
+- Fauci, A. S., Lane, H. C., &amp; Redfeld, R. R. (2020). Covid-19 - Navigating the uncharted. *New England * *Journal of Medicine, 382*(13), 1268–1269.[ https://doi.org/10.1056/NEJMe2002387](https://doi.org/10.1056/NEJMe2002387)
+- Ferrier, G. D. (1994). Ownership type, property rights, and relative efciency. In A. Charnes, W. W.  Cooper, A. Y. Lewin, &amp; L. M. Seiford (Eds.), *Data envelopment analysis: Theory, methodology, * *and applications* (1st ed., pp. 273–283). Springer.[ https://doi.org/10.1007/978-94-011-0637-5_14](https://doi.org/10.1007/978-94-011-0637-5_14)
+- Fixler, T., Paradi, J. C., &amp; Yang, X. (2014). A data envelopment analysis approach for measuring the  efciency of Canadian acute care hospitals. *Health Services Management Research, 27*(3-4), 57–69.  [https://doi.org/10.1177/0951484815601876](https://doi.org/10.1177/0951484815601876)
+- Geroski, P. A., Machin, S. J., &amp; Walters, C. F. (1997). Corporate growth and proftability. *The Journal of * *Industrial Economics,* *45*(2), 171–189.[ https://doi.org/10.1111/1467-6451.00042](https://doi.org/10.1111/1467-6451.00042)
+- Godfrey, P. C., Merrill, C. B., &amp; Hansen, J. M. (2009). The relationship between corporate social responsibility and shareholder value: An empirical test of the risk management hypothesis. *Strategic Man**agement Journal, 30*(4), 425–445.[ https://doi.org/10.1002/smj.750](https://doi.org/10.1002/smj.750)
+- González-Coya, E., &amp; Perron, P. (2022). *Estimation in the presence of heteroskedasticity of unknown form: * *A lasso-based approach 2022 NBER-NSF time series conference*. Boston, USA: Boston University.
+- Greening, D. W., &amp; Turban, D. B. (2000). Corporate social performance as a competitive advantage in  attracting a quality workforce. *Business &amp; Society, 39*(3), 254–280. [https://doi.org/10.1177/00076](https://doi.org/10.1177/000765030003900302) [5030003900302](https://doi.org/10.1177/000765030003900302)
+- Habib, A. M. (2022). Does the efciency of working capital management and environmental, social, and  governance performance afect a frm's value? Evidence from the United States. *Financial Markets, * *Institutions and Risks, 6*(3), 18–25.[ https://doi.org/10.21272/fmir.6(3).18-25.2022](https://doi.org/10.21272/fmir.6(3).18-25.2022)
+- Habib, A. M., &amp; Kayani, U. N. (2022). Does the efciency of working capital management afect a frm's  fnancial distress? Evidence from UAE. *Corporate Governance: The International Journal of Business * *in Society,* *22*(7), 1567–1586.[ https://doi.org/10.1108/cg-12-2021-0440](https://doi.org/10.1108/cg-12-2021-0440)
+</list>
+
+<figure page="20" section="**References**" source="author" id="/page/19/Picture/23" image="A3.R49_fig20.jpg">[FIGURE: see A3.R49_fig20.jpg]</figure>
+
+</page>
+<page number="21">
+<list page="21" section="**References**" source="author" id="/page/20/ListGroup/259">
+- Habib, A. M., &amp; Mourad, N. (2022). Analyzing the efciency of working capital management: A new  approach based on DEA-Malmquist technology. *Operations Research Forum, 3*(3), 20. [https://doi.org/](https://doi.org/10.1007/s43069-022-00155-7) [10.1007/s43069-022-00155-7](https://doi.org/10.1007/s43069-022-00155-7)
+- Habib, A. M., &amp; Shahwan, T. M. (2020). Measuring the operational and fnancial efciency using a  Malmquist data envelopment analysis: A case of Egyptian hospitals. *Benchmarking: An International * *Journal, 27*(9), 2521–2536.[ https://doi.org/10.1108/bij-01-2020-0041](https://doi.org/10.1108/bij-01-2020-0041)
+- Han, J.-J., Kim, H. J., &amp; Yu, J. (2016). Empirical study on relationship between corporate social responsibility and fnancial performance in Korea. *Asian Journal of Sustainability and Social Responsibility, 1*(1),  61–76.[ https://doi.org/10.1186/s41180-016-0002-3](https://doi.org/10.1186/s41180-016-0002-3)
+- Hockerts, K., &amp; Moir, L. (2004). Communicating corporate responsibility to investors: The changing role of  the investor relations function. *Journal of Business Ethics, 52*(1), 85–98. [https://doi.org/10.1023/b:busi.](https://doi.org/10.1023/b:busi.0000033109.35980.16) [0000033109.35980.16](https://doi.org/10.1023/b:busi.0000033109.35980.16)
+- Hsiao, C. (2007). Panel data analysis—Advantages and challenges. *Test, 16*(1), 1–22.[ https://doi.org/10.1007/](https://doi.org/10.1007/s11749-007-0046-x) [s11749-007-0046-x](https://doi.org/10.1007/s11749-007-0046-x)
+- Hu, Y., Chen, S., Shao, Y., &amp; Gao, S. (2018). CSR and frm value: Evidence from China. *Sustainability, * *10*(12), 4597. [https://doi.org/10.3390/su10124597](https://doi.org/10.3390/su10124597)
+- Kalia, D., &amp; Aggarwal, D. (2022). Examining impact of ESG score on fnancial performance of healthcare companies. *Journal of Global Responsibility,* *14*(1), 155–176. [https://doi.org/10.1108/](https://doi.org/10.1108/JGR-05-2022-0045) [JGR-05-2022-0045](https://doi.org/10.1108/JGR-05-2022-0045)
+- Kaufman, R. L. (2013). Heteroskedasticity in regression: Detection and correction. In *Heteroskedasticity in * *regression: Detection and correction*. SAGE Publications, Inc.[ https://doi.org/10.4135/9781452270128](https://doi.org/10.4135/9781452270128)
+- KPMG. (2020). *The time has come: The KPMG Survey of Sustainability Reporting 2020*. KPMG International.[ https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2020/11/the-time-has-come.pdf](https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2020/11/the-time-has-come.pdf)
+- Kumar, M., Vij, M., &amp; Goswami, R. (2021). Efect of real earnings management on frm performance: Evidence from India. *Vision: The Journal of Business Perspective*, ahead-of-print(ahead-of-print), 1–16.  [https://doi.org/10.1177/09722629211007577](https://doi.org/10.1177/09722629211007577)
+- Li, X., &amp; Cui, J. (2008). A comprehensive DEA approach for the resource allocation problem based on scale  economies classifcation. *Journal of Systems Science and Complexity, 21*(4), 540–557. [https://doi.org/](https://doi.org/10.1007/s11424-008-9134-6) [10.1007/s11424-008-9134-6](https://doi.org/10.1007/s11424-008-9134-6)
+- Malik, M. (2015). Value-enhancing capabilities of CSR: A brief review of contemporary literature. *Journal * *of Business Ethics, 127*(2), 419–438.[ https://doi.org/10.1007/s10551-014-2051-9](https://doi.org/10.1007/s10551-014-2051-9)
+- Mourad, N., Habib, A. M., &amp; Tharwat, A. (2021). Appraising healthcare systems' efciency in facing  COVID-19 through data envelopment analysis. *Decision Science Letters, 10*(3), 301–310. [https://doi.](https://doi.org/10.5267/j.dsl.2021.2.007) [org/10.5267/j.dsl.2021.2.007](https://doi.org/10.5267/j.dsl.2021.2.007)
+- Mourad, N., Tharwat, A., Habib, A. M., Wafk, D., &amp; Hamed, M. A. (2022). Appraising the economic efciency of european football teams: Evidence from Covid-19 crisis using data envelop analysis. *Journal * *of Positive School Psychology, 6*(8) [https://journalppw.com/index.php/jpsp/article/view/10611](https://journalppw.com/index.php/jpsp/article/view/10611)
+- Nguyen, D. T., Hoang, T. G., &amp; Tran, H. G. (2022). Help or hurt? The impact of ESG on frm performance in  S&amp;P 500 non-fnancial frms. *Australasian Accounting, Business and Finance Journal, 16*(2), 91–102.  [https://doi.org/10.14453/aabf.v16i2.7](https://doi.org/10.14453/aabfj.v16i2.7)
+- Nicholson, G., Kiel, G., &amp; Kiel-Chisholm, S. (2011). The contribution of social norms to the global fnancial  crisis: A systemic actor focused model and proposal for regulatory change. *Corporate Governance: An * *International Review, 19*(5), 471–488.[ https://doi.org/10.1111/j.1467-8683.2011.00883.x](https://doi.org/10.1111/j.1467-8683.2011.00883.x)
+- Nurim, Y., Harjanto, N., Prabawati, P. I., &amp; Wijaya, N. R. (2022). Stable fnancial performance as the antecedent of ESG activity and frm value relationship: An evidence from indonesia. In W. A. Barnett &amp;  B. S. Sergi (Eds.), *Quantitative Analysis of Social and Financial Market Development* (Vol. 30, pp.  85–102). Emerald Publishing Limited.[ https://doi.org/10.1108/S1571-038620220000030006](https://doi.org/10.1108/S1571-038620220000030006)
+- Orlitzky, M., Schmidt, F. L., &amp; Rynes, S. L. (2003). Corporate social and fnancial performance: A metaanalysis. *Organization Studies, 24*(3), 403–441. [https://doi.org/10.1177/0170840603024003910](https://doi.org/10.1177/0170840603024003910)
+- Parkin, D., &amp; Hollingsworth, B. (1997). Measuring production efciency of acute hospitals in Scotland,  1991-94: validity issues in data envelopment analysis. *Applied Economics, 29*(11), 1425–1433. [https://](https://doi.org/10.1080/000368497326255) [doi.org/10.1080/000368497326255](https://doi.org/10.1080/000368497326255)
+- Potharla, S., Bhattacharjee, K., &amp; Samontaray, D. P. (2021). Real earnings management and persistence of  frm value: Evidence from India. *The Journal of Asian Finance, Economics and Business, 8*(12), 323– 336.[ https://doi.org/10.13106/JAFEB.2021.VOL8.NO12.0323](https://doi.org/10.13106/JAFEB.2021.VOL8.NO12.0323)
+- Qiu, Y., Shaukat, A., &amp; Tharyan, R. (2016). Environmental and social disclosures: Link with corporate fnancial  performance. *The British Accounting Review, 48*(1), 102–116.[ https://doi.org/10.1016/j.bar.2014.10.007](https://doi.org/10.1016/j.bar.2014.10.007)
+</list>
+
+<figure page="21" section="**References**" source="author" id="/page/20/Picture/23" image="A3.R49_fig21.jpg">[FIGURE: see A3.R49_fig21.jpg]</figure>
+
+</page>
+<page number="22">
+<list page="22" section="**References**" source="author" id="/page/21/ListGroup/231">
+- Rahi, A. B. M. F., Akter, R., &amp; Johansson, J. (2022). Do sustainability practices infuence fnancial performance? Evidence from the Nordic fnancial industry. *Accounting Research Journal, 35*(2), 292–314.  [https://doi.org/10.1108/ARJ-12-2020-0373](https://doi.org/10.1108/ARJ-12-2020-0373)
+- Rezaee, Z. (2016). Business sustainability research: A theoretical and integrated perspective. *Journal of Accounting * *Literature, 36*, 48–64.[ https://doi.org/10.1016/j.acclit.2016.05.003](https://doi.org/10.1016/j.acclit.2016.05.003)
+- Ruf, B. M., Muralidhar, K., Brown, R. M., Janney, J. J., &amp; Paul, K. (2001). An empirical investigation of the  relationship between change in corporate social performance and fnancial performance: A stakeholder  theory perspective. *Journal of Business Ethics, 32*(2), 143–156.[ https://doi.org/10.1023/a:1010786912118](https://doi.org/10.1023/a:1010786912118)
+- Russo, A., &amp; Perrini, F. (2010). Investigating stakeholder theory and social capital: CSR in large frms and  SMEs. *Journal of Business Ethics, 91*(2), 207–221. [https://doi.org/10.1007/s10551-009-0079-z](https://doi.org/10.1007/s10551-009-0079-z)
+- Sassen, R., Hinze, A.-K., &amp; Hardeck, I. (2016). Impact of ESG factors on frm risk in Europe. *Journal of * *Business Economics, 86*(8), 867–904.[ https://doi.org/10.1007/s11573-016-0819-3](https://doi.org/10.1007/s11573-016-0819-3)
+- Shahwan, T. M., &amp; Habib, A. M. (2020). Does the efciency of corporate governance and intellectual capital  afect a frm's fnancial distress? Evidence from Egypt. *Journal of Intellectual Capital, 21*(3), 403–430.  [https://doi.org/10.1108/jic-06-2019-0143](https://doi.org/10.1108/jic-06-2019-0143)
+- Shahwan, T. M., &amp; Habib, A. M. (2023). Do corporate social responsibility practices afect the relative efciency of Egyptian conventional and Islamic banks? *International Journal of Emerging Markets,* *18*(2),  439–462.[ https://doi.org/10.1108/IJOEM-05-2020-0518](https://doi.org/10.1108/IJOEM-05-2020-0518)
+- Sharfman, M. P., &amp; Fernando, C. S. (2008). Environmental risk management and the cost of capital. *Strate**gic Management Journal, 29*(6), 569–592.[ https://doi.org/10.1002/smj.678](https://doi.org/10.1002/smj.678)
+- Shiller, R. J. (2013). Capitalism and fnancial innovation. *Financial Analysts Journal, 69*(1), 21–25. [https://](https://doi.org/10.2469/faj.v69.n1.4) [doi.org/10.2469/faj.v69.n1.4](https://doi.org/10.2469/faj.v69.n1.4)
+- Smith, M., Yahya, K., &amp; Marzuki Amiruddin, A. (2007). Environmental disclosure and performance reporting  in Malaysia. *Asian Review of Accounting, 15*(2), 185–199. [https://doi.org/10.1108/13217340710823387](https://doi.org/10.1108/13217340710823387)
+- Tabassum, N., Kaleem, A., &amp; Nazir, M. S. (2015). Real earnings management and future performance.  *Global Business Review, 16*(1), 21–34.[ https://doi.org/10.1177/0972150914553505](https://doi.org/10.1177/0972150914553505)
+- Tarmuji, I., Maelah, R., &amp; Tarmuji, N. H. (2016). The impact of environmental, social and governance practices (ESG) on economic performance: Evidence from ESG score. *International Journal Trade, Eco**nomics and Finance, 7*(3), 67–74.[ https://doi.org/10.18178/IJTEF.2016.7.3.501](https://doi.org/10.18178/IJTEF.2016.7.3.501)
+- Tu, J.-C., &amp; Huang, H.-S. (2015). Analysis on the relationship between green accounting and green design  for enterprises. *Sustainability, 7*(5), 6264–6277. [https://doi.org/10.3390/su7056264](https://doi.org/10.3390/su7056264)
+- Tulcanaza-Prieto, A. B., &amp; Lee, Y. (2022). Real earnings management, frm value, and corporate governance:  Evidence from the Korean market. *International Journal of Financial Studies, 10*(1), 19. [https://doi.org/](https://doi.org/10.3390/ijfs10010019) [10.3390/ijfs10010019](https://doi.org/10.3390/ijfs10010019)
+- Ullmann, A. A. (1985). Data in search of a theory: A critical examination of the relationships among social  performance, social disclosure, and economic performance of U. S. frms. *The Academy of Manage**ment Review, 10*(3), 540–557.[ https://doi.org/10.2307/258135](https://doi.org/10.2307/258135)
+- Vandekerckhove, W., Leys, J., &amp; Van Braeckel, D. (2008). A speech-act model for talking to management.  Building a framework for evaluating communication within the SRI engagement process. *Journal of * *Business Ethics, 82*(1), 77–91. [https://doi.org/10.1007/s10551-007-9563-5](https://doi.org/10.1007/s10551-007-9563-5)
+- Velte, P. (2017). Does ESG performance have an impact on fnancial performance? Evidence from Germany.  *Journal of Global Responsibility, 8*(2), 169–178.[ https://doi.org/10.1108/JGR-11-2016-0029](https://doi.org/10.1108/JGR-11-2016-0029)
+- Wasiuzzaman, S., Ibrahim, S. A., &amp; Kawi, F. (2022). Environmental, social and governance (ESG)  disclosure and frm performance: Does national culture matter? *Meditari Accountancy Research*,  ahead-of-print(ahead-of-print).[ https://doi.org/10.1108/MEDAR-06-2021-1356](https://doi.org/10.1108/MEDAR-06-2021-1356)
+</list>
+
+<text page="22" section="**References**" source="author" id="/page/21/Text/20">
+**Publisher's Note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and  institutional afliations.
+</text>
+
+<text page="22" section="**References**" source="author" id="/page/21/Text/21">
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under  a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted  manuscript version of this article is solely governed by the terms of such publishing agreement and  applicable law.
+</text>
+
+<figure page="22" section="**References**" source="author" id="/page/21/Picture/22" image="A3.R49_fig22.jpg">[FIGURE: see A3.R49_fig22.jpg]</figure>
+
+</page>
+</paper>

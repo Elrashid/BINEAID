@@ -1,0 +1,458 @@
+<paper source_file="A2.R42" title="**Asia Pacific Journal of Education**" total_pages="16" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A2.R42_fig01.jpg">[FIGURE: see A2.R42_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Asia Pacific Journal of Education**" source="author" id="/page/0/SectionHeader/1" level="1">
+# **Asia Pacific Journal of Education**
+</heading>
+
+<figure page="1" section="**Asia Pacific Journal of Education**" source="author" id="/page/0/Picture/2" image="A2.R42_fig02.jpg">[FIGURE: see A2.R42_fig02.jpg]</figure>
+
+<text page="1" section="**Asia Pacific Journal of Education**" source="author" id="/page/0/Text/3">
+**ISSN: 0218-8791 (Print) 1742-6855 (Online) Journal homepage:****[ www.tandfonline.com/journals/cape20](https://www.tandfonline.com/journals/cape20?src=pdf)**
+</text>
+
+
+<heading page="1" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/0/SectionHeader/4" level="1">
+# **Cross-national policy borrowing: understanding** **reception and translation**
+</heading>
+
+<text page="1" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/0/Text/5">
+**Gita Steiner-Khamsi**
+</text>
+
+<text page="1" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/0/Text/6">
+**To cite this article:** Gita Steiner-Khamsi (2014) Cross-national policy borrowing: understanding reception and translation, Asia Pacific Journal of Education, 34:2, 153-167, DOI: [10.1080/02188791.2013.875649](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/02188791.2013.875649)
+</text>
+
+<text page="1" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/0/Text/7">
+**To link to this article: **[https://doi.org/10.1080/02188791.2013.875649](https://doi.org/10.1080/02188791.2013.875649)
+</text>
+
+<table page="1" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/0/Table/8">
+| Image: Calendar icon | Published online: 13 Mar 2014. |
+| --- | --- |
+| Image: Pencil and paper icon | Submit your article to this journal Image: External link icon |
+| Image: Bar chart icon | Article views: 10480 |
+| Image: Magnifying glass on paper icon | View related articles Image: External link icon |
+| Image: CrossMark logo | View Crossmark data Image: External link icon |
+| Image: Two papers icon | Citing articles: 64 View citing articles Image: External link icon |
+</table>
+
+</page>
+<page number="2">
+<figure page="2" section="**Cross-national policy borrowing: understanding** **reception and translation**" source="author" id="/page/1/Picture/1" image="A2.R42_fig03.jpg">[FIGURE: see A2.R42_fig03.jpg]</figure>
+
+
+<heading page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/SectionHeader/2" level="1">
+# Cross-national policy borrowing: understanding reception and translation
+</heading>
+
+<text page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/Text/3">
+Gita Steiner-Khams[i*](#page-1-0)
+</text>
+
+<text page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/Text/4">
+Teachers College, Columbia University, New York, USA
+</text>
+
+<text page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/Text/5">
+(Received 30 June 2013; final version received 7 November 2013)
+</text>
+
+<text page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/Text/6">
+The article examines two key concepts in research on policy borrowing and lending that are often used to explain why and how educational reforms travel across national boundaries: reception and translation. The studies on reception analyse the political, economic, and cultural reasons that account for the attractiveness of a reform from elsewhere. Translation, in turn, captures the act of local adaptation, modification, or reframing of an imported reform. Strikingly, in most cases the act of policy borrowing is deterritorialized and draws on broadly defined international standards or "best practices". The exceptions are references to the league leaders in international student achievement tests such as, most recently, Singapore, Finland, and Shanghai. The article makes the argument that policy analysts in other countries only emulate the system features of league leaders if it fits their own domestic policy agenda. Furthermore, there is a new body of research emerging in comparative education that investigates the country-specific projections into the educational systems of the league leaders. Finally, the article points to the "yes, but ... " phenomenon in cases where there is resistance to learn, adopt or borrow from league leaders. It is in such moments of resistance to change that policy makers tend to highlight fundamental differences by insisting that the contexts are not sufficiently comparable to learn a useful lesson: Finland is too monocultural, Shanghai too urban, and Singapore relies too much on private tutoring to be relevant for lesson drawing.
+</text>
+
+<text page="2" section="Cross-national policy borrowing: understanding reception and translation" source="author" id="/page/1/Text/7">
+Keywords: policy borrowing; globalization studies; international student achievement tests; externalization; decontextualization; recontextualization
+</text>
+
+
+<heading page="2" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/1/SectionHeader/8" level="3">
+### Policy borrowing: normative versus analytical questions
+</heading>
+
+<text page="2" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/1/Text/9">
+Learning from experiences in other countries is often seen as one of the most salient features of comparative studies. In education, the study of policy borrowing has helped to substantiate and legitimize the field of comparative education. However, learning from comparison does not necessarily mean that policies and practices should actually be transferred from one context to another. In fact, comparativist after comparativist, from Michael Sadler to Brian Holmes to Robert Cowen, warned against analysing education out of context and against using comparison to transplant educational reforms from one country to another. In practice, however, transnational policy borrowing is the rule and not the exception. For example, Cowen ([2000)](#page-14-0) revisits Sadler's hundred-year-old question: "What can we learn from the study of foreign systems?" He illustrates that, in practice, the comparative study of educational systems has fuelled a "cargo-cult", that is, a wholesale export and import of educational models across national boundaries. Sceptical of uncritically transplanting "best practices" from one context to another, I join Cowen and
+</text>
+
+<footnote page="2" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/1/Footnote/10">
+^(*)Email: [gs174@columbia.edu](mailto:gs174@columbia.edu)
+</footnote>
+
+</page>
+<page number="3">
+<text page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Text/2">
+others who prefer to observe, analyse, and interpret policy borrowing and lending rather than to engage in the actual act transfer of educational policies.
+</text>
+
+<text page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Text/3">
+Nowadays, the research area of policy borrowing has bifurcated in two directions: one group of researchers actively advocates for policy borrowing and the other group is interested to understand when, why, and how policy borrowing occurs. The first group pursues a normative approach and uses comparison to identify best-performing educational systems from which lessons or "best practices" should be learned and transferred. The second group analyses why and when such external references are made and examines the impact of such imports on existing policies and power constellations.
+</text>
+
+<text page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Text/4">
+Curiously, the membership in both academic camps grew exponentially over the past few years. The group of normative researchers includes the large group of scholars that carries out standardized comparison in order to extract effective system variables that could then be used as indicators for determining global benchmarks. The OECD- (Organization for Economic Co-operation and Development) and IEA- (International Association for the Evaluation of Educational Achievement) type studies, but also other knowledge banks, established by the World Bank and other international organizations, are interested in understanding what works and what does not work. The ultimate goal of applied normative research is to answer policy questions such as, for example, what is the optimal class size, the optimal features of the teacher education system, the optimal teacher salary, the optimal frequency for prescribing student tests, the optimal ratio of public versus private expenditures for education, and so on, for effective and high-quality education? In contrast, the group of analytical researchers subscribes to foundational research and opts for comparison as a methodological tool to better theorize the policy process. This second group of researchers has also experienced an unprecedented boom since the turn of the century. The 2012 World Yearbook of Education, for example, has presented the work of this group of researchers who analyse cross-national policy borrowing (Steiner-Khamsi &amp; Waldow, [2012)](#page-15-0). Their area of contribution is interchangeably referred to as research on policy borrowing and lending, global education policy, or on educational transfer. [Table 1](#page-2-0) summarizes, in an exemplary manner, some of the key differences between a normative and an analytical approach to studying educational transfer.
+</text>
+
+<text page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Text/5">
+To be fair, it would be wrong to assume that the two positions – normative and analytical – are mutually exclusive. Many of us are active in both camps: We read, analyse and produce literature on system variables that impact access and quality of education and that, under certain circumstances and in specific contexts, could be transferred to other educational systems. At the same time, we also operate at a meta-level and reflect on why the act of policy borrowing and lending resonates in specific contexts, who typically advocates for learning from elsewhere, how the imported reform is translated and implemented in a given context, and what impact the act of policy
+</text>
+
+<table page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Table/6">
+| Normative | Analytical |
+| --- | --- |
+|  |  |
+</table>
+
+<table page="3" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/2/Table/7">
+|  | Normative | Analytical |
+| --- | --- | --- |
+| "Best practices" | Which are the "best practices"that should be adopted? | Whose practices are considered"best practices"? |
+| Dissemination | How can "best practices"be effectively disseminated? | Under which conditions isdissemination of a practicelikely to occur? |
+| Impact of lessondrawing | What has been improved as aresult of policy borrowing? | Who benefits, who loses in theact of lesson drawing? |
+</table>
+
+</page>
+<page number="4">
+<text page="4" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/3/Text/2">
+borrowing has on coalition building among competing policy actors in a given policy context. In this article, I attempt to contribute to analytical studies on policy borrowing and focus in particular on two key stages of policy borrowing: reception and translation.
+</text>
+
+<text page="4" section="Policy borrowing: normative versus analytical questions" source="author" id="/page/3/Text/3">
+Reception examines the initial contact with the global education policy at the local level and focuses on the selection process. Translation addresses the local adaptation of the global education policy.
+</text>
+
+
+<heading page="4" section="Reception" source="author" id="/page/3/SectionHeader/4" level="4">
+#### Reception
+</heading>
+
+<text page="4" section="Reception" source="author" id="/page/3/Text/5">
+Typical research questions on reception include why local actors select a particular policy, which problem the borrowed policy supposedly pretends to resolve, or what the "selling points" of the policy are that seem to appeal to local policy actors. In this article, I will highlight three key issues that the most recent studies on reception tend to examine: (1) When or under which circumstances do educational systems tend to be open and receptive to new ideas from elsewhere? (2) How do stakeholders make use of references to international standards to reform their system? (3) What are some of the key features of reforms that went global? The following elaborates on these three key research questions of policy reception that I propose to label as issues related to: (1) receptiveness, (2) the use of international standards, and (3) features of global education policy.
+</text>
+
+
+<heading page="4" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/3/SectionHeader/6" level="3">
+### Receptiveness: understanding the socio-logic of selective policy borrowing
+</heading>
+
+<text page="4" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/3/Text/7">
+It is necessary to introduce the notion of "externalization" that German sociologist Niklas Luhmann coined and Ju¨rgen Schriewer adopted for comparative studies in education (Luhmann, [1990](#page-14-1); Schriewer, [1990)](#page-14-2). Embedded in a theoretical framework of system theory (Luhmann, [1990)](#page-14-1), Ju¨rgen Schriewer and his colleagues propose to study the local context in order to understand the "socio-logic" (Schriewer &amp; Martinez, [2004,](#page-15-1) p. 33) of externalization. Schriewer and Martinez find it indicative of the "socio-logic" of a system that only specific educational systems are used as external sources of authorities. Which systems are used as "reference societies" tells us something about the interrelations of actors within various world-systems. However, the research of Schriewer and most of his associates focuses on historical accounts of global diffusion and reception in education.
+</text>
+
+<text page="4" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/3/Text/8">
+I introduced the externalization framework into the field of comparative policy studies (Steiner-Khamsi, [2004](#page-15-2)). For the past 10 years, I have made it my intellectual project to adapt the concept of externalization as an interpretive framework for systematically analysing policy borrowing and lending in education. The group of researchers in comparative education that focuses on the study of policy borrowing and lending has substantially grown and by now there are, at least, four different generations of policy borrowing/lending researchers each adding new perspectives and research avenues to this fascinating research area of comparative education (see Steiner-Khamsi &amp; Waldow, [2012,](#page-15-0) chapter 1).
+</text>
+
+<text page="4" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/3/Text/9">
+Arguably, the concept of externalization is useful for comparative policy studies as it enables us to understand how "global forces" are sometimes locally induced with the purpose of generating reform on domestic developments (Steiner-Khamsi, [2004](#page-15-2)). I found that it is precisely at a moment of heightened policy contestation that externalization occurs, that is, references to other educational systems, to "international standards in education" broadly defined, or to globalization are made. I concluded that cross-national policy borrowing, discursive or factual, has a certification effect on domestic policy talk. In previous publications I used the octopus as a metaphor to describe cross-national policy attraction, resonance, and reception (Steiner-Khamsi, [2010](#page-15-3), [2012)](#page-15-4). Local actors reach out
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/4/Text/2">
+and grab the arm of the octopus that is closest to their particular policy agenda, and thereby attach (local) meaning to a (global) policy. By default, any study on receptiveness becomes a study on selective policy borrowing. Policy borrowing is never wholesale, but always selective and, by implication, reflects the "socio-logic" or context-specific reasons for receptiveness.
+</text>
+
+<text page="5" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/4/Text/3">
+In policy studies, John Kingdon coined the term "policy window" to identify favourable conditions for policy change (Kingdon, [1995,](#page-14-3) p. 19). He found that the convergence of the three following streams is likely to produce change: the problem stream (recognition of a problem), the policy stream (availability of solutions), and the political stream (new developments in the political realm such as, for example, recent change in government). It is important to point out that Kingdon does not take into account the process of transnational policy borrowing. Arguably, in an era of globalization transnational policy borrowing, whether rhetorically or factually, is the norm and not the exception. Thus, the policy stream tends to be available to politicians and decision makers at all times in the form of "best practices" or "international standards" or lessons learned from other educational systems. In fact, the pressure to borrow is great to the extent that policy analysts are frequently placed in the awkward position of having to retroactively define the local problem that fits the already existing global solution or reform package.
+</text>
+
+<text page="5" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/4/Text/4">
+It seems to me that the more challenging task is to bring the flow of the political stream in sync with the other two streams. Framed in terms of a research question, how are different political parties and interests mobilized in support of a change or reform? Research on policy borrowing has much to offer for this research question. Many studies have identified the salutary effect of policy borrowing on political mobilization. In addition, in the context of developing countries, a fourth stream comes into play: the economic stream, that is, the prospects of international loans or grant to carry out a particular reform. It is necessary to acknowledge Kingdon's Three-Streams Theory as a valuable framework to draw attention on the timing of policy change. At the same time, it is indispensable to adopt a globalization optique to further refine the Three-Streams Theory in ways that suits today's reality of cross-national policy interaction and borrowing.
+</text>
+
+<text page="5" section="Receptiveness: understanding the socio-logic of selective policy borrowing" source="author" id="/page/4/Text/5">
+Indeed, the study of policy borrowing lends itself as a fertile ground to better understand power constellations and protracted policy conflict in a given context. The analytical approach to the study of educational transfer includes typically a political and an economic dimension. Politically, borrowing has a salutary effect on protracted policy conflict: it is a coalition builder. It enables opposed advocacy groups to combine resources to support a third, supposedly more neutral, policy option borrowed from elsewhere. "International standards" have become an increasingly common point of reference in such decisions. The economic dimension, in turn, is particularly salient in developing countries. Economically, policy borrowing is often a transient phenomenon, because it only exists so long as external funding – contingent upon the import of a particular reform package – continues. Policy borrowing in poor countries is to the education sector what structural adjustment, poverty alleviation, and good governance, are to the public sector at large: a condition for receiving aid. As a requirement for receiving grants or loans at the programmatic level, policy borrowing in developing countries is coercive and unidirectional. Reforms are transferred from the global North/West to the global South/East.
+</text>
+
+
+<heading page="5" section="International standards: the functionality of an empty vessel" source="author" id="/page/4/SectionHeader/6" level="4">
+#### International standards: the functionality of an empty vessel
+</heading>
+
+<text page="5" section="International standards: the functionality of an empty vessel" source="author" id="/page/4/Text/7">
+The terms "international standards", "21st century skills", and "best practices" greatly resonate with politicians and policy makers and they resort to them at particular moments
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="International standards: the functionality of an empty vessel" source="author" id="/page/5/Text/2">
+of agenda setting: whenever there is a need to generate reform pressure. These terms effectively function as catalysts for change even though there is no agreement what they actually mean. Even better, they serve as empty vessels that are, whenever needed, filled with local meaning. Nevertheless, they are politically powerful because they generate fears of falling behind on a global market place and therefore have the potential to build, as mentioned before, coalitions among interest groups that otherwise would be opposing each other. In short, globalization is not an external force, but rather a domestically induced rhetoric that is mobilized at particular moments of protracted policy conflict to generate reform pressure and build policy coalitions.
+</text>
+
+<text page="6" section="International standards: the functionality of an empty vessel" source="author" id="/page/5/Text/3">
+For borrowing researchers of the first generation, it was vital to interpret the choice of "reference society", that is, the educational system from where policies, practices and ideas were borrowed. Typically, there were cultural, political, or economic reasons that accounted for the borrower's interest in a particular system. Phillips ([2004)](#page-14-4), for example, examined the reasons for the cross-national policy attraction of British government officials and scholars towards the educational system in Germany, during the nineteenth century. The range of motivations for one country to seek inspiration from the educational system of another can be extremely diverse. In the United States political affinity between the Reagan and Thatcher administrations drew the attention of US neo-liberal reformers to the UK model in the early 1990s. However, US education policy makers have also been driven by competition (e.g., the Soviet Union during the late 1950s and early 1960s) or by curiosity (e.g., Japan during the 1980s). Nowadays, the league leaders in international student achievement tests, such as the educational systems of Shanghai, Finland or Singapore, receive the most attention. As I will show in the last section of this article, there exist country-specific or socio-logical reasons for explaining the success of the league leaders. German, Japanese, and Korean policy analysts provide completely different interpretations for why students in the Finnish educational system performed so well in the Programme for International Student Assessment (PISA) studies. Their interpretations have more to do with controversial policy debates in their own country than with actual system variables of the Finnish education system. Thus, the "lessons learned" from another educational system always include a significant portion of projection into others' educational system.
+</text>
+
+<text page="6" section="International standards: the functionality of an empty vessel" source="author" id="/page/5/Text/4">
+For the longest time, comparative education researchers have been preoccupied with understanding the choice of reference societies and its implication on domestic policy formulation (e.g., Silova, [2006)](#page-15-5). Nowadays, studies deal increasingly with the emergence of new regional and international "educational spaces" or regions that are created as a result of harmonization. Examples include, for example, the Bologna and Lisbon Protocols in higher education or the Education for All programmes in developing countries. Governments that sign such agreements must eventually align their policies with those of the larger educational space they inhabit. From the perspective of policy transfer research, harmonization is only one of several types of policy borrowing and lending; one that, perhaps more visibly than with other types, depicts the move away from bilateral, to a regional or international frame of reference.
+</text>
+
+
+<heading page="6" section="What is exportable, what is likely to go global?" source="author" id="/page/5/SectionHeader/5" level="4">
+#### What is exportable, what is likely to go global?
+</heading>
+
+<text page="6" section="What is exportable, what is likely to go global?" source="author" id="/page/5/Text/6">
+Unsurprisingly, the education industry is keen to identify features that make a product marketable. It is perhaps less known that governments have now also begun to show interest in what sells in terms of educational products and services. The British and the German governments, for example, have contracted economists that calculate the value
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="What is exportable, what is likely to go global?" source="author" id="/page/6/Text/2">
+for the economy generated by the export of educational services and products. In today's global market place, governments are competing with each other over exporting their own educational trademark to other countries or attracting students from other countries to enrol at their universities. Unsurprisingly, in an attempt to better sell their own products and educational services, governments claim to have aligned their educational systems with international standards. Clearly, such an affirmation of alignment is a sales pitch that governments and business alike use because a reference to international standards is good for their business.
+</text>
+
+<text page="7" section="What is exportable, what is likely to go global?" source="author" id="/page/6/Text/3">
+Even though education is not (yet) considered one of the trades that are regulated by the World Trade Organization, governments have issued studies that calculate the economic gains or losses from cross-national trade and services in education. They follow the four modes of cross-border supply that GATS (General Agreement of Trade and Services) had identified. Most cross-border trade and service activities take place in the higher education sector. Examples from the US include the following: (1) cross-border trade and services: export of textbooks, journals, teaching material, and tests of American publishers to other countries, (2) consumption abroad: international students that are enrolled at American universities, (3) commercial presence: satellite universities and offcampus programmes that are established abroad, such as, for example, New York University Abu Dhabi, and (4) movement of natural persons: US citizens employed at US universities abroad such as, for example, at the American University of Beirut, or the American University of Cairo.
+</text>
+
+<text page="7" section="What is exportable, what is likely to go global?" source="author" id="/page/6/Text/4">
+Starting in 2004, the British Council issues economic studies that calculate British exports in education using these four modes of supply defined by GATS. The most recent study from 2007 shows that the total value of education and training exports to the UK economy is over £12.5 billion (mode 1) and the economic gains made on international students enrolled in universities of the UK (mode 2) nearly £8.5 billion per year (Lenton, [2007](#page-14-5)). Similarly, the Federal Ministry of Education and Research of Germany (Bundesministerium fu¨r Bildung und Forschung) hired the consulting company Booz &amp; Co. to calculate the economic impact of German educational exports (Bundesministerium fu¨r Bildung und Forschung, [2010)](#page-14-6). The study includes not only higher education but covers a wide range of educational services and products. The German federal initiative iMOVE, also officially referred to as "Training – Made in Germany" distinguishes between areas in which two educational services and goods are provided: core educational area (schools, professional development/vocational training, higher education, teaching of German, export of educational products) and expanded educational area (training on specific products, consulting services in the education sector). The study concludes that the German economy annually gains *e*9.4 billion from sales and services in these two educational areas.
+</text>
+
+<text page="7" section="What is exportable, what is likely to go global?" source="author" id="/page/6/Text/5">
+In many regards an educational product (textbook, student test, training module, etc.) or educational service (evaluation, strategy planning, coaching, management, etc.) is not different from products and services in other sectors. It should be taken for granted that it is more lucrative to sell and transfer the same reform package worldwide than to individually design reforms that suit the specific context. Several ingredients are required for the successful export of reform packages: training or "capacity-building of the locals", a stringent quality assurance mechanism in the form of licensing and certification to make sure that competing local businesses do not dare to offer a cheaper, watered-down copy of the global package, and an international management that hires and, without scruple, fires local staff. Furthermore, selling a global education policy is only profitable if it is packaged as a tightly knit, coherent product with interconnected elements which forces
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Text/2">
+government to purchase the entire package rather than selectively pick and bargain over a few of the elements. Also, the implementation of the package has to be sufficiently complex so that the "locals" continue to depend on international consultancy and therefore agree to long-term contractual arrangement. Finally, standardized student assessments are needed to prove the effectiveness of the reform and to demonstrate to the client that the import, invariably more expensive than homespun reforms, was worthwhile. Polemics aside, these kinds of ingredients characterize the basic features of global education policy.
+</text>
+
+<text page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Text/3">
+I have also made a case in other publications about the temporal dimension of global education policy (Steiner-Khamsi, [2010](#page-15-3)). The temporal dimension, or "life of a policy" (as presented in [Figure 1)](#page-7-0), matters a great deal and helps predict the likelihood that a reform gets exported or disseminated. The epidemiological model of global dissemination, widely used in diffusion of innovation studies, and social network analyses (see Watts, [2003](#page-15-6), p. 172), traces the deterritorialization process of a reform over time. The epidemiological model, depicted in [Figure 1,](#page-7-0) distinguishes between early and late adopters of an innovation.
+</text>
+
+<text page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Text/4">
+In the early stages, only a few educational systems are "infected" by a particular reform. Adopters make explicit references to lessons learned from other educational systems, especially those that they are specifically seeking to emulate. A good example is the transatlantic transfer of "school choice" between educational systems in the US and the UK in the early 1990s. Externalization made a contested reform more palatable. During the phase of explosive growth (the middle phase as depicted in [Figure 1](#page-7-0)), however, more systems adopt a reform, as traces of transnational policy borrowing disappear. Once a critical mass of late adopters has borrowed a particular reform, the geographic and cultural origins vanish, making it easier for decontextualized and deterritorialized versions to spread rapidly. At this stage, global dissemination occurs. Once the "epidemic" ends, most educational systems selectively borrow bits and pieces of the reform, while gaining immunity from other aspects. During the phase of explosive growth, policy makers adopt only rhetoric. They do so because they are afraid of being left behind and labelled as backward, old-fashioned, or pre-modern. Late adoption should be interpreted as an
+</text>
+
+<figure_group page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/FigureGroup/122">
+<figure page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Figure/5" image="A2.R42_fig04.jpg">[FIGURE: see A2.R42_fig04.jpg]</figure>
+<caption page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Caption/6">
+Figure 1. Lazy-S curve
+</caption>
+</figure_group>
+
+<text page="8" section="What is exportable, what is likely to go global?" source="author" id="/page/7/Text/7">
+Source: Watts [(2003](#page-15-6), p. 172)
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="What is exportable, what is likely to go global?" source="author" id="/page/8/Text/2">
+orientation statement made by policy makers to denote their geo-political affiliation with a larger, modern, educational space. The "global speak" occurring at this stage is mostly symbolic, with few consequences for policy action at the national level, or policy implementation at the institutional level. Thus, the age of a travelling reform accounts for its accountability: the older it is and the more it has been circulated among educational systems, the more likely it is that it will be further exported or disseminated.
+</text>
+
+<text page="9" section="What is exportable, what is likely to go global?" source="author" id="/page/8/Text/3">
+Today we are surrounded by "well-travelled" reforms. Many of them are considered quasi-market, neo-liberal, or hyper-liberal reforms that originated during the Thatcher-Reagan era. Initially, they were borrowed from New Zealand and Australia, adopted in the UK and in the US, and then disseminated to every corner of the world. Precisely because they were introduced so long ago, policy makers in late-adopter countries refer to them as "international reforms", without explaining where they originated. At the stage of explosive growth – 10, 20, 30 years after the introduction of a reform – it would sound odd to refer to these reforms as British or American.
+</text>
+
+<text page="9" section="What is exportable, what is likely to go global?" source="author" id="/page/8/Text/4">
+To reiterate the explanations provided in this section, the likelihood of adopting a reform from elsewhere is greater the more well-travelled that reform has been. Not only does the travelling reform become, with every new adoption, reconfirmed as a "best practice" – ultimately reaching the status of an "international standard" – but it also becomes, with each new act of borrowing, increasingly deterritorialized. During the stage of explosive growth (see [Figure 1](#page-7-0)), the global reform is considered at the same time everyone's and nobody's reform. The assumption of impartiality is one of the reasons why global education policy tends to resonate with politicians and policy makers: the reform comes across as being devoid of any political agenda and as having the potential of mobilizing opposing interest groups in support for one and the same external, deterritorialized, and presumably neutral reform.
+</text>
+
+
+<heading page="9" section="Translation" source="author" id="/page/8/SectionHeader/5" level="3">
+### Translation
+</heading>
+
+<text page="9" section="Translation" source="author" id="/page/8/Text/6">
+Student-centred learning, teacher accountability, choice, girls' education, community participation, multilingual education, early literacy and a long list of other educational beliefs, including the ones that are considered neo-liberal, were more often than not initiated in the global North and then funded for dissemination to the rest of the world. However, what they mean in a given context varies widely. Under discussion is the rationale and pattern of translation, local adaptation, or indigenization. What can we learn from analysing how a borrowed global education policy was adapted, modified or translated in a given context?
+</text>
+
+<text page="9" section="Translation" source="author" id="/page/8/Text/7">
+In the following, I have categorized the main translation issues into three broad groups: One group of scholars does not believe that there is much to learn from analysing local adaptation, modification, or translation because there always is "loose coupling" between an envisioned and an enacted policy and, as a corollary, between how a (global) policy looks on paper and how it is (locally) implemented. In contrast, a second group of researchers is keen on investigating local adaptation and modification as theirs is the project for showing that every phenomenon, including the manifestation of global education policy in varied contexts, means – depending on the cultural context – different things to different actors. A third group of authors, finally, produces studies similar to the second group (what does a borrowed policy mean in a given system), but in addition also makes generalizations and draws conclusions for understanding the policy process. For purposes of easier identification, I suggest labelling these three groups or intellectual traditions: neo-institutionalist theory, cultural anthropology, and system theory. I used in
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Translation" source="author" id="/page/9/Text/2">
+another paper (Steiner-Khamsi, [2012)](#page-15-4) the triple bonus system in Mongolia as a case to demonstrate in great detail how the three different theories explain the impact of policy borrowing on the teacher salary reform in Mongolia. Therefore, I will sketch in this article merely the theoretical positions rather than to reiterate actual examples that demonstrate the various schools of thought.
+</text>
+
+
+<heading page="10" section="Loose coupling between envisioned and enacted policies: a sociological dictum" source="author" id="/page/9/SectionHeader/3" level="4">
+#### Loose coupling between envisioned and enacted policies: a sociological dictum
+</heading>
+
+<text page="10" section="Loose coupling between envisioned and enacted policies: a sociological dictum" source="author" id="/page/9/Text/4">
+One might argue – in line with the neo-institutionalist perspective – that there is always a loose coupling between a policy and its implementation. In fact, loose coupling is a metaphor that is frequently used by scholars in institutional theory and organizational sociology to denote the discrepancies between the various levels or activities within an organizational field. Similar to discrepancies between attitude and behaviour, intention and action, policy and practice, loose coupling is for many scholars of neo-institutionalist theory irrational, idiosyncratic, or particularistic. An investigation of loose coupling is therefore irrelevant to them, as they expect few insights for their larger sociological project for understanding long-term changes at societal level. In comparative education, Ramirez ([2003)](#page-14-7) and Baker and LeTendre ([2005)](#page-14-8) seem to revert to loose coupling as an explanation whenever they encounter profound differences between a universal standard (e.g., studentcentred teaching, gender awareness, etc.) and its local manifestation. Such an approach, however, is of limited value for understanding cross-national policy attraction or recontextualization. Ultimately, for neo-institutionalist theory, loose coupling is the explanation (Latin: explanans) rather than the issue that begs for an explanation (explanandum). An analysis of the global/local nexus in policy borrowing therefore requires that loose coupling is not only acknowledged, but also thoroughly examined and interpreted.
+</text>
+
+
+<heading page="10" section="Ethnographic accounts of what global education policies mean in local contexts" source="author" id="/page/9/SectionHeader/5" level="4">
+#### Ethnographic accounts of what global education policies mean in local contexts
+</heading>
+
+<text page="10" section="Ethnographic accounts of what global education policies mean in local contexts" source="author" id="/page/9/Text/6">
+Diametrically opposed is a group of researchers, representing a specific orientation within cultural anthropology, that produces single country studies to emphasize that global or "external" forces are heavily reinterpreted and adapted locally, and therefore only have a limited impact on local structures, beliefs, and practices. Although the disagreements between the two camps – neo-institutionalist sociologists and anti-neoinstitutionalist cultural anthropologists – have ignited a lively debate on strengths and shortcomings of each interpretive framework, we lack a discussion on methodological constraints and disciplinary blind spots.
+</text>
+
+<text page="10" section="Ethnographic accounts of what global education policies mean in local contexts" source="author" id="/page/9/Text/7">
+The single-case studies presented in Anderson-Levitt's edited volume criticize neoinstitutionalism or world culture theory from an anthropological perspective. Several of the studies draw on ethnographic accounts of how global education policies are implemented (Anderson-Levitt, [2003)](#page-14-9). Each of the nine case studies reflects on how exogenous influences in education (global forces) have been interpreted in a particular community (local encounter). As announced in the title of the book, the case study authors investigate "local meanings" to visions and pressures of "global schooling", and find a multiplicity of (local) meanings. Their criticism builds on this finding, and serves them as an argument to denounce the homogenizing effects of globalization that world culture theory has asserted. The contributors illustrate that, although choice, student-centred learning, outcomes-based education, marketization of schools, among others, went global, they neither replaced already existing models nor did they mean the same in various
+</text>
+
+</page>
+<page number="11">
+<text page="11" section="Ethnographic accounts of what global education policies mean in local contexts" source="author" id="/page/10/Text/2">
+cultural contexts. For example, choice with regard to the language of instruction, propelled by US missionaries in Tanzania is, for a variety of reasons, a different "thing" altogether than the choice in maths instructional methods that factions of the Parent-Teacher Association (PTA) in California were combating. Such variations matter a great deal to the contributors of the edited volume for these differences reveal that individuals in a particular community have a shared understanding of what global reform models mean in their own cultural context. They criticize their antagonists, the scholars of world culture theory or neo-institutionalist sociology, for taking global schooling models at face value without scratching at the surface, and examining how they play out differently at the community level. To phrase it more bluntly, world culture theorists seem to have mistaken "brand-name piracy" such as choice, outcomes-based education, student-centred learning, among others, hijacked from one corner of the world and catapulted to another, as heralds of an international convergence of education.
+</text>
+
+
+<heading page="11" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/10/SectionHeader/3" level="3">
+### The logic of systems and organizations: the theory of self-referential systems
+</heading>
+
+<text page="11" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/10/Text/4">
+My own interpretive framework draws on several concepts of social system theory (in particular, self-referentiality, externalization, system logic, regulatory processes of systems) to construct an interpretive framework for comparative policy studies. The points mentioned above meant to illustrate that the preferred method of inquiry used in system theory consists of a detailed analysis of local contexts and local policy constellations. The local context is key to understanding why policies are borrowed (externalization), how they are locally modified and implemented (recontextualization), and what impact they have on existing structures, policies, and practices (internalization).
+</text>
+
+<text page="11" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/10/Text/5">
+As explained in other publications, there are at least three stages in the policy borrowing process: externalization, recontextualization, internalization. There is a wealth of studies that examine in great detail how an imported policy is recontextualized or locally adapted. Most of these studies are single-case studies that use ethnography or qualitative methods to understand what a particular global education policy (e.g. choice, community participation, teacher accountability, etc.) means in a particular context. By now, there also exist quite a few studies on why and when externalization takes place. For a long time, most of these studies on externalization were produced at the three hubs of policy-borrowing research: Teachers College, Columbia University (New York), Humboldt University (Berlin), and University of Oxford (Oxford, UK). In comparison, only few studies were produced that examine internalization. Of course, there is a particular reason that accounts for the scarcity of impact studies: erroneous assumptions are made that each borrowed policy is actually implemented and, once implemented, either completely replaces previous policies or generates a policy hybrid, reflecting select elements from old and new policies.
+</text>
+
+<text page="11" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/10/Text/6">
+In my studies on educational import in Mongolia, I observed that replacement and hybridization only represent two possible types of internalization of educational import. A third – reinforcement of existing structures – must also be considered. I used the import of outcomes-based education (OBE) in Mongolia as a case in point. As absurd as it may have sounded when I first presented my study, OBE merely reinforced the elaborate system of teacher surveillance that had long been in existence in Mongolia.[1](#page-14-10)
+</text>
+
+<text page="11" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/10/Text/7">
+For system theory, understanding system logic or system meaning is of vital importance. For our group of researchers, globalization is not an intervention that is introduced by external forces but, as mentioned before, it is stakeholders in the system that use the semantics of globalization or international standards – at particular times, in particular ways and under particular circumstances – to shake up the power dynamic in a
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/11/Text/2">
+system. In effect, policy borrowing is more likely to occur under conditions of a protracted policy conflict when different interest groups pull in different directions and block any opportunity for change. It is typically in such policy contexts that references to globalization or international standards have a salutary effect. Brokers of global education policy (international organizations, international businesses) interject them as a third, neutral force, present them as an attractive compromise, and mobilize opposing interest groups to build a coalition in support of the educational import.
+</text>
+
+<text page="12" section="The logic of systems and organizations: the theory of self-referential systems" source="author" id="/page/11/Text/3">
+It is important to bear in mind that the policy-borrowing process does not end here. Externalization is only the beginning of a long process. What happens next is important to investigate. In addition, I recommend that an imported policy is examined five or 10 years after it was first introduced. As demonstrated with several cases of educational import, policy advocacy coalitions are often short-lived and often disintegrate over disagreements on how a policy should actually be implemented. It is at the stage of recontextualization that criticism over the educational import surfaces. One way of solving the dilemma is to deny that the act of policy borrowing actually occurred. Denial is not out of the extraordinary and Carol-Anne Spreen's dissertation was one of the early studies that examined in detail how all traces of policy borrowing – in her case the South African import of outcomes-based education from Australia and North America – were eradicated as soon as the opponents of the reform made an argument of noncomparability (see Spreen, [2004](#page-15-7)). The moment OBE 2000 became controversial, South African policy-makers insisted the global education policy was "home-spun" in the first instance and not imported from anywhere else. Even though such retroactive indigenization or reframing techniques are frequently put to work a posteriori to appease critics, the issue at hand still is the legitimacy of policy attraction across dissimilar contexts: how do policy analysts and policy makers justify their keen interest in educational systems (e.g., Finland, Singapore and Shanghai) that are completely different and non-comparable to their own?
+</text>
+
+
+<heading page="12" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/11/SectionHeader/4" level="2">
+## Learning from Singapore: "Yes, but ... . "
+</heading>
+
+<text page="12" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/11/Text/5">
+As outlined repeatedly in this article, lesson drawing is not primarily a rational act but is rather deeply rooted in political, social, and economic decisions. Even though there is much to learn from the education systems of Singapore, Finland or Shanghai, policy analysts in other countries only emulate the system features of league leaders if it fits their own domestic policy agenda. The policy stream (Kingdon, [1995](#page-14-3)) in the form of lesson drawing from league leaders does not necessarily lead to policy change. Prerequisites for change are political willingness (political stream), a problem recognition (problem stream), and additionally in the case of developing countries the need to mobilize external funding (financial stream). Pressure for change must exist in all these streams for change to actually occur. Formulated differently, change is unlikely unless the various streams become interconnected and generate a policy window, that is, an opportune moment for reform. What if the policy window is shut, that is, if there is no receptiveness for any lesson drawing from elsewhere? In these moments of resistance to change, an interesting phenomenon may be witnessed: policy makers tend to resort to the argument of fundamental differences by insisting that the contexts are not sufficiently comparable to learn a lesson. It is in such moments of inertia that policy makers block off the public pressure, dismiss lesson drawing, and make broad statements about the league leaders: Finland is too monocultural, Shanghai too urban, and Singapore relies too much on private tutoring to be relevant for lesson drawing. Curiously, similar manoeuvres of
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Text/2">
+boundary-setting existed in the past when the educational systems of the Soviet Union (1950s) or Japan (1990s) were regarded as leaders in the sciences and in maths.
+</text>
+
+<text page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Text/3">
+As with its older cousin Sovietology, Japanology was populist in that it spread, at breath-taking speed, many broad generalizations and stereotypical statements about education in Japan. As Cummings ([1989)](#page-14-11), with reference to an expression coined by Joseph Tobin, has pointed out: American researchers tended to use a "yes, but ... . " approach. The approach acknowledges the successes in the other educational system, but at the same time "argues that these successes come at too high a price, a price Americans are unwilling to pay" (Cummings, [1989,](#page-14-11) p. 296). The exaggerated statements or myths about Japanese education included: inverted socialization paradigm (indulgence in early childhood, discipline in adolescence and early adulthood), education for the nation and the state, kyoiku mama (education-oriented mother), rote learning in schools, competition and suicide, elitist higher education, and social inequality. These generalized judgements of Japanese society and education helped to fence off public pressure to learn from Japan. A few years later, the US attraction for the Japanese educational system evaporated as quickly as it emerged due to the economic crisis in Asia. Within a short period of time, the "cautiously acknowledged strengths of Japanese education" (Cummings, [1989](#page-14-11), p. 298) disappeared from American accounts. The Japanese educational system fell from grace and American observers started to make extensive use of studies that documented cram schools, student suicide and teacher burnout in Japan. Critics also emerged within the Japanese contexts. In Japan, the crisis talk surfaced at the turn of the new millennium and was used to justify the need for fundamental reform, such as the far-reaching curriculum reform that was implemented in 2002 (Tsuneyoshi, [2004)](#page-15-8).
+</text>
+
+<text page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Text/4">
+During the Cold War, the field of Sovietology did not only satisfy populist demands for understanding why the US nation fell behind in the space and arms race, but it also made it acceptable in educational research to engage in contrastive analyses, that is, in comparison that is primarily directed towards identifying difference. As a result the two systems were dichotomized, and each was situated at the opposite ends of a spectrum. Soviet education was depicted as a system that relied on political indoctrination, whereas the US system supposedly fostered critical thinking in students. The list of binary constructions is long. Suffice it only to mention one more false dichotomy: the Soviet educational system supposedly emphasized access to education at the expense of quality of education. The field of Sovietology was dropped, as some commentators notice (e.g., Foster, [1998](#page-14-12)), virtually overnight and replaced with Japanology. The new methodology was later on adopted for the research field of Japanology producing, as mentioned above, a multitude of contrastive studies on US and Japanese education.
+</text>
+
+<table_group page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/TableGroup/192">
+<caption page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Caption/5">
+Table 2. Case selection in comparative policy studies
+</caption>
+<table page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Table/6">
+|  |  | Outcomes |
+| --- | --- | --- |
+| Similar | Different |
+| Systems | Similar | SS-SOSimilar systems with similar outcomes | SS-DOSimilar systems with different outcomes |
+| Different | DS-SODifferent systems with similar outcomes | DS-DODifferent systems with different outcomes |
+</table>
+</table_group>
+
+<text page="13" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/12/Text/7">
+Source: Berg-Schlosser ([2002,](#page-14-13) p. 2430)
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/13/Text/2">
+[Table 2](#page-12-0) presents the differentiation between systems and outcomes (Berg-Schlosser, [2002](#page-14-13), p. 2430; see also Landman, [2003](#page-14-14); Przeworski &amp; Teune, [1970](#page-14-15)), and organizes them in terms of similarity and dissimilarity or difference. The literature on research methods commonly discusses case selection in qualitative studies under the heading of purposeful sampling. In contrastive analyses, the researchers select cases/systems that they perceive to be "most different" from their own with regard to political, social, or economic criteria (DS), and expects to find different outcomes (DO). I shaded the quadrant in [Table 2](#page-12-0) that represents the contrastive research design (DS-DO), in which the most different systems are examined with the expectation to find most different outcomes.
+</text>
+
+<text page="14" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/13/Text/3">
+The contrastive design tends to be in effect when there is resistance to change, that is, when the argument of fundamental differences between one's own educational system and that of the league leaders is made. It represents the "yes, but ... . " type of study: it acknowledges that league leaders have a better or different outcome (DO), but at the same time assumes that there is not much to be learned or transferred due to fundamental political, social, or economic differences (DS). Nowadays, "Singaporology" or "Finlandology" are to comparative policy studies in education what Sovietology was in the 1960s and Japanology in the 1980s: interesting to learn about but in most parts impossible to emulate given the fundamental differences in context.
+</text>
+
+<text page="14" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/13/Text/4">
+Nevertheless, depending on the local policy agenda, the opposite may also apply in that policy analysts resort to the league leaders Finland, Shanghai or Singapore to generate reform pressure and learn from these high-performing systems. Policy learning assumes a similarity of contexts or cases. Thus, policy makers tend to advocate for lesson drawing from the league leaders by emphasizing how similar their own situation is as compared to the one in Finland, Shanghai or Singapore. As explained above, contrastive analyses (type: DS-DO) that block policy learning tend to overemphasize contextual differences between the various systems. Situated at the other end of the spectrum are complimentary analyses (type: SS-DO) that exaggerate the similarity between the educational systems under review and thereby make a strong case for learning from league leaders. For investigators of the policy process, it is crucial to understand how policy makers react to the findings from OECD- and IEA-type studies and whether policy makers make use of a contrastive or a complimentary analysis to make their case.
+</text>
+
+<text page="14" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/13/Text/5">
+Naturally, league leaders such as Finland, Shanghai and Singapore lend themselves as projection screens. The explanations for the success vary widely, depending on the national context of the educational researchers. There is a fascinating new body of research produced by scholars in the field of policy borrowing and lending that examines country-specific receptions of the Finnish success in PISA. Media and policy accounts in Germany, Japan and Korea each tell a different tale to explain why 15 year-old students in Finland outperform students from other educational systems in reading, maths, and science (Takayama, [2010](#page-15-9); Waldow, [2010)](#page-15-10). These stories shed more light on contested policy issues in Germany, Japan and Korea, than they do on what makes the Finnish education system so successful. Florian Waldow, for example, explored the idiosyncratic projections made by German policy makers on the Finnish educational system, to understand how the local "socio-logic" produced distorted, simplified, and at times contradicted interpretations in the German media (Waldow, [2010](#page-15-10)). In the cases of Japan and Germany, policy makers reframed, or "Finlandized", ongoing debates in their country, that had little to do with why Finnish students performed exceptionally well in the PISA studies. Their analyses had more to do with the desire to justify controversial educational reforms at home and therefore only corresponded loosely with realities in Finland.
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="Learning from Singapore: "Yes, but ... . "" source="author" id="/page/14/Text/2">
+The popularity of PISA, TIMSS (Trends in International Mathematics and Science Study), and other OECD- or IEA-type international student achievement studies leads us to conclude that standardized comparison has become a powerful policy tool to generate or block off reform pressure. The league leaders in such studies tend to be seen as global norm setters in education. I argued in this article for the need to scrutinize why or when a global education policy, a best practice, or an international standard resonates in a particular context and how it subsequently becomes locally adapted. The scholarly investigation of these dual processes of policy reception and translation are key for advancing the theory of the policy process. Applying a bifocal lens that simultaneously looks at the local context as well as at transnational patterns, comparative education researchers are ideally suited to carry out this intellectual project of theory building in policy studies.
+</text>
+
+
+<heading page="15" section="Note" source="author" id="/page/14/SectionHeader/3" level="4">
+#### Note
+</heading>
+
+<text page="15" section="Note" source="author" id="/page/14/Text/4">
+1. Iveta Silova must be credited for having first detected this third type of impact of policy borrowing on the system in her award-winning dissertation (see Silova, [2006](#page-15-5)). She convincingly demonstrated how politicians in Latvia imported the rhetoric of human rights and multicultural education (strongly propelled by the Council of Europe) to justify segregated schooling for Latvian, Russian, and ethnic minority students (one aspect of which was preservation of mother tongue/minority languages). In effect, these stakeholders in Latvia adopted the language of human rights and multicultural education, propagated in the West, to defend a controversial legacy from the Soviet past that was still in effect in the new millennium.
+</text>
+
+
+<heading page="15" section="References" source="author" id="/page/14/SectionHeader/5" level="2">
+## References
+</heading>
+
+<list page="15" section="References" source="author" id="/page/14/ListGroup/233">
+- Anderson-Levitt, K. (Ed.). (2003). Local meanings, global schooling. Anthropology and world culture theory. New York, NY: Palgrave Macmillan.
+- Baker, D., &amp; LeTendre, G. (2005). National differences, global similarities. World culture and the future of schooling. Stanford: Stanford University Press.
+- Berg-Schlosser, D. (2002). Comparative studies: Method and design. In N. J. Smelser &amp; P. B. Baltes (Eds.), International encyclopedia of the social and behavioural sciences (Vol. 4, pp. 2427– 2433). Amsterdam: Elsevier.
+- Bundesministerium fu¨r Bildung und Forschung. (2010). Die wirtschaftliche Bedeutung deutscher Bildungsexporte. Definition. Volumen. Empfehlungen. Bonn: BMBF, prepared by Booz.
+- Cowen, R. (2000). Comparing futures or comparing pasts? Comparative Education, 36, 333– 342. Cummings, W. K. (1989). The American perception of Japanese education. Comparative Education, 25, 293– 302.
+- Foster, P. (1998). Foreword. In H. J. Noah &amp; M. A. Eckstein (Eds.), Doing comparative education: Three decades of collaboration (pp. 1 – 8). Hong Kong: CERC Studies in Comparative Education.
+- Kingdon, J. (1995). Agendas, alternatives, and public policies (2nd ed.). New York, NY: Longman. Landman, T. (2003). Issues and methods in comparative politics. New York, NY: Routledge.
+- Lenton, P. (2007). Global value. The value of UK education and training exports: An update. Manchester: British Council.
+- Luhmann, N. (1990). Essays on self-reference. New York, NY: Columbia University Press.
+- Phillips, D. (2004). Toward a theory of policy attraction in education. In G. Steiner-Khamsi (Ed.), The global politics of educational borrowing and lending (pp. 54 – 67). New York, NY: Teachers College Press.
+- Przeworski, A., &amp; Teune, H. (1970). The logic of comparative social inquiry. New York, NY: Wiley. Ramirez, F. (2003). The global model and national legacies. In K. Anderson-Levitt (Ed.), Local meanings, global schooling. Anthropology and world culture theory (pp. 239– 254). New York, NY: Palgrave Macmillan.
+- Schriewer, J. (1990). The method of comparison and the need for externalization: Methodological criteria and sociological concepts. In J. Schriewer &amp; B. Holmes (Eds.), Theories and methods in comparative education (pp. 3 – 52). Bern: Lang.
+</list>
+
+</page>
+<page number="16">
+<list page="16" section="References" source="author" id="/page/15/ListGroup/137">
+- Schriewer, J., &amp; Martinez, C. (2004). Constructions of internationality in education. In G. Steiner-Khamsi (Ed.), The global politics of educational borrowing and lending (pp. 29 – 53). New York, NY: Teachers College Press.
+- Silova, I. (2006). From sites of occupation to symbols of multiculturalism: Transfer of global discourse and the metamorphosis of Russian schools in post-Soviet Latvia. Greenwich, CT: Information Age Publishing.
+- Spreen, C-A. (2004). Appropriating borrowed policies: Outcomes-based education in South Africa. In G. Steiner-Khamsi (Ed.), The global politics of educational borrowing and lending (pp. 101– 113). New York, NY: Teachers College Press.
+- Steiner-Khamsi, G. (Ed.). (2004). The global politics of educational borrowing and lending. New York, NY: Teachers College Press.
+- Steiner-Khamsi, G. (2010). The politics and economics of comparison. Comparative Education Review, 54, 323– 342.
+- Steiner-Khamsi, G. (2012). The global/local nexus in comparative policy studies: Analysing the triple bonus system in Mongolia over time. Comparative Education, 48, 455– 471.
+- Steiner-Khamsi, G., &amp; Waldow, F. (Eds.). (2012). Policy borrowing and lending. World yearbook of education 2012. New York, NY: Routledge.
+- Takayama, K. (2010). Politics of externalization in reflexive times: Reinventing Japanese education reform discourses through "Finnish PISA success". Comparative Education Review, 54, 51 –75.
+- Tsuneyoshi, R. (2004). The new Japanese educational reforms and the achievement "crisis" debate. Educational Policy, 18, 364– 394.
+- Waldow, F. (2010). Der Traum vom 'skandinavisch schlau Werden' – Drei Thesen zur Rolle Finnlands als Projektionsfla¨che in der gegenwa¨rtigen Bildungsdebatte. Zeitschrift fu¨r Pa¨dagogik, 56, 497– 511.
+- Watts, D. J. (2003). Six degrees: The science of a connected age. New York, NY: Norton.
+</list>
+
+</page>
+</paper>

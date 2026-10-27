@@ -1,0 +1,605 @@
+<paper source_file="A3.R54" title="" total_pages="21" figures="13" figures_with_images="13">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 13 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="" source="author" id="/page/0/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R54_fig01.jpg">[FIGURE: see A3.R54_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Enhancing Urban Connectivity and Regeneration ** **of Historic Areas: Case Study of Heart of Sharjah**" source="author" id="/page/0/SectionHeader/6" level="1">
+# **Enhancing Urban Connectivity and Regeneration ** **of Historic Areas: Case Study of Heart of Sharjah**
+</heading>
+
+
+<heading page="1" section="**Ghadeer** **Jumah**" source="author" id="/page/0/SectionHeader/7" level="1">
+# **Ghadeer** **Jumah**
+</heading>
+
+<text page="1" section="**Ghadeer** **Jumah**" source="author" id="/page/0/Text/8">
+Master of Sustainable Design of Built Environment, Faculty of Engineering and IT, the British University in Dubai, United Arab Emirates
+</text>
+
+
+<heading page="1" section="**Hanan** **Taleb**" source="author" id="/page/0/SectionHeader/9" level="1">
+# **Hanan** **Taleb**
+</heading>
+
+<text page="1" section="**Hanan** **Taleb**" source="author" id="/page/0/Text/10">
+Professor, Faculty of Engineering and IT, the British University in Dubai, United Arab Emirates hanan.taleb@buid.ac.ae
+</text>
+
+
+<heading page="1" section="**Abstract **" source="author" id="/page/0/SectionHeader/11" level="2">
+## **Abstract **
+</heading>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/12">
+This study employs the integrative design process of sustainable urban regeneration  of the historical district in Sharjah city in UAE by It also improves physical and  visual connectivity and integration within the neighbourhood and among the  surrounding areas to encourage walkability in the district provides a liveable  community, and increase accessibility and social interaction. Applying  comprehensive design strategies to promote connectivity and revitalize the public  places in historical district. The study employs a combination of field studies and  parametric simulation tools to investigate the district and identify opportunities for  improvement. By optimizing the master plan, the research aims to enhance  integration and connectivity within the neighbourhood. The study yielded several  significant findings; most notable was the increment of the integration value of the  optimized master plan by approximately 41% in comparison with Shurooq proposed  master plan 2025, as a result of improving the urban configuration, the street network  enhances the connection between the old district and the waterfront, and introducing  a central plaza to be connected with Al Rola park to achieve the holistic desired
+</text>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**Abstract **" source="author" id="/page/1/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="2" section="**Abstract **" source="author" id="/page/1/Picture/1" image="A3.R54_fig02.jpg">[FIGURE: see A3.R54_fig02.jpg]</figure>
+
+<text page="2" section="**Abstract **" source="author" id="/page/1/Text/6">
+approach. The study's outcomes offer practical implications for urban planners and  policymakers in the Gulf Region, highlighting the importance of integrative design  strategies in fostering sustainable urban regeneration and improving social  interactions within historical districts. The study contributes to the promotion of  sustainable urban development methods in the Gulf Region by providing insights  into how to improve social interactions, promote a holistic approach to urban  regeneration in historical districts, and enhance urban sustainability.
+</text>
+
+<text page="2" section="**Abstract **" source="author" id="/page/1/Text/7">
+**Keywords:** Public Spaces, Connectivity, Integration.
+</text>
+
+
+<heading page="2" section="**Introduction**" source="author" id="/page/1/SectionHeader/8" level="2">
+## **Introduction**
+</heading>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/9">
+Several years ago, after the industrialization and the innovations, the style of  architecture in the cities was influenced as being introduced to structures that can  match anywhere without taking into account the identity and heritage of cities.  While, UAE cities witnessed rapid vast expansion, construction, that affected the  historic district's identity and sense of places. Considering that 50 % of the population  now lives in towns and that this number is projected to hit 70% by 2050, makes  urbanization among the most transformative trends of the twenty-first century 1. Recently, a growing trend in urban sustainability has become more common in the  international policy debate over the past decade and has emerged as one of the main  concepts of sustainable urban development in global development agendas,  including the New Urban Agenda, the SDGs GOALS, the Paris Agreement, and the  SENDAI Framework. However, creating more sustainable communities saves  resources and the climate on a wide scale. In 2010, the UAE government launched  the UAE Vision 2021, which aims to make UAE one of the top destinations.  Sustainable growth has become a priority on the agenda in cities across the globe. In  consideration of all that has been discussed so far in the pursuit of these goals, the  United Nations has outlined a holistic approach to SDGs. Meanwhile, UAE is
+</text>
+
+</page>
+<page number="3">
+
+<heading page="3" section="**Introduction**" source="author" id="/page/2/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="3" section="**Introduction**" source="author" id="/page/2/Picture/1" image="A3.R54_fig03.jpg">[FIGURE: see A3.R54_fig03.jpg]</figure>
+
+
+<heading page="3" section="**Introduction**" source="author" id="/page/2/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="3" section="**Introduction**" source="author" id="/page/2/Text/6">
+committed to provide a sustainable environment as a continuation of the eleven goals  of the SDGs which concentrated on sustainable cities and communities 2. In this  regard, several attempts have been made by Sharjah Investment and Development  Authority (Shurooq) was formed to oversee Sharjah's social, cultural, environmental,  and economic growth in line with its Islamic identity as an autonomous government  body. This aligned with H.H Sheikh Dr. Sultan bin Muhammad Al Qassimi and the  Sharjah government vision to restore and revitalize the historical center of the city  since 2008 and recall the city image and identity from 1950 as a hybrid hub of the  city and enhance the social, cultural, and economical values. Thus, the motivation of  this study will focus on sustainable urban regeneration in historical district. Which  will introduce recommendations for future studies of urban regeneration in our cities'  at both local and global levels. Additionally, urban connectivity and integration is  considered a strong base and inspiration to enhance people perception of urban  spaces where they can live or meet, entertain, and spend time which consequently  will introduce the holistic approach of the master plan. The previous discussion  prompted the development of three important research questions:
+</text>
+
+<list page="3" section="**Introduction**" source="author" id="/page/2/ListGroup/124">
+- 1. Why the urban configuration and fabric enhance the urban experience visually  and physically?
+- 2. Does the regeneration of the historical part of the city promote the sense of a rich  cultural heritage and people's lifestyle within the Sharjah city context?
+- 3. How we can improve the urban quality and connectivity through a sense of  places and entertainment along with safety and well-being?
+</list>
+
+
+<heading page="3" section="**Theoretical Underpinning**" source="author" id="/page/2/SectionHeader/10" level="2">
+## **Theoretical Underpinning**
+</heading>
+
+
+<heading page="3" section="**Urban Design Theme and Trends (past, present, and future):**" source="author" id="/page/2/SectionHeader/11" level="2">
+## **Urban Design Theme and Trends (past, present, and future):**
+</heading>
+
+<text page="3" section="**Urban Design Theme and Trends (past, present, and future):**" source="author" id="/page/2/Text/12">
+Recently urban environment has changed dramatically. The phase of urban transition  and its results in terms of industrial, post-industrial, and technological urban change
+</text>
+
+</page>
+<page number="4">
+
+<heading page="4" section="**Urban Design Theme and Trends (past, present, and future):**" source="author" id="/page/3/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="4" section="**Urban Design Theme and Trends (past, present, and future):**" source="author" id="/page/3/Picture/1" image="A3.R54_fig04.jpg">[FIGURE: see A3.R54_fig04.jpg]</figure>
+
+<text page="4" section="**Urban Design Theme and Trends (past, present, and future):**" source="author" id="/page/3/Text/6">
+3. In the late 1960s and early 1970s, cultural and historical factors of the traditional  urban world were adopted across Europe and the United States with considerable  reverence for the individuality of places and their history. There was a growing  presence from ideas that were disappointed with the successes of the modernist urban  revolution, which struggled to create decent streets or towns. As a result, highways  have no social features and continued to separate and break local areas, resulting in  effective urban regeneration problems today. Mitchell (1999) suggests that the  influence of the digital revolution would redefine the philosophical and professional  goals of planners, and those who think about the spaces. Besides, the Congress for  New Urbanism (CNU): The Sustainable Urban Planning Movement was founded by  six architects and was first held in Alexandria, Virginia, in 1993. Emphasis on  combining high-performance buildings and high-performance infrastructure by  combining five attributes: concept, compactness, completeness, accessibility, and  biophilia as stated by Douglas Farr, 2009. In 1993, the USGBC United States  Building Council was formed. LEED Neighborhood ranking system was established  in 2010 with the priority of sitting policies at the local and regional level. As a result,  LEED has become an increasingly mainstream power that has moved policymakers  around the world to more sustainable policies 4.
+</text>
+
+
+<heading page="4" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/3/SectionHeader/7" level="2">
+## **Sustainable Urban Regeneration in Historical District:**
+</heading>
+
+<text page="4" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/3/Text/8">
+Rapid economic progress, population growth, and evolving habits, most of the Gulf's  historical centers have faced difficulties in making the required improvements and  transitions to new requirements and changes 5. In the Gulf, cities have observed  significant social, cultural, and economic shifts due to the oil discovery in the 1950s  and 1960s. These transformations have had a direct effect on their historic  surroundings, thereby significantly endangering the distinctiveness and identity of  their towns. 6 found that walking strategies, can have a dramatic effect on  accessibility, walkability, and the efficiency of public spaces. As well as,
+</text>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/4/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="5" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/4/Picture/1" image="A3.R54_fig05.jpg">[FIGURE: see A3.R54_fig05.jpg]</figure>
+
+
+<heading page="5" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/4/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="5" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/4/Text/6">
+pedestrianization leads to economic development in terms of cultural interaction and  tourism. Decision-makers should also increase awareness of heritage places to  improve strategy development and regeneration policies by applying integrated  urban planning to support all layers of planning. Public spaces are divided as per the  aspect of human well-being and how they perform, perceive, and use space to  establish the experience of all meanings. As stated by Kevin Lynch (1960), the visual  place is full of life, creativity, unforgettable, mimicking curiosity that can generate  an impression and a sense of place by a mixture of multi-physical and spiritual  elements. cities key functions elaborate in the following spaces: workspaces to  strengthen our economy, public places to enhance the social interaction and human  wellbeing, public services, tourist spaces, transportation hubs, and schools, all to be  connected in a safe and attractive network so all can benefit and flourish the  community life 3. Sharjah city was listed on the UNESCO list in 2014 as the Arab  cultural city. Aligned with the vision of H.H Al Qasimi culture and education build  cohesive societies as well as a more inclusive approach, supporting innovation,  creativity, and sustainable jobs. Over the last decade, several Gulf cities, such as  UAE, and Doha have begun urban conservation and have grown from an initial  concern for the preservation of individual buildings to the conservation of urban  areas. Heritage preservation has gradually been used as a powerful policy tool to  help restore old Dubai 7. To define the future of the tourism industry from a  sustainable perspective,' Shurooq has played a vital role in facilitating this, leading  to SDG 15 and SDG 11. In 2012, The Kalba eco-tourism project was initiated by  Shurooq, one of the ancient mangroves, as a tourist destination both for protection of  the natural environment and increase environmental awareness through various  projects and education centres. in collaboration with the Environment and Protected  Areas Authority in Sharjah also under the supervision of SUPC. Another project  invested by Shurooq that falls under Eco-tourism sustainability is the Mleiha
+</text>
+
+</page>
+<page number="6">
+
+<heading page="6" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/5/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="6" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/5/Picture/1" image="A3.R54_fig06.jpg">[FIGURE: see A3.R54_fig06.jpg]</figure>
+
+<text page="6" section="**Sustainable Urban Regeneration in Historical District:**" source="author" id="/page/5/Text/6">
+archaeological project which was nominated by UNESCO as a World Heritage Site  8.
+</text>
+
+
+<heading page="6" section="**Methodology**" source="author" id="/page/5/SectionHeader/7" level="2">
+## **Methodology**
+</heading>
+
+<text page="6" section="**Methodology**" source="author" id="/page/5/Text/8">
+Heart of Sharjah considered as a comprehensive historical case study to examine  connectivity and regeneration strategies that reflect different phases of multiple  historical, cultural, and urban structures. A mixed mode methodology was  incorporated as a holistic approach to maintain the valuable history and incorporating  the heritage area with the new neighborhoods to satisfy the needs of existing users  and improve the urban environment for future generations. The first stage of the  analysis presented a macro scale picture of the city of Sharjah to understand the  physical and visual aspects of the city in the form of the movement pattern,  connectivity, and cultural tourism. It starts with the marking of landmarks that have  relevance from the tourism perspective and others major nodes in the city, moving  ahead towards Heart of Sharjah to analyze the current status of the area and highlight  all the problems in all levels (city, Neighbourhood, and between houses) which made  the government of Sharjah rethink and decide of regeneration. Then, the next stage  involved the analysis of the Heart of Sharjah site through conducting a field study  and observing the area in terms of urban configuration, movement flow either  pedestrian or vehicles, and network connectivity and integration and how this affects  the liveability of public spaces in the study area. After that, a computer simulation  was used to validate and test different parameters to compare the analytical result to  reach the optimized design option.
+</text>
+
+</page>
+<page number="7">
+
+<heading page="7" section="**Methodology**" source="author" id="/page/6/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="7" section="**Methodology**" source="author" id="/page/6/Picture/1" image="A3.R54_fig07.jpg">[FIGURE: see A3.R54_fig07.jpg]</figure>
+
+
+<heading page="7" section="**Methodology**" source="author" id="/page/6/SectionHeader/2" level="2">
+## 
+</heading>
+
+<figure_group page="7" section="**Methodology**" source="author" id="/page/6/FigureGroup/56">
+<figure page="7" section="**Methodology**" source="author" id="/page/6/Figure/6" image="A3.R54_fig08.jpg">[FIGURE: see A3.R54_fig08.jpg]</figure>
+<caption page="7" section="**Methodology**" source="author" id="/page/6/Caption/7">
+Figure (1): Google Map of Sharjah City Highlight the Study Area of Heart of Sharjah, (source: 9)
+</caption>
+</figure_group>
+
+<figure_group page="7" section="**Methodology**" source="author" id="/page/6/FigureGroup/57">
+<figure page="7" section="**Methodology**" source="author" id="/page/6/Figure/8" image="A3.R54_fig09.jpg">[FIGURE: see A3.R54_fig09.jpg]</figure>
+<caption page="7" section="**Methodology**" source="author" id="/page/6/Caption/9">
+Figure (2): Heart of Sharjah existing master plan, extracted from OSM by Grasshopper, (source: Author, 2020)
+</caption>
+</figure_group>
+
+<text page="7" section="**Methodology**" source="author" id="/page/6/Text/10">
+Figure 2 illustrate collecting input data from the parametric tool as road networks,  building structure, and land uses in the implementation of new tools as a quantitative  process in urban analysis has introduced strong techniques over the conventional  qualitative methodology that increase the scholarly interest in this pattern 10.
+</text>
+
+</page>
+<page number="8">
+
+<heading page="8" section="**Methodology**" source="author" id="/page/7/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="8" section="**Methodology**" source="author" id="/page/7/Picture/1" image="A3.R54_fig10.jpg">[FIGURE: see A3.R54_fig10.jpg]</figure>
+
+
+<heading page="8" section="**Methodology**" source="author" id="/page/7/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="8" section="**Methodology**" source="author" id="/page/7/Text/8">
+Figure 3 represent the proposed master plan 2025 by Shurooq as a concptual master  planning and devloping the area based on Dr. Sultan Al Qassimi vision. Shurooq  developer divides the project into 4 phases.
+</text>
+
+</page>
+<page number="9">
+
+<heading page="9" section="**Methodology**" source="author" id="/page/8/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="9" section="**Methodology**" source="author" id="/page/8/Picture/1" image="A3.R54_fig11.jpg">[FIGURE: see A3.R54_fig11.jpg]</figure>
+
+
+<heading page="9" section="**Methodology**" source="author" id="/page/8/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="9" section="**Methodology**" source="author" id="/page/8/Text/6">
+Meanwhile, to be able to regenerate the urban configuration of the area to create the  physical layer of the design process, a parametric plan was created by using  Grasshopper, which allowed a certain degree of flexibility, especially in the first  stages of the design process. The Rhino Visual Programming Interface is incredibly  useful for visualizing and accessing the results of the study,
+</text>
+
+<text page="9" section="**Methodology**" source="author" id="/page/8/Text/7">
+The optimized layout proposal is then developed to broaden the spatial views  between the heritage building to accomplish the goal of reconnecting living  environments on both the spatial and the visible layers. As a result, the removal of  visual restrictions has contributed to a substantial improvement in the average value  of the Rn (r1000) integration measure. This approach allows for the structuring of  the iterative process between research and design. One of the main objectives of this  study is to improve the connectivity and livability of public spaces in a historical  district, through restoring the historical relationship between the old city and the sea.  Which has been isolated due to the presence of Corniche road that creates a barrier.  The first attempt was to break down visual and physical boundaries to promote the  creation of visual connections between spaces. This led to attracts people inside  spaces, giving the form a cleaner look as well as a less fragmented structure. In this  regard, two proposed simulations suggested by Author were evaluated in space  syntax. According to Whyte, the area where the street and the plaza meet is a key to  success or failure. The concept behind the suggested scenarios evolved around  eliminating the road lanes, replace the car lanes with pedestrian or cycling pathways.  Meanwhile, the urban configuration, in this case, can be regenerated and fill it with  old urban fabric only in Al Hisin avenue instead of the High rise building which  going to be demolished. At the same time, other old buildings can be improved by  adaptive reuse, renovation, restoration, etc. The process of evaluation and assess the  proposed scenario focusing on the main goal of this study which elaborated as
+</text>
+
+</page>
+<page number="10">
+
+<heading page="10" section="**Methodology**" source="author" id="/page/9/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="10" section="**Methodology**" source="author" id="/page/9/Picture/1" image="A3.R54_fig12.jpg">[FIGURE: see A3.R54_fig12.jpg]</figure>
+
+<text page="10" section="**Methodology**" source="author" id="/page/9/Text/6">
+reconnecting the two parts of the heart of Sharjah, and the old souq, in addition, to  celebrate the ceremonial presence of Al Hisin.
+</text>
+
+
+<heading page="10" section="**Result**" source="author" id="/page/9/SectionHeader/7" level="2">
+## **Result**
+</heading>
+
+
+<heading page="10" section="**Axial Analysis on the Global Level:**" source="author" id="/page/9/SectionHeader/8" level="2">
+## **Axial Analysis on the Global Level:**
+</heading>
+
+<text page="10" section="**Axial Analysis on the Global Level:**" source="author" id="/page/9/Text/9">
+Space syntax technology promoted the development of many analytical techniques  based on mathematical and computer simulation to capture the configurational  properties of urban spaces at various scales. While DepthMap X software is applied  to generate the assessment by conducting axial line analysis and visibility graph  analysis. Firstly, testing the proposed master plan by Shurooq on the neighborhood  level and the optimized options on the global level by using axial line analysis to  decide the best scenario of the regeneration options. Then, evaluate the chosen  optimized proposed design options and compare it with the previous result of the  Shurooq master
+</text>
+
+<text page="10" section="**Axial Analysis on the Global Level:**" source="author" id="/page/9/Text/10">
+Plan through the running of axial line analysis on the local level to prove the previous  result. After that, Forecasts on the future transformations in terms of public life can  be made at this point through a visibility graph analysis. In the end, this will provide  a sufficient way to understand the nature of the larger space and determine livability  within spaces by studying how these unit spaces are connected, integrated on both  physical and visible dimensions. However, the results of this study indicate that the  vitality and success of the design of the public place relies on the value of integration,  connectivity, choice, and visibility graph analysis (VGA) when we converted into  space syntax terminology.
+</text>
+
+</page>
+<page number="11">
+
+<heading page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/Picture/1" image="A3.R54_fig13.jpg">[FIGURE: see A3.R54_fig13.jpg]</figure>
+
+
+<heading page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/SectionHeader/2" level="2">
+## 
+</heading>
+
+<figure_group page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/FigureGroup/67">
+<figure page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/Figure/6" image="A3.R54_fig14.jpg">[FIGURE: see A3.R54_fig14.jpg]</figure>
+<caption page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/Caption/7">
+Figure (5): Axial Map Analysis- Existing Master Plan (sim1), Global Connectivity, Choice, Integration  Scatterplot (Min 1.32, Max 5.39), Rn, (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="11" section="**Axial Analysis on the Global Level:**" source="author" id="/page/10/Text/8">
+Figure 5 shows the axial maps of the existing master plan associated with colour  scale ranging from blue to red which means the level of connectivity or integration  as the blue colour represent lack of connectivity. The highest integration and  connectivity value showed in Al Auroba Street, which reflects the high traffic flow  along the day. But the surrounding street of both Al Muraijah and Shuwaihean  neighbourhood shows a lack of connectivity which resulted in an isolated area.  However, the most integrated value in this analysis about (5.39) which considered a  very low value as highlighted in the above axial maps. Since most of the maps are  marked with blue color. This resulted in a segregated unsafe historical area.
+</text>
+
+</page>
+<page number="12">
+
+<heading page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/Picture/1" image="A3.R54_fig15.jpg">[FIGURE: see A3.R54_fig15.jpg]</figure>
+
+
+<heading page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/SectionHeader/2" level="2">
+## 
+</heading>
+
+<figure_group page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/FigureGroup/62">
+<figure page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/Figure/6" image="A3.R54_fig16.jpg">[FIGURE: see A3.R54_fig16.jpg]</figure>
+<caption page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/Caption/7">
+Figure (6): Axial Integration Value of Shurooq Proposed Master Plan (sim2), Global Integration  Scatterplot (Min 1.59,Max 5.56), Rn, (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="12" section="**Axial Analysis on the Global Level:**" source="author" id="/page/11/Text/8">
+However, as shown in figure 6, provide a colourful presentation of the connectivity,  choice, and integration values respectively. The result of the correlation analysis, to  observe the difference between the current status of the study area and the proposed  master plan by Shurooq was not significant. At the same time, as per the result still  suffer from segregation between its spaces. Might this due to the adding of the old  fabric instead of the modern demolished building in the Bank Street Although, the  old souq being more connected is still isolated from the waterfront elevation due to  the presence of Cornich road.
+</text>
+
+</page>
+<page number="13">
+
+<heading page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/Picture/1" image="A3.R54_fig17.jpg">[FIGURE: see A3.R54_fig17.jpg]</figure>
+
+
+<heading page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/SectionHeader/2" level="2">
+## 
+</heading>
+
+<figure_group page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/FigureGroup/54">
+<figure page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/Figure/6" image="A3.R54_fig18.jpg">[FIGURE: see A3.R54_fig18.jpg]</figure>
+<caption page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/Caption/7">
+Figure (7): Axial Integration Value of Optimized Proposed Master Plan- Option 1 (sim 3), Global  Integration Scatter Plot, Rn, (Min 2.25, Max 7.01), (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="13" section="**Axial Analysis on the Global Level:**" source="author" id="/page/12/Text/8">
+On the other hand, [Figure (](#page-12-0)7, shows that the integration value was significantly  improved in optimized option one simulation-3, in comparison to the integration  value were tested in the Shurooq proposal (sim2), where the difference between them  around 2 degrees as shown in the scatter plot, The integration is measured in this  scenario around (7.01).
+</text>
+
+</page>
+<page number="14">
+
+<heading page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/Picture/1" image="A3.R54_fig19.jpg">[FIGURE: see A3.R54_fig19.jpg]</figure>
+
+
+<heading page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/SectionHeader/2" level="2">
+## 
+</heading>
+
+<figure_group page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/FigureGroup/60">
+<figure page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/Figure/6" image="A3.R54_fig20.jpg">[FIGURE: see A3.R54_fig20.jpg]</figure>
+<caption page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/Caption/7">
+Figure (8): Axial Integration Value of the Optimized Proposed Master Plan- Option 2 (sim 4), Global  Integration Scatterplot, Rn, (Min 2.48, Max 7.87), (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="14" section="**Axial Analysis on the Global Level:**" source="author" id="/page/13/Text/8">
+The new design proposal (option 2) is developed accordingly and structured in a way  that increasing liveability and to create attractive places in the urban context. The  first decision after analyzing the previous options was to transform the corniche road into an interactive plaza which will promote a car-free environment, and attract more  pedestrian activities where they can flow easily toward the heritage and art area  through organic sustainable corridors. In addition to that, those vistas will enhance  the fresh breeze coming from the sea, which will have a good impact on the air  quality for users. In this view, Al Hisn plaza will be designed as a central plaza for
+</text>
+
+</page>
+<page number="15">
+
+<heading page="15" section="International Journal for Scientific Research (IJSR)" source="author" id="/page/14/SectionHeader/0" level="1">
+# International Journal for Scientific Research (IJSR)
+</heading>
+
+<figure page="15" section="International Journal for Scientific Research (IJSR)" source="author" id="/page/14/Picture/1" image="A3.R54_fig21.jpg">[FIGURE: see A3.R54_fig21.jpg]</figure>
+
+
+<heading page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/SectionHeader/2" level="1">
+# المجلة الدولية للبحوث العلمية
+</heading>
+
+<text page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Text/3">
+Vol. (3), No. (10)
+</text>
+
+<text page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Text/4">
+October 2024
+</text>
+
+<text page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Text/5">
+الإصدار (3)، العدد (10)
+</text>
+
+<text page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Text/6">
+special events. Also, create a pedestrian bridge to connect the historical district with Al Rola Park. Meanwhile, the integration value was enhanced in this option in comparison with the previous simulations which account for (7.87) at the global level. The result of this analysis proved the final design proposal will lead more agents inside the spaces.
+</text>
+
+<figure_group page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/FigureGroup/72">
+<figure page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Figure/7" image="A3.R54_fig22.jpg">[FIGURE: see A3.R54_fig22.jpg]</figure>
+<caption page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Caption/8">
+Figure (9): Axial Line Analysis Chart of all Simulations at the Global Level Rn as following: (sim1): Existing Master Plan, (sim2): Shurooq Proposed Plan, option 1 (sim3): Optimized Proposed Plan, Options 2 (sim4): Optimized Proposed Plan, (source: Author, 2020)
+</caption>
+</figure_group>
+
+<text page="15" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/14/Text/9">
+The above chart, illustrates the integration value of all axial line analysis results at the global level (Rn) of the study area. Overall, it is evident that the optimized proposed design option two (sim 4) measured the highest integration value at the global level which almost (7.87). Whereas the least integration value is shown at the existing master plan sim1, (5.39). Furthermore, comparing these two measures showed that, the most significant increment in the integration value around half 46%
+</text>
+
+</page>
+<page number="16">
+
+<heading page="16" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/15/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="16" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/15/Picture/1" image="A3.R54_fig23.jpg">[FIGURE: see A3.R54_fig23.jpg]</figure>
+
+
+<heading page="16" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/15/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="16" section="المجلة الدولية للبحوث العلمية" source="author" id="/page/15/Text/6">
+among them. However, the optimized proposal plan option one (sim3), was improved  by roughly one quarter 26% in comparison with Shurooq proposed master plan  (sim2). On the other hand, the optimized proposed plan option two (sim 4), its  integration value results increased by 41% in comparison with the Shurooq proposal  (sim2) at the global level Rn. Based on the axial analysis results and the predictions  provided from space syntax, the selected optimized proposal for this study will be  option two (sim 4). Consequently, design validation analysis will be conducted on  the local level R800.
+</text>
+
+
+<heading page="16" section="**Axial Analysis on the Local Level:**" source="author" id="/page/15/SectionHeader/7" level="2">
+## **Axial Analysis on the Local Level:**
+</heading>
+
+<figure_group page="16" section="**Axial Analysis on the Local Level:**" source="author" id="/page/15/FigureGroup/83">
+<figure page="16" section="**Axial Analysis on the Local Level:**" source="author" id="/page/15/Figure/8" image="A3.R54_fig24.jpg">[FIGURE: see A3.R54_fig24.jpg]</figure>
+<caption page="16" section="**Axial Analysis on the Local Level:**" source="author" id="/page/15/Caption/9">
+Figure (10): Axial Integration Value of Shurooq Proposed Master Plan (sim2b), Local Integration  Scatterplot, R800, (Min 1.4, Max 4.32), (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="16" section="**Axial Analysis on the Local Level:**" source="author" id="/page/15/Text/10">
+The analysis was repeated within a metric radius of 800m as a walking distance  within the community, which needs 10 minutes.[ Figure (](#page-15-0)10 shows the result of the  local integration in the heritage area, the spaces were more connected from the  waterfront side. But, the historical wall side still isolates the area from the adjacent  neighbourhood. On the other hand, Al Hisin area and the Art area are still segregated  and have a lot of disconnected pathways and fragmented spaces.
+</text>
+
+</page>
+<page number="17">
+
+<heading page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/Picture/1" image="A3.R54_fig25.jpg">[FIGURE: see A3.R54_fig25.jpg]</figure>
+
+
+<heading page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/SectionHeader/2" level="2">
+## 
+</heading>
+
+<text page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/Text/6">
+Also based on the space syntax theory these lines can be helpful to predict the  movement flow so the optimized options will be built on those analytical forecasting  lines.
+</text>
+
+<figure_group page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/FigureGroup/62">
+<figure page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/Figure/7" image="A3.R54_fig26.jpg">[FIGURE: see A3.R54_fig26.jpg]</figure>
+<caption page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/Caption/8">
+Figure (11): Axial integration value of optomized proposed master plan- option 2 (sim 4), local  Integration, R800, (Min 1.897, Max 5.97), (source: Author, DepthMapX, 2020)
+</caption>
+</figure_group>
+
+<text page="17" section="**Axial Analysis on the Local Level:**" source="author" id="/page/16/Text/9">
+[Figure (](#page-16-0)11, shows that the results are significant at the majority of the area around  (5.97), which at the same time still higher than the value was recorded in the proposed  design by Shurooq on the same level (R800) which was almost (4.32). In order to  ensure the reliability of the previous results, visibility graph analysis to be conducted  to continue the evaluation process of the selected optimized proposal option two  (sim4) and compare the results with Shurooq proposal subsequently.
+</text>
+
+</page>
+<page number="18">
+
+<heading page="18" section="**Axial Analysis on the Local Level:**" source="author" id="/page/17/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="18" section="**Axial Analysis on the Local Level:**" source="author" id="/page/17/Picture/1" image="A3.R54_fig27.jpg">[FIGURE: see A3.R54_fig27.jpg]</figure>
+
+
+<heading page="18" section="**Axial Analysis on the Local Level:**" source="author" id="/page/17/SectionHeader/2" level="2">
+## 
+</heading>
+
+
+<heading page="18" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/17/SectionHeader/6" level="2">
+## **Visibility Graph Analysis (VGA):**
+</heading>
+
+<figure page="18" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/17/Picture/7" image="A3.R54_fig28.jpg">[FIGURE: see A3.R54_fig28.jpg]</figure>
+
+<text page="18" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/17/Text/10">
+As shown in[ Figure (](#page-17-0)12, the results of the global level analysis represent improvement  in the connectivity value in the whole area of the optimized proposed plan in  comparison to the Shurooq master plan. Whereas, spaces highlighted with red  showing a high level of connectivity and visibility, which can be used for social  interaction. On the other hand, spaces highlighted with yellow represent the lowest  value of connectivity or the least visibility. Further analysis was conducted at the  local level for each area of the site separately, defined as Heritage area, Art area, and  Al Hisin area.
+</text>
+
+</page>
+<page number="19">
+
+<heading page="19" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/18/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="19" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/18/Picture/1" image="A3.R54_fig29.jpg">[FIGURE: see A3.R54_fig29.jpg]</figure>
+
+
+<heading page="19" section="**Visibility Graph Analysis (VGA):**" source="author" id="/page/18/SectionHeader/2" level="2">
+## 
+</heading>
+
+
+<heading page="19" section="Heritage Area -- (A) left map Shurooq master plan, -- (B) right map  optimized proposed plan" source="author" id="/page/18/SectionHeader/6" level="1">
+# Heritage Area -- (A) left map Shurooq master plan, -- (B) right map  optimized proposed plan
+</heading>
+
+<figure page="19" section="Heritage Area -- (A) left map Shurooq master plan, -- (B) right map  optimized proposed plan" source="author" id="/page/18/Figure/7" image="A3.R54_fig30.jpg">[FIGURE: see A3.R54_fig30.jpg]</figure>
+
+<figure page="19" section="Heritage Area -- (A) left map Shurooq master plan, -- (B) right map  optimized proposed plan" source="author" id="/page/18/Figure/8" image="A3.R54_fig31.jpg">[FIGURE: see A3.R54_fig31.jpg]</figure>
+
+
+<heading page="19" section="Art Area" source="author" id="/page/18/SectionHeader/9" level="2">
+## Art Area
+</heading>
+
+<figure page="19" section="Art Area" source="author" id="/page/18/Picture/10" image="A3.R54_fig32.jpg">[FIGURE: see A3.R54_fig32.jpg]</figure>
+
+<figure page="19" section="Art Area" source="author" id="/page/18/Picture/11" image="A3.R54_fig33.jpg">[FIGURE: see A3.R54_fig33.jpg]</figure>
+
+
+<heading page="19" section="Al Hisin Area" source="author" id="/page/18/SectionHeader/12" level="2">
+## Al Hisin Area
+</heading>
+
+<figure page="19" section="Al Hisin Area" source="author" id="/page/18/Picture/13" image="A3.R54_fig34.jpg">[FIGURE: see A3.R54_fig34.jpg]</figure>
+
+</page>
+<page number="20">
+
+<heading page="20" section="Al Hisin Area" source="author" id="/page/19/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="20" section="Al Hisin Area" source="author" id="/page/19/Picture/1" image="A3.R54_fig35.jpg">[FIGURE: see A3.R54_fig35.jpg]</figure>
+
+
+<heading page="20" section="**Conclusion**" source="author" id="/page/19/SectionHeader/6" level="2">
+## **Conclusion**
+</heading>
+
+<text page="20" section="**Conclusion**" source="author" id="/page/19/Text/7">
+The results of the study described Sharjah City's actual picture, which indicates that  much of its land are filled by wide car lanes, towers, retail outlets, and residential  neighbourhoods were scattered over the entire system and segregated from each  other. Which needed further effort at the city level. In the meantime, the study  findings have shown that it is very important for Sharjah's historic area to be carefully  built as a connected, integrated, and interactive place that can dramatically change  the social, economic, and environmental conditions. Additionally, as investigated  through the visibility graph analysis, the liveability of public spaces can be improved  through the concept of narrative design experience which concentrating on social,  and cultural values through juxtaposition of events, and space movement. Activating  green spaces for a healthy lifestyle, and public spaces. Finally, sustainable urban  regeneration is an iterative process that is designed to investigate cities from a  holistic perspective.
+</text>
+
+
+<heading page="20" section="**References**" source="author" id="/page/19/SectionHeader/8" level="2">
+## **References**
+</heading>
+
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/130">
+- NATION, U. (2018). Wo r l d U r b a n i z at i o n Pro s p e c t s : The 2018 Revision. Available  at: https://population.un.org/wup/Publications/Files/WUP2018-KeyFacts.pdf.
+- Oliver Wyman. (2019). Achieving sustainable development goals in the uae. Available at:  [https://fcsa.gov.ae/en-us/Documents.](https://fcsa.gov.ae/en-us/Documents)
+- Telford, T. (2001). the value of urban design. Available at: [https://www.designcouncil.org.uk/sites/default/files/asset/document/the-value-of-urban](https://www.designcouncil.org.uk/sites/default/files/asset/document/the-value-of-urban-design_0.pdf)[design_0.pdf.](https://www.designcouncil.org.uk/sites/default/files/asset/document/the-value-of-urban-design_0.pdf)
+- Haapio, A. (2012). Towards sustainable urban communities. Environmental Impact  Assessment Review. Elsevier Inc., vol. 32(1), pp. 165–169. Available At: https://wwwsciencedirect-com.buid.idm.oclc.org/science/article/pii/S0195925511000849
+- Boussaa, D. (2018). Urban Regeneration and the Search for Identity in Historic Cities.
+- Heart of Sharjah. (2020). image [online]. [Accessed 18 May 2020]. Available at:  [https://www.heartofsharjah.ae/heart-of-sharjah-project.html](https://www.heartofsharjah.ae/heart-of-sharjah-project.html)
+</list>
+
+</page>
+<page number="21">
+
+<heading page="21" section="**References**" source="author" id="/page/20/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="21" section="**References**" source="author" id="/page/20/Picture/1" image="A3.R54_fig36.jpg">[FIGURE: see A3.R54_fig36.jpg]</figure>
+
+
+<heading page="21" section="**References**" source="author" id="/page/20/SectionHeader/2" level="2">
+## 
+</heading>
+
+<list page="21" section="**References**" source="author" id="/page/20/ListGroup/88">
+- Hussein, N. (2017). The Pedestrianisation and Its Relation with Enhancing Walkability in  Urban Spaces. Contemporary Urban Affairs, vol. 2(1), pp. 102–112. Available At:  https://doi.org/10.25034/ijcua.2018.3666
+- Boussaa, D. (2017). Urban Heritage and Tourism in the Gulf: The Case of Dubai in the UAE,  (April 2014).
+- "SUPC | initiatives". (2020). [Accessed 17 July 2020]. Available at: [https://supc.shj.ae/initiatives_new.aspx?id=12](https://supc.shj.ae/initiatives_new.aspx?id=12)
+- A. Iyer, K. Deboo, Sh. Gandhi, D. P. (2019). Architectural &amp; Urban Development of Sharjah :  Spatial Analysis of Museums Typology. Available at: https://www.researchgate.net.
+- Ye, Y., Yeh, A., Zhuang, Y., Nes, A. Van &amp; Liu, J. (2016). '" Form Syntax "' as a contribution  to geodesign : A morphological tool for urbanity-making in urban design, vol. 22, pp. 73–90.  Available At: www.palgrave.com/journals
+- Heart of Sharjah. (2008).. Dar Al Omran (Planners, Architects, Engineers). 2008
+</list>
+
+</page>
+</paper>

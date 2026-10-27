@@ -1,0 +1,884 @@
+<paper source_file="A3.R59" title="Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator" total_pages="18" figures="2" figures_with_images="2">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 2 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R59_fig01.jpg">[FIGURE: see A3.R59_fig01.jpg]</figure>
+
+
+<heading page="1" section="Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator" source="author" id="/page/0/SectionHeader/2" level="1">
+# Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator
+</heading>
+
+<text page="1" section="Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator" source="author" id="/page/0/Text/3">
+SAGE Open April-June 2024: I–18 © The Author(s) 2024 DOI: 10.1177/21582440241256444 journals.sagepub.com/home/sgo
+</text>
+
+<figure page="1" section="Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator" source="author" id="/page/0/Picture/4" image="A3.R59_fig02.jpg">[FIGURE: see A3.R59_fig02.jpg]</figure>
+
+<text page="1" section="Risk Perception-Perceived Investor Performance Nexus: Evaluating the Mediating Effects of Heuristics and Prospects With Gender as a Moderator" source="author" id="/page/0/Text/5">
+Parul Kumar&lt;sup&gt;1&lt;/sup&gt;, Md. Aminul Islam&lt;sup&gt;2&lt;/sup&gt;, Rekha Pillai&lt;sup&gt;3&lt;/sup&gt;, and Mosab I. Tabash&lt;sup&gt;4&lt;/sup&gt;
+</text>
+
+
+<heading page="1" section="**Abstract **" source="author" id="/page/0/SectionHeader/6" level="4">
+#### **Abstract **
+</heading>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/7">
+As the financial condition of most individuals has taken the toll during the COVID-19 pandemic, this study aims to analyze varied risk perceptions owing to dynamic behavioral aspects ingrained in individuals. The study primarily incorporates the impact of COVID-19 induced risk perceptions on psychological bias and its aftermath on perceived investment performance, with gender differences being moderators in the aforesaid relationship. A mix of probability and non-probability sampling has been used to collect data from 1,133 respondents through a structured questionnaire. The partial least square structured equation modeling (PLS-SEM) has been employed as an estimation technique. The findings highlight that risk perception has been significant in affecting the heuristics and prospects. However, it is insignificant in directly impacting the perceived investment performance. However, psychological biases, proxied by heuristics and prospects, were found to mediate the relationship between risk perception and perceived investment performance. Practical implications suggest a judicious combination of risk, return, and behavioral portfolio to stimulate, and upscale investments thereby enhancing the investment momentum to reach pre-covid levels. At the same time, the relevance for society lies in the fact that they need to re-consider their investment portfolio to adjust for uncertainties like COVID-19. Future studies can embark on cross country research to investigate varied risk perception-investment performance relationships prevalent in respective economic settings. Also, studies can explore the variation in findings with respect to different classes of investors that is, experiences, first timers, institutional, influencers and others.
+</text>
+
+
+<heading page="1" section="Plain language summary" source="author" id="/page/0/SectionHeader/8" level="4">
+#### Plain language summary
+</heading>
+
+<text page="1" section="Plain language summary" source="author" id="/page/0/Text/9">
+The purpose of the study is to assess the influence of individuals risk perceptions due to psychological bias on their investment performance. The structured questionnaire was shared with prospective respondents and total of 1,133 responses were received. SEM was used to assess the influence of psychological bias on the relationship of risk perception and investment performance of an individual. The findings highlight that with clear understanding of risk perception, people tend to use few mental shortcuts and focus more on rational decision making and better investment performance. Practitioners/portfolio managers/financial planners can design combinations of risk, return and behavioral
+</text>
+
+<text page="1" section="Plain language summary" source="author" id="/page/0/Text/14">
+Md. Aminul Islam is also affiliated to College of Business administration, Prince Mohammad Bin Fahd University, Saudi Arabia.
+</text>
+
+
+<heading page="1" section="**Corresponding Author: **" source="author" id="/page/0/SectionHeader/15" level="4">
+#### **Corresponding Author: **
+</heading>
+
+<text page="1" section="**Corresponding Author: **" source="author" id="/page/0/Text/16">
+Rekha Pillai, The British University, Dubai Email: rekha.pillai@buid.ac.ae
+</text>
+
+<figure page="1" section="**Corresponding Author: **" source="author" id="/page/0/Picture/17" image="A3.R59_fig03.jpg">[FIGURE: see A3.R59_fig03.jpg]</figure>
+
+<footnote page="1" section="**Corresponding Author: **" source="author" id="/page/0/Footnote/10">
+^(&amp;)lt;sup&gt;1&lt;/sup&gt;Delhi Skill and Entrepreneurship University, New Delhi, India
+</footnote>
+
+<footnote page="1" section="**Corresponding Author: **" source="author" id="/page/0/Footnote/11">
+^(&amp;)lt;sup&gt;2&lt;/sup&gt;Universiti Malaysia Perlis, Arau, Kangar, Perlis, Malaysia
+</footnote>
+
+<footnote page="1" section="**Corresponding Author: **" source="author" id="/page/0/Footnote/12">
+^(&amp;)lt;sup&gt;3&lt;/sup&gt;Ajman University, United Arab Emirates
+</footnote>
+
+<footnote page="1" section="**Corresponding Author: **" source="author" id="/page/0/Footnote/13">
+^(&amp;)lt;sup&gt;4&lt;/sup&gt;Al Ain University, United Arab Emirates
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**Corresponding Author: **" source="author" id="/page/1/Text/1">
+portfolio to bring investors back in the market in post covid19 investment scenarios. The researchers can build on the findings of the present study by assessing the longitudinal effect of the heuristics and prospects that influence the investment decision of household investors. In terms of assessment of risk, the studies can be conducted by incorporating various personality traits, cultural influences, family influence, exposure to better investment advice and others such additional variables for having a deeper understanding of differences in the risk perceived by different people.
+</text>
+
+
+<heading page="2" section="Keywords" source="author" id="/page/1/SectionHeader/2" level="3">
+### Keywords
+</heading>
+
+<text page="2" section="Keywords" source="author" id="/page/1/Text/3">
+financial literacy, regret aversion, loss aversion, herding bias, overconfidence bias, mental accounting, anchoring
+</text>
+
+
+<heading page="2" section="Background of the Study" source="cited" id="/page/1/SectionHeader/4" level="3">
+### Background of the Study
+</heading>
+
+<text page="2" section="Background of the Study" source="cited" id="/page/1/Text/5">
+The unprecedent COVID-19 outbreak has led to phenomenal repercussions in the global stocks and financial markets with significant changes evident in investor sentiments toward the same (Naseem et al., 2021). Research corroborates such socio-economic-political-environmental uncertainties as exogenous shocks, (Eckel et al., 2009; Espinosa-Me´ndez &amp; Arias, 2021; Fisman et al., 2015) whose aftermath sow seeds of fear and pessimism in investor sentiments. This also paves way for limited appetite for risky assets accompanied by heavy retail selling (A. Y. Wang &amp; Young, 2020). Secondly, a proliferation of optimistic and pessimistic expectations on potential market recoveries from innumerable news sources inundate retail investors with inconclusive evidence on optimal investment strategies (Ortmann et al., 2020). As a result, investors are presumed to behave irrationally due to information asymmetry and inefficient markets, both emphasizing behavioral finance as a prudent rationale for diverse investment decisions (F. Wang et al., 2022). This is because behavioral finance validates and factors in social, emotional, judgmental and cognitive investor capabilities as drivers of investment decisions with variations in risk perceptions specifically harming prudent decision making (Ahmed et al., 2022). (Mahmood et al., 2016; M. Wang et al., 2011)
+</text>
+
+<text page="2" section="Background of the Study" source="cited" id="/page/1/Text/6">
+Extant research also posits that behavioral finance is the apt theory that underpins the systematic psychological process embedding human feelings and cognitive errors on investment behavior (Barberis &amp; Thaler, 2005; Waweru et al., 2008), which in this paper is perceived investment performance. Adding on, Bailey et al. (2011), exert that psychological bias is one of the most vital factors affecting investment decisions. These unavoidable biases prevent the individuals from making rational decisions, thus curtailing efficient investment decision-making. To validate, Chhapra et al. (2018) conclude that psychological bias act as a prominent reason for irrational decisions and poor investment performance. Taking its roots from the prospect theory (Kahneman &amp; Tversky, 1979), perceived investment performance, an
+</text>
+
+<text page="2" section="Background of the Study" source="cited" id="/page/1/Text/7">
+obvious outcome of investment behavior, is based on the rationale that individuals prefer wealth maximizing options when they are given an opportunity to choose. However, these behavioral theories contradict the conventional classic Capital Asset Pricing Models (Markowitz, 1952) which posit that markets are efficient and ensure information symmetry. Adding on, Malik et al. (2022) assign several behavioral factors such as heuristics (overconfidence, anchoring, ability bias and herding amongst others), prospects (loss aversion, mental accounting, regret aversion) and market factors explaining investor decision making and subsequently investor performance, the unconscious ignorance of which lead to sub-optimal investment performance (Mahmood et al., 2016).
+</text>
+
+<text page="2" section="Background of the Study" source="cited" id="/page/1/Text/8">
+That said, celebrating its 76th independence in 2022, Indian investors mentality has phenomenally changed from investing in fixed income instruments to stocks and mutual funds. They are also known to be risk averse, collective decision makers and significantly influenced by previous stock performance (Adil et al., 2022). However, as interest rates tanked from early 2010, orientation toward market linked securities are evident. Nonetheless, COVID-19 upended investment behavior especially when SENSEX plunged 31% in 2020 (Mudgill, 2020) due to massive selling spree from foreign and retail investors. As highlighted earlier, behavioral finance theory propounds that individual's investment decision making is driven by cognitive and emotional elements. These elements are captured by the heuristics and prospects theory, which often influence the individuals to trade irrationally and end up having lower returns (Seetharaman et al., 2017). Nevertheless, the acute paucity of behavioral finance studies in the Indian economic setting and limited evidence of the impact of changing investor risk perceptions on psychological bias, emerge as valid research gaps warranting further research. Prior research has also been emphatic on financial risk tolerance rather than clients risk perception about investments that may jeopardize investment assessments and consequently investment performance (M. Wang et al., 2011). Apart from varying degrees of risk perceptions, every investor has unique
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="Background of the Study" source="cited" id="/page/2/Text/1">
+motivations, investment purpose, varying levels of cash inflows and outflows as well as inherent personal limitations which lead to dissimilar investment decisions and consequently investment performances (Mahmood et al., 2016).
+</text>
+
+<text page="3" section="Background of the Study" source="cited" id="/page/2/Text/2">
+Interestingly, it is this vacuum that serves as the prime motivator to empirically conduct a first-hand study to explore the mediating effects of heuristics and prospects elements in the risk perception–perceived investment performance relationship. Another novelty of this study is that it considers the subjective dimension of investment performance namely perceived investment performance which pertains to the self-evaluation of one's investment returns in terms of quality and standards achieved without referring to the objective facts of one's circumstances, a concept explored in very few research papers (Akhtar et al., 2018; Nareswari et al., 2021).
+</text>
+
+<text page="3" section="Background of the Study" source="cited" id="/page/2/Text/3">
+Therefore, this paper focusses on achieving threefold objectives. Firstly, to assess the relationship between risk perception and perceived investor performance. Secondly to evaluate the mediating effects of heuristics and prospects on relationship of risk perception and perceived investor performance and thirdly, to examine the differences in perceived investment performance between males and females. To achieve the above objectives and to infer the risk perception- investment performance nexus, this paper studies 1,133 respondents, and employs SmartPLS 4 to perform structural equation modeling along with predictive modeling assessment to estimate five testable hypotheses. Results indicate no significant relationship between risk perception and investment performance while the mediation effects of heuristics and prospects constructs stay relevant in the risk perception– investment performance relationship.
+</text>
+
+<text page="3" section="Background of the Study" source="cited" id="/page/2/Text/4">
+The remaining sections of the study are structured as follows. The next section outline the theoretical framework underpinning the adoptability of various psychological bias. The empirical framework is elaborated in the following section, along with highlighting the results in next section. After that discussion has been presented with respect to results, followed by implications and conclusion of research.
+</text>
+
+
+<heading page="3" section="Theoretical Framework and Hypotheses Formulation" source="author" id="/page/2/SectionHeader/5" level="1">
+# Theoretical Framework and Hypotheses Formulation
+</heading>
+
+<text page="3" section="Theoretical Framework and Hypotheses Formulation" source="author" id="/page/2/Text/6">
+Ajzen (1991) developed the theory of planned behavior, which gave the framework for understanding the complexities of human social behavior. The theory postulates that attitude, subjective norm, and perceived control predict the behavioral intention to a greater extent. Based on the former, prior research has explored the dynamic role of behavioral biases in investment decisions (Kartini
+</text>
+
+<text page="3" section="Theoretical Framework and Hypotheses Formulation" source="author" id="/page/2/Text/7">
+&amp; Nahda, 2021; Mittal, 2022; Zahera &amp; Bansal, 2019). Nonetheless, the risk perception of managers also has a close relationship with investment behavior and such behavioral biases keep many potential investment options un-explored, thus further impacting investment decisions and thereby investment performance. Roberts (2009) stress the pertinence of exploring long term cognitive and psychological traits which have a concrete bearing on investors response behavior. More recently, Kathpal et al. (2021) caution the paucity of research evident in exploring the influence of the aforesaid factors in influencing perceived investment performance. Since many participants exhibit emotions and behavioral patterns, this investment selection becomes quite complex (Riaz et al., 2020; Zahera &amp; Bansal, 2019).
+</text>
+
+<text page="3" section="Theoretical Framework and Hypotheses Formulation" source="author" id="/page/2/Text/8">
+Linking the biases together and establishing that they influence individual behavior, is the master work of Tversky and Kahneman, the pioneers of behavioral finance. In their research about heuristics (Tversky &amp; Kahneman, 1973, 1974) and prospects (Kahneman &amp; Tversky, 1979) they have concluded that multiple aspects influence one's investment decision, making it rigorous for an investor to have an appropriate risk-return assessment. Concurrently, gender also acts as a vital determinant of perceived investment performance with research evidence on the same being indecisive. To warrant the former claim, Rajasekar et al. (2023) note that risk perception specifically has a close link with gender orientation as males have high resistance toward risk perception as compared to female managers. Additionally, while a certain strand of literature highlights the confidence, rationale, and risk adverse nature of female investors (Gonzalez-Igual et al., 2021), Plieger et al. (2021) assert the heightened self-directedness and risky behavior prevalent in men leading to positive stock market evaluations.
+</text>
+
+<text page="3" section="Theoretical Framework and Hypotheses Formulation" source="author" id="/page/2/Text/9">
+Although several studies (Dangol &amp; Manandhar, 2020; Ishfaq et al., 2020; Kumari et al., 2022; Mahmood et al., 2016) have percolated through the risk perception—investor performance domain, the results have been equivocal either with respect to the relationship of variables used or remained incongruous with the passage of time. Adding to the woes, uncertainties associated with COVID-19 in the form of income instability have persuaded individuals to decipher the prospects of sustaining their earnings, investments, and spending, once again urging an in-depth analysis of differing investor psychology leading to investment decisions.
+</text>
+
+
+<heading page="3" section="Risk Perception and Investment Performance" source="author" id="/page/2/SectionHeader/10" level="3">
+### Risk Perception and Investment Performance
+</heading>
+
+<text page="3" section="Risk Perception and Investment Performance" source="author" id="/page/2/Text/11">
+Risk perception is one unique domain of individual decision making entangled in the affective process quagmire, as it assigns the ''dependence on feelings, experiences, and intuitions'' (Ahmad &amp; Shah, 2022) in cost-benefit
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/1">
+judgments, as one of its vital valuation processes (Skagerlund et al., 2020). It is defined as ''the citizen's subjective expectation of suffering a loss in pursuit of a desire outcome'' (Warkentin et al., 2002). In the financial arena, it is measured in terms of attitude toward risk which can be either risk absorption or risk aversion (Kahneman &amp; Tversky, 1979). Raut and Kumar (2018) has concluded that risk perception stems from seven behavioral traits evident between two types of investors that is, early-career investors and experienced investors. Their study resulted in heterogeneous (both positive and negative) perceptions regarding the seven behavioral biases. On another note, Parveen et al. (2023) have examined the interlinkages among behavioral biases, investor sentiments, and investment decisions in the stock market during Covid spread era. Their analysis asserted that covid spread has changed investors' perception, investment decisions, and even the trade volume of the Pakistani stock market. Moreover, Slovic and Peters (2006) assign a cognitive and psychological dimension to risk perception where the former is termed as risk as analysis and the latter is termed as risk as feelings. Risk as analysis relates to the degree of risk comprehension and understanding while the risk as feelings refer to how individuals feel about the risks.
+</text>
+
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/2">
+The current study contemplates on adopting ''risk-asfeelings'' as the apt dimension to consider as it relates to investment decisions which are the outcome of momentary and intuitive reactions to avert impending dangers which in our case is COVID-19 related fears. However, risk perceptions influence individual behavior and can have diverse impacts on perceived investment performance based on the degree and variations in the interpretation (positive or negative) of available information (Shehata et al., 2021). Alluding to the former, T. A. N. Nguyen and Rozsa (2019) contemplate that financially literate and experienced investors exhibit more accuracy in risk perceptions in comparison to inexperienced investors. Here, we argue that individual who employs diligence, rationale, and analytical skills to interpret the risks inherent in the available investment information refrain from risky investment decisions, resulting in enhanced perceived investment performance (Kumar, Pillai et al., 2023; Trang &amp; Tho, 2017). On the contrary, if risk perception evolves from irrational and illogical behaviors, the perceived investment performance will be dissatisfactory due to erroneous and substandard investment decisions. This is where the study of Robinson and Marino (2015) emerge relevant in justifying the role of biased risk perceptions in venture creation decisions. Risk perception has also been studied as a significant mediator between behavioral bias and investment performance (Ishfaq et al., 2020; Wangzhou et al., 2021).The risk perception—perceived investment performance
+</text>
+
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/3">
+nexus, especially during COVID is underpinned by the prospect theory (Kahneman &amp; Tversky, 1979) which purport that individuals experiencing uncertainties display cognitive bias and risk avoidance behavior and concentrate more on assured gains albeit adopting risk taking behavior during an impending loss.
+</text>
+
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/4">
+Furthermore, the paper unveils the moderating effects of gender on perceived investment performance. Prior research has been inconclusive on the former claims as a certain school of thought (Gonzalez-Igual et al., 2021; Hira &amp; Loibl, 2008) argue that males are confident about their investment and risk-taking capabilities and switch to profitable investments from lessons learnt, thus having high levels of perceived investment performance. Another school of thought (Barber &amp; Odean, 2001) reason that women perform better in investment related decisions due to their meticulous scrutiny of individual stocks, therefore foreseeing enhanced perceived investment performance. However insignificant relationships between gender and investment performance were notified by Willows and West (2015), justifying further research on the same. That said, prior research has extensively investigated risk perception as a mediating variable (Wangzhou et al., 2021) or a moderating variable (Ishfaq et al., 2020; Shehata et al., 2021) with Trang and Tho (2017) being the limited few who look subtly into the direct impact of risk perception on investment performance, although being inconclusive about the same. Investment decisions are influenced by the perception of risk, as evidenced by various studies (Hoffmann et al., 2015; L. T. M. Nguyen et al., 2016; Weber et al., 2005). According to Hariharan et al. (2000), individuals tend to allocate their funds to low risk assets when they perceive a higher level of risk, while avoiding high risk assets. According to previous researches of Aren and Zengin (2016) and Keller and Siegrist (2006), individuals who exhibit a lower risk perception are more likely to opt for high-risk stocks as opposed to low-risk deposits when making investment decisions. Surprisingly, explicit information related to gender differences on perceived investment performance remains unexplored. To address this void, the following hypotheses are formulated:
+</text>
+
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/5">
+H1: Perceived investment performance differ across genders.
+</text>
+
+<text page="4" section="Risk Perception and Investment Performance" source="author" id="/page/3/Text/6">
+H2: Risk perception has a significant positive affect on perceived investment performance.
+</text>
+
+
+<heading page="4" section="Risk Perception and Heuristics" source="author" id="/page/3/SectionHeader/7" level="1">
+# Risk Perception and Heuristics
+</heading>
+
+<text page="4" section="Risk Perception and Heuristics" source="author" id="/page/3/Text/8">
+Risk perceptions are pertinent behavior predecessors to prevent or encounter risks, leading to behavioral bias or affective states, better termed as affect heuristic (Slovic
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/1">
+et al., 2002). Furthermore, Ahmad and Shah (2022) opinion that heuristic methods enable information search and change the course of problematic situations to facilitate feasible solutions.
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/2">
+The risk perception–heuristic relationship concurs to the affective event theory (Weiss &amp; Cropanzano, 1996) which explain an individual's subsequent behavior (heuristics bias) as an outcome of the emotions he is going through (risk perceptions). Here we argue that risk perceptions encompass one's beliefs, values and norms and these perceptions can result in misrepresentations in the form of heuristics (Ritter, 1988). This argument holds strong during the pandemic when investors became paranoid about the undulations in stock movements, thereby resorting to heuristics biases (Shah et al., 2019) to both save time and harness benefits. To reiterate, heuristic bias is a mental shortcut amassed from experience to solve complex issues amidst inadequate information and uncertainties (Ritter, 1988). Thus, the current paper discusses three dimensions of heuristics namely anchoring (Tversky &amp; Kahneman, 1974), herding and overconfidence (Waweru et al., 2008).
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/3">
+Anchoring is a psychological behavior where one heavily bases his/her judgment on prior information or first available information. In the investment domain, this can relate to future investment decisions based on prior knowledge and initial price paid for the aforesaid stocks (Robin &amp; Angelina, 2020). Prior research of Lavin et al. (2019) and Piotrowski and Bunnings (2024) attests € the influential effect of anchoring as the most prominent bias in determining investment behavior. Herding is a situation where individuals blindly follow other people's actions without engaging in any form of analysis or diligence about the actions taken (Kahan et al., 1996). Over confidence on the other hand is a heuristic bias where the investor overestimates his analytical abilities, skills, and financial knowledge whilst self-assuring high returns (Hvide, 2002). Surprisingly, prior literature implies the heightened prevalence of herding and overconfidence during market turbulences especially covid (Azam et al., 2022; Bouri et al., 2021).
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/4">
+Referring to Kahneman and Tversky (1979) who measure risk perception in terms of risk absorption or risk aversion, we propose dual dimensions that risk absorbers with a cognitive risk perception have higher risk tolerance levels and better investment returns (Nur Aini &amp; Lutfi, 2019) and exude heuristic traits such as overconfidence and anchoring and do not succumb to herding behavior. This is because these individuals, with their extensive investment experience and inherent risk-taking behavior, are confident in their decisions which they usually based on their prior experience without following the irrational crowd. However, investors embedding
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/5">
+psychological risk perceptions, especially during market shocks like COVID display less confidence whilst displaying both anchoring and herding behavior. Their mental faculties are disturbed and are paranoid about the uncertainties associated with future returns, thereby following the existing crowd, or basing their decisions on the available past investment portfolio. However there has been dearth of studies on the risk perception heuristics nexus (Ahmad &amp; Shah, 2022; Robin &amp; Angelina, 2020; Skagerlund et al., 2020).
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/6">
+We also argue that the direct relationship noted between risk perception and perceived investment performance does not offer a compelling claim in the absence of a mediator which is heuristic. Piotrowski and Bunnings (2024) implore academicians to intensify their € research on heuristics and biases in the context of financial decision-making as existing studies are confined to conditions. Prior research attest that heuristic bias varies from nation to nation (Pompian, 2012) implying that regional and cultural factors have a vital impact on human psychology which is invariably the principal tenet in the prospect theory. In this regard, Wangzhou et al. (2021) have explored the impact of heuristic bias of investors on investment decisions in Pakistan and found a significant positive impact of representative's biases on investment decisions. Similarly, another empirical analysis conducted by Ahmad and Shah (2022) and Kumar, Islam et al. (2023) argue that risk perception about future investment can mediate the link between heuristic overconfidence and investment performance.
+</text>
+
+<text page="5" section="Risk Perception and Heuristics" source="author" id="/page/4/Text/7">
+The studies by Salman et al. (2021) reveals the comovement among risk tolerance, external locus of control, and their impact on heuristic biases and investment decisions. According to Robinson and Marino's (2015) study, there exists a partial mediation of the relationship between venture formation decision and the overconfidence heuristic by risk perceptions. According to Lim et al. (2018), there exists a mediation effect of risk perception on the association between financial knowledge and investment intention. That said, it is evident that early research ventures in behavioral finance have not delved into the mediating effects of heuristics in the risk perception-perceived investment performance relationship. The present study claims that covid 19 fears and aggravated risk perceptions of averting impending risks and gaining immediate competitive advantage led to cognitive overload and misinterpretations in the form of herding, anchoring and over confidence heuristics (Azam et al., 2022), which in turn significantly impact investment decisions detrimentally due to irrational and cognitive bias embedded decisions (Du &amp; Budescu, 2018) arising from mental short cuts. The hypotheses formulated are therefore as follows:
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Risk Perception and Heuristics" source="author" id="/page/5/Text/1">
+H3: Risk perception positively influence heuristics.
+</text>
+
+<text page="6" section="Risk Perception and Heuristics" source="author" id="/page/5/Text/2">
+H4: Heuristics mediates the relationship between risk perception and perceived investment performance.
+</text>
+
+
+<heading page="6" section="Risk Perception and Prospects" source="author" id="/page/5/SectionHeader/3" level="1">
+# Risk Perception and Prospects
+</heading>
+
+<text page="6" section="Risk Perception and Prospects" source="author" id="/page/5/Text/4">
+To reiterate, risk perception is an individuals' subjective judgment of risky situations and is primarily dependent on the social, cultural, regional, and psychological conditions surrounding the individual. It is here where Kahneman and Tversky (1979) established the prospect theory as an alternative to enlighten individual's decision-making under turbulent and risky circumstances. For instance, they claimed that people give more weight to confirmed outcomes than probable ones (Hoffmann et al., 2015). Within the field of behavioral finance, risk perception has been viewed from multiple angles of which the general tendency of humans to be risk averse in situations where gains and losses are likely is widely known. Prospect behavior represents the uncertainties attached to investment decisions and rationalizes the inherent factors in financial decisions to avoid impending loss (Frederiks et al., 2015). The current paper discusses three dimensions of prospect behavior namely loss aversion, mental accounting, and regret aversion to explain their emergence from varied risk perceptions which in turn pose as mediators in perceived investment decision making. These act as mental shortcuts applied or used by investors to make fast and easy decisions in complex and challenging situations.
+</text>
+
+<text page="6" section="Risk Perception and Prospects" source="author" id="/page/5/Text/5">
+Loss aversion implies that losses are principal decision drivers rather than profits of the same magnitude (Kahneman &amp; Tversky, 1979). It refers to a deviant behavioral condition where individuals exhibit a high degree of risk aversion due to intentions to dissuade from impending losses (Isidore &amp; Christie, 2019), all of which have clearly emerged from some form of negative risk perception (Ahmed et al., 2022). Moving on, regret aversion is a situation when individuals realize, they made a poor option in the past although they could have made one with a better outcome. Kahneman and Riepe (1998) note dual dimensions to regret aversion where the first refers to regret of commission where the investors regret on taking an irrational decision leading to loss with regret of omission being the second dimension which relates to regret surfacing from lack of capitalizing on opportunities. This in turn leads to avoidance in future decision making to prevent the regret of doing so if unfavorable outcomes arise. Due to this tendency, people tend to make very conservative financial decisions out of regret about past hazardous adverse investment decisions (R. H. Thaler &amp; Johnson, 1990) thereby urging them to invest in assured positive contribution plans.
+</text>
+
+<text page="6" section="Risk Perception and Prospects" source="author" id="/page/5/Text/6">
+Lastly, mental accounting bias urges investors to evaluate every stock in terms of its value set in ones' mental accounts they currently belong to. The winning stocks have presumably been stored in a specific mental account with the losing ones being stored in another mental account (Naseem et al., 2021). This suggest that investors influenced by mental accounting do not have a robust portfolio and irrationally discriminate between income and capital returns on investment. This is because they segregate investments into different subjective accounts based on their personal goals which dissuade them from viewing positions that correlate across accounts (Renu &amp; Christie, 2018) thus leading to sub optimal investment decision.
+</text>
+
+<text page="6" section="Risk Perception and Prospects" source="author" id="/page/5/Text/7">
+Thus, it can be deduced that risk adverse investors tend to develop varying degrees of loss aversion, mental accounting and regret aversion, the cumulative effect of which can lead to substandard investment decisions (Rehan et al., 2021). The present study also contend that prospects are one of the vital reasons inducing and enforcing the risk perception–perceived investment performance relationship. This is due to varying degrees of loss aversion, mental accounting, and regret aversion arising out of dynamic risk perceptions leading to significant differences in perceived investment decisions. Forlani and Mullins (2000) posit that risk perception pertains to the cognitive processes through which individuals interpret the level of uncertainty and potential for negative outcomes associated with specific actions. Consequently, decision makers who overestimate their abilities are less inclined to avoid risk (Gervais et al., 2011), leading to unsuitable investment choices. According to Rahman et al. (2019), there exists a positive correlation between an individual's propensity for trust and their financial risk tolerance, indicating that those with higher levels of trust propensity tend to exhibit greater tolerance for financial risk. Till date, prior research has either focused on factors affecting risk perception (Saivasan &amp; Lokhande, 2022; Singh &amp; Bhattacharjee, 2019) with no papers investigating the prospect effects as an after effect of risk perception or the mediating effects of prospects in the risk perception investment decision making relationship. This paper will address the aforesaid gap and the hypotheses formulated are as follows:
+</text>
+
+<text page="6" section="Risk Perception and Prospects" source="author" id="/page/5/Text/8">
+H5: Risk perception positively affects the prospects. H6: Prospects mediates the relationship between risk perception and perceived investment performance.
+</text>
+
+
+<heading page="6" section="Methodology" source="author" id="/page/5/SectionHeader/9" level="3">
+### Methodology
+</heading>
+
+
+<heading page="6" section="Data Collection" source="author" id="/page/5/SectionHeader/10" level="3">
+### Data Collection
+</heading>
+
+<text page="6" section="Data Collection" source="author" id="/page/5/Text/11">
+The present study focusses on assessing the mediating impact of psychological biases, proxied as heuristics and
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="Data Collection" source="author" id="/page/6/Text/1">
+prospects, on the relationship of risk perception and perceived investment performance. To assess the hypothesized relationships, a survey methodology was adopted. Sample selection was conducted using a mix of random and snowball sampling technique. The structured questionnaire was personally administered as well as sent through social media platforms, WhatsApp, and emails between the period of March'22 to June'22 as most of the COVID protocols have been used by then which led to opening of colleges, government offices, corporate offices, and others. The questionnaires were also distributed to prospective respondents by visiting banks and shopping malls. Once the respondent completes our questionnaire, we used to request them to kindly share the questionnaire with their colleagues, friends, and relatives for better reach. In this way researchers were able to have wider reach for the present study.
+</text>
+
+<text page="7" section="Data Collection" source="author" id="/page/6/Text/2">
+The scope of the survey was limited to the individuals who have invested their income in any investment alternatives be it equity or debt, thus excluding individuals who were not earning or not involved in any kind of investment options. The questionnaire first asked the willingness of the individual to take part in the survey, stressing both anonymity and confidentiality apart from stating that participation is voluntary and does not entail any right or wrong answers. This would reduce the occurrence of social desirability bias and common method variance (Podsakoff et al., 2003). The structured questionnaire was divided into different sections, that is, Section A for items measuring independent variable (i.e., risk perception); Section B focusing on items measuring heuristics and prospects (i.e., mediating variables); followed by Section C for items measuring perceived investment performance (dependent variable). The last section gathered the demographic profile of a respondent, age, gender, investment horizon, and the percentage of income invested.
+</text>
+
+<text page="7" section="Data Collection" source="author" id="/page/6/Text/3">
+The final sample comprised of 1,133 valid responses. To calculate the minimum sample size requirement for hypothesis testing using PLS-SEM, G*Power software was used. The sample size calculation was based on statistical power of 0.80 with effect size of 0.15 and an alpha value of .05. G*Power estimated the minimum sample size of 103, thus concluding that the present study has the acceptable sample size (Hair et al., 2019; Rasoolimanesh et al., 2017). Table 1 classifies the profile of the respondents as 66% males and 34% females. Most of the respondents were in the age group of 25 to 35 years (70%), followed by 36 to 45 years (16%). Thus, most of the sample comprised of young and middle-aged individuals who regularly invest in various investment avenues. Around 52% of the respondents had child's education as their major financial objective for making the investments, followed by emergency health needs (20%), child marriage (12%), fund accumulation (9%),
+</text>
+
+<table_group page="7" section="Data Collection" source="author" id="/page/6/TableGroup/320">
+<caption page="7" section="Data Collection" source="author" id="/page/6/Caption/4">
+Table 1. Demographic Profile.
+</caption>
+<table page="7" section="Data Collection" source="author" id="/page/6/Table/5">
+| Customer profile | Categories | Sample (Percentage) |
+| --- | --- | --- |
+| Gender | Male | 66 |
+|  | Female | 34 |
+| Age | Below 25 years | 4 |
+|  | 25–35 years | 70 |
+|  | 36–45 years | 16 |
+|  | 46–55 years | 6 |
+|  | Above 55 years | 4 |
+| Investment horizon | \1 year | 8 |
+|  | 1–3 years | 33 |
+|  | 3–5 years | 17 |
+|  | 5–7 years | 12 |
+|  | .7 years | 30 |
+| Percentage ofincome invested | \20% | 31 |
+|  | 20%–30% | 56 |
+|  | 30%–40% | 6 |
+|  | 40%–50% | 5 |
+|  | .50% | 2 |
+</table>
+</table_group>
+
+<text page="7" section="Data Collection" source="author" id="/page/6/Text/6">
+and retirement planning (7%). About 50% of the investors had an investment horizon of 1 to 5 years, while 30% had more than 7 years.
+</text>
+
+
+<heading page="7" section="Measurement Scales" source="author" id="/page/6/SectionHeader/7" level="3">
+### Measurement Scales
+</heading>
+
+<text page="7" section="Measurement Scales" source="author" id="/page/6/Text/8">
+The data collection instrument for the present study was a structured questionnaire. It was divided into four sections. The first section dealt with items measuring risk perception of an investor independent variable (i.e., risk perception; six items). The second section focused on items measuring heuristics and prospects (i.e., mediating variables) including overconfidence (four items), loss aversion (three items), herding (three items), mental accounting (four items), representativeness (four items), anchoring (four items) and regret aversion (three items). The third part captured the responses of respondents on the items measuring perceived investment performance (dependent variable; three items) (refer annexure 1 for items). The dependent variable is the attitudinal scale for measuring the investor's investment performance (Le Phuoc &amp; Doan Thi Thu, 2011). The last section gathered the demographic profile of a respondent, age, gender, investment horizon, and the percentage of income invested. The independent, dependent, and mediating variables in the study were measured using the multi-item validated Likert scale of 1 to 5, adapted from the existing literature, presented in Table 2 and annexure 1 (construct wise scale items).
+</text>
+
+
+<heading page="7" section="Statistical Procedures" source="author" id="/page/6/SectionHeader/9" level="1">
+# Statistical Procedures
+</heading>
+
+<text page="7" section="Statistical Procedures" source="author" id="/page/6/Text/10">
+The initial step in the data analysis is to assess the model for the absence of common method bias (CMB). In the
+</text>
+
+</page>
+<page number="8">
+<table_group page="8" section="Statistical Procedures" source="author" id="/page/7/TableGroup/333">
+<caption page="8" section="Statistical Procedures" source="author" id="/page/7/Caption/1">
+Table 2. Constructs.
+</caption>
+<table page="8" section="Statistical Procedures" source="author" id="/page/7/Table/2">
+| Construct | Scale origin |
+| --- | --- |
+| Risk Perception (RP) | Adaptation of Sindhu et al.(2014) |
+| Overconfidence (OVC) | Adaptation of Kahneman andTversky (1979) |
+| Herding (HERD) | Adaptation of Shiller (2000),Kahneman and Tversky (1979) |
+| Loss Aversion (LA) | Adaptation of Benartzi andThaler (1995) |
+| Mental Accounting (MA) | Adaptation of R. Thaler (1985) |
+| Anchoring (ANCH) | Adaptation of Kahneman andTversky (1979) |
+| Regret Aversion (RA) | Adaptation of Loomes andSugden (1982), Bell (1982) |
+| Perceived InvestmentPerformance (PIP) | Adaptation of Le Phuoc & DoanThi Thu (2011) |
+</table>
+</table_group>
+
+<text page="8" section="Statistical Procedures" source="author" id="/page/7/Text/3">
+present study the same has been assessed using the bivariate correlations between the constructs and the variance inflationary factor (VIF). The bivariate correlations were not found to be excessively high (\0.85) (Lowry &amp; Gaskin, 2014) and all the VIF values were less than 3.3 (Hew &amp; Syed Abdul Kadir, 2016) as shown in Annexure 2. Thus, implying absence of common method bias in the model.
+</text>
+
+<text page="8" section="Statistical Procedures" source="author" id="/page/7/Text/4">
+The partial least squares structural equation modeling (PLS-SEM) technique is used to test the theoretical model. According to Hair et al. (2019), PLS-SEM estimates partial model structures by combining the analysis of main components with ordinary least squares regressions. This technique is applied because the model was based on composites; it had second order formative constructs (heuristics and prospect) and is suitable for performing multi group analysis (Rasoolimanesh et al., 2017). The SmartPLS 3.3 was used to assess the conceptual model. As suggested by the PLS-SEM literature, the first step is to assess the validity and reliability of the measurement model. Later, a structural model was developed, and hypotheses were tested using bootstrapping technique. Since the present study involved second order constructs that is, heuristics and prospects, thus measurement model first assessed the reliability and validity of lower order constructs only. After that the latent variable composite scores were saved and the second order model was formed using those scores. Hence, only lower order construct scores will be used as the items to measure the second order construct in this phase and rest all the other constructs would be measured using their standard multi-item measures as in stage one. This process is known as a Disjoint approach for assessing the higher order models (HOC). For conducting the multi-group analysis (MGA), measurement invariance was assessed using the MICOM procedure (Henseler
+</text>
+
+<text page="8" section="Statistical Procedures" source="author" id="/page/7/Text/5">
+et al., 2016). This was followed by the application of Henseler's MGA and the permutation test to estimate the multi group analysis results.
+</text>
+
+
+<heading page="8" section="Results" source="author" id="/page/7/SectionHeader/6" level="1">
+# Results
+</heading>
+
+
+<heading page="8" section="Measurement Model" source="author" id="/page/7/SectionHeader/7" level="1">
+# Measurement Model
+</heading>
+
+<text page="8" section="Measurement Model" source="author" id="/page/7/Text/8">
+Measurement model was assessed for evaluating the reliability and validity of constructs, for both the groups that is, male and female. The item loadings were studied for assessing the individual reliability and all the loadings except for RP2, RP4, and RP7, were found to be greater than 0.708, that is, threshold suggested by Hair et al. (2019). To assess the construct reliability, Composite Reliability (CR) and Dijkstra-Henseler's rho (rA) are reported and presented in Table 3 and Figure 1. Both the CR and (rA) exceeded the threshold value of 0.70 in the case of all the constructs in both the groups, thus confirming construct reliability. Average Variance Extracted (AVE) was estimated to assess the convergent validity of a construct. In both the groups, AVE values were greater than 0.50 (Fornell &amp; Larcker, 1981). Thus, only RP2 and RP4 were removed due to lower loadings of 0.61 and 0.56 respectively.
+</text>
+
+<text page="8" section="Measurement Model" source="author" id="/page/7/Text/9">
+The discriminant validity of the measurement model was assessed using the HTMT ratio. As suggested by Hair et al. (2019) the value of the heterotrait–monotrait correlations should less than .85 or .90. In case of both males and females, PIP and RP have HTMT values less than 0.90 (see Table 4). As the other constructs have presence of high correlation among them and the HTMT ratio also surpasses the conservative threshold of .85, thus confirming the presence of higher order construct.
+</text>
+
+<text page="8" section="Measurement Model" source="author" id="/page/7/Text/10">
+The validity of the second order constructs heuristics (anchoring, herding, and overconfidence) and prospects (loss aversion, mental accounting, and regret aversion) were also assessed, to conclude the assessment of measurement model. Both heuristics and prospects were reflective-formative second order constructs. To assess the reliability and validity of the formative order construct, the outer weights must be significant and variance inflation factor (VIF) should be \5 (Hair et al., 2019). Table 5 shows that weights of the lower order constructs were significant and so as their loadings. The VIF values were \5, thus indicating no collinearity issues, hence no indicator was eliminated.
+</text>
+
+
+<heading page="8" section="Multi Group Analysis (MGA)" source="author" id="/page/7/SectionHeader/11" level="1">
+# Multi Group Analysis (MGA)
+</heading>
+
+<text page="8" section="Multi Group Analysis (MGA)" source="author" id="/page/7/Text/12">
+MGA was conducted to estimate the moderating potential of gender on the perceived investment performance. It is necessary to conduct the MICOM procedure before proceeding with the MGA (Henseler et al., 2016). This MICOM analysis was conducted to confirm that the
+</text>
+
+</page>
+<page number="9">
+<table_group page="9" section="Multi Group Analysis (MGA)" source="author" id="/page/8/TableGroup/237">
+<caption page="9" section="Multi Group Analysis (MGA)" source="author" id="/page/8/Caption/1">
+Table 3. Measurement Model results.
+</caption>
+<table page="9" section="Multi Group Analysis (MGA)" source="author" id="/page/8/Table/2">
+|  |  | Loadings |  | Cronbach's alpha |  | Rho A |  | CR |  | AVE |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Construct & items | M | F | M | F | M | F | M | F | M | F |
+| Overconfidence (OVC) |  |  | 0.734 | 0.819 | 0.751 | 0.866 | 0.821 | 0.875 | 0.536 | 0.639 |
+| OVC1 | 0.657 | 0.618 |  |  |  |  |  |  |  |  |
+| OVC2 | 0.735 | 0.851 |  |  |  |  |  |  |  |  |
+| OVC3 | 0.790 | 0.857 |  |  |  |  |  |  |  |  |
+| OVC4 | 0.740 | 0.846 |  |  |  |  |  |  |  |  |
+| Herding (HERD) |  |  | 0.713 | 0.719 | 0.731 | 0.739 | 0.839 | 0.840 | 0.636 | 0.638 |
+| HERD1 | 0.814 | 0.850 |  |  |  |  |  |  |  |  |
+| HERD3 | 0.863 | 0.780 |  |  |  |  |  |  |  |  |
+| HERD4 | 0.708 | 0.763 |  |  |  |  |  |  |  |  |
+| Loss aversion (LA) |  |  | 0.654 | 0.753 | 0.793 | 0.760 | 0.799 | 0.860 | 0.586 | 0.673 |
+| LA1 | 0.465 | 0.735 |  |  |  |  |  |  |  |  |
+| LA2 | 0.861 | 0.881 |  |  |  |  |  |  |  |  |
+| LA3 | 0.894 | 0.838 |  |  |  |  |  |  |  |  |
+| Mental accounting (MA) |  |  | 0.781 | 0.740 | 0.791 | 0.748 | 0.858 | 0.835 | 0.603 | 0.560 |
+| MA1 | 0.745 | 0.806 |  |  |  |  |  |  |  |  |
+| MA2 | 0.738 | 0.753 |  |  |  |  |  |  |  |  |
+| MA3 | 0.816 | 0.699 |  |  |  |  |  |  |  |  |
+| MA4 | 0.805 | 0.731 |  |  |  |  |  |  |  |  |
+| Anchoring (ANCH) |  |  | 0.741 | 0.726 | 0.770 | 0.753 | 0.833 | 0.828 | 0.557 | 0.549 |
+| ANCH1 | 0.664 | 0.596 |  |  |  |  |  |  |  |  |
+| ANCH2 | 0.732 | 0.828 |  |  |  |  |  |  |  |  |
+| ANCH3 | 0.823 | 0.753 |  |  |  |  |  |  |  |  |
+| ANCH4 | 0.756 | 0.767 |  |  |  |  |  |  |  |  |
+| Regret aversion (RA) |  |  | 0.702 | 0.742 | 0.742 | 0.744 | 0.832 | 0.853 | 0.624 | 0.659 |
+| RA1 | 0.829 | 0.813 |  |  |  |  |  |  |  |  |
+| RA2 | 0.682 | 0.796 |  |  |  |  |  |  |  |  |
+| RA3 | 0.848 | 0.825 |  |  |  |  |  |  |  |  |
+| Risk perception (RP) |  |  | 0.837 | 0.871 | 0.852 | 0.877 | 0.882 | 0.904 | 0.560 | 0.613 |
+| RP1 | 0.793 | 0.793 |  |  |  |  |  |  |  |  |
+| RP3 | 0.562 | 0.799 |  |  |  |  |  |  |  |  |
+| RP5 | 0.730 | 0.849 |  |  |  |  |  |  |  |  |
+| RP6 | 0.650 | 0.629 |  |  |  |  |  |  |  |  |
+| RP8 | 0.842 | 0.735 |  |  |  |  |  |  |  |  |
+| RP9 | 0.866 | 0.870 |  |  |  |  |  |  |  |  |
+| Perceived investment performance (PIP) |  |  | 0.878 | 0.829 | 0.879 | 0.840 | 0.925 | 0.898 | 0.804 | 0.745 |
+| PIP1 | 0.884 | 0.840 |  |  |  |  |  |  |  |  |
+| PIP2 | 0.894 | 0.904 |  |  |  |  |  |  |  |  |
+| PIP3 | 0.911 | 0.845 |  |  |  |  |  |  |  |  |
+</table>
+</table_group>
+
+<text page="9" section="Multi Group Analysis (MGA)" source="author" id="/page/8/Text/3">
+differences between the male and female are, in fact, due to differences between the latent variables and not to other issues. It is three step process: Step 1—assessment of configuration invariance, in this it is confirmed that models for both male and female has same configuration; Step 2—assessment of compositional invariance, that is, the original correlation is either equal or greater than 5% quantile correlations, thus compositional invariance is established; and Step 3a and 3b the equality of composite mean values and variances assessment (Henseler et al., 2016). In the present study, the full measurement invariance was established as the equality of the composite mean values and variances was confirmed. The results of measurement invariance is presented in Table 6.
+</text>
+
+<text page="9" section="Multi Group Analysis (MGA)" source="author" id="/page/8/Text/4">
+The p-values in the last column of Table 6 indicate significance levels of the differences between path coefficients of males and females. Taking the MGA into consideration, the difference in p-values indicated insignificant difference for all the structural paths. It implies that there was no significant difference between male and female perceived investment performance. Hence, the H1 was not supported by the results. The direct effect of heuristics on perceived investment performance is more in case of females as compared to males (b = .218ns! .338*) (refer to Table 7). However, it is insignificant in the case of males. This scenario is different for direct effect of prospect (b = .455*! .396*) which is strong, and significant in case of males. The direct effect of risk perception to heuristics as well as
+</text>
+
+</page>
+<page number="10">
+<figure_group page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/FigureGroup/128">
+<figure page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Figure/1" image="A3.R59_fig04.jpg">[FIGURE: see A3.R59_fig04.jpg]</figure>
+<caption page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Caption/2">
+Figure 1. Measurement model.
+</caption>
+</figure_group>
+
+<table_group page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/TableGroup/129">
+<caption page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Caption/3">
+Table 4. Discriminant Validity.
+</caption>
+<table page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Table/4">
+|  |  | ANCH |  | HERD |  | LA |  | MA |  | OVC |  | PIP |  | RA |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | M | F | M | F | M | F | M | F | M | F | M | F | M | F |
+| HERD | 0.89 | 0.89 |  |  |  |  |  |  |  |  |  |  |  |  |
+| LA | 0.60 | 0.66 | 0.63 | 0.84 |  |  |  |  |  |  |  |  |  |  |
+| MA | 0.85 | 0.81 | 0.58 | 0.86 | 0.57 | 0.77 |  |  |  |  |  |  |  |  |
+| OVC | 0.70 | 0.53 | 0.38 | 0.36 | 0.41 | 0.33 | 0.84 | 0.62 |  |  |  |  |  |  |
+| PIP | 0.68 | 0.64 | 0.47 | 0.67 | 0.31 | 0.59 | 0.80 | 0.86 | 0.69 | 0.56 |  |  |  |  |
+| RA | 0.76 | 0.77 | 0.79 | 0.87 | 0.62 | 0.82 | 0.89 | 0.89 | 0.52 | 0.34 | 0.62 | 0.70 |  |  |
+| RP | 0.84 | 0.87 | 0.83 | 0.89 | 0.79 | 0.84 | 0.84 | 0.89 | 0.51 | 0.53 | 0.60 | 0.73 | 0.88 | 0.89 |
+</table>
+<caption page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Caption/5">
+Table 5. Validity Assessment of HOC.
+</caption>
+</table_group>
+
+<table_group page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/TableGroup/130">
+<table page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Table/6">
+|  | Loadings |  | Weights | Weights bootstrapping | VIF |
+| --- | --- | --- | --- | --- | --- |
+| Constructs & items | Male | Female | Male | Female | Male | Female | Male | Female |
+| Heuristics |  |  |  |  |  |  |  |  |
+| ANCH | 0.944* | 0.861* | 0.587 | 0.373 | [0.309,0.852] | [0.191,0.561] | 2.300 | 1.946 |
+| HERD | 0.742* | 0.871* | 0.254 | 0.524 | [0.113,0.510] | [0.351,0.699] | 1.745 | 1.751 |
+| OVC | 0.751* | 0.658* | 0.342 | 0.338 | [0.093,0.599] | [0.154,0.533] | 1.470 | 1.227 |
+| Prospects |  |  |  |  |  |  |  |  |
+| LA | 0.565* | 0.762* | 0.136 | 0.244 | [0.086,0.315] | [0.059,0.494] | 1.272 | 1.227 |
+| MA | 0.950* | 0.948* | 0.653 | 0.621 | [0.408,0.849] | [0.442,0.782] | 1.898 | 1.227 |
+| RA | 0.847* | 0.850* | 0.358 | 0.265 | [0.120,0.569] | [0.015,0.491] | 1.845 | 2.242 |
+</table>
+<footnote page="10" section="Multi Group Analysis (MGA)" source="author" id="/page/9/Footnote/7">
+^(&amp;#)x27;'*'' indicates significant at 5% level of significance.
+</footnote>
+</table_group>
+
+</page>
+<page number="11">
+<table_group page="11" section="Multi Group Analysis (MGA)" source="author" id="/page/10/TableGroup/119">
+<caption page="11" section="Multi Group Analysis (MGA)" source="author" id="/page/10/Caption/1">
+Table 6. Results of MICOM (Step 2 &amp; Step 3).
+</caption>
+<table page="11" section="Multi Group Analysis (MGA)" source="author" id="/page/10/Table/2">
+|  |  |  |  | Equal | Equal mean assessment |  | Equal v | Equal variance assessment | t |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Construct | Configuralinvariance | Configural Compositional invariance variance | Partial measurementinvariance established | Differences | Ö | Equal | Differences | Ū | Equal | Full measurement invariance established |
+| HeuristicsPerceivedinvestmentperformanceProspect |  | 0.984 0.999 0.999 | YesYes | -0.066-0.159-0.057 | [-0.281; 0.289][-0.282; 0.287][-0.280; 0.282] | ke Kes | -0.004 | [-0.412; 0.447][-0.320; 0.332][-0.398; 0.434] | YesYes | YesYes |
+| Risk perception | Yes | 0.998 | Yes | -0.012 | [-0.284; 0.294] | Yes | -0.107 | [-0.396; 0.438] | Yes | Yes |
+</table>
+</table_group>
+
+<text page="11" section="Multi Group Analysis (MGA)" source="author" id="/page/10/Text/3">
+prospects is significant for both males and females, which with strong positive in case of males. Although effect of risk perception on perceived investment performance becomes insignificant in case of both males and females (\beta=.081^{ns},\ \beta=.024^{ns}). Across both the genders, perception has significant positive mediating impact on the relationship of risk perception and perceived investment performance (\beta=.374^*\rightarrow.311^*). Since the multi group analysis highlighted no significant difference between males and females perceived investment performance, thus the full sample results have been considered for the structural model analysis.
+</text>
+
+
+<heading page="11" section="Structural Model" source="author" id="/page/10/SectionHeader/4" level="3">
+### Structural Model
+</heading>
+
+<text page="11" section="Structural Model" source="author" id="/page/10/Text/5">
+The proposed structural model was examined using the bootstrapping resampling procedure with 10,000 sub samples. The explanatory power of the combined model was assessed by R^2 (Hair et al., 2019) that is, variance explained of the perceived investment performance. The R^2 value for perceived investment performance was 46%, which indicates relatively high explanation power (Figure 2). Table 8 also shows the beta coefficients and bias corrected confidence intervals for assessing the combined structural relationships.
+</text>
+
+<text page="11" section="Structural Model" source="author" id="/page/10/Text/6">
+In the pooled sample, risk perception has been significant in affecting the heuristics and prospects. However, it is insignificant in directly impacting the perceived investment performance (\beta = .016^{ns}). The results also highlight that heuristics and prospects positively mediate the relationship between risk perception and perceived investment performance. Since the direct effect between these is insignificant, there is evidence of full mediation. Thus, the findings support H3, H4, H5 &amp; H6, and reject H2. The model predictive relevance was also tested using the Stone–Geisser's Q^2 calculated using blindfolding technique (Hair et al., 2019). All the Q^2 values are greater than 35%, thus indicating high predictive relevance. The model is also tested for the out sample predictive power using the PLS predict (Table 9). The PLS predict has been conducted with 10-folds and 10 repetitions and concluded that difference of errors, between RMSE of PLS and LM model (naïve benchmark), for all the indicators of perceived investment performance has been negative. Thus, indicating high out sample predictive power in the model.
+</text>
+
+
+<heading page="11" section="**Discussion **" source="author" id="/page/10/SectionHeader/7" level="3">
+### **Discussion **
+</heading>
+
+<text page="11" section="**Discussion **" source="author" id="/page/10/Text/8">
+The current study focused on analyzing the relationship of heuristics and prospects with the risk perception of investors. Also, an attempt has been made to assess the interplay effect of heuristics, prospects, and risk perception on the subjective perceived investment performance
+</text>
+
+</page>
+<page number="12">
+<table_group page="12" section="**Discussion **" source="author" id="/page/11/TableGroup/309">
+<caption page="12" section="**Discussion **" source="author" id="/page/11/Caption/1">
+Table 7. Results of MGA Based on 10,000 Permutations.
+</caption>
+<table page="12" section="**Discussion **" source="author" id="/page/11/Table/2">
+|  |  | Path coefficient |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Hypothesis/Structural path | Male | Female | Path coefficientdifference | p-Valuedifference | Result |
+| Heuristics !Perceived InvestmentPerformance | 0.218ns | 0.338* | –0.12 | .546 | Rejected |
+| Prospect !Perceived InvestmentPerformance | 0.455* | 0.396* | 0.059 | .813 | Rejected |
+| Risk Perception !Perceived InvestmentPerformance | 0.081ns | –0.024ns | 0.105 | .640 | Rejected |
+| Risk Perception !Heuristics | 0.793* | 0.754* | 0.039 | .592 | Rejected |
+| Risk Perception !Prospect | 0.822* | 0.785* | 0.036 | .556 | Rejected |
+| Risk Perception !Heuristics !PerceivedInvestment Performance | 0.173ns | 0.255* | –0.082 | .604 | Rejected |
+| Risk Perception !Prospect !PerceivedInvestment Performance | 0.374* | 0.311* | 0.063 | .753 | Rejected |
+</table>
+<footnote page="12" section="**Discussion **" source="author" id="/page/11/Footnote/3">
+^(&amp;#)x27;'*'' indicates significant at 5% level of significance; ''ns'' indicates not significant.
+</footnote>
+</table_group>
+
+<table_group page="12" section="**Discussion **" source="author" id="/page/11/TableGroup/310">
+<caption page="12" section="**Discussion **" source="author" id="/page/11/Caption/4">
+Table 8. Structural Model Analysis of Pooled Sample.
+</caption>
+<table page="12" section="**Discussion **" source="author" id="/page/11/Table/5">
+| b | t | Confidenceinterval (95%) | Q2 | Result |
+| --- | --- | --- | --- | --- |
+| .016.774.802.200 | 0.148ns23.016*27.625*2.556* | [–0.199, 0.230][0.693, 0.830][0.734, 0.850][0.062, 0.362] | 0.3510.3830.449 | RejectFail to rejectFail to rejectFail to rejectFail to Rreject |
+|  | .362 | 3.651* | [0.163, 0.551] |  |
+</table>
+<footnote page="12" section="**Discussion **" source="author" id="/page/11/Footnote/6">
+^(&amp;#)x27;'*'' indicates significant at 5% level of significance; ''ns'' indicates not significant.
+</footnote>
+</table_group>
+
+<figure_group page="12" section="**Discussion **" source="author" id="/page/11/FigureGroup/311">
+<figure page="12" section="**Discussion **" source="author" id="/page/11/Figure/7" image="A3.R59_fig05.jpg">[FIGURE: see A3.R59_fig05.jpg]</figure>
+<caption page="12" section="**Discussion **" source="author" id="/page/11/Caption/8">
+Figure 2. Structural model.
+</caption>
+</figure_group>
+
+<table_group page="12" section="**Discussion **" source="author" id="/page/11/TableGroup/312">
+<caption page="12" section="**Discussion **" source="author" id="/page/11/Caption/9">
+Table 9. PLS Predict_Pooled Sample.
+</caption>
+<table page="12" section="**Discussion **" source="author" id="/page/11/Table/10">
+| Indicators | LM_RMSE | PLS_RMSE | Difference |
+| --- | --- | --- | --- |
+| PIP1 | 0.887 | 0.965 | –0.078 |
+| PIP2 | 0.870 | 0.898 | –0.028 |
+| PIP3 | 0.946 | 0.973 | –0.027 |
+</table>
+</table_group>
+
+<text page="12" section="**Discussion **" source="author" id="/page/11/Text/11">
+of an investor. Moreover, the study contributes to the behavioral science domain for three reasons. For research scholars interested in various dimensions of cognitive influences, this paper introduces the influence of unconventional mechanisms such as heuristics and prospects as unexplored mediators in the risk perceptioninvestment performance relationship. For innovators in behavioral science domain, the finding of this paper will attempt to challenge conventional schools of thought endorsing classical investment theories by defending that the prospect theory better justifies the behavioral biases and risk perceptions that precede investment decision making. The study makes a social contribution by
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="**Discussion **" source="author" id="/page/12/Text/1">
+exploring the behavioral biases inherent in the Asian (Indian) investment decision makers that waver them from being rational investors.
+</text>
+
+<text page="13" section="**Discussion **" source="author" id="/page/12/Text/2">
+The first hypothesis focused on assessing the behavioral demarcations across males and female's perceived investment performance. The results contradicted the hypothesis formulated, thereby indicating parity in perceived investment performance across both the genders. The results contradict with the study of Gonzalez-Igual et al. (2021) and Plieger et al. (2021), which concluded that risk perceptions vary across the gender and thus the investment performance. However, studies conducted by Dangol and Manandhar (2020) and Ishfaq et al. (2020) purport that males and females think and behave alike in terms of investment performance. This can be associated with increasing number of self-independent females who are being empowered with resources to develop better risk perception, thus narrowing down the investment performance gap among genders.
+</text>
+
+<text page="13" section="**Discussion **" source="author" id="/page/12/Text/3">
+Risk perception entails a prospective investors outlook toward particular investment instruments, and the basic knowledge one has about risk. Moving on, the risk perception scale focused on assessing the basic outlook of an investor on various aspects such as diversified portfolios, difference between investment and gambling; wealth-investment relationships and age-risk perceptions. This connotes that, if an investor is clear about the risk perception dynamics, then it can directly affect his/her perceived investment performance. As suggested by T. A. N. Nguyen and Rozsa (2019), financially literate investors have a rationale-based risk perception which leads to enhanced investment performance. On the contrary, if risk perception evolves from irrational and illogical behaviors, the perceived investment performance will be dissatisfactory due to erroneous and substandard investment decisions. However, we contend that risk perception in independence does not play a significant role in influencing the perceived investment performance. The same has been contemplated by our study that there is absence of direct significant influence of risk perception on perceived investment performance (H2 rejected), thereby contradicting the findings of Kumar, Pillai et al. (2023) and Trang and Tho (2017). The whole premise of risk perception and perceived investment performance nexus is explored by the prospect theory, which highlight that in the light of risk avoidance and cognitive bias behavior, individuals will take hasty decisions and focus short gains only (Kahneman &amp; Tversky, 1979). Thus, we presume that factors like financial literacy, level of bias, role of heuristics, financial skills, amongst others also play a dominant role in present context on the level of perceived investment performance. Hence, in our study the indirect effect between risk perception and perceived investment performance has been strong and significant.
+</text>
+
+<text page="13" section="**Discussion **" source="author" id="/page/12/Text/4">
+Additionally, H3 and H5 explored the influence of risk perception on heuristics and prospects. As per results, clarity in risk perceptions implies a sound and judicious application of heuristics and prospects. Hence, both the hypotheses failed to be rejected. Therefore, it is recommended that the investors understand the basic nature and mechanism of risk, base it on scientific and logical backgrounds, which in turn will help in reducing the biases leading to wrong choices. The heuristics theory also claims that because of the risk averse nature of individuals, they inevitably find losses relatively more dissatisfying than an equivalent gain. The risk perception– heuristic relationship concurs to the affective event theory (Weiss &amp; Cropanzano, 1996) which explain an individual's subsequent behavior (heuristics bias) as an outcome of the emotions he is going through (risk perceptions). Here we argue that risk perceptions encompass one's beliefs, values and norms and these perceptions can result in misrepresentations in the form of heuristics (Ritter, 1988). This argument holds strong during the pandemic when investors became paranoid about the undulations in stock movements, thereby resorting to heuristics biases (Shah et al., 2019) to both save time and harness benefits. In other words, unexpected fears/events (COVID-19) and aggravated risk perceptions leading to cognitive overload and misinterpretations in the form of herding, anchoring and over confidence heuristics (Azam et al., 2022).
+</text>
+
+<text page="13" section="**Discussion **" source="author" id="/page/12/Text/5">
+The last set of hypotheses that is, H4 &amp; H6, tested the mediating role of heuristics and prospects into the relationship of RP and PIP. The present study focused on overconfidence, anchoring, herding, representativeness, loss aversion, mental accounting, and regret aversion to explain their emergence from varied risk perceptions which in turn pose as mediators in perceived investment decision making. In our study we fail to reject both hypotheses, that risk perception and perceived investment performance relationship is fully mediated by heuristics and prospects. This confirms with the studies of Rehan et al. (2021), Singh and Bhattacharjee (2019), and Saivasan and Lokhande (2022). The same conclusion was reported by Ahmad and Shah (2022) and Salman et al. (2021) that heuristics can mediate the link between risk perception about future investment and investment performance. Thus, aggravated risk perceptions leading to application of mental shortcuts for having short gains, result in more losses or in other words irrational investment decision making.
+</text>
+
+
+<heading page="13" section="Implications, Limitations, and Recommendations for Future Research" source="author" id="/page/12/SectionHeader/6" level="1">
+# Implications, Limitations, and Recommendations for Future Research
+</heading>
+
+<text page="13" section="Implications, Limitations, and Recommendations for Future Research" source="author" id="/page/12/Text/7">
+There are various implications for the investors, policy makers, and academicians. The investors should focus
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="Implications, Limitations, and Recommendations for Future Research" source="author" id="/page/13/Text/1">
+on assessing and understanding their risk perceptions as it plays a key role in limiting the use of biases in investment decision making. Once the investor is self-aware about ones' risk perception, instead of using mental shortcuts for short terms goals, they will prefer rational decision making which in turn will increase their investment performance. Also, with enhanced initiatives from policy makers toward investor's awareness with respect to risk-return nexus and awareness programs for increasing the financial literacy, the investment decision making can further be improved. Policy makers should consider the behavioral aspect of financial decision making and devise strategies to acclimatize investors about the nuances of better financial planning, rational decision making, refraining from short term gains, and focusing on long term investment plans curated as per ones needs. Practitioners/portfolio managers/financial planners can design combinations of risk, return and behavioral portfolio to bring investors back in the market in post COVID-19 investment scenarios. The relevance for society lies in the fact that they need to re-consider their investment portfolio post COVID-19, as the aftermath is likely to remain, and these kinds of uncertainties can come into one's life anytime.
+</text>
+
+<text page="14" section="Implications, Limitations, and Recommendations for Future Research" source="author" id="/page/13/Text/2">
+That said, although the study emerges to be the initiators to study the risk perception—perceived investment performance nexus with heuristics and prospects as mediators, it is not free from limitations. The study extends its focus to the economic setting which encompasses risk mindsets based on cultural, political, and structural frameworks. Future studies can embark on cross country research to investigate varied risk perception-investment performance relationships prevalent in respective economic settings. Secondly, the limited application of demographic moderators, such as gender leads to interpretation of the results from a general perspective. To further this research, academicians can explore the interplay of financial skills and financial literacy nexus on reducing the heuristics and prospects shortcuts while making investment decisions. Also, pre and post study can be conducted to test the effectiveness of investor awareness initiative and financial literacy programs on the younger population to make further inferences.
+</text>
+
+
+<heading page="14" section="Conclusion" source="author" id="/page/13/SectionHeader/3" level="3">
+### Conclusion
+</heading>
+
+<text page="14" section="Conclusion" source="author" id="/page/13/Text/4">
+The present study is envisaged with an objective to understand the nexus between risk perception and investment performance through the lens of heuristics and prospects mental shortcuts. With the help of 1,133 respondents, and the usage of SmartPLS 4 to perform the structural equation modeling along with predictive modeling assessment, the study evaluated five testable
+</text>
+
+<text page="14" section="Conclusion" source="author" id="/page/13/Text/5">
+hypotheses. It has been concluded that risk perception does not impact the perceived investment performance directly. Rather risk perception and perceived investment performance relationship is mediated via heuristics and prospects. Heuristics was formed with the inclusion of herding, overconfidence, anchoring, while prospects were the combination mental accounting, loss aversion and regret aversion. Both the heuristics and prospects were strongly influenced by the risk perception of an investor. Also, risk perception has been significant in affecting the heuristics and prospects. However, it is insignificant in directly impacting the perceived investment performance. With clear understanding of risk perception, people tend to use few mental shortcuts and focus more on rational decision making and better investment performance. To further extend the findings of the study, future studies should explore initiation of literacy and educational programs, which could enhance the objective and practical risk taking, and reduce the cognitive bias or usage of mental shortcuts. The researchers should focus on assessing the longitudinal effect of the heuristics and prospects that influence the investment decision of household investors. In terms of assessment of risk, the studies can be conducted by incorporating various personality traits, cultural influences, family influence, exposure to better investment advice and others such additional variables for having a deeper understanding of differences in the risk perceived by different people. The present studies have been more inclined toward the individual factors/ determinants. However, the external factors like political scenario, market conditions, regulatory frameworks and others should be researched further to estimate the influence of investor decision making capacity. As the present study focus on overall household investors, future studies can explore the variation in findings with respect to different class of investors that is, experiences, first timers, institutional, influencers, and others.
+</text>
+
+
+<heading page="14" section="Acknowledgments" source="author" id="/page/13/SectionHeader/6" level="3">
+### Acknowledgments
+</heading>
+
+<text page="14" section="Acknowledgments" source="author" id="/page/13/Text/7">
+The authors are grateful to all the participants who spared their valuable time in answering the questionnaire.
+</text>
+
+
+<heading page="14" section="Author Contributions" source="author" id="/page/13/SectionHeader/8" level="4">
+#### Author Contributions
+</heading>
+
+<text page="14" section="Author Contributions" source="author" id="/page/13/Text/9">
+Dr. Parul Kumar: Conceptualization, Methodology, Formal Analysis; Prof Aminul Islam: Reviewing and editing; Dr. Rekha Pillai: Conceptualization, Writing – original draft; Dr Mosab Tabash: Reviewing and editing.
+</text>
+
+
+<heading page="14" section="Declaration of Conflicting Interests" source="author" id="/page/13/SectionHeader/10" level="3">
+### Declaration of Conflicting Interests
+</heading>
+
+<text page="14" section="Declaration of Conflicting Interests" source="author" id="/page/13/Text/11">
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+</text>
+
+</page>
+<page number="15">
+
+<heading page="15" section="Funding" source="author" id="/page/14/SectionHeader/1" level="3">
+### Funding
+</heading>
+
+<text page="15" section="Funding" source="author" id="/page/14/Text/2">
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+</text>
+
+
+<heading page="15" section="ORCID iDs" source="author" id="/page/14/SectionHeader/3" level="3">
+### ORCID iDs
+</heading>
+
+<text page="15" section="ORCID iDs" source="author" id="/page/14/Text/4">
+Parul Kumar [https://orcid.org/0000-0003-1150-9294](https://orcid.org/0000-0003-1150-9294) Aminul Islam [https://orcid.org/0000-0001-6516-2463](https://orcid.org/0000-0001-6516-2463) Mosab I. Tabash [https://orcid.org/0000-0003-3688-7224](https://orcid.org/0000-0003-3688-7224)
+</text>
+
+
+<heading page="15" section="Data Availability Statement" source="author" id="/page/14/SectionHeader/5" level="3">
+### Data Availability Statement
+</heading>
+
+<text page="15" section="Data Availability Statement" source="author" id="/page/14/Text/6">
+Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.
+</text>
+
+
+<heading page="15" section="Supplemental Material" source="author" id="/page/14/SectionHeader/7" level="4">
+#### Supplemental Material
+</heading>
+
+<text page="15" section="Supplemental Material" source="author" id="/page/14/Text/8">
+Supplemental material for this article is available online.
+</text>
+
+
+<heading page="15" section="References" source="author" id="/page/14/SectionHeader/9" level="4">
+#### References
+</heading>
+
+<list page="15" section="References" source="author" id="/page/14/ListGroup/506">
+- Adil, M., Singh, Y., &amp; Ansari, M. S. (2022). How financial literacy moderate the association between behaviour biases and investment decision? Journal of Accounting Research, 7(1), 17–30.[ https://doi.org/10.1108/ajar-09-2020-0086](https://doi.org/10.1108/ajar-09-2020-0086)
+- Ahmad, M., &amp; Shah, S. Z. A. (2022). Overconfidence heuristicdriven bias in investment decision-making and performance: Mediating effects of risk perception and moderating effects of financial literacy. Journal of Economic and Administrative Sciences, 38(1), 60–90.[ https://doi.org/10.1108/jeas-07-2020-](https://doi.org/10.1108/jeas-07-2020-0116) [0116](https://doi.org/10.1108/jeas-07-2020-0116)
+- Ahmed, Z., Rasool, S., Saleem, Q., Khan, M. A., &amp; Kanwal, S. (2022). Mediating role of risk perception between behavioral biases and investor's investment decisions. Sage Open, 12(2), 1–18.[ https://doi.org/10.1177/21582440221097394](https://doi.org/10.1177/21582440221097394)
+- Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50(2), 179–211.[ https://doi.org/10.1016/0749-5978(91)90020-t](https://doi.org/10.1016/0749-5978(91)90020-t)
+- Akhtar, F., Thyagaraj, K. S., &amp; Das, N. (2018). Perceived investment performance of individual investors is related to the big-five and the general factor of personality (GPF). Global Business Review, 19(2), 342–356.[ https://doi.org/10.](https://doi.org/10.1177/0972150917713527) [1177/0972150917713527](https://doi.org/10.1177/0972150917713527)
+- Aren, S., &amp; Zengin, A. N. (2016). Influence of financial literacy and risk perception on choice of Investment. Procedia - Social and Behavioral Sciences, 235(1), 656–663.[ https://doi.](https://doi.org/10.1016/j.sbspro.2016.11.047) [org/10.1016/j.sbspro.2016.11.047](https://doi.org/10.1016/j.sbspro.2016.11.047)
+- Azam, M. Q., Hashmi, N. I., Hawaldar, I. T., Alam, M. S., &amp; Baig, M. A. (2022). The COVID-19 pandemic and overconfidence bias: The case of cyclical and defensive sectors. Risks, 10(3), 56–70.[ https://doi.org/10.3390/risks10030056](https://doi.org/10.3390/risks10030056)
+- Bailey, W., Kumar, A., &amp; Ng, D. (2011). Behavioral biases of mutual fund investors. Journal of Financial Economics, 102(1), 1–27.[ https://doi.org/10.1016/j.jfineco.2011.05.002](https://doi.org/10.1016/j.jfineco.2011.05.002)
+- Barber, B. M., &amp; Odean, T. (2001). Boys will be boys: Gender, overconfidence, and common stock investment. Quarterly Journal of Economics, 116(1), 261–292.[ https://doi.org/10.](https://doi.org/10.1162/003355301556400) [1162/003355301556400](https://doi.org/10.1162/003355301556400)
+</list>
+
+<text page="15" section="References" source="author" id="/page/14/Text/19">
+Barberis, N., &amp; Thaler, R. (2005). A survey of behavioral finance. In R. H. Thaler (Ed.), Advances in behavioral finance (Vol. 2, pp. 1–76). Princeton University Press.
+</text>
+
+<list page="15" section="References" source="author" id="/page/14/ListGroup/507">
+- Bell, D. E. (1982). Regret in decision making under uncertainty. Operational Research, 30(5), 961–981.[ https://www.jstor.org/](https://www.jstor.org/stable/170353) [stable/170353](https://www.jstor.org/stable/170353)
+- Benartzi, S., &amp; Thaler, R. H. (1995). Myopic loss aversion and the equity premium puzzle. Quarterly Journal of Economics, 110(1), 73–92.[ https://doi.org/10.2307/2118511](https://doi.org/10.2307/2118511)
+- Bouri, E., Demirer, R., Gupta, R., &amp; Nel, J. (2021). COVID-19 pandemic and investor herding in international stock markets. Risks, 9(9), 168.[ https://doi.org/10.3390/risks9090168](https://doi.org/10.3390/risks9090168)
+- Chhapra, I. U., Kashif, M., Rehan, R., Bai, A., Zulfikar, S., &amp; Bhutto, A. (2018). An empirical investigation of investor's behavioral biases on financial decision making. Asian Journal of Empirical Research, 8(3), 99–109.[ https://doi.org/10.](https://doi.org/10.18488/journal.1007/2018.7.3/1007.3.99.109) [18488/journal.1007/2018.7.3/1007.3.99.109](https://doi.org/10.18488/journal.1007/2018.7.3/1007.3.99.109)
+- Dangol, J., &amp; Manandhar, R. (2020). Impact of heuristics on investment decisions: The moderating role of locus of control. Journal of Business and Social Sciences Research, 5(1), 1–14.[ https://doi.org/10.3126/jbssr.v5i1.30195](https://doi.org/10.3126/jbssr.v5i1.30195)
+- Du, N., &amp; Budescu, D. V. (2018). How (over) confident are financial analysts? Journal of Behavioral Finance, 19(3), 308–318.[ https://doi.org/10.1080/15427560.2018.1405004](https://doi.org/10.1080/15427560.2018.1405004)
+- Eckel, C. C., El-Gamal, M. A., &amp; Wilson, R. K. (2009). Risk loving after the storm: A Bayesian-network study of Hurricane Katrina evacuees. Journal of Economic Behavior &amp; Organization, 69, 110–124.[ https://doi.org/10.1016/j.jebo.](https://doi.org/10.1016/j.jebo.2007.08.012) [2007.08.012](https://doi.org/10.1016/j.jebo.2007.08.012)
+- Espinosa-Me´ndez, C., &amp; Arias, J. (2021). COVID-19 effect on herding behaviour in European capital markets. Finance Research Letters, 38, 1–6.[ https://doi.org/10.1016/j.frl.2020.](https://doi.org/10.1016/j.frl.2020.101787) [101 787](https://doi.org/10.1016/j.frl.2020.101787)
+- Fisman, R., Jakiela, P., &amp; Kariv, S. (2015). How did distributional preferences change during the great recession? Journal of Public Economics, 128, 84–95.[ https://doi.org/10.1016/j.](https://doi.org/10.1016/j.jpubeco.2015.06.001) [jpubeco.2015.06.001](https://doi.org/10.1016/j.jpubeco.2015.06.001)
+- Forlani, D., &amp; Mullins, J. W. (2000). Perceived risks and choices in entrepreneurs' new venture decisions. Journal of Business Venturing, 15(4), 305–322.[ https://doi.org/10.1016/](https://doi.org/10.1016/s0883-9026(98)00017-2) [s0883-9026(98)00017-2](https://doi.org/10.1016/s0883-9026(98)00017-2)
+- Fornell, C., &amp; Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. JMR, Journal of Marketing Research, 18(1), 39. [https://doi.org/10.2307/3151312](https://doi.org/10.2307/3151312)
+- Frederiks, E. R., Stenner, K., &amp; Hobman, E. V. (2015). Household energy use: Applying behavioural economics to understand consumer decision-making and behaviour. Renewable and Sustainable Energy Reviews, 41, 1385–1394.[ https://doi.](https://doi.org/10.1016/j.rser.2014.09.026) [org/10.1016/j.rser.2014.09.026](https://doi.org/10.1016/j.rser.2014.09.026)
+- Gervais, S., Heaton, J. B., &amp; Odean, T. (2011). Overconfidence, compensation contracts, and capital budgeting. Journal of Finance, 66(5), 1735–1777.[ https://doi.org/10.1111/j.1540-](https://doi.org/10.1111/j.1540-6261.2011.01686.x) [6261.2011.01686.x](https://doi.org/10.1111/j.1540-6261.2011.01686.x)
+- Gonzalez-Igual, M., Corzo Santamaria, T., &amp; Rua Vieites, A. (2021). Impact of education, age and gender on investor's sentiment: A survey of practitioners. Heliyon, 7(3).[ https://](https://doi.org/10.1016/j.heliyon.2021.e06495) [doi.org/10.1016/j.heliyon.2021.e06495](https://doi.org/10.1016/j.heliyon.2021.e06495)
+</list>
+
+</page>
+<page number="16">
+<text page="16" section="References" source="author" id="/page/15/Text/1">
+Hair, J. F., Risher, J. J., Sarstedt, M., &amp; Ringle, C. M. (2019). When to use and how to report the results of PLS-SEM. European Business Review, 31(1), 2–24.[ https://doi.org/10.](https://doi.org/10.1108/ebr-11-2018-0203) [1108/ebr-11-2018-0203](https://doi.org/10.1108/ebr-11-2018-0203)
+</text>
+
+<list page="16" section="References" source="author" id="/page/15/ListGroup/525">
+- Hariharan, G., Chapman, K. S., &amp; Domian, D. L. (2000). Risk tolerance and asset allocation for investors nearing retirement. Financial Services Review, 9(2), 159–170.[ https://doi.](https://doi.org/10.1016/s1057-0810(00)00063-9) [org/10.1016/s1057-0810(00)00063-9](https://doi.org/10.1016/s1057-0810(00)00063-9)
+- Henseler, J., Ringle, C. M., &amp; Sarstedt, M. (2016). Testing measurement invariance of composites using partial least squares. International Marketing Review, 33(3), 405–431. [https://doi.org/10.1108/imr-09-2014-0304](https://doi.org/10.1108/imr-09-2014-0304)
+- Hew, T.-S., &amp; Syed Abdul Kadir, S. L. (2016). Behavioural intention in cloud-based VLE: An extension to channel expansion theory. Computers in Human Behavior, 64, 9–20. [https://doi.org/10.1016/j.chb.2016.05.075](https://doi.org/10.1016/j.chb.2016.05.075)
+- Hira, T. K., &amp; Loibl, C. (2008). Gender differences in investment behavior. In J. J. Xiao (Eds.), Handbook of consumer finance research. (pp. 253–270) Springer.
+- Hoffmann, A. O. I., Post, T., &amp; Pennings, J. M. E. (2015). How investor perceptions drive actual trading and risk-taking behavior. Journal of Behavioral Finance, 16(1), 94–103. [https://doi.org/10.1080/15427560.2015.1000332](https://doi.org/10.1080/15427560.2015.1000332)
+- Hvide, H. K. (2002). Pragmatic beliefs and overconfidence. Journal of Economic Behavior &amp; Organization, 48(1), 15–28. [https://doi.org/10.1016/s0167-2681(01)00221-9](https://doi.org/10.1016/s0167-2681(01)00221-9)
+- Ishfaq, M., Nazir, M. S., Qamar, M. A. J., &amp; Usman, M. (2020). Cognitive bias and the extraversion personality shaping the behavior of investors. Frontiers in Psychology, 11, 556506.[ https://doi.org/10.3389/fpsyg.2020.556506](https://doi.org/10.3389/fpsyg.2020.556506)
+- Isidore, R. R., &amp; Christie, P. (2019). The relationship between the income and behavioural biases. Journal of Economics Finance and Administrative Science, 24(47), 127–144.[ https://](https://doi.org/10.1108/jefas-10-2018-0111) [doi.org/10.1108/jefas-10-2018-0111](https://doi.org/10.1108/jefas-10-2018-0111)
+- Kahan, M., Klausner, M., &amp; Klausner, M. (1996). Path dependence in corporate contracting: Increasing returns, herd behavior and cognitive biases. Washington University Law Review, 74(2), 347–366.
+- Kahneman, D., &amp; Riepe, M. W. (1998). Aspects of investor psychology. Journal of Portfolio Management, 24(4), 52–65. [https://doi.org/10.3905/jpm.1998.409643](https://doi.org/10.3905/jpm.1998.409643)
+- Kahneman, D., &amp; Tversky, A. (1979). Prospect theory: An analysis of decision under risk. Econometrica, 47(2), 263–291.
+- Kartini, K., &amp; Nahda, K. (2021). Behavioral biases on investment decision: A case study in Indonesia. Journal of Asian Finance Economics and Business, 8(3), 1231–1240.[ https://](https://doi.org/10.13106/JAFEB.2021.VOL8.NO3.1231) [doi.org/10.13106/JAFEB.2021.VOL8.NO3.1231](https://doi.org/10.13106/JAFEB.2021.VOL8.NO3.1231)
+- Kathpal, S., Akhtar, A., Zaheer, A., &amp; Khan, M. N. (2021). Covid-19 and heuristic biases: Evidence from India. Journal of Financial Services Marketing, 26(4), 305–316.[ https://doi.](https://doi.org/10.1057/S41264-021-00116-X) [org/10.1057/S41264-021-00116-X](https://doi.org/10.1057/S41264-021-00116-X)
+- Keller, C., &amp; Siegrist, M. (2006). Investing in stocks: The influence of financial risk attitude and values-related money and stock market attitudes. Journal of Economic Psychology, 27(2), 285–303.[ https://doi.org/10.1016/j.joep.2005.07.002](https://doi.org/10.1016/j.joep.2005.07.002)
+- Kumari, A., Goyal, R., &amp; Kumar, S. (2022). Review on behavioral factors and individual investors psychology towards
+</list>
+
+<list page="16" section="References" source="author" id="/page/15/ListGroup/526">
+- investment decision making. ECS Transactions, 107(1), 8009–8023.
+- Kumar, P., Islam, M. A., Pillai, R., &amp; Sharif, T. (2023). Analysing the behavioural, psychological, and demographic determinants of financial decision making of household investors. Heliyon, 9(2), 1–16.[ https://doi.org/10.1016/j.heliyon.2023.e13085](https://doi.org/10.1016/j.heliyon.2023.e13085)
+- Kumar, P., Pillai, R., Kumar, N., &amp; Tabash, M. I. (2023). The interplay of skills, digital financial literacy, capability, and autonomy in financial decision making and well-being. Borsa Istanbul Review, 23, 169–183.[ https://doi.org/10.1016/](https://doi.org/10.1016/j.bir.2022.09.012) [j.bir.2022.09.012](https://doi.org/10.1016/j.bir.2022.09.012)
+- Lavin, J. F., Valle, M. A., &amp; Magner, N. S. (2019). Heuristics in mutual fund consumers' willingness-to-invest: An experimental approach. Journal of Consumer Affairs, 53(4), 1970–2002.[ https://doi.org/10.1111/joca.12279](https://doi.org/10.1111/joca.12279)
+- Le Phuoc, L., &amp; Doan Thi Thu, H. (2011). Behavioral factors influencing individual investors' decisionmaking and performance: A survey at the Ho Chi Minh Stock Exchange. http://www.diva-portal.org/smash/get/diva2:423263/FULL TEXT02
+- Lim, T. S., Mail, R., Abd Karim, M. R., Ahmad Baharul Ulum, Z. K., Jaidi, J., &amp; Noordin, R. (2018). A serial mediation model of financial knowledge on the intention to invest: The central role of risk perception and attitude. Journal of Behavioral and Experimental Finance, 20(1), 74–79. [https://doi.org/10.1016/j.jbef.2018.08.001](https://doi.org/10.1016/j.jbef.2018.08.001)
+- Loomes, G., &amp; Sugden, R. (1982). Regret theory: An alternative theory of rational choice under uncertainty. Econometrics Journal, 92(368), 805.[ https://doi.org/10.2307/2232669](https://doi.org/10.2307/2232669)
+- Lowry, P. B., &amp; Gaskin, J. (2014). Partial least squares (PLS) structural equation modeling (SEM) for building and testing behavioral causal theory: When to choose it and how to use it. IEEE Transactions on Professional Communication, 57(2), 123–146.[ https://doi.org/10.1109/tpc.2014.2312452](https://doi.org/10.1109/tpc.2014.2312452)
+- Mahmood, Z., Kouser, R., Abbas, S. S., &amp; Saba, I. (2016). The effect of hueristics, prospect and herding factors on investment performance. Pakistan Journal of Social Sciences, 36(1), 475–484.
+- Malik, K. U., Malik, M. S., Irfan, M., &amp; Mehdi, H. (2022). The role of heuristic factors in investment performance: Exploring the market anomalies in a volatile environment. Apuntes del CENES, 41(73), 41.[ https://doi.org/10.19053/01203053.](https://doi.org/10.19053/01203053.v41.n73.2022.13025) [v41.n73.2022.13025](https://doi.org/10.19053/01203053.v41.n73.2022.13025)
+- Markowitz, H. (1952). Portfolio selection. Journal of Finance, 7(1), 77–91.[ https://doi.org/10.1111/j.1540-6261.1952.tb01525.x](https://doi.org/10.1111/j.1540-6261.1952.tb01525.x)
+- Mittal, S. K. (2022). Behavior biases and investment decision: Theoretical and research framework. Qualitative Research in Financial Markets, 14(2), 213–228.[ https://doi.org/10.1108/](https://doi.org/10.1108/qrfm-09-2017-0085) [qrfm-09-2017-0085](https://doi.org/10.1108/qrfm-09-2017-0085)
+- Mudgill, A. (2020, December 31). Market crash: Phew!!! Sensex crashed over 1,000 points 14 times in 2020 - The Economic Times. The Economic Times Market.[ https://economictimes.](https://economictimes.indiatimes.com/markets/stocks/news/phew-sensex-crashed-over-1000-points-14-times-in-2020/articleshow/80040882.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst) [indiatimes.com/markets/stocks/news/phew-sensex-crashed](https://economictimes.indiatimes.com/markets/stocks/news/phew-sensex-crashed-over-1000-points-14-times-in-2020/articleshow/80040882.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst)[over-1000-points-14-times-in-2020/articleshow/80040882.cms?](https://economictimes.indiatimes.com/markets/stocks/news/phew-sensex-crashed-over-1000-points-14-times-in-2020/articleshow/80040882.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst) [utm_source=contentofinterest&amp;utm_medium=text&amp;utm_cam](https://economictimes.indiatimes.com/markets/stocks/news/phew-sensex-crashed-over-1000-points-14-times-in-2020/articleshow/80040882.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst) [paign=cppst](https://economictimes.indiatimes.com/markets/stocks/news/phew-sensex-crashed-over-1000-points-14-times-in-2020/articleshow/80040882.cms?utm_source=contentofinterest&amp;utm_medium=text&amp;utm_campaign=cppst)
+- Nareswari, N., Rahmani, C. W., &amp; Negoro, N. P. (2021). The impact of personality traits on perceived investment
+</list>
+
+</page>
+<page number="17">
+<text page="17" section="References" source="author" id="/page/16/Text/1">
+performance: The moderating role of social interaction. Journal of Applied Theory and Management, 14(1), 1–15.
+</text>
+
+<list page="17" section="References" source="author" id="/page/16/ListGroup/518">
+- Naseem, S., Mohsin, M., Hui, W., Liyan, G., &amp; Penglai, K. (2021). The investor psychology and stock market behavior during the initial era of COVID-19: A Study of China, Japan, and the United States. Frontiers in Psychology, 12, 626934.[ https://doi.org/10.3389/fpsyg.2021.626934](https://doi.org/10.3389/fpsyg.2021.626934)
+- Nguyen, L. T. M., Gallery, G., &amp; Newton, C. (2016). The influence of financial risk tolerance on investment decisionmaking in a financial advice context. Australasian Accounting Business and Finance Journal, 10(3), 3–22.[ https://doi.](https://doi.org/10.14453/aabfj.v10i3.2) [org/10.14453/aabfj.v10i3.2](https://doi.org/10.14453/aabfj.v10i3.2)
+- Nguyen, T. A. N., &amp; Rozsa, Z. (2019). Financial Literacy and financial advice seeking for retirement investment choice. Journal of Competitiveness, 11(1), 70–83.[ https://doi.org/10.](https://doi.org/10.7441/joc.2019.01.05) [7441/joc.2019.01.05](https://doi.org/10.7441/joc.2019.01.05)
+- Nur Aini, N. S., &amp; Lutfi, L. (2019). The influence of risk perception, risk tolerance, overconfidence, and loss aversion towards investment decision making. Journal of Economics Business and Accountancy Ventura, 21(3), 401–413.[ https://](https://doi.org/10.14414/jebav.v21i3.1663) [doi.org/10.14414/jebav.v21i3.1663](https://doi.org/10.14414/jebav.v21i3.1663)
+- Ortmann, R., Pelster, M., &amp; Wengerek, S. T. (2020). COVID-19 and investor behavior. Finance Research Letters, 37, 1–10.[ https://doi.org/10.1016/j.frl.2020.101717](https://doi.org/10.1016/j.frl.2020.101717)
+- Parveen, S., Satti, Z. W., Subhan, Q. A., Riaz, N., Baber, S. F., &amp; Bashir, T. (2023). Examining investors' sentiments, behavioral biases and investment decisions during COVID-19 in the emerging stock market: A case of Pakistan stock market. Journal of Economic and Administrative Sciences, 39, 549–570.[ https://doi.org/10.1108/jeas-08-2020-0153](https://doi.org/10.1108/jeas-08-2020-0153)
+- Piotrowski, M., &amp; Bunnings, C. (2024). How heuristics in jud- € gement influence the securities investment decision process. Journal of Financial Services Marketing, 29, 97–105.[ https://](https://doi.org/10.1057/s41264-022-00184-7) [doi.org/10.1057/s41264-022-00184-7](https://doi.org/10.1057/s41264-022-00184-7)
+- Plieger, T., Grunhage, T., Duke, E € ´ ., &amp; Reuter, M. (2021). Predicting stock market performance: The influence of gender and personality on financial decision making. Journal of Individual Differences, 42(2), 64–73.[ https://doi.org/10.1027/](https://doi.org/10.1027/1614-0001/a000330) [1614-0001/a000330](https://doi.org/10.1027/1614-0001/a000330)
+- Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., &amp; Podsakoff, N. P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879–903.[ https://](https://doi.org/10.1037/0021-9010.88.5.879) [doi.org/10.1037/0021-9010.88.5.879](https://doi.org/10.1037/0021-9010.88.5.879)
+- Pompian, M. M. (2012). Behavioral finance and wealth management: how to build investment strategies that account for investor biases (2nd ed.). Wiley.
+- Rahman, M., Albaity, M., &amp; Isa, C. R. (2019). Behavioural propensities and financial risk tolerance: The moderating effect of ethnicity. International Journal of Emerging Markets, 15(4), 728–745.[ https://doi.org/10.1108/ijoem-01-2018-](https://doi.org/10.1108/ijoem-01-2018-0024) [0024](https://doi.org/10.1108/ijoem-01-2018-0024)
+- Rajasekar, A., Pillai, A. R., Elangovan, R., &amp; Parayitam, S. (2023). Risk capacity and investment priority as moderators in the relationship between big-five personality factors and investment behavior: A conditional moderated moderatedmediation model. Quality &amp; Quantity, 57, 2091–2123. [https://doi.org/10.1007/s11135-022-01429-2](https://doi.org/10.1007/s11135-022-01429-2)
+</list>
+
+<list page="17" section="References" source="author" id="/page/16/ListGroup/519">
+- Rasoolimanesh, S. M., Ringle, C. M., Jaafar, M., &amp; Ramayah, T. (2017). Urban vs. rural destinations: Residents' perceptions, community participation and support for tourism development. Tourism Management, 60, 147–158.[ https://](https://doi.org/10.1016/j.tourman.2016.11.019) [doi.org/10.1016/j.tourman.2016.11.019](https://doi.org/10.1016/j.tourman.2016.11.019)
+- Raut, R. K., &amp; Kumar, R. (2018). Investment decision-making process between different groups of investors: A study of Indian stock market. Asia-Pacific Journal of Management Research and Innovation, 14(1–2), 39–49.[ https://doi.org/10.](https://doi.org/10.1177/2319510X18813770) [1177/2319510X18813770](https://doi.org/10.1177/2319510X18813770)
+- Rehan, M., Alvi, J., Javed, L., &amp; Saleem, B. (2021). Impact of behavioral factors in making investment decisions and performance: Evidence from Pakistan stock exchange. Market Forces, 16(1), 22.[ https://doi.org/10.51153/mf.v16i1.435](https://doi.org/10.51153/mf.v16i1.435)
+- Renu, I. R., &amp; Christie, P. (2018). Does age influence investor behavior in the secondary equity market? International Journal of Applied Science and Engineering Research, 13(11), 9651–9662.
+- Riaz, S., Riaz Ahmed, P., Parkash, R., &amp; Javed Ahmad, M. (2020). Determinants of stock market investors' behavior in COVID-19: A study on the Pakistan stock exchange. International Journal of Disaster Recovery and Business Continuity, 11(3), 977–990.
+- Ritter, J. R. (1988). The buying and selling behavior of individual investors at the turn of the year. Journal of Finance, 43(3), 701–717.
+- Roberts, B. W. (2009). Back to the future: Personality and assessment and personality development. Journal of Research in Personality, 43(2), 137–145.[ https://doi.org/10.](https://doi.org/10.1016/j.jrp.2008.12.015) [1016/j.jrp.2008.12.015](https://doi.org/10.1016/j.jrp.2008.12.015)
+- Robin, R., &amp; Angelina, V. (2020). Analysis of the impact of anchoring, herding bias, overconfidence and ethical consideration towards investment decision. JIMFE (Jurnal Ilmiah Manajemen Fakultas Ekonomi), 6(2).[ https://doi.org/10.](https://doi.org/10.34203/jimfe.v6i2.2558) [34203/jimfe.v6i2.2558](https://doi.org/10.34203/jimfe.v6i2.2558)
+- Robinson, A. T., &amp; Marino, L. D. (2015). Overconfidence and risk perceptions: Do they really matter for venture creation decisions? International Entrepreneurship and Management Journal, 11(1), 149–168.[ https://doi.org/10.1007/s11365-013-](https://doi.org/10.1007/s11365-013-0277-0) [0277-0](https://doi.org/10.1007/s11365-013-0277-0)
+- Saivasan, R., &amp; Lokhande, M. (2022). Influence of risk propensity, behavioural biases and demographic factors on equity investors' risk perception. Asian Journal of Economics and Banking, 6, 373–403.[ https://doi.org/10.1108/ajeb-06-2021-](https://doi.org/10.1108/ajeb-06-2021-0074) [0074](https://doi.org/10.1108/ajeb-06-2021-0074)
+- Salman, M., Khan, B., Khan, S. Z., &amp; Khan, R. U. (2021). The impact of heuristic availability bias on investmentdecision-making: Moderated mediation model. Business Strategy and Development, 4(3), 246–257.[ https://doi.org/10.](https://doi.org/10.1002/bsd2.148) [1002/bsd2.148](https://doi.org/10.1002/bsd2.148)
+- Seetharaman, A., Niranjan, I., Patwa, N., &amp; Kejriwal, A. (2017). A study of the factors affecting the choice of investment portfolio by individual investors in Singapore. Accounting and Finance Research, 6(3), 153.[ https://doi.org/](https://doi.org/10.5430/afr.v6n3p153) [10.5430/afr.v6n3p153](https://doi.org/10.5430/afr.v6n3p153)
+- Shah, S. G. M., Tang, M., Sarfraz, M., &amp; Fareed, Z. (2019). The aftermath of CEO succession via hierarchical jumps on firm performance and agency cost: Evidence from Chinese
+</list>
+
+</page>
+<page number="18">
+<text page="18" section="References" source="author" id="/page/17/Text/1">
+firms. Applied Economics Letters, 26(21), 1744–1748.[ https://](https://doi.org/10.1080/13504851.2019.1593932) [doi.org/10.1080/13504851.2019.1593932](https://doi.org/10.1080/13504851.2019.1593932)
+</text>
+
+<list page="18" section="References" source="author" id="/page/17/ListGroup/411">
+- Shehata, S. M., Abdeljawad, A. M., Mazouz, L. A., Aldossary, L. Y. K., Alsaeed, M. Y., &amp; Sayed, M. N. (2021). The moderating role of perceived risks in the relationship between financial knowledge and the intention to invest in the Saudi Arabian stock market. International Journal of Financial Studies, 9(1), 1–16.[ https://doi.org/10.3390/IJFS9 010009](https://doi.org/10.3390/IJFS9010009)
+- Shiller, R. J. (2000). Irrational exuberance (1st ed.). Princeton University Press.
+- Sindhu, R., Jandail, R. R. S. &amp; Kumar, R. R. (2014). A novel approach for sentiment analysis and opinion mining. International Journal of Emerging Technology and Advanced Engineering, 4(4), 522–527.
+- Singh, R., &amp; Bhattacharjee, J. (2019). Measuring equity share related risk perception of investors in economically backward regions. Risks, 7(1), 12.[ https://doi.org/10.3390/risks](https://doi.org/10.3390/risks7010012) [7010012](https://doi.org/10.3390/risks7010012)
+- Skagerlund, K., Forsblad, M., Slovic, P., &amp; Va¨stfja¨ll, D. (2020). The affect heuristic and risk perception - Stability across elicitation methods and individual cognitive abilities. Frontiers in Psychology, 11, 970.[ https://doi.org/10.3389/fpsyg.2020.](https://doi.org/10.3389/fpsyg.2020.00970) [00970](https://doi.org/10.3389/fpsyg.2020.00970)
+- Slovic, P., Finucane, M., Peters, E., &amp; MacGregor, D. G. (2002). The affect heuristic. In: T. Gilovich, D. Griffin, D. Kahneman (Eds.), Heuristics and Biases: The Psychology of Intuitive Judgment. (pp. 397–420). Cambridge University.
+- Slovic, P., &amp; Peters, E. (2006). Risk perception and affect. Current Directions in Psychological Science, 15(6), 322–325.
+- Thaler, R. (1985). Mental accounting and consumer choice. Marketing Science, 4(3), 199–214.
+- Thaler, R. H., &amp; Johnson, E. J. (1990). Gambling with the house money and trying to break even: The effects of prior outcomes on risky choice. Management Science, 36(6), 643–660.[ https://doi.org/10.1287/mnsc.36.6.643](https://doi.org/10.1287/mnsc.36.6.643)
+- Trang, P. T. M., &amp; Tho, N. H. (2017). Perceived risk, investment performance and intentions in emerging stock markets. International Journal of Economics and Financial Issues, 7(1), 269–278.
+- Tversky, A., &amp; Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. Cognitive Psychology, 5(2), 207–232.[ https://doi.org/10.1016/0010-0285(73)90033-9](https://doi.org/10.1016/0010-0285(73)90033-9)
+- Tversky, A., &amp; Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124–1131.
+</list>
+
+<list page="18" section="References" source="author" id="/page/17/ListGroup/412">
+- Wang, A. Y., &amp; Young, M. (2020). Terrorist attacks and investor risk preference: Evidence from mutual fund flows. Journal of Financial Economics, 137(2), 491–514.[ https://doi.org/](https://doi.org/10.1016/j.jfineco.2020.02.008) [10.1016/j.jfineco.2020.02.008](https://doi.org/10.1016/j.jfineco.2020.02.008)
+- Wang, F., Zhang, R., Ahmed, F., &amp; Shah, S. M. M. (2022). Impact of investment behaviour on financial markets during COVID-19: A case of UK. Economic Research, 35, 2273–2291.[ https://doi.org/10.1080/1331677x.2021.1939089](https://doi.org/10.1080/1331677x.2021.1939089)
+- Wang, M., Keller, C., &amp; Siegrist, M. (2011). The less you know, the more you are afraid of—A survey on risk perceptions of investment products. Journal of Behavioral Finance, 12(1), 9–19.[ https://doi.org/10.1080/15427560.2011.548760](https://doi.org/10.1080/15427560.2011.548760)
+- Wangzhou, K., Khan, M., Hussain, S., Ishfaq, M., &amp; Farooqi, R. (2021). Effect of regret aversion and information cascade on investment decisions in the real estate sector: The mediating role of risk perception and the moderating effect of financial literacy. Frontiers in Psychology, 12(1), 736753–736815.[ https://doi.org/10.3389/fpsyg.2021.736753](https://doi.org/10.3389/fpsyg.2021.736753)
+- Warkentin, M., Gefen, D., Pavlou, P. A., &amp; Rose, G. M. (2002). Encouraging citizen adoption of e-government by building trust. Electronic Markets, 12(3), 157–162.
+- Waweru, N. M., Munyoki, E., &amp; Uliana, E. (2008). The effects of behavioural factors in investment decision-making: A survey of institutional investors operating at the Nairobi stock exchange. International Journal of Business and Emerging Markets, 1(1), 24.[ https://doi.org/10.1504/ijbem.2008.019243](https://doi.org/10.1504/ijbem.2008.019243)
+- Weber, E. U., Siebenmorgen, N., &amp; Weber, M. (2005). Communicating asset risk: How name recognition and the format of historic volatility information affect risk perception and investment decisions. Risk Analysis, 25(3), 597–609. [https://doi.org/10.1111/j.1539-6924.2005.00627.x](https://doi.org/10.1111/j.1539-6924.2005.00627.x)
+- Weiss, H. M., &amp; Cropanzano, R. (1996). Affective events theory: A theoretical discussion of the structure, causes and consequences of affective experiences at work. Research in Organizational Behavior, 18(1), 1–74.[ https://doi.org/1-](https://doi.org/1-55938-938-9) [55938-938-9](https://doi.org/1-55938-938-9)
+- Willows, G., &amp; West, D. (2015). Differential investment performance in South Africa based on gender and age. International Business &amp; Economics Research Journal (IBER), 14(3), 537.[ https://doi.org/10.19030/iber.v14i3.9215](https://doi.org/10.19030/iber.v14i3.9215)
+- Zahera, S. A., &amp; Bansal, R. (2019). A study of prominence for disposition effect: A systematic review. Qualitative Research in Financial Markets, 11(1), 2–21.[ https://doi.org/10.1108/](https://doi.org/10.1108/qrfm-07-2018-0081) [qrfm-07-2018-0081](https://doi.org/10.1108/qrfm-07-2018-0081)
+</list>
+
+</page>
+</paper>

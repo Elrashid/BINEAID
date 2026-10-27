@@ -1,0 +1,1306 @@
+<paper source_file="A3.R88" title="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" total_pages="18" figures="3" figures_with_images="3">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 3 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R88_fig01.jpg">[FIGURE: see A3.R88_fig01.jpg]</figure>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R88_fig02.jpg">[FIGURE: see A3.R88_fig02.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+*Article*
+</text>
+
+
+<heading page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/SectionHeader/3" level="1">
+# **Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**
+</heading>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/4">
+**Hanan M. Taleb**
+</text>
+
+<figure page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Picture/5" image="A3.R88_fig03.jpg">[FIGURE: see A3.R88_fig03.jpg]</figure>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/6">
+**Abstract:** If infiltration is uncontrolled and admits unconditioned air, the results will be undesirable. Controlling this problem will increase thermal comfort and decrease energy consumption. The aim of this paper is to assess the performance of different materials used to improve airtightness, which will increase energy efficiency. This research primarily adopted an experimental approach. A typical residential building in UAE was chosen as a case study. Current airtightness status was measured using a blower door test and infrared technique. Six commonly used materials used for airtightness in UAE were identified and applied in different zones of the building envelope, including exterior walls, door and windows. The test was run before implementing airtightness strategies, following which they were applied for one year. Overall performance and energy reduction were monitored to identify how consumption fell by which method was the most efficient. The results indicate that energy was 3% when applying the 6 different airtightness strategies. The base case energy consumption was 64,287 kWh per year. The energy consumption then decreased after applying the sealants to 62,341 kWh per year. Future recommendations are made to enhance airtightness in residential buildings in a hot and arid climate.
+</text>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/7">
+**Keywords:** residential building; airtightness; energy efficiency; blower door; infrared technique; UAE
+</text>
+
+<figure page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Picture/8" image="A3.R88_fig04.jpg">[FIGURE: see A3.R88_fig04.jpg]</figure>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/9">
+**Citation:** Taleb, H.M. Experimental Assessment of Different Sealing Methods for Windows to Improve Building Airtightness in UAE Residential Buildings. *Sustainability* **2022**, *14*, 14760. [https://doi.org/](https://doi.org/10.3390/su142214760) [10.3390/su142214760](https://doi.org/10.3390/su142214760)
+</text>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/10">
+Academic Editor: Avi Friedman
+</text>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/11">
+Received: 18 May 2022 Accepted: 30 September 2022 Published: 9 November 2022
+</text>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/12">
+**Publisher's Note:** MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+</text>
+
+<figure page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Picture/13" image="A3.R88_fig05.jpg">[FIGURE: see A3.R88_fig05.jpg]</figure>
+
+<text page="1" section="**Experimental Assessment of Different Sealing Methods for** **Windows to Improve Building Airtightness in UAE** **Residential Buildings**" source="author" id="/page/0/Text/14">
+**Copyright:** © 2022 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license [(https://](https://creativecommons.org/licenses/by/4.0/) [creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/) 4.0/).
+</text>
+
+
+<heading page="1" section="**1. Introduction**" source="author" id="/page/0/SectionHeader/15" level="1">
+# **1. Introduction**
+</heading>
+
+<text page="1" section="**1. Introduction**" source="author" id="/page/0/Text/16">
+The energy demand from building construction continues to increase and building sectors are responsible for 36% of global energy consumption and almost 40% of total CO^(2) emissions [[1]](#page-16-0). With buildings in the UAE consuming 80% of the country's energy, the building sector has a key role to play in terms of energy efficiency [[2]](#page-16-1). Poor airtightness within buildings will result in high energy consumption. UAE was listed as fifth in terms of CO^(2) emissions per capita, with 40% of yearly electric loads coming from HVAC equipment and up to 60% of emissions occurring during the summer [[3]](#page-16-2). This alarming fact highlights the urgent need for urgent strategies to increase energy efficiency in buildings While attention is generally paid to the installation of the most efficient HVAC systems and thermal insulation in buildings, there has been little focus on the unintentional loss or gain of air from these buildings. In many countries, infiltration is the dominant source of outdoor air. Providing an appropriate comfortable indoor environment at minimal energy costs is a complex optimization process that includes, but may not be dominated by, airtightness concerns [[4]](#page-16-3). Sinnott (2011) [[5]](#page-16-4) defined airtightness as "the flow through the building envelope as a function of pressure across it and thus leakage testing is based on the fundamental mechanics of airflow". This means airtightness expresses the resistance of the building envelope to airflow paths in the building. Several studies have found that occupation of the dwelling can cause a 20–100% increase in leakage and there are large effects of weather conditions as well as the age of the construction on airtightness [[6]](#page-16-5). Thus, the effectiveness of airtightness strategies varies over time. A study in Belgium on the durability of airtightness of passive houses (ACH^(50) &lt; 0.6 upon completion) reported
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="**1. Introduction**" source="author" id="/page/1/Text/0">
+*Sustainability* **2022**, *14*, 14760 2 of 18
+</text>
+
+<text page="2" section="**1. Introduction**" source="author" id="/page/1/Text/1">
+that the average air leakage of houses increased by 30% just 2 years after the project had been completed [[7]](#page-16-6). Air leakage typically occurs through cracks and joints in the building envelope and through the use of doors. In the summer, infiltration can bring humid outdoor air into the building, which is also caused by wind, stack effect, and mechanical equipment within the building. Poor airtightness can lead to large infiltration rates, eventually causing an increase in energy consumption [[8]](#page-16-7). According to the Clean Energy Business Council in 2018 [[9]](#page-16-8), residential buildings consume 18% of the GCC's overall energy consumption and 43% of its electricity. Several researchers [[10]](#page-16-9) have emphasized that improving the airtightness of buildings will lead to increased energy efficiency and savings. Authors in the UAE [[11]](#page-16-10) have studied the impact of building characteristics and occupants' behavior on the electricity consumption of households in Abu Dhabi. However, their calculations were not based on the potential impact of infiltration. The authors therefore recommended conducting a future study to assess the impact of airtightness of different type of buildings. Further research is thus needed in the field of airtightness, especially in UAE buildings. Consequently, the aim of this study was to enhance the energy efficiency of buildings while taking into account the airtightness of residential buildings in the UAE. The next section reviews relevant literature in this field.
+</text>
+
+
+<heading page="2" section="**2. Literature Review**" source="cited" id="/page/1/SectionHeader/2" level="2">
+## **2. Literature Review**
+</heading>
+
+
+<heading page="2" section="*2.1. The Importance of Airtightness in Buildings*" source="author" id="/page/1/SectionHeader/3" level="4">
+#### *2.1. The Importance of Airtightness in Buildings*
+</heading>
+
+<text page="2" section="*2.1. The Importance of Airtightness in Buildings*" source="author" id="/page/1/Text/4">
+To control airtightness factors, it is essential to first understand the contribution of cooling load components. In a medium-size building in the USA, these are 10% for duct leaks, 12% for duct gain, 16% for appliances, 20% for roof, 6% from walls, 30% from windows, and 6% through infiltration [[12]](#page-16-11). This shows that windows have high potential for heat exchange and addressing this will help to achieve greater airtightness. Previous studies in a hot climate predicted that potential annual cooling load and energy savings will reach 9.3% when accompanied by an 81% improvement in airtightness performance [[13]](#page-16-12). Numerous studies have highlighted the disadvantages of low-quality construction implementation with respect to airtightness, and concluded that the annual energy consumption of an insulated residence with an ACH rate of 2.5 accounts for poor implementation—roughly the same as a similar uninsulated case in which the ACH rate was 0.25 (29,942 kWh compared to 30,075 kWh). In addition, when altering the ACH rate, the cooling load demand remained steady at approximately 25,000 and 20,000 kWh for uninsulated and insulated cases, respectively [[14]](#page-16-13). Nevertheless, improving airtightness also helped to reduce the heating load, thus reducing the energy consumption up to 36% of the annual energy consumption [[15]](#page-16-14). Although the UAE produces its own energy, its energy balance in 2017 reached an overall consumption level of 110.60 billion kWh of electric energy per year, an average of 11,766 kWh per capita [[16]](#page-16-15). According to the Emirates Green Building Council, [[17]](#page-16-16) the common points of air leakages are distributed as follows: 2% in electric outlets, 36% in floors, walls, and ceiling, 17% in ducts, 15% in pluming, 13% in doors, and 12% in windows. Unfortunately, in the UAE the airtightness regulations are not especially strict and therefore design teams are not particularly concerned with the airtightness of buildings (unless it has been specified by the client). To understand this, it is important to review the global experience in this field.
+</text>
+
+
+<heading page="2" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/1/SectionHeader/5" level="2">
+## *2.2. The Global Status of Building Airtightness*
+</heading>
+
+<text page="2" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/1/Text/6">
+Improving airtightness has multiple benefits. For instance, one study [[18]](#page-16-17) linked an improvement in thermal comfort and air quality with improved airtightness in lowincome housing in Spain. An important study in Finland [[19]](#page-16-18) concluded that in residential buildings, the construction method and insulation materials have an effect on airtightness performance that is distinct from the choice of structure, stories, and the ventilation strategies of the construction technology. Based on extensive airtightness measurements carried out in 159 social housing buildings in Southern Europe, another study [[20]](#page-16-19) proposed the climate zone and age or year of construction as two more factors fundamental in determining
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/2/Text/0">
+*Sustainability* **2022**, *14*, 14760 3 of 18
+</text>
+
+<text page="3" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/2/Text/1">
+airtightness performance. An experimental study in Korea [[21]](#page-16-20) of two- story office buildings concluded that airtightness values may differ according to the measurement method and size of the buildings. Table [1](#page-3-0) summarizes the results of recent studies of building airtightness, which will form a point of comparison for the results of the current study.
+</text>
+
+<table_group page="3" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/2/TableGroup/513">
+<caption page="3" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/2/Caption/2">
+**Table 1.** Summary of global studies on building airtightness status.
+</caption>
+<table page="3" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/2/Table/3">
+| No. | Authors | Title | Aim and Method | Country | Main Findings | Citation |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Bossche andJanssens,2016 | Airtightness andwatertightness ofwindow frames:Comparison ofperformance andrequirements | This paper reports theresults of 437 windowstested in lab conditionsbetween 1997 and 2012.These include aluminumand wooden windows, andsingle, double, composed,and sliding windows. | Belgium | •In terms of airtightness,aluminum and wood windowsexhibit similar performance,based on surface areaaveraged values.•Sliding windows are almost2.5 times leakier than singlewindows. Overall, 75% of allwindows have an air leakagerate below 1.05 m3/h·m2 | [22] |
+| 2 | Ji andDuanmu,2017 | Airtightness fieldtests of residentialbuildings in Dalian,China | This paper investigated theairtightness performance often detached houses in acold area using the "blowerdoor test". In addition, thethermal infrared imager andsmoke pencil were used toidentify typical points of airleakage in the buildingenvelope. | China | •The main cause of high airleakage was the fact that theframes of window were notfitted correctly and thedraught seal was deformed,leaking air into the house.•The air change rate for apressure difference of 50 Pa ofthe tested houses varied from1.89 h_1 to 0.84 h_1 with amean value of 1.42 h_1. | [23] |
+| 3 | MortensenandBergsøe, 2017 | Airtightnessmeasurements inolder Danishsingle-familyhouses | Authors measured 16single-family houses builtbetween 1880 and 2007. Theairtightness of the buildingenvelope was measuredusing the blower-doortechnique in accordancewith EN ISO 9972. | Denmark | •The airtightness of thebuilding envelopes rangedfrom 1.1 to 5.8 L/(s·m2) at50 Pa.•This measurement is below theDanish Building Regulationsstandard of 0.31/(s·m2). | [24] |
+| 4 | Tanyer et al.,2018 | Assessing theairtightnessperformance ofcontainer houses inrelation to its effecton energy efficiency | The study examined theairtightness performance offour types of commonlyused container houses froman energy point of view.Measures were taken beforeand after sealingwas applied. | Turkey | •An 18% improvement in theperformance of the containerhouses resulted in a reductionof 9.3% in annual energyconsumption.•This reduction was not enoughto raise its energy ratingcategory. | [13] |
+| 5 | Colijn et al.,2017 | Evaluating theeffectiveness ofimprovedworkmanshipquality on theairtightness ofDutch detachedhouses | Using a blower door test,the specific leakage rate of44 detached houses wasmeasured to evaluate themodest technicalimprovements and coachingof construction teams. | Nether-lands | •The specific air leakage rate(w10) was reducedsignificantly from0.678 dm3/s·m2(n = 44,SD = 0.296) to 0.498 dm3/s·m2 | [25] |
+</table>
+</table_group>
+
+</page>
+<page number="4">
+<text page="4" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/3/Text/0">
+*Sustainability* **2022**, *14*, 14760 4 of 18
+</text>
+
+<table_group page="4" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/3/TableGroup/366">
+<caption page="4" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/3/Caption/1">
+**Table 1.** *Cont.*
+</caption>
+<table page="4" section="*2.2. The Global Status of Building Airtightness*" source="author" id="/page/3/Table/2">
+| No. | Authors | Title | Aim and Method | Country | Main Findings | Citation |
+| --- | --- | --- | --- | --- | --- | --- |
+| 6 | Feijó-Muñozet al., 2019 | Airtightness ofresidentialbuildings in thecontinental area ofSpain | 129 dwellings were tested,including differenttypologies and periods ofconstruction, in order todetect air leakage throughthe envelopes of existinghousing stock in theContinental climate. | Spain | •Single-family dwellings werefound to be more airtight thanapartments, as the mean airpermeability rate at 50 Pa (q50)was 5.4 m3/h·m2 and6.8 m3/h·m2, respectively.•The mean air change rate at50 Pa (n50) was 6.1 h−1 forsingle-family dwellings and7.1 h−1 for multi-familyhousing. | [26] |
+| 7 | Alev et al.,2017 | Airtightnessimprovementsolutions for logwall joints | Air leakage was testedusing a Scandinavia saddlenotch or dovetail notch inan airtightness measuringcamper in a laboratorysetting. Common sealingmaterials were applied. | Estonia | •Peat moss reduced the airleakage of the Scandinaviansaddle notch by 77% and thatof the dovetail notch by 84%.•Sealing material was a specialjoint sealant that reduced theair leakage of Scandinaviansaddle notch by 87% and thatof the dovetail notch by 70%. | [27] |
+| 8 | Cuce, 2017 | Role of airtightnessin controllingenergy loss fromwindows:Experimentalresults from in situtests | This study measured theeffect of air leakage onoverall heat transfercoefficient (U-value) ofconventional air-filleddouble glazed windows in atraditional two storydwelling in Nottingham. | UK | •A 33% reduction in heat losscan be achieved by improvingthe airtightness of the windows | [28] |
+</table>
+</table_group>
+
+
+<heading page="4" section="*2.3. Methods for Measuring Airtightness*" source="author" id="/page/3/SectionHeader/3" level="1">
+# *2.3. Methods for Measuring Airtightness*
+</heading>
+
+<text page="4" section="*2.3. Methods for Measuring Airtightness*" source="author" id="/page/3/Text/4">
+Small cracks and crevices can cause a gap where air exchange will take place. Multiple methods can be employed to accurately measure air infiltration. The blower door technique is now an extremely popular and reliable method for measuring air infiltration. This method comprises three components: a calibrated fan, a door panel system, and a device to measure fan flow and building pressure. The blower door fan should be sealed into an exterior doorway using the door panel frame. The fan then blows air into or out of the zone or outside the building, which creates a small pressure difference between the internal and external environments. The most common method is to suck air out of the room using the blower door. As a result, the air pressure inside the room is lower than it is outside air; usually the difference is about 50 Pascal. In the context of Ireland, another researcher evaluated Irish dwellings using a standard blower door test and found that a 22% improvement in airtightness may save an estimated average of 361 kWh per dwelling [[29]](#page-17-2). The blower door method has also been used in Turkey to test the effect of airtightness on energy consumption in container houses. These authors found that an 81% improvement might lead to a 9.3% reduction in annual energy demand [[13]](#page-16-12). Another notable method is the use of a thermal camera. Due to the pressure differences between indoor and outdoor environments, the air outside will rush into the building through the cracks or joints. This air will cool the location where a crack is located. This temperature discrepancy will clearly show up in the thermal image as a cold spot or cold area, allowing the operator to accurately locate and map the air infiltration pathway. This method will help inspectors and researchers detect not only air infiltration but also insulation defects, thermal bridges and moisture problems. This method has been adopted by numerous researchers. For instance, a study in China used the infrared camera to measure indoor and outdoor parameters such as air velocity, temperature, and pressure. Cracks were then identified by means of theoretical heat transfer and fluid mechanics analysis. The authors concluded that the error was within 3% [[30]](#page-17-3). Some researchers have adopted both methods; for example, a study in
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="*2.3. Methods for Measuring Airtightness*" source="author" id="/page/4/Text/0">
+*Sustainability* **2022**, *14*, 14760 5 of 18
+</text>
+
+<text page="5" section="*2.3. Methods for Measuring Airtightness*" source="author" id="/page/4/Text/1">
+Australia [[31]](#page-17-4) used both the blower door and thermal imaging to test 125 houses, providing the researchers with accurate measures of airtightness. Finally, simulation software can also be used [[32]](#page-17-5) as well as manual calculations [[33]](#page-17-6). Having reviewed the literature, the next section describes the methods adopted for this research.
+</text>
+
+
+<heading page="5" section="**3. Methodology**" source="author" id="/page/4/SectionHeader/2" level="2">
+## **3. Methodology**
+</heading>
+
+
+<heading page="5" section="*3.1. Research Design*" source="author" id="/page/4/SectionHeader/3" level="2">
+## *3.1. Research Design*
+</heading>
+
+<text page="5" section="*3.1. Research Design*" source="author" id="/page/4/Text/4">
+A medium residential building, a villa in Dubai, was chosen as a base case for this research. Figure [1](#page-5-0) illustrates the case study and Table [2](#page-4-0) presents the specifications of the villa. The actual energy consumption was collected by the villa owners from September 2017 to August 2018. The researcher sealed all cracks and gaps in the houses except for windows/door glazing frames, as these were the main areas that needed to be studied. The gaps therefore sealed included: ends of floor joists, joist hangers, around doors, beneath doors and door frames, along the top and bottom edges of skirting boards, between and around sections of suspended floors, around loft hatches, through the eaves, around roof lights, through gaps behind plasterboard, cracks and holes, around the supplies from external meter boxes, around a wall-mounted fan, around pull switches, boiler flues and heating pipes, around waste pipes passing into floor voids and through recessed spotlights. Thus, the only parts left untouched were the glazing windows and the glazing doors along with their frames. Following this procedure, the blower door test was conducted on 1 September 2018 to determine the airtightness of the building. According to European Commissions, the blower door test was used first in Europe to measure the air leakage of the building envelope, but is now explicitly described in the European Standards EN-13829 [[34]](#page-17-7). The blower door test was conducted on 6 zones where the window in each was treated using one of the 6 sealing methods, which comprised 2 types of sealants, 2 types of tapes, and a foam and liquid membrane. Table [3](#page-7-0) explains each zone in terms of the room area, glazing area, and presents images of the products along with their specifications. Each product was applied inside and outside around the window frames for zones 1, 2, 3, 4, and 5 separately. Sealants were applied inside and outside on the edge of the glazing. Figure [2](#page-5-1) illustrates the window sections and marks the exact location of the sealant application. All these zones were then closed and the test was conducted for the entire house, including ground floor glazed door frames. The results were then obtained and compared, following which, the energy consumption for one year was monitored to study the effect in each zone.
+</text>
+
+<table_group page="5" section="*3.1. Research Design*" source="author" id="/page/4/TableGroup/222">
+<caption page="5" section="*3.1. Research Design*" source="author" id="/page/4/Caption/5">
+**Table 2.** Specifications of case study.
+</caption>
+<table page="5" section="*3.1. Research Design*" source="author" id="/page/4/Table/6">
+| Characteristic | Value | Description |
+| --- | --- | --- |
+| Floor area (m2) | 2300 (length 54.3 m × width 42.4 m) | Fully occupied |
+| Number of floors | 2 | 2 |
+| Floor to ceiling height (m) | 2.90 m | Unified throughout the villa |
+| Back yard area | 45 m2 | Garden |
+| Window-to-wall ratio (%) | 25.4 |  |
+|  |  |  |
+| Building Envelope |  |  |
+| Walls U-value | W/m2K |  |
+| Roof U-value | W/m2K |  |
+| Window U-value | W/m2K | Per Dubai MunicipalityStandards |
+| SHGC | 86% | Solar Heat Gain Coefficient |
+| Foundation | 15.2 cm concrete slab-on-grade + insulationper UAE Building Code |  |
+| HVAC is on the whole year at 21 ◦CHVAC | Cooling only |
+</table>
+</table_group>
+
+</page>
+<page number="6">
+<text page="6" section="*3.1. Research Design*" source="author" id="/page/5/Text/0">
+Sustainability **2022**, 14, 14760 6 of 18
+</text>
+
+<figure page="6" section="*3.1. Research Design*" source="author" id="/page/5/Picture/1" image="A3.R88_fig06.jpg">[FIGURE: see A3.R88_fig06.jpg]</figure>
+
+<text page="6" section="*3.1. Research Design*" source="author" id="/page/5/Text/2">
+GROUND FLOOR FIRST FLOOR
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="*3.1. Research Design*" source="author" id="/page/6/Text/0">
+Sustainability **2022**, 14, 14760 7 of 18
+</text>
+
+<table_group page="7" section="*3.1. Research Design*" source="author" id="/page/6/TableGroup/12">
+<caption page="7" section="*3.1. Research Design*" source="author" id="/page/6/Caption/1">
+\label{thm:constraints} \textbf{Table 3.} \ \text{Test zones and sealing strategies with their specifications}.
+</caption>
+<table page="7" section="*3.1. Research Design*" source="author" id="/page/6/Table/2">
+| Zones | Function | RoomArea | Glazing Area | Sealing Type | Image | Specifications |
+| --- | --- | --- | --- | --- | --- | --- |
+| Zone 1 | MasterBedroom firstfloor | **15.51 m^(2)** (3.3 × 4.7) | \begin{array}{c} \textbf{4.38 m}^2 \\ (0.8 \times 0.6 \times 2) \\ & + \\ (0.80 \times 2.14 \times 2) \end{array} | FiberglassClothAluminumFoil Tape |  | Peel adhesion 18 N/25 mm
+Tensile strength 45 N/25 mm
+Elongation: 3%
+Reflectivity: 97%
+Emissivity: 0.03
+Tear strength: 226.4 N/25 mm |
+| Zone 2 | Studio room | 12.24 m^(2) (3.6 \times 3.4) | 1.52 m^(2) (1 \times 0.76 \times 2) | Polyure-thane FoamTape |  | Quick and easy to apply
+Seals against uneven surfaces
+Impregnation: Synthetic Resin
+Air-permeability (pressure of 10 Pa):
+DIN 18542;
+a 
+Thermal conductivity:
+0.046 W/mk |
+| Zone 3 | Children'sroom | 14.8 \text{m}^2 (3.7 × 4.0) | \frac{2 \text{ m}^2}{(0.8 \times 1.25 \times 2)} | Foam | Total | Pro Foam Window
+Application temperature +10 °C to +30 °C
+Compressive strength (10%): 9 kPa
+It also functions as sound insulation |
+| Zone 4 | Home office | 15.2 \text{m}^2 (3.8 × 4.0) | 4.28 m^2 (2.14 × 1 × 2) | LiquidMembrane | Act single to the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part of the total part o | Color is black (dry)
+Waterborne polymer paste reinforced with fibers
+Application Temperature: +5 °C
+SD value: >10
+Density: 1.2 kg/L
+Expected Airtightness: 0.07 m³/H.M (50 Pa); EN 12114: 2000
+Elongation: >230% |
+| Zone 5 | Kitchen firstfloor | 14.7 \text{m}^2 (4.2 × 3.5) | \frac{2 \text{ m}^2}{(0.8 \times 1.25 \times 2)} | Sealant 1 | Vario Doublefit (2) | For internal and external use
+    Solvent-free and odorless
+    Adhesive sealants based on modified acrylate dispersions
+    Temperature resistance −40 ≤ t ≤ +100 (after curing) |
+</table>
+</table_group>
+
+</page>
+<page number="8">
+<text page="8" section="*3.1. Research Design*" source="author" id="/page/7/Text/0">
+Sustainability **2022**, 14, 14760 8 of 18
+</text>
+
+<table_group page="8" section="*3.1. Research Design*" source="author" id="/page/7/TableGroup/98">
+<caption page="8" section="*3.1. Research Design*" source="author" id="/page/7/Caption/1">
+Table 3. Cont.
+</caption>
+<table page="8" section="*3.1. Research Design*" source="author" id="/page/7/Table/2">
+| Zones | Function | RoomArea | Glazing Area | Sealing Type | Image | Specifications |
+| --- | --- | --- | --- | --- | --- | --- |
+| Zone 6 | The whole villaexcluding thespecified testzones | 64.44 m^(2)
+Living room
+ground floor
+(6.0 × 4.7)
+
++
+Dining room
+ground
+floor
+(3.6 × 2.4)
+
++
+Family room
+first floor
+(4.6 × 6.0) | Living room ground floor (1 \times 2.14 \times 2) + Dining room ground floor (1 \times 2.14 \times 2) + Family room first floor (0.72 \times 1.38 \times 4) | Sealant 2 |  | Raw material base: polymer dispersion
+Color: light blue
+Consistency: pasty-elastic
+Application temperature: +5 °C to +40 °C |
+</table>
+</table_group>
+
+
+<heading page="8" section="3.2. Test Procedure" source="author" id="/page/7/SectionHeader/3" level="4">
+#### 3.2. Test Procedure
+</heading>
+
+<text page="8" section="3.2. Test Procedure" source="author" id="/page/7/Text/4">
+The test initially took place on 1 September 2018 without any glazing improvement; this was the "baseline" stage. The airtightness of the villa envelopes was measured using a fan pressurization test in each zone separately, where the fan was used to create a series of pressure differences across the building envelope between the building interior and the outdoors. The test method complied with ASTM Standard E779 (ASTM, 2010) which describes the fan pressurization test procedure in detail, including specifications of the test equipment and analysis of the test data [35]. The tenants were asked to leave the house for three days. Precautions were taken to ensure there was minimal damage to the glazing windows and doors. The HVAC system was completely shut off and emergency contacts were collected. The test itself involved: (1) collecting baseline and induced envelope pressure and test fan flow data using a central computer; (2) analyzing data using the methods in E779 while still in the test building with the test equipment still installed; (3) identifying problems with test data, correcting problems in the building test conditions if necessary (e.g., doors blowing open), and collecting additional data to correct the problem; (4) reporting the data in terms of CFM (m&lt;sup&gt;3&lt;/sup&gt;/h) at 50 and 75 Pa induced envelope pressure, CFM/ft&lt;sup&gt;2&lt;/sup&gt; (m&lt;sup&gt;3&lt;/sup&gt;/h per m&lt;sup&gt;2&lt;/sup&gt;) above grade enclosure at 50 and 75 Pa, and CFM/ft&lt;sup&gt;2&lt;/sup&gt; (m&lt;sup&gt;3&lt;/sup&gt;/h per m&lt;sup&gt;2&lt;/sup&gt;) of total enclosure at 50 and 75 Pa; (5) reporting the test results for the baseline case in terms of the airflow rate at a certain reference pressure difference divided by the building volume, floor area, and envelope surface area. On 2 September 2018, the sealing company was received in the villa and each zone was sealed. This was the "base case" stage. Figure 2 illustrates the structural details and sealing locations of the glazing windows. On 3 September 2018, the same procedure using the blower door was conducted (defined as the "airtight case" stage). Energy reduction was monitored from 4 September 2018 till 4 September 2019. The results were then collated and are analyzed in Section 4. When the openings of the air movement were temporarily covered, the measuring devices were connected to the internal and external referencing pressure tubes. The differences in zero flow pressure were recorded where (\Delta p_{0.1+}) is the average of the positive values recorded over a minimum of 30 s, (\Delta p_{0.1}) is the average of the negative values recorded over a minimum of 30 s, and (\Delta p_{0,1}) is the average of all values recorded over a minimum of 30 s. Adequate time was allowed for induced pressure to stabilize throughout the building envelope. Tenants were assured that the villa would not become over-pressurized (&gt;100 Pa) as this would have presented a risk to the internal finish and fabric of the villa.
+</text>
+
+
+<heading page="8" section="3.3. Thermal Imaging" source="author" id="/page/7/SectionHeader/5" level="4">
+#### 3.3. Thermal Imaging
+</heading>
+
+<text page="8" section="3.3. Thermal Imaging" source="author" id="/page/7/Text/6">
+Thermal imaging testing is an important quality control measure with respect to assessing building airtightness. It is difficult to identify small air gaps using building airtightness testing alone, therefore, in this research, a camera was used to identify patterns of heat loss that are invisible to the naked eye [36]. The thermal imaging and blower door
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="3.3. Thermal Imaging" source="author" id="/page/8/Text/0">
+Sustainability 2022, 14, 14760 9 of 18
+</text>
+
+<text page="9" section="3.3. Thermal Imaging" source="author" id="/page/8/Text/1">
+test complement each other and their combined use quickly indicated air leaks within the case study. Initially, the thermal imaging helped the researcher to identify the insulation defects in roofs and floors and general air leakage everywhere except the windows. After fixing all these leakages, the glazing was ready for the test. Thermal imaging was used to assess the window performance before and after applying the different sealants. The camera used for this research was a FLIR E95 Thermal Camera. It has a sensitivity of 0.03~{\rm ^{\circ}C} View and measures temperatures from -4 to 2732~{\rm ^{\circ}F} (-20 to 1500~{\rm ^{\circ}C}).
+</text>
+
+
+<heading page="9" section="3.4. Mathematical Background" source="cited" id="/page/8/SectionHeader/2" level="4">
+#### 3.4. Mathematical Background
+</heading>
+
+
+<heading page="9" section="3.4.1. Airflow Rate" source="author" id="/page/8/SectionHeader/3" level="2">
+## 3.4.1. Airflow Rate
+</heading>
+
+<text page="9" section="3.4.1. Airflow Rate" source="author" id="/page/8/Text/4">
+To predict the air permeability at 4 Pa and 50 Pa, m^3/(h \cdot m^2), the following power law equation was used to predict building leakage [37]:
+</text>
+
+<equation page="9" section="3.4.1. Airflow Rate" source="author" id="/page/8/Equation/5">
+$$
+Q = C \times \Delta P^n \tag{1}
+$$
+</equation>
+
+<text page="9" section="3.4.1. Airflow Rate" source="author" id="/page/8/Text/6">
+where:
+</text>
+
+<text page="9" section="3.4.1. Airflow Rate" source="author" id="/page/8/Text/7">
+Q = the air leakage rate (m&lt;sup&gt;3&lt;/sup&gt;/s),  C = the flow coefficient m&lt;sup&gt;3&lt;/sup&gt;/(s.Pa&lt;sup&gt;n&lt;/sup&gt;),  \Delta P = the building pressure (Pa), n = the pressure exponent.
+</text>
+
+
+<heading page="9" section="3.4.2. Fan Pressure (FP)" source="author" id="/page/8/SectionHeader/8" level="4">
+#### 3.4.2. Fan Pressure (FP)
+</heading>
+
+<text page="9" section="3.4.2. Fan Pressure (FP)" source="author" id="/page/8/Text/9">
+This is the fan pressure measured when using a self-referenced fan or when the internal zone pressure is negative. When using a fan which is not self-referenced and the zone is positive, fan pressure is calculated by subtracting the measured zone pressure from the absolute value of the fan pressure.
+</text>
+
+<text page="9" section="3.4.2. Fan Pressure (FP)" source="author" id="/page/8/Text/10">
+If the Pr A &gt; 0 and fan are not self-referencing, then FP= |PrB| - PrA. If the PrA &lt; 0 or fan is self-referencing, then FP = PrB.
+</text>
+
+
+<heading page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/SectionHeader/11" level="4">
+#### 3.4.3. Airtightness in a Specific Flow Rate
+</heading>
+
+<text page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Text/12">
+The airtightness for a specific flow rate can be expressed as equivalent leakage area and normalized leakage area. The specific flow rate w_{50} can be defined as airflow through the building envelope at 50 Pa divided by the floor area at pressure of 50 Pa [38]. Thus:
+</text>
+
+<equation page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Equation/13">
+$$
+W_{50} = Q/A_{floor} \tag{2}
+$$
+</equation>
+
+<text page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Text/14">
+where:
+</text>
+
+<text page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Text/15">
+W_{50} = specific flow rate at pressure differences of 50 Pa (cm&lt;sup&gt;2&lt;/sup&gt;),
+</text>
+
+<text page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Text/16">
+Q = the leakage air volume flow rate of a fan with a pressure difference of 50 Pa (m&lt;sup&gt;3&lt;/sup&gt;/h),
+</text>
+
+<text page="9" section="3.4.3. Airtightness in a Specific Flow Rate" source="author" id="/page/8/Text/17">
+A_{floor} = floor area (m&lt;sup&gt;2&lt;/sup&gt;).
+</text>
+
+
+<heading page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/SectionHeader/18" level="4">
+#### 3.4.4. Air Permeability
+</heading>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/19">
+The final air leakage results were expressed as a rate of leakage per hour per square meter of the villa envelope at a reference pressure differential of 50 Pa (m^3 \cdot h^{-1} \cdot m^{-2} @50 Pa). This was calculated by dividing the total leakage flow rate (Q_{50}) by the envelope area (A_E) [39]. Thus:
+</text>
+
+<equation page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Equation/20">
+$$
+AP_{50} = Q_{50}/A_E \tag{3}
+$$
+</equation>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/21">
+where:
+</text>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/22">
+Q_{50} = C_L \times 50^n,
+</text>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/23">
+AP_{50} = air permeability,
+</text>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/24">
+Q_{50} = air leakage rate at a pressure differences of 50 Pa,
+</text>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/25">
+A_E = envelope area m^2,
+</text>
+
+<text page="9" section="3.4.4. Air Permeability" source="author" id="/page/8/Text/26">
+C_L = air leakage coefficient,
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="3.4.4. Air Permeability" source="author" id="/page/9/Text/1">
+50^{n} = differential pressure.
+</text>
+
+
+<heading page="10" section="4. Results" source="author" id="/page/9/SectionHeader/2" level="4">
+#### 4. Results
+</heading>
+
+
+<heading page="10" section="4.1. Thermography Analysis" source="author" id="/page/9/SectionHeader/3" level="2">
+## 4.1. Thermography Analysis
+</heading>
+
+<text page="10" section="4.1. Thermography Analysis" source="author" id="/page/9/Text/4">
+The infrared camera was used to identify the leakage around the windows. The air leakages appear as blue on the IR screen while the blue patches indicate the conductive heat gain. Table 4 illustrates the thermal imaging of the baseline where heat and leakages were indicated. The table also suggests solutions and provides feedback on each zone. Obviously, the leakage is apparent in the gaps of the frame, making significant infiltration.
+</text>
+
+<table_group page="10" section="4.1. Thermography Analysis" source="author" id="/page/9/TableGroup/34">
+<caption page="10" section="4.1. Thermography Analysis" source="author" id="/page/9/Caption/5">
+**Table 4.** Thermography analysis of the zones.
+</caption>
+<table page="10" section="4.1. Thermography Analysis" source="author" id="/page/9/Table/6">
+| Zone | Map | Function | Image | Thermography | Comments and Recommendations |
+| --- | --- | --- | --- | --- | --- |
+| Zone 1 | (NST FOOR | MasterBedroom |  | 36.2 °C
+
+35
+
+36.2 °C
+
+35
+
+25
+
+22.7 | Warmth can be seen trapped in the door frame
+The edges must be sealed and treated |
+| Zone 2 | TRST LOOK | StudioRoom |  | 36.8 °C
+
+35
+
+30
+
+25
+
+23.1 | No visible anomalies
+Recommendation is to seal the glazing frame |
+| Zone 3 | FROTROCK | Children'sRoom |  | 39,7 °C- 35- 30- 25.5 | Warmth can be seen trapped in the frame
+Install gaskets to tighten the window |
+| Zone 4 | PINST FLOOR | HomeOffice |  | 31.2 °C
+-30
+-28
+-26
+-24
+-23.0 | Warm air can be seen infiltrating from the bottom of the door
+Align the door and install the gaskets to avoid leakage |
+| Zone 5 |  | Kitchen |  | 38.3 °C
+
+35
+
+30
+
+-25
+
+24.4 | Warm air can beseen infiltratingfrom the top ofthe windowframe |
+</table>
+</table_group>
+
+</page>
+<page number="11">
+<table_group page="11" section="4.1. Thermography Analysis" source="author" id="/page/10/TableGroup/31">
+<caption page="11" section="4.1. Thermography Analysis" source="author" id="/page/10/Caption/1">
+Table 4. Cont.
+</caption>
+<table page="11" section="4.1. Thermography Analysis" source="author" id="/page/10/Table/2">
+| Zone | Map | Function | Image | Thermography | Comments and Recommendations |
+| --- | --- | --- | --- | --- | --- |
+| Zone 6 | CROUPO FLOOR | The villa |  | 36.9 °C
+
+- 36
+
+- 35
+
+- 34
+
+- 33
+
+32.8 | Cold air can be seen leaking out from around the door frame
+Align the door and apply gaskets to avoid cold loss |
+</table>
+</table_group>
+
+
+<heading page="11" section="4.2. Baseline Airtightness Performance" source="author" id="/page/10/SectionHeader/3" level="2">
+## 4.2. Baseline Airtightness Performance
+</heading>
+
+<text page="11" section="4.2. Baseline Airtightness Performance" source="author" id="/page/10/Text/4">
+In this stage, the blower door test was implemented to assess the six zones. The results are summarized in Table 5 and clearly show that air leakage was relatively high. The vast majority of airflow at 10 Pa, and Q_{10} was 592.45 m&lt;sup&gt;3&lt;/sup&gt;/h which appeared in the villa excluding the test zones, followed by the master bedroom which presents 201.41 m&lt;sup&gt;3&lt;/sup&gt;.
+</text>
+
+<table_group page="11" section="4.2. Baseline Airtightness Performance" source="author" id="/page/10/TableGroup/32">
+<caption page="11" section="4.2. Baseline Airtightness Performance" source="author" id="/page/10/Caption/5">
+**Table 5.** Base Case Air Leakage Test.
+</caption>
+<table page="11" section="4.2. Baseline Airtightness Performance" source="author" id="/page/10/Table/6">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm²) | Uncertainty | Figure |
+| --- | --- | --- | --- | --- | --- |
+| Master Bedroom | 201.41 | 436.05 | 243.5 | ±12.8% | Depressurize r^(2) = 0.9827
+Pressurize r^(2) = 0.9844
+
+100
+
+100
+
+(Log) Pressure (Pa) |
+| Studio Room | 70.000 | 207.25 | 48.55 | \pm 4.8\% | Pressurize r² = 0.9970 Depressurize r² = 0.9998
+
+100
+
+(Log) Pressure (Pe) |
+</table>
+</table_group>
+
+</page>
+<page number="12">
+<table_group page="12" section="4.2. Baseline Airtightness Performance" source="author" id="/page/11/TableGroup/12">
+<caption page="12" section="4.2. Baseline Airtightness Performance" source="author" id="/page/11/Caption/1">
+Table 5. Cont.
+</caption>
+<table page="12" section="4.2. Baseline Airtightness Performance" source="author" id="/page/11/Table/2">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm²) | Uncertainty | Figure |
+| --- | --- | --- | --- | --- | --- |
+| Children's Room | 40.135 | 107.90 | 33.51 | \pm 8.2\% | 1000 Bressurger 1 0.993214
+
+100 Bressurger 1 0.993214
+
+100 (Log) Pressure (Pa) |
+| Home office | 59.135 | 148.80 | 67.00 | ±5.0% | Depressurize r^(2) = 0.9988
+
+Pressurize r^(2) = 0.9988
+
+(Log) Pressure (Pa) |
+| Kitchen | 179.41 | 484.95 | 143.5 | ±2.2% | Depressurize r^(2) = 0.9996
+
+100
+
+(Log) Pressure (Pa) |
+</table>
+</table_group>
+
+</page>
+<page number="13">
+<table_group page="13" section="4.2. Baseline Airtightness Performance" source="author" id="/page/12/TableGroup/33">
+<caption page="13" section="4.2. Baseline Airtightness Performance" source="author" id="/page/12/Caption/1">
+Table 5. Cont.
+</caption>
+<table page="13" section="4.2. Baseline Airtightness Performance" source="author" id="/page/12/Table/2">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm²) | Uncertainty |  | Figure |
+| --- | --- | --- | --- | --- | --- | --- |
+| The Villa (excluding the specified test zones) | 592.45 | 1551.5 | 549.5 | \pm 4.5\% | 10000 (69) | Pressurize r² = 0.9959
+Depressurize r² = 0.9959
+
+(Log) Pressure (Pa) |
+</table>
+</table_group>
+
+
+<heading page="13" section="4.3. Airtight Case Performance" source="author" id="/page/12/SectionHeader/3" level="1">
+# 4.3. Airtight Case Performance
+</heading>
+
+<text page="13" section="4.3. Airtight Case Performance" source="author" id="/page/12/Text/4">
+In this stage, the sealants were applied as per Table 3. Each zone was allocated a certain sealant to test its efficiency. Table 6 presents the results of the leakage test after applying the sealants. These indicate lower air leakage with a different percentage in each zone. The villa, excluding the test zone, had airflow at 10 Pa, the Q_{10} was 592.45 m&lt;sup&gt;3&lt;/sup&gt;/h and now dropped to 497.30 m&lt;sup&gt;3&lt;/sup&gt;/h. Whereas, the kitchen slightly dropped from 179.41 m&lt;sup&gt;3&lt;/sup&gt;/h to 178.65.
+</text>
+
+<table_group page="13" section="4.3. Airtight Case Performance" source="author" id="/page/12/TableGroup/34">
+<caption page="13" section="4.3. Airtight Case Performance" source="author" id="/page/12/Caption/5">
+**Table 6.** Air leakage test after applying the sealants.
+</caption>
+<table page="13" section="4.3. Airtight Case Performance" source="author" id="/page/12/Table/6">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm²) | Uncertainty | Figure |
+| --- | --- | --- | --- | --- | --- |
+| Master Bedroom | 176.71 | 411.90 | 183.5 | ±3.8% | Pressurize r² = 0.9981
+
+Pressurize r² = 0.9981
+
+(log) Pressure (Pa) |
+</table>
+</table_group>
+
+</page>
+<page number="14">
+<table_group page="14" section="4.3. Airtight Case Performance" source="author" id="/page/13/TableGroup/12">
+<caption page="14" section="4.3. Airtight Case Performance" source="author" id="/page/13/Caption/1">
+Table 6. Cont.
+</caption>
+<table page="14" section="4.3. Airtight Case Performance" source="author" id="/page/13/Table/2">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm^(2)) | Uncertainty | Figure |
+| --- | --- | --- | --- | --- | --- |
+| Studio Room | 69.170 | 196.95 | 59.20 | ±2.6% | Pressurize r² = 0.9995
+Depressurize r² = 0.9991
+
+100
+
+(log) Pressure (Pa) |
+| Children's Room | 11.980 | 34.591 | 8.545 | \pm 4.6\% | Unknown r² = 0.9989
+
+10
+
+10
+
+(Log) Pressure (Pa) |
+| Home Office | 59.040 | 147.25 | 52.50 | ±7.7% | Depressurize r² = 0.9933
+
+Pressurize r² = 0.9950
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Output
+
+Outp |
+| Kitchen | 178.65 | 483.60 | 143.0 | ±8.7% | Pressurize r* = 0.9912
+
+Pressurize r* = 0.9912
+
+(log) Pressure (Pa) |
+</table>
+</table_group>
+
+</page>
+<page number="15">
+<text page="15" section="4.3. Airtight Case Performance" source="author" id="/page/14/Text/0">
+Sustainability **2022**, 14, 14760 15 of 18
+</text>
+
+<table_group page="15" section="4.3. Airtight Case Performance" source="author" id="/page/14/TableGroup/62">
+<caption page="15" section="4.3. Airtight Case Performance" source="author" id="/page/14/Caption/1">
+Table 6. Cont.
+</caption>
+<table page="15" section="4.3. Airtight Case Performance" source="author" id="/page/14/Table/2">
+| Zone | Airflow at 10 Pa,Q_(10) (m^(3)/h) | Airflow at 50 Pa,Q_(10) (m^(3)/h) | EquivalentLeakageArea at 10 Pa(cm^(2)) | Uncertainty | Figure |
+| --- | --- | --- | --- | --- | --- |
+| The Villa (excluding the specified test zones) | 497.30 | 1385.0 | 444.0 | \pm 5.4\% | Pressurize P = 0.9983
+Depressurize P = 0.9983
+Depressurize P = 0.9975
+
+(log) Pressure (Pa) |
+</table>
+</table_group>
+
+
+<heading page="15" section="5. Discussion" source="author" id="/page/14/SectionHeader/3" level="4">
+#### 5. Discussion
+</heading>
+
+<text page="15" section="5. Discussion" source="author" id="/page/14/Text/4">
+The results before and after applying the sealants indicate a satisfactory reduction of air leakage in the villa. Figure 3 illustrates the percentage of air leakage drop. This shows that the children's room experienced the most significant drop of 70.15% in airflow at 10 Pa, Q10 (\rm m^3/h), and 67.95% in airflow at 50 Pa, Q10 (\rm m^3/h). The smallest drop was in the home office with a fall of 0.16% in airflow at 10 Pa, Q10 (\rm m^3/h), and 1.04% in airflow at 50 Pa, Q10 (\rm m^3/h). The master bedroom exhibited a significant discrepancy between 10 Pa and 50 Pa. For instance, at 10 Pa, Q10 (\rm m^3/h), the drop was 12.30%, while at airflow at 50 Pa, Q10 (\rm m^3/h), it was 5.54%. As indicated in Table 3, this suggests that the foam was an extremely efficient airtight strategy.
+</text>
+
+<figure_group page="15" section="5. Discussion" source="author" id="/page/14/FigureGroup/63">
+<figure page="15" section="5. Discussion" source="author" id="/page/14/Figure/5" image="A3.R88_fig07.jpg">[FIGURE: see A3.R88_fig07.jpg]</figure>
+<caption page="15" section="5. Discussion" source="author" id="/page/14/Caption/6">
+Figure 3. Percentage of air leakage drop.
+</caption>
+</figure_group>
+
+</page>
+<page number="16">
+<text page="16" section="5. Discussion" source="author" id="/page/15/Text/0">
+Sustainability **2022**, 14, 14760 16 of 18
+</text>
+
+<text page="16" section="5. Discussion" source="author" id="/page/15/Text/1">
+The energy consumption per year was detected and calibrated with the previous year (when the sealants were not applied). Figure 4 presents the results. This indicates that the base case energy consumption was 64,287 kWh per year. The energy consumption then decreased after applying the sealants to 62,341 kWh per year. This represents a fall of 3% from the base case due to airtightness. According to the passive Haus standards, house airtightness should be under 280 cfm 50. This was achieved in this research. Moreover, it complied with Building Regulations standards (Part L1A) on airtightness, which states that this leakage can be no more than 10 \, \text{m}^3/\text{h}/\text{m}^2@50 \, \text{pa}—or 10 \, \text{m}^3/\text{h}. Additionally, in the UAE, the Dubai Green Building Regulation requires 10 \, \text{m}^3/\text{h}/\text{m}^2 @50 Pa for a building with a cooling load of 1 MW or greater.
+</text>
+
+<figure_group page="16" section="5. Discussion" source="author" id="/page/15/FigureGroup/75">
+<figure page="16" section="5. Discussion" source="author" id="/page/15/Figure/2" image="A3.R88_fig08.jpg">[FIGURE: see A3.R88_fig08.jpg]</figure>
+<caption page="16" section="5. Discussion" source="author" id="/page/15/Caption/3">
+Figure 4. Energy consumption before and after applying the sealants.
+</caption>
+</figure_group>
+
+
+<heading page="16" section="6. Conclusions" source="author" id="/page/15/SectionHeader/4" level="1">
+# 6. Conclusions
+</heading>
+
+<text page="16" section="6. Conclusions" source="author" id="/page/15/Text/5">
+Air leakage is a major cause of energy loss. Improving airtightness is one of the most cost-effective strategies for decreasing energy loads due to the building envelope. Moreover, the longevity of the materials used to achieve airtightness is vital. The aim of this study was to apply and compare the performance of six different airtightness materials. A typical residential building in UAE was chosen as a case study. The infrared technique was used to indicate the airflow locations. The blower door technique was used before and after applying the sealants. The results demonstrated that the foam was the best sealant as it reduced the airflow at 10 Pa, Q10 (m³/h) by 70.15%, and airflow at 50 Pa, Q10 (m³/h) by 67.95%. The energy consumption therefore dropped by 3% over the course of a year. The findings of this research will inspire building stakeholders in hot regions to choose better and durable materials. For future research, the following suggestions are made: (1) carry out research in different locations with different climatic contexts; (2) test different sealant materials; (3) use a similar method for a case study building with a different function, for example, commercial buildings, and (4) test sealant durability for more than one year.
+</text>
+
+<text page="16" section="6. Conclusions" source="author" id="/page/15/Text/6">
+**Funding:** This research is funded by the Britih University in Dubia, Facluty of Engineering. **Informed Consent Statement:** Informed consent was obtained from all subjects involved in the study.
+</text>
+
+</page>
+<page number="17">
+<text page="17" section="6. Conclusions" source="author" id="/page/16/Text/0">
+*Sustainability* **2022**, *14*, 14760 17 of 18
+</text>
+
+<text page="17" section="6. Conclusions" source="author" id="/page/16/Text/1">
+**Acknowledgments:** The author would like to thank the BuildingDoctor company [[19]](#page-16-18) in the UAE who dedicated their time and efforts to help the author and contributed to the accuracy of the experimental work. The author thanks the British University in Dubai for providing the funds to run this research.
+</text>
+
+<text page="17" section="6. Conclusions" source="author" id="/page/16/Text/2">
+**Conflicts of Interest:** The author declares no conflict of interest.
+</text>
+
+
+<heading page="17" section="**References**" source="author" id="/page/16/SectionHeader/3" level="1">
+# **References**
+</heading>
+
+<text page="17" section="**References**" source="author" id="/page/16/Text/4">
+1. IEA. Energy Efficiency: The Global Exchange for Energy Efficiency Policies, Data and Analysis. 2019. Available online: [https://www.iea.org/topics/energyefficiency/buildings/](https://www.iea.org/topics/energyefficiency/buildings/) (accessed on 26 October 2019).
+</text>
+
+<list page="17" section="**References**" source="author" id="/page/16/ListGroup/455">
+- 2. 2017 EmiratesGBC Report. Defining Nearly Zero Energy Buildings in the UAE. 2017. Available online: [https://emiratesgbc.org/](https://emiratesgbc.org/wp-content/uploads/2017/03/defining-nzebs-in-the-uae-2017.pdf) [wp-content/uploads/2017/03/defining-nzebs-in-the-uae-2017.pdf](https://emiratesgbc.org/wp-content/uploads/2017/03/defining-nzebs-in-the-uae-2017.pdf) (accessed on 21 October 2018).
+- 3. Worldbank. CO^(2) Emissions. 2017. Available online: [https://data.worldbank.org/indicator/en.atm.co2e.pc](https://data.worldbank.org/indicator/en.atm.co2e.pc) (accessed on 21 October 2018).
+- 4. Emmerich, S.J. *Investigation of the Impact of Commercial Building Envelope Airtightness on HVAC Energy Use*; Forgotten Books: Gaithersburg, MD, USA, 2018.
+- 5. Sinnott, D.; Dyer, M. Air-tightness field data for dwellings in Ireland. *Build. Environ.* **2012**, *51*, 269–275. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2011.11.016)
+- 6. Bracke, W.; Laverge, J.; Bossche, N.V.D.; Janssens, A. Durability and Measurement Uncertainty of Airtightness in Extremely Airtight Dwellings. *Int. J. Vent.* **2016**, *14*, 383–393. [[CrossRef]](http://doi.org/10.1080/14733315.2016.11684095)
+- 7. Bracke, W.; Bossche, N.V.D.; Janssens, A. Airtightness of Building Penetrations: Air Sealing Solutions, Durability Effects and Measurement Uncertainty. In Proceedings of the 35th Conference: Ventilation and Airtightness in Transforming the Building Stock to High Performance, Poznan, Poland, 24–25 September 2014; pp. 488–500.
+- 8. Sherman, M.; Chan, R. Building airtightness: Research and practice. Lawrence Berkeley National Laboratory Report No. LBNI-53356. In *Building Ventilation*; Routledge: London, UK, 2004.
+- 9. Clean Energy Business Council. Energy Efficiency in the GCC: Status and Outlook. 2019. Available online: [http://cebcmena.com/](http://cebcmena.com/wp-content/uploads/2018/03/CEBC-Energy-Efficiency-in-the-GCC-January-2018-REV2.pdf) [wp-content/uploads/2018/03/CEBC-Energy-Efficiency-in-the-GCC-January-2018-REV2.pdf](http://cebcmena.com/wp-content/uploads/2018/03/CEBC-Energy-Efficiency-in-the-GCC-January-2018-REV2.pdf) (accessed on 30 October 2019).
+- 10. Chan, W.; Joh, J.; Sherman, M.H. Analysis of air leakage measurements of US houses. *Energy Build.* **2013**, *66*, 616–625. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2013.07.047)
+- 11. Giusti, L.; Almoosawi, M. Impact of building characteristics and occupants' behavior on the electricity consumption of households in Abu Dhabi (UAE). *Energy Build.* **2017**, *151*, 534–547. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2017.07.019)
+- 12. Energy-Efficient Florida Home Building Manual. Annual Cooling Load Components. Available online: [http://www.fsec.ucf.](http://www.fsec.ucf.edu/en/consumer/buildings/homes/priorities.htm) [edu/en/consumer/buildings/homes/priorities.htm](http://www.fsec.ucf.edu/en/consumer/buildings/homes/priorities.htm) (accessed on 21 October 2018).
+- 13. Tanyer, A.M.; Tavukçuoglu, A.; Bekboliev, M. Assessing the airtightness performance of container houses in relation to its effect on energy efficiency. *Build. Environ.* **2018**, *134*, 59–73. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2018.02.026)
+- 14. Mohamadi, Y.; Mirnoori, S.V. The Impact of Airtightness on Energy Conservation of Conventional Cypriot Detached Houses. *Int.* *J. Eng. Technol.* **2012**, *4*, 705–712. [[CrossRef]](http://doi.org/10.7763/IJET.2012.V4.467)
+- 15. Emmerich, S.J.; McDowell, T.P.; Anis, W. *Investigation of the Impact of Commercial Building Envelope Airtightness on HVAC Energy* *Use*; National Institute of Standards and Technology: Gaithersburg, MD, USA, 2009.
+- 16. World Data. Energy Consumption in the United Arab Emirates. 2018. Available online: [https://www.worlddata.info/asia/arab](https://www.worlddata.info/asia/arab-emirates/energy-consumption.php)[emirates/energy-consumption.php](https://www.worlddata.info/asia/arab-emirates/energy-consumption.php) (accessed on 28 October 2018).
+- 17. Emirates Green Building Council. Airtightness of Buildings in the Middle East. 2019. Available online: [https://emiratesgbc.](https://emiratesgbc.org/wp-content/uploads/2015/08/EGBC-TW_Brief_Airtightness-of-buildings-in-the-Middle-East-FINAL.pdf) [org/wp-content/uploads/2015/08/EGBC-TW_Brief_Airtightness-of-buildings-in-the-Middle-East-FINAL.pdf](https://emiratesgbc.org/wp-content/uploads/2015/08/EGBC-TW_Brief_Airtightness-of-buildings-in-the-Middle-East-FINAL.pdf) (accessed on 10 December 2019).
+- 18. Fernández-Agüera, J.; Domínguez-Amarillo, S.; Alonso, C.; Martín-Consuegra, F. Thermal comfort and indoor air quality in low-income housing in Spain: The influence of airtightness and occupant behaviour. *Energy Build.* **2019**, *199*, 102–114. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2019.06.052)
+- 19. Vinha, J.; Manelius, E.; Korpi, M.; Salminen, K.; Kurnitski, J.; Kiviste, M.; Laukkarinen, A. Airtightness of Residential Buildings in Finland. *Build. Environ.* **2015**, *93*, 128–140. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2015.06.011)
+- 20. Fernández-Agüera, J.; Domínguez-Amarillo, S.; Sendra, J.J.; Suárez, R.; Oteiza, I. Social Housing Airtightness in Southern Europe. *Energy Build.* **2019**, *183*, 377–391. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2018.10.041)
+- 21. Lee, D.-S.; Jeong, J.-W.; Jo, J.-H. Experimental Study on Airtightness Test Methods in Large Buildings; Proposal of Averaging Pressure Difference Method. *Build. Environ.* **2017**, *122*, 61–71. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2017.06.003)
+- 22. Bossche, N.V.D.; Janssens, A. Airtightness and watertightness of window frames: Comparison of performance and requirements. *Build. Environ.* **2016**, *110*, 129–139. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2016.09.034)
+- 23. Ji, Y.; Duanmu, L. Airtightness Field Tests of Residential Buildings in Dalian, China. *Build. Environ.* **2017**, *119*, 20–30. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2017.03.043)
+- 24. Mortensen, L.H.; Bergsøe, N.C. Air tightness measurements in older Danish single-family houses. *Energy Procedia* **2017**, *132*, 825–830. [[CrossRef]](http://doi.org/10.1016/j.egypro.2017.10.016)
+- 25. Colijn, M.; Entrop, A.; Toxopeus, M. Evaluating the effectiveness of improved workmanship quality on the airtightness of Dutch detached houses. *Energy Procedia* **2017**, *132*, 843–848. [[CrossRef]](http://doi.org/10.1016/j.egypro.2017.09.670)
+- 26. Feijó-Muñoz, J.; González-Lezcano, R.A.; Poza-Casado, I.; Padilla-Marcos, M.Á.; Meiss, A. Airtightness of Residential Buildings in the Continental Area of Spain. *Build. Environ.* **2019**, *148*, 299–308. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2018.11.010)
+</list>
+
+</page>
+<page number="18">
+<text page="18" section="**References**" source="author" id="/page/17/Text/0">
+*Sustainability* **2022**, *14*, 14760 18 of 18
+</text>
+
+<text page="18" section="**References**" source="author" id="/page/17/Text/1">
+27. Alev, U.; Uus, A.; Kalamees, T. Airtightness improvement solutions for log wall joints. *Energy Procedia* **2017**, *132*, 861–866. [[CrossRef]](http://doi.org/10.1016/j.egypro.2017.09.678)
+</text>
+
+<list page="18" section="**References**" source="author" id="/page/17/ListGroup/217">
+- 28. Cuce, E. Role of airtightness in energy loss from windows: Experimental results from in-situ tests. *Energy Build.* **2017**, *139*, 449–455. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2017.01.027)
+- 29. Sinnott, D. Dwelling airtightness: A socio-technical evaluation in an Irish context. *Build. Environ.* **2016**, *95*, 264–271. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2015.08.022)
+- 30. Liu, W.; Zhao, X.; Chen, Q. A novel method for measuring air infiltration rate in buildings. *Energy Build.* **2018**, *168*, 309–318. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2018.03.035)
+- 31. Ambrose, M.; Syme, M. Air Tightness of New Australian Residential Buildings. *Procedia Eng.* **2017**, *180*, 33–40. [[CrossRef]](http://doi.org/10.1016/j.proeng.2017.04.162)
+- 32. Ng, L.C.; Persily, A.K.; Emmerich, S.J. Improving infiltration modeling in commercial building energy models. *Energy Build.* **2015**, *88*, 316–323. [[CrossRef]](http://doi.org/10.1016/j.enbuild.2014.11.078)
+- 33. Hassan, O.A. An alternative method for evaluating the air tightness of building components. *Build. Environ.* **2013**, *67*, 82–86. [[CrossRef]](http://doi.org/10.1016/j.buildenv.2013.05.007)
+- 34. European Commission. Directive 2002/91/EC of the European Parliament and of Council of 16 December 2002 on Energy Performance of Buildings. 2003. Available online: [https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32002L0091](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX%3A32002L0091) (accessed on 17 May 2022).
+- 35. American Society of Testing &amp; Materials. *Annual Book of ASTM Standards*, 1st ed.; Astm International: West Conshohocken, PA, USA, 2006. Available online: [https://infostore.saiglobal.com/en-us/american-society-for-testing-and-materials-astm](https://infostore.saiglobal.com/en-us/american-society-for-testing-and-materials-astm-standards/?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZsrGn9Z5DblsBtZIwR9XfYm-T9bkzjzKYx9NjRfqlr8-x9bKpyvqfRoC_j4QAvD_BwE&amp;gclsrc=aw.ds)[standards/?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZsrGn9Z5DblsBtZIwR9XfYm-T9bkzjzKYx9NjRfqlr8-x9bKpyvqfRoC_j4](https://infostore.saiglobal.com/en-us/american-society-for-testing-and-materials-astm-standards/?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZsrGn9Z5DblsBtZIwR9XfYm-T9bkzjzKYx9NjRfqlr8-x9bKpyvqfRoC_j4QAvD_BwE&amp;gclsrc=aw.ds) [QAvD_BwE&amp;gclsrc=aw.ds](https://infostore.saiglobal.com/en-us/american-society-for-testing-and-materials-astm-standards/?gclid=CjwKCAjwzY2bBhB6EiwAPpUpZsrGn9Z5DblsBtZIwR9XfYm-T9bkzjzKYx9NjRfqlr8-x9bKpyvqfRoC_j4QAvD_BwE&amp;gclsrc=aw.ds) (accessed on 12 September 2021).
+- 36. Lanzoni, D. *Building Thermography: Including Blower Door and Heat Flux Meter (Infrared Thermography)*; CreateSpace Independent Publishing Platform: Charleston, SC, USA, 2015; Volume 1.
+- 37. Sherman, M. A Power-Law Formulation of Laminar Flow in Short Pipes. *J. Fluids Eng.* **1992**, *114*, 601–605. [[CrossRef]](http://doi.org/10.1115/1.2910073)
+- 38. Airtightness Testing &amp; Measurement Association. Technical Standards L1: Measuring Air Permeability of Building Envelopes (Deswellings). 2010. Available online: [www.bindt.org](www.bindt.org) (accessed on 30 January 2020).
+- 39. Geleziunas, V.; Banioois, K.; Paukstys, V.; Kumziene, J. Development of Air Tightness Prediction Method of Masonry Walls. 2020. Available online: [https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/32/e3sconf_nsb2020_05009.pdf](https://www.e3s-conferences.org/articles/e3sconf/pdf/2020/32/e3sconf_nsb2020_05009.pdf) (accessed on 20 September 2020).
+</list>
+
+</page>
+</paper>

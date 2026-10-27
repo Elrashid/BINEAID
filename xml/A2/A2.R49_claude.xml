@@ -1,0 +1,312 @@
+<paper source_file="A2.R49" title="Introduction" total_pages="13" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+
+<heading page="1" section="Introduction" source="author" id="/page/0/SectionHeader/2" level="3">
+### Introduction
+</heading>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/3">
+Public policies are omnipresent in our daily lives. Newspapers, the television, and the internet provide a constant supply of information on the making of public policies from the regulation of genetic engineering or blood alcohol limits for the operation of a vehicle to the financing of infrastructure projects like new roads or the level of income tax. Being indirectly confronted with policy decisions through media coverage is one thing, but almost every aspect of our daily life is to some extent directly regulated through public policy decisions of which we are often entirely unaware.
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/4">
+To illustrate this point, let us take a look at the daily routine of an average university student. Taking the bus to campus and back home after the classes have finished is governed by local traffic policy. The responsible local authority may decide the number of buses to be employed, their schedules, the routes of the individual lines and ticket prices, or, in a privatized system, may regulate bus companies' activities. At the university, the credits needed to be able to graduate, the possibility to study abroad through exchange programmes such as the Erasmus programme, and the level of tuition fees are central issues of higher education policy. Should a student get sick, health policies determine the costs and quality of the medical services. After graduation, former students applying for jobs will be affected by labour and income tax policy. In the event of economic recession individuals may also have to apply for unemployment benefits – a central area of social policy. These examples show that virtually nobody can escape the consequences of public policies in whichever country they live.
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/5">
+Consequently, learning more about the making of public policies must be seen as an important complement to all other themes addressed by the discipline of political science. Ranging much more broadly than just analysing political institutions, government behaviour, political parties, interest groups, or elections, the study of public policies concerns the whole process of public decision-making (John 2006).
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/6">
+The study of public policies seeks to understand the production and effects of public actions. Students of public policy are interested in the processes and decisions that define the outputs of a political system, such as higher education policies, social services, environmental regulations, the administration of the health system, or the organization of a police force. But policy research also highlights the broader effects resulting
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="Introduction" source="author" id="/page/1/Text/3">
+from such policy decisions. To what extent do environmental regulations result in environmental quality improvements? What are the effects of budget cuts in the university system on educational performance? To what extent do changes in the organization of the public health system affect health levels?
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/4">
+If policy outputs and policy effects are the core topics of public policy, their study generally focuses on two fundamental issues: policy variation and policy change (see John 2003). Policy variation refers to the explanation of differences between public policies across sectors and countries. To what extent does policy-making differ in relation to say health policies compared to environmental or transport policies, and how can these differences be explained? And which factors account for similarities and differences in public policies between countries? Returning to our previous example on higher education policy, one might wonder why in one country there are tuition fees for university students and in others not. As we will see in Chapter 2, there is an ongoing debate in the literature as to whether and to what extent the shape of public policies is affected by sector- or country-specific factors (see Table 1.1).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/5">
+With regard to policy change, the central focus is on the explanation of stability and change. Often, public policies remain highly stable over time, although their functionality and effectiveness have constantly been questioned, as has been the case, for instance, for the agricultural policy of the European Union (EU) since the early 1980s. How can we explain the sometimes surprising stickiness and stability of public policies? At the same time, policies can be subject to swift and fundamental transformations. Why do stable periods of decision-making sometimes give way to flux and unpredictability? In responding to these questions, public
+</text>
+
+<table_group page="2" section="Introduction" source="author" id="/page/1/TableGroup/75">
+<caption page="2" section="Introduction" source="author" id="/page/1/Caption/6">
+Table 1.1 Basic research topics of public policy analysis
+</caption>
+<table page="2" section="Introduction" source="author" id="/page/1/Table/7">
+| Analytical dimension | Policy sectors | Countries | Time |
+| --- | --- | --- | --- |
+| Basic research question | Explanation of policy variation/similarity across sectors. | Explanation of policy variation/similarity across countries. | Explanation of policy change/ stability over time |
+| Potential combinations | Explanation of policy variation/similarity across sectors and countries; assessment of relative effect of sectoral versus national factors.Explanation of change in cross-national and/or cross-sectoral policy variation over time; assessment of policy convergence versus policy divergence or persistence of existing differences. |
+</table>
+</table_group>
+
+</page>
+<page number="3">
+<text page="3" section="Introduction" source="author" id="/page/2/Text/3">
+policy analysis often adopts a comparative research perspective and examines policy changes not only over time, but also across countries and different policy sectors (such as environmental or social policy). In this context, one particular area of interest is whether cross-country variations in public policies remain stable or conversely become more or less pronounced over the course of time. For example, the internationalization of certain issues such as environmental protection has resulted in an increasing cross-national similarity of policy arrangements (Holzinger *et al.* 2008a, 2008b).
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/4">
+It is the objective of this book to introduce the major analytical concepts, theories and state of the art tools of public policy analysis. In so doing, this book is designed to reach well beyond a mere description of public policies and the political processes producing them. It aims to invoke curiosity for analysing 'empirical puzzles' on the basis of compelling theoretical considerations, sound research designs and informative data.
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/5">
+This book takes a broadly positivist approach, seeking to explain variation and change in public policies on the basis of different frameworks and theories, with a particular emphasis on the resources, interests, norms, interrelationships and constraints of the involved actors (King et al. 1994; for a discussion see Keating 2009). While following this line of scientific reasoning, we acknowledge that this approach is not unchallenged in the literature. In particular, postpositivist or constructivist approaches to the study of public policy emphasize the complexity of social and empirical reality and the need to situate empirical inquiry in a broader interpretive framework. They question classical concepts of objectivity and proof and argue instead that the scientific interpretation of empirical evidence is strongly affected by the historical, political and social context in which scholars are located (see, e.g., Fischer 2003, 2006). However, we adopt a positivist approach here because in our view it is most suitable for attaining descriptive knowledge of the real world and therefore for shedding light on causal mechanisms.
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/6">
+This chapter provides an entrée to the study of policy-making in three steps. First, we need to get a basic understanding of the nature of the subject under study. What is a public policy and how can it be defined? Second, we outline the central analytical questions that have to be addressed in order to learn more about the processes, structures and problems characterizing the making of public policies. The chapter ends with an overview of the book's structure.
+</text>
+
+
+<heading page="3" section="What is a public policy?" source="author" id="/page/2/SectionHeader/7" level="4">
+#### What is a public policy?
+</heading>
+
+<text page="3" section="What is a public policy?" source="author" id="/page/2/Text/8">
+In political science, we generally find that there are three major subject areas that cut across the different subdisciplines: polity, politics and
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="What is a public policy?" source="author" id="/page/3/Text/3">
+policy. While polity refers to the institutional structures characterizing a political system, the study of politics concentrates on political processes, such as party political cleavages. The analysis of public policy, by contrast, puts the content of policies centre stage. Rather than focusing on institutions or processes, the research interest is on the analysis of the outputs of a political system, i.e. the decisions, measures, programmes, strategies and courses of action adopted by the government or the legislature.
+</text>
+
+
+<heading page="4" section="Polity, politics and policy" source="author" id="/page/3/SectionHeader/4" level="4">
+#### Polity, politics and policy
+</heading>
+
+<text page="4" section="Polity, politics and policy" source="author" id="/page/3/Text/5">
+The focus on public policies, however, does not imply that polity and politics are not taken into account. On the contrary, these dimensions play an important role in explaining policy change as well as policy differences across countries. So, an important question of public policy analysis concerns the policy implications of a country's political institutions (its polities). Do polities have a crucial impact on policy-making? Which polities perform better? Likewise, the decision-making processes (politics) in a country are important for public policy choices. In this regard, a prominent argument is that countries reveal distinctive policy styles, i.e. more or less stable patterns that characterize the policy process (politics), which in turn affect the nature and design of their policies (Richardson 1982). By reversing this assumed causal relationship, Theodore Lowi (1964) developed his classical distinction of different policy types, arguing that different policy areas tend to be characterized by different politics which involve more or less conflicting interactions between political actors. So, even if our analytical focus is on the study of public policy, the polity and politics dimensions play an important role either as factors explaining public policies or as phenomena that are determined by policy types.
+</text>
+
+
+<heading page="4" section="Elements of a public policy" source="author" id="/page/3/SectionHeader/6" level="4">
+#### Elements of a public policy
+</heading>
+
+<text page="4" section="Elements of a public policy" source="author" id="/page/3/Text/7">
+Having introduced the linkages between polity, politics and policies, we still have to clarify what the term 'public policy' actually means. In the scholarly literature, there is a general consensus that a public policy can be defined as a course of action (or non-action) taken by a government or legislature with regard to a particular issue. Although this definition is very broad, it emphasizes two constitutive elements. First, public policies refer to actions of public actors (typically governments), although societal actors might to some extent be involved or participate in public decision-making. Second, governmental actions are focused on a specific issue, implying that the scope of activities is restricted to addressing a certain aspect or problem (such as air pollution control, animal protection, internet content or the liberalization of the telecommunications sector).
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="Elements of a public policy" source="author" id="/page/4/Text/3">
+Although this general definition seems straightforward, there is, however, considerable variance in its concrete specification. With regard to public actions, for example, some authors insist that the presence of a policy requires the adoption of a larger number of related legislative and administrative activities (see Knoepfel et al. 2007: 24). Other scholars adopt a narrower definition and consider single governmental decisions or legal acts as public policies. This perspective has been prominent in the study of changes to welfare state expenditure (for an overview, see Green-Pedersen 2007). In this book, we will argue that the extent to which the presence of a public policy requires only one or a system of interrelated actions strongly depends on the issue at hand. Sometimes one single legal act might be very encompassing and entail a broad range of different activities, while in other constellations it might only constitute one out of several important elements of a public policy. It is hence not possible to specify generally a threshold number of courses of action as defining a 'public policy'.
+</text>
+
+<text page="5" section="Elements of a public policy" source="author" id="/page/4/Text/4">
+In addition, we find different conceptions with regard to the nature of public policies as issue related. On the one hand, such policies are seen as governmental activities made in response to given societal or political problems. In other words, policy-making is conceived as a problemsolving activity (Lasswell 1956; Birkland 2010: 7-11). On the other hand, policy-making can be regarded as a means of exerting power by one social group over another (Knoepfel et al. 2007: 21-2). According to this perspective, the existence and particular design of policies are intended to protect the interests of certain groups, while disadvantaging others. For example, studies of political clientelism deal with this aspect, i.e. the distribution of selective benefits to individuals or clearly defined groups in exchange for political support (see Kitschelt and Wilkinson 2007). It is certainly true that 'all governments . . . give greater weight to the preferences of those citizens with more political power than to the preferences of those with less political power" (Miller 2004: 20). However, this does not mean that public policies represent ends in themselves. While the design of a given public policy might reflect the differential power resources of social groups, this need not call into question the need for a specific problem to exist or to be perceived in order for the policy-making process to be initiated. As a consequence, the problemsolving and power perspectives on public policy-making seem in practice to be compatible with each other.
+</text>
+
+
+<heading page="5" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/4/SectionHeader/5" level="4">
+#### Differences in scope: sectors, targets and instruments
+</heading>
+
+<text page="5" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/4/Text/6">
+So far, we have gained a basic understanding of the central elements that constitute a public policy. However, this still leaves us with a broad range of activities that might constitute public policies. This can be illus-
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/3">
+trated by the fact that the term 'policy' is used for activities of very different scope.
+</text>
+
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/4">
+First, it is often used to cover a whole range of different measures in a certain sector, such as environmental policy, social policy, economic policy or fiscal policy. Used this way, the term grasps more than one legal act or political programme that belongs to the whole range of legal and administrative activities that are related to a particular distinctive policy field.
+</text>
+
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/5">
+Second, a similar approach is used to describe public activities in policy subfields. In most instances, it is possible to classify the public activities in a field along certain subthemes that cover functionally related measures. With regard to environmental policy, for example, subsectors refer to water policy, clean air policy, climate change policy and waste policy. In social policy, examples of subsectors include pension policy, unemployment policy and child benefits.
+</text>
+
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/6">
+Third, even within policy subfields, distinctive policy issues or targets can be identified. Taking clean air policy as an example, such targets include industrial discharges of different pollutants, urban air quality and car exhaust emissions. Hence a legal act – even if it is a markedly specific one – can address more than one policy target. For example, the 2004 Brazilian biosafety law is a broad-ranging piece of legislation that regulates all biotechnology activities in the country. The production of genetically manipulated soybeans represents one of many policy targets tackled by this law. Another is human cloning for reproductive purposes, which is banned under this law.
+</text>
+
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/7">
+A fourth – and the least abstract – usage of the term refers to its connection with regulatory instruments. While policy targets refer to what a legal act regulates, policy instruments define how they are regulated. For example, one of the main tasks of immigration policy is to regulate which individuals may legally enter a country. The most common instrument is the establishment of a preference system based on quotas, targets or a ceiling, which allocates a number of visas to certain groups of immigrants. Another – and clearly much stricter – instrument would be an official ban on immigration (Adolino and Blake 2011: 103–4).
+</text>
+
+<text page="6" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/5/Text/8">
+So we conceive of public policy in this book as a term that can refer to different phenomena, from the whole range of legal and administrative activities in a given policy field or subfield to concrete policy targets or – even more specifically – distinctive instruments. With this approach we will seek to attain a clearer description of the empirical phenomena under study. Reforms of child benefits, for instance, tend to be discussed in the media as if they could constitute a specific public policy. In reality, however, they represent only a single policy instrument. In a similar vein, smoking bans represent only one of many other instruments (such as the imposition of a tobacco tax) utilized by tobacco control policies.
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="Differences in scope: sectors, targets and instruments" source="author" id="/page/6/Text/3">
+Conversely, these two instruments relate to the corresponding policy target 'limiting tobacco consumption'.
+</text>
+
+
+<heading page="7" section="Analytical perspectives on the policy-making process" source="author" id="/page/6/SectionHeader/4" level="4">
+#### Analytical perspectives on the policy-making process
+</heading>
+
+<text page="7" section="Analytical perspectives on the policy-making process" source="author" id="/page/6/Text/5">
+So far, we have approached public policies from a merely substantive perspective, focusing on the central components that define a public policy. In this section, we adopt a procedural perspective on public policies and take a closer look at the specific phenomena characterizing the policy-making process. First, we will briefly present the different theoretical perspectives on the evolution of public policies. We will then distinguish the different stages of the policy process, which entail distinct research questions and which hence might serve as a basic analytical starting point for studying public policies.
+</text>
+
+
+<heading page="7" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/6/SectionHeader/6" level="1">
+# Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?
+</heading>
+
+<text page="7" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/6/Text/7">
+In the literature we find different attempts at analysing how public policies typically evolve or should evolve. While the rationalist approach defines an ideal conception of how policies should develop, the incrementalist perspective provides an explanation for the fact that in reality this ideal is hardly ever reached. A more radical view is the one advanced by the 'garbage can' model, which emphasizes that public policies often reveal the opposite pattern to that envisaged by rationalist models (Cohen *et al.* 1972).
+</text>
+
+<text page="7" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/6/Text/8">
+The rationalist approach conceives of policy-making as a process of problem-solving. Rather than seeking to explain the policy process, this approach prescribes an ideal conception of how policy-making should be organized and evolve in order to achieve optimal solutions to the underlying policy problems. Hence it entails a normative (how policies should evolve) rather than a positive perspective (how policy can be explained) on policy-making. This question of how optimally to develop public policies was at the heart of Lasswell's (1956) thinking. He argued that ideally the policy process should be based on different steps that follow a logical sequence: intelligence (collection and processing of all relevant knowledge and information), promotion (identification and support of selected alternatives), prescription (imposition of a binding decision), invocation (policy enforcement), termination (abrogation of policy), and appraisal (evaluation of policy effects against the backdrop of initial objectives and intentions).
+</text>
+
+<text page="7" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/6/Text/9">
+This prescription of how policies should be made was soon brought into question by its overly ambitious view of rational decision-making.
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/7/Text/3">
+The theory of incrementalism explicitly rejected the idea of public policy being made on the basis of a fully rational decision-making process (Hayes 2006: 19). It originates in Lindblom's (1959) path-breaking article 'The Science of Muddling through' and was further formalized by Hirschman and Lindblom (1962), Braybrooke and Lindblom (1963) and Lindblom (1965). Public policy is regarded as the political result of the interaction of various actors possessing different types of information. These actors need to make concessions and therefore policy-makers primarily concentrate on aspects that are less controversial and more technical. This process of 'partisan mutual adjustment' can only lead to one outcome: incremental policy change. Empirically, the basic aim of incrementalism – i.e. incremental policy change – has often been tested by using budgetary data (see Wildavsky 1964; Berry 1990; Breunig *et al.* 2010).
+</text>
+
+<text page="8" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/7/Text/4">
+Rather than an ideal, it purports to be a realistic description of how policy-makers arrive at their decisions. This implies that policy-makers act within the context of limited information, the cognitive restrictions of their minds, and the finite amount of time available for policy-making – all of which is largely congruent with the concept of 'bounded rationality' put forward by Simon (1955, 1957) and Cyert and March (1963). As a consequence, decision-makers apply their rationality only after having greatly simplified the choices available, turning them into 'satisficers' who seek a satisfactory solution rather than the optimal one: 'policy making is serial and remedial in that it focuses heavily on remedial measures that happen to be at hand rather than addressing itself to a more comprehensive set of goals and alternative policies' (Rajagopalan and Rasheed 1995: 291). In this way, policy-makers are not confronted with uncertain consequences which may result from more radical reforms.
+</text>
+
+<text page="8" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/7/Text/5">
+While incrementalism still presumes that policy-making is characterized by an – albeit bounded – rational process in which solutions are developed in response to existing problems, the garbage can model (Cohen *et al.* 1972) questions even these less strict rationality assumptions and disconnects problems, solutions and decision-makers from each other. In contrast to the rationalist and incrementalist perspectives, decisions do not follow an orderly process from problem to solution, but are the outcomes of several relatively independent streams of events, namely problems, solutions, choice opportunities and participants.
+</text>
+
+<text page="8" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/7/Text/6">
+In contrast to the conventional view that problems trigger decision-making processes, the garbage can model assumes that usually the involved actors within an organization go through the 'garbage' first and look for a suitable fix, i.e. the 'solution'. Hence solutions exist and develop independently of problems. The actors involved may have pre-existing ideas about possible solutions – they may be attracted to specific ones and volunteer to be their advocates. In many instances, solutions are
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="Basic theoretical perspectives on public policies: rational process design, muddling through or just chance?" source="author" id="/page/8/Text/3">
+prepared without knowledge of the problems they might have to solve. Organizations thus tend to produce many solutions which are later discarded due to a lack of appropriate problems. The independence of the problem and solution stream is further enhanced by the fact that participants may differ between the two streams: the actors involved in the development of solutions might be different from those who discuss the definition of the respective policy problems. Finally, the extent to which an existing solution might actually be linked to a problem is affected by whether or not a choice of opportunities exists, i.e. occasions when organizations are expected or perceive to be expected to produce a decision.
+</text>
+
+
+<heading page="9" section="Stages of the policy process" source="author" id="/page/8/SectionHeader/4" level="4">
+#### Stages of the policy process
+</heading>
+
+<text page="9" section="Stages of the policy process" source="author" id="/page/8/Text/5">
+So far, we have seen that the policy process can be approached from varying analytical angles that entail highly different assumptions with regard to the sequencing of policy-making. In the following it is not our objective to discuss the strengths and weaknesses of the different approaches or to rank them in light of their analytical relevance. Rather we ask if and to what extent it is analytically useful to distinguish between different stages of the policy process – notwithstanding the ambiguous picture that emerges from the previous theoretical discussion.
+</text>
+
+<text page="9" section="Stages of the policy process" source="author" id="/page/8/Text/6">
+In the literature, the most common approach is the distinction of different policy stages that can be integrated into a process model: the famous 'policy cycle'. This models the policy process as a series of political activities, which basically consists of the following phases: (1) problem definition and agenda-setting; (2) policy formulation and adoption; (3) implementation; and (4) evaluation (with the potential consequence of policy termination or reformulation).
+</text>
+
+<text page="9" section="Stages of the policy process" source="author" id="/page/8/Text/7">
+In many cases, the policy cycle model is interpreted as a sequential development, hence following closely the idea underlying the rationalist approach. Accordingly, the policy process starts with the identification of a societal problem and its placement on the government's agenda. Subsequently, various policy proposals are formulated, from which one will be adopted by the decision-makers. In the next stage, the adopted policy is enacted, before finally its impacts are evaluated. This last stage leads straight back to the first, indicating that the policy cycle is continuous and unending.
+</text>
+
+<text page="9" section="Stages of the policy process" source="author" id="/page/8/Text/8">
+In view of the previous theoretical discussion it is not surprising that the idea of a cyclical model based on a sequence of policy stages has been criticized. In particular, it has been emphasized that the model hardly corresponds to empirical reality, as the different stages might often overlap (see, e.g., Colebatch 2006; Jann and Wegrich 2007: 43–5). For instance, a reformulation of policies might occur during the implementation stage; or some phases might be skipped – policies are not
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Stages of the policy process" source="author" id="/page/9/Text/3">
+always subject to a systematic evaluation. Notwithstanding this criticism, the cycle model is employed as a standard approach for structuring the theories and concepts of public policy-making.
+</text>
+
+<text page="10" section="Stages of the policy process" source="author" id="/page/9/Text/4">
+In this book, we will depart from the classical cycle approach by not assuming a sequential model of the policy process, apart from the fact that current policy decisions are not independent of decisions taken before and that policies under discussion today may have 'knock-on effects' leading to further policies tomorrow (Newton and van Deth 2010: 266). In line with many other authors (see, e.g., Fischer *et al. *2007; Knoepfel et al. 2007; Hill 2009; Howlett et al. 2009; Anderson 2010; Birkland 2010), we consider it more useful to conceive of the different policy stages as potential analytical lenses on the policy-making process. Depending on the specific lens, we focus on distinctive questions and apply distinctive concepts and theories in order to explain observed patterns. If we focus on implementation, our major goal is to analyse and explain the extent to which we can observe deviations from the original policy goals. Looking at policy adoption, by contrast, the central objective is to explain adoption or non-adoption and in the case of policy formulation we want to account for the specific design of a policy. In other words, we consider the distinction of different stages as a heuristic tool that helps us to investigate the process of policy-making from different analytical angles (see Table 1.2).
+</text>
+
+<table_group page="10" section="Stages of the policy process" source="author" id="/page/9/TableGroup/67">
+<caption page="10" section="Stages of the policy process" source="author" id="/page/9/Caption/5">
+Table 1.2 Policy stages and related research topics
+</caption>
+<table page="10" section="Stages of the policy process" source="author" id="/page/9/Table/6">
+| Problemdefinition andagenda-setting | Policyformulationand adoption | Implementation | Evaluation |
+| --- | --- | --- | --- |
+| • Why doperceptions anddefinitions ofpolicy problemschange overtime/varyacross countries? | • How dopolicydecisionscome about? | • Why do certainpolicies fail? | • How canpolicyeffects(outcomesandimpacts) bemeasured? |
+| • Why are certainproblems ignoredwhile others areplaced on theagenda? | • How canpolicyoutputs beexplained? | • Which factorsaccount for thevariance inpolicyimplementation? | • Whichfactorsexplainvariation inpolicyeffects? |
+</table>
+</table_group>
+
+</page>
+<page number="11">
+
+<heading page="11" section="Studying public policy: approach and structure of this book" source="author" id="/page/10/SectionHeader/3" level="2">
+## Studying public policy: approach and structure of this book
+</heading>
+
+<text page="11" section="Studying public policy: approach and structure of this book" source="author" id="/page/10/Text/4">
+The study of public policy refers to the analysis of the contents, causes and conditions as well as the outcomes and impacts of governmental activities. It constitutes a highly diverse and dynamic research area. As emphasized above, it is nevertheless possible to identify dominant themes which guide the study of public policy, that is the explanation of policy variation and policy change across countries and policy sectors. These themes form the basic background for this book. At the same time, however, it is obvious that policy variation and change can be studied from very different perspectives, focusing, for instance, on the different elements of public policies or on the causal effects of different factors (such as socio-economic conditions, political and institutional factors, or international influences). Hence, even if we identify overarching research themes, there is still a need for additional analytical considerations that help to structure the analysis of public policy.
+</text>
+
+<text page="11" section="Studying public policy: approach and structure of this book" source="author" id="/page/10/Text/5">
+In this book, we differentiate between three analytical steps. First, we familiarize the reader with the basic analytical tools, concepts and theories that form the background for the study of public policy. In Chapter 2, we address key issues relating to the nature of public policy. In this context, several research questions are addressed. They include, first of all, the classical question about whether and to what extent it is possible analytically to distinguish different policy types. Second, a long-standing debate centres on the topic of policy styles. Is it possible to identify country- or sector-specific process patterns that characterize the making of public policies? Which factors account for differences in policy styles across countries or sectors?
+</text>
+
+<text page="11" section="Studying public policy: approach and structure of this book" source="author" id="/page/10/Text/6">
+In Chapter 3, we shift our focus to the central actors and institutions that are involved in the development, formulation, execution and evaluation of public policies. As already emphasized, public policies are affected by many factors, including in particular polity (the institutional context in which policies are developed and implemented) and politics (the interests of the involved public and societal actors and the cleavages and relationships between them). In order to shed more light on potential interlinkages between polity, politics and policy, we discuss the institutions and actors that are most central for understanding the making and shaping of public policies.
+</text>
+
+<text page="11" section="Studying public policy: approach and structure of this book" source="author" id="/page/10/Text/7">
+Chapter 4 provides an overview of general theories that are applied in order to explain policy variation and policy change. What are the central explanatory factors that are of relevance in this regard? In the literature, varying approaches can be identified. They include structural explanations (in which socio-economic structures and the pressure of problems constitute the basic explanatory variables); interest group models
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="Studying public policy: approach and structure of this book" source="author" id="/page/11/Text/2">
+(emphasizing the crucial role of the power and resources of societal interests); political economy accounts involving self-interested, vote-seeking politicians and budget-maximizing bureaucrats; models focusing on the ideological and programmatic differences between political parties; and institutional theories (in which major explanatory relevance is attached to the policy implications of a country's political institutions).
+</text>
+
+<text page="12" section="Studying public policy: approach and structure of this book" source="author" id="/page/11/Text/3">
+Having gained an understanding of the basics of public policy analysis, we shift the focus to the second analytic step: the specific analysis of the central stages of the policy process. So, different actors might be involved to different degrees during the stages of problem definition, agenda-setting, policy formulation and adoption, implementation, and evaluation - implying that constellations of strategic interaction as well as institutional rules affecting strategic opportunities and constraints for the involved actors will vary. If and to what extent theoretical models and explanatory approaches need to take account and be adjusted in the light of these aspects is an important research topic. This is further enhanced by the fact that the distinction of different stages typically goes hand in hand with different research questions that are addressed. For example, with regard to problem definition, the focus is on the factors that account for why a certain problem is perceived in a certain way. For agenda-setting, by contrast, we are interested in the reasons that explain why a certain problem is placed on the political agenda when others are not. With regard to policy adoption, the major focus is on the explanation of the specific policy design that is selected; while for the implementation stage, scholarly attention shifts to the analysis of the potential deviations from the original policy objectives and the underlying reasons for these shifts. Policy evaluation is about the effects of public policies.
+</text>
+
+<text page="12" section="Studying public policy: approach and structure of this book" source="author" id="/page/11/Text/4">
+Chapters 5 to 8 take up the phases of the policy cycle. Chapter 5 addresses the phase of problem definition and agenda-setting. The second phase of the policy cycle (decision-making) is explored in Chapter 6. Decision-making consists of two related concepts – policy formulation and policy adoption – which we will discuss at length. Of these two processes, policy adoption is more concerned with institutional arrangements, whereas policy formulation focuses more explicitly on the various forms of political power. Chapter 7 addresses the implementation of policies that have passed the adoption process. We outline why at the implementation stage bureaucrats might deviate from the goals originally formulated by policy-makers and we discuss how the likelihood of 'bureaucratic drift' can be effectively reduced. Once we have clarified how public policies come about, in Chapter 8 we shift our attention to policy evaluation.
+</text>
+
+<text page="12" section="Studying public policy: approach and structure of this book" source="author" id="/page/11/Text/5">
+In the third analytical step, we shift from a stage-centred analysis of the policy process to a study of the key topics of public policy that cut across different policy stages. In Chapter 9 we consider the topic of gov-
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="Studying public policy: approach and structure of this book" source="author" id="/page/12/Text/3">
+ernance – a term that has been much developed since the early 1990s. Governance typically refers to the distinctive analytical perspective on policy-making that emphasizes the sharing – sometimes even blurring – of competencies between public and private actors. It cuts across the policy stages model by focusing on the exchange relationships between public and private actors when they are confronted with political problems. By explicitly emphasizing the potential problem-solving contributions of private actors and the potential restrictions for public problem-solving capacities as a result of growing international and domestic-level interdependence, the governance perspective shifts the analytical focus from a purely state-centred perspective to one which deals with the patterns of state–society relations.
+</text>
+
+<text page="13" section="Studying public policy: approach and structure of this book" source="author" id="/page/12/Text/4">
+In Chapter 10 we take account of the fact that the development and implementation of national policies is increasingly overlapped by similar activities at the international level: the public policies which exist beyond the nation state. There are many reasons that favour the development of joint policies at the international level. At the same time, however, both the adoption and implementation of international policies are characterized by specific challenges that are increasingly addressed by scholars of public policy.
+</text>
+
+<text page="13" section="Studying public policy: approach and structure of this book" source="author" id="/page/12/Text/5">
+In Chapter 11, the focus is on the analysis of policy change and policy convergence. The study of policy change is a demanding one. Areas of policy change investigated by public policy scholars have included welfare state retrenchment and race-to-the-bottom scenarios in the fields of environmental protection and labour standards. Policy change is closely related to the concept of cross-national policy convergence. Convergence research investigates whether public policies in various countries become increasingly similar over time.
+</text>
+
+<text page="13" section="Studying public policy: approach and structure of this book" source="author" id="/page/12/Text/6">
+Finally, in Chapter 12 we summarize the main characteristics of policy-making on the basis of the explanations we have given in the course of this book. In addition, we point to potential avenues for improving the state of the art.
+</text>
+
+</page>
+</paper>

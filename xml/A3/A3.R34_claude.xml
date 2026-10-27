@@ -1,0 +1,127 @@
+<paper source_file="A3.R34" title="" total_pages="5" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R34_fig01.jpg">[FIGURE: see A3.R34_fig01.jpg]</figure>
+
+</page>
+<page number="2">
+<figure page="2" section="" source="author" id="/page/1/Picture/1" image="A3.R34_fig02.jpg">[FIGURE: see A3.R34_fig02.jpg]</figure>
+
+
+<heading page="2" section="**Contents **" source="author" id="/page/1/SectionHeader/2" level="1">
+# **Contents **
+</heading>
+
+<block type="TableOfContents" page="2" section="**Contents **" source="author" id="/page/1/TableOfContents/3">
+1 |Vision Statement 32 |Mission Statement 33 |Core Values 34 |STRATEGIC THEMES 45 |STRATEGIC GOALS 4
+</block>
+
+</page>
+<page number="3">
+<figure page="3" section="**Contents **" source="author" id="/page/2/Picture/1" image="A3.R34_fig03.jpg">[FIGURE: see A3.R34_fig03.jpg]</figure>
+
+<figure page="3" section="**Contents **" source="author" id="/page/2/Picture/2" image="A3.R34_fig04.jpg">[FIGURE: see A3.R34_fig04.jpg]</figure>
+
+
+<heading page="3" section="**BUiD Strategy 2025-2030**" source="author" id="/page/2/SectionHeader/3" level="4">
+#### **BUiD Strategy 2025-2030**
+</heading>
+
+
+<heading page="3" section="**Introduction **" source="author" id="/page/2/SectionHeader/4" level="3">
+### **Introduction **
+</heading>
+
+<text page="3" section="**Introduction **" source="author" id="/page/2/Text/5">
+The British University in Dubai (BUiD), as a non-for-profit leading research-based university in the UAE  and Arab Region, has been established in 2003 under the patronage of HH Maktoum Bin Rashid Al  Maktoum, the Former Ruler of Dubai. By implementing the education and scientific research systems  applied by the distinguished British universities alliance, the University has a rich history of academic  excellence, impactful research, innovation and social responsibility that contributed to raising the higher  education standard in Dubai Emirate and the UAE. Guided by its mission to empower students and drive  impactful research and innovation, the University strive to be a globally connected and recognized committed to fostering a sustainable future through dynamic and inclusive learning environments. Our  diverse student body benefits from a wide range of scholarships, educational programs and research  initiatives focused on educational, scientific, legal, business, and sociological research. This strategy  outlines how BUiD will continue to build upon its strengths and realize its ambitious vision. Through the  implementation of this strategy, the University will position itself as a leading knowledge hub for worldclass education, sustainable development, and transformative research, contributing significantly to the  UAE's future.
+</text>
+
+
+<heading page="3" section="**1 |** **Vision Statement**" source="author" id="/page/2/SectionHeader/6" level="3">
+### **1 |** **Vision Statement**
+</heading>
+
+<text page="3" section="**1 |** **Vision Statement**" source="author" id="/page/2/Text/7">
+*"**To be a globally connected and recognised university through academic excellence and impactful * *scholarly activities.**"*
+</text>
+
+
+<heading page="3" section="**2 |** **Mission Statement**" source="author" id="/page/2/SectionHeader/8" level="2">
+## **2 |** **Mission Statement**
+</heading>
+
+<text page="3" section="**2 |** **Mission Statement**" source="author" id="/page/2/Text/9">
+*"**BUiD empowers a diverse community of learners to achieve their highest potential through * *excellence in teaching, research, scholarship and innovation. The university fosters a culture of * *inclusivity, lifelong learning, sustainability, and entrepreneurship,* *and collaborates with world**renowned institutions to contribute to the local and global community.**"*
+</text>
+
+
+<heading page="3" section="**3** **|** **Core Values**" source="author" id="/page/2/SectionHeader/10" level="1">
+# **3** **|** **Core Values**
+</heading>
+
+<list page="3" section="**3** **|** **Core Values**" source="author" id="/page/2/ListGroup/159">
+- 1. Student-Centeredness: Prioritise the needs and success of students by providing a supportive  and enriching educational experience.
+- 2. Diversity and Inclusion: Create an inclusive environment that respects and values diversity in all  its forms, ensuring equal opportunities for all members of the university community.
+- 3. Research, Innovation and Entrepreneurship: Foster a culture of creativity, innovation, and
+</list>
+
+</page>
+<page number="4">
+<figure page="4" section="**3** **|** **Core Values**" source="author" id="/page/3/Picture/1" image="A3.R34_fig05.jpg">[FIGURE: see A3.R34_fig05.jpg]</figure>
+
+<list page="4" section="**3** **|** **Core Values**" source="author" id="/page/3/ListGroup/181">
+- entrepreneurship, driving cutting-edge research that addresses local and global challenges.
+- 4. Excellence: Commit to the highest national and international standards of academic, administrative, and research excellence.
+- 5. Sustainability: Promote environmental stewardship and sustainable practices in all university  operations and curricula.
+- 6. Integrity: Uphold the highest standards of integrity and transparency in all activities and  decisions.
+- 7. Lifelong learning: Facilitate and foster a culture of lifelong learning by encouraging and  empowering students and professionals to pursuit knowledge throughout their  careers/professional life.
+- 8. Social Responsibility and Community Engagement: Engage with local, national, and  international communities to address societal challenges and contribute to the public good and  preservation of the environment.
+</list>
+
+
+<heading page="4" section="**4** **|** **STRATEGIC THEMES**" source="author" id="/page/3/SectionHeader/8" level="2">
+## **4** **|** **STRATEGIC THEMES**
+</heading>
+
+<list page="4" section="**4** **|** **STRATEGIC THEMES**" source="author" id="/page/3/ListGroup/182">
+- 1. Enriched Student Experience
+- 2. Excellence-driven Research, entrepreneurship, and Innovation
+- 3. Sustainable Growth and Institutional Excellence
+- 4. Responsive Academic and Societal Engagement
+</list>
+
+
+<heading page="4" section="**5** **|** **STRATEGIC GOALS**" source="author" id="/page/3/SectionHeader/13" level="4">
+#### **5** **|** **STRATEGIC GOALS**
+</heading>
+
+<list page="4" section="**5** **|** **STRATEGIC GOALS**" source="author" id="/page/3/ListGroup/183">
+- 1. Enhance Academic Excellence and Global Recognition by providing world-class education that  meets national and international standards and prepares students for global challenges.
+- 2. Empower Students through Scholarships through providing financial support to talented and  meritorious students, ensuring access to education regardless of economic background.
+- 3. Leverage Technology for Innovative Learning by utilise advanced tools/practices to enhance the  learning experience and operational efficiency.
+- 4. Drive Transformative and Impactful Research by establishing BUiD as a leader in research that  addresses local, national, and international issues.
+- 5. Foster Innovation and Entrepreneurship through cultivating a culture of innovation and  entrepreneurship among students, faculty, and staff.
+- 6. Expand Global Partnerships and Collaborations by strengthening international ties and
+</list>
+
+</page>
+<page number="5">
+<figure page="5" section="**5** **|** **STRATEGIC GOALS**" source="author" id="/page/4/Picture/1" image="A3.R34_fig06.jpg">[FIGURE: see A3.R34_fig06.jpg]</figure>
+
+<list page="5" section="**5** **|** **STRATEGIC GOALS**" source="author" id="/page/4/ListGroup/42">
+- collaborations with the distinguished British universities and other distinguished international  universities to enhance educational and research opportunities.
+- 7. Strengthen Operational Excellence and Financial Sustainability by ensuring efficient and  effective operations to support BUiD's strategic goals and long-term viability.
+- 8. Promote Social Responsibility and Community Engagement through enhancing BUiD's role in  contributing to societal well-being and addressing social challenges
+</list>
+
+</page>
+</paper>

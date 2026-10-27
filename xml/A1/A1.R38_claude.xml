@@ -1,0 +1,901 @@
+<paper source_file="A1.R38" title="THE STATE OF THE ART" total_pages="29" figures="2" figures_with_images="2">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 2 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="THE STATE OF THE ART" source="cited" id="/page/0/SectionHeader/3" level="1">
+# THE STATE OF THE ART
+</heading>
+
+
+<heading page="1" section="What is neo-liberalism?" source="author" id="/page/0/SectionHeader/4" level="2">
+## What is neo-liberalism?
+</heading>
+
+
+<heading page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/SectionHeader/5" level="3">
+### Stephanie Lee Mudge
+</heading>
+
+<text page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/Text/6">
+Max Weber Programme, European University Institute (EUI), Villa La Fonte, San Domenico di Fiesole, Italy
+</text>
+
+<text page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/Text/7">
+Correspondence: stephanie.mudge@eui.eu; stephaniemudge@gmail.com
+</text>
+
+<text page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/Text/8">
+Neo-liberalism is an oft-invoked but ill-defined concept in the social sciences. This article conceptualizes neo-liberalism as a sui generis ideological system born of struggle and collaboration in three worlds: intellectual, bureaucratic and political. Emphasizing neo-liberalism's third 'face', it argues that a failure to grasp neo-liberalism as a political form imposes two limitations on understanding its effects: (i) fostering an implicit assumption that European political elites are 'naturally' opposed to the implementation of neo-liberal policies; and (ii) tending to preempt inquiry into an unsettling fact—namely, that the most effective advocates of policies understood as neo-liberal in Western Europe (and beyond) have often been elites who are sympathetic to, or are representatives of, the left and centre-left. Given that social democratic politics were uniquely powerful in Western Europe for much of the post-war period, neo-liberalism within the mainstream parties of the European left deserves particular attention.
+</text>
+
+<text page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/Text/9">
+Keywords: liberalism, neo-liberalism, economic thought, institutionalism, political economy
+</text>
+
+<text page="1" section="Stephanie Lee Mudge" source="author" id="/page/0/Text/10">
+JEL classification: A14 sociology of economics, B2 history of economic thought since 1925, F59 international relations and international political economy
+</text>
+
+
+<heading page="1" section="1. Introduction" source="author" id="/page/0/SectionHeader/11" level="1">
+# 1. Introduction
+</heading>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/12">
+In the 1990s, political observers began to note the demise, for better or for worse, of politics as we knew it. In the words of Crouch (1997, p. 352), the mainstream parties of the left came to live 'in a political world which is not of their making'1 —a world whose very structure is antithetical to the goals and principles of social democracy. A growing sociological literature traces an international turn towards free markets from the 1970s, placing particular emphasis on the production and export of the 'Washington consensus' from North to Central and
+</text>
+
+<footnote page="1" section="1. Introduction" source="author" id="/page/0/Footnote/13">
+^(1) Crouch refers here to the British New Labour victory in 1997, comparing it with Churchill's Conservatives' victory in 1951.
+</footnote>
+
+<footnote page="1" section="1. Introduction" source="author" id="/page/0/Footnote/14">
+^(#) The Author 2008. Published by Oxford University Press and the Society for the Advancement of Socio-Economics. All rights reserved. For Permissions, please email: journals.permissions@oxfordjournals.org.
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/3">
+South America (Campbell and Pedersen, 2001; Dezalay and Garth, 2002; Fourcade-Gourinchas and Babb, 2002; Babb, 2004; Massey et al., 2006). Focusing on the West, specialists in comparative politics cite the decline of partisan identities within the electorates of rich democracies, the rise of professional political parties that do not adhere to 'old' ideological divides, and the waning significance of partisan government as a predictor of macroeconomic policy choices (Boix, 2000; Dalton and Wattenberg, 2002; Fiorina, 2002).^(2) Meanwhile, a synthetic literature drawing from the 'institutionalisms' in economics, political science and sociology emphasizes the global spread of ideas as a central explanatory factor behind the diffusion of (neo)liberal policies (Henisz et al., 2005; Dobbin et al., 2007; Quinn and Toyoda, 2007).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/4">
+These strands of analysis strike a common chord: the emergence of a new landscape in which familiar political categories have shifting meanings and partisanship has unpredictable policy implications. How do we make sense of 'old' political categories in a neo-liberal age? This article contributes to the scholarship on this question by developing a historically grounded, tripartite concept of neoliberalism: as an intellectual–professional project, a repertoire of policies and a form of politics. Addressing a conceptual gap in the existing literature, I focus specifically on neo-liberalism's political face.
+</text>
+
+
+<heading page="2" section="2. Preview of main arguments" source="author" id="/page/1/SectionHeader/5" level="1">
+# 2. Preview of main arguments
+</heading>
+
+<text page="2" section="2. Preview of main arguments" source="author" id="/page/1/Text/6">
+The article makes three main arguments. First, neo-liberalism is a sui generis ideological system born of historical processes of struggle and collaboration in three worlds: intellectual, bureaucratic and political. Neo-liberalism, in other words, has three interconnected 'faces':
+</text>
+
+<list page="2" section="2. Preview of main arguments" source="author" id="/page/1/ListGroup/143">
+- (i) Neo-liberalism's intellectual face is distinguished by (a) its Anglo-Americananchored transnationality; (b) its historical gestation within the institutions of welfare capitalism and the Cold War divide and (c) an unadulterated emphasis on the (disembedded) market as the source and arbiter of human freedoms.
+- (ii) Its bureaucratic face is expressed in state policy: liberalization, deregulation, privatization, depoliticization and monetarism. This family of reforms is targeted at promoting unfettered competition by getting the state out of the businesses of ownership and getting politicians out of the business of dirigiste-style economic management. Neoliberal policies also aim to 'desacralize' institutions that had formerly been protected from the forces of private market competition, such as education and health care.
+</list>
+
+<footnote page="2" section="2. Preview of main arguments" source="author" id="/page/1/Footnote/9">
+The persistence of partisanship's decline is a matter of dispute (Hetherington, 2001).
+</footnote>
+
+</page>
+<page number="3">
+<text page="3" section="2. Preview of main arguments" source="author" id="/page/2/Text/3">
+(iii) Its political face is a new market-centric 'politics'—struggles over political authority that share a particular ideological centre or, in other words, are underpinned by an unquestioned 'common sense'. On the elite level,3 neoliberal politics is bounded by certain notions about the state's responsibilities (to unleash market forces wherever possible) and the locus of state authority (to limit the reach of political decision-making). They also tend to be oriented towards certain constituencies (business, finance and white-collar professionals) over others (trade unions, especially).
+</text>
+
+<text page="3" section="2. Preview of main arguments" source="author" id="/page/2/Text/4">
+Second, I argue that a failure to grasp neo-liberalism's intersection with politics imposes serious limitations on a social scientific grasp of its effects. The three faces of neo-liberalism share a common and distinctive ideological core: the elevation of the market—understood as a non-political, non-cultural, machinelike entity—over all other modes of organization. Neo-liberalism in this distinctive form was articulated in the intellectual field long ago but was discredited during the World Wars; it re-emerged in mainstream intellectual and political life since the 1970s with little regard for 'old' party distinctions or national boundaries.
+</text>
+
+<text page="3" section="2. Preview of main arguments" source="author" id="/page/2/Text/5">
+The third argument extends from the second: a tendency to focus on politics in Anglo-liberal countries or strictly within the ranks of the political right likely misses most of the 'action'. The neo-liberal era was born from a previous hegemonic age in which politics were bounded by welfarist, statist and Keynesian systems of thought: what could be termed 'social democratic politics'. This prior political form was particularly dominant in Western Europe, giving rise to some of the most extensive welfare institutions the world has known. Given their historical starting point as the beating heart of social democratic politics, neo-liberalism in the politics of the mainstream parties of the European left deserves special attention.
+</text>
+
+
+<heading page="3" section="3. Definitions and theoretical perspective" source="author" id="/page/2/SectionHeader/6" level="1">
+# 3. Definitions and theoretical perspective
+</heading>
+
+<text page="3" section="3. Definitions and theoretical perspective" source="author" id="/page/2/Text/7">
+Neo-liberalism is an oft-used term that can mean many different things. For Campbell and Pedersen (2001) neo-liberalism is:
+</text>
+
+<text page="3" section="3. Definitions and theoretical perspective" source="author" id="/page/2/Text/8">
+[A] heterogeneous set of institutions consisting of various ideas, social and economic policies, and ways of organizing political and economic activity... . Ideally, it includes formal institutions, such as minimalist welfare-state, taxation, and business regulation programs; flexible
+</text>
+
+<footnote page="3" section="3. Definitions and theoretical perspective" source="author" id="/page/2/Footnote/9">
+^(3) Although this discussion focuses on political elites, neo-liberal politics features a much broader array of actors—interest groups, grassroots organizations, non-party political organizations, and so forth operating on local, national and international levels (Evans, 2005; Prasad, 2006; Martin, 2008).
+</footnote>
+
+</page>
+<page number="4">
+<text page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Text/3">
+labor markets and decentralized capital–labor relations unencumbered by strong unions and collective bargaining; and the absence of barriers to international capital mobility. It includes institutionalized normative principles favoring free-market solutions to economic problems, rather than bargaining or indicative planning, and a dedication to controlling inflation even at the expense of full employment. It includes institutionalized cognitive principles, notably a deep, taken-for-granted belief in neoclassical economics. (Campbell and Pederson, 2001, p. 5, emphasis added)
+</text>
+
+<text page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Text/4">
+The institutionalist definition of neo-liberalism provides a useful starting point, but it lacks historicity and parsimony. A thorough definition should identify neo-liberalism in historical terms, specifying its origins and highlighting what differentiates it from its antecedents. What sits at neo-liberalism's core?
+</text>
+
+<text page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Text/5">
+Adding a historical basis to Campbell and Pedersen's definition, neo-liberalism is defined here as an ideological system that holds the 'market' sacred, born within the 'human' or social sciences and refined in a network of Anglo-American-centric knowledge producers, expressed in different ways within the institutions of the postwar nation-state and their political fields (Bourdieu, 1992, 1994, 2005; Bourdieu and Wacquant, 1992). Neo-liberalism is rooted in a moral project, articulated in the language of economics, that praises 'the moral benefits of market society' and identifies 'markets as a necessary condition for freedom in other aspects of life' (Fourcade and Healy, 2007, p. 287). This conception of neoliberalism fits squarely with Durkheimian perspectives that treat market-making as a process by which 'moral categories'—that is, the sacred and the profane—'are formed, contested, and transformed' (Fourcade and Healy, 2007, p. 301).4 As Durkheim (2001[1912]) argued, it is precisely because of an 'essentially religious faith' in science that its concepts—in this case, the notion of a free-standing, apolitical, machine-like 'market'—exert moral force (2001[1912], pp. 208, 439).
+</text>
+
+<text page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Text/6">
+The definition also highlights the fact that neo-liberalism has distinctive modes and expressions. It exists as an Anglo-centric intellectual–professional project of primarily economic academic and non-academic knowledge producers and other 'new class' actors (King and Szele´nyi, 2004), a set of policies extended via the bureaucracies of the former welfare state and a set of market-centric political orientations that structures the rhetorical parameters of political contest (Figure 1).
+</text>
+
+<text page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Text/7">
+In all its modes, neo-liberalism is built on a single, fundamental principle: the superiority of individualized, market-based competition over other modes
+</text>
+
+<footnote page="4" section="3. Definitions and theoretical perspective" source="author" id="/page/3/Footnote/8">
+^(4) On economics as moral philosophy and theology, see Hausman and McPherson (2006) and Nelson (2001).
+</footnote>
+
+</page>
+<page number="5">
+<figure_group page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/FigureGroup/92">
+<figure page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Figure/3" image="A1.R38_fig01.jpg">[FIGURE: see A1.R38_fig01.jpg]</figure>
+<caption page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Caption/4">
+Figure 1 Neo-liberalism's three faces.
+</caption>
+</figure_group>
+
+<text page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Text/5">
+of organization. This basic principle is the hallmark of neo-liberal thought—one with old roots that lay partly in Anglo economics and partly in German schools of liberalism.
+</text>
+
+<text page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Text/6">
+This article delineates neo-liberalism's three faces with an emphasis on the third: neo-liberal politics. Drawing from Bourdieu's notion of the political field, the term 'politics' denotes a particular kind of social terrain: a bounded space of struggle over political power that is structured by rules of access, where resources are differentially distributed among players and the set of legitimate positions on questions of government is constrained—that is, some political positions are beyond the boundaries of legitimate discourse in any given time and place. For this reason, the world of political possibilities is only partially subject to political actors' manipulation. In politics, then, the most influential kind of power is definitional: those with the ability to define political problems and the range of possible solutions exert a unique influence.
+</text>
+
+<text page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Text/7">
+This does not mean that political actors exert definitional authority spontaneously. Neo-liberal politics expresses a system of thought that originated outside of politics.5 In other words, political elites may well exert powers of definition by drawing—consciously or not—on ideological systems articulated in non-political spaces.
+</text>
+
+<footnote page="5" section="3. Definitions and theoretical perspective" source="author" id="/page/4/Footnote/8">
+^(5) My argument that symbolic resources are often produced outside of the political field contrasts with the institutionalist perspective that the constellation of institutions, actors and organizations that make up a political field constitutes the main breeding ground for symbolic resources ('cultural frames'; Stone-Sweet and Sandholtz, 1999; Stone-Sweet et al., 2001).
+</footnote>
+
+</page>
+<page number="6">
+
+<heading page="6" section="4. Neo-liberalism as intellectual –professional project6" source="author" id="/page/5/SectionHeader/3" level="1">
+# 4. Neo-liberalism as intellectual –professional project6
+</heading>
+
+<text page="6" section="4. Neo-liberalism as intellectual –professional project6" source="author" id="/page/5/Text/4">
+As an intellectual–professional project, neo-liberalism is 'neo' in three senses: (i) its simultaneous transnationality and anchoring in Anglo-American academe; (ii) its historically specific gestation within welfare capitalism and the Cold War divide (that is, as a response to the emergence of welfare capitalism in the North, a hegemonic social democratic discourse and political and intellectual divisions produced by the Cold War; Esping-Andersen, 1990; Lemke and Marks, 1992; Sassoon, 1996, 1997; Bockman and Eyal, 2002; Bockman, 2007; Therborn, 2007) and (iii) its unadulterated emphasis on the market as the source and arbiter of rights, rewards and freedoms—and, by extension, its marked disdain for politics, bureaucracies and the welfarist state.
+</text>
+
+
+<heading page="6" section="4.1 Anglo-anchored transnationality" source="author" id="/page/5/SectionHeader/5" level="2">
+## 4.1 Anglo-anchored transnationality
+</heading>
+
+<text page="6" section="4.1 Anglo-anchored transnationality" source="author" id="/page/5/Text/6">
+Neo-liberalism's intellectual 'face' is remarkable in part for its trans- and supra-nationality—that is, its loci in activities and organizational forms that lay beyond the boundaries of the nation-state—and for its geographical anchoring within Anglo-American academe. A substantial 'hegemonic project' literature emphasizes transnational networks of activists and free-market think tanks, right-wing political elites and the Chicago-based free-market branch of Anglo-American economics as key forces behind neo-liberalism's ascendance (Smith, 1993; Cockett, 1995; Valdes, 1995; Kelly, 1997; Bourdieu and Wacquant, 1999; Weyland, 1999; Bockman and Eyal, 2002; Dezalay and Garth, 2002; Babb, 2004; Kay, 2007; Power, 2005).^(7) These are the actors that are most easily understood, in certain terms, as 'neoliberals'.
+</text>
+
+<text page="6" section="4.1 Anglo-anchored transnationality" source="author" id="/page/5/Text/7">
+In addition to engaging in direct political action, neo-liberal intellectuals provided symbolic resources to political elites in the form of explanations for the failures of Keynesian and developmental policies and a new set of recommendations for economic recovery. These resources were deployed to varying effect via governments and organizations that were well situated to exert coercive and normative pressures at an international level: the American government (or rich
+</text>
+
+<footnote page="6" section="4.1 Anglo-anchored transnationality" source="author" id="/page/5/Footnote/8">
+^(6) I pair 'intellectual' with 'professional' here to highlight the fact that intellectuals are not merely purveyors of particular epistemes; they are also embedded in disciplinary professions, which have interests and competitive dynamics of their own (Abbott, 1988; Dezalay and Garth, 2002).
+</footnote>
+
+<footnote page="6" section="4.1 Anglo-anchored transnationality" source="author" id="/page/5/Footnote/9">
+Some of these works draw on field theory—which is characterized, among other things, by an explicit rejection of mechanistic, 'pinball' forms of explanation (Martin, 2003). Field theory 'purports to explain changes in the states of some elements [...] but need not appeal to changes in states of other elements (i.e., "causes")', where change is not produced because of objects 'whamming into one another' but rather because of 'an interaction between the field and the existing states of the elements' (2003, pp. 4, 7).
+</footnote>
+
+</page>
+<page number="7">
+<text page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Text/3">
+'core' countries in general), the OECD, the European Union, the International Monetary Fund (IMF) and the World Bank (Dezalay and Garth, 2002; Hanley et al., 2002; Stiglitz, 2002; Massey et al., 2006; Dobbin et al., 2007).^(8)
+</text>
+
+<text page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Text/4">
+Neo-liberalism's transformation from a marginalized set of intellectual convictions into a full-blown hegemonic force began with economic crisis, which weakened existing governments and rendered political elites amenable to a different system of thought. Economic stresses took hold from the mid-1960s (Harvey, 1989, 2005), but the source of a decisive end to the prosperity of the post-war era came in 1973, when the OPEC^(9) countries restricted output and prompted a fivefold increase in the price of oil (Prasad, 2006). As the costs of producing domestic goods rose, so did both inflation and unemployment—a development, termed 'stagflation', that defied Keynesian understandings of how economic systems worked and fostered new struggles over political authority.
+</text>
+
+<text page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Text/5">
+The symbolic resources from which many protagonists in these new struggles drew were Anglo-American in origin, provided by a particular branch of knowledge producers with professional investments of their own. Existing literature on this point lays out the America-centrism of neo-liberal economic thinking in two steps: (i) the political legitimation and professional elevation (within economics) of free market thought via the direct interventions of American and U.S.-trained economists in reform projects in Latin America, and (ii) the internationalization of the economics profession (partly via European integration) and the solidification of a kind of professional licensing power within American academe (Dezalay and Garth, 2002; Fourcade, 2006).
+</text>
+
+<text page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Text/6">
+Dezalay and Garth highlight the importance of the structurally analogous positions of neoclassical economists in the United States and Latin America during the Keynesian era. Marginalized in both the North and the South, free-market economists formed an 'unholy alliance' with conservative Republicans, media and business people and 'invested' internationally in new political projects. A prime example here is the Arnold Harberger's (of the University of Chicago) use of USAID assistance and philanthropic foundations to invest in foreign economics departments, such as the Catholic University in Santiago, Chile, home of the infamous 'Chicago Boys'. Chicago's southern counterparts used similar means to gain influence: building ties with the media and economists in the United States to accrue power in their home countries. This 'made for a remarkable story of
+</text>
+
+<footnote page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Footnote/7">
+^(8) There is disagreement on the question of the impact of IMF conditionality. More broadly, some question hegemonic analyses on the grounds that they fail 'to model the precise mechanism of diffusion or to consider alternative mechanisms' (Dobbin et al., 2007, p. 457). It is unclear that field-oriented explanations can be fairly critiqued within the framework of mechanistic analysis (see prior footnote).
+</footnote>
+
+<footnote page="7" section="4.1 Anglo-anchored transnationality" source="author" id="/page/6/Footnote/8">
+^(9) Organization of Petroleum Exporting Countries.
+</footnote>
+
+</page>
+<page number="8">
+<text page="8" section="4.1 Anglo-anchored transnationality" source="author" id="/page/7/Text/3">
+export and import, which then helped to build the credibility of the emerging Washington consensus' (Dezalay and Garth, 2002, p. 46).
+</text>
+
+<text page="8" section="4.1 Anglo-anchored transnationality" source="author" id="/page/7/Text/4">
+Once Chicago-trained economists were able to take credit for a new political consensus on economic management, they 'moved seamlessly toward the new focus on institutions and the state: the so-called move beyond the Washington consensus' (Dezalay and Garth, 2002, p. 47). Simultaneously embedded in positions of state power and in the international 'market of expertise', they legitimated their new powerful positions both from without and from within. The end result was that:
+</text>
+
+<text page="8" section="4.1 Anglo-anchored transnationality" source="author" id="/page/7/Text/5">
+[T]he criteria for legitimate expertise are set according to the international market centered in the United States. There is a new hierarchy that places elite U.S. professionals at the top [...] and within each country there is also a two-tier professional hierarchy. There is a cosmopolitan elite and an increasingly provincialized mass of professionals in law, economics and other fields. (Dezalay and Garth, 2002, p. 57)
+</text>
+
+<text page="8" section="4.1 Anglo-anchored transnationality" source="author" id="/page/7/Text/6">
+Fourcade (2006) places a related emphasis on the American-centrism of an increasingly internationalized economics profession. She argues that the internationalization of economics is important; first, because of the unique symbolic power it bestows upon economists 'to reconstruct societies according to the principles of the dominant economic ideology' (Fourcade, 2006, p. 157). Second, 'these transformations [...] feed back into the professionalization and social definition of economists worldwide' (ibid). While economics does not have a formal, closed licensing system, its internationalization as a profession has tended to work according to standards and practices defined in the transatlantic world, especially in the United States. The effect is that American graduate and professional schools primarily, and European schools secondarily, function 'as elite licensing institutions for much of the rest of the world', producing international convergence in the economics profession around Anglo-American professional standards as if it were a licensed field (Fourcade, 2006, p. 152).
+</text>
+
+
+<heading page="8" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/7/SectionHeader/7" level="2">
+## 4.2 Gestation within welfare capitalism and the Cold War
+</heading>
+
+<text page="8" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/7/Text/8">
+In its 'project' form, neo-liberalism can be understood as an interconnected set of counter-hegemonic political and intellectual struggles (Dezalay and Garth, 1998, 2002, 2006; Teles and Kenney, 2008). It gestated within a period marked by the rise of Soviet communism, the rise of the welfare state in Western democracies (the fabled 'Golden Age'; Esping-Andersen, 1997, 1999) and the dominance of Keynesian-style approaches to macroeconomic management (Hall, 1989). Politically, the project was supported by conservatives who were 'frustrated by what
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Text/3">
+they believed were international networks of leftist experts who preached and then implemented schemes for government expansion' (Teles and Kenney, 2008, p. 136). In the intellectual realm, it grew from a similar understanding of Keynesian era politics as defined by an essentially socialist impulse that would, one way or another, pave the way to totalitarianism.
+</text>
+
+<text page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Text/4">
+This story could be elaborated at length, but a brief account makes the case. The Depression and the World Wars fostered a broad debate among elites, and particularly intellectuals, seeking to explain Europe's civilizational breakdown and prescribe a path for re-building. Within this context, the Austrian economist Friedrich von Hayek became the charismatic centre of a network of laissez faire thinkers—a group set apart by its rejection of the widely accepted argument that capitalism run amok was the root cause of Europe's collapse. Marginalized from influence in mainstream politics in the early post-war period, this 'small and exclusive group of passionate advocates—mainly economists, historians and philosophers—built an intellectual sanctuary in Switzerland: the Mont Pelerin Society.10 The Society first met in 1947 under the auspices of Hayek—its first president—and his mentor Ludvig von Mises (Harvey, 2005, pp. 19–20).^(11)
+</text>
+
+<text page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Text/5">
+In his seminal work The Road to Serfdom (Hayek, 1994[1944])—dedicated to the 'socialists of all parties'—Hayek argued that both Soviet-style centralized economic planning and 'the extensive redistribution of incomes through taxation and the institutions of the welfare state' would have the same authoritarian result—although 'more slowly, directly and imperfectly' (ibid, p. xxiii) in the case of Western democracies. Written between 1940 and 1943 out of, in Hayek's words, an 'annoyance with the complete misinterpretation in English "progressive" circles with the character of the Nazi movement', Serfdom was a political intervention meant to correct tendencies to equate Nazism with capitalist excesses—that is, a refutation of the claim that the rise of fascism was prompted by 'the dying gasp of a failed capitalist system' (Hayek, 1994[1944], p. xxi).
+</text>
+
+<text page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Text/6">
+Serfdom was also directly inspired by the stirrings of the British welfare state. Hayek initially composed its basic argument in a memo to Sir William Beveridge, the director of the London School of Economics, in the early 1930s
+</text>
+
+<footnote page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Footnote/7">
+^(10)http://www.montpelerin.org/home.cfm. The first meeting of the Society had 36 participants. Harvey (2005, p. 20) notes that for the Mont Pelerin Society's members, '[t]he neo-liberal label signaled their adherence to those free market principles of neo-classical economics that had emerged in the second half of the nineteenth century (thanks to the works of Alfred Marshall, William Stanley Jevons, and Leon Walras) to displace the classical theories of Adam Smith, David Ricardo, and, of course, Karl Marx'.
+</footnote>
+
+<footnote page="9" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/8/Footnote/8">
+^(11)In the 1920s, Hayek worked as von Mises' student in Vienna, and was teaching at the University of London when Hitler came to power in 1933.
+</footnote>
+
+</page>
+<page number="10">
+<text page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Text/3">
+(Hayek 1994[1944]). Beveridge, undeterred by Hayek's arguments, authored the famous 1942 Beveridge Report, which articulated what would become the basic principles of British welfare in the post-war period.12 Frustrated by his inability to influence political currents in Britain,^(13) Hayek and his colleagues helped to create a transatlantic free-market movement that cross-cut the academic and nonacademic worlds. Thinkers involved in the work of the Mont Pelerin Society, for instance, were also involved in the establishment, legitimation and proliferation of two interconnected networks of associated free-market think tanks.
+</text>
+
+<text page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Text/4">
+Sir Antony Fisher stands out among the various significant figures involved in this effort. Fisher reportedly met Hayek at the LSE in 1945, where Hayek advised him to 'avoid politics and reach the intellectuals with reasoned argument'.14 Hayek's advice inspired Fisher to establish the Institute of Economic Affairs (IEA) in London in 1955 'to explain free-market ideas to the public, including politicians, students, journalists, businessmen, academics and anyone interested in public policy'.15 In the 1970s, Fisher would become a central force behind the establishment of free-market organizations, linking the IEA with new and existing organizations in other countries via at least two North American organizational nodes. One was the Fraser Institute in Vancouver (founded in 1974 by the Canadian businessman Pat Boyle; Cockett, 1995), now the centre of the 'Freedom Network' (Figure 2; Gunderson, 1989; Gwartney and Lawson, 2005, 2007).16
+</text>
+
+<text page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Text/5">
+A second, larger network developed around the Atlas Economic Research Foundation,^(17) established by Fisher in 1981 in Arlington, VA. More than 500 Atlas Foundation member organizations existed by the year 2008, ranging across most regions of the world (Figure 3).
+</text>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/6">
+^(12)Hayek remarked in his 1956 preface to Serfdom that 'it was already fairly obvious that England herself was likely to experiment after the war with the same kind of policies which I was convinced had contributed so much to destroy liberty elsewhere' (Hayek, 1994[1944], p. xxviii).
+</footnote>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/7">
+^(13)Though he intended Serfdom as a warning to 'the socialist intelligentsia of England', Hayek found a warmer reception in the United States. In 1938, his arguments were published in the Contemporary Review and later appeared as a 'Public Policy Pamphlet' by Professor Harry G. Gideonse at the University of Chicago (Hayek, 1994[1944], pp. xxvii–xxvii).
+</footnote>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/8">
+^(14)Source: http://www.iea.org.uk/record.jsp?type¼page&amp;ID¼24, accessed on February 13, 2007.
+</footnote>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/9">
+^(15)Source: http://www.iea.org.uk/record.jsp?type¼page&amp;ID¼24, accessed on February 13, 2007.
+</footnote>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/10">
+^(16)The Fraser Institute is affiliated with seven Nobel Laureate economists and has hosted Mont Pelerin Society meetings on at least three occasions: 1983, 1992 and 1999 (Fraser Institute, 2004). Fraser's seven associated Nobel Laureates together account for the presidencies of almost half of the Mont Pelerin Society's years of existence.
+</footnote>
+
+<footnote page="10" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/9/Footnote/11">
+^(17)Fisher established the Atlas Economic Research Foundation as an organizational node for international free-market organizations and a means of collecting and disseminating funding from private and corporate donors.
+</footnote>
+
+</page>
+<page number="11">
+<figure page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Figure/3" image="A1.R38_fig02.jpg">[FIGURE: see A1.R38_fig02.jpg]</figure>
+
+<text page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Text/4">
+Notes: Cumulative membership by five-year periods, according to founding year (N = 68; the founding years of 8 member organizations are unavailable).
+</text>
+
+<text page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Text/5">
+Source: Gwartney and Lawson (2005) and Freedom Network organizational websites (http://www.freetheworld.com/member.html, accessed on March 12, 2007).
+</text>
+
+<figure_group page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/FigureGroup/36">
+<caption page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Caption/6">
+Figure 2 The freedom network as of 2005.
+</caption>
+<figure page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Figure/7" image="A1.R38_fig03.jpg">[FIGURE: see A1.R38_fig03.jpg]</figure>
+</figure_group>
+
+<text page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Text/8">
+*Note*: Member organizations by region as of July 2008 (N = 514).
+</text>
+
+<text page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Text/9">
+Source: www.atlasusa.org/V2/main/acc.php (accessed on July 10, 2008).
+</text>
+
+<caption page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Caption/10">
+Figure 3 Atlas Economic Research Foundation and its member organizations.
+</caption>
+
+<text page="11" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/10/Text/11">
+The political effects of these kinds of knowledge-producing organizations are receiving increasing attention (Medvetz, 2007). Their influence depends on relationships with political parties and the state, not to mention competition
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/11/Text/3">
+with organizational challengers.^(18) Nonetheless, the fact of their proliferation is indicative of the breadth of neo-liberalism's international reach as an intellectual and professional project.
+</text>
+
+<text page="12" section="4.2 Gestation within welfare capitalism and the Cold War" source="author" id="/page/11/Text/4">
+Outside of the United States, free-market think tanks probably played a special role within the social spaces created by the Cold War divide—that is, in addition to the obvious role of providing a supply of neoliberal expertise after 1989.19 On the basis of a study at the Center for the Study of Economic and Social Problems (CESES)20 in Milan, Bockman (2007) argues that neo-liberal thought grew out of 'liminal spaces' between communism and capitalism, particularly after Stalin's death in 1953. She shows that neither the founders nor the participants in CESES activities had strong or consistent anti-communist identities (2007, pp. 349–350).21 Assembling thinkers whose orientations did not fit neatly on either side of the Iron Curtain, the CESES provided a crucial space in which knowledge producers shared knowledge about capitalism and the socialist experiment. Echoing earlier arguments (with Gil Eyal) as to the role of socialist countries as a laboratory for economic knowledge (Bockman and Eyal, 2002), Bockman highlights that the CESES became one of many sites of knowledge production that were essential for neo-liberalism's reach into the ranks of expert professionals and political elites.
+</text>
+
+
+<heading page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/SectionHeader/5" level="2">
+## 4.3 Market-centrism: markets as freedom
+</heading>
+
+<text page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/Text/6">
+Conceiving of neo-liberalism as a semi-religious project recalls Polanyi's discussion of the 'liberal creed' as a semi-religious belief system (Polanyi, 2001 [1944]). Here, 'neo' refers to a revival of a set of ideas dating to eighteenthand nineteenth-century England, re-tooled to fit the institutions and politics of the late post-war environment and updated with the concepts and technologies
+</text>
+
+<footnote page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/Footnote/7">
+^(18)For instance, a group of American intellectual and political figures established the Economic Policy Institute in 1986 'to broaden the discussion about economic policy to include the interests of low- and middle-income workers'. Its founders included Robert Reich, a union-friendly American thinker who would later become President Clinton's Secretary of Labor (Greenhouse, 1993; http://www.epi.org/ content.cfm/about, accessed on June 24, 2008).
+</footnote>
+
+<footnote page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/Footnote/8">
+^(19)Cockett (1995) notes that the rapidly expanding Atlas network meant that '[w]hen the Berlin Wall came down in 1989, there was an army of committed, international economic liberals reared in the Hayekian tradition, armed with clipboards and portable phones, waiting to move into Eastern Europe and the disintegrating Soviet Union to convert their ailing economies' (1995, p. 307).
+</footnote>
+
+<footnote page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/Footnote/9">
+^(20)Created in 1964 by Confindustria, the primary association representing Italian private industry.
+</footnote>
+
+<footnote page="12" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/11/Footnote/10">
+^(21)Bockman critiques a tendency to 'assume omnipotent activists, who have clear right-wing identities and successfully spread already packaged right-wing or pro-capitalist ideology or propaganda. These accounts also assume clearly identifiable recipients of this propaganda—either other activists or naı¨ve victims—who hear the message of neo-liberalism clearly, are converted, and have no other competing economic or political ideas' (Bockman, 2007, p. 344).
+</footnote>
+
+</page>
+<page number="13">
+<text page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Text/3">
+of an increasingly competitive and mathematical economics profession (Block, 2001; Block and Somers, 2003, 2005; Krippner et al., 2004; Young, 2005).
+</text>
+
+<text page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Text/4">
+Neo-liberalism is distinctive with respect to other liberalisms in its drive to break the 'market' loose in conceptual terms and elevate it to a level above politics—that is, to free it from political interventions of any kind.^(22) Its rejection of the market's embeddedness contrasts in particular with Continental ordoliberalism (Friedrich, 1955), which was probably the site of the first selfproclaimed 'neo-liberals', not to mention the first articulations of a 'third way' between totalitarianism and laissez faire.^(23) Significantly, ordo-liberalism was a historicist school of thought in which Hayek was originally rooted before breaking off on a more starkly laissez faire trajectory.24
+</text>
+
+<text page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Text/5">
+Ordo-liberals viewed economic dynamics as '"embedded" in politics' (Friedrich, 1955, p. 511). Wilhelm Ro¨pke, one of the school's central figures, emphatically rejected the notion that the market is 'a self dependent process whirring away automatically' (Ro¨pke 1996[1948], pp. 31–32).25 Though opposed to central planning (subvention), ordo-liberals believed that government interventions were economic necessities:
+</text>
+
+<text page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Text/6">
+The key slogan is the 'social market economy' (soziale Marktwirtschaft), an economy which is definitely 'free', as compared with a directed and planned economy, but which is subjected to controls, preferably in strictly legal form, designed to prevent the concentration of economic power, whether through cartels, trusts, or giant enterprise. Opposed to all and every kind of subvention [...] the proponents of the 'social market economy' call for governmental intervention only for the purpose of hastening impending changes by facilitating them. (Friedrich, 1955, p. 511)
+</text>
+
+<footnote page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Footnote/7">
+^(22)This conceptual break is rooted in the perspective that 'markets constitute the best possible arrangement for the satisfaction of individual needs and the efficient allocation of resources', harkening from Smith and Walras (Fourcade and Healy, 2007).
+</footnote>
+
+<footnote page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Footnote/8">
+^(23)In the 1950s, the Freiburg School was home to ordo-liberalism, and was 'personified in the figure of the Federal Republic's dynamic minister of economics, Ludwig Erhard' (Friedrich, 1955, pp. 509–510).
+</footnote>
+
+<footnote page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Footnote/9">
+^(24)Hayek was at one point listed on the ordo-liberals' editorial board (Friedrich, 1955, p. 509). He broke with ordo-liberalism on, among other questions, whether capitalism was a self-destructive and inherently polarizing force, and therefore to be blamed for the World Wars.
+</footnote>
+
+<footnote page="13" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/12/Footnote/10">
+^(25)The 'cardinal fault of the old liberal capitalistic thought' was to forget that 'mankind are not merely competitors, producers, men of business, members of unions, shareholders, savers and investors, but are simply human beings who do not live on bread alone' (Ro¨pke, 1996[1948], pp. 31–32).
+</footnote>
+
+</page>
+<page number="14">
+<text page="14" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/13/Text/3">
+Ordo-liberals called for 'measures and institutions which provide competition' in 'a well-considered moral and legal framework', supported by 'a strong and impartial government' (Ro¨pke, 1996[1948], p. 28). They also called for 'structural policy' in the spirit of 'economic humanism',^(26) undoing monopolies and promoting 'an amelioration of the hardships and trials of the weaker elements in society' in a 'policy which can be described in the catch phrases "deproletarianisation" and economic decentralization' (Ro¨pke, 1996[1948], p. 30).
+</text>
+
+<text page="14" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/13/Text/4">
+Neo-liberalism's ideological distinctiveness is identifiable in the missions of international political organizations, which mark the political institutionalization of dominant schools of economic thought. Three emerged in the early post-war period: the Centrist Democrat International (CDI), founded in 1961 to 'expand international cooperation between Christian democratic parties and promote the formation of new parties' (Szajkowski, 2005); the Liberal International (LI), founded in 1947 in Oxford, UK; the Socialist International (SI), founded in 1951 in Frankfurt—originating from the First and Second Internationals (1864–1876 and 1889). The LI's formation expressed the ordo-liberal school's political reach, which spanned 'Scandinavia, the low Countries, [...] France and Italy' in the early post-war period (Friedrich, 1955, pp. 509–510). Neo-liberalism, meanwhile, was internationalized officially in 1983 with the establishment of the International Democrat Union (IDU) in London—informally dubbing itself the 'Freedom International'. Margaret Thatcher (UK), George H. W. Bush (United States), Jacques Chirac (France) and Helmut Kohl (Germany), among others, jointly established the IDU.
+</text>
+
+<text page="14" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/13/Text/5">
+The line between the LI and the IDU is distinct. As shown in Table 1, the LI emphasizes markets along with themes of community, poverty and social justice; it outlines no comprehensive theory of the individual or of humanity, but instead emphasizes the institutional conditions for freedom and a wariness of monopoly and the concentration of power. In comparison, the more marketcentric and individualistic bent of the IDU is unmistakable. In its 2005 Washington declaration, issued at the Party Leaders' Meeting in Washington, DC, the IDU describes itself in terms of the core values of neo-liberalism—free enterprise, free trade, private property, democracy, an independent judiciary and limited government—but does not echo the LI's concerns with community, poverty, multilateralism or the concentration of power.
+</text>
+
+<text page="14" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/13/Text/6">
+The semi-religious element of neo-liberalism is notable in the IDU's claims to the universality of its vision and a grasp of the spiritual essentials of human
+</text>
+
+<footnote page="14" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/13/Footnote/7">
+^(26)He refers with admiration to the reforms of Chiang Kai-Shek in China and Roosevelt in the United States (Ro¨pke, 1996[1948], p. 30).
+</footnote>
+
+</page>
+<page number="15">
+<caption page="15" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/14/Caption/3">
+Table 1 Mission statements of the Liberal International (LI) and the International Democrat Union (IDU)
+</caption>
+
+
+<heading page="15" section="4.3 Market-centrism: markets as freedom" source="author" id="/page/14/SectionHeader/4" level="2">
+## 
+</heading>
+
+
+<heading page="15" section="Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity." source="author" id="/page/14/SectionHeader/5" level="6">
+###### Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity.
+</heading>
+
+<text page="15" section="Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity." source="author" id="/page/14/Text/6">
+Liberals champion the freedom, dignity and well-being of individuals.
+</text>
+
+<text page="15" section="Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity." source="author" id="/page/14/Text/7">
+We acknowledge and respect the right to freedom of conscience and the right of everyone to develop their talents to the full. We aim to disperse power, to foster diversity and to nurture creativity.
+</text>
+
+<text page="15" section="Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity." source="author" id="/page/14/Text/8">
+The freedom to be creative and innovative can only be sustained by a market economy, but it must be a market that offers people real choices.
+</text>
+
+<text page="15" section="Liberals are committed to build and safeguard free, fair and open societies, in which they seek to balance the fundamental values of liberty, equality and community, and in which no-one is enslaved by poverty, ignorance or conformity." source="author" id="/page/14/Text/9">
+This means that we want neither a market where freedom is limited by monopolies or an economy disassociated from the interests of the poor and of the community as a whole. Liberals are optimistic at heart and trust the people while recognizing the need to be always vigilant of those in power. (Source: www.liberal-international.org, accessed on December 1, 2005)a
+</text>
+
+
+<heading page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/SectionHeader/10" level="6">
+###### LI (founded in 1947) IDU (founded in 1983)
+</heading>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/11">
+We are the parties of the centre and centre right, of Christian Democracy and of conservatism.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/12">
+We reflect the world's diversity and possess unity in the values we champion.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/13">
+Our common vision is of free, just and compassionate societies.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/14">
+We appreciate the value of tradition and inherited wisdom.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/15">
+We value freely elected governments, the market-based economy and liberty for our citizens.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/16">
+We will protect our people from those who preach hate and plan to destroy our way of life.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/17">
+Free enterprise, free trade and private property are the corner-stones of free ideas and creativity as well as material well-being. We believe in justice, with an independent judiciary.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/18">
+We believe in democracy, in limited government and in a strong civic society. We see these as universal ideas.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/19">
+A thirst for freedom is not a peculiar trait of people from of any one continent, region, nation, race or religion—it is a demand for all humanity.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/20">
+It is also the founding inspiration for the International Democrat Union.
+</text>
+
+<text page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Text/21">
+(Source: IDU 2005: 2)b
+</text>
+
+<footnote page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Footnote/22">
+a The LI also emphasizes multilateralism and the rights of national and ethnic minorities. From its 1997 manifesto: 'We believe that the conditions of individual liberty include the rule of law, equal access to a full and varied education, freedom of speech, association, and access to information, equal rights and opportunities for women and men, tolerance of diversity, social inclusion, the promotion of private enterprise and of opportunities for employment. We believe that civil society and constitutional democracy provide the most just and stable basis for political order. ... We believe that an economy based on free market rules leads to the most efficient distribution of wealth and resources, encourages innovation, and promotes flexibility. We believe that close cooperation among democratic societies through global and regional organisations, within the framework of international law, of respect for human rights, the rights of national and ethnic minorities, and of a shared commitment to economic development worldwide, is the necessary foundation for world peace and for economic and environmental sustainability'.
+</footnote>
+
+<footnote page="15" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/14/Footnote/23">
+b This declaration was kindly sent to me by the IDU in response to an email request for more information about the organization.
+</footnote>
+
+</page>
+<page number="16">
+<text page="16" section="LI (founded in 1947) IDU (founded in 1983)" source="author" id="/page/15/Text/3">
+nature (that is, individuals' 'thirst for freedom').^(27) This echoes the implicit religiosity in, for instance, Joseph Stiglitz' account of IMF economists as 'market fundamentalists' (Stiglitz, 2002); Margaret Thatcher's famous 1974 announcement, while pulling Hayek's The Constitution of Liberty (Hayek, 1978[1960]) out of her briefcase in the British House of Commons, that 'this is what we believe in'; and the semi-evangelical tone of Milton Friedman's articulation of markets as the source and arbiter of human freedoms (Friedman and Friedman, 1980).
+</text>
+
+
+<heading page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/SectionHeader/4" level="1">
+# 5. Neo-liberalism's bureaucratic face
+</heading>
+
+<text page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/Text/5">
+Neo-liberal policy exists as a repertoire or package—a set of reforms jointly targeted, from the neo-liberal perspective, at promoting unfettered competition by getting the state out of the businesses of ownership, preventing politicians from pursuing dirigiste-style economic management, and introducing market (or market-like) competition in previously 'sacred' institutional spaces (a prime example is public education).^(28) Note, however, that a mutually exclusive distinction between market and state underpins the neo-liberal idea of 'freeing' the market—a notion that has long been criticized in economic sociology (Krippner and Alvarez, 2007).^(29) Neo-liberalism's policy expressions are termed as its 'bureaucratic face' in order to draw attention to their necessary bases within the bureaucracies of the state. This is in line with the Polanyian insight that neoliberal reforms do not imply 'retrenchment' or elimination of state bureaucracies (Cerny, 1993; Vogel, 1996; Krippner, 2007). Rather, they imply the creation, one might say, of the 'neo-liberal state' (Brown, 2003).
+</text>
+
+<text page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/Text/6">
+By the 1990s, the neo-liberal policy repertoire appeared in tightly defined incarnations, as in John Williamson's now-famous delineation of the 'terms of the Washington consensus' (Williamson, 1990, 1993). The repertoire has five main components: the privatization of public firms; the separation of regulatory authority from the executive branch—which includes the creation of a politically independent central bank; the depoliticization of economic regulation by
+</text>
+
+<footnote page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/Footnote/7">
+^(27)My point is not that a 'thirst for freedom' is not a human instinct, but rather that the IDU defines freedom in a particular way. Consider, for instance, the non-economic notion articulated in FDR's famous 1941 'four freedoms' speech: freedom from want, freedom of worship, freedom of speech and freedom from fear (Roosevelt, 1941).
+</footnote>
+
+<footnote page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/Footnote/8">
+^(28)In the United States, one of the most striking political sea changes in the neo-liberal era was the legitimation of arguments for the introduction of market-like competition into public education articulated by high-profile economists and political scientists, including Milton Friedman, John Chubb and Terry Moe (Friedman and Friedman, 1980; Chubb and Moe, 1990).
+</footnote>
+
+<footnote page="16" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/15/Footnote/9">
+^(29)I thank an anonymous reviewer for highlighting this point.
+</footnote>
+
+</page>
+<page number="17">
+<text page="17" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/16/Text/3">
+insulating regulatory authorities from political influence and the liberalization of the domestic and international economy by opening markets to multiple service providers (Henisz et al., 2005). To this, we should also add monetarism or, in other words, the manipulation of the supply of money rather than demand management via fiscal intervention.^(30)
+</text>
+
+<text page="17" section="5. Neo-liberalism's bureaucratic face" source="author" id="/page/16/Text/4">
+The spread of neo-liberal policy is well established empirically, though temporal and geographic variations are matters of explanatory debate. In world-level data presented by Simmons et al. (2006), privatization and financial openness accelerated markedly from the late 1980s, following the S-shaped curve that is typical of diffusion-type processes. Western European and North American countries surged towards total financial openness starting in the late 1980s; Latin America and Eastern Europe moved similarly (though less dramatically) in the early 1990s. Privatization accelerated in Eastern Europe in the 1990s and, surprisingly, in the Middle East and North Africa. By the early 2000s, variation on these indicators across all countries reached an all-time low. Likewise, Henisz et al. (2005) emphasize a broad, international liberalizing trend, particularly in infrastructure industries that were formerly predominantly state-owned (telecommunications, electricity, water, sanitation and transportation; p. 871).^(31) Quinn and Toyoda (2007) track a general increase in the openness of capital and current accounts for 82 countries from the 1980s onward,32 arguing that global and domestic ideologies play independent causal roles in the diffusion of financial liberalization by altering the incentives and opportunities faced by government officials.
+</text>
+
+
+<heading page="17" section="6. Neo-liberal politics" source="author" id="/page/16/SectionHeader/5" level="1">
+# 6. Neo-liberal politics
+</heading>
+
+<text page="17" section="6. Neo-liberal politics" source="author" id="/page/16/Text/6">
+Much scholarship on modern capitalisms casts the last decades of the twentieth century as a new political era (Hall, 1989; Esping-Andersen, 1990, 1994, 1997; Steinmo et al., 1992; Pierson, 1994, 1996; Hall and Soskice, 2001). Formerly marginalized free-market thought enjoyed a political revival,^(33)
+</text>
+
+<footnote page="17" section="6. Neo-liberal politics" source="author" id="/page/16/Footnote/7">
+^(30)One implication of monetarist policymaking is a strong emphasis on budgetary restraint and a move away from counter-cyclical public spending.
+</footnote>
+
+<footnote page="17" section="6. Neo-liberal politics" source="author" id="/page/16/Footnote/8">
+^(31)Henisz et al.'s analysis differs from others, in part, because they emphasize four kinds of trends as part of a package of options ('joint adoption'): privatization of state-owned firms; separation of regulatory authority from the executive branch; depoliticization; liberalization (2005, pp. 871–872).
+</footnote>
+
+<footnote page="17" section="6. Neo-liberal politics" source="author" id="/page/16/Footnote/9">
+^(32)Liberal economic reforms had a political complement in the form of a 'third wave' of democratization in formerly non-democratic countries.
+</footnote>
+
+<footnote page="17" section="6. Neo-liberal politics" source="author" id="/page/16/Footnote/10">
+^(33)Hayek rose from relative obscurity to international prominence in the early years of the 'new politics', winning the Nobel Prize in 1974.
+</footnote>
+
+</page>
+<page number="18">
+<text page="18" section="6. Neo-liberal politics" source="author" id="/page/17/Text/3">
+marking the rise of a new set of 'cognitive categories with which economic and political actors come to apprehend the world' (Fourcade and Babb, 2002, p. 534).^(34)
+</text>
+
+<text page="18" section="6. Neo-liberal politics" source="author" id="/page/17/Text/4">
+By the 1990s, some understood neo-liberalism's widespread manifestations as 'proof' of its ontological unassailability. In 1993, Williamson himself made an analogy between neo-liberalism's core propositions and the belief that 'the Earth is flat' (Williamson, 1993). Identifying himself as 'left of centre', he questioned whether alternative economic philosophies should have political representation at all:
+</text>
+
+<text page="18" section="6. Neo-liberal politics" source="author" id="/page/17/Text/5">
+It would be ridiculous to argue that as a matter of principle every conceivable point of view should be represented by a mainstream political party. No one feels that political debate is constrained because no party insists that the Earth is flat. [...] The universal convergence seems to me to be in some sense the economic equivalent of these (hopefully) no-longer-political issues. Until such economic good sense is generally accepted, then its promotion must be a political priority. But the sooner it wins general acceptance and can be removed from mainstream political debate, the better for all concerned. ... [T]he superior economic performance of countries that establish and maintain outward-oriented market economies subject to macroeconomic discipline is essentially a positive question. The proof may not be quite as conclusive as the proof that the Earth is not flat, but it is sufficiently well established as to give sensible people better things to do with their time than to challenge its veracity. (Williamson, 1993, p. 1330)
+</text>
+
+<text page="18" section="6. Neo-liberal politics" source="author" id="/page/17/Text/6">
+Williamson's positive claims as to the superior economic performance of 'neo-liberalized' economies and his normative claims as to the non-sensibility of political alternatives are contestable, but this is beyond the scope of the present discussion. Rather, what is interesting is his simultaneous recognition and sanctification of a re-centring of political space on a new economic philosophy. Drawing from the work of Meyer and Rowan (1991, p. 41), neo-liberalism can be understood here as a 'set of myths embedded in the institutional environment' that tends to anchor political actors' orientations. It is precisely this re-centring that marks the rise of neo-liberal politics.
+</text>
+
+<footnote page="18" section="6. Neo-liberal politics" source="author" id="/page/17/Footnote/7">
+^(34)Campbell and Pedersen (2001) describe the rise of neo-liberalism as a set of 'institutional changes on a scale not seen since the immediate aftermath of the Second World War and a project that has attempted to transform some of the most basic political and economic settlements of the postwar era' (2001, p. 1).
+</footnote>
+
+</page>
+<page number="19">
+
+<heading page="19" section="6.1 Neo-liberalism as politics" source="author" id="/page/18/SectionHeader/3" level="2">
+## 6.1 Neo-liberalism as politics
+</heading>
+
+<text page="19" section="6.1 Neo-liberalism as politics" source="author" id="/page/18/Text/4">
+Some scholarship tends to graft the term 'neo-liberal' uncomfortably onto old political distinctions—implicitly reserving the label for parties of the right, with emphasis on Anglo-Saxon countries. The term is often used to invoke American Republicans or British Conservatives—following the historical prototypes embodied in the figures of Ronald Reagan and Margaret Thatcher.^(35) Yet, as noted in literature on the 'third way' and a limited critical scholarship on European integration, neo-liberalism reaches well beyond nationally bound politics and does not mesh neatly with right–left distinctions (Dezalay and Garth, 1998; Holmes, 2000; Green-Pedersen et al., 2001; Cafruny and Ryder, 2003; van Apeldoorn et al., 2003; Hay, 2004).
+</text>
+
+<text page="19" section="6.1 Neo-liberalism as politics" source="author" id="/page/18/Text/5">
+Again, this could be elaborated at length, but a brief account will suffice. In the United States, the 'neo-liberal' moniker, reportedly coined by Washington Monthly editor Charles Peters, was given form in a 1983 conference of academics and professionals (teachers, lawyers, journalists and academics) sympathetic to the Democratic Party (Farrell, 1983). This was one of various fora that helped to solidify a market-friendly political movement stirring among the Democrats—the rise of a 'new philosophy' that sought to break with the party's past by, among other things, shifting economic policy priorities 'away from an emphasis on redistribution and toward an emphasis on the twin goals of restoring growth and opportunity' (Hale, 1995, p. 211). In 1985, this neoliberal drift within the Democratic Party culminated with the establishment of the Democratic Leadership Council (DLC)—the organizational basis from which the Clintons would later rise to political power.
+</text>
+
+<text page="19" section="6.1 Neo-liberalism as politics" source="author" id="/page/18/Text/6">
+The 'neo-liberal' moniker did not have stable meaning in worlds beyond the American one, but American neo-liberals nonetheless had European parallels. In the 1990s, New Labour's 'third way' politics were marked by an acceptance of the constraints of economic globalization, a rejection of 'old' binaries (right versus left; state versus market; capital versus labour), a decidedly positive orientation towards business and finance and a new articulation of collective interest in individualistic terms (Leys, 1997). By century's end, this new brand of leftism reached well into the rest of Europe: in Germany, the Netherlands, Portugal,
+</text>
+
+<footnote page="19" section="6.1 Neo-liberalism as politics" source="author" id="/page/18/Footnote/7">
+^(35)See Woolley's analysis of monetarist economists and American political conservatives during the Reagan years (Woolley, 1982). Prasad's discussion of neo-liberalism in France focuses on parties and politics of the right and discusses the French left's partial embrace of neo-liberal ideas only in the 1990s—as part of its commitment to the Growth and Stability Pact (1996); in the American case, she focuses exclusively on the Reagan–Bush years (Prasad, 2005). She identifies the period between 1990 and 2005 as the 'consolidation' phase of neo-liberalism, in which 'the coming of European unification strengthened the hand of European neo-liberals in ways that remain to be worked out', but leaves the identity of European neo-liberals undefined.
+</footnote>
+
+</page>
+<page number="20">
+<text page="20" section="6.1 Neo-liberalism as politics" source="author" id="/page/19/Text/3">
+Sweden, Denmark, Italy and Belgium, leftist leaders espoused more deregulated labour markets and highlighted the necessities of adaptation to market forces.
+</text>
+
+<text page="20" section="6.1 Neo-liberalism as politics" source="author" id="/page/19/Text/4">
+This was not mere rhetoric. In the United States, President Clinton signed a 1996 bill that 'ended welfare as we knew it'; in the UK, Tony Blair touted public–private partnerships and oversaw the introduction of tuition fees in 1997; centre–left governments in Germany and the Netherlands pursued deregulatory labour market reforms in the 1990s and early 2000s (Visser and Hemerijck, 1997; Esping-Andersen, 2002). In Sweden, 'Third Road' social democrats led the charge to deregulate financial markets in 1985–1986, phased out exchange controls, pushed through reductions in marginal income tax rates in 1989–1990 and applied for membership in the European Community (Pontusson 1992, 1994).
+</text>
+
+<text page="20" section="6.1 Neo-liberalism as politics" source="author" id="/page/19/Text/5">
+The transatlantic appearance of market-friendly lefts was no coincidence: continuing a long tradition of exchange of political ideas (Rueschemeyer and Skocpol, 1996; Rodgers, 1998),^(36) their policy priorities were crystallized and extended via a thickening network of political connections within Europe, on the one hand, and between Europe and the United States on the other—both effects, in part, of European integration. By the year 2000, the 'neo-liberalized' lefts started to look more and more like an international political movement. Recognizing this broad reach, the American Progressive Policy Institute (PPI)—the think tank arm of the DLC—pronounced the 'third way' in 1999 to be 'the most rapidly growing international political movement in the world, and the rising tide in the centre–left political parties throughout Europe'.^(37)
+</text>
+
+
+<heading page="20" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/19/SectionHeader/6" level="2">
+## 6.2 Neo-liberalism at the intersection of the intellectual and the political
+</heading>
+
+<text page="20" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/19/Text/7">
+Ideological systems have an existence that is external to politics partly because they are born in spaces that may not be political. The rise of a new set of ideological forces is, in other words, an institutional phenomenon in and of itself; it may be rooted in non-political realms of struggle and collaboration. These realms might be understood as belonging to the 'cultural field'—that is, social spaces in which actors are engaged in struggles over authoritative claims to truth and meaning: religion, art, literature and journalism, the 'human' sciences. Ideological
+</text>
+
+<footnote page="20" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/19/Footnote/8">
+^(36)The case of the American Progressive Party is a particularly interesting testament to the formative influences of transatlantic exchange in political life (Davis, 1964).
+</footnote>
+
+<footnote page="20" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/19/Footnote/9">
+^(37)http://www.ndol.org/ndol_ci.cfm?kaid¼128&amp;subid¼185&amp;contentid¼880, accessed on December 5, 2006. The DLC made this pronouncement to mark an April 1999 'roundtable discussion' that included First Lady Hillary Rodham Clinton and DLC President Al From. It featured Tony Blair, Gerhard Schroeder, Wim Kok and Massimo D'Alema. The roundtable was a second follow-up to an initial meeting between Hillary Clinton and Tony Blair that took place in 1997.
+</footnote>
+
+</page>
+<page number="21">
+<text page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Text/3">
+systems emerging out of these spaces intersect with politics because of the hybrid intellectual–political roles played by 'knowledge-bearing' elites (Rueschemeyer and Skocpol, 1996).
+</text>
+
+<text page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Text/4">
+Despite neo-liberalism's pervasiveness, there is a tendency to construe it narrowly in both political and geographical terms. Geographically, neo-liberalism is often conflated with Anglo-American politics, implying that Continental and Northern European political elites are 'naturally' opposed to the implementation of neo-liberal policies. Politically, there is a problematic tendency to conflate neoliberalism with the political right. Yet a failure to grasp the rise of neo-liberalism as an ideological system born outside of politics imposes arbitrary analytical blinders on questions of neo-liberalism's political effects. Thatcher and Reagan were undoubtedly neo-liberalism's most high-profile champions in the 1980s, but the truth was that neo-liberal orientations have entered into mainstream politics since the 1970s without regard for old partisan divides or national boundaries.38 Though they featured important variations, in the 1990s the rise of market-friendly politics across the political spectrum became an unmistakable phenomenon.
+</text>
+
+<text page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Text/5">
+More specifically, the conflation of neo-liberalism with Anglo-American 'rightism' impedes a social scientific grasp of the nature and dynamics of the 'new politics' in two ways. First, the tendency to conflate neo-liberalism with Anglo-American politics implies that Continental and Northern European political elites are intrinsically opposed to the implementation of neo-liberal policies. This has some truth to it, given the entrenchment of welfarist traditions in Europe—but it is a claim that should be evaluated empirically rather than taken as a given. Second, a blindness to neo-liberalism as a force that cross-cuts 'old' ideological divides in right–left politics tends to pre-empt social scientific inquiry into an as-yet unexplained historical phenomenon: that the most effective advocates of policies understood as neo-liberal in Western Europe (and beyond) have often been political and intellectual elites who are sympathetic to, or are representatives of, the left and centre–left.39
+</text>
+
+<text page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Text/6">
+The point here is simple: neo-liberal politics deserves the same analytical attention as neo-liberalism's other two faces. Part of this effort must be the rethinking of the meaning of neo-liberalism itself, considering its effects as a
+</text>
+
+<footnote page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Footnote/7">
+^(38)Cox (2001) notes that 'there is no pattern that distinguishes left from right during the period of retrenchment. Thus, right-wing governments in some countries have found their efforts to retrench frustrated by public opposition, whereas left-wing governments in other countries have managed to enact dramatic reforms'.
+</footnote>
+
+<footnote page="21" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/20/Footnote/8">
+^(39)Levy (2001) discusses Lionel Jospin's privatizations and his decision to recast rather than repeal the 1997 Thomas Law, which fostered the privatization of pension funds. He argues (rightly) that the French left sought to adapt neo-liberal policy reforms along progressive lines—but this does not address the basic question of what produced and legitimated neo-liberal principles in the first place.
+</footnote>
+
+</page>
+<page number="22">
+<text page="22" section="6.2 Neo-liberalism at the intersection of the intellectual and the political" source="author" id="/page/21/Text/3">
+general force intersecting with political life regardless of social democratic traditions or national boundaries.
+</text>
+
+
+<heading page="22" section="7. Conclusions: coherence and consequences" source="author" id="/page/21/SectionHeader/4" level="1">
+# 7. Conclusions: coherence and consequences
+</heading>
+
+<text page="22" section="7. Conclusions: coherence and consequences" source="author" id="/page/21/Text/5">
+The conceptualization of neo-liberalism is a central point of confusion in understandings of politics and policymaking since the 1970s. This article seeks to shed some light on this issue by defining neo-liberalism and delineating the hallmarks of its three 'faces'. Rather than inquiring into neo-liberalism as a singular 'thing', the tri-partite conception offered here allows us to address neo-liberalism's coherence by dealing with its different faces separately.
+</text>
+
+<text page="22" section="7. Conclusions: coherence and consequences" source="author" id="/page/21/Text/6">
+Neo-liberalism's most coherent face—that is, the closest neo-liberalism comes to a self-conscious, organized and logically coherent project—is its intellectual– professional one. Underpinned by a well-trodden system of economic thought and a faith in the promise of 'the market', intellectual–professional neoliberalism's advance by self-conscious knowledge-producing elites constitutes a simultaneously moral, political and professional project. The coherence of this face is probably attributable to its marginalization from mainstream politics and, consequently, its long gestation in the intellectual field. It is also attributable to its locus within economics, well noted for being uniquely internationalized, rationalized and politically influential relative to other branches of the human sciences (Fourcade, 2006).
+</text>
+
+<text page="22" section="7. Conclusions: coherence and consequences" source="author" id="/page/21/Text/7">
+On the other hand, neo-liberalism's expressions in policy and politics are produced at the intersection of the intellectual, political and bureaucratic realms, generating not one neo-liberalism but many neo-liberalisms. These expressions are not coherent in the sense of producing identical political languages and policies, but they are anchored by the same common sense: the autonomous force of the market; the superiority of market or market-like competition over bureaucracies as a mechanism for the allocation of resources. This does not mean that all political elites have fully accepted these positions; it means, simply, that they have difficulty articulating alternatives and still retaining mainstream political legitimacy. Stated differently, it means that political elites of all stripes must contend with the basic question of 'how much market', as opposed to the Keynesian era question of 'how much state'.
+</text>
+
+<text page="22" section="7. Conclusions: coherence and consequences" source="author" id="/page/21/Text/8">
+How do we understand and analyse neo-liberal politics in European contexts with strong socialist and social democratic traditions? Rather than taking political elites' own accounts at face value, a proper mapping of political 'neo-liberalisms' should attend closely to institutional connections between experts, political actors and state bureaucracies. One might expect that, where states are more exposed to and dependent on foreign capital and expertise, neo-liberalism looks more coherent: think, for instance, of the 'Washington consensus' for
+</text>
+
+</page>
+<page number="23">
+<text page="23" section="7. Conclusions: coherence and consequences" source="author" id="/page/22/Text/3">
+countries of the South, or 'shock therapy' for the post-Communist East. A thorough mapping of 'neo-liberalisms' should also trace 'feedback' from the realms of policy and politics back into the intellectual field, in which the proliferation of policies and political discourses become fodder for new scholarly articulations (like Williamson's 'Washington consensus'), which then help to crystallize the phenomena they claim to merely observe.
+</text>
+
+<text page="23" section="7. Conclusions: coherence and consequences" source="author" id="/page/22/Text/4">
+By extension, we should expect that neo-liberal politics would look fundamentally different in rich, welfarist countries, for at least two reasons. First, international organizations and foreign expertises exert ambiguous influences in, say, the decision of German political elites to pursue labour market de-regulation. This does not mean that they play no role at all, but rather that assessing their involvement requires thinking carefully about the institutional specificities of the case at hand. A second source of difference in the production of Western 'neo-liberalisms' is less obvious, but probably more crucial: whereas the intersection of the intellectual and the political in the South and East is populated by knowledge-producers rooted in Western forms of expertise, rich Western countries are both the sources and the objects of scholarly interventions. This constitutes a significant wrinkle in our gaze on the intersection of the intellectual and the political in rich countries, necessitating a deeply reflexive mode of analysis: Western scholars would have to turn their analytical gaze on themselves, assessing their own and their peers' political roles. This may be a primary reason that, as this article has argued, our grasp of neo-liberalism's expressions is probably weakest in rich Western democracies—and particularly those with strong social democratic traditions.
+</text>
+
+
+<heading page="23" section="Acknowledgements" source="author" id="/page/22/SectionHeader/5" level="1">
+# Acknowledgements
+</heading>
+
+<text page="23" section="Acknowledgements" source="author" id="/page/22/Text/6">
+The author thanks Peter Mair for helpful comments on an earlier version of this paper. The author also thanks Sven Steinmo, Neil Fligstein, Sam Lucas, Margaret Weir, Marion Fourcade, Isaac Martin, Basak Kus, Tom Medvetz, Brigitte LeNormand, David McCourt, my fellow Max Weber Fellows, and three anonymous reviewers for the Socio-Economic Review for commentary and critical insights. Support was provided by the Max Weber Programme of the European University Institute (EUI), as well as the Survey Research Center, the Institute for Research on Labor and Employment and the Department of Sociology at the University of California, Berkeley.
+</text>
+
+
+<heading page="23" section="References" source="author" id="/page/22/SectionHeader/7" level="1">
+# References
+</heading>
+
+<text page="23" section="References" source="author" id="/page/22/Text/8">
+Abbott, A. (1988) The System of Professions: An Essay on the Division of Expert Labor, Chicago, IL, University of Chicago Press.
+</text>
+
+</page>
+<page number="24">
+<list page="24" section="References" source="author" id="/page/23/ListGroup/231">
+- Babb, S. (2004) Managing Mexico: Economists from Nationalism to Neoliberalism, Princeton, NJ, Princeton University Press.
+- Block, F. (2001) 'Introduction'. In Polanyi, K. (ed) The Great Transformation: The Political and Economic Origins of Our Time, Boston, MA, Beacon Press, pp. pxviii–xxxviii.
+- Block, F. and Somers, M. (2003) 'In the Shadow of Speenhamland: Social Policy and the Old Poor Law', Politics and Society, 31, 283–323.
+- Block, F. and Somers, M. R. (2005) 'From Poverty to Perversity: Ideas, Markets, and Institutions over 200 Years of Welfare Debate', American Sociological Review, 70, 260–287.
+- Bockman, J. (2007) 'The Origins of Neoliberalism between Soviet Socialism and Western Capitalism: "A galaxy without borders"', Theory and Society, 36, 343–371.
+- Bockman, J. and Eyal, G. (2002) 'Eastern Europe as a Laboratory for Economic Knowledge: The Transnational Roots of Neoliberalism', American Journal of Sociology, 108, 310–352.
+- Boix, C. (2000) 'Partisan Governments, the International Economy, and Macroeconomic Policies in Advanced Nations, 1960–93', World Politics, 53, 38–73.
+- Bourdieu, P. (1992) The Logic of Practice, Stanford, CA, Stanford University Press.
+- Bourdieu, P. (1994) 'Rethinking the State: Genesis and Structure of the Bureaucratic Field', Sociological Theory, 12, 1–18.
+- Bourdieu, P. (2005) The Social Structures of the Economy, Cambridge, UK and Malden, MA, Polity Press.
+- Bourdieu, P. and Wacquant, L. (1992) An Invitation to Reflexive Sociology, Chicago, IL, University of Chicago Press.
+- Bourdieu, P. and Wacquant, L. (1999) 'On the Cunning of Imperialist Reason', Theory, Culture and Society, 16, 41–58.
+- Brown, W. (2003) 'Neo-liberalism and the End of Liberal Democracy', Theory and Event, 7, accessed at http://muse.jhu.edu/journals/theory_and_event/v007/7.1brown.html on July 8, 2008.
+- Cafruny, A. W. and Ryder, M. (eds) (2003) A Ruined Fortress? Neoliberal Hegemony and Transformation in Europe, Oxford, UK, Rowman &amp; Littlefield.
+- Campbell, J. L. and Pedersen, O. K. (eds) (2001) The Rise of Neoliberalism and Institutional Analysis, Princeton, NJ, Princeton University Press.
+- Cerny, P. G. (1993) Finance and World Politics: Markets, Regimes, and States in the Posthegemonic Era, Aldershot, Hants, UK and Brookfield, VT, Edward Elgar.
+- Chubb, J. E. and Moe, T. M. (1990) Politics, Markets and America's Schools, Washington, DC, Brookings Institution Press.
+- Cockett, R. (1995) Thinking the Unthinkable: Think-Tanks and the Economic Counter-Revolution, 1931–1983, London, Harper Collins.
+- Cox, R. H. (2001) 'The Social Construction of an Imperative: Why Welfare Reform Happened in Denmark and the Netherlands but Not in Germany', World Politics, 53, 463–498.
+</list>
+
+</page>
+<page number="25">
+<list page="25" section="References" source="author" id="/page/24/ListGroup/200">
+- Crouch, C. (1997) 'The Terms of the Neo-liberal Consensus', The Political Quarterly, 68, 352–360.
+- Dalton, R. J. and Wattenberg, M. P. (eds) (2002) Parties Without Partisans: Political Change in Advanced Industrial Democracies, Oxford, UK, Oxford University Press.
+- Davis, A. F. (1964) 'Social Workers and the Progressive Party', The American Historical Review, 69, 671–688.
+- Dezalay, Y. and Garth, B. (1998) 'Sociology of the Hegemony of Neoliberalism', Actes de la Recherche en Sciences Sociales, 121, 3–22.
+- Dezalay, Y. and Garth, B. (2002) The Internationalization of Palace Wars: Lawyers, Economists, and the Contest to Transform Latin American States, Chicago, IL, and London, University of Chicago Press.
+- Dezalay, Y. and Garth, B. (2006) 'The National Usages of a Global Science: The International Diffusion of New Economic Paradigms as Both Hegemonic Strategy and Professional Stakes within the National Fields of Reproduction of State Elites', Sociologie Du Travail, 48, 308–329.
+- Dobbin, F., Simmons, B. and Garrett, G. (2007) 'The Global Diffusion of Public Policies: Social Construction, Coercion, Competition, or Learning?', Annual Review of Sociology, 33, 449–472.
+- Durkheim, E. (2001[1912]) The Elementary Forms of Religious Life, Oxford, UK, and New York, Oxford University Press.
+- Esping-Andersen, G. (1990) The Three Worlds of Welfare Capitalism, Princeton, NJ, Princeton University Press.
+- Esping-Andersen, G. (1994) 'Welfare States and the Economy'. In Smelser, N. and Swedberg, R. (eds) The Handbook of Economic Sociology, Princeton, NJ, Russell Sage Foundation.
+- Esping-Andersen, G. (1997) 'After the Golden Age? Welfare State Dilemmas in a Global Economy'. In Esping-Andersen, G. (ed) Welfare States in Transition: National Adaptations in Global Economies, London, Sage, pp. 1–32.
+- Esping-Andersen, G. (1999) The Social Foundations of Postindustrial Economies, Oxford, UK, Oxford University Press.
+- Esping-Andersen, G. (ed) (2002) Why We Need a New Welfare State, Oxford, UK, Oxford University Press.
+- Evans, P. (2005) 'Counterhegemonic Globalization: Transnational Social Movements in the Contemporary Global Economy'. In Janoski, T., Alford, R. R. and Hicks, A. M. (eds) The Handbook of Political Sociology, Cambridge, UK, Cambridge University Press.
+- Farrell, W. E. (1983, October 24) '"Neoliberals" in Need of Constituents', The New York Times, New York, NY, p. 8.
+- Fiorina, M. P. (2002) 'Parties and Partisanship: A 40-Year Retrospective', Political Behavior, 24, 93–115.
+</list>
+
+</page>
+<page number="26">
+<list page="26" section="References" source="author" id="/page/25/ListGroup/219">
+- Fourcade, M. (2006) 'The Construction of a Global Profession: The Transnationalization of Economics', American Journal of Sociology, 112, 145–194.
+- Fourcade-Gourinchas, M. and Babb, S. L. (2002) 'The Rebirth of the Liberal Creed: Paths to Neoliberalism in Four Countries', American Journal of Sociology, 108, 533–579.
+- Fourcade, M. and Healy, K. (2007) 'Moral Views of Market Society', Annual Review of Sociology, 33, 285–311.
+- Fraser Institute (2004) 'The Fraser Institute at 30: A Retrospective', Vancouver, BC, The Fraser Institute.
+- Friedman, M. and Friedman, D. R. (1980) Free to Choose: A Personal Statement, London, Secker and Warburg.
+- Friedrich, C. J. (1955) 'The Political Thought of Neo-Liberalism', American Political Science Review, 49, 509–525.
+- Greenhouse, S. (1993 January 10) 'The New Presidency: The Labor Department; Nominee Devoted Years To Rehearsing for Role', The New York Times, New York, NY, Sunday, Late Edition—Final, Section 1; p. 18; Column 1; National Desk.
+- Green-Pedersen, C., van Kersbergen, K. and Hemerijck, A. (2001) 'Neo-liberalism, the "third way" or What? Recent Social Democratic Welfare Policies in Denmark and the Netherlands', Journal of European Public Policy, 8, 307–325.
+- Gunderson, M. (1989) 'Review: Freedom, Democracy and Economic Welfare, edited by Michael A. Walker, Vancouver, the Fraser Institute, 1988', Relations Industrielles, 44, 465–466.
+- Gwartney, J. (2007) 'Economic Freedom of the World: 2007 Annual Report', accessed at http://www.freetheworld.com/datasets_efw.html on July 8, 2008.
+- Gwartney, J. and Lawson, R. (2005) 'Economic Freedom of the World: 2005 Annual Report', Vancouver, BC, The Fraser Institute, accessed at http://www.freetheworld. com/datasets_efw.html on July 8, 2008.
+- Hale, J. F. (1995) 'The Making of the New Democrats', Political Science Quarterly, 110, 207–232.
+- Hall, P. (ed) (1989) The Political Power of Economic Ideas: Keynesianism across Nations, Cambridge, MA, Harvard University Press.
+- Hall, P. A. and Soskice, D. (2001) Varieties of Capitalism: The Institutional Foundations of Comparative Advantage, Oxford, UK, Oxford University Press.
+- Hanley, E., King, L. and Janos, I. T. (2002) 'The State, International Agencies, and Property Transformation in Postcommunist Hungary', American Journal of Sociology, 108, 129–167.
+- Harvey, D. (1989) The Condition of Postmodernity, Oxford, UK, Basil Blackwell.
+- Harvey, D. (2005) A Brief History of Neoliberalism, Oxford, UK, Oxford University Press.
+- Hausman, D. H. and McPherson, M. (2006) Economic Analysis, Moral Philosophy and Public Policy, 2nd edn, Cambridge, UK, Cambridge University Press.
+</list>
+
+</page>
+<page number="27">
+<list page="27" section="References" source="author" id="/page/26/ListGroup/218">
+- Hay, C. (2004) 'The Normalizing Role of Rationalist Assumptions in the Institutional Embedding of Neoliberalism', Economy and Society, 33, 500–527.
+- Hayek, F. A. (1978[1960]) The Constitution of Liberty, Chicago, IL, University of Chicago Press.
+- Hayek, F. A. (1994[1944]) The Road to Serfdom. Fiftieth Anniversary Edition, Chicago, IL, University of Chicago Press.
+- Hayek, F. A. (2007[1944]) The Road to Serfdom: Text and Documents—The Definitive Edition, Chicago, IL, University of Chicago Press.
+- Henisz, W. J., Zelner, B. A. and Guillen, M. F. (2005) 'The Worldwide Diffusion of Marketoriented Infrastructure Reform, 1977–1999', American Sociological Review, 70, 871–897.
+- Hetherington, M. J. (2001) 'Resurgent Mass Partisanship: The Role of Elite Polarization', American Political Science Review, 95, 619–631.
+- Holmes, D. R. (2000) Integral Europe: Fast-Capitalism, Multiculturalism and Neofascism, Princeton, NJ, and Oxford, UK, Princeton University Press.
+- IDU (2005) 'Washington Declaration', July 18, Washington, DC.
+- Kay, C. (2007) 'From Pinochet to the "Third Way": Neoliberalism and Social Transformation in Chile', Journal of Latin American Studies, 39, 412–413.
+- Kelly, J. L. (1997) Bringing the Market Back in: The Political Revitalization of Market Liberalism, New York, New York University Press.
+- King, L. P. and Szele´nyi, I. (2004) Theories of the New Class: Intellectuals and Power, Minneapolis, MN, University of Minnesota Press.
+- Krippner, G. R. (2007) 'The Making of US Monetary Policy: Central Bank Transparency and the Neoliberal Dilemma', Theory and Society, 36, 477–513.
+- Krippner, G. R. and Alvarez, A. S. (2007) 'Embeddedness and the Intellectual Projects of Economic Sociology', Annual Review of Sociology, 33, 219–240.
+- Krippner, G., Granovetter, M., Block, F., Biggart, N., Beamish, T., Hsing, Y. T., Hart, G., Arrighi, G., Mendell, M., Hall, J., Burawoy, M., Vogel, S. and O'Riain, S. (2004) 'Polanyi Symposium: A Conversation on Embeddedness', Socio-Economic Review, 2, 109–135.
+- Lemke, C. and Marks, G. (1992) The Crisis of Socialism in Europe, Durham, NC, Duke University Press.
+- Levy, J. D. (2001) 'Partisan Politics and Welfare Adjustment: The Case of France', Journal of European Public Policy, 8, 265–285.
+- Leys, C. (1997) 'The British Labour Party since 1989'. In Sassoon, D. (ed) Looking Left. European Socialism after the Cold War, London and New York, IB Tauris Publishers.
+- Martin, J. L. (2003) 'What is Field Theory?', American Journal of Sociology, 109, 1–49.
+- Martin, I. (2008) The Permanent Tax Revolt: How the Property Tax Transformed American Politics, Stanford, CA, Stanford University Press.
+</list>
+
+</page>
+<page number="28">
+<list page="28" section="References" source="author" id="/page/27/ListGroup/214">
+- Massey, D. S., Sanchez, R. M. and Behrman, J. R. (2006) 'Of Myths and Markets', The Annals of the American Academy of Political and Social Science, 606, 8–31.
+- Medvetz, T. (2007) Think Tanks and the Production of Policy Knowledge in America, Unpublished PhD Dissertation, Berkeley, CA, University of California.
+- Meyer, J. W. and Rowan, B. (1991) 'Institutionalized Organizations: Formal Structure as Myth and Ceremony'. In Powell, W. P. and DiMaggio, P. J. (eds) The New Institutionalism in Organizational Analysis, Chicago, IL, University of Chicago Press, pp. 41–62.
+- Nelson, R. H. (2001) Economics as Religion: From Samuelson to Chicago and Beyond, State College, PA, Pennsylvania State University Press.
+- Pierson, P. (1994) Dismantling the Welfare State, Cambridge, UK, Cambridge University Press.
+- Pierson, P. (1996) 'The New Politics of the Welfare State', World Politics, 48, 143–179.
+- Polanyi, K. (2001[1944]) The Great Transformation: The Political and Economic Origins of Our Time, Boston, MA, Beacon Press.
+- Pontusson, J. (1992) The Limits of Social Democracy: Investment Politics in Sweden, Ithaca, NY, Cornell University Press.
+- Pontusson, J. (1994) 'Sweden: After the Golden Age'. In Anderson, P. and Camiller, P. (eds) Mapping the West European Left, London, Verso, pp. 23–54.
+- Power, M. (2005) 'Victims of the Chilean Miracle: Workers and Neoliberalism in the Pinochet Era, 1973–2002', Latin American Politics and Society, 47, 199–203.
+- Prasad, M. (2006) The Politics of Free Markets: The Rise of Neoliberal Economic Policies in Britain, France, Germany and the United States, Chicago, IL, University of Chicago Press.
+- Quinn, D. P. and Toyoda, A. M. (2007) 'Ideology and Voter Preferences as Determinants of Financial Globalization', American Journal of Political Science, 51, 344–363.
+- Rodgers, D. T. (1998) Atlantic Crossings: Social Politics in a Progressive Age, Cambridge, MA, Harvard University Press.
+- Roosevelt, F. D. (1941) Annual Address to Congress, Hyde Park, NY, Franklin D. Roosevelt Presidential Library and Museum.
+- Ro¨pke, W. (1996[1948]) The Moral Foundations of Civil Society, New Brunswick, NJ, and London, Transaction Publishers.
+- Rueschemeyer, D. and Skocpol, T. (1996) States, Social Knowledge and the Origins of Modern Social Policies, Princeton, NJ, and New York, Princeton University Press and the Russell Sage Foundation.
+- Sassoon, D. (1996) Social Democracy at the Heart of Europe, London, Institute for Public Policy Research.
+- Sassoon, D. (ed) (1997) Looking Left: European Socialism after the Cold War, London, New York, Rome, IB Tauris Publishers and The Gramsci Foundation.
+- Simmons, B. A., Dobbin, F. and Garrett, G. (2006) 'Introduction: The International Diffusion of Liberalism', International Organization, 60, 781–810.
+</list>
+
+</page>
+<page number="29">
+<list page="29" section="References" source="author" id="/page/28/ListGroup/198">
+- Smith, J. A. (1993) The Idea Brokers: Think Tanks and The Rise of The New Policy Elite, New York, The Free Press.
+- Steinmo, S., Thelen, K. and Longstreth, F. (eds) (1992) Structuring Politics: Historical Institutionalism in Comparative Perspective, Cambridge, UK, Cambridge University Press.
+- Stiglitz, J. E. (2002) Globalization and Its Discontents, New York and London, W. W. Norton and Company.
+- Stone-Sweet, A. and Sandholtz, W. (eds) (1999) European Integration and Supranational Governance, Oxford, UK, Oxford University Press.
+- Stone-Sweet, A., Sandholtz, W. and Fligstein, N. (eds) (2001) The Institutionalization of Europe, Oxford, UK, Oxford University Press.
+- Szajkowski, B. (ed) (2005) Political Parties of the World, London, John Harper Publishing Inc.
+- Teles, S. and Kenney, D. A. (2008) 'Spreading the Word: The Diffusion of American Conservatism in Europe and Beyond'. In Kopstein, J. and Steinmo, S. (eds) Growing Apart? America and Europe in the 21st Century, Cambridge, UK, and New York, Cambridge University Press.
+- Therborn, G. (2007) 'After Dialectics: Radical Social Theory in a Post-Communist World', New Left Review, 43, 63–114.
+- Valdes, J. G. (1995) Pinochet's Economists: The Chicago School in Chile, Cambridge, UK, Cambridge University Press.
+- van Apeldoorn, B., Overbeek, H. and Ryner, M. (2003) 'Theories of European Integration: A Critique'. In Cafruny, A. W. and Ryner, M. (eds) A Ruined Fortress? Neoliberal Hegemony and Transformation in Europe, Oxford, UK, Rowman and Littlefield, pp. 17–46.
+- Visser, J. and Hemerijck, A. (1997) A Dutch Miracle: Job Growth, Welfare Reform Corporatism in the Netherlands, Amsterdam, Amsterdam University Press.
+- Vogel, S. K. (1996) Freer Markets, More Rules: Regulatory Reform in Advanced Industrial Countries, Ithaca, NY, and London, Cornell University Press.
+- Weyland, K. (1999) 'Neoliberal Populism in Latin America and Eastern Europe', Comparative Politics, 31, 379–401.
+- Williamson, J. (1990) 'What Washington Means by Policy Reform'. In Williamson, J. (ed) Latin American Adjustment: How Much Has Happened?, Washington, DC, Institute for International Economics.
+- Williamson, J. (1993) 'Democracy and the "Washington Consensus"', World Development, 21, 1329–1336.
+- Woolley, J. T. (1982) 'Monetarists and the Politics of Monetary Policy', Annals of the American Academy of Political and Social Science, 459, 148–160.
+- Young, C. (2005) 'The Politics, Mathematics and Morality of Economics: A Review Essay on Robert Nelson's Economics as Religion', Socio-Economic Review, 3, 161–172.
+</list>
+
+</page>
+</paper>

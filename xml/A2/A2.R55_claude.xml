@@ -1,0 +1,567 @@
+<paper source_file="A2.R55" title="Assessing student satisfaction in transnational higher education" total_pages="14" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+
+<heading page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/SectionHeader/1" level="1">
+# Assessing student satisfaction in transnational higher education
+</heading>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/2">
+Assessing student satisfaction
+</text>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/20">
+143
+</text>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/3">
+Stephen Wilkins
+</text>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/4">
+International Centre for Higher Education Management, University of Bath, Bath, UK, and Melodena Stephens Balakrishnan
+</text>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/5">
+Received 23 August 2011 Revised 9 November 2011 Accepted 20 December 2011
+</text>
+
+<text page="1" section="Assessing student satisfaction in transnational higher education" source="author" id="/page/0/Text/6">
+Faculty of Business and Management, University of Wollongong in Dubai, Dubai, United Arab Emirates
+</text>
+
+
+<heading page="1" section="Abstract" source="author" id="/page/0/SectionHeader/7" level="2">
+## Abstract
+</heading>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/8">
+Purpose – Given that there exists in the literature relatively little research into student experiences in transnational higher education, the purpose of this paper is to identify the determinants of student satisfaction at international branch campuses in the United Arab Emirates (UAE).
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/9">
+Design/methodology/approach – This quantitative study involved 247 undergraduate and postgraduate students at branch campuses in the UAE who completed a questionnaire using either hard copies or an online version.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/10">
+Findings – It was found that levels of student satisfaction at UAE branch campuses were generally high. The factors that were most influential in determining whether or not a student at a UAE branch campus was satisfied overall with their institution were quality of lecturers, quality and availability of resources, and effective use of technology.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/11">
+Research limitations/implications – Given that cultures, customs, traditions and social contexts vary considerably in different locations, the findings of this study are not generalisable across all international branch campuses globally.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/12">
+Practical implications – The findings indicate that there remains scope for UAE branch campuses to further increase levels of student satisfaction. Managers might use the findings to review their own institution's performance, so that areas for improvement can be identified.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/13">
+Originality/value – Given that the logit model developed had an 87.4 per cent success rate in predicting whether or not a student at a UAE branch campus was satisfied overall with their institution, this research has demonstrated the potential usefulness of logistic regression as a predictive and explanatory tool in education management.
+</text>
+
+<text page="1" section="Abstract" source="author" id="/page/0/Text/14">
+Keywords United Arab Emirates, Higher education, Students, Student satisfaction, Transnational higher education, International branch campuses, Service quality, Logistic regression model Paper type Research paper
+</text>
+
+
+<heading page="1" section="1. Introduction" source="author" id="/page/0/SectionHeader/15" level="2">
+## 1. Introduction
+</heading>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/16">
+Since the turn of the century, the establishment of international branch campuses has accounted for most of the growth in transnational higher education. The term "transnational education" refers to programmes in which learners are located in a country other than the one in which the awarding institution is based (McBurnie and Ziguras, 2007, p. 21), and an international branch campus is an educational facility where students receive face-to-face instruction in a country different to that of the parent institution. There are two features that distinguish branch campuses from other forms of transnational education that also adopt a physical "bricks and mortar" approach: first, a branch campus operates under the same name as its parent institution, and second, the qualifications that the students gain bear the name of the parent institution (Wilkins, 2010).
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/17">
+In 2009, there were over 162 international branch campuses worldwide, and 40 of these were located in the United Arab Emirates (UAE) (Becker, 2009). The UAE has
+</text>
+
+<figure page="1" section="1. Introduction" source="author" id="/page/0/Picture/18" image="A2.R55_fig01.jpg">[FIGURE: see A2.R55_fig01.jpg]</figure>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/19">
+International Journal of Educational Management Vol. 27 No. 2, 2013 pp. 143-156 r Emerald Group Publishing Limited 0951-354X DOI 10.1108/09513541311297568
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/2">
+more international branch campuses than any other country. The largest source countries of international branch campuses globally (where the parent institutions are based) are the USA, Australia and the UK (Becker, 2009). It has been estimated that by 2025 transnational education will account for 44 per cent of the total demand for international education (Bohm et al., 2002).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/3">
+Students are generally considered the primary customers of a university, even in countries where they do not pay tuition fees (Douglas et al., 2006). Although the tuition fees charged at international branch campuses can be substantially lower than the fees charged at home campuses, in many cases the fees charged at branch campuses are still very substantial. For example, in 2011, the tuition (and other mandatory) fees for a four-year undergraduate programme from New York at Abu Dhabi totalled $165,120, while Middlesex University's (UK) three-year programme in Dubai cost $37,602 (compared to $47,520 paid by non-European Union international students at Middlesex's London campus).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/4">
+Higher education institutions (HEIs) that achieve student satisfaction can benefit in a number of ways. Satisfied students are less likely to drop out (Tinto, 1993); more likely to achieve higher grades (Bean and Bradley, 1986); engage in positive word-of-mouth and collaborate with the institution after they graduate (Alves and Raposo, 2009). The increase in use of social networking and consumer web sites such as RateMyProfessors.com has greatly promoted electronic word-of-mouth (Wilkins and Epps, 2011).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/5">
+Given the highly competitive nature of many transnational higher education markets (Wilkins, 2010; Knight, 2011) – such as the UAE in the Middle East, and Singapore and Malaysia in South East Asia – institutions that consistently achieve student satisfaction can expect to gain a valuable competitive advantage. In many countries, student satisfaction has become a measure used to compile rankings and league tables, and higher ranked institutions typically benefit by attracting the top scholars and students, higher levels of external funding as well as enabling them to charge the highest tuition fees (Wilkins and Huisman, 2012).
+</text>
+
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/6">
+A survey conducted in the UAE by Wilkins and Balakrishnan (2011) found that students who choose to study at international branch campuses have different motivations and choice criteria compared to those of international students who choose to study at the main campuses of universities based in Australia, the UK or the USA (Mazzarol and Soutar, 2002; Binsardi and Ekwulugo, 2003; Pimpa, 2005; Shanka et al., 2005; Gatfield and Chen, 2006; Maringe and Carter, 2007; Wilkins and Huisman, 2011). It is interesting to discover therefore if students who choose to study at international branch campuses also have different criteria for determining student satisfaction and whether or not these students are indeed satisfied with their personal experiences at branch campuses.
+</text>
+
+
+<heading page="2" section="2. Literature review" source="cited" id="/page/1/SectionHeader/7" level="2">
+## 2. Literature review
+</heading>
+
+<text page="2" section="2. Literature review" source="cited" id="/page/1/Text/8">
+The literature on customer satisfaction is rich, but in higher education research the focus has often been on assessing the link between teaching quality/learning outcomes and student satisfaction. Most HEIs issue feedback/evaluation questionnaires to students, the results of which are often taken as a proxy for student satisfaction. In fact, student evaluation surveys are generally used to provide feedback to teachers, as a development tool, and to provide a measure of teaching effectiveness to help managers make decisions about employee retention, reward and promotion (Marsh, 1987). However, Nasser and Fresko (2002) found that less than 10 per cent of lecturers made major changes to their teaching as a result of student evaluations.
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="2. Literature review" source="cited" id="/page/2/Text/2">
+There exists in the literature various interpretations of what customer satisfaction actually means. It is generally accepted that customer satisfaction is the product of some type of evaluation process by the customer (Oliver, 1981; Tse and Wilton, 1988). Clemes et al. (2007) observe that more recently researchers have viewed customer satisfaction as a summary of emotional and cognitive responses that pertain to a particular focus (such as expectations or actual experiences), which occur after consumption or after accumulative experiences. Elliot and Healy (2001) argue that student satisfaction is a short-term attitude based on an evaluation of their experience with the education service supplied.
+</text>
+
+<text page="3" section="2. Literature review" source="cited" id="/page/2/Text/3">
+Universities are in the business of providing higher education, and so it is to be expected that the students' classroom experience is a primary determinant of student satisfaction. In seeking to find what quality education meant to students in the UK, Hill et al. (2003) found that the most important factors were quality of lecturer/classroom delivery, quality of feedback given to students during lessons and on assignments and lecturer-student relationships in the classroom. Garcı´a-Aracil's (2009) study examined student satisfaction in 11 European countries and found that despite differences in education systems, satisfaction across different European countries was relatively stable. The factors with the highest levels of influence included contact with fellow students, course content, equipment and stocking of libraries, teaching quality and the supply of teaching/learning materials.
+</text>
+
+<text page="3" section="2. Literature review" source="cited" id="/page/2/Text/4">
+Student satisfaction is not determined solely by the students' teaching and learning experiences but rather by their overall experiences as a customer of a particular institution. In a study conducted in Poland, Sojkin et al. (2012) identified social conditions and educational facilities among the key determinants of student satisfaction in higher education. Also, a study in the USA found that students' perceptions of institutional ability to provide a good intellectual environment positively affects their level of satisfaction (Hartman and Schmidt, 1995). Wells and Daunt (2011) propose a conceptual model where the physical environment of a HEI (which incorporates layout and design factors and general ambient factors) can lead to student satisfaction as an outcome. They found that a sample of UK students were concerned with comfort and equipment in their learning environments.
+</text>
+
+<text page="3" section="2. Literature review" source="cited" id="/page/2/Text/5">
+The quality of any service encounters, or "moments of truth" experienced by customers form part of their overall impression of the whole service provided (Carlzon, 1989). Previous research into lecturer/student interactions has used the critical incident technique (CIT), whereby students are required to recall specific positive and negative experiences (Voss et al., 2010). In order to deliver high-quality services to students, universities must manage every aspect of the student's interaction with all of their service offerings, and in particular those involving its people, as services are delivered by people to people (Douglas et al., 2006). Moments of truth, or critical incidents, can make or break a university's image (Banwet and Datta, 2003). A survey conducted by Sohail and Shaikh (2004) in Saudi Arabia found that contact with staff (both teaching and nonteaching staff) was the most influential factor in students' evaluation of service quality.
+</text>
+
+<text page="3" section="2. Literature review" source="cited" id="/page/2/Text/6">
+The terms "customer satisfaction" and "service quality" are often used interchangeably, but they are in fact two distinct, although related, constructs (Clemes et al., 2007). Parasuraman et al. (1988) regarded satisfaction as a transaction-specific measure whereas they saw service quality as a form of attitude gained through long-run overall evaluation. They argued that customer satisfaction determined service quality. In contrast, Cronin and Taylor (1992) argued that service quality is the antecedent of satisfaction. They found, based on empirical research in four different service industries,
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="2. Literature review" source="cited" id="/page/3/Text/2">
+that satisfaction exerted a stronger and more consistent effect on purchase intentions than service quality, and concluded that customers may not necessarily buy the highest quality service, as convenience, price and availability may enhance satisfaction but not customers' perceptions of service quality. Student satisfaction is also the key determinant of student loyalty (Webb and Jagun, 1997), and it is student loyalty that encourages positive word-of-mouth and student involvement and cooperation with their institution both during and after their studies.
+</text>
+
+
+<heading page="4" section="3. Research questions" source="author" id="/page/3/SectionHeader/3" level="2">
+## 3. Research questions
+</heading>
+
+<text page="4" section="3. Research questions" source="author" id="/page/3/Text/4">
+Although there exists in the literature a high degree of consensus on the main determinants of student satisfaction in higher education, little research has been conducted on student satisfaction in transnational education (Horre, 2012). This research, therefore, intends to fill that gap and provide information for HEI managers in transnational higher education that can be used to improve institutional performance:
+</text>
+
+<list page="4" section="3. Research questions" source="author" id="/page/3/ListGroup/170">
+- RQ1. What are the factors that determine student satisfaction at international branch campuses (in the UAE)?
+- RQ2. Do the factors that determine student satisfaction at international branch campuses (in the UAE) differ significantly across groups categorised by gender, nationality and level of study (undergraduate/postgraduate)?
+- RQ3. What are the factors that would enable accurate prediction of whether or not a student at an international branch campus (in the UAE) is satisfied with their overall experience at that institution?
+</list>
+
+
+<heading page="4" section="4. Method" source="author" id="/page/3/SectionHeader/8" level="2">
+## 4. Method
+</heading>
+
+<text page="4" section="4. Method" source="author" id="/page/3/Text/9">
+This quantitative survey utilised a questionnaire developed by the authors, which consisted of 49 items relating to student perceptions, experience or satisfaction. As student satisfaction in transnational higher education has to date been little studied, the literature revealed no scale that could be adopted in its entirety. Nevertheless, parts of scales were taken or adapted from various studies on student satisfaction, such as Mai (2005), Douglas et al. (2006), Clemes et al. (2007) and Miliszewska and Sztendur (2010). Three items were used to collect personal data about the respondents: their gender, nationality and level of study (undergraduate/postgraduate). Each item was randomly placed on the questionnaire to encourage respondents to consider each question individually. The questions used a seven-point rating scale where 1 ¼ disagree strongly and 7 ¼ agree strongly. The survey questionnaire was completed by respondents using hard copies or an online version.
+</text>
+
+<text page="4" section="4. Method" source="author" id="/page/3/Text/10">
+The study involved students who were studying at an international branch campus in the UAE. The survey questionnaire was distributed by students of a capstone project at an international branch campus in the UAE. A capstone project is a final year undergraduate subject – in this case Marketing – that has a report on a particular topic embedded in it, which synthesises all knowledge accumulated in previous subjects studied. Students posted the survey link on their Facebook accounts and sent personal e-mails to all of their friends in the UAE who study at an international branch campus. The questionnaire informed respondents how the data were going to be used and students completing the capstone project gave their consent for us to use the data they obtained.
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="4. Method" source="author" id="/page/4/Text/2">
+The questionnaires were distributed over a five-week period in February/March 2011, generating 247 usable responses. Most of the responses came from just six institutions – one Australian, two UK and three North American. Over 85 per cent of the respondents were following a programme in business, management or computer science/information technology, which is not surprising given that most branch campuses in the UAE operate in these fields and 43 per cent of all students at nonfederal institutions in the UAE study these subjects (Aboul-Ela, 2009). Table I shows a summary profile of the respondents.
+</text>
+
+<text page="5" section="4. Method" source="author" id="/page/4/Text/3">
+A logit, or logistic regression, model was developed, which is a qualitative non-linear binary-choice model, where individuals are faced with a choice between two alternatives. Logistic regression is well suited to the study of categorical outcome variables in an educational context, for example, determining whether individuals enrol on a particular course or not, whether individual students complete a course or drop out, or indeed, as this study investigates, whether students are satisfied or not with their institution.
+</text>
+
+<text page="5" section="4. Method" source="author" id="/page/4/Text/4">
+The logit model was selected for this study because it has the advantages of being able to work with binary response independent and dependent variables, it is not constrained by normality or equal variance/covariance assumptions for the residuals and in terms of classification and prediction it has been shown to produce fairly accurate results (Fan and Wang, 1999). Similar to other statistical models, logistic regression models derived from samples are subject to sampling errors, thus making them unsuitable for small samples. Long (1997) suggested that, as a rule of thumb, a minimum of ten observations per independent variable is advisable. As the sample size used in this study was 247 and our model had six independent variables, the minimum observation/predictor ratio recommended by Long (1997) has been met.
+</text>
+
+<text page="5" section="4. Method" source="author" id="/page/4/Text/5">
+The model developed has six independent variables (see Appendix 1for scale items). Scale reliability was assessed using Cronbach's a. The a values ranged from 0.84 to 0.92, satisfying the minimum 0.70 recommended by Nunnally (1978). For each of the independent variable items, scores of 1-4 were coded 0 ¼ not satisfied, and scores of 5-7 were coded 1 ¼ satisfied. Although scores of 4 indicate that the student held a neutral or indifferent attitude to the item, it has been interpreted that he/she was not satisfied. Therefore, students who are classified as "not satisfied" are not necessarily dissatisfied, but they are not satisfied.
+</text>
+
+<table page="5" section="4. Method" source="author" id="/page/4/Table/6">
+| Categories | Number | % |
+| --- | --- | --- |
+| *Gender* |  |  |
+| Male | 127 | 51.4 |
+| Female | 120 | 48.6 |
+| *Nationality* |  |  |
+| Indian | 78 | 31.6 |
+| Pakistani | 55 | 22.2 |
+| Emirati (UAE) | 32 | 13.0 |
+| African | 18 | 7.3 |
+| Other | 64 | 25.9 |
+| *Level of study* |  |  |
+| Undergraduate | 161 | 65.2 |
+| Postgraduate | 86 | 34.8 |
+| Note: *n* = 247 |
+</table>
+
+<text page="5" section="4. Method" source="author" id="/page/4/Text/7">
+Table I. Summary profile of respondents
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="4. Method" source="author" id="/page/5/Text/1">
+148
+</text>
+
+<text page="6" section="4. Method" source="author" id="/page/5/Text/2">
+The study sought to discover if students were satisfied or not with their overall experience at their institution and so the dependent variable is "overall satisfaction". which comprised five items (see Appendix 1). The dependent variable scale achieved an α value of 0.94. The coding was completed as for the independent variables so that 0 = not satisfied overall with institution, and 1 = satisfied overall with institution.
+</text>
+
+<text page="6" section="4. Method" source="author" id="/page/5/Text/3">
+The logit model is estimated as:
+</text>
+
+<equation page="6" section="4. Method" source="author" id="/page/5/Equation/4">
+$$
+Ln[P/(1-P)] = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + \dots + \beta_n X_n
+$$
+</equation>
+
+<text page="6" section="4. Method" source="author" id="/page/5/Text/5">
+where P is the odds that the student responded "satisfied", 1-P is the odds that they responded "not satisfied", \beta_0 is the intercept or constant term, X_i are the independent variables as shown in Appendix 1 and \beta_i, where i = 1, 2, 3, ... n, are the logistic regression coefficients associated with each independent variable. The model was developed using the PASW Statistics 18 software package.
+</text>
+
+
+<heading page="6" section="5. Results and discussion" source="author" id="/page/5/SectionHeader/6" level="2">
+## 5. Results and discussion
+</heading>
+
+<text page="6" section="5. Results and discussion" source="author" id="/page/5/Text/7">
+The logit model developed possessed the ability to predict whether or not a student at a branch campus in the UAE was satisfied or not satisfied overall with their institution. A total of 247 cases were analysed and the full model significantly predicted the students' choices (omnibus \chi^2 = 154.74, df = 6, p &lt; 0.000). The model accounted for between 46.6 per cent (Cox &amp; Snell R^2) and 66.0 per cent (Nagelkerke R^2) of the variance in student choices. The model was successful in predicting 91.9 per cent of the students who were satisfied and 77.0 per cent of those who were not satisfied. This resulted in 87.4 per cent of all predictions being accurately predicted by the model. Table II shows the observed and predicted values, and Table III gives the coefficients, the Wald statistic, the associated degrees of freedom and the probability values for each of the predictor variables. The predictor variables that are significant at the 5 per cent level
+</text>
+
+<table page="6" section="5. Results and discussion" source="author" id="/page/5/Table/8">
+|  | Observed | PredictedSATN | Correct (%) |
+| --- | --- | --- | --- |
+| Not satisfied | Satisfied |
+| SATN | Not satisfied | 57 | 17 | 77.0 |
+| Satisfied | 14 | 159 | 91.9 |
+| Overall Percentage |  |  | 87.4 |
+| Note: aThe cut value is 0.500 |
+</table>
+
+<text page="6" section="5. Results and discussion" source="author" id="/page/5/Text/11">
+Predicted
+</text>
+
+<caption page="6" section="5. Results and discussion" source="author" id="/page/5/Caption/9">
+Table II. Classification table: observed and predicted values&lt;sup&gt;a&lt;/sup&gt;
+</caption>
+
+<table page="6" section="5. Results and discussion" source="author" id="/page/5/Table/10">
+|  |  | \beta | SE \beta | Wald's \chi^2 | df | p | e^{\beta} |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Table III.Summary information forindependent variables andconstant term | LECT | 1.299 | 0.496 | 6.861 | 1 | 0.009 | 3.667 |
+| PROG | 0.539 | 0.509 | 1.120 | 1 | 0.290 | 1.714 |
+| ASST | 0.662 | 0.500 | 1.755 | 1 | 0.185 | 1.939 |
+| RESO | 1.185 | 0.571 | 4.306 | 1 | 0.038 | 3.271 |
+| TECH | 1.146 | 0.493 | 5.406 | 1 | 0.020 | 3.145 |
+| FACS | 0.942 | 0.506 | 3.474 | 1 | 0.062 | 2.566 |
+| Constant | -2.479 | 0.426 | 33.838 | 1 | 0.000 | 0.084 |
+</table>
+
+</page>
+<page number="7">
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/2">
+are LECT (quality of lecturers), RESO (quality and availability of resources) and TECH (effective use of technology). The Hosmer and Lemeshow test divides the subjects into deciles based on predicted probabilities and then computes a \chi^2 from observed and expected frequencies. The non-significant \chi^2 (p=0.246) indicates that the model fits the data at an acceptable level.
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/3">
+A one-way between groups multivariate analysis of variance (MANOVA) was then performed to investigate differences in satisfaction between males and females, students of different nationality and students studying at undergraduate and postgraduate levels. Only the differences in satisfaction across groups categorised by level of study appeared significant: gender: F(6, 240) = 1.48, p = 0.185, Wilks' \lambda = 0.964; nationality: F(24, 828) = 0.70, p = 0.858, Wilks' \lambda = 0.933; level of study: F(6, 240) = 2.42, p = 0.040, Wilks' \lambda = 0.947.
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/4">
+In order to better interpret the MANOVA results, univariate ANOVAs were performed as *post hoc* analysis (Appendix 2). Although the MANOVA results indicated a statistically significant difference between undergraduates and postgraduates, the univariate test shows the results as mostly non-significant. The reason for this is that the multivariate test takes account of the correlation between dependent variables and so it has more power to detect group differences (Field, 2009, p. 610). As the univariate tests do not reveal statistically significant differences between groups of different categorisations, this suggests that institutions are not able to effectively employ strategies which aim to improve the satisfaction of specific categories of student.
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/5">
+Pearson's \chi^2-tests were used to investigate whether there was association between groups of students categorised by gender, nationality and level of programme and overall satisfaction with their institution. The results of the \chi^2-tests indicated that none of the relationships between the groups and levels of satisfaction were significant (Appendix 3). The strength of association between each pair of variables was assessed using the Cramer's V test, which indicated relationships of weak strength (1 being the maximum possible value).
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/6">
+The descriptive statistics reveal that the satisfaction of Indian and Pakistani students were higher than those of African and Emirati students. Attitudes towards higher education vary in different countries and cultures. In India, for example, higher education and higher education teachers are both generally highly respected (Smith, 2009). Cultural differences between different nationalities can explain student preferences for different learning and assessment styles, and a larger cultural distance between a student's home country and the institution's home country (Hofstede, 1984) might contribute towards lower levels of satisfaction.
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/7">
+Students' levels of satisfaction (and the scores that students award in feedback/ evaluation surveys) can be affected by a wide range of factors, such as the student's level of academic attainment (Wilkins and Epps, 2011) and individual personality differences, such as locus of control, which defines how individuals view outcomes in terms of their perceived control over future events and environmental influences (Garger *et al.*, 2010).
+</text>
+
+<text page="7" section="5. Results and discussion" source="author" id="/page/6/Text/8">
+Students with an internal locus of control believe that outcomes in his/her life are controlled by his/her own actions, and are likely therefore to engage in behaviours consistent with greater achievement. Also, expectancy theory suggests that when students perceive they are able to do well on a course they are more likely to put in greater effort, thereby increasing the likelihood of greater achievement and satisfaction (Vroom, 1964; Garger *et al.*, 2010). In contrast, a student who struggles to study in the English language – as many UAE students do – might more easily "give up", leading to
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="5. Results and discussion" source="author" id="/page/7/Text/2">
+lower achievement and satisfaction. The descriptive statistics also revealed that postgraduate students had higher levels of satisfaction than undergraduate students. Institution managers should conduct further research to identify the reasons why certain categories of student tend to have higher or lower levels of satisfaction, so that they can address the issues and improve the satisfaction of all students.
+</text>
+
+
+<heading page="8" section="6. Conclusion" source="author" id="/page/7/SectionHeader/3" level="2">
+## 6. Conclusion
+</heading>
+
+<text page="8" section="6. Conclusion" source="author" id="/page/7/Text/4">
+A logit model was developed that had an 87.4 per cent success rate in predicting whether or not a student at an international branch campus in the UAE was satisfied overall with their institution. The factors that were most influential in determining whether or not a student was satisfied were quality of lecturers, quality and availability of resources and effective use of technology. These factors are not different to those cited in previous studies on student satisfaction in other countries (e.g. Hill et al., 2003; Garcı´a-Aracil, 2009; Miliszewska and Sztendur, 2010). However, it should be recognised that student expectations are likely to be different at branch and home campuses. A score of "7" awarded by a student at a branch campus for "quality and availability of resources" is not be directly comparable with a "7" awarded by students at home campuses because the students at each type of institution will have, at least to some extent, different expectations of what they should receive.
+</text>
+
+<text page="8" section="6. Conclusion" source="author" id="/page/7/Text/5">
+The findings of this study reinforce the message to HEI managers in branch campuses about where they should prioritise their efforts if they are to achieve student satisfaction. Students at branch campuses, as elsewhere, are primarily concerned with their classroom experiences and their access to, and use of, learning resources. In the competitive higher education hubs where many branch campuses operate, achieving increased levels of student satisfaction could result in significant competitive advantage by improving student retention and student achievement and attracting new students through positive word-of-mouth.
+</text>
+
+<text page="8" section="6. Conclusion" source="author" id="/page/7/Text/6">
+It was found that there were significant differences in satisfaction between undergraduate and postgraduate students, so HEI managers should investigate the reasons for the lower levels of satisfaction among undergraduate students. With the exception of African students, more than two-thirds of the students in each group categorised by nationality were satisfied overall with their institution. For institutions that have (mostly) only been in existence for several years this is a commendable result, although there obviously remains scope for further improvement.
+</text>
+
+<text page="8" section="6. Conclusion" source="author" id="/page/7/Text/7">
+Given the criticisms of international branch campuses to be found in the literature regarding quality and other issues, including political and ideological concerns (Altbach, 2004; Becker, 2009; Donn and Al Manthri, 2010; Naidoo, 2007; Wilkins, 2010), the managements of branch campuses in the UAE might be relatively pleased with the findings of this study. That said, the levels of student satisfaction found among UAE branch campuses might not be as high as the average satisfaction levels found at UK universities – see, for example, The Times Higher Education (THE) student experience survey (THE, 2011). The THE survey had many similar questions to those in this research and it also used a seven-point rating scale, making comparisons relatively easy. However, it should be noted that students in the UK are much more familiar with participating in student satisfaction surveys than students in the UAE, and as UK students are generally aware that the results of satisfaction surveys are often used in institutional rankings they have an incentive to give higher scores. Nevertheless, UAE branch campuses should still develop and implement strategies that increase levels of student satisfaction, with the goal that every "moment of truth" or "critical incident"
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="6. Conclusion" source="author" id="/page/8/Text/2">
+that students encounter is a positive experience. HEI managers might use the findings of this study to review their own institution's performance so that areas for improvement can be identified.
+</text>
+
+<text page="9" section="6. Conclusion" source="author" id="/page/8/Text/3">
+A weakness of this study is that it is unable to specify levels of student satisfaction in specific institutions, which means that we cannot analyse the impacts on satisfaction of national systems of education or different teaching and staffing models, such as the effects of employing part-time, locally recruited lecturers rather than lecturers who work full time and who were recruited from the institution's home country. Although the researchers know which institutions the respondents were at it, since the data collection method relied on personal contacts, it was decided not to conduct any analysis along institutional lines. HEIs in the UAE are particularly concerned about their reputations and although other institutions were invited to participate in this research, they all declined the offer.
+</text>
+
+<text page="9" section="6. Conclusion" source="author" id="/page/8/Text/4">
+Given that cultures, customs, traditions and social contexts vary considerably in different locations, the findings of this study are not generalisable across all international branch campuses globally. Research has already been conducted into student satisfaction with Australian transnational higher education in South East Asia (Miliszewska and Sztendur, 2010; Horre, 2012) but similar studies now need to be undertaken in other regions.
+</text>
+
+
+<heading page="9" section="References" source="author" id="/page/8/SectionHeader/5" level="2">
+## References
+</heading>
+
+<list page="9" section="References" source="author" id="/page/8/ListGroup/200">
+- Aboul-Ela, B. (2009), "Overview of the quality assurance of higher education in the UAE", available at: www.international.ac.uk/resources/UK%20VCs%20Presentation%20- %20Feb2009.ppt (accessed 10 May 2011).
+- Altbach, P.G. (2004), "Globalisation and the university: myths and realities in an unequal world", Tertiary Education and Management, Vol. 10 No. 1, pp. 3-25.
+- Alves, H. and Raposo, M. (2009), "The measurement of the construct satisfaction in higher education", The Service Industries Journal, Vol. 29 No. 2, pp. 203-18.
+- Banwet, D.K. and Datta, B. (2003), "A study of the effect of perceived lecture quality on post-lecture intentions", Work Study, Vol. 52 No. 5, pp. 234-43.
+- Bean, J.P. and Bradley, R.K. (1986), "Untangling the satisfaction-performance relationship for college students", Journal of Higher Education, Vol. 57 No. 4, pp. 393-412.
+- Becker, R.F.J. (2009), International Branch Campuses: Markets and Strategies, The Observatory on Borderless Higher Education, London.
+- Binsardi, A. and Ekwulugo, F. (2003), "International marketing of British education: research on the students' perception and the UK market penetration", Marketing Intelligence &amp; Planning, Vol. 21 No. 5, pp. 318-27.
+- Bohm, A., Davis, D., Meares, D. and Pearce, D. (2002), "Global student mobility 2025: forecasts of the global demand for international higher education", Proceedings of the 16th Australian International Education Conference, Hobart, 30 September-4 October.
+- Carlzon, J. (1989), Moments of Truth, HarperCollins, New York, NY.
+- Clemes, M.D., Gan, C.E.C. and Kao, T.H. (2007), "University student satisfaction: an empirical analysis", Journal of Marketing for Higher Education, Vol. 17 No. 2, pp. 292-325.
+- Cronin, J.J.J. and Taylor, S.A. (1992), "Measuring service quality: a re-examination and extension", Journal of Marketing, Vol. 56 No. 3, pp. 55-68.
+- Donn, G. and Al Manthri, Y. (2010), Globalisation and Higher Education in the Arab Gulf States, Symposium Books, Didcot.
+- Douglas, J., Douglas, A. and Barnes, B. (2006), "Measuring student satisfaction at a UK university", Quality Assurance in Education, Vol. 14 No. 3, pp. 251-67.
+</list>
+
+</page>
+<page number="10">
+<list page="10" section="References" source="author" id="/page/9/ListGroup/234">
+- Elliot, K.M. and Healy, M.A. (2001), "Key factors influencing student satisfaction related to recruitment and retention", Journal of Marketing for Higher Education, Vol. 10 No. 4, pp. 1-11.
+- Fan, X. and Wang, L. (1999), "Comparing linear discriminant function with logistic regression for the two-group classification problem", Journal of Experimental Education, Vol. 67 No. 3, pp. 265-86.
+- Field, A. (2009), Discovering Statistics using SPSS, 3rd ed., Sage, London.
+- Garcı´a-Aracil, A. (2009), "European graduates' level of satisfaction with higher education", Higher Education, Vol. 57 No. 1, pp. 1-21.
+- Garger, J., Thomas, M. and Jacques, P.H. (2010), "Early antecedents to students' expected performance", International Journal of Educational Management, Vol. 24 No. 2, pp. 129-38.
+- Gatfield, T. and Chen, C. (2006), "Measuring student choice criteria using the theory of planned behaviour: the case of Taiwan, Australia, UK and USA", Journal of Marketing for Higher Education, Vol. 16 No. 1, pp. 77-95.
+- Hartman, D.E. and Schmidt, S.L. (1995), "Understanding student/alumni satisfaction from a consumer's perspective: the effects of institutional performance and program outcomes", Research in Higher Education, Vol. 36 No. 2, pp. 197-217.
+- Hill, Y., Lomas, L. and MacGregor, J. (2003), "Students' perceptions of quality in higher education", Quality Assurance in Education, Vol. 11 No. 1, pp. 15-20.
+- Horre, L. (2012), "Transnational student voices: reflections on a second chance", Journal of Studies in International Education, Vol. 16 No. 3, pp. 271-86.
+- Hofstede, G. (1984), Culture's Consequences: International Differences in Work-Related Values, Sage, Newbury Park, CA.
+- Knight, J. (2011), "Education hubs: a fad, a brand, an innovation?", Journal of Studies in International Education, Vol. 15 No. 3, pp. 221-40.
+- Long, J.S. (1997), Regression Models for Categorical and Limited Dependent Variables, Sage, Thousand Oaks, CA.
+- McBurnie, G. and Ziguras, C. (2007), Transnational Education: Issues and Trends in Offshore Higher Education, Routledge, Abingdon.
+- Mai, L.W. (2005), "A comparative study between UK and US: the student satisfaction in higher education and its influential factors", Journal of Marketing Management, Vol. 21 No. 7, pp. 859-78.
+- Maringe, F. and Carter, S. (2007), "International students' motivations for studying in UK HE: insights into the choice and decision making of African students", International Journal of Educational Management, Vol. 21 No. 6, pp. 459-75.
+- Marsh, H.W. (1987), "Students' evaluation of university teaching: research findings, methodological issues and directions for future research", International Journal of Educational Research, Vol. 11 No. 3, pp. 252-388.
+- Mazzarol, T. and Soutar, G.N. (2002), "Push-pull factors influencing international student destination choice", International Journal of Educational Management, Vol. 16 No. 2, pp. 82-90.
+- Miliszewska, I. and Sztendur, E. (2010), Australian TNE Programmes in Southeast Asia: The Student Perspective, The Observatory on Borderless Higher Education, London.
+- Naidoo, R. (2007), Higher Education as a Global Commodity: The Perils and Promises for Developing Countries, The Observatory on Borderless Higher Education, London.
+- Nasser, F. and Fresko, B. (2002), "Faculty views of student evaluation of college teaching", Assessment &amp; Evaluation in Higher Education, Vol. 27 No. 2, pp. 187-98.
+- Nunnally, J.C. (1978), Psychometric Theory, McGraw-Hill, New York, NY.
+- Oliver, R.L. (1981), "Measurement and evaluation of satisfaction processes in retail settings", Journal of Retailing, Vol. 53 No. 3, pp. 25-48.
+</list>
+
+</page>
+<page number="11">
+<list page="11" section="References" source="author" id="/page/10/ListGroup/219">
+- Parasuraman, A., Zeithaml, V.A. and Berry, L.L. (1988), "SERVQUAL: a multiple-item scale for measuring consumer perceptions of service quality", Journal of Retailing, Vol. 64 No. 1, pp. 12-37.
+- Pimpa, N. (2005), "Marketing Australian universities to Thai students", Journal of Studies in International Education, Vol. 9 No. 2, pp. 137-46.
+- Shanka, T., Quintal, V. and Taylor, R. (2005), "Factors influencing international students' choice of an education destination – a correspondence analysis", Journal of Marketing for Higher Education, Vol. 15 No. 2, pp. 31-46.
+- Smith, L. (2009), "Sinking in the sand? Academic work in an offshore campus of an Australian university", Higher Education Research &amp; Development, Vol. 28 No. 5, pp. 467-79.
+- Sohail, M.S. and Shaikh, N.M. (2004), "Quest for excellence in business education: a study of student impressions of service quality", International Journal of Educational Management, Vol. 18 No. 1, pp. 58-65.
+- Sojkin, B., Bartkowiak, P. and Skuza, A. (2012), "Determinants of higher education choices and student satisfaction: the case of Poland", Higher Education, Vol. 63 No. 5, pp. 565-81.
+- Times Higher Education (THE) (2011), "THE student experience survey: rankings 79-113", Times Higher Education, 17 February, available at: www.timeshighereducation.co.uk/ Journals/THE/THE/17_February_2011/attachments/THE%20Student%20Experience% 20Survey%20rankings79-113.pdf (accessed 21 February 2011).
+- Tinto, V. (1993), Leaving College: Rethinking the Causes and Cures of Student Attrition, University of Chicago Press, Chicago, IL.
+- Tse, D.K. and Wilton, P.C. (1988), "Models of consumer satisfaction formation: an extension", Journal of Marketing Research, Vol. 25 No. 2, pp. 204-12.
+- Voss, R., Gruber, T. and Reppel, A. (2010), "Which classroom service encounters make students happy or unhappy? Insights from an online CIT study", International Journal of Educational Management, Vol. 24 No. 7, pp. 615-36.
+- Vroom, V.H. (1964), Work and Motivation, Wiley, New York, NY.
+- Webb, D. and Jagun, A. (1997), "Customer care, customer satisfaction, value, loyalty and complaining behavior: validation in a UK university setting", Journal of Consumer Satisfaction, Dissatisfaction and Complaining Behavior, Vol. 10, pp. 139-51.
+- Wells, V. and Daunt, K. (2011), "Eduscape: an exploratory analysis of the physical learning environment", Proceedings of the Academy of Marketing Annual Conference 2011, Liverpool, 5-7 July.
+- Wilkins, S. (2010), "Higher education in the United Arab Emirates: an analysis of the outcomes of significant increases in supply and competition", Journal of Higher Education Policy and Management, Vol. 32 No. 4, pp. 389-400.
+- Wilkins, S. and Balakrishnan, M. (2011), "Why do students choose to study at international branch campuses? Findings from the United Arab Emirates", Proceedings of the 20th International Forum of the ASHE Annual Conference 2011, Charlotte, NC, 16-19 November.
+- Wilkins, S. and Epps, A. (2011), "Student evaluation web sites as potential sources of consumer information in the United Arab Emirates", International Journal of Educational Management, Vol. 25 No. 5, pp. 410-22.
+- Wilkins, S. and Huisman, J. (2011), "Student recruitment at international branch campuses: can they compete in the global market?", Journal of Studies in International Education, Vol. 15 No. 3, pp. 299-316.
+- Wilkins, S. and Huisman, J. (2012), "UK business school rankings over the last 30 years (1980- 2010): trends and explanations", Higher Education, Vol. 63 No. 3, pp. 367-82.
+</list>
+
+</page>
+<page number="12">
+
+<heading page="12" section="IJEM 27,2" source="author" id="/page/11/SectionHeader/0" level="2">
+## IJEM 27,2
+</heading>
+
+
+<heading page="12" section="Appendix 1" source="author" id="/page/11/SectionHeader/1" level="2">
+## Appendix 1
+</heading>
+
+<text page="12" section="Appendix 1" source="author" id="/page/11/Text/2">
+154
+</text>
+
+<table page="12" section="Appendix 1" source="author" id="/page/11/Table/3">
+| Construct | Item | Mean | SD | Mode | Cronbach's\alpha |
+| --- | --- | --- | --- | --- | --- |
+| Independent variables |  |  |  |  |
+| Lecturers (LECT) | My lecturers make the subjects interesting | 4.68 | 1.65 | 5 | 0.90 |
+| My lecturers are experts in their fields | 5.07 | 1.65 | 7 |  |
+| My lecturers use language that I understand | 5.33 | 1.56 | 6 |  |
+| I have as much contact with my lecturers as I need | 4.92 | 1.64 | 5 |  |
+| My lecturers are sympathetic if I have problemsthat affect my work | 4.82 | 1.65 | 5 |  |
+| Programme (PROG) | Course content is made relevant to the UAE | 4.68 | 1.60 | 5 | 0.87 |
+| My course is relevant to my intended futureemployment | 5.37 | 1.55 | 6 |  |
+| My course is intellectually stimulating | 4.89 | 1.57 | 6 |  |
+| Assessment and feedback(ASST) | Modules/units are assessed using a varietyof methods | 5.07 | 1.52 | 6 | 0.84 |
+| My course involves coursework/on-goingassessment | 5.22 | 1.63 | 6 |  |
+| I receive detailed and helpful feedback on my work | 4.76 | 1.68 | 6 |  |
+| Resources (RESO) | The library meets all of my learning needs | 4.83 | 1.57 | 5 | 0.86 |
+| The course materials satisfy all of mylearning needs | 5.00 | 1.58 | 5 |  |
+| Technology is used to provide learning resourcesoutside of lessons | 4.98 | 1.60 | 6 |  |
+| I can always find a computer to work onwhen needed | 5.14 | 1.71 | 6 |  |
+| Technology (TECH) | All teaching/lecturing rooms have goodaudio-visual facilities | 5.04 | 1.60 | 6 | 0.84 |
+| My lecturers use technology well in their teaching | 4.87 | 1.56 | 5 |  |
+| I use ICT when undertaking research and topresent my work | 5.23 | 1.61 | 7 |  |
+| Facilities and social life(FACS) | My campus has a good range of facilities, e.g.a refectory, sports and leisure provision | 5.01 | 1.72 | 6 | 0.92 |
+| My university has lots of clubs and societiesfor students | 5.09 | 1.69 | 7 |  |
+| A lot of leisure activities and entertainment areprovided for students | 4.90 | 1.68 | 5 |  |
+| My university has a good careers advice andinternships service | 4.84 | 1.65 | 5 |  |
+| There is a lively social scene on campus | 5.00 | 1.68 | 6 |  |
+| My university provides accommodation forstudents | 5.38 | 1.53 | 7 |  |
+| Dependent variable |  |  |  |  |
+| Satisfaction (SATN) | So far, my course has met all of my expectations | 4.98 | 1.60 | 6 | 0.94 |
+| I am very satisfied with my university and woulddefinitely choose it again | 4.96 | 1.73 | 5 |  |
+| My choice of university was a wise decision | 5.28 | 1.58 | 6 |  |
+| My programme offers good value for money | 4.88 | 1.63 | 6 |  |
+| I would recommend my university to friends | 5.05 | 1.70 | 5 and7b |
+</table>
+
+<text page="12" section="Appendix 1" source="author" id="/page/11/Text/4">
+Table AI. Scale itemsa
+</text>
+
+<text page="12" section="Appendix 1" source="author" id="/page/11/Text/5">
+Notes: ^(a) All items used a seven-point rating scale, where 1 ¼ disagree strongly and 7 ¼ agree strongly; ^(b) multiple modes (each with n ¼ 56, 22.7 per cent of respondents)
+</text>
+
+</page>
+<page number="13">
+<table page="13" section="Appendix 1" source="author" id="/page/12/Table/0">
+| Components | Group means (SD)a | F | Significance |
+| --- | --- | --- | --- |
+| Male |  |
+| Lecturer | 5.02 (1.44) | 4.87 (1.27) |  | 0.720 | 0.397 |
+| Programme | 4.94 (1.50) | 5.01 (1.28) |  | 0.174 | 0.677 |
+| Assessment | 4.98 (1.48) | 5.04 (1.27) |  | 0.117 | 0.733 |
+| Resources | 4.98 (1.41) | 4.98 (1.29) |  | 0.002 | 0.967 |
+| Technology | 5.08 (1.42) | 5.00 (1.31) |  | 0.248 | 0.619 |
+| Facilities | 5.01 (1.42) | 5.03 (1.29) |  | 0.009 | 0.926 |
+|  | African | Emirati | Indian | Pakistani | Other |  |  |
+| Lecturer | 4.13 (2.32) | 4.79 (1.36) | 5.06 (1.21) | 5.07 (1.31) | 5.00 (1.19) | 2.014 | 0.093 |
+| Programme | 4.24 (2.16) | 4.78 (1.40) | 5.10 (1.24) | 5.02 (1.41) | 5.07 (1.25) | 1.680 | 0.155 |
+| Assessment | 4.13 (2.22) | 4.93 (1.56) | 5.17 (1.14) | 5.14 (1.39) | 5.01 (1.18) | 2.295 | 0.060 |
+| Resources | 4.11 (2.13) | 4.82 (1.44) | 5.10 (1.67) | 5.19 (1.35) | 4.98 (1.16) | 2.528 | 0.041 |
+| Technology | 4.24 (2.22) | 4.90 (1.41) | 5.17 (1.23) | 5.27 (1.34) | 4.98 (1.15) | 2.283 | 0.061 |
+| Facilities | 4.14 (2.17) | 4.87 (1.38) | 5.15 (1.16) | 5.22 (1.32) | 5.02 (1.23) | 2.536 | 0.041 |
+|  | UG | PG |  |  |  |
+| Lecturer | 4.82 (1.41) | 5.18 (1.25) |  | 3.914 | 0.049 |
+| Programme | 4.81 (1.47) | 5.28 (1.19) |  | 6.669 | 0.010 |
+| Assessment | 4.95 (1.44) | 5.14 (1.25) |  | 1.102 | 0.295 |
+| Resources | 4.89 (1.43) | 5.16 (1.16) |  | 2.268 | 0.133 |
+| Technology | 4.96 (1.45) | 5.19 (1.18) |  | 1.639 | 0.202 |
+| Facilities | 4.97 (1.42) | 5.12 (1.22) |  | 0.653 | 0.420 |
+| Notes: UG, undergraduate students; PG, postgraduate students. aMeasured on a seven-point rating |
+</table>
+
+
+<heading page="13" section="Appendix 3" source="author" id="/page/12/SectionHeader/1" level="2">
+## Appendix 3
+</heading>
+
+<text page="13" section="Appendix 3" source="author" id="/page/12/Text/5">
+scale where 1 = disagree strongly and  7 = agree strongly
+</text>
+
+<table page="13" section="Appendix 3" source="author" id="/page/12/Table/2">
+| Group | Not satisfied (%) | Satisfied (%) | \chi^2 | df | Significance | Cramer's V |
+| --- | --- | --- | --- | --- | --- | --- |
+| Males | 31.5 | 68.5 | 0.294 | 1 | 0.588 | 0.035 |
+| Females | 28.3 | 71.7 |  |  |  |  |
+| African | 50.0 | 50.0 | 4.119 | 4 | 0.390 | 0.129 |
+| Emirati (UAE) | 31.2 | 68.8 |  |  |  |  |
+| Indian | 28.2 | 71.8 |  |  |  |  |
+| Pakistani | 25.5 | 74.5 |  |  |  |  |
+| Other | 29.7 | 70.3 |  |  |  |  |
+| Undergraduate | 32.3 | 67.7 | 1.205 | 1 | 0.272 | 0.070 |
+| Postgraduate | 25.6 | 74.4 |  |  |  |  |
+</table>
+
+<text page="13" section="Appendix 3" source="author" id="/page/12/Text/6">
+(univariate ANOVAs)
+</text>
+
+
+<heading page="13" section="About the authors" source="author" id="/page/12/SectionHeader/3" level="2">
+## About the authors
+</heading>
+
+<text page="13" section="About the authors" source="author" id="/page/12/Text/4">
+Stephen Wilkins has 15 years' experience as a Lecturer in Business and Management and was formerly director of professional management programmes at Dubai University College, United Arab Emirates. He has authored/co-authored many refereed articles, published in a range of education and management journals, and he was winner of the Tony Adams Award for Excellence in Research 2011 of the European Association for International Education. He is
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="About the authors" source="author" id="/page/13/Text/0">
+IJEM 27,2
+</text>
+
+<text page="14" section="About the authors" source="author" id="/page/13/Text/1">
+156
+</text>
+
+<text page="14" section="About the authors" source="author" id="/page/13/Text/2">
+currently a PhD candidate in Management at the University of Bath, UK. Stephen Wilkins is the corresponding author and can be contacted at: S.J.K.Wilkins@bath.ac.uk
+</text>
+
+<text page="14" section="About the authors" source="author" id="/page/13/Text/3">
+Melodena Stephens Balakrishnan is an Associate Professor and MBA Programme Director in the Faculty of Business and Management, University of Wollongong in Dubai, United Arab Emirates. Her areas of research include services marketing and customer relationship management, and she has published and achieved multiple research grants in these areas. She is the founder and chair of the Academy of International Business – Middle East and North Africa Chapter. She is also regional editor for Emerald's Emerging Markets Case Study Collection and editor for the book series – Actions and Insights.
+</text>
+
+</page>
+</paper>

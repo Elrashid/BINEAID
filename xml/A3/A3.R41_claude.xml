@@ -1,0 +1,243 @@
+<paper source_file="A3.R41" title="" total_pages="11" figures="1" figures_with_images="1">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 1 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="" source="author" id="/page/0/SectionHeader/0" level="2">
+## 
+</heading>
+
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R41_fig01.jpg">[FIGURE: see A3.R41_fig01.jpg]</figure>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+**Fall** **2023, Vol. 17** **No. 2**
+</text>
+
+
+<heading page="1" section="**A Ten-Step Approach to** **Refreshing Strategic Plans Within ** **Higher Education**" source="author" id="/page/0/SectionHeader/3" level="1">
+# **A Ten-Step Approach to** **Refreshing Strategic Plans Within ** **Higher Education**
+</heading>
+
+
+<heading page="1" section="**James Kirby Easterling, Eastern Kentucky University** **Kristen B. Wilson, Eastern Kentucky University**" source="author" id="/page/0/SectionHeader/4" level="1">
+# **James Kirby Easterling, Eastern Kentucky University** **Kristen B. Wilson, Eastern Kentucky University**
+</heading>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/5" level="3">
+### **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/6">
+Academic institutions, ranging from for-profit companies to non-profit organizations like  hospitals and public universities, periodically engage in crafting strategic plans. These  plans guide organizations towards their long-term objectives and typically have a  duration of one to five years. This research paper primarily focuses on strategic  planning for academic units within comprehensive university systems but is applicable  to any academic or staff unit in higher education.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+The paper emphasizes the importance of alignment with the university's overall strategic  plan, which ensures that academic units pursue goals consistent with the institution's  vision. A diverse strategic planning committee, comprising faculty and staff from  different sub-departments and experience levels, is recommended to facilitate  comprehensive input and collaboration. Further, integration is the key to success,  requiring alignment with organizational plans, systems, and culture. The strategic  elements should be visible and integrated into various processes, such as hiring,  classroom instruction, and campus events.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/8">
+While strategic planning is a vital endeavor for organizations, there is limited research  on its impact and best practices in academic institutions. This paper fills a gap in the  literature and provides a comprehensive ten-step approach applicable to most colleges  and universities of all sizes and missions. By following this framework, academic units  can develop effective strategic plans that align with their institution's vision, engage  stakeholders, and drive success in achieving long-term objectives.
+</text>
+
+
+<heading page="1" section="**Introduction**" source="author" id="/page/0/SectionHeader/9" level="3">
+### **Introduction**
+</heading>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/10">
+Organizations of every size, including those that make physical (tangible) goods, to  service (intangible) providers, from for-profit companies to non-profit institutions (e.g.,  hospitals, museums, professional associations, public universities), periodically engage  in crafting a strategic plan. While plans vary in duration, with operational and tactical  plans typically focusing within the next year, strategic plans have a longer-term focus  encompassing one to five years into the future. As such, one can think of strategic  planning as a process of guiding an organization toward reaching its long-term plans.
+</text>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/11">
+Comprehensive university systems are much like corporations with multiple strategic  business units in that comprehensive university systems, for example, are often  comprised of multiple academic elements. These might include schools of business,
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/0">
+education, arts, sciences, medicine, diplomacy, and international commerce, as well as  staff units including admissions, student life, library services, alumni affairs, and  development. Each of these should, in essence, have their own respective strategic  plan which aligns, enables, and supports the overall university strategic plan. While this  research paper largely focuses on strategic planning for academic units within a  comprehensive university system, the overall process applies to any academic or staff  unit at any institution of higher learning. As such, this research paper has wide  generalizability across colleges and universities of all sizes, both public and private, as  well as those with varying missions (e.g., Tier-1 major research universities as compared to regional university systems).
+</text>
+
+
+<heading page="2" section="**Foundation and Literature Review**" source="cited" id="/page/1/SectionHeader/1" level="3">
+### **Foundation and Literature Review**
+</heading>
+
+<text page="2" section="**Foundation and Literature Review**" source="cited" id="/page/1/Text/2">
+University systems are facing extraordinary new pressures and the strategic planning  process can greatly assist in crafting a focused mission and vision for achieving ongoing  success (Shah, 2013). Pressures include less funding from state governments (for  public colleges &amp; universities), increased focus on performance-funding (e.g., state  government funding based on retention and/or graduation rates), increased use of  educational technologies in the classroom (both physical and virtual), a growing  percentage of on-line students (in various forms), changing expectations of students  (e.g., job possibilities associated with concerns over mounting debt), and aging physical  infrastructures. Evidence of academic failures can largely be attributed to the lack of  strategic planning.
+</text>
+
+<text page="2" section="**Foundation and Literature Review**" source="cited" id="/page/1/Text/3">
+Some accrediting bodies, such as the Association to Advance Collegiate Schools of  Business (see AACSB, 2023) require periodic strategic plan refreshes. However,  strategic planning shouldn't be done only because it is required. Rather, it should be  done because it adds significant value through the collective and collaborative  processes of gathering input(s) from various stakeholders such as students, faculty,  staff, graduates, and advisory boards, and devising specific outputs and action plans to  guide the academic unit deep into the future. Leaders of public and nonprofit  organizations must be effective strategists in order to fulfill their missions, satisfy their  constituents, and create perceived value, while developing strategies to meet an everchanging environment (Bryson, 2018). Further, academic leaders should also focus on  deliberate and disciplined engagement and sustainability across the organization while  crafting strategic plans (Bieler &amp; McKenzie, 2017). Per Hinton (2012), the strategic  planning process in academia generally focuses on key areas: mission, vision, values,  and strategic goals. However, these four areas should not be unrelated and  independent, but rather integrated and interconnected, much like a jigsaw puzzle as  shown in Figure 1.
+</text>
+
+<text page="2" section="**Foundation and Literature Review**" source="cited" id="/page/1/Text/4">
+A compelling mission statement delineates the distinctive and essential purpose that  distinguishes a business from others in its category, outlining the extent of the  business's activities in terms of products and markets (Pearce II, 1982; Pearce &amp; David,  1987). Mission statements in academic settings should include three core elements at  minimum: the distinct market(s) the mission is attempting to serve (who), the value  proposition (what), and lastly, the means in which the mission will be achieved (how).  For example, a school of business as part of regional public university serving a rural  Appalachian region with many first-generation college students might have a distinct
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/Text/0">
+mission statement such as, "We are a School of Opportunity [who] with a studentcentered commitment to developing leaders [what] through applied interdisciplinary  instruction, research and collaboration [how]." Mission statements should largely be  limited to one or two sentences with great emphasis placed on intentional wording and  essential messaging. Conciseness and brevity are essential.
+</text>
+
+<figure_group page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/FigureGroup/104">
+<caption page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/Caption/1">
+**Figure 1: Strategic Plan Highlighting Interconnectivity of Major Components**
+</caption>
+<figure page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/Figure/2" image="A3.R41_fig02.jpg">[FIGURE: see A3.R41_fig02.jpg]</figure>
+</figure_group>
+
+<text page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/Text/3">
+A compelling mission statement delineates the distinctive and essential purpose that  distinguishes a business from others in its category, outlining the extent of the  business's activities in terms of products and markets (Pearce II, 1982; Pearce &amp; David,  1987). Mission statements in academic settings should include three core elements at  minimum: the distinct market(s) the mission is attempting to serve (who), the value  proposition (what), and lastly, the means in which the mission will be achieved (how).  For example, a school of business as part of regional public university serving a rural  Appalachian region with many first-generation college students might have a distinct  mission statement such as, "We are a School of Opportunity [who] with a studentcentered commitment to developing leaders [what] through applied interdisciplinary  instruction, research and collaboration [how]." Mission statements should largely be  limited to one or two sentences with great emphasis placed on intentional wording and  essential messaging. Conciseness and brevity are essential.
+</text>
+
+<text page="3" section="**Foundation and Literature Review**" source="cited" id="/page/2/Text/4">
+Having a vision is crucial for leadership, strategy development, implementation, and  facilitating change (Kantabutra &amp; Avery, 2010). Vision plans differ from mission  statements in that they are aspirationally-focused toward the future. With vision plans, in  particular, word choice is essential. While less emphasis is placed on number of words  (length) and more emphasis is placed on intentional words (context), the vision  statement still must be succinct. Many academic units are now emphasizing  transformative education, which signifies teaching students how to think critically in  order to solve problems that may not currently exist, compared to transactional  education, which largely infers a unique set of tasks or actions to solve a singular  problem (Kitchenham, 2008). As such, a concise vision statement with intentional  wording and generally not longer than one sentence is recommended, such as "Leading  transformative education while preparing innovative professionals for impactful careers."  Conciseness and boldness in vision statements are essential.
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Foundation and Literature Review**" source="cited" id="/page/3/Text/0">
+Strategic goals are an essential component of the overall strategic plan. To tackle the  concerns or areas for growth that have been identified, the institution must establish  strategic goals, action plans, and tactics to change the landscape (Fathi &amp; Wilson,  2009). These goals are longer-term (one to five years) and should align with the mission  and vision of the overall university. Categorization is particularly helpful when setting  strategic goals in areas, including students, faculty, academic programs, community and  industry engagement, branding, and others relevant to the institution. Strategic goals  should be considered as those that if not achieved will be largely consequential and  detrimental to the long-term success of the academic unit.
+</text>
+
+<text page="4" section="**Foundation and Literature Review**" source="cited" id="/page/3/Text/1">
+As such, careful attention should be placed on goals that are truly strategic and  measurable, as focus is given to those things that are measured (Jennings, 2020). For  example, for student-focused strategic goals, appropriate metrics might include student  enrollment, student graduation rates, and student job placement data. For facultyfocused strategic goals, recruiting and/or retaining academically-qualified faculty,  fostering professional development, or the number of scholarly contributions/journal  publications might be effective metrics. A tactic for retaining academically-quality  faculty, for example, could include the development of a mentoring program for new  faculty in which a senior faculty member regularly shares impactful topics such as  tenure process, shared governance, effective classroom instruction, enhanced visibility,  collegiality, etc.
+</text>
+
+<text page="4" section="**Foundation and Literature Review**" source="cited" id="/page/3/Text/2">
+Given the significance of strategic goals and the specificity to which they are written, it is  advised that, in general, the maximum number should not exceed ten. Deas et al.  (2012) highlighted the University of South Carolina's success in using the strategic  planning process for improving diversity in their medical school by emphasizing the role  of input from stakeholders, the value of annual assessment to evaluate outcomes, and  an intentional approach to recruiting and retention with special goals and metrics. Of  course, an academic unit may have other goals such as those related to operational  (short-term) and tactical (mid-term) procedures, but extreme focus should be made to  have a concise list of strategic goals.
+</text>
+
+<text page="4" section="**Foundation and Literature Review**" source="cited" id="/page/3/Text/3">
+Once strategic goals are finalized, detailed action plans including a strategy to achieve  success for each goal should be developed, ownership of each goal should be defined,  as well as a process for driving, recording, and communicating results in a proactive  manner (Sullivan &amp; Richardson, 2011). Moreover, it should be noted that the very  nature of strategic goals is that they are not often achieved by one singular action, but  rather a series of interrelated actions. For example, a strategic goal of "increasing  student enrollment of first-generation college students by 10% within 2 years" may not  be achieved by a singular action, but rather a host of interrelated and multi-tiered  actions and initiatives. These actions might include implementing new marketing  campaigns, increasing visibility within regional high schools, forming of program-specific  recruiting committees, enhancing on-campus visits, implementation of dual-credit  programs in high schools, reduced and/or waived application fees for targeted  populations, or actively engaging with potential feeder programs. In short, every  strategic goal must be operationalized in terms of identifying and implementing specific  actions (e.g., strategic plans).
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Foundation and Literature Review**" source="cited" id="/page/4/Text/0">
+Core values are those behaviors and attitudes that guide an organization as it pursues  its mission, vision, and strategic goals. Values can be thought of as boundaries that are  adhered to at all times, regardless of circumstance. Developing and updating core  values should involve employees' input and be responsive to changing times, rather  than imposing them in a traditional bureaucratic top-down manner (Jin &amp; Drozdenko,  2010). Brevity is vital and should focus on those essential core values that are  uncompromisable and highlight the academic unit's overall culture. Research  emphasizes that organizational values come in four distinct forms—espoused,  attributed, shared and aspirational (Bourne et al., 2013). As such, one or two values  from each of those four distinct forms is suggested. Commitment to excellence,  integrity, service, intellectual curiosity, inclusivity, and collaboration are core values  identified in many academic units.
+</text>
+
+<text page="5" section="**Foundation and Literature Review**" source="cited" id="/page/4/Text/1">
+While much has been written about strategic planning in a general context, particularly  on behalf of for-profit entities, less research exists in terms of impact, best practices,  and guidelines for strategic planning in academic institutions. As such, this research  effort has potential for a new path of research to guide non-profit organizations as well,  particularly academic institutions. A recent article by U.S. News &amp; World Report listed  nearly 4,000 degree-granting postsecondary institutions in the United States (Moody,  2021). Assuming those degree-granting institutions have on average 10 academic units  (e.g., schools of business, education, humanities, sciences), the number of units within  academia that should or could be doing strategic planning easily exceeds 40,000 in the  United States alone. As such, the following key steps are presented in an effort to  guide strategic planning processes.
+</text>
+
+
+<heading page="5" section="**Key Steps**" source="author" id="/page/4/SectionHeader/2" level="2">
+## **Key Steps**
+</heading>
+
+<text page="5" section="**Key Steps**" source="author" id="/page/4/Text/3">
+While no comprehensive checklist exists for ensuring success in strategic planning, the  key steps identified below are offered as essential building blocks that may enhance  and streamline the strategic planning process, especially for teams or committees that  have responsibility for either crafting an initial strategic plan or refreshing one for an  upcoming reaccreditation.
+</text>
+
+<text page="5" section="**Key Steps**" source="author" id="/page/4/Text/4">
+1. **Alignment With University Strategic Plan**: The first step in refreshing strategic  plans for any academic unit must be understanding the university's overall strategic  plan to ensure alignment, which is often referred to as strategic fit. Chopra and  Meindl (2013) share that strategic fit requires that both the overall strategic plan  (e.g., a university's overall strategic plan) and the functional plan (for an individual  academic unit) align and fit together to form a coordinated overall strategy.  Alignment with the university's overall strategic plan enables an academic unit to  pursue the same or similar goals and objectives (Al Hijji, 2014). For example, if the  overall university is focused on greatly expanding enrollment through the recruitment  of international students, corresponding academic units should have an aligned  strategic plan of recruiting international students. If the overall university is focused,  for example, on greatly expanding enrollment through the recruitment of firstgeneration college students, corresponding academic units should have an aligned  strategic plan to reach that particular market. Ensuring alignment reduces the  likelihood of an academic unit pursuing goals and objectives that detract or are  inconsistent with the university's overall strategic plan.
+</text>
+
+</page>
+<page number="6">
+<list page="6" section="**Key Steps**" source="author" id="/page/5/ListGroup/151">
+- 2. **Team Formation**: A cross-representational strategic planning committee  composed of both faculty and staff adds diversity in terms of thought and opinion.  Members should be chosen based on the knowledge they contribute to the team,  their individual capacity for innovative thinking, and their position in the  organizational hierarchy, ensuring adequate representation (Wells &amp; Doherty, 1994).  As such, the strategic planning committee should be composed of tenured, tenuretrack and non-tenure track faculty (e.g., lecturer, instructor, in-residence, adjunct  faculty). Additionally, cross-functional selection should be considered in terms of  those with significant service (i.e., years of employment) as well as those who have  recently been hired into the academic unit. Representation from different subdepartments, such as Marketing, Management, Economics, Accounting, Supply  Chain, and Business Law, among others, is also helpful. Further, staff  representation from functions such as recruiting, retention, advising, and/or external affairs adds complementary value to that of faculty members. Recurring team  meetings are an effective way of managing timelines and tasks, as is the creation of  mini-teams (composed of two to three people) who work on specific areas (e.g.,  mission statement) and then provide input, updates, and direction to the overall team  at predefined intervals.
+- 3. **Resourcing**: Given many college and university systems continue to face major  budget challenges, the number of administrative resources is often a bare minimum,  leading to many faculty members taking on administrative roles above and beyond  the typical service aspects. Strategic plans are not a "set it and forget it" type of  endeavor; rather, the values, goals and objectives that arise from a strategic plan  must be actively managed. Once a strategic plan is finalized, resources must be  allocated to ensure it becomes deeply integrated. In other words, for every strategic  goal (the 'what'), there must be a strategic plan (the 'how') on how each goal will be  achieved with regard to relevancy, associated timelines, and ownership, which  further aligns with the SMART goals approach (Latham, 2003). For example, a  strategic goal of "increase student enrollment" is vague and lacks clarity. Strategic  goals should be much more specific. For example, a strategic goal to "increase  student enrollment of first-generation college students by 10% within two years"  adds elements of who (first-generation college students), by how much (10%), and  by when (within two years). As is often said in business, "we can't manage what we  don't measure."
+- 4. **Benchmarking**: Benchmarking encompasses key themes such as  measurement, comparison, identification of best practices, implementation, and  improvement (Anand &amp; Kodali, 2008). Most colleges and universities, as well as  specific academic units, openly share elements of their strategic plan, particularly  their mission, vision, and values. Obviously, strategic goals and detailed plans for  achieving those strategic goals are less publicized, as they are a sort of blueprint to  organizational success. Benchmarking can be done with peer institutions of a similar  size, mission, within the same conferences. Benchmarking plays a pivotal role in  strategic planning by providing valuable insights and a comparative perspective. By  analyzing and comparing performance, processes, and strategies against  industry/academic aspirants or competitors, units can identify areas of improvement  and set realistic goals. Benchmarking enables evaluation of efficiency, effectiveness,
+</list>
+
+</page>
+<page number="7">
+<text page="7" section="**Key Steps**" source="author" id="/page/6/Text/0">
+and competitiveness, ultimately guiding informed decisions to enhance strategic  direction and stay ahead in the market. Further, it serves as a powerful tool for  continuous improvement, fostering innovation, and driving growth.
+</text>
+
+<list page="7" section="**Key Steps**" source="author" id="/page/6/ListGroup/159">
+- 5. **Faculty/Staff Input**: Getting input from faculty and staff (above and beyond the  steering committee) is very important from a shared governance perspective and  should be done at various points in the strategic planning cycle. Engaging these  stakeholders in strategic planning enhances overall conditions for all partners,  improves retention conditions, and, perhaps most importantly, fosters loyalty  (Gandrita, 2023). Shared governance refers to processes in which faculty and staff  participate in the development of policies and decision making that impact the  overall academic unit going forward. A kick-off meeting is often effective for gaining  initial input on areas of greatest concern, with periodic listening sessions for  gathering input and feedback on progress to date. Giving faculty and staff  opportunities to provide input in different venues (e.g., in-person meetings, Zoom  sessions, email) is often highly effective. Care should be taken though to avoid  "analysis paralysis"—meaning that it is virtually impossible to incorporate every  person's individual input (often conflicting) into specific strategic plans (Langley,  1995). In these cases, seek to identify general themes in which specific individual  input can be grouped and categorized for effectiveness. As always, collegiality is  highly valued.
+- 6. **Input from Advisory Boards**: Many academic units have advisory boards  composed of successful alums, industry, and civic leaders, etc., who provide  ongoing direction in a role similar to that of a board of directors, with a concentration  on providing guidance, fundraising, developing programs, and engaging with  institutions (Mandviwalla et al., 2015). Advisory board members are, in essence,  champions and advocates within their respective companies and professional  networks. These connections often lead to co-ops, internships, part-time jobs, jobshadowing, interviews, and other opportunities for aspiring young professionals. As  such, seeking input from advisory board members, or establishing one if it does not  yet exist, is a particularly important step in refreshing strategic plans.
+- 7. **External Surveys**: While getting input from faculty/staff and advisory board  members is highly valuable, so, too, is input from external constituents. This group  might include alumni, program supporters, local and regional leaders, and  governmental officials. This group of constituents provides additional context and  insight to complement other inputs. Many academic units have lists of external  constituents which are readily accessible. Additionally, survey sites provide a lowcost approach to generating and disseminating surveys to large groups of people,  especially combined with social media networking groups such as LinkedIn.
+- 8. **Final Reviews &amp; Approvals**: After gathering input from as many sources as  possible (faculty/staff, advisory boards, program constituents), submitting and  defending final reviews and gaining approvals is essential. Major changes within  academic units often require a vote by faculty/staff to approve. Here, the noble  Japanese art of nemawashi is invaluable in having pre-meetings and gaining  consensus with those who may otherwise publicly dissent (Wolfe, 1992). Often,  several iterations of wordsmithing may be suggested, but care should be taken to
+</list>
+
+</page>
+<page number="8">
+<list page="8" section="**Key Steps**" source="author" id="/page/7/ListGroup/144">
+- avoid diluting the work that has been done up to this point. As such, clearly defining  what is open for debate and discussion is essential as the desired and required  outcome is a formal approval to proceed with resourcing and integration.
+- 9. **Integration**: Above and beyond each of the aforementioned steps, integration is  the most important. Strategic planning is of minimal value if it does not get  integrated into organizational plans, systems, and culture. Strategic plans should not  be undertaken to "check a box." Rather, it should be done to add real value to the  academic unit. Certainly, the various elements of the strategic plan (i.e., mission &amp;  vision statements, strategic goals) should be physically visible to those within the  academic unit. But even more so, the strategic elements should be integrated into  all the various processes, including but not limited to, hiring of new employees,  convocations, classroom instruction, faculty meetings, symposiums, on-campus  recruiting, and commencements. Integrating strategic elements into classroom  instruction is of utmost importance, as values, for example, should be particularly  highlighted in terms of how classes are taught and how students engage with others  (i.e., service to others, integrity, collegiality).
+- 10.**Commitment and Assessment**: Commitment to the strategic plan and  measuring outcomes are two crucial components of successful strategic planning in  higher education institutions. These elements ensure that the plan is not just a  document but a living roadmap that guides decision-making and progress towards  goals. First, commitment to the strategic plan is essential for its effective  implementation; one of the largest pitfalls of planning is a dysfunction and  discouragement of commitment from the organization as a whole (Mintzberg, 1993).  Strategic planning requires buy-in and support from all stakeholders involved,  including faculty, staff, and administrators. Without commitment, the plan may be  treated as a mere formality or quickly abandoned. Therefore, it is important to foster  a sense of ownership and engagement among the academic unit. This can be  achieved by involving faculty and staff in the planning process, soliciting their input  and feedback, and creating opportunities for open and ongoing communication.  When individuals feel invested in the plan, they are more likely to actively contribute  to its success and take responsibility for their assigned tasks. Measuring outcomes  is equally important in strategic planning as it provides a means to assess progress,  identify areas of improvement, and make informed decisions. Setting specific,  measurable, achievable, relevant, and time-bound (SMART) goals allows for clear  evaluation and tracking of outcomes (Drucker, 1954; Williams, 2012). By defining  key performance indicators (KPIs) that align with the strategic goals, the academic  unit can monitor its progress and determine whether it is on track to achieve the  desired outcomes. Metrics also enable the academic unit to identify what is working  well and what needs adjustment; regular evaluation allows for the identification of  potential challenges or obstacles early on, enabling timely corrective actions. By  collecting data and analyzing results, the academic unit can gain insights into the  effectiveness of its strategies and initiatives. This information can inform decisionmaking, resource allocation, and adjustments to the plan, ensuring that the  institution remains agile and responsive to changing circumstances.
+</list>
+
+</page>
+<page number="9">
+
+<heading page="9" section="**Conclusion**" source="author" id="/page/8/SectionHeader/0" level="2">
+## **Conclusion**
+</heading>
+
+<text page="9" section="**Conclusion**" source="author" id="/page/8/Text/1">
+Strategic planning is one of the most important endeavors any organization can take,  whether public or private, including for-profit and non-profit institutions. While elements  of a strategic plan may vary by organization, the ten-step approach above adds  tremendous context in terms of key areas of importance. Seeking input from various  constituents adds significant value by incorporating perspectives across various  spectrums including faculty, staff, students, and alumni, as does assigning ownership  and incorporating the various strategic elements into actionable plans and  organizational culture.
+</text>
+
+<text page="9" section="**Conclusion**" source="author" id="/page/8/Text/2">
+The manuscript provides a comprehensive framework for refreshing strategic plans  within higher education institutions. By following the outlined ten steps, academic units  can engage in a purposeful and collaborative strategic planning process that aligns with  the university's overall goals, leverages diverse perspectives, allocates necessary  resources, benchmarks against peers, integrates the strategic plan into the  organization's culture, measures progress, and builds commitment to achievement of  overall goals. Through this holistic approach, academic institutions can foster growth,  innovation, and excellence in pursuit of their missions and long-term success.
+</text>
+
+
+<heading page="9" section="**References**" source="author" id="/page/8/SectionHeader/3" level="3">
+### **References**
+</heading>
+
+<list page="9" section="**References**" source="author" id="/page/8/ListGroup/170">
+- *2020 guiding principles and standards for business accreditation*. Association to Advance  Collegiate Schools of Business. (2023, July 1). https://www.aacsb.edu/- /media/documents/accreditation/2020-aacsb-business-accreditation-standardsjune-2023.pdf?rev=c19884b1643f4f37851b0d3e342ec6d7&amp;hash=981B7C7B17A 68FC40F715BAAF907B663
+- Al Hijji, K. Z. (2014). Strategic management model for academic libraries. *Procedia-Social * *and Behavioral Sciences*, *147*, 9-15.
+- Anand, G., &amp; Kodali, R. (2008). Benchmarking the benchmarking models. *Benchmarking: * *An International Journal*, *15*(3), 257-291.
+- Bieler, A., &amp; McKenzie, M. (2017). Strategic planning for sustainability in Canadian higher  education. *Sustainability*, *9*(2), 161.
+- Bourne, H., &amp; Jenkins, M. (2013). Organizational values: A dynamic  perspective. *Organization Studies*, *34*(4), 495-514.
+- Bryson, J. M. (2018). *Strategic planning for public and nonprofit organizations: A guide to * *strengthening and sustaining organizational achievement*. John Wiley &amp; Sons.
+- Chopra, S. and Meindl, P. (2013). *Supply chain management*. Pearson.
+- Deas, D., Pisano, E. D., Mainous III, A. G., Johnson, N. G., Singleton, M. H., Gordon,  L., ... &amp; Reves, J. G. (2012). Improving diversity through strategic planning: a 10 year (2002–2012) experience at the Medical University of South  Carolina. *Academic Medicine*, *87*(11), 1548-1555.
+- Drucker, P. (1954). *The practice of management*. HarperCollins.
+</list>
+
+</page>
+<page number="10">
+<list page="10" section="**References**" source="author" id="/page/9/ListGroup/199">
+- Fathi, M., &amp; Wilson, L. (2009). Strategic planning in colleges and universities. *Business * *Renaissance Quarterly*, *4*(1), 91-103.
+- Gandrita, D. M. (2023). Improving strategic planning: The crucial role of enhancing  relationships between management levels. *Administrative Sciences*, *13*(215), 1- 25.
+- Hinton, K. E. (2012). *A practical guide to strategic planning in higher education*. Society  for College and University Planning.
+- Jennings, E. T. (2010). Strategic planning and balanced scorecards: Charting the  course to policy destinations. *Public Administration Review*, *70*, 224-226.
+- Jin, K. G., &amp; Drozdenko, R. G. (2010). Relationships among perceived organizational  core values, corporate social responsibility, ethics, and organizational  performance outcomes: An empirical study of information technology  professionals. *Journal of Business Ethics*, *92*, 341-359.
+- Kantabutra, S., &amp; Avery, G. C. (2010). The power of vision: Statements that resonate.  *Journal of Business Strategy*, *31*(1), 37-45.
+- Kitchenham, A. (2008). The evolution of John Mezirow's transformative learning  theory. *Journal of Transformative Education*, *6*(2), 104-123.
+- Langley, A. (1995). Between' paralysis by analysis' and 'extinction by instinct'. *MIT * *Sloan Management Review*, *36*(3), 63-76.
+- Latham, G. P. (2003). Goal setting: A five-step approach to behavior change.  *Organizational Dynamics*, *32*(3), 309–318.
+- Mandviwalla, M., Fadem, B., Goul, M., George, J. F., &amp; Hale, D. P. (2015). Achieving  academic-industry collaboration with departmental advisory boards. *MIS * *Quarterly Executive*, *14*(1), 17-37.
+- Moody, J. (2021, April 27). *A guide to the changing number of U.S. universities*. U.S.  News &amp; World Report. https://www.usnews.com/education/bestcolleges/articles/how-many-universities-are-in-the-us-and-why-that-number-ischanging.
+- Pearce II, J. A. (1982). The company mission as a strategic tool. *Sloan Management * *Review*, *23*(3), 15.
+- Pearce, J. A., &amp; David, F. (1987). Corporate mission statements: The bottom line.  *Academy of Management Perspectives*, *1*(2), 109-115.
+- Shah, M. (2013). Renewing strategic planning in universities at a time of  uncertainty. *Perspectives: Policy and Practice in Higher Education*, *17*(1), 24-29.
+- Steiner, G. A. (2010). *Strategic planning*. Simon and Schuster.
+- Sullivan, T. M., &amp; Richardson, E. C. (2011). Living the plan: Strategic planning aligned  with practice and assessment. *The Journal of Continuing Higher Education*,  *59*(1), 2-9.
+- Wells, D. L., &amp; Doherty, L. M. (1994). *A handbook for strategic planning*. Total Quality  Leadership Office.
+</list>
+
+</page>
+<page number="11">
+<text page="11" section="**References**" source="author" id="/page/10/Text/0">
+Williams, C. (2012). *MGMT*. SouthWestern College Publishing.
+</text>
+
+<text page="11" section="**References**" source="author" id="/page/10/Text/1">
+Wolfe, M. D. (1992). A theoretical justification for Japanese nemawashi/ringi group  decision making and an implementation of a nemawashi/ringi group decision  support system. *Decision Support Systems*, *8*(2), 125-140.
+</text>
+
+</page>
+</paper>

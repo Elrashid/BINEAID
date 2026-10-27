@@ -1,0 +1,793 @@
+<paper source_file="A3.R05" title="**Understanding key drivers afecting students' use of ** **artifcial intelligence-based voice assistants**" total_pages="21" figures="2" figures_with_images="2">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 2 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="A3.R05_fig01.jpg">[FIGURE: see A3.R05_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Understanding key drivers afecting students' use of ** **artifcial intelligence-based voice assistants**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **Understanding key drivers afecting students' use of ** **artifcial intelligence-based voice assistants**
+</heading>
+
+<text page="1" section="**Understanding key drivers afecting students' use of ** **artifcial intelligence-based voice assistants**" source="author" id="/page/0/Text/3">
+**Jawaher Hamad Al Shamsi1** ** · Mostafa Al-Emran****[1](http://orcid.org/0000-0002-5269-5380)** ** · Khaled Shaalan1**
+</text>
+
+<text page="1" section="**Understanding key drivers afecting students' use of ** **artifcial intelligence-based voice assistants**" source="author" id="/page/0/Text/4">
+Received: 29 September 2021 / Accepted: 6 February 2022 / Published online: 1 March 2022 © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature  2022
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/5" level="2">
+## **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/6">
+Artifcial intelligence (AI)-based voice assistants have become an essential part of  our daily lives. Yet, little is known concerning what motivates students to use them  in educational activities. Therefore, this research develops a theoretical model by  extending the technology acceptance model (TAM) with subjective norm, enjoyment, facilitating conditions, trust, and security to examine students' use of AIbased voice assistants for instructional purposes. The developed model was then  validated based on data collected from 300 university students using the PLS-SEM  technique. The results supported the role of enjoyment, trust, and perceived ease  of use (PEOU) in afecting the perceived usefulness (PU) of voice assistants. The  empirical results also showed that facilitating conditions and trust in technology  strongly infuence the PEOU. Contrary to the extant literature, the results indicated  that subjective norm, facilitating conditions, and security did not impact PU. Similarly, subjective norm and enjoyment did not afect PEOU. This research is believed  to add a holistic understanding of the key drivers afecting students' use of voice  assistants for educational purposes. It ofers several theoretical contributions and  practical implications on how to successfully employ these assistants.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+**Keywords** Artifcial intelligence · Voice assistant · Human-AI interaction ·  Technology acceptance · Drivers · Education
+</text>
+
+<figure page="1" section="**Abstract**" source="author" id="/page/0/Picture/10" image="A3.R05_fig02.jpg">[FIGURE: see A3.R05_fig02.jpg]</figure>
+
+<footnote page="1" section="**Abstract**" source="author" id="/page/0/Footnote/8">
+^( ) Mostafa Al-Emran mustafa.n.alemran@gmail.com Jawaher Hamad Al Shamsi joojyskj@gmail.com Khaled Shaalan khaled.shaalan@buid.ac.ae
+</footnote>
+
+<footnote page="1" section="**Abstract**" source="author" id="/page/0/Footnote/9">
+^(1) Faculty of Engineering &amp; IT, The British University in Dubai, Dubai, UAE
+</footnote>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**1** **Introduction**" source="author" id="/page/1/SectionHeader/2" level="2">
+## **1** **Introduction**
+</heading>
+
+<text page="2" section="**1** **Introduction**" source="author" id="/page/1/Text/3">
+The prevalence of artifcial intelligence (AI) applications in today's era allows individuals to interact and communicate with new non-human agents, such as voice  assistants and robots. The literature witnessed an increasing interest in AI-based  voice assistants, particularly in the last few years. Siri (from Apple), Cortana (from  Microsoft), Alexa (from Amazon), Bixby (from Samsung), and Google Assistant  (from Google) are some of the most frequently used AI-based voice assistants that  are embedded in smartphones or smart speakers (McLean &amp; Osei-Frimpong, [2019)](#page-18-0).  These assistants have changed the way in which users search for information, use  content, manage home automation devices, purchase products, and achieve tasks  through exhibiting voice as the primary interface (Al-Kaisi et al., [2021)](#page-17-0). Through  relying on AI-based algorithms, voice assistants record human speech, upload it to  the cloud, parse the recording into commands, and send back the output to the user  via a computer-generated message (Gouda et al.,[ 2021](#page-18-1)). A recent report indicates that  27% of the global online population is using voice assistants on their smart mobile  devices (McCue, [2018](#page-18-2)). These voice assistants are expected to replace the role of
+</text>
+
+<figure_group page="2" section="**1** **Introduction**" source="author" id="/page/1/FigureGroup/76">
+<figure page="2" section="**1** **Introduction**" source="author" id="/page/1/Figure/4" image="A3.R05_fig03.jpg">[FIGURE: see A3.R05_fig03.jpg]</figure>
+<caption page="2" section="**1** **Introduction**" source="author" id="/page/1/Caption/5">
+**Fig. 1** Research focus of voice assistant studies
+</caption>
+</figure_group>
+
+<figure page="2" section="**1** **Introduction**" source="author" id="/page/1/Picture/6" image="A3.R05_fig04.jpg">[FIGURE: see A3.R05_fig04.jpg]</figure>
+
+</page>
+<page number="3">
+<text page="3" section="**1** **Introduction**" source="author" id="/page/2/Text/2">
+other technologies, such as laptops and PCs, specifcally in utilitarian activities (Gartner,[ 2016](#page-18-3)).
+</text>
+
+<text page="3" section="**1** **Introduction**" source="author" id="/page/2/Text/3">
+In education, AI-based voice assistants ofer a broad instructional potential for  enhancing students' autonomous learning. For instance, students can ask questions  and get answers instantly by accessing a large amount of online data. In classrooms,  students can ask intelligent speakers-based voice assistants to read books for them  by accessing thousands of audio books online. On the other side, instructors can use  those assistants in designing specifc interactions for several classroom activities,  such as customized tests and quizzes. Voice assistants reinforce the concept of "contemporary learning", in which instructors can record their lectures and upload them  as podcasts. Students can ask voice assistants to download the lectures at "anytime  anywhere" settings (Shah,[ 2020](#page-19-0)).
+</text>
+
+<text page="3" section="**1** **Introduction**" source="author" id="/page/2/Text/4">
+To determine the research gap in the extant literature, this research conducted a  bibliometric analysis on the studies published on voice assistants using the VOSviewer tool (Van Eck &amp; Waltman, [2010)](#page-19-1). This was carried out in August 2021 by  searching the Scopus database. Figure [1](#page-1-0) shows the bibliometric analysis results,  and it clearly depicts that voice assistant studies have mainly focused on three main  themes. By inspecting the studies of each theme (cluster), it has been noticed that the  focus of the studies under the frst two clusters (green and blue) was mainly technical. In that, the green cluster concentrated on studies related to the use of machine  learning algorithms in training and testing the data received through voice assistants. The cluster also covered studies that examine the security measures and voice  attacks to voice assistants. The studies under the blue cluster concentrated on the  implementation of voice assistants and the natural language processing of the textual  data collected through those assistants. The studies under the red cluster focused on  the human-computer interaction side, where the users' experience, perceptions, and  voice assistant adoption were measured.
+</text>
+
+<text page="3" section="**1** **Introduction**" source="author" id="/page/2/Text/5">
+While the extant literature witnessed a growing number of studies on voice assistants (Kendall et al., [2020)](#page-18-4), the bibliometric analysis results provided evidently  several research gaps. First, understanding what impacts the actual use of voice assistants is still in its infancy stage and requires extensive research eforts (Ostrom et  al., [2019)](#page-19-2). Second, most of the previous adoption studies focused on the consumers'  use of voice assistants in utilitarian services (Ostrom et al., [2019](#page-19-2); Vimalkumar et  al., [2021](#page-19-3)), and ignored what afects their use for educational purposes. Third, while  the role of subjective norm, enjoyment, facilitating conditions, trust, and security in  examining the adoption of voice assistants has been discussed in some of the previous individualistic societies, there is a scarce of knowledge regarding their impact in  collectivistic contexts.
+</text>
+
+<text page="3" section="**1** **Introduction**" source="author" id="/page/2/Text/6">
+To bridge the aforementioned research gaps, this study goes a step further by  developing a theoretical research model for understanding the students' actual use of  voice assistants for educational purposes in a new collectivistic context. The developed model extends the technology acceptance model (TAM) (Davis, [1989](#page-17-1)) with  other external variables, including subjective norm, enjoyment, facilitating conditions, trust, and security. These external factors are central to using voice assistants in  collectivistic societies, and their exploration is essential to understanding technology
+</text>
+
+<figure page="3" section="**1** **Introduction**" source="author" id="/page/2/Picture/7" image="A3.R05_fig05.jpg">[FIGURE: see A3.R05_fig05.jpg]</figure>
+
+</page>
+<page number="4">
+<text page="4" section="**1** **Introduction**" source="author" id="/page/3/Text/2">
+strengths and weaknesses. Accordingly, this research aims to achieve the following  objectives:
+</text>
+
+<list page="4" section="**1** **Introduction**" source="author" id="/page/3/ListGroup/101">
+- To develop a theoretical model by extending the TAM with other external factors,  including subjective norm, enjoyment, facilitating conditions, trust, and security,  to examine the use of AI-based voice assistants for educational purposes.
+- To evaluate the developed theoretical model using the PLS-SEM technique.
+</list>
+
+
+<heading page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/SectionHeader/5" level="2">
+## **2** **Theoretical framework and research hypotheses**
+</heading>
+
+<text page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/Text/6">
+By analyzing the existing literature on AI-based voice assistants, it has been noticed  that there is a scarcity of knowledge concerning what impacts the use of these technologies for educational purposes. Therefore, this research develops a research  model based on the Technology Acceptance Model (TAM) and extended with several  factors that are believed to afect the students' use of voice assistants in instructional  activities. The selection of TAM as the basis in this research stems from several reasons. First, while it was developed in 1989 (Davis, [1989)](#page-17-1), a recent study showed that  the model is still valid and that the number of TAM-based studies is still progressing  on a yearly basis (Al-Emran &amp; Granić, [2021](#page-17-2)). Second, there is little empirical support on how TAM can be employed to evaluate the use of AI-based voice assistants.
+</text>
+
+<text page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/Text/7">
+Figure [2](#page-3-0) shows the developed research model. It is suggested that perceived usefulness (PU) and perceived ease of use (PEOU) are infuenced by subjective norm,  enjoyment, facilitating conditions, and trust. It is also anticipated that PU is infuenced by security and PEOU. The behavioral intention (BI) to use voice assistants is  afected by both PU and PEOU, which in turn, afects the students' actual use of those  assistants in higher education.
+</text>
+
+<figure_group page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/FigureGroup/100">
+<figure page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/Figure/8" image="A3.R05_fig06.jpg">[FIGURE: see A3.R05_fig06.jpg]</figure>
+<caption page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/Caption/9">
+**Fig. 2** Research model
+</caption>
+</figure_group>
+
+<figure page="4" section="**2** **Theoretical framework and research hypotheses**" source="author" id="/page/3/Picture/10" image="A3.R05_fig07.jpg">[FIGURE: see A3.R05_fig07.jpg]</figure>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**2.1** **Subjective norm**" source="author" id="/page/4/SectionHeader/2" level="3">
+### **2.1** **Subjective norm**
+</heading>
+
+<text page="5" section="**2.1** **Subjective norm**" source="author" id="/page/4/Text/3">
+Subjective norm (SN) refers to "an individual's perception of how important others  in his or her social environment wish or expect him or her to behave in a certain way"  (Moan &amp; Rise, [2006)](#page-18-5). The defnition of subjective norm is also used to represent  social infuence (Bloemendaal, [2018)](#page-17-3). Earlier research claimed that subjective norm  impacts the perceived usefulness and ease of using voice assistants (Moriuchi, [2019;](#page-18-6) Song, [2019)](#page-19-4). Accordingly, the following hypotheses are put forward:
+</text>
+
+<text page="5" section="**2.1** **Subjective norm**" source="author" id="/page/4/Text/4">
+**H1** Subjective norm positively infuences the perceived usefulness of voice assistant  technology.
+</text>
+
+<text page="5" section="**2.1** **Subjective norm**" source="author" id="/page/4/Text/5">
+**H2** Subjective norm positively infuences the perceived ease of use of voice assistant  technology.
+</text>
+
+
+<heading page="5" section="**2.2** **Enjoyment**" source="author" id="/page/4/SectionHeader/6" level="3">
+### **2.2** **Enjoyment**
+</heading>
+
+<text page="5" section="**2.2** **Enjoyment**" source="author" id="/page/4/Text/7">
+Enjoyment is defned as "the activity of using a specifc system is perceived to be  enjoyable in its own right, aside from any performance consequences resulting from  system use" (Venkatesh, [2000](#page-19-5)). When the user feels that using a particular device  is enjoyable, he/she would have positive feelings toward that device and would be  more likely to use it (Basak et al.,[ 2015)](#page-17-4). The simplicity of starting the system or how  efective the voice technology in delivering simple responses improves the user's  enjoyment (Sorensen, [2019)](#page-19-6). The extant literature showed that enjoyment is a strong  predictor of the perceived usefulness and ease of use (Al-Qaysi et al., [2021;](#page-17-5) Chu,  [2019](#page-17-6); Liu et al.,[ 2021](#page-18-7)). Thus, the following hypotheses are proposed:
+</text>
+
+<text page="5" section="**2.2** **Enjoyment**" source="author" id="/page/4/Text/8">
+**H3** Enjoyment positively infuences the perceived usefulness of voice assistant  technology.
+</text>
+
+<text page="5" section="**2.2** **Enjoyment**" source="author" id="/page/4/Text/9">
+**H4** Enjoyment positively infuences the perceived ease of use of voice assistant  technology.
+</text>
+
+
+<heading page="5" section="**2.3** **Facilitating conditions**" source="author" id="/page/4/SectionHeader/10" level="3">
+### **2.3** **Facilitating conditions**
+</heading>
+
+<text page="5" section="**2.3** **Facilitating conditions**" source="author" id="/page/4/Text/11">
+Facilitating conditions (FC) refers to "the degree to which an individual believes that  an organizational and technical infrastructure exists to support the use of the system"  (Venkatesh et al.,[ 2003](#page-19-7)). The use of any technology requires specifc resources, skills,  and infrastructure (Albanna et al., [2022](#page-17-7)). In this context, FC refers to the attributes  such as accessibility and efciency of smartphones and other supporting technologies  that impact the usage of voice assistants. Prior research endorsed the role of FC in  infuencing the perceived usefulness and perceived ease of use (Bloemendaal, [2018;](#page-17-3) Li et al., [2021)](#page-18-8). Consequently, this leads to the following:
+</text>
+
+<figure page="5" section="**2.3** **Facilitating conditions**" source="author" id="/page/4/Picture/12" image="A3.R05_fig08.jpg">[FIGURE: see A3.R05_fig08.jpg]</figure>
+
+</page>
+<page number="6">
+<text page="6" section="**2.3** **Facilitating conditions**" source="author" id="/page/5/Text/2">
+**H5** Facilitating conditions positively infuences the perceived usefulness of voice  assistant technology.
+</text>
+
+<text page="6" section="**2.3** **Facilitating conditions**" source="author" id="/page/5/Text/3">
+**H6** Facilitating conditions positively infuences the perceived ease of use of voice  assistant technology.
+</text>
+
+
+<heading page="6" section="**2.4** **Trust**" source="author" id="/page/5/SectionHeader/4" level="3">
+### **2.4** **Trust**
+</heading>
+
+<text page="6" section="**2.4** **Trust**" source="author" id="/page/5/Text/5">
+Trust is described as "a psychological state comprising the intention to accept vulnerability based upon positive expectations of the intentions or behavior of another"  (Rousseau et al., [1998)](#page-19-8). In this context, trust is viewed as the users' beliefs towards  whether the voice assistants are secure in protecting their personal data (Chu, [2019)](#page-17-6).  The existing literature showed that trust has positively afected the perceived usefulness and ease of using voice assistants (Alharithi, [2019](#page-17-8); Chu, [2019](#page-17-6); Zeng, [2020)](#page-20-0).  Thus, the following hypotheses are suggested:
+</text>
+
+<text page="6" section="**2.4** **Trust**" source="author" id="/page/5/Text/6">
+**H7** Trust positively infuences the perceived usefulness of voice assistant technology.
+</text>
+
+<text page="6" section="**2.4** **Trust**" source="author" id="/page/5/Text/7">
+**H8** Trust positively infuences the perceived ease of use of voice assistant technology.
+</text>
+
+
+<heading page="6" section="**2.5** **Security**" source="author" id="/page/5/SectionHeader/8" level="3">
+### **2.5** **Security**
+</heading>
+
+<text page="6" section="**2.5** **Security**" source="author" id="/page/5/Text/9">
+Security (SE) refers to "users' perspectives toward the protection level against the  potential threats" (Park et al., [2017](#page-19-9)). Security is believed to be a signifcant factor in  infuencing the use of voice assistants. This stems from the fact that those technologies typically gather information from their users, such as users' names, ages, genders, and voice recordings, to provide them with the best user experience. Previous  studies showed that security signifcantly impacts perceived usefulness (Chu, [2019;](#page-17-6) Neumann, [2018)](#page-18-9). Therefore, the following hypothesis is formulated:
+</text>
+
+<text page="6" section="**2.5** **Security**" source="author" id="/page/5/Text/10">
+**H9** Security positively infuences the perceived usefulness of voice assistant  technology.
+</text>
+
+
+<heading page="6" section="**2.6** **Perceived ease of use**" source="author" id="/page/5/SectionHeader/11" level="3">
+### **2.6** **Perceived ease of use**
+</heading>
+
+<text page="6" section="**2.6** **Perceived ease of use**" source="author" id="/page/5/Text/12">
+Perceived ease of use (PEOU) is defned as "the degree to which a person believes  that using a particular system would be free from efort" (Davis, [1989)](#page-17-1). Users must  have the impression that technological innovations in their workplace are simple to  operate (Chu, [2019](#page-17-6)) and efort-free in performing the intended tasks (Lin &amp; Chen,  [2015](#page-18-10)). PEOU is found to be the fundamental element that afects the perceived usefulness and the behavioral intention to use voice assistants (Moriuchi, [2019](#page-18-6); Song,  [2019](#page-19-4); Sorensen, [2019)](#page-19-6). Therefore, the following hypotheses are proposed:
+</text>
+
+<figure page="6" section="**2.6** **Perceived ease of use**" source="author" id="/page/5/Picture/13" image="A3.R05_fig09.jpg">[FIGURE: see A3.R05_fig09.jpg]</figure>
+
+</page>
+<page number="7">
+<text page="7" section="**2.6** **Perceived ease of use**" source="author" id="/page/6/Text/2">
+**H10** Perceived ease of use positively infuences the perceived usefulness of voice  assistant technology.
+</text>
+
+<text page="7" section="**2.6** **Perceived ease of use**" source="author" id="/page/6/Text/3">
+**H11** Perceived ease of use positively infuences the behavioral intention to use voice  assistant technology.
+</text>
+
+
+<heading page="7" section="**2.7** **Perceived usefulness**" source="author" id="/page/6/SectionHeader/4" level="3">
+### **2.7** **Perceived usefulness**
+</heading>
+
+<text page="7" section="**2.7** **Perceived usefulness**" source="author" id="/page/6/Text/5">
+Perceived usefulness (PU) refers to "the degree to which a person believes that using  a particular system would enhance his/her job performance" (Davis, [1989)](#page-17-1). PU is  considered to be the most motivational factor in IT adoption (Basak et al., [2015)](#page-17-4).  When the user intends to use new technology, his/her intention is proved to be infuenced by the usefulness of that technology (Cacho-Elizondo et al.,[ 2012](#page-17-9); Chu, [2019)](#page-17-6).  The existing literature supported the relationship between PU and the users' behavioral intention (Chai et al., [2020;](#page-17-10) Elfeky &amp; Elbyaly, [2021;](#page-17-11) Liu et al., [2021)](#page-18-7). Therefore, the following hypothesis is suggested:
+</text>
+
+<text page="7" section="**2.7** **Perceived usefulness**" source="author" id="/page/6/Text/6">
+**H12** Perceived usefulness positively infuences the behavioral intention to use voice  assistant technology.
+</text>
+
+
+<heading page="7" section="**2.8** **Behavioral intention**" source="author" id="/page/6/SectionHeader/7" level="3">
+### **2.8** **Behavioral intention**
+</heading>
+
+<text page="7" section="**2.8** **Behavioral intention**" source="author" id="/page/6/Text/8">
+Behavioral intention (BI) refers to the degree of intensity of users' intention to perform a particular behavior (Davis, [1989)](#page-17-1). Users who use voice assistants would  have an optimistic behavior if the assistant recognized their voices and replied accurately to their requests (Sorensen, [2019)](#page-19-6). Prior research showed a strong association  between behavioral intention and the actual use of a specifc technology (Afonso,  [2019](#page-17-12); Mohammadi,[ 2015](#page-18-11)). Based on that, the following hypothesis is formulated:
+</text>
+
+<text page="7" section="**2.8** **Behavioral intention**" source="author" id="/page/6/Text/9">
+**H13** Behavioral intention positively infuences the actual use of voice assistant  technology.
+</text>
+
+
+<heading page="7" section="**3** **Methodology**" source="author" id="/page/6/SectionHeader/10" level="2">
+## **3** **Methodology**
+</heading>
+
+<text page="7" section="**3** **Methodology**" source="author" id="/page/6/Text/11">
+To examine the students' use of AI-based voice assistants, we have collected data  from students studying at four private and public universities in the United Arab  Emirates (UAE) using online questionnaire surveys. The targeted participants are  those who adapted the voice assistant technology. A compulsory fltering question  was added at the beginning of the survey to be ticked by the actual users of voice  assistants for educational purposes. As there is no sampling frame for such types of  users, we have employed the purposive sampling technique for collecting responses  from those universities. The selection of the four universities is because most of their
+</text>
+
+<figure page="7" section="**3** **Methodology**" source="author" id="/page/6/Picture/12" image="A3.R05_fig10.jpg">[FIGURE: see A3.R05_fig10.jpg]</figure>
+
+</page>
+<page number="8">
+<text page="8" section="**3** **Methodology**" source="author" id="/page/7/Text/2">
+students are actual users of voice assistants.It is imperative to mention that the participants have used voice assistants by posting questions to them and getting answers  through accessing a large amount of online data. They have also used these assistants  by asking them to download learning materials, including lecture notes, e-books, and
+</text>
+
+<table_group page="8" section="**3** **Methodology**" source="author" id="/page/7/TableGroup/399">
+<caption page="8" section="**3** **Methodology**" source="author" id="/page/7/Caption/3">
+**Table 1** Items' description and their resources
+</caption>
+<table page="8" section="**3** **Methodology**" source="author" id="/page/7/Table/4">
+| Constructs | Items | Item description | References |
+| --- | --- | --- | --- |
+| Perceivedusefulness | PU1 | "I think voice assistant technology can improve myproductivity." | (Lin &amp; Chen,2015; Pal, |
+|  | PU2 | "I think voice assistant technology can increase myperformance." | Arpnikanondt,Funilkul, &amp; |
+|  | PU3 | "I think voice assistant technology can encourage me to finish my tasks quickly." | Chutimaskul,2020; Pal, |
+|  | PU4 | "Overall, using voice assistant technology is useful." | Arpnikanondt,Funilkul, &amp; Razzaque, 2020) |
+| Perceivedease of use | PEU1 | "Learning how to use voice assistant technology is easy tome." | (Jennifer &amp;Sofroniev, 2020; |
+|  | PEU2 | "My interaction with a voice assistant technology is clearand understandable." | Sorensen, 2019;Teo &amp; Zhou, |
+|  | PEU3 | "I find voice assistant technology to be easy to use." | 2014) |
+| Behavioralintention | BI1 | "I intend to use a voice assistant in the future." | (Chowdhury, |
+|  | BI2 | "I will recommend using voice assistant technology to myfriends and family." | 2018; Lee &amp;Choi, 2017; Wag |
+|  | BI3 | "I will keep myself updated with the latest voice assistanttechnology." | ner et al., 2019) |
+| Actual use | AU1 | "I use the voice assistant technology frequently." | (Afonso, 2019; |
+|  | AU2 | "I prefer to use voice assistant technology." | Easwara Moorthy&amp; Vu, 2015; Pal&amp; Patra, 2020) |
+| Subjectivenorm | SN1 | "People who are close to me recommend using a voice assistant technology." | (Bloemendaal,2018; Moriuchi, |
+|  | SN2 | "People around me use voice assistant technology." | 2019; Song, |
+|  | SN3 | "People who are close to me would guide me to use a voiceassistant technology." | 2019) |
+| Enjoyment | ENJ1 | "I enjoy interacting with the voice assistant technology." | (Basak et al., |
+|  | ENJ2 | "The conversation with the voice assistant is interesting." | 2015; Cacho |
+|  | ENJ3 | "My creativity can be stimulated when using a voiceassistant." | Elizondo et al.,2012; Chu, 2019) |
+| Facilitatingconditions | FC1 | "I have the knowledge to use a voice assistant." | (Easwara Moor |
+|  | FC2 | "I have the required skills to use voice assistant technology." | thy &amp; Vu, 2015; |
+|  | FC3 | "I can get assistance from others when I get trouble using avoice assistant." | Neumann, 2018;Schudzich, 2019) |
+| Trust | TR1 | "Voice assistants are trustworthy." | (Alharithi, 2019; |
+|  | TR2 | "I think voice assistants are reliable." | Neumann, 2018; |
+|  | TR3 | "I believe that voice assistants are honest." | Zeng, 2020) |
+| Security | SE1 | "I am concerned about voice assistant technology on leakingmy personal information without my authorization." | (Chu, 2019;Neumann, 2018; |
+|  | SE2 | "Using voice assistant might threaten my personal privacy." | Schudzich, 2019) |
+|  | SE3 | "I am afraid that voice assistant technology might collect mypersonal information without my acknowledgment." |  |
+</table>
+</table_group>
+
+<figure page="8" section="**3** **Methodology**" source="author" id="/page/7/Picture/5" image="A3.R05_fig11.jpg">[FIGURE: see A3.R05_fig11.jpg]</figure>
+
+</page>
+<page number="9">
+<text page="9" section="**3** **Methodology**" source="author" id="/page/8/Text/2">
+tutorials. As the medium of instruction inside the targeted universities is English and  given that the voice assistants do not support the Arabic language (i.e., the native  language of participants), students interacted and communicated with these assistants using the English language. The participants were introduced to the aim of the  research, and they were informed that their participation is voluntary and that their  entries will be used only for research purposes. A total of 300 valid responses were  collected.
+</text>
+
+<text page="9" section="**3** **Methodology**" source="author" id="/page/8/Text/3">
+The survey consisted of 27 items that were used to measure the nine constructs  in the proposed research model. The items were adopted from the previous relevant  literature and revised to refect the study's aim and objectives. The description of the  items, along with their resources, are listed in Table [1](#page-7-0).
+</text>
+
+<text page="9" section="**3** **Methodology**" source="author" id="/page/8/Text/4">
+To evaluate the proposed hypotheses in this research, the partial least squaresstructural equation modeling (PLS-SEM) is employed via SmartPLS (Ringle et al.,  [2015](#page-19-16)). The reason behind using PLS-SEM (variance-based SEM) rather than the  covariance-based SEM (CB-SEM) is attributed to two main points. First, PLS-SEM  works better than CB-SEM if the research objective is to develop an existing theory  (Hair et al., [2011)](#page-18-14), which is the scenario in this study. Second, since this research  focuses more on exploring the determinants infuencing the use of voice assistants  rather than confrming them, PLS-SEM is regarded as the suitable technique in such  situations (Hair et al., [2011)](#page-18-14).
+</text>
+
+<caption page="9" section="**3** **Methodology**" source="author" id="/page/8/Caption/5">
+**Table 2** Participants'  demographics
+</caption>
+
+<table page="9" section="**3** **Methodology**" source="author" id="/page/8/Table/6">
+| Characteristics | Items | Frequency | Percentage |
+| --- | --- | --- | --- |
+| Gender | Female | 243 | 81% |
+| Male | 57 | 19% |
+| Age | 18 - 21 | 171 | 57% |
+| 22 - 26 | 100 | 33.3% |
+| 27 - 30 | 11 | 3.7% |
+| 31 - 35 | 10 | 3.3% |
+| 36 - 40 | 4 | 1.3% |
+| Above 40 | 4 | 1.3% |
+| Level of education | Diploma | 20 | 6.7% |
+| Higher diploma | 19 | 6.3% |
+| Bachelor | 240 | 80% |
+| Master | 20 | 6.7% |
+| Doctorate | 1 | 0.3% |
+| Voice assistant types | Siri (Apple) | 134 | 44.7% |
+| Google | 140 | 46.7% |
+| Cortana (Microsoft) | 2 | 0.7% |
+| Alexa (Amazon) | 13 | 4.3% |
+| Others | 11 | 3.7% |
+</table>
+
+<figure page="9" section="**3** **Methodology**" source="author" id="/page/8/Picture/7" image="A3.R05_fig12.jpg">[FIGURE: see A3.R05_fig12.jpg]</figure>
+
+</page>
+<page number="10">
+
+<heading page="10" section="**4** **Results**" source="author" id="/page/9/SectionHeader/2" level="2">
+## **4** **Results**
+</heading>
+
+
+<heading page="10" section="**4.1** **Participants' demographics**" source="author" id="/page/9/SectionHeader/3" level="3">
+### **4.1** **Participants' demographics**
+</heading>
+
+<text page="10" section="**4.1** **Participants' demographics**" source="author" id="/page/9/Text/4">
+The participants' demographic characteristics are shown in Table [2](#page-8-0). It can be seen that  81% were females, while 19% were males. It is imperative to mention that females  represent the vast majority of students in the four targeted universities. The majority of participants were in the age group of 18-21, with 57%. For the educational  level, 240 (80%) were bachelor's degree students, followed by 20 (6.7%) diploma  and master's students, 19 (6.3%) higher diplomas, and 1 (0.3%) doctorate. Concerning the type of voice assistants, 46.7% of the students are using Google as their voice  assistant. This is followed by 44.7% who use Siri, 4.3% who use Alexa, 3.7% who  use other assistants, and 0.7% who use Cortana.
+</text>
+
+
+<heading page="10" section="**4.2** **Common method bias**" source="author" id="/page/9/SectionHeader/5" level="3">
+### **4.2** **Common method bias**
+</heading>
+
+<text page="10" section="**4.2** **Common method bias**" source="author" id="/page/9/Text/6">
+To ensure that the collected data did not contain common method bias (CMB), Harman's single-factor with nine variables (subjective norm, enjoyment, facilitating  conditions, trust, security, perceived usefulness, perceived ease of use, behavioral  intention, and actual use) was conducted (Podsakof et al.,[ 2003](#page-19-17)). The nine variables  were then loaded into a single variable. The analysis results showed that the largest  variance explained by the single variable is accounted for 21.39%, which is below the  threshold value of 50% (Podsakof et al.,[ 2003](#page-19-17)). This indicates that the collected data  do not raise any issues concerning CMB.
+</text>
+
+
+<heading page="10" section="**4.3** **Measurement model assessment**" source="author" id="/page/9/SectionHeader/7" level="3">
+### **4.3** **Measurement model assessment**
+</heading>
+
+<text page="10" section="**4.3** **Measurement model assessment**" source="author" id="/page/9/Text/8">
+To evaluate the measurement model, it is required to test the reliability and validity.  The reliability of the variables can be measured using Cronbach's alpha and composite reliability (CR), while the validity can be measured through convergent validity  and discriminant validity. As per the results shown in Table [3](#page-10-0), the Cronbach's alpha  values are ranged between 0.821 and 0.899, indicating that all values are above 0.7  (Hair et al., [2019)](#page-18-15). The results in Table [3 ](#page-10-0)also reveal that the CR values are ranged  between 0.894 and 0.937, which exceeds the threshold value of 0.7 (Hair et al.,[ 2020)](#page-18-16).  It can, therefore, be suggested that the reliability is confrmed.
+</text>
+
+<text page="10" section="**4.3** **Measurement model assessment**" source="author" id="/page/9/Text/9">
+The convergent validity is measured by testing the factor loadings and average  variance extracted (AVE) (Hair et al., [2019](#page-18-15)). As per the readings in Table [3,](#page-10-0) the values of all factor loadings are greater than the suggested value of 0.7. Furthermore,  the values of AVE are ranged between 0.736 and 0.864, which exceeds the threshold  value of 0.5. This indicates that the convergent validity is confrmed. The discriminant validity measures how far one construct varies from the other constructs in the  theoretical framework (Chin, [1998)](#page-17-15). This type of validity is assessed by examining  the Fornell-Larcker criterion, the cross-loadings, and the Heterotrait-Monotrait ratio  (HTMT). The Fornell-Larcker criterion analysis is shown in Table [4.](#page-10-1) It is evident  that the square roots of AVEs (i.e., bold diagonal values) are greater than the correlations among the latent variables (i.e., of-diagonal values) for all columns and
+</text>
+
+<figure page="10" section="**4.3** **Measurement model assessment**" source="author" id="/page/9/Picture/10" image="A3.R05_fig13.jpg">[FIGURE: see A3.R05_fig13.jpg]</figure>
+
+</page>
+<page number="11">
+<table_group page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/TableGroup/433">
+<caption page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Caption/2">
+**Table 3** Reliability and convergent validity results
+</caption>
+<table page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Table/3">
+| Variables | Items | Factor loading | Cronbach'sAlpha | CR | AVE |
+| --- | --- | --- | --- | --- | --- |
+| Perceived usefulness | PU1 | 0.846 | 0.881 | 0.918 | 0.736 |
+| PU2 | 0.852 |  |  |  |
+| PU3 | 0.857 |  |  |  |
+| PU4 | 0.877 |  |  |  |
+| Perceived ease of use | PEU1 | 0.905 | 0.899 | 0.937 | 0.832 |
+| PEU2 | 0.913 |  |  |  |
+| PEU3 | 0.919 |  |  |  |
+| Behavioral intention | BI1 | 0.911 | 0.888 | 0.931 | 0.818 |
+| BI2 | 0.939 |  |  |  |
+| BI3 | 0.862 |  |  |  |
+| Actual use | AU1 | 0.919 | 0.843 | 0.927 | 0.864 |
+| AU2 | 0.940 |  |  |  |
+| Subjective norm | SN1 | 0.903 | 0.884 | 0.928 | 0.811 |
+| SN2 | 0.900 |  |  |  |
+| SN3 | 0.899 |  |  |  |
+| Enjoyment | ENJ1 | 0.923 | 0.895 | 0.935 | 0.827 |
+| ENJ2 | 0.918 |  |  |  |
+| ENJ3 | 0.886 |  |  |  |
+| Facilitating conditions | FC1 | 0.909 | 0.821 | 0.894 | 0.739 |
+| FC2 | 0.885 |  |  |  |
+| FC3 | 0.779 |  |  |  |
+| Trust | TR1 | 0.897 | 0.872 | 0.921 | 0.796 |
+| TR2 | 0.913 |  |  |  |
+| TR3 | 0.867 |  |  |  |
+| Security | SE1 | 0.882 | 0.870 | 0.920 | 0.793 |
+| SE2 | 0.889 |  |  |  |
+| SE3 | 0.901 |  |  |  |
+</table>
+<caption page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Caption/4">
+**Table 4** Fornell-Larcker criterion
+</caption>
+</table_group>
+
+<table page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Table/5">
+|  | AU | BI | ENJ | FC | PEU | PU | SE | SN | TR |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AU | **0.929** |  |  |  |  |  |  |  |  |
+| BI | 0.799 | **0.905** |  |  |  |  |  |  |  |
+| ENJ | 0.679 | 0.748 | **0.909** |  |  |  |  |  |  |
+| FC | 0.616 | 0.737 | 0.748 | **0.860** |  |  |  |  |  |
+| PEU | 0.660 | 0.808 | 0.666 | 0.785 | **0.912** |  |  |  |  |
+| PU | 0.707 | 0.818 | 0.732 | 0.667 | 0.732 | **0.858** |  |  |  |
+| SE | 0.433 | 0.429 | 0.463 | 0.466 | 0.413 | 0.448 | **0.891** |  |  |
+| SN | 0.748 | 0.703 | 0.650 | 0.657 | 0.579 | 0.607 | 0.383 | **0.901** |  |
+| TR | 0.688 | 0.732 | 0.693 | 0.706 | 0.666 | 0.678 | 0.444 | 0.668 | **0.892** |
+</table>
+
+<text page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Text/6">
+rows (Fornell &amp; Larcker, [1981)](#page-18-17). For the cross-loadings, it can be seen from Table [5](#page-11-0) that the factor loadings belonging to each construct are greater than the loadings of  its corresponding constructs. Concerning the HTMT, Table [6 ](#page-11-1)shows that all HTMT  values are less than the threshold value of 0.85, with an exception to 7 values. Since  the reliability and convergent validity were ascertained (Al-Emran et al.,[ 2020)](#page-17-16), these
+</text>
+
+<figure page="11" section="**4.3** **Measurement model assessment**" source="author" id="/page/10/Picture/7" image="A3.R05_fig14.jpg">[FIGURE: see A3.R05_fig14.jpg]</figure>
+
+</page>
+<page number="12">
+<table page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Table/2">
+
+</table>
+
+<table_group page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/TableGroup/735">
+<table page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Table/3">
+|  | AU | BI | ENJ | FC | PEU | PU | SE | SN | TR |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AU1 | **0.919** | 0.684 | 0.562 | 0.531 | 0.564 | 0.573 | 0.360 | 0.698 | 0.595 |
+| AU2 | **0.940** | 0.793 | 0.692 | 0.610 | 0.656 | 0.730 | 0.440 | 0.694 | 0.678 |
+| BI1 | 0.694 | **0.911** | 0.661 | 0.662 | 0.758 | 0.746 | 0.440 | 0.598 | 0.643 |
+| BI2 | 0.747 | **0.939** | 0.697 | 0.711 | 0.795 | 0.769 | 0.366 | 0.645 | 0.694 |
+| BI3 | 0.726 | **0.862** | 0.670 | 0.624 | 0.633 | 0.703 | 0.360 | 0.667 | 0.650 |
+| ENJ1 | 0.653 | 0.714 | **0.923** | 0.710 | 0.682 | 0.677 | 0.419 | 0.602 | 0.633 |
+| ENJ2 | 0.546 | 0.657 | **0.918** | 0.647 | 0.610 | 0.651 | 0.399 | 0.506 | 0.597 |
+| ENJ3 | 0.653 | 0.666 | **0.886** | 0.682 | 0.514 | 0.670 | 0.448 | 0.669 | 0.663 |
+| FC1 | 0.519 | 0.657 | 0.695 | **0.909** | 0.735 | 0.596 | 0.356 | 0.537 | 0.579 |
+| FC2 | 0.525 | 0.631 | 0.661 | **0.885** | 0.671 | 0.562 | 0.447 | 0.552 | 0.555 |
+| FC3 | 0.549 | 0.612 | 0.568 | **0.779** | 0.612 | 0.563 | 0.403 | 0.611 | 0.695 |
+| PEU1 | 0.579 | 0.730 | 0.585 | 0.718 | **0.905** | 0.643 | 0.377 | 0.495 | 0.537 |
+| PEU2 | 0.641 | 0.735 | 0.617 | 0.714 | **0.913** | 0.653 | 0.351 | 0.574 | 0.651 |
+| PEU3 | 0.585 | 0.745 | 0.618 | 0.715 | **0.919** | 0.705 | 0.400 | 0.515 | 0.633 |
+| PU1 | 0.612 | 0.658 | 0.641 | 0.589 | 0.600 | **0.846** | 0.389 | 0.512 | 0.591 |
+| PU2 | 0.577 | 0.658 | 0.611 | 0.566 | 0.577 | **0.852** | 0.412 | 0.484 | 0.559 |
+| PU3 | 0.581 | 0.717 | 0.581 | 0.530 | 0.606 | **0.857** | 0.324 | 0.516 | 0.570 |
+| PU4 | 0.651 | 0.765 | 0.677 | 0.604 | 0.716 | **0.877** | 0.412 | 0.565 | 0.604 |
+| SE1 | 0.500 | 0.423 | 0.388 | 0.438 | 0.424 | 0.412 | **0.882** | 0.380 | 0.444 |
+| SE2 | 0.328 | 0.361 | 0.411 | 0.439 | 0.327 | 0.362 | **0.889** | 0.336 | 0.362 |
+| SE3 | 0.323 | 0.360 | 0.439 | 0.372 | 0.347 | 0.418 | **0.901** | 0.307 | 0.377 |
+| SN1 | 0.692 | 0.644 | 0.578 | 0.566 | 0.490 | 0.554 | 0.346 | **0.903** | 0.587 |
+| SN2 | 0.650 | 0.659 | 0.595 | 0.659 | 0.582 | 0.530 | 0.329 | **0.900** | 0.617 |
+| SN3 | 0.681 | 0.596 | 0.581 | 0.547 | 0.488 | 0.556 | 0.361 | **0.899** | 0.599 |
+| TR1 | 0.651 | 0.689 | 0.611 | 0.610 | 0.599 | 0.603 | 0.352 | 0.673 | **0.897** |
+| TR2 | 0.655 | 0.690 | 0.632 | 0.635 | 0.635 | 0.658 | 0.441 | 0.561 | **0.913** |
+| TR3 | 0.526 | 0.575 | 0.613 | 0.649 | 0.544 | 0.545 | 0.394 | 0.555 | **0.867** |
+</table>
+<caption page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Caption/4">
+**Table 6** HTMT results
+</caption>
+</table_group>
+
+<table page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Table/5">
+|  | AU | BI | ENJ | FC | PEU | PU | SE | SN | TR |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AU |  |  |  |  |  |  |  |  |  |
+| BI | 0.919 |  |  |  |  |  |  |  |  |
+| ENJ | 0.776 | 0.838 |  |  |  |  |  |  |  |
+| FC | 0.741 | 0.864 | 0.871 |  |  |  |  |  |  |
+| PEU | 0.754 | 0.902 | 0.738 | 0.912 |  |  |  |  |  |
+| PU | 0.811 | 0.922 | 0.824 | 0.785 | 0.818 |  |  |  |  |
+| SE | 0.500 | 0.488 | 0.526 | 0.556 | 0.465 | 0.509 |  |  |  |
+| SN | 0.868 | 0.794 | 0.732 | 0.774 | 0.648 | 0.686 | 0.437 |  |  |
+| TR | 0.794 | 0.829 | 0.786 | 0.841 | 0.749 | 0.769 | 0.507 | 0.760 |  |
+</table>
+
+<text page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Text/6">
+values do not raise any issues related to discriminant validity. Hence, it can be argued  that there are no issues in terms of the discriminant validity in this study.
+</text>
+
+<figure page="12" section="**4.3** **Measurement model assessment**" source="author" id="/page/11/Picture/7" image="A3.R05_fig15.jpg">[FIGURE: see A3.R05_fig15.jpg]</figure>
+
+</page>
+<page number="13">
+
+<heading page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/SectionHeader/2" level="3">
+### **4.4** **Structural model assessment**
+</heading>
+
+<text page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Text/3">
+We have tested the collinearity between the factors before evaluating the structural  model to ensure no lateral collinearity issues (Ramayah et al., [2018)](#page-19-18). The variance  infation factor (VIF) is one of the standard measures used for assessing collinearity.  As per the readings in Table [7](#page-13-0), all the VIF values are less than 5 (Hair et al., [2011)](#page-18-14),  indicating no multicollinearity. The assessment of the structural model is performed  through a bootstrapping procedure of 5000 re-samples by measuring the *t*-values,  standard beta (*β*), coefcient of determination (R^(2) ), efect size (*f* 2 ), and predictive relevance (*Q*^(2) ) (Hair et al., [2017)](#page-18-18). R^(2)  is a common indicator for measuring the structural  model and a predictor for all the endogenous variables in the research model. It has  been argued that the R^(2)  values above 0.67 are categorized as "High", values between  0.33 and 0.67 are categorized as "Moderate", and values between 0.19 and 0.33 are  categorized as "Weak" (Chin, [1998](#page-17-15)). The results indicated that the R^(2)  values for the  actual use (0.638), perceived ease of use (0.645), and perceived usefulness (0.667)  are within the range of 0.33 and 0.67, which means that the predictive power of the  variables is "Moderate". Further, the R^(2)  value for the behavioral intention to use AIbased voice assistants is discovered to be 0.763, which implies that the predictive  power of the variable is "High".
+</text>
+
+<text page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Text/4">
+Table [7](#page-13-0) shows the path coefcient results for all the proposed hypotheses in the  conceptual model. According to the data analysis, 8 out of the 13 hypotheses were  supported in this research, while the rest were not accepted by the empirical data.  In that, the fndings demonstrated that subjective norm has an insignifcant positive  infuence on perceived usefulness (*β*=0.090, *t* = 1.387) and perceived ease of use  (*β*=0.017, *t* = 0.315) of voice assistants. Hence, H1 and H2 are rejected. The results  showed that enjoyment has a signifcant positive infuence on perceived usefulness  (*β*=0.350, *t* = 5.780), while it has an insignifcant positive impact on perceived ease  of use (*β*=0.104, *t* = 1.127). Thus, H3 is accepted, and H4 is rejected.
+</text>
+
+<text page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Text/5">
+The results indicated that facilitating conditions has an insignifcant efect on perceived usefulness (*β* = -0.109, *t* = 1.156), while it has a signifcant positive efect on  perceived ease of use (*β*=0.567, *t* = 8.124). This means that H5 is rejected and H6 is  accepted. Trust is shown to have a signifcant positive infuence on perceived usefulness (*β*=0.155, *t* = 2.574) and perceived ease of use (*β*=0.183, *t* = 2.397). Therefore,  H7 and H8 are accepted. The results revealed that security has an insignifcant positive correlation with perceived usefulness (*β*=0.068, *t* = 1.553), which indicates the  rejection of H9.
+</text>
+
+<text page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Text/6">
+The fndings also pointed out that perceived ease of use has a positive association  with perceived usefulness (*β*=0.401, *t* = 6.051) and behavioral intention (*β*=0.450, *t* = 9.614), which means that H10 and H11 are accepted. In addition, perceived usefulness has a strong positive correlation with the behavioral intention to use (*β*=0.488,  *t* = 10.772), which shows the acceptance of H12. The results also indicated that the  behavioral intention has a signifcant positive infuence on the students' actual use of  voice assistants (*β*=0.799, *t* = 29.279). Thus, H13 is accepted.
+</text>
+
+<text page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Text/7">
+We have also tested the efect sizes (*f* 2 ), as shown in Table [7](#page-13-0), by following the  recommendations of Cohen ([1988)](#page-17-17). Values of 0.02, 0.15, and 0.35 indicate small,  medium, and large efects, respectively (Cohen, [1988)](#page-17-17). The analysis shows that sub-
+</text>
+
+<figure page="13" section="**4.4** **Structural model assessment**" source="author" id="/page/12/Picture/8" image="A3.R05_fig16.jpg">[FIGURE: see A3.R05_fig16.jpg]</figure>
+
+</page>
+<page number="14">
+<table page="14" section="**4.4** **Structural model assessment**" source="author" id="/page/13/Table/2">
+| Hypothesis | Relationship | Std. Beta | t-value | p-value | f2 | VIF | Decision |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| H1 | SN → PU | 0.090 | 1.387 | 0.166 | 0.011 | 2.157 | Not Supported |
+| H2 | SN → PEU | 0.017 | 0.315 | 0.753 | 0.000 | 2.155 | Not Supported |
+| H3 | ENJ → PU | 0.350 | 5.780 | 0.000 | 0.132 | 2.787 | Supported |
+| H4 | ENJ → PEU | 0.104 | 1.127 | 0.260 | 0.011 | 2.709 | Not Supported |
+| H5 | FC → PU | -0.109 | 1.156 | 0.248 | 0.009 | 3.762 | Not Supported |
+| H6 | FC → PEU | 0.567 | 8.124 | 0.000 | 0.322 | 2.816 | Supported |
+| H7 | TR → PU | 0.155 | 2.574 | 0.010 | 0.027 | 2.630 | Supported |
+| H8 | TR → PEU | 0.183 | 2.397 | 0.017 | 0.038 | 2.506 | Supported |
+| H9 | SE → PU | 0.068 | 1.553 | 0.121 | 0.010 | 1.351 | Not Supported |
+| H10 | PEU → PU | 0.401 | 6.051 | 0.000 | 0.171 | 2.822 | Supported |
+| H11 | PEU → BI | 0.450 | 9.614 | 0.000 | 0.397 | 2.152 | Supported |
+| H12 | PU → BI | 0.488 | 10.772 | 0.000 | 0.468 | 2.152 | Supported |
+| H13 | BI → AU | 0.799 | 29.279 | 0.000 | 1.759 | 1.000 | Supported |
+</table>
+
+<text page="14" section="**4.4** **Structural model assessment**" source="author" id="/page/13/Text/3">
+**Table 7** Hypotheses testing results
+</text>
+
+<text page="14" section="**4.4** **Structural model assessment**" source="author" id="/page/13/Text/4">
+jective norm has a small efect size on perceived usefulness and perceived ease of  use with the values of 0.011 and 0.000, respectively. Perceived enjoyment has a small  efect size on perceived usefulness and perceived ease of use with the values of 0.132  and 0.011, respectively. Facilitating conditions has a small efect size on perceived  usefulness (*f* ^(2) = 0.009), but it has a medium efect on perceived ease of use (*f* ^(2) = 0.322). Trust has a small efect size on perceived usefulness and perceived ease of  use with the values of 0.027 and 0.038, respectively. Perceived security has a small  efect size on perceived usefulness with the value of 0.010. Perceived ease of use has  a medium efect size on perceived usefulness (*f* ^(2) = 0.171), but it has a large efect  on behavioral intention (*f* ^(2) = 0.397). Perceived usefulness has a large efect size on  behavioral intention with a value of 0.468. The behavioral intention has a large efect  size on actual use with the value of 1.759.
+</text>
+
+<text page="14" section="**4.4** **Structural model assessment**" source="author" id="/page/13/Text/5">
+Regarding predictive relevance (*Q*^(2) ), *Q*^(2)  values greater than 0 indicate that the  exogenous constructs have predictive relevance for the endogenous construct under  consideration (Hair et al., [2016)](#page-18-19). The analysis reveals that *Q*^(2)  values were all greater  than 0 (actual use *Q*^(2) = 0.541, behavioral intention *Q*^(2) = 0.618, perceived ease of use  *Q*^(2) = 0.529, and perceived usefulness *Q*^(2) = 0.480).
+</text>
+
+
+<heading page="14" section="**5** **Discussion**" source="author" id="/page/13/SectionHeader/6" level="2">
+## **5** **Discussion**
+</heading>
+
+<text page="14" section="**5** **Discussion**" source="author" id="/page/13/Text/7">
+The rapid growth of information technologies has changed the way through which students communicate at "anytime anywhere" settings (Al-Emran et al.,[ 2018](#page-17-18); Alshurideh et al., [2020](#page-17-19)). AI-based voice assistants have exposed signifcant progress, and  their potential is improving. While the existing literature witnessed several studies on  the applications of voice assistants in diferent instructional activities, little is known  concerning the determinants afecting the students' use of those assistants (Kim et  al., [2020)](#page-18-20). Hence, this study aimed at examining the key factors that are believed to  infuence students' use of AI-based voice assistants in educational activities. In that,  we developed a research model by extending the TAM with other external factors,  including subjective norm, enjoyment, facilitating conditions, trust, and security.
+</text>
+
+<figure page="14" section="**5** **Discussion**" source="author" id="/page/13/Picture/8" image="A3.R05_fig17.jpg">[FIGURE: see A3.R05_fig17.jpg]</figure>
+
+</page>
+<page number="15">
+<text page="15" section="**5** **Discussion**" source="author" id="/page/14/Text/2">
+The research fndings showed that subjective norm has an insignifcant impact on  perceived usefulness and ease of use of voice assistants. However, this contradicts  with the results found in prior research (Moriuchi, [2019;](#page-18-6) Song, [2019)](#page-19-4). This might be  caused by the people surrounding the students, who fnd the technology hard to use,  or those who are not familiar with voice assistants specifcally for learning activities.  Furthermore, the outcomes revealed that enjoyment has a signifcant positive infuence on the perceived usefulness of voice assistants, which confrms the fndings  observed in earlier research (Al-Qaysi et al.,[ 2021](#page-17-5); Chu, [2019;](#page-17-6) Liu et al., [2021)](#page-18-7). This  indicates that students fnd the voice assistant as an enjoyable tool, which enhances  their learning performance.
+</text>
+
+<text page="15" section="**5** **Discussion**" source="author" id="/page/14/Text/3">
+While the previous literature supported the relationship between enjoyment and  perceived ease of use (Al-Qaysi et al., [2021;](#page-17-5) Chu,[ 2019;](#page-17-6) Liu et al.,[ 2021)](#page-18-7), the research  fndings pointed out that enjoyment has an insignifcant infuence on the perceived  ease of use of voice assistants. This shows that students fnd the voice assistants hard  to use due to their complexity. Therefore, it can be argued that students did not fnd  any enjoyment while using the system in their learning process. Contrary to what  has been observed in the existing literature (Bloemendaal,[ 2018](#page-17-3); Li et al., [2021)](#page-18-8), the  results of this study did not support the correlation between facilitating conditions  and perceived usefulness. This might be attributed to the reason that students have  less knowledge and skills in using voice assistants in their instructional activities,  which hinders the usefulness of those tools in such activities. However, the results  revealed that facilitating conditions positively impact the perceived ease of use of  voice assistants, which aligns with the results found previously (Bloemendaal, [2018;](#page-17-3) Li et al.,[ 2021)](#page-18-8). This indicates that fnding assistance regarding the use of voice assistants from others would facilitate the use of those assistants in instructional activities.
+</text>
+
+<text page="15" section="**5** **Discussion**" source="author" id="/page/14/Text/4">
+While 41% of voice assistant users have concerns about trust (Perez, [2019](#page-19-19)), the  research fndings found that trust has a positive infuence on perceived usefulness  and perceived ease of use of voice assistants in learning activities. This confrms  the results found in previous studies (Alharithi, [2019;](#page-17-8) Chu, [2019;](#page-17-6) Zeng, [2020](#page-20-0)). This  indicates that voice assistants would be useful and user-friendly if students fnd them  reliable while searching and gathering information related to their studies. Further,  the results showed that security has no signifcant impact on the perceived usefulness  of voice assistants, which contradicts the outcomes observed in earlier studies (Chu,  [2019](#page-17-6); Neumann,[ 2018](#page-18-9)). This means that students might consider the voice assistants  useless if they expose their personal information without authorization and threaten  their privacy.
+</text>
+
+<text page="15" section="**5** **Discussion**" source="author" id="/page/14/Text/5">
+In line with the TAM assumptions (Davis,[ 1989)](#page-17-1) and the conclusions drawn in previous studies (Moriuchi, [2019;](#page-18-6) Song, [2019](#page-19-4); Sorensen, [2019](#page-19-6)), the results found that  perceived ease of use has a signifcant positive impact on perceived usefulness and  the behavioral intention to use voice assistant technologies. This indicates that the  higher the easiness of voice assistants, the higher the advantages of getting students'  attention to realize the usefulness of those assistants in performing learning activities and the intention to use them in the future. The research fndings also showed  that perceived usefulness has a signifcant positive correlation with the behavioral  intention to use voice assistants, which comes in line with the conclusions drawn in  prior studies (Chai et al.,[ 2020](#page-17-10); Elfeky &amp; Elbyaly,[ 2021](#page-17-11); Liu et al.,[ 2021](#page-18-7)). This shows
+</text>
+
+<figure page="15" section="**5** **Discussion**" source="author" id="/page/14/Picture/6" image="A3.R05_fig18.jpg">[FIGURE: see A3.R05_fig18.jpg]</figure>
+
+</page>
+<page number="16">
+<text page="16" section="**5** **Discussion**" source="author" id="/page/15/Text/2">
+that students' behavioral intention is increased for those who found the technology  useful in their learning activities. The results demonstrated that behavioral intention  strongly infuences the actual use of voice assistants, which supports the results found  in previous studies (Afonso, [2019;](#page-17-12) Mohammadi, [2015)](#page-18-11). This indicates that the actual  use of voice assistants for educational purposes would increase if students exposed  higher positive intentions toward those assistants.
+</text>
+
+
+<heading page="16" section="**6** **Conclusions**" source="author" id="/page/15/SectionHeader/3" level="2">
+## **6** **Conclusions**
+</heading>
+
+
+<heading page="16" section="**6.1** **Theoretical contributions**" source="author" id="/page/15/SectionHeader/4" level="3">
+### **6.1** **Theoretical contributions**
+</heading>
+
+<text page="16" section="**6.1** **Theoretical contributions**" source="author" id="/page/15/Text/5">
+Stemming from the empirical data analysis, this research provides four theoretical contributions. First, this research developed an integrated theoretical model by  extending the TAM with several external factors that are believed to infuence the students' use of AI-based voice assistants for instructional purposes. Unlike the previous  studies that mainly examined the use of voice assistants in the western individualistic  contexts (e.g., (Fernandes &amp; Oliveira, [2021;](#page-17-20) Pitardi &amp; Marriott, [2021](#page-19-20))), the developed model was tested in a collectivistic society like the UAE. This is believed to add  a thorough understanding of the determinants afecting the use of voice assistants in  unexplored contexts, such as the UAE, and open the door for further research in the  domain. Second, this research contributes to the extant literature on AI-based voice  assistants in general and the educational sector in specifc, which is still in its infancy  stage. While the study used the TAM, which has been widely used in the past, understanding the underlying TAM constructs and the other external factors in examining  the use of voice assistants in learning purposes is believed to add a signifcant value  to the TAM on one side and the research domain of voice assistants on the other side.
+</text>
+
+<text page="16" section="**6.1** **Theoretical contributions**" source="author" id="/page/15/Text/6">
+Third, most of the extant empirical studies have focused on the consumers' use  of voice assistants (e.g., (Fernandes &amp; Oliveira, [2021](#page-17-20); Vimalkumar et al., [2021)](#page-19-3))  and ignored their role in educational activities. Thus, engaging the students in this  research and understanding the factors afecting their use of voice assistants is  believed to add value to the educational technology literature. Fourth, the developed  model explained 63.8% of the variance in the actual use of voice assistants, which  proves that the model is suitable for new collectivistic contexts like the UAE.
+</text>
+
+
+<heading page="16" section="**6.2** **Practical implications**" source="author" id="/page/15/SectionHeader/7" level="3">
+### **6.2** **Practical implications**
+</heading>
+
+<text page="16" section="**6.2** **Practical implications**" source="author" id="/page/15/Text/8">
+This research ofers several practical implications. First, decision-makers can rely on  the fndings of this research to better understand the determinants afecting students'  use of voice assistants to efectively use these technologies for learning purposes. Second, given the insignifcant role of subjective norm in afecting the usefulness  and ease of use of voice assistants, decision-makers need to organize awareness campaigns and training sessions to guide students on how to use those assistants in learning activities.Ensuring and maintaining specifc guidelines for using those assistants  would socially communicate their benefts among the students.
+</text>
+
+<figure page="16" section="**6.2** **Practical implications**" source="author" id="/page/15/Picture/9" image="A3.R05_fig19.jpg">[FIGURE: see A3.R05_fig19.jpg]</figure>
+
+</page>
+<page number="17">
+<text page="17" section="**6.2** **Practical implications**" source="author" id="/page/16/Text/2">
+Third, the empirical results did not support the role of security in infuencing the  usefulness of voice assistants by students. This is mainly because those assistants  need to collect a massive amount of data from users to perform competently and  provide the best user experience. Students can expose their personal information only  when they feel that the information is secure and the service provider is trustworthy.  Therefore, service providers need to be transparent on how the data are collected and  used. Further, practitioners need to educate students about their privacy and how to  protect their personal information. Fourth, stemming from the nature of voice assistants in collecting users' data, educational institutions need to have strong policies  and procedures to deal with students' data breaches.
+</text>
+
+
+<heading page="17" section="**6.3** **Limitations and future work**" source="author" id="/page/16/SectionHeader/3" level="3">
+### **6.3** **Limitations and future work**
+</heading>
+
+<text page="17" section="**6.3** **Limitations and future work**" source="author" id="/page/16/Text/4">
+This study is limited in several ways. First, the developed model was tested on data  collected from university students only, without considering educators' responses.  Further research might look into the determinants afecting the use of voice assistants  from the lenses of educators. Second, the developed model was based on extending  the TAM with external factors and did not consider the role of moderating variables,  such as gender and age, in examining the use of voice assistants. Examining the role  of moderators is believed to add a signifcant value for potential work in the future.  Third, this research relied on a quantitative approach through the use of questionnaire surveys, which does not allow an in-depth exploration of students' use of voice  assistants. Further trials are encouraged to employ an in-depth mixed method to draw  a better and deeper exploration of the topic.
+</text>
+
+<text page="17" section="**6.3** **Limitations and future work**" source="author" id="/page/16/Text/5">
+Fourth, this study is cross-sectional, and therefore, a time-lag research approach is  suggested to discover whether the responses of diferent participants of similar age at  diferent points in time would change or not. Fifth, this research did not include the  course through which voice assistants were used, which is due to the nature of the  study in examining the general educational purposes of these assistants. Therefore, it  is suggested to investigate the role of the course in future studies to understand how  voice assistants are used across diferent courses. Sixth, the selection of participants  in terms of the educational level was uneven. Therefore, future studies should consider this issue to approach neutral samples from various educational levels.
+</text>
+
+<text page="17" section="**6.3** **Limitations and future work**" source="author" id="/page/16/Text/6">
+**Acknowledgements** This work is a part of a research study submitted to The British University in Dubai.
+</text>
+
+<text page="17" section="**6.3** **Limitations and future work**" source="author" id="/page/16/Text/7">
+**Funding** There is no funding received for this study.
+</text>
+
+
+<heading page="17" section="**Declarations**" source="author" id="/page/16/SectionHeader/8" level="2">
+## **Declarations**
+</heading>
+
+<text page="17" section="**Declarations**" source="author" id="/page/16/Text/9">
+**Confict of interest** The authors declare that they have no confict of interest.
+</text>
+
+<figure page="17" section="**Declarations**" source="author" id="/page/16/Picture/10" image="A3.R05_fig20.jpg">[FIGURE: see A3.R05_fig20.jpg]</figure>
+
+</page>
+<page number="18">
+
+<heading page="18" section="**References**" source="author" id="/page/17/SectionHeader/2" level="2">
+## **References**
+</heading>
+
+<list page="18" section="**References**" source="author" id="/page/17/ListGroup/241">
+- Afonso, G. F. M. (2019). *Understanding smart-speakers adoption in Portugal: a unifed theory of accep****tance and use of technology applied in the Portuguese consumer market*. University Institute of  Lisbon
+- Al-Emran, M., Al-Maroof, R., Al-Sharaf, M. A., &amp; Arpaci, I. (2020). What impacts learning with wearables? An integrated theoretical model. *Interactive Learning Environments*. [https://doi.org/10.1080/](http://dx.doi.org/10.1080/10494820.2020.1753216) [10494820.2020.1753216](http://dx.doi.org/10.1080/10494820.2020.1753216)
+- Al-Emran, M., &amp; Granić, A. (2021). Is It Still Valid or Outdated? A Bibliometric Analysis of the Technology Acceptance Model and Its Applications From 2010 to 2020. In *Recent Advances in Technology * *Acceptance Models and Theories*.[ https://doi.org/10.1007/978-3-030-64987-6_1](http://dx.doi.org/10.1007/978-3-030-64987-6_1)
+- Al-Emran, M., Mezhuyev, V., Kamaludin, A., &amp; AlSinani, M. (2018). Development of M-learning Application based on Knowledge Management Processes. *2018 7th International Conference on Software * *and Computer Applications (ICSCA 2018)*, 248–253
+- Al-Kaisi, A. N., Arkhangelskaya, A. L., &amp; Rudenko-Morgun, O. I. (2021). The didactic potential of the  voice assistant "Alice" for students of a foreign language at a university. *Education and Information * *Technologies*, 26, 715–732. [https://doi.org/10.1007/S10639-020-10277-2](http://dx.doi.org/10.1007/S10639-020-10277-2)
+- Al-Qaysi, N., Mohamad-Nordin, N., &amp; Al-Emran, M. (2021). Developing a comprehensive theoretical  model for adopting social media in higher education. *Interactive Learning Environments*.[ https://doi.](http://dx.doi.org/10.1080/10494820.2021.1961809) [org/10.1080/10494820.2021.1961809](http://dx.doi.org/10.1080/10494820.2021.1961809)
+- Albanna, H., Alalwan, A. A., &amp; Al-Emran, M. (2022). An integrated model for using social media applications in non-proft organizations. *International Journal of Information Management*, 63, 102452.  [https://doi.org/10.1016/J.IJINFOMGT.2021.102452](http://dx.doi.org/10.1016/J.IJINFOMGT.2021.102452)
+- Alharithi, F. (2019). *Detecting Conficts among Autonomous Devices in Smart Home*. Florida Institute of  Technology
+- Alshurideh, M., Al Kurdi, B., Salloum, S. A., Arpaci, I., &amp; Al-Emran, M. (2020). Predicting the actual use  of m-learning systems: a comparative approach using PLS-SEM and machine learning algorithms.  *Interactive Learning Environments*.[ https://doi.org/10.1080/10494820.2020.1826982](http://dx.doi.org/10.1080/10494820.2020.1826982)
+- Basak, E., Gumussoy, C. A., &amp; Calisir, F. (2015). Examining the factors afecting PDA acceptance among  physicians: an extended technology acceptance model. *Journal of Healthcare Engineering*, 6(3),  399–418.[ https://doi.org/10.1260/2040-2295.6.3.399](http://dx.doi.org/10.1260/2040-2295.6.3.399)
+- Bloemendaal, R. H. (2018). The Internet of Things in home environments: Building customer relationships: a study of customer attitude and intention to use in the context of IoT in home environments.  *Master's Thesis, University of Twente*
+- Cacho-Elizondo, S., Shahidi, N., &amp; Tossan, V. (2012). *Educational Mobile Coaching: Exploring Adoption * *Patterns and Barriers*
+- Chai, C. S., Wang, X., &amp; Xu, C. (2020). An extended theory of planned behavior for the modelling of  chinese secondary school students' intention to learn artifcial intelligence. *Mathematics*, 8(11), 1–18.  [https://doi.org/10.3390/math8112089](http://dx.doi.org/10.3390/math8112089)
+- Chin, W. W. (1998). The partial least squares approach to structural equation modeling. *Modern Methods * *for Business Research*, 295(2), 295–336
+- Chowdhury, S. (2018). *Avoidance Attitudes towards Virtual Assistants*. Coventry University
+- Chu, L. (2019). *Why would I adopt a smart speaker?: Consumers' intention to adopt smart speakers in * *smart home environment*. Master's thesis, University of Twente
+- Cohen, J. (1988). Statistical power analysis for the behavioral sciences. In *NJ: Lawrence Earlbaum Asso****ciates*. Hilsdale.[ https://doi.org/10.1234/12345678](http://dx.doi.org/10.1234/12345678)
+- Davis, F. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. *MIS Quarterly*, 13(3), 319–340. [https://doi.org/10.2307/249008](http://dx.doi.org/10.2307/249008)
+- Easwara Moorthy, A., &amp; Vu, K. P. L. (2015). Privacy Concerns for Use of Voice Activated Personal Assistant in the Public Space. *International Journal of Human-Computer Interaction*, 31(4), 307–335.  [https://doi.org/10.1080/10447318.2014.986642](http://dx.doi.org/10.1080/10447318.2014.986642)
+- Elfeky, A. I. M., &amp; Elbyaly, M. Y. H. (2021). The use of data analytics technique in learning management  system to develop fashion design skills and technology acceptance. *Interactive Learning Environ****ments*, 1–18. [https://doi.org/10.1080/10494820.2021.1943688](http://dx.doi.org/10.1080/10494820.2021.1943688)
+- Fernandes, T., &amp; Oliveira, E. (2021). Understanding consumers' acceptance of automated technologies in  service encounters: Drivers of digital voice assistants adoption. *Journal of Business Research*, 122,  180–191.[ https://doi.org/10.1016/J.JBUSRES.2020.08.058](http://dx.doi.org/10.1016/J.JBUSRES.2020.08.058)
+</list>
+
+<figure page="18" section="**References**" source="author" id="/page/17/Picture/24" image="A3.R05_fig21.jpg">[FIGURE: see A3.R05_fig21.jpg]</figure>
+
+</page>
+<page number="19">
+<list page="19" section="**References**" source="author" id="/page/18/ListGroup/260">
+- Fornell, C., &amp; Larcker, D. F. (1981). Evaluating Structural Equation Models With Unobservable  Variables and Measurement Error. *Journal of Marketing Research*, 18(1), 39–50. [https://doi.](http://dx.doi.org/10.2307/3151312) [org/10.2307/3151312](http://dx.doi.org/10.2307/3151312)
+- Gartner (2016). *Gartner Says Digital Assistants Will Serve as the Primary Interface to the Connected * *Home*. Gartner. [https://www.gartner.com/en/newsroom/press-releases/2016-06-20-gartner-says-dig](https://www.gartner.com/en/newsroom/press-releases/2016-06-20-gartner-says-digital-assistants-will-serve-as-the-primary-interface-to-the-connected-home)[ital-assistants-will-serve-as-the-primary-interface-to-the-connected-home](https://www.gartner.com/en/newsroom/press-releases/2016-06-20-gartner-says-digital-assistants-will-serve-as-the-primary-interface-to-the-connected-home)
+- Gouda, P., Ganni, E., Chung, P., Randhawa, V. K., Marquis-Gravel, G., Avram, R. … Sharma, A.  (2021). Feasibility of Incorporating Voice Technology and Virtual Assistants in Cardiovascular  Care and Clinical Trials. *Current Cardiovascular Risk Reports*, 15, 1–8. [https://doi.org/10.1007/](http://dx.doi.org/10.1007/S12170-021-00673-9) [S12170-021-00673-9](http://dx.doi.org/10.1007/S12170-021-00673-9)
+- Hair, J. F., Howard, M. C., &amp; Nitzl, C. (2020). Assessing measurement model quality in PLS-SEM  using confrmatory composite analysis. *Journal of Business Research*, 109, 101–110. [https://doi.](http://dx.doi.org/10.1016/J.JBUSRES.2019.11.069) [org/10.1016/J.JBUSRES.2019.11.069](http://dx.doi.org/10.1016/J.JBUSRES.2019.11.069)
+- Hair, J. F., Hult, G. T. M., Ringle, C., &amp; Sarstedt, M. (2016). *A primer on partial least squares structural * *equation modeling (PLS-SEM)*. Sage Publications
+- Hair, J. F., Ringle, C. M., &amp; Sarstedt, M. (2011). PLS-SEM: Indeed a silver bullet. *Journal of Marketing * *Theory and Practice*, 19(2), 139–152.[ https://doi.org/10.2753/MTP1069-6679190202](http://dx.doi.org/10.2753/MTP1069-6679190202)
+- Hair, J. F., Risher, J. J., Sarstedt, M., &amp; Ringle, C. M. (2019). When to use and how to report the results  of PLS-SEM. *European Business Review*, 31(1), 2–24.[ https://doi.org/10.1108/EBR-11-2018-0203](http://dx.doi.org/10.1108/EBR-11-2018-0203)
+- Hair, J., Hollingsworth, C. L., Randolph, A. B., &amp; Chong, A. Y. L. (2017). An updated and expanded  assessment of PLS-SEM in information systems research. *Industrial Management &amp; Data Systems*,  117(3), 442–458.[ https://doi.org/10.1108/IMDS-04-2016-0130](http://dx.doi.org/10.1108/IMDS-04-2016-0130)
+- Jennifer, P., &amp; Sofroniev, G. (2020). *Exploring Voice-Controlled System: Services and Consumer Prefer****ences towards future usage within the Food Industry*. Jönköping University
+- Kendall, L., Chaudhuri, B., &amp; Bhalla, A. (2020). Understanding technology as situated practice: everyday  use of voice user interfaces among diverse groups of users in urban India. *Information Systems Fron****tiers*, 22, 585–605.[ https://doi.org/10.1007/s10796-020-10015-6](http://dx.doi.org/10.1007/s10796-020-10015-6)
+- Kim, J., Merrill, K., Xu, K., &amp; Sellnow, D. D. (2020). My Teacher Is a Machine: Understanding Students'  Perceptions of AI Teaching Assistants in Online Education. *International Journal of Human–Com****puter Interaction*, 36(20), 1902–1911.[ https://doi.org/10.1080/10447318.2020.1801227](http://dx.doi.org/10.1080/10447318.2020.1801227)
+- Lee, S. Y., &amp; Choi, J. (2017). Enhancing user experience with conversational agent for movie recommendation: Efects of self-disclosure and reciprocity. *International Journal of Human Computer Studies*,  103(January), 95–105.[ https://doi.org/10.1016/j.ijhcs.2017.02.005](http://dx.doi.org/10.1016/j.ijhcs.2017.02.005)
+- Li, L., Paudel, K. P., &amp; Guo, J. (2021). Understanding Chinese farmers' participation behavior regarding vegetable traceability systems. *Food Control*, *130*. [https://doi.org/10.1016/J.FOODCONT.2021.108325](http://dx.doi.org/10.1016/J.FOODCONT.2021.108325)
+- Lin, H. F., &amp; Chen, C. H. (2015). Design and application of augmented reality query-answering system in  mobile phone information navigation. *Expert Systems with Applications*, 42(2), 810–820.[ https://doi.](http://dx.doi.org/10.1016/j.eswa.2014.07.050) [org/10.1016/j.eswa.2014.07.050](http://dx.doi.org/10.1016/j.eswa.2014.07.050)
+- Liu, Y., Sun, J. C., &amp; Chen, S. (2021). Comparing technology acceptance of AR-based and 3D map-based  mobile library applications: a multigroup SEM analysis. *Interactive Learning Environments*, 1–15.  [https://doi.org/10.1080/10494820.2021.1955271](http://dx.doi.org/10.1080/10494820.2021.1955271)
+- McCue, T. (2018). *Okay Google: Voice Search Technology And The Rise Of Voice * *Commerce*. Forbes. [https://www.forbes.com/sites/tjmccue/2018/08/28/](https://www.forbes.com/sites/tjmccue/2018/08/28/okay-google-voice-search-technology-and-the-rise-of-voice-commerce/?sh=25a6a2ec4e29) [okay-google-voice-search-technology-and-the-rise-of-voice-commerce/?sh](https://www.forbes.com/sites/tjmccue/2018/08/28/okay-google-voice-search-technology-and-the-rise-of-voice-commerce/?sh=25a6a2ec4e29)=25a6a2ec4e29
+- McLean, G., &amp; Osei-Frimpong, K. (2019). Hey Alexa … examine the variables infuencing the use of  artifcial intelligent in-home voice assistants. *Computers in Human Behavior*, 99, 28–37. [https://doi.](http://dx.doi.org/10.1016/J.CHB.2019.05.009) [org/10.1016/J.CHB.2019.05.009](http://dx.doi.org/10.1016/J.CHB.2019.05.009)
+- Moan, I. S. V., &amp; Rise, J. (2006). Predicting smoking reduction among adolescents using an extended  version of the theory of planned behaviour. *Psychology and Health*, 21(6), 717–738. [https://doi.](http://dx.doi.org/10.1080/14768320600603448) [org/10.1080/14768320600603448](http://dx.doi.org/10.1080/14768320600603448)
+- Mohammadi, H. (2015). Social and individual antecedents of m-learning adoption in Iran. *Computers in * *Human Behavior*, 49, 191–207. [https://doi.org/10.1016/j.chb.2015.03.006](http://dx.doi.org/10.1016/j.chb.2015.03.006)
+- Moriuchi, E. (2019). Okay, Google!: An empirical study on voice assistants on consumer engagement and  loyalty. *Psychology and Marketing*, 36(5), 489–501.[ https://doi.org/10.1002/mar.21192](http://dx.doi.org/10.1002/mar.21192)
+- Neumann, N. (2018). *The Acceptance of Smart Home Technology* [University of Twente]. [https://doi.](http://dx.doi.org/10.1007/978-3-030-61140-8_1) [org/10.1007/978-3-030-61140-8_1](http://dx.doi.org/10.1007/978-3-030-61140-8_1)
+</list>
+
+<figure page="19" section="**References**" source="author" id="/page/18/Picture/23" image="A3.R05_fig22.jpg">[FIGURE: see A3.R05_fig22.jpg]</figure>
+
+</page>
+<page number="20">
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/254">
+- Ostrom, A. L., Fotheringham, D., &amp; Bitner, M. J. (2019). Customer Acceptance of AI in Service Encounters: Understanding Antecedents and Consequences. *Handbook of Service Science, Volume II* (pp.  77–103). Cham: Springer.[ https://doi.org/10.1007/978-3-319-98512-1_5](http://dx.doi.org/10.1007/978-3-319-98512-1_5)
+- Pal, D., Arpnikanondt, C., Funilkul, S., &amp; Chutimaskul, W. (2020). The Adoption Analysis of Voice-Based  Smart IoT Products. *IEEE Internet of Things Journal*, 7(11), 10852–10867.[ https://doi.org/10.1109/](http://dx.doi.org/10.1109/JIOT.2020.2991791) [JIOT.2020.2991791](http://dx.doi.org/10.1109/JIOT.2020.2991791)
+- Pal, D., Arpnikanondt, C., Funilkul, S., &amp; Razzaque, M. A. (2020). Analyzing the adoption and difusion  of voice-enabled smart-home systems: empirical evidence from Thailand. *Universal Access in the * *Information Society*, *0123456789*.[ https://doi.org/10.1007/s10209-020-00754-3](http://dx.doi.org/10.1007/s10209-020-00754-3)
+- Pal, D., &amp; Patra, S. (2020). University Students' Perception of Video-Based Learning in Times of COVID-19: A TAM/TTF Perspective. *International Journal of Human-Computer Interaction*, 00(00), 1–19.  [https://doi.org/10.1080/10447318.2020.1848164](http://dx.doi.org/10.1080/10447318.2020.1848164)
+- Park, E., Hwang, B., Ko, K., &amp; Kim, D. (2017). Consumer Acceptance Analysis of the Home Energy  Management System. *Sustainability*, 9(12), 1–15. [https://doi.org/10.3390/SU9122351](http://dx.doi.org/10.3390/SU9122351)
+- Perez, S. (2019). *41% of voice assistant users have concerns about trust and privacy, report fnds*. Tech-Crunch. [https://techcrunch.com/2019/04/24/41-of-voice-assistant-users-have-concerns-about-trust](https://techcrunch.com/2019/04/24/41-of-voice-assistant-users-have-concerns-about-trust-and-privacy-report-finds/)[and-privacy-report-fnds/](https://techcrunch.com/2019/04/24/41-of-voice-assistant-users-have-concerns-about-trust-and-privacy-report-finds/)
+- Pitardi, V., &amp; Marriott, H. R. (2021). Alexa, she's not human but… Unveiling the drivers of consumers' trust in voice-based artifcial intelligence. *Psychology &amp; Marketing*, 38(4), 626–642. [https://doi.](http://dx.doi.org/10.1002/MAR.21457) [org/10.1002/MAR.21457](http://dx.doi.org/10.1002/MAR.21457)
+- Podsakof, P. M., MacKenzie, S. B., Lee, J. Y., &amp; Podsakof, N. P. (2003). Common method biases in  behavioral research: A critical review of the literature and recommended remedies. *Journal of * *Applied Psychology*, 88(5), 879–903.[ https://doi.org/10.1037/0021-9010.88.5.879](http://dx.doi.org/10.1037/0021-9010.88.5.879)
+- Ramayah, T., Cheah, J., Chuah, F., Ting, H., &amp; Memon, M. A. (2018). *Partial Least Squares Structural * *Equation Modeling (PLS-SEM) using SmartPLS 3.0: An Updated Guide and Practical Guide to * *Statistical Analysis (2nd Edition)* (2nd ed.). Kuala Lumpur, Malaysia: Pearson
+- Ringle, C. M., Wende, S., &amp; Becker, J. (2015). *SmartPLS 3. Bönningstedt: SmartPLS*. [http://www.smart](http://www.smartpls.com)[pls.com](http://www.smartpls.com)
+- Rousseau, D. M., Sitkin, S. B., Burt, R. S., &amp; Camerer, C. (1998). Not So Diferent After All: A Cross-Discipline View Of Trust. *Academy of Management Review*, 23(3), 393–404.[ https://doi.org/10.5465/](http://dx.doi.org/10.5465/AMR.1998.926617) [AMR.1998.926617](http://dx.doi.org/10.5465/AMR.1998.926617)
+- Schudzich, T. (2019). *Music Consumers' Adoption of Smart Speakers in the Field of Music: How do music * *consumers adopt towards (musical) smart speakers with reference to music marketing?*. University  of Twente
+- Shah, K. (2020). *7 Super Smart Ways of Using Voice Technology in The Classroom*. Thirdrocktechkno.[ https://](https://www.thirdrocktechkno.com/blog/7-super-smart-ways-of-using-voice-technology-in-the-classroom/) [www.thirdrocktechkno.com/blog/7-super-smart-ways-of-using-voice-technology-in-the-classroom/](https://www.thirdrocktechkno.com/blog/7-super-smart-ways-of-using-voice-technology-in-the-classroom/)
+- Song, Y. W. (2019). *User acceptance of an artifcial intelligence (AI) virtual assistant: an extension of the * *technology acceptance model*. The University of Texas at Austin
+- Sorensen, K. N. (2019). *Millennials' Acceptance of Voice Activated Shopping*. University of Nebraska  - Lincoln
+- Teo, T., &amp; Zhou, M. (2014). Explaining the intention to use technology among university students: A  structural equation modeling approach. *Journal of Computing in Higher Education*, 26(2), 124–142.  [https://doi.org/10.1007/s12528-014-9080-3](http://dx.doi.org/10.1007/s12528-014-9080-3)
+- Van Eck, N. J., &amp; Waltman, L. (2010). Software survey: VOSviewer, a computer program for bibliometric  mapping. *Scientometrics*, 84(2), 523–538.[ https://doi.org/10.1007/s11192-009-0146-3](http://dx.doi.org/10.1007/s11192-009-0146-3)
+- Venkatesh, V. (2000). Determinants of perceived ease of use: Integrating control, intrinsic motivation,  and emotion into the technology acceptance model. *Information Systems Research*, 11(4), 342–365.  [https://doi.org/10.1287/isre.11.4.342.11872](http://dx.doi.org/10.1287/isre.11.4.342.11872)
+- Venkatesh, V., Morris, M., Davis, G., &amp; Davis, F. (2003). User acceptance of information technology:  Toward a unifed view. *MIS Quarterly*, 27(3), 425–478.[ https://doi.org/10.2307/30036540](http://dx.doi.org/10.2307/30036540)
+- Vimalkumar, M., Sharma, S. K., Singh, J. B., &amp; Dwivedi, Y. K. (2021). 'Okay google, what about my  privacy?': User's privacy perceptions and acceptance of voice based digital assistants. *Computers in * *Human Behavior*, *120*. [https://doi.org/10.1016/J.CHB.2021.106763](http://dx.doi.org/10.1016/J.CHB.2021.106763)
+- Wagner, K., Nimmermann, F., &amp; Schramm-Klein, H. (2019). Is It Human? The Role of Anthropomorphism as a Driver for the Successful Acceptance of Digital Voice Assistants. *Proceedings of the * *52nd Hawaii International Conference on System Sciences*, 1386–1395. [https://doi.org/10.24251/](http://dx.doi.org/10.24251/hicss.2019.169) [hicss.2019.169](http://dx.doi.org/10.24251/hicss.2019.169)
+</list>
+
+<figure page="20" section="**References**" source="author" id="/page/19/Picture/23" image="A3.R05_fig23.jpg">[FIGURE: see A3.R05_fig23.jpg]</figure>
+
+</page>
+<page number="21">
+<text page="21" section="**References**" source="author" id="/page/20/Text/2">
+Zeng, D. (2020). *An Investigation of Mature Travelers'Usage Intention of Intelligent Voice Assistants in * *Hotels*. Purdue University
+</text>
+
+<text page="21" section="**References**" source="author" id="/page/20/Text/3">
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps  and institutional afliations.
+</text>
+
+<figure page="21" section="**References**" source="author" id="/page/20/Picture/4" image="A3.R05_fig24.jpg">[FIGURE: see A3.R05_fig24.jpg]</figure>
+
+</page>
+</paper>

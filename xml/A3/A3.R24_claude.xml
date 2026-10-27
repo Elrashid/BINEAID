@@ -1,0 +1,1036 @@
+<paper source_file="A3.R24" title="**RESEARCH**" total_pages="16" figures="5" figures_with_images="5">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 5 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+
+<heading page="1" section="**RESEARCH**" source="author" id="/page/0/SectionHeader/1" level="6">
+###### **RESEARCH**
+</heading>
+
+<figure page="1" section="**RESEARCH**" source="author" id="/page/0/Picture/2" image="A3.R24_fig01.jpg">[FIGURE: see A3.R24_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Sustainable development factors in building engineering systems: do ** **demographic factors matter?**" source="author" id="/page/0/SectionHeader/3" level="1">
+# **Sustainable development factors in building engineering systems: do ** **demographic factors matter?**
+</heading>
+
+<text page="1" section="**Sustainable development factors in building engineering systems: do ** **demographic factors matter?**" source="author" id="/page/0/Text/4">
+**Priji Biju****^(1)** ** · Nahia Mourad****^(1)** **[ ](https://orcid.org/0000-0002-3765-5946)****· Ahmed Mohamed Habib****[2](https://orcid.org/0000-0003-1728-6028)**
+</text>
+
+<text page="1" section="**Sustainable development factors in building engineering systems: do ** **demographic factors matter?**" source="author" id="/page/0/Text/5">
+Received: 27 November 2024 / Accepted: 19 February 2025 / Published online: 25 March 2025 © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2025
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/6" level="2">
+## **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+Sustainable engineering builds systems, products, and processes that are socially, environmentally, and economically  viable to fulfil the promise of a balanced approach to achieve the net zero emission targets of the world to mitigate climate  change impacts. Owing to the multidisciplinary nature of sustainable development, sustainability efforts involve concepts,  principles, and methods from engineering, social sciences, economics, social psychology, biological sciences, ecology, and  physical sciences. Hence, scientific analysis is required to define inter-item relationships and identify differences based on  the demographic features of professionals. The lack of such studies in the literature represents the main gap covered by  this study. In this context, a methodology was designed and applied by surveying 101 professionals from various engineering disciplines in the UAE's construction sector. The results confirmed a significant correlation among sociocultural  (SOC), economic (ECO), and environmental (ENV) sustainability factors. The findings revealed that the distributions of  SOC, ECO, and ENV were the same across gender, specialisation, and experience categories. Moreover, the distributions  of ECO and ENV were the same across age categories, except for the distribution of SOC, which differed across age  categories, favouring groups over 25 years of age. These findings would support stakeholders in the construction sector  in developing sustainable engineering building systems. The proposed methodology can be used in other areas to help  stakeholders establish sustainable systems based on the SOC, ECO, and ENV factors.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/8">
+**Keywords** Sustainability · Environment · Social responsibility · Governance · Economic
+</text>
+
+
+<heading page="1" section="**Introduction (2019)**" source="author" id="/page/0/SectionHeader/9" level="2">
+## **Introduction (2019)**
+</heading>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/10">
+Sustainable development has become a critical issue in the  global landscape, as the world faces unprecedented challenges related to climate change, resource depletion, and  environmental degradation. The need to balance economic  growth, social well-being, and environmental protection  has become increasingly urgent as the consequences of
+</text>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/11">
+Priji Biju 23001165@student.buid.ac.ae
+</text>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/12">
+Nahia Mourad nahia.mourad@gmail.com
+</text>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/13">
+Ahmed Mohamed Habib dr_ahmedhabib@yahoo.com
+</text>
+
+<list page="1" section="**Introduction (2019)**" source="author" id="/page/0/ListGroup/228">
+- ^(1) Faculty of Engineering &amp; IT, The British University in  Dubai, Dubai, United Arab Emirates
+- ^(2) Accounting and Finance, Independent Research, Zagazig,  Egypt
+</list>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/16">
+unsustainable practices have become more severe and farreaching (Habib, [2024)](#page-15-0). Strong governance and regulatory  frameworks have a significant impact on improving environmental conditions and reducing greenhouse gas emissions (Barra &amp; Falcone, [2024](#page-14-0)). This highlights the need  to holistically and integrated address the environmental,  social, and governance (ESG) dimensions of development  (Habib &amp; Mourad, [2024;](#page-15-1) Qian &amp; Liu,[ 2024](#page-15-2)).
+</text>
+
+<text page="1" section="**Introduction (2019)**" source="author" id="/page/0/Text/17">
+Sustainability is crucial not only for improving organisations' image but also for increasing their value. Researchers on a global level have shown that economic, political,  institutional, behaviour, and technological factors can affect  a country's adoption of a sustainable approach. This multifaceted concept has gained significant attention as investors,  governments, and interest groups have become more aware  of the ESG impacts of business activities (Agrawal et al.,  [2024;](#page-14-1) Barra &amp; Falcone, [2024](#page-14-0)). Consequently, many companies have started developing their business strategy agendas as an integral component of their business strategies,
+</text>
+
+<figure page="1" section="**Introduction (2019)**" source="author" id="/page/0/Picture/18" image="A3.R24_fig02.jpg">[FIGURE: see A3.R24_fig02.jpg]</figure>
+
+</page>
+<page number="2">
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/2">
+recognising the need to address critical dimensions (Chen,  [2024](#page-14-2); Habib et al., [2024)](#page-15-1).
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/3">
+Sustainable building construction techniques are advocated to promote economic growth in the building sector while reducing the environmental and social impacts.  Encouraging people to live in a healthy environment with  better social, economic, and environmental conditions is the  goal of the expansive and intricate concept of sustainability (Akadiri et al., [2012)](#page-14-3). Economic factors like the upfront  cost of sustainable construction may resist or delay the  implementation of environmentally friendly solutions due  to market risk aversion in the competitive real estate world.  Financial incentives like tax rebates and green financing,  higher cost for fossil fuels and circular economy is advocated through cross -country comparisons (Errichiello et  al., [2025)](#page-14-4). The scope of sustainable development, which  focuses on the interplay between the economic, social, and  environmental aspects of sustainability and the variables  that influence them, is reflected in its multidisciplinary principles (Dadashpoor &amp; Padash, [2019a](#page-14-5)).
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/4">
+Sustainable building construction techniques have  become increasingly important owing to concerns regarding environmental impacts, resource depletion, and climate  change. The construction industry has attempted to reduce  its negative environmental impacts by adopting innovative  materials, designs, and construction practices. To secure  a sustainable future, the building industry must adopt a  multidisciplinary approach that addresses several features,  including energy conservation, better material utilisation,  reduced material waste, and pollution and emissions control  (Joe Opoku et al.,[ 2017](#page-15-3)).
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/5">
+The dynamic and all-encompassing character of sustainable development necessitates an ongoing process of  assessing new and developing trends, and a constant way to  promote community involvement, conflict resolution, and  strategy updates (Biswas &amp; Ghosh, [2019a)](#page-15-4). Environmental  efficiency depends on key aspects of institutional quality,  such as political stability, government efficacy, corruption  control, and regulatory quality. Sustainable behaviours are  influenced by a number of factors, including gender, age,  education, income, and work position. It has been shown  that women are more likely to engage in green consumption. This highlights the need to explore the differences in  the approach of stakeholders from various demographic  boundaries on the perception of sustainable practices (Barra  &amp; Falcone, [2023](#page-14-6); Falcone &amp; Fiorentino, [2024](#page-15-5)). Hence,  scientific research to develop and validate frameworks for  sustainable development and identify stakeholders for the  flawless implementation and maintenance of the system is  required for net zero carbon footprint development goals.
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/6">
+Sustainable development is a multi-dimensional concept.  First, it should be intergenerational, as per Brundland's
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/7">
+report; second, it needs to ensure economic, social, and  environmental factors; and finally, sustainable development  cannot be achieved locally. Thus, global prospects must be  planned (Wiebe, [2012)](#page-15-6). This study aimed to identify the  inter-item relationships among the factors of sustainable  development. Engineers, social scientists, and physical  scientists have contributed ideas, theories, and techniques  to sustainability. Therefore, a systematic and scientific  approach is required for research in the field of sustainable  development in building engineering systems, especially in  terms of how the decision to implement SOC, ECO, and  ENV sustainable construction practices differ depending on  the demographic features of the professionals, which is an  underexplored topic.
+</text>
+
+<text page="2" section="**Introduction (2019)**" source="author" id="/page/1/Text/8">
+The structure of this study is as follows: Sect. 2 explores  the literature and identifies conceptual frameworks that can  be adopted for the research. Section 3 outlines the methodology adopted for the analysis. Section 4 details the analysis  of the results, followed by the discussion under Sect. 5. The  final conclusion and remarks are reported in Sect. 6.
+</text>
+
+
+<heading page="2" section="**Literature review**" source="cited" id="/page/1/SectionHeader/9" level="2">
+## **Literature review**
+</heading>
+
+<text page="2" section="**Literature review**" source="cited" id="/page/1/Text/10">
+Given the significant impact of construction on human activity and the environment, the construction industry plays  a crucial role in sustainable development (Zimon et al.,  [2024](#page-15-7)). Sustainable construction reduces the environmental  footprint of buildings, while promoting social and economic  well-being. A key aspect of sustainable construction is the  incorporation of sustainable development principles into the  building design (Willar et al., [2021)](#page-15-8). Structural engineers  can contribute to sustainable construction by considering  factors such as embodied energy and life cycle energy usage  in structures (Passoni et al.,[ 2022](#page-15-9)). Sustainable construction  is essential for improving the quality of life, minimising pollution, and adapting buildings for future needs. Therefore,  the construction industry must rapidly adapt to the broader  environmental and social agendas presented by sustainable  development.
+</text>
+
+<text page="2" section="**Literature review**" source="cited" id="/page/1/Text/11">
+Integrating sustainability principles into construction  projects from the conceptual stage onwards is necessary to  successfully implement them in the later stages of development. According to a study grounded in the sustainable  triple bottom line principle, which encompasses resource  conservation, cost efficiency, and design for human adaptation, sustainable building construction techniques will promote economic growth in the building sector while reducing  environmental impact. This suggests that every novel design  strategy considers how each decision affects the natural and  cultural resources of local, regional, and global environments (Dadashpoor &amp; Padash,[ 2019a)](#page-14-5).
+</text>
+
+<figure page="2" section="**Literature review**" source="cited" id="/page/1/Picture/12" image="A3.R24_fig03.jpg">[FIGURE: see A3.R24_fig03.jpg]</figure>
+
+</page>
+<page number="3">
+<text page="3" section="**Literature review**" source="cited" id="/page/2/Text/2">
+An extensive sustainability planning process usually  generates several opportunities to improve the quality of  life of surrounding communities and provide access to clean  water and air, encouraging community participation and  health. The primary attributes of sustainability are intergenerational equality, equilibrium among the three sustainability pillars, a connection to global issues rather than just  local or regional issues and its dynamic and encompassing  nature. The success of urban planning and architecture in  sustainable development is ensured by coordinated efforts  to change legislation, the introduction of new technologies, a change in public awareness regarding consumption,  behavioural outlooks, knowledge raising and community  involvement (Biswas &amp; Ghosh, [2019a](#page-15-4)).
+</text>
+
+<text page="3" section="**Literature review**" source="cited" id="/page/2/Text/3">
+An extensive sustainability planning process usually  generates several opportunities to improve the quality of  life of surrounding communities and provide access to clean  water and air, thereby encouraging community participation  and health. The primary attributes of sustainability are intergenerational equality, equilibrium among the three sustainability pillars, connection to global issues rather than just  local or regional issues, and its dynamic and encompassing  nature. The success of urban planning and architecture in  sustainable development is ensured by coordinated efforts to  change legislation, introduce new technologies, and change  public awareness regarding consumption, behavioural outlooks, knowledge raising, and community involvement  (Chiamaka &amp; Aduwo, [2019)](#page-14-7).
+</text>
+
+<text page="3" section="**Literature review**" source="cited" id="/page/2/Text/4">
+Integrated management systems fulfil more of the United  States' development goals. In addition to quality management systems, integrated management systems ensure that  most elements are met by organisations certified by multiple standards to meet sustainable development goals  (SDG). These include environmental management, occupational health and safety, and energy-management systems.  According to a study of Malaysian universities, the successful application of ISO 9001 can help achieve sustainable  development initiatives. The Quality Management System  gradually enhances a certified organisation's ability to produce reliable services and goods that satisfy client needs  and relevant legal and regulatory requirements (Zimon et  al., [2024;](#page-15-7) Surisetti et al., [2021)](#page-15-10). The durability and strength
+</text>
+
+<text page="3" section="**Literature review**" source="cited" id="/page/2/Text/5">
+of building materials are essential for an environmentally  friendly infrastructure. Therefore, in addition to economic  and environmental considerations, researchers at the Cochin  University of Science and Technology suggest that technological sustainability should also be a determining factor in  sustainable development (Thomas et al., [2023)](#page-15-11).
+</text>
+
+
+<heading page="3" section="**Research method**" source="author" id="/page/2/SectionHeader/6" level="2">
+## **Research method**
+</heading>
+
+<text page="3" section="**Research method**" source="author" id="/page/2/Text/7">
+The methodology adopted for this research is a statistical analysis of data obtained by a stakeholder survey. The  parameters to be considered in the survey questionnaire were  identified from a verified conceptual framework adopted  through a literature review. The three pillars of sustainability, social, environmental, and economic factors, were often  observed to be supported by political, institutional, behavioural, and technological factors as well (Barra &amp; Falcone,  [2024](#page-14-0); Parris &amp; Kates, [2003;](#page-15-12) Thomas et al., [2023)](#page-15-11). Hence, a  conceptual framework with factors and items was derived  from two basic conceptual diagrams incorporating common  factors was identified for the data collection. The Driver-Pressure-State-Impact-Response (DPSIR) scheme proposed  by the European Economic Area (EEA) for representing  sustainability indicators that link human activities to environmental status was found to be a useful tool for identifying the stakeholders of the subject under study (Smeets  et al., [2019;](#page-15-13) Stanners et al., [2019)](#page-15-14). Thus, a 5-point Likert  scale survey was conducted among professionals from various fields of construction engineering in Dubai with varying  demographic statuses to acquire data on the items for the  analysis (Joshi et al., [2015)](#page-15-4). The pathway adopted for the  research is demonstrated in the Fig. [1.](#page-2-0)
+</text>
+
+<text page="3" section="**Research method**" source="author" id="/page/2/Text/8">
+Thus, the quantitative research in this study followed the  methodology described below:
+</text>
+
+<list page="3" section="**Research method**" source="author" id="/page/2/ListGroup/284">
+- i. Adopting a verified conceptual framework from a literature review.
+- ii. Identifying the factors and items of the framework.
+- iii. Preparation of survey questionnaire incorporating all  the items in the framework.
+- iv. Data collection through a 5-point Likert scale survey.
+</list>
+
+<figure_group page="3" section="**Research method**" source="author" id="/page/2/FigureGroup/283">
+<figure page="3" section="**Research method**" source="author" id="/page/2/Figure/13" image="A3.R24_fig04.jpg">[FIGURE: see A3.R24_fig04.jpg]</figure>
+<caption page="3" section="**Research method**" source="author" id="/page/2/Caption/14">
+**Fig. 1** Pathway adopted for the research
+</caption>
+</figure_group>
+
+</page>
+<page number="4">
+<text page="4" section="**Research method**" source="author" id="/page/3/Text/2">
+v. Statistical analysis of the survey data using the JAMOVI  software tool (Ahmed,[ 2021](#page-14-8); ŞAHİN &amp; AYBEK, [2020](#page-15-16)).
+</text>
+
+
+<heading page="4" section="**Conceptual diagram**" source="author" id="/page/3/SectionHeader/3" level="3">
+### **Conceptual diagram**
+</heading>
+
+<text page="4" section="**Conceptual diagram**" source="author" id="/page/3/Text/4">
+Conceptual frameworks are used to understand a research  problem and direct the study's development and analysis.  It provides a framework that connects different theories,  concepts, and ideas within the field of study and serves as  a guide for structuring and conceptualising the work. The  conceptual framework recommended for sustainable development, with the three pillars of sustainability as factors, is  represented by a Venn diagram, as shown in Fig. [2.](#page-3-0) The triple-bottom-line principle of sustainability, namely resource  conservation, cost efficiency, and design for human adaptation, was considered in the conceptual framework and recommended for design teams to maintain a balance among  economic, social and environmental factors of sustainability  (Dadashpoor &amp; Padash, [2019a](#page-14-5); Akadiri et al.,[ 2012](#page-14-3)).
+</text>
+
+<text page="4" section="**Conceptual diagram**" source="author" id="/page/3/Text/5">
+As mentioned earlier, a recent study recommended a conceptual framework incorporating technological sustainability as a basic contributing factor because technologies for  strong and durable materials are mandatory for sustainable  development (Thomas et al., [2023](#page-15-11)). The conceptual framework for this research was adopted (Fig. [3)](#page-4-0) after a literature  review of the above two conceptual diagrams as Sociocultural, Environmental and Economic factors were well  represented by different items in the conceptual diagram  in Fig. [3.](#page-4-0) The technological sustainability factor (Thomas  et al., [2023)](#page-15-11) was excluded from this research because the
+</text>
+
+<figure_group page="4" section="**Conceptual diagram**" source="author" id="/page/3/FigureGroup/277">
+<figure page="4" section="**Conceptual diagram**" source="author" id="/page/3/Figure/6" image="A3.R24_fig05.jpg">[FIGURE: see A3.R24_fig05.jpg]</figure>
+<caption page="4" section="**Conceptual diagram**" source="author" id="/page/3/Caption/7">
+**Fig. 2** Venn diagram for sustainable development. *Source*: (Biswas &amp;  Ghosh,[ 2019a](#page-15-4))
+</caption>
+</figure_group>
+
+<text page="4" section="**Conceptual diagram**" source="author" id="/page/3/Text/8">
+researchers did not confirm its validation. Thus, the research  topic, sustainable development, was analyzed with three  factors: SOC, ENV, and ECO, ten sub-factors, and twentyfive items. Community participation, awareness, adaptability, satisfaction, and social benefits were considered under  the sociocultural factor and had nine sub-items to represent  the factor more elaborately. Similarly, ECO has lifecycle  cost, resource availability, and project duration as sub-factors and eight items to characterize the economic factor of  sustainability. Environmental quality and the efficiency of  the resources to meet the development requirements were  considered under ENV in the framework considered for the  study.
+</text>
+
+<text page="4" section="**Conceptual diagram**" source="author" id="/page/3/Text/9">
+Thus, the conceptual framework adopted for this research  has three factors, ten subfactors, and many items under the  subfactors. SOC, ECO, and ENV factors were the identified  key factors that illustrate sustainable development. Eleven  items were identified for the SOC dimension, and eight and  ten items were identified for the ECO and ENV dimensions,  respectively, to comprehend the factors thoroughly. Twentynine survey questions were prepared to gather information  on the perception of various aspects of sustainable development from the stakeholders of varying demographic  features.
+</text>
+
+
+<heading page="4" section="**Data collection**" source="author" id="/page/3/SectionHeader/10" level="3">
+### **Data collection**
+</heading>
+
+<text page="4" section="**Data collection**" source="author" id="/page/3/Text/11">
+A survey questionnaire was prepared as given in the Appendix with respect to all items in the conceptual diagram in  Fig. [3](#page-4-0). Along with demographic factors like gender, age,  specialization, and experience in the construction sector;  twenty-nine questions covering all key aspects of sustainable development were incorporated in the survey. Separate  sections were provided in the questionnaire for each key  factor and participants responded to the items using a fivepoint Likert scale: 5 for Strongly Agree, 4 for Agree, 3 for  Neutral, 2 for Disagree, and 1 for Strongly Disagree (Joshi  et al.,[ 2015](#page-15-4); Nyutu et al.,[ 2021](#page-15-15)). For example, the following  question was used in the survey to collect information about  the first item in the conceptual framework:
+</text>
+
+<text page="4" section="**Data collection**" source="author" id="/page/3/Text/12">
+Do you believe community participation in the  developmental activities is required for sustainable  development?
+</text>
+
+<text page="4" section="**Data collection**" source="author" id="/page/3/Text/13">
+The driver–pressure–state–impact–response (DPSIR)  scheme proposed by EEA is a valuable tool for representing environmental sustainability indicators that link human  activities to environmental status. Hence, stakeholders who  could decide on material and energy use during development were identified as participants in the survey. Professionals working in different engineering fields, such as
+</text>
+
+<figure page="4" section="**Data collection**" source="author" id="/page/3/Picture/14" image="A3.R24_fig06.jpg">[FIGURE: see A3.R24_fig06.jpg]</figure>
+
+</page>
+<page number="5">
+<figure_group page="5" section="**Data collection**" source="author" id="/page/4/FigureGroup/20">
+<figure page="5" section="**Data collection**" source="author" id="/page/4/Figure/2" image="A3.R24_fig07.jpg">[FIGURE: see A3.R24_fig07.jpg]</figure>
+<caption page="5" section="**Data collection**" source="author" id="/page/4/Caption/3">
+**Fig. 3** Conceptual Framework for sustainable development. Source: (Thomas et al.,[ 2023](#page-15-11)) with the exclusion of technological sustainability factor
+</caption>
+</figure_group>
+
+<figure page="5" section="**Data collection**" source="author" id="/page/4/Picture/4" image="A3.R24_fig08.jpg">[FIGURE: see A3.R24_fig08.jpg]</figure>
+
+</page>
+<page number="6">
+<table_group page="6" section="**Data collection**" source="author" id="/page/5/TableGroup/550">
+<caption page="6" section="**Data collection**" source="author" id="/page/5/Caption/2">
+**Table 1** Demographic characteristics of participants
+</caption>
+<table page="6" section="**Data collection**" source="author" id="/page/5/Table/3">
+| Category | Classification | Frequency | % |
+| --- | --- | --- | --- |
+| Gender | Male | 65 | 64.4% |
+| Female | 36 | 35.6% |
+| Age group | &lt;25 years | 4 | 4.0% |
+| 26-35years | 9 | 8.9% |
+| 36-45years | 21 | 20.8% |
+| 46-55years | 50 | 49.5% |
+| &gt;55years | 17 | 16.8% |
+| Specialization | Developer | 3 | 2.0% |
+| Design Engineer | 10 | 9.9% |
+| Architect | 7 | 6.9% |
+| Civil Engineer | 20 | 19.8% |
+| MEP professional | 17 | 16.8% |
+| Cost Estimator | 2 | 2.0% |
+| Planning Engineer | 7 | 6.9% |
+| Interior Fit out | 3 | 3.0% |
+| Landscaping | 1 | 1.0% |
+| None of the above | 31 | 30.7% |
+| Experience | &lt;5years | 11 | 10.9% |
+| 6-15years | 18 | 17.8% |
+| 16-25years | 26 | 25.7% |
+| 26-35years | 37 | 36.6% |
+| &gt;35years | 9 | 8.9% |
+</table>
+</table_group>
+
+<text page="6" section="**Data collection**" source="author" id="/page/5/Text/4">
+Source: Authors
+</text>
+
+<text page="6" section="**Data collection**" source="author" id="/page/5/Text/5">
+architects, design engineers, field construction managers,  MEP engineers, and cost estimators, were approached for  feedback on the factors contributing to the three pillars of  sustainable development. An online survey designed with  33 questions, including demographic details, received 101  responses.
+</text>
+
+
+<heading page="6" section="**Statistical analysis**" source="author" id="/page/5/SectionHeader/6" level="3">
+### **Statistical analysis**
+</heading>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/7">
+JAMOVI was used in this study (i). to check the reliability of the survey (ii). To confirm the fitness of the model  with data for representation of the population, (iii) obtain  inferential statistics of the data, (iv) evaluate the correlation among the components of the model, and (iv) conduct  a regression analysis to check the relationship among the  independent and dependent variables of the model (Ahmed,  [2021](#page-14-8); ŞAHİN &amp; AYBEK, [2020)](#page-15-16).
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/8">
+Primary analysis was done for the descriptive statistics of  the data, and frequency, mean, median, and standard deviation were calculated. Shapiro-Wilk test was then conducted  to understand the central tendency of the data, and a p-value  less than 0.05 rejected the null hypothesis, and the results  were compared with the histogram plots (Nyutu et al.,[ 2021](#page-15-15)).  The reliability, confirmability, and efficacy of the data were  then analyzed to confirm the adequacy of the survey and the  fitness of the factors to the model. Required modifications  were then applied to the conceptual framework considered  for the study and correlation and difference analyses were  done to demonstrate the inter-item relationship among the
+</text>
+
+<figure page="6" section="**Statistical analysis**" source="author" id="/page/5/Picture/9" image="A3.R24_fig09.jpg">[FIGURE: see A3.R24_fig09.jpg]</figure>
+
+<table page="6" section="**Statistical analysis**" source="author" id="/page/5/Table/10">
+| Descriptives | SOC | ECO | ENV |
+| --- | --- | --- | --- |
+| N | 101 | 101 | 101 |
+| Missing | 0 | 0 | 0 |
+| Mean | 4.24 | 4.09 | 4.12 |
+| Median | 4.27 | 4.00 | 4.10 |
+| Standard Deviation | 0.432 | 0.481 | 0.424 |
+| Minimum | 3 | 3.25 | 3.40 |
+| Maximum | 5 | 5 | 5 |
+| Shapiro-Wilk W | 0.964 | 0.949 | 0.957 |
+| Shapiro-Wilk p | 0.007 | &lt;0.001 | 0.002 |
+</table>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/11">
+Source: Authors
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/12">
+key pillars of sustainability and effect of demographic factors on sustainable concepts.
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/13">
+The following research hypothesis were developed to  support the research questions:
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/14">
+*H1*. There is a difference in SOC, ECO, and ENV across  categories of gender.
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/15">
+*H2*. There is a difference in SOC, ECO, and ENV across  categories of age.
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/16">
+*H3*. There is a difference in SOC, ECO, and ENV across  categories of specialization.
+</text>
+
+<text page="6" section="**Statistical analysis**" source="author" id="/page/5/Text/17">
+*H4*. There is a difference in SOC, ECO, and ENV across  categories of experience.
+</text>
+
+
+<heading page="6" section="**Results**" source="author" id="/page/5/SectionHeader/18" level="2">
+## **Results**
+</heading>
+
+
+<heading page="6" section="**Descriptive statistics**" source="author" id="/page/5/SectionHeader/19" level="3">
+### **Descriptive statistics**
+</heading>
+
+<text page="6" section="**Descriptive statistics**" source="author" id="/page/5/Text/20">
+Descriptive statistics of the demographic data were analysed. The frequency table and central tendency of the dataset results are summarised in Tables [1](#page-5-0) and [2.](#page-5-1)
+</text>
+
+<text page="6" section="**Descriptive statistics**" source="author" id="/page/5/Text/21">
+Of the 101 responses received, 65% were from male  engineers, and 35% were from female engineers. Evaluation of the central tendency and dispersion of data showed  that the mean and median for all the factors were between 4  and 4.27, with a low standard deviation varying from 0.424  to 0.481.
+</text>
+
+<text page="6" section="**Descriptive statistics**" source="author" id="/page/5/Text/22">
+The data sample was subjected to the Shapiro-Wilk test  to determine if a random sample was drawn from a normal Gaussian probability distribution (Souza et al., [2023](#page-14-9)).  A p-value below 0.05 leads to the rejection of the null  hypothesis that the data follow a normal distribution. The  test results indicate a low p-value (&lt;0.05), which provides  sufficient evidence to reject the null hypothesis.
+</text>
+
+<text page="6" section="**Descriptive statistics**" source="author" id="/page/5/Text/23">
+In addition, the histogram and density plots shown in  Fig. [4](#page-6-0) confirm the non-normal characteristics of the distribution. The graphs show that the data have a bimodal and  skewed distribution. A bimodal distribution may indicate  that the dataset consists of two or more distinct groups, which  may be analysed separately if appropriate (Elal-Olivero et
+</text>
+
+<figure page="6" section="**Descriptive statistics**" source="author" id="/page/5/Picture/24" image="A3.R24_fig10.jpg">[FIGURE: see A3.R24_fig10.jpg]</figure>
+
+</page>
+<page number="7">
+<figure_group page="7" section="**Descriptive statistics**" source="author" id="/page/6/FigureGroup/164">
+<figure page="7" section="**Descriptive statistics**" source="author" id="/page/6/Figure/2" image="A3.R24_fig11.jpg">[FIGURE: see A3.R24_fig11.jpg]</figure>
+<caption page="7" section="**Descriptive statistics**" source="author" id="/page/6/Caption/3">
+**Fig. 4** Histogram and density plots of the data. *Source: Authors*
+</caption>
+</figure_group>
+
+<text page="7" section="**Descriptive statistics**" source="author" id="/page/6/Text/4">
+al., [2020](#page-14-10)). This can be seen in the frequency table of the  demographic data in Table [1.](#page-5-0)
+</text>
+
+
+<heading page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/SectionHeader/5" level="3">
+### **Reliability, efficacy and fit analyses**
+</heading>
+
+<text page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Text/6">
+Reliability analysis examines the model's inter-item reliability or internal consistency concerning the analogously  scored observed data. Cronbach's alpha is principally used  to describe reliability or internal consistency, which quantifies the degree of interrelatedness among a group of items  by comparing the amount of shared variance or covariance  among the items (Zakariya, [2022)](#page-15-18). The results, with an  alpha value of 0.875, indicate that the survey was reliable.  Analysts commonly use benchmark value of 0.7 Cronbach's  alpha statistical measure. At this level and beyond, the items  exhibit sufficient consistency to suggest that the measure is  dependable (Taber, [2018)](#page-15-19).
+</text>
+
+<text page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Text/7">
+Moreover, we used confirmatory factor analysis (CFA),  which is a statistical technique used to evaluate the efficacy  of the measurement model. This enables an empirical examination of the premise that there is a correlation between  observed variables and their latent constructs (Hox, [2021](#page-15-20)).
+</text>
+
+<text page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Text/8">
+In addition, it helps determine how well the model with  sample data represents the population. The factor loading  results have a p-value of less than 0.05, proving that all variables are significant in the model (Table [3](#page-7-0)).
+</text>
+
+<text page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Text/9">
+In addition, we used the chi-square test and comparative fit measures to compare the observed results with the  expected results and check the model fit (Franke et al.,  [2012](#page-15-17)). A p-value less than the significance level rejects the  null hypothesis that the model is an exact fit according to the  undefined *χ* ^(2)-test. The comparative test results provide a  comparative fit index (CFI) of 0.693, Tucker-Lewis's index  (TLI) equal to 0.667, and root mean square error approximation (RMSEA) value of 0.083, which can be compared  with the recommended coefficients for a significant fit measure. The recommended values for a good fit measure are  CF1&gt;0.9, TLI&gt;0.9, and RMSEA&lt;0.5. The observed values, as shown in Table [4,](#page-7-1) lead to the rejection of an exact  fit measure and are unsatisfactory fit measure values. This  indicates the need for model modification.
+</text>
+
+<text page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Text/10">
+The model was modified with factor loading modification indices to remove the least fitting variables, and residual
+</text>
+
+<figure page="7" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/6/Picture/11" image="A3.R24_fig12.jpg">[FIGURE: see A3.R24_fig12.jpg]</figure>
+
+</page>
+<page number="8">
+<table_group page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/TableGroup/558">
+<caption page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Caption/2">
+**Table 3** Factor loadings
+</caption>
+<table page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Table/3">
+| Factor | Indicator | Estimate | SE | Z | p | Std. Est. |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOC | Community participation | 1.00* |  |  |  | 0.584 |
+| Practical awareness | 0.693 | 0.268 | 2.58 | 0.01 | 0.290 |
+| Knowledge based | 0.902 | 0.191 | 4.72 | &lt;0.001 | 0.631 |
+| Site conditions | 1.110 | 0.230 | 4.82 | &lt;0.001 | 0.619 |
+| Arch style | 1.260 | 0.257 | 4.90 | &lt;0.001 | 0.670 |
+| Culture harmony | 1.384 | 0.305 | 4.54 | &lt;0.001 | 0.606 |
+| Trustworthiness | 0.714 | 0.238 | 3.00 | 0.003 | 0.347 |
+| Share holder attitude | 1.197 | 0.263 | 4.55 | &lt;0.001 | 0.564 |
+| Comfort | 0.750 | 0.225 | 3.33 | &lt;0.001 | 0.404 |
+| Social security | 1.196 | 0.298 | 4.01 | &lt;0.001 | 0.509 |
+| Social Benefit | 0.615 | 0.248 | 2.48 | 0.013 | 0.284 |
+| ECO | Initial cost | 1.00* |  |  |  | 0.361 |
+| Cost in use | 0.963 | 0.334 | 2.88 | 0.004 | 0.431 |
+| Environmental cost | 0.609 | 0.274 | 2.22 | 0.026 | 0.303 |
+| Residual cost | 0.905 | 0.316 | 2.87 | 0.004 | 0.532 |
+| Material availability | 1.098 | 0.341 | 3.22 | 0.001 | 0.705 |
+| Skilled labour | 1.240 | 0.440 | 2.82 | 0.005 | 0.476 |
+| Process Duration | 1.203 | 0.400 | 3.01 | 0.003 | 0.581 |
+| Durability | 0.954 | 0.327 | 2.91 | 0.004 | 0.524 |
+| ENV | Air quality | 1.00* |  |  |  | 0.441 |
+| Water quality | 1.002 | 0.281 | 3.56 | &lt;0.001 | 0.484 |
+| Noice | 0.768 | 0.258 | 2.97 | 0.003 | 0.413 |
+| Residual waste | 0.892 | 0.241 | 3.69 | &lt;0.001 | 0.597 |
+| Material efficiency | 0.874 | 0.234 | 3.73 | &lt;0.001 | 0.675 |
+| Water adequacy | 0.657 | 0.192 | 3.42 | &lt;0.001 | 0.546 |
+| Energy efficiency | 0.639 | 0.201 | 3.17 | 0.002 | 0.441 |
+| Land adequacy | 0.721 | 0.218 | 3.30 | &lt;0.001 | 0.505 |
+</table>
+</table_group>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/4">
+Note: a  fixed parameter
+</text>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/5">
+*Source: Authors*
+</text>
+
+<table_group page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/TableGroup/559">
+<caption page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Caption/6">
+**Table 4** Model fit measures
+</caption>
+<table page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Table/7">
+| Test for exact fit |
+| --- |
+| χ2 | df | p |  |  |
+| 634 | 374 | &lt;0.001 |  |  |
+| Fit measures |
+| CFI | TLI | RMSEA | RMSEA 90% CI |
+|  |  |  | Lower | Upper |
+| 0.693 | 0.667 | 0.083 | 0.0718 | 0.094 |
+</table>
+</table_group>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/8">
+Source: Authors
+</text>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/9">
+covariance modification indices to apply errors. The final  model is shown in Fig. [5.](#page-8-0)
+</text>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/10">
+Furthermore, after modification, the results provided an  agreeable fit measure, as shown in Table [5](#page-9-2).
+</text>
+
+<text page="8" section="**Reliability, efficacy and fit analyses**" source="author" id="/page/7/Text/11">
+A path diagram shows the patterns of the relationships  between variables in statistical analysis. Figure [6 ](#page-9-3)shows a  path diagram of the modified model between the latent and  observed variables. Circles or ovals represent latent variables, and rectangles in the path diagram represent observed  variables. The single-headed arrows denote causation, and  the two-headed arrows denote the correlation between the  variables and residual co-variances.
+</text>
+
+
+<heading page="8" section="**Correlation analysis**" source="author" id="/page/7/SectionHeader/12" level="3">
+### **Correlation analysis**
+</heading>
+
+<text page="8" section="**Correlation analysis**" source="author" id="/page/7/Text/13">
+The correlation among the three pillars of sustainability,  namely SOC, ECO, and ENV factors, was tested by deriving a correlation matrix. The p-values observed within the  correlation matrix (Table [6](#page-9-0)) provided significant evidence to  confirm the correlation between them.
+</text>
+
+
+<heading page="8" section="**Normality and homogeneity analyses**" source="author" id="/page/7/SectionHeader/14" level="3">
+### **Normality and homogeneity analyses**
+</heading>
+
+<text page="8" section="**Normality and homogeneity analyses**" source="author" id="/page/7/Text/15">
+Tables [7](#page-9-1) and [8](#page-10-0) show the normality and homogeneity tests,  respectively. The average values of SOC, ECO, and ENV  dimensions were considered for the same. The low p-value  of the normality test (Table [7)](#page-9-1) illustrates that there is significant evidence to reject the null hypothesis that data is  normally distributed.
+</text>
+
+<text page="8" section="**Normality and homogeneity analyses**" source="author" id="/page/7/Text/16">
+In the homogeneity test (Table [8)](#page-10-0), the environmental sustainability factor had a low p-value, and the null hypothesis of the equal variance assumption was rejected. Hence,  The Mann-Whitney U test and the Kruskal-Wallis One-Way  ANOVA test for non-normal data are applied to test the  research hypotheses.
+</text>
+
+<figure page="8" section="**Normality and homogeneity analyses**" source="author" id="/page/7/Picture/17" image="A3.R24_fig13.jpg">[FIGURE: see A3.R24_fig13.jpg]</figure>
+
+</page>
+<page number="9">
+<figure_group page="9" section="**Normality and homogeneity analyses**" source="author" id="/page/8/FigureGroup/19">
+<figure page="9" section="**Normality and homogeneity analyses**" source="author" id="/page/8/Figure/2" image="A3.R24_fig14.jpg">[FIGURE: see A3.R24_fig14.jpg]</figure>
+<caption page="9" section="**Normality and homogeneity analyses**" source="author" id="/page/8/Caption/3">
+**Fig. 5** Conceptual diagram for modified model. *Source: Authors*
+</caption>
+</figure_group>
+
+<figure page="9" section="**Normality and homogeneity analyses**" source="author" id="/page/8/Picture/4" image="A3.R24_fig15.jpg">[FIGURE: see A3.R24_fig15.jpg]</figure>
+
+</page>
+<page number="10">
+<table_group page="10" section="**Normality and homogeneity analyses**" source="author" id="/page/9/TableGroup/189">
+<caption page="10" section="**Normality and homogeneity analyses**" source="author" id="/page/9/Caption/2">
+**Table 5** Model fit measures after applying model modification indices
+</caption>
+<table page="10" section="**Normality and homogeneity analyses**" source="author" id="/page/9/Table/3">
+| Test for exact fit |
+| --- |
+| \chi^2 | df | p |  |
+| 186 | 159 | 0.069 |  |
+| Fit measures |
+| CFI | TLI | RMSEA | RMSEA 90% CI |
+| Lower | Upper |
+| 0.935 | 0.922 | 0.041 | 0.000 | 0.064 |
+</table>
+</table_group>
+
+<text page="10" section="**Normality and homogeneity analyses**" source="author" id="/page/9/Text/4">
+Source: Authors
+</text>
+
+
+<heading page="10" section="**Differences analyses**" source="author" id="/page/9/SectionHeader/5" level="3">
+### **Differences analyses**
+</heading>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/17">
+model. *Source: Authors*
+</text>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/6">
+Differences analyses are performed to investigate the  research objectives in terms of disparities in sustainable  construction practices across gender, age, specialization,
+</text>
+
+<table_group page="10" section="**Differences analyses**" source="author" id="/page/9/TableGroup/190">
+<caption page="10" section="**Differences analyses**" source="author" id="/page/9/Caption/7">
+**Table 6** Correlation matrix
+</caption>
+<table page="10" section="**Differences analyses**" source="author" id="/page/9/Table/8">
+| Variables | SOC | ECO | ENV |
+| --- | --- | --- | --- |
+| SOC | 1.000 | - | - |
+| ECO | 0.580* | 1.000 | - |
+| ENV | 0.394* | 0.587* | 1.000 |
+</table>
+</table_group>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/9">
+Note: * is significant at the 5% level
+</text>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/10">
+*Source: Authors*
+</text>
+
+<table_group page="10" section="**Differences analyses**" source="author" id="/page/9/TableGroup/191">
+<caption page="10" section="**Differences analyses**" source="author" id="/page/9/Caption/11">
+**Table 7** Normality test
+</caption>
+<table page="10" section="**Differences analyses**" source="author" id="/page/9/Table/12">
+| Normality Test (Shapiro-Wilk) | W | p |
+| --- | --- | --- |
+| SOC | 0.973 | 0.035 |
+| ECO | 0.955 | 0.002 |
+| ENV | 0.959 | 0.003 |
+</table>
+</table_group>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/13">
+Note: A low p-value suggests a violation of the assumption of normality
+</text>
+
+<text page="10" section="**Differences analyses**" source="author" id="/page/9/Text/14">
+*Source: Authors*
+</text>
+
+<figure page="10" section="**Differences analyses**" source="author" id="/page/9/Figure/15" image="A3.R24_fig16.jpg">[FIGURE: see A3.R24_fig16.jpg]</figure>
+
+<figure page="10" section="**Differences analyses**" source="author" id="/page/9/Picture/16" image="A3.R24_fig17.jpg">[FIGURE: see A3.R24_fig17.jpg]</figure>
+
+</page>
+<page number="11">
+<table_group page="11" section="**Differences analyses**" source="author" id="/page/10/TableGroup/444">
+<caption page="11" section="**Differences analyses**" source="author" id="/page/10/Caption/2">
+**Table 8** Homogeneity of variances test
+</caption>
+<table page="11" section="**Differences analyses**" source="author" id="/page/10/Table/3">
+| Homogeneity of variances test (Levene's) | F | df | df2 | p |
+| --- | --- | --- | --- | --- |
+| SOC | 2.089 | 1 | 99 | 0.152 |
+| ECO | 0.473 | 1 | 99 | 0.493 |
+| ENV | 4.750 | 1 | 99 | 0.032 |
+</table>
+</table_group>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/4">
+Note: A low p-value suggests a violation of the assumption of equal  variances
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/5">
+*Source: Authors*
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/6">
+and experience categories. The results of these tests are  summarised in Tables [9](#page-10-2),[ 10](#page-10-1),[ 11](#page-11-0) and[ 12](#page-11-1).
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/7">
+Table [9 ](#page-10-2)presents the Mann-Whitney U test results, which  demonstrate the statistical distinctions in the distributions of  SOC, ECO, and ENV across gender categories. The test findings revealed that the distributions of SOC (P-value=0.273),  ECO (P-value=0.326), and ENV (P-value=0.562) were the  same across the gender categories. Therefore, *H1* was not  supported at a significance level of 0.05. This is evident  from the results of the mean ranks of the two groups for all  dimensions of sustainability, where the average of the male  group in terms of the SOC dimension was 53.37, which is  close to the average of the female group in terms of that  dimension, which was 46.72. The male group obtained an  average score of 53.12 in terms of ECO dimension, while  the female group obtained an average of 47.17. Finally, in
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/8">
+terms of the ENV dimension, the male group obtained an  average of 49.75, whereas the female group obtained an  average of 53.26.
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/9">
+Table [10 ](#page-10-1)presents the Kruskal-Wallis test results, which  demonstrate the statistical distinctions in the distributions  of SOC, ECO, and ENV across age categories. The findings revealed that the distributions of SOC (P-value=0.021)  differed across age categories, favouring groups over 25  years of age, especially the 26—35-year-old group. Moreover, the findings revealed that the distributions of ECO  (P-value=0.205) and ENV (P-value=0.280) were the same  across age categories. Therefore, *H2* was partially supported  at a significance level of 0.05.
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/10">
+Table [11](#page-11-0) presents the Kruskal-Wallis test results, which  demonstrate the statistical distinctions in the distributions of SOC, ECO, and ENV across specialization categories. The test findings revealed that the distributions of  SOC (P-value=0.238), ECO (P-value=0.263), and ENV  (P-value=0.156) were the same across the specialization  categories. Therefore, *H3* was not supported at a significance level of 0.05. Hence, there is no difference in SOC,  ECO, and ENV across categories of specialization.
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/11">
+Table [12](#page-11-1) presents the Kruskal-Wallis test results,  which demonstrate the statistical distinctions in the
+</text>
+
+<table_group page="11" section="**Differences analyses**" source="author" id="/page/10/TableGroup/445">
+<caption page="11" section="**Differences analyses**" source="author" id="/page/10/Caption/12">
+**Table 9** Differences analyses across categories of gender
+</caption>
+<table page="11" section="**Differences analyses**" source="author" id="/page/10/Table/13">
+| Dimension | Gender | Mean rank | Z-value | Sig. | Null hypothesis (H0) | Decision |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOC | Male | 53.37 | 1.095 | 0.273 | The dispersal of SOC by gender categories is similar. | Retain H0. |
+| Female | 46.72 |
+| ECO | Male | 53.12 | 0.982 | 0.326 | The dispersal of ECO by gender categories is similar. | Retain H0. |
+| Female | 47.17 |
+| ENV | Male | 49.75 | 0.579 | 0.562 | The dispersal of ENV by gender categories is similar. | Retain H0. |
+| Female | 53.26 |
+</table>
+</table_group>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/14">
+Source: Authors
+</text>
+
+<table_group page="11" section="**Differences analyses**" source="author" id="/page/10/TableGroup/446">
+<caption page="11" section="**Differences analyses**" source="author" id="/page/10/Caption/15">
+**Table 10** Differences analyses across categories of age
+</caption>
+<table page="11" section="**Differences analyses**" source="author" id="/page/10/Table/16">
+| Dimension | Age | Mean rank | Z-value | Sig. | Null hypothesis (H0) | Decision |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOC | &lt;25 years | 2.750 | 11.590 | 0.021* | The dispersal of SOC by age categories is similar. | Reject H0. |
+| 26-35years | 56.06 |
+| 36-45years | 51.14 |
+| 46-55years | 52.73 |
+| &gt;55years | 54.41 |
+| ECO | &lt;25 years | 16.75 | 5.925 | 0.205 | The dispersal of ECO by age categories is similar. | Retain H0. |
+| 26-35years | 54.44 |
+| 36-45years | 53.93 |
+| 46-55years | 51.19 |
+| &gt;55years | 53.06 |
+| ENV | &lt;25 years | 45.25 | 5.073 | 0.280 | The dispersal of ENV by age categories is similar. | Retain H0. |
+| 26-35years | 69.56 |
+| 36-45years | 53.88 |
+| 46-55years | 46.71 |
+| &gt;55years | 51.59 |
+</table>
+</table_group>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/17">
+Note: * is significant at the 5% level
+</text>
+
+<text page="11" section="**Differences analyses**" source="author" id="/page/10/Text/18">
+*Source: Authors*
+</text>
+
+<figure page="11" section="**Differences analyses**" source="author" id="/page/10/Picture/19" image="A3.R24_fig18.jpg">[FIGURE: see A3.R24_fig18.jpg]</figure>
+
+</page>
+<page number="12">
+<table_group page="12" section="**Differences analyses**" source="author" id="/page/11/TableGroup/348">
+<caption page="12" section="**Differences analyses**" source="author" id="/page/11/Caption/2">
+**Table 11** Differences analyses across categories of specialization
+</caption>
+<table page="12" section="**Differences analyses**" source="author" id="/page/11/Table/3">
+| Dimension | Specialization | Mean rank | Z-value | Sig. | Null hypothesis (H0) | Decision |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOC | Developer | 84.83 | 11.580 | 0.238 | The dispersal of SOC by specialization categories is similar. | Retain H0. |
+| Design Engineer | 34.25 |
+| Architect | 53.50 |
+| Civil Engineer | 55.13 |
+| MEP professional | 55.03 |
+| Cost Estimator | 26.75 |
+| Planning Engineer | 45.79 |
+| Interior Fit out | 29.33 |
+| Landscaping | 64.00 |
+| None of the above | 52.11 |
+| ECO | Developer | 80.83 | 11.192 | 0.263 | The dispersal of ECO by specialization categories is similar. | Retain H0. |
+| Design Engineer | 39.50 |
+| Architect | 49.36 |
+| Civil Engineer | 47.58 |
+| MEP professional | 55.97 |
+| Cost Estimator | 21.00 |
+| Planning Engineer | 44.71 |
+| Interior Fit out | 36.50 |
+| Landscaping | 21.00 |
+| None of the above | 57.40 |
+| ENV | Developer | 65.33 | 13.149 | 0.156 | The dispersal of ENV by specialization categories is similar. | Retain H0. |
+| Design Engineer | 27.35 |
+| Architect | 68.57 |
+| Civil Engineer | 55.48 |
+| MEP professional | 57.26 |
+| Cost Estimator | 68.25 |
+| Planning Engineer | 39.93 |
+| Interior Fit out | 49.33 |
+| Landscaping | 37.00 |
+| None of the above | 48.95 |
+</table>
+</table_group>
+
+<text page="12" section="**Differences analyses**" source="author" id="/page/11/Text/4">
+Source: Authors
+</text>
+
+<table_group page="12" section="**Differences analyses**" source="author" id="/page/11/TableGroup/349">
+<caption page="12" section="**Differences analyses**" source="author" id="/page/11/Caption/5">
+**Table 12** Differences analyses across categories of experience
+</caption>
+<table page="12" section="**Differences analyses**" source="author" id="/page/11/Table/6">
+| Dimension | Experience | Mean rank | Z-value | Sig. | Null hypothesis (H_0) | Decision |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOC | &lt;5years | 43.36 | 2.097 | 0.718 | The dispersal of SOC by experience categories is similar. | Retain H_0. |
+| 6-15years | 46.81 |
+| 16-25years | 52.19 |
+| 26-35years | 55.31 |
+| &gt;35years | 47.56 |
+| ECO | &lt;5years | 44.86 | 1.619 | 0.805 | The dispersal of ECO by experience categories is similar. | Retain H_0. |
+| 6-15years | 54.56 |
+| 16-25years | 50.96 |
+| 26-35years | 49.12 |
+| &gt;35years | 59.22 |
+| ENV | &lt;5years | 60.95 | 5.993 | 0.200 | The dispersal of ENV by experience categories is similar. | Retain H_0. |
+| 6-15years | 52.72 |
+| 16-25years | 58.25 |
+| 26-35years | 42.69 |
+| &gt;35years | 48.61 |
+</table>
+</table_group>
+
+<text page="12" section="**Differences analyses**" source="author" id="/page/11/Text/7">
+Source: Authors
+</text>
+
+<figure page="12" section="**Differences analyses**" source="author" id="/page/11/Picture/8" image="A3.R24_fig19.jpg">[FIGURE: see A3.R24_fig19.jpg]</figure>
+
+</page>
+<page number="13">
+<text page="13" section="**Differences analyses**" source="author" id="/page/12/Text/2">
+distributions of SOC, ECO, and ENV across experience  categories. The test findings revealed that the distributions  of SOC (P-value=0.718), ECO (P-value=0.805), and ENV  (P-value=0.200) were the same across the experience categories. Therefore, *H4* was not supported at a significance  level of 0.05. Hence, there is no difference in SOC, ECO,  and ENV across categories of experience.
+</text>
+
+
+<heading page="13" section="**Discussion**" source="author" id="/page/12/SectionHeader/3" level="2">
+## **Discussion**
+</heading>
+
+<text page="13" section="**Discussion**" source="author" id="/page/12/Text/4">
+JAMOVI is a fitting software tool for statistical analysis  of quantitative research. Its user-friendly interface helps  researchers to identify trends and interitem relationships  with data without a hassle. The software imposes confirmation on the reliability, normality and homogeneity of the  data collected through surveys for confirming the suitability of tests for the analysis. The data collected through a  5-point Likert scale for this research confirms the reliability  but dispersion analysis of the sample revealed a non-normal  tendency of the data. Data from distinctive demographic  groups is observed to be the reason for the bimodal and  skewed nature of the data.
+</text>
+
+<text page="13" section="**Discussion**" source="author" id="/page/12/Text/5">
+Confirmatory factor analysis of the conceptual framework adopted through the literature review confirmed the  significance of all the factors in the proposed framework.  However, the fit measures failed to confirm the fitness of the  model as a whole. Hence, factor modifications, as observed  in a post hoc analysis, such as removing some items and  applying residual covariance modification indices or errors,  were required to confirm the model's fitness with the population. This could be due to the difference in the sample  nature and method of data collection of this study from the  research that developed the adopted conceptual framework.
+</text>
+
+<text page="13" section="**Discussion**" source="author" id="/page/12/Text/6">
+This study is aimed to identify the right stakeholders  for the successful employment of sustainable practices in  building construction and management. Hence, the statistical analysis in this research was done to check whether  the choice of sustainable development practices in building  engineering system varies according to the demographic  factors of decision makers such as developers, engineers  and architects. Inferential statistical analysis performed to  establish the correlation between sample and population  provided results which confirmed the irrelevance of demographic factors such as gender, age, area of specialization  and years of experience in the decisions on sustainable  development. This observation indicates that irrespective  of the technological background or practical experience the  stakeholders of construction industry are in the same league  for adopting sustainable construction practices to achieve  net zero goals.
+</text>
+
+<text page="13" section="**Discussion**" source="author" id="/page/12/Text/7">
+A correlation test performed confirmed the significant  correlation between the three pillars of sustainability – SOC,  ECO, and ENV. In addition, differences analyses conducted  to investigate the research objectives in terms of disparities  in sustainable construction practices across gender, age,  specialisation, and experience categories demonstrated that  the distributions of SOC, ECO, and ENV were the same  across gender, specialization, and experience categories.  Factor wise observations are discussed below:
+</text>
+
+
+<heading page="13" section="**Demographic factors on socio-cultural sustainability**" source="author" id="/page/12/SectionHeader/8" level="3">
+### **Demographic factors on socio-cultural sustainability**
+</heading>
+
+<text page="13" section="**Demographic factors on socio-cultural sustainability**" source="author" id="/page/12/Text/9">
+The statistical analysis was done to comprehend whether  the decision to consider socio-cultural factors of sustainability in building construction differs due to demographic factors such as gender, age, areas of specialization, and years  of experience in construction. The results revealed no significant difference in the dispersal of distributions between  both genders, different areas of specialization, and different  years of experience. However, a substantial difference in the  dispersal of distributions among various age groups could  be observed.
+</text>
+
+
+<heading page="13" section="**Demographic factors on economic sustainability**" source="author" id="/page/12/SectionHeader/10" level="3">
+### **Demographic factors on economic sustainability**
+</heading>
+
+<text page="13" section="**Demographic factors on economic sustainability**" source="author" id="/page/12/Text/11">
+The trend of the statistical distribution of responses regarding economic sustainability shows no significant difference  between different sectors of all demographic factors considered for the research. As per the research's observations,  gender, age, areas of specialization, or experience do not  make any difference in the decision-making process regarding adopting economic sustainability factors in building  construction.
+</text>
+
+
+<heading page="13" section="**Demographic factors on environmental ** **sustainability**" source="author" id="/page/12/SectionHeader/12" level="3">
+### **Demographic factors on environmental ** **sustainability**
+</heading>
+
+<text page="13" section="**Demographic factors on environmental ** **sustainability**" source="author" id="/page/12/Text/13">
+The difference analysis of the dispersal distribution of environmental sustainability factors also provided the same  results as economic sustainability factors and confirmed  the insignificance of demographic factors in the successful  adoption and implementation of environmental factors for  sustainable development.
+</text>
+
+<text page="13" section="**Demographic factors on environmental ** **sustainability**" source="author" id="/page/12/Text/14">
+These findings would enhance the conceptual framework of sustainable development in building construction  and interior fit-out works. The observation results favoured  male candidates within the 26–35 age group, and the role of  developers was found to be significant for all three pillars of  sustainable development. The research results can be helpful for policymakers and implementation agencies in identifying the ideal team for sustainable building construction  and development. The results align with the findings of a
+</text>
+
+<figure page="13" section="**Demographic factors on environmental ** **sustainability**" source="author" id="/page/12/Picture/15" image="A3.R24_fig20.jpg">[FIGURE: see A3.R24_fig20.jpg]</figure>
+
+</page>
+<page number="14">
+<text page="14" section="**Demographic factors on environmental ** **sustainability**" source="author" id="/page/13/Text/2">
+similar research on the sustainable lifestyle (SLS) among  the Vietnamese people, which revealed that age, gender,  and income are not associated with the SLS of Vietnamese  people (Nguyen et al.,[ 2023](#page-15-21)).
+</text>
+
+
+<heading page="14" section="**Conclusion and policy recommendations**" source="author" id="/page/13/SectionHeader/3" level="2">
+## **Conclusion and policy recommendations**
+</heading>
+
+<text page="14" section="**Conclusion and policy recommendations**" source="author" id="/page/13/Text/4">
+Innovation and technological progress are essential for  implementing sustainable practices and policies to achieve  sustainable development goals and net-zero carbon-emission  targets. Decision-makers in the infrastructure development  industry play a pivotal role in implementing environmentally friendly, economically viable, and socially sustainable  solutions in the construction industry. This research investigated how different factors of sustainable development are  interrelated in building engineering systems and whether  the decision to implement SOC, ECO, and ENV factors of  sustainable construction practices differs depending on the  demographic features of the professionals. The results of  the analysis of data collected from the identified stakeholders established that most decisions on sustainable development methodologies will not differ because of variations in  demographic factors. This research also established a significant correlation between the three pillars of sustainability and proposed a more structured analysis of the impact  of economic concerns on overall sustainable development.  The findings support stakeholders in the construction sector in developing sustainable engineering building systems  through a team of professionals with optimal demographic  indices and a verified conceptual framework. Promoting  SOC, ECO, and ENV factors in building systems with innovative construction-related regulations that promote sustainable engineering building systems is imperative.
+</text>
+
+<text page="14" section="**Conclusion and policy recommendations**" source="author" id="/page/13/Text/5">
+Through engineering building systems and climate  change policies, stakeholders can be rewarded and empowered to design sustainable building systems that adapt SOC,  ECO, ENV, and climate to promote sustainable development. Innovation strategies in the construction industry  must be founded on the overall outlook of SOC, ECO, and  ENV factors and be cognizant of technological changes to  provide sustainable engineering building systems that fulfil  stakeholders' needs, including developers and investors.
+</text>
+
+<text page="14" section="**Conclusion and policy recommendations**" source="author" id="/page/13/Text/6">
+This study had some limitations. It was designed and  applied to the UAE construction sector, but future research  may include other sectors and factors, such as technology,  artificial intelligence, and green finance. The proposed  methodology can be used in different areas to help stakeholders establish sustainable systems based on the SOC,  ECO, and ENV factors. The data sample size was small for  an authentic statistical analysis of 33 items of the study;
+</text>
+
+<text page="14" section="**Conclusion and policy recommendations**" source="author" id="/page/13/Text/7">
+hence, a larger data set with equal representation from all  demographic variances could refine the research.
+</text>
+
+
+<heading page="14" section="**Appendix**" source="author" id="/page/13/SectionHeader/8" level="2">
+## **Appendix**
+</heading>
+
+
+<heading page="14" section="**Sustainable development**" source="author" id="/page/13/SectionHeader/9" level="3">
+### **Sustainable development**
+</heading>
+
+<text page="14" section="**Sustainable development**" source="author" id="/page/13/Text/10">
+This survey is meant for pure academic purpose as part of  PhD in Sustainable Built Environment. It is intended to  quantitatively analyze key indicative parameters of sustainable development that helps developers and designers to  implement such practices. Your feedback depending on the  experience in the field of engineering is requested.
+</text>
+
+
+<heading page="14" section="**Survey questions**" source="author" id="/page/13/SectionHeader/11" level="3">
+### **Survey questions**
+</heading>
+
+
+<heading page="14" section="**Section 1- SOC sustainability**" source="author" id="/page/13/SectionHeader/12" level="4">
+#### **Section 1- SOC sustainability**
+</heading>
+
+<list page="14" section="**Section 1- SOC sustainability**" source="author" id="/page/13/ListGroup/329">
+- 1. Do you believe community participation in the  developmental activities is required for sustainable  development?
+- Strongly Agree.
+- Agree.
+- Neutral.
+- Disagree.
+- Strongly Disagree.
+- 2. Practical experience is effective way for making awareness about sustainability.
+- 3. Conducting trainings is the efficient way for making  awareness about sustainability.
+- 4. Sustainable design should be incompatible with the  regional conditions like topography and climate.
+- 5. Sustainable design should be in-line with architectural  style of the locality.
+- 6. Sustainable design should be in harmony with the culture of the region.
+- 7. Reliability on new technological solutions will encourage the stake holders to implement them for sustainable  development.
+- 8. Attitude of stake holders play a major role in the implementation of sustainable practices in construction.
+- 9. Quality of life of the inhabitancy will be better with the  implementation of sustainable principles.
+- 10. Do you believe sustainable development ensures social  security?
+- 11. Do you believe sustainable practices need to be promoted with policy initiatives monetary benefits /  incentives?
+</list>
+
+<figure page="14" section="**Section 1- SOC sustainability**" source="author" id="/page/13/Picture/29" image="A3.R24_fig21.jpg">[FIGURE: see A3.R24_fig21.jpg]</figure>
+
+</page>
+<page number="15">
+
+<heading page="15" section="**Section 2: ECO sustainability**" source="author" id="/page/14/SectionHeader/2" level="4">
+#### **Section 2: ECO sustainability**
+</heading>
+
+<list page="15" section="**Section 2: ECO sustainability**" source="author" id="/page/14/ListGroup/423">
+- 1. For ensuring economical sustainability initial cost of  the material at site should be a major parameter.
+- 2. For ensuring economical sustainability cost of the material while in use like operation and maintenance cost  should be a major concern.
+- 3. For ensuring economical sustainability the environmental cost or carbon foot print of the material should be a  major concern.
+- 4. For ensuring economical sustainability the reuse or  recycle potential of the material at the end of life should  be a major concern.
+- 5. Locally available &amp; pre used material availability plays  a vital role in meeting the sustainable practice requirements in construction.
+- 6. Skilled labour is a mandatory requirement for the implementation of sustainable features.
+- 7. Duration of technological options will not affect the  economical sustainability of the projects.
+- 8. Durability of materials and technical solutions will  impact the economical sustainability of the project.
+</list>
+
+
+<heading page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/SectionHeader/11" level="4">
+#### **Section 3: ENV sustainability**
+</heading>
+
+<list page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/ListGroup/424">
+- 1. If air quality parameters are within the limits, the project can be stated as environmentally sustainable.
+- 2. Water quality is the main parameter for ensuring environmental sustainability.
+- 3. Noice pollution is a major threat to environmental  sustainability.
+- 4. The amount of quality residual waste generated by the  adoption of specific technological solution is an indication of environmental sustainability.
+- 5. Material efficiency: use of local / recycled / pre-used  materials is a key indicator of sustainable development.
+- 6. Extraction of raw materials and minerals by destroying  the natural land mass is an environmental impact due to  construction.
+- 7. Sustainability can be guaranteed by adopting energy  efficient practices.
+- 8. Embodied energy is the key indicator for energy efficiency in sustainable development.
+- 9. Operational energy is the key indicator in sustainable  development.
+- 10. Water conservation should be considered for sustainable development.
+</list>
+
+<text page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/Text/22">
+**Author contributions** PB conceived the project topic, planning, literature review, fundamental analysis, the framework and statistical  analysis, data collection and analysis, wrote the abstract, introduction,
+</text>
+
+<text page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/Text/23">
+literature review, hypothesis formulation, results, discussion and conclusion. N M conceived the project planning, framework, hypotheses,  analysis of results, reviewed the manuscript. A H reviewed the literature review, contributed in literature review, statistical analysis, empirical results and manuscript.
+</text>
+
+<text page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/Text/24">
+**Funding** The authors have not disclosed any funding.
+</text>
+
+<text page="15" section="**Section 3: ENV sustainability**" source="author" id="/page/14/Text/25">
+**Data availability** No datasets were generated or analysed during the  current study.
+</text>
+
+
+<heading page="15" section="**Declarations**" source="author" id="/page/14/SectionHeader/26" level="2">
+## **Declarations**
+</heading>
+
+<text page="15" section="**Declarations**" source="author" id="/page/14/Text/27">
+**Competing interests** The authors declare no competing interests.
+</text>
+
+
+<heading page="15" section="**References**" source="author" id="/page/14/SectionHeader/28" level="2">
+## **References**
+</heading>
+
+<list page="15" section="**References**" source="author" id="/page/14/ListGroup/425">
+- Agrawal, N., Modgil, S., &amp; Gupta, S. (2024). ESG and supply chain  finance to manage risk among value chains. *Journal of Cleaner * *Production*, *471*, 143373. [https://doi.org/10.1016/j.jclepro.2024.](https://doi.org/10.1016/j.jclepro.2024.143373) [143373](https://doi.org/10.1016/j.jclepro.2024.143373)
+- Ahmed, A. A. (2021). A Beginners Review of Jamovi Statistical Software for Economic Research. [https://www.researchgate.net/publ](https://www.researchgate.net/publication/354077071) [ication/354077071](https://www.researchgate.net/publication/354077071)
+- Akadiri, P. O., Chinyio, E. A., &amp; Olomolaiye, P. O. (2012). Design of a  sustainable Building: A conceptual framework for implementing  sustainability in the Building sector. *Buildings*, *2*(2), 126–152. [ht](https://doi.org/10.3390/buildings2020126) [tps://doi.org/10.3390/buildings2020126](https://doi.org/10.3390/buildings2020126)
+- Barra, C., &amp; Falcone, P. M. (2023). Cross country comparisons of  environmental efficiency under institutional quality. Evidence  from European economies. *Journal of Economic Studies*, *51*(9),  75–111. [https://doi.org/10.1108/JES-05-2023-0264](https://doi.org/10.1108/JES-05-2023-0264)
+- Barra, C., &amp; Falcone, P. M. (2024). Environmental performance of  countries. Examining the effect of diverse institutional factors in  a metafrontier approach. *Socio-Economic Planning Sciences*, 95.  [https://doi.org/10.1016/j.seps.2024.101972](https://doi.org/10.1016/j.seps.2024.101972)
+- Biswas, S., &amp; Ghosh, M. (2019a). Sustainability in Architecture and  Planning: Consumption and Behavior, in International Journal of  Architecture and Infrastructure Planning. www.journalspub.com.
+- Chen, C. (2024). Development of green business strategies through  green dynamic capabilities and environmental regulation: Empirical evidence from the construction sector. *Journal of Cleaner * *Production*, *438*, 140826. [https://doi.org/10.1016/j.jclepro.2024.](https://doi.org/10.1016/j.jclepro.2024.140826) [140826](https://doi.org/10.1016/j.jclepro.2024.140826)
+- Chiamaka, U., &amp; Aduwo, E. B. (2019). Evaluation of sustainability  concepts in public housing projects in ogun state, nigeria. Journal  of Physics: Conference Series, 1378(4). [https://doi.org/10.1088/1](https://doi.org/10.1088/1742-6596/1378/4/042076) [742-6596/1378/4/042076](https://doi.org/10.1088/1742-6596/1378/4/042076)
+- Dadashpoor, P., &amp; Padash, A. (2019a). A conceptual framework for  implementing sustainability in the building design. In *Interna**tional Journal of Advances in Mechanical and Civil Engineering* (Issue 6). [http://iraj.in](http://iraj.in)
+- de Souza, R. R., Toebe, M., Mello, A. C., &amp; Bittencourt, K. C. (2023).  Sample size and Shapiro-Wilk test: An analysis for soybean grain  yield. *European Journal of Agronomy*, *142*, 126666. [https://doi.o](https://doi.org/10.1016/j.eja.2022.126666) [rg/10.1016/j.eja.2022.126666](https://doi.org/10.1016/j.eja.2022.126666)
+- Elal-Olivero, D., Olivares-Pacheco, J. F., Venegas, O., Bolfarine, H.,  &amp; Gómez, H. W. (2020). On properties of the bimodal Skew-Normal distribution and an application. *Mathematics*, *8*(5), 703. [http](https://doi.org/10.3390/math8050703) [s://doi.org/10.3390/math8050703](https://doi.org/10.3390/math8050703)
+- Errichiello, G., Falcone, P. M., &amp; Popoyan, L. (2025). Navigating climate policy: The influence of lobbying trends and narratives in
+</list>
+
+<figure page="15" section="**References**" source="author" id="/page/14/Picture/41" image="A3.R24_fig22.jpg">[FIGURE: see A3.R24_fig22.jpg]</figure>
+
+</page>
+<page number="16">
+<list page="16" section="**References**" source="author" id="/page/15/ListGroup/400">
+- Europe. *Environmental Science and Policy*. [https://doi.org/10.10](https://doi.org/10.1016/j.envsci.2024.103974) [16/j.envsci.2024.103974](https://doi.org/10.1016/j.envsci.2024.103974). 163.
+- Falcone, P. M., &amp; Fiorentino, R. (2024). Nudging towards sustainability: Exploring the role of behavioral interventions in circular bioeconomy development for the fashion industry. *Corporate Social * *Responsibility and Environmental Management*. [https://doi.org/1](https://doi.org/10.1002/csr.2983) [0.1002/csr.2983](https://doi.org/10.1002/csr.2983)
+- Franke, T. M., Ho, T., &amp; Christie, C. A. (2012). The Chi-Square test.  *American Journal of Evaluation*, *33*(3), 448–458. [https://doi.org/](https://doi.org/10.1177/1098214011426594) [10.1177/1098214011426594](https://doi.org/10.1177/1098214011426594)
+- Habib, A. M. (2024). Financial Development and Corporate Governance Efficiency: An Overview of MENA (pp. 147–169). [https://](https://doi.org/10.1142/9781800614734_0006) [doi.org/10.1142/9781800614734_0006](https://doi.org/10.1142/9781800614734_0006)
+- Habib, A. M., &amp; Mourad, N. (2024). The influence of environmental, social, and governance (ESG) practices on US firms' performance: Evidence from the coronavirus crisis. *J Knowl Econ*,  *15*(1), 2549–2570. [https://doi.org/10.1007/s13132-023-01278-w](https://doi.org/10.1007/s13132-023-01278-w)
+- Habib, A. M., Yang, G., &amp; Cui, Y. (2024). Do competitive strategies  affect working capital management efficiency? Business Process  Management Journal, ahead-of-print(ahead-of-print). [https://doi.](https://doi.org/10.1108/BPMJ-12-2023-0953) [org/10.1108/BPMJ-12-2023-0953](https://doi.org/10.1108/BPMJ-12-2023-0953)
+- Hox, J. J. (2021). Confirmatory Factor Analysis. In The Encyclopedia  of Research Methods in Criminology and Criminal Justice (pp.  830–832). Wiley. [https://doi.org/10.1002/9781119111931.ch158](https://doi.org/10.1002/9781119111931.ch158)
+- Joe Opoku, D. G., Ayarkwa, J., &amp; Agyekum, K. (2017). A CON-CEPTUAL FRAMEWORK OF PUSH FACTORS FOR  IMPLEMENTING ENVIRONMENTALLY SUSTAINABLE  CONSTRUCTION PRACTICES. [https://www.researchgate.net/](https://www.researchgate.net/publication/317267431) [publication/317267431](https://www.researchgate.net/publication/317267431)
+- Joshi, A., Kale, S., Chandel, S., &amp; Pal, D. (2015). Likert scale: Explored  and explained. *British Journal of Applied Science &amp; Technology*,  *7*(4), 396–403. [https://doi.org/10.9734/bjast/2015/14975](https://doi.org/10.9734/bjast/2015/14975)
+- Nguyen, P. M., Chu, M. T., &amp; Nguyen, M. D. (2023). Role of Demographic Factors in Shaping Sustainable Lifestyles: An Empirical  Study in Vietnam. Green and Low-Carbon Economy. [https://doi.](https://doi.org/10.47852/bonviewGLCE32021397) [org/10.47852/bonviewGLCE32021397](https://doi.org/10.47852/bonviewGLCE32021397)
+- Nyutu, E. N., Cobern, W. W., &amp; Pleasants, B. A. S. (2021). Correlational study of student perceptions of their undergraduate laboratory environment with respect to gender and major. *International * *Journal of Education in Mathematics Science and Technology*,  *9*(1), 83–102. [https://doi.org/10.46328/ijemst.1182](https://doi.org/10.46328/ijemst.1182)
+- Parris, T. M., &amp; Kates, R. W. (2003). Characterizing and measuring  sustainable development. *Annual Review of Environment and * *Resources*, *28*, 559–586. [https://doi.org/10.1146/annurev.energy.](https://doi.org/10.1146/annurev.energy.28.050302.105551) [28.050302.105551](https://doi.org/10.1146/annurev.energy.28.050302.105551)
+- Passoni, C., Caruso, M., Marini, A., Pinho, R., &amp; Landolfo, R. (2022).  The role of life cycle structural engineering in the transition  towards a sustainable Building renovation: Available tools and  research needs. *Buildings*, *12*(8), 1107. [https://doi.org/10.3390/b](https://doi.org/10.3390/buildings12081107) [uildings12081107](https://doi.org/10.3390/buildings12081107)
+- Qian, Y., &amp; Liu, Y. (2024). Improve carbon emission efficiency: What  role does the ESG initiatives play? *Journal of Environmental *
+</list>
+
+<list page="16" section="**References**" source="author" id="/page/15/ListGroup/401">
+- *Management*, *367*, 122016. [https://doi.org/10.1016/j.jenvman.2](https://doi.org/10.1016/j.jenvman.2024.122016) [024.122016](https://doi.org/10.1016/j.jenvman.2024.122016)
+- ŞAHİN, M., &amp; AYBEK, E. (2020). Jamovi: An easy to use statistical  software for the social scientists. *International Journal of Assess**ment Tools in Education*, *6*(4), 670–692. [https://doi.org/10.2144](https://doi.org/10.21449/ijate.661803) [9/ijate.661803](https://doi.org/10.21449/ijate.661803)
+- Smeets, E., Weterings, R., Bosch, P., Büchele, M., &amp; Gee, D. (2019).  Environmental indicators: Typology and overview. [http://europa](http://europa.eu.int) [.eu.int](http://europa.eu.int)
+- Stanners, D., Bosch, P., Dom, A., Gabrielsen, P., Gee, D., Martin, J.,  Rickard, L., &amp; Weber, J. L. (2019). Frameworks for Environmental Assessment and Indicators at the EEA.
+- Surisetti, D. S., Kulkarni, S., &amp; Naveen, K. (2021). Sustainable development initiatives through ISO 9001:2015. *International Trans**action Journal of Engineering*, *12*(8), 1–10. [https://doi.org/10.14](https://doi.org/10.14456/ITJEMAST.2021.156) [456/ITJEMAST.2021.156](https://doi.org/10.14456/ITJEMAST.2021.156)
+- Taber, K. S. (2018). The use of Cronbach's alpha when developing and  reporting research instruments in science education. *Research in * *Science Education*, *48*(6), 1273–1296. [https://doi.org/10.1007/s1](https://doi.org/10.1007/s11165-016-9602-2) [1165-016-9602-2](https://doi.org/10.1007/s11165-016-9602-2)
+- Thomas, R. V., Nair, D. G., &amp; Enserink, B. (2023). Conceptual framework for sustainable construction. *Architecture Structures and * *Construction*, *3*(1), 129–141. [https://doi.org/10.1007/s44150-02](https://doi.org/10.1007/s44150-023-00087-8) [3-00087-8](https://doi.org/10.1007/s44150-023-00087-8)
+- Wiebe, K. S. (2012). Quantitative assessment of sustainable development and growth in sub-Saharan Africa [maastricht university].[ h](https://doi.org/10.26481/dis.20120615kw) [ttps://doi.org/10.26481/dis.20120615kw](https://doi.org/10.26481/dis.20120615kw)
+- Willar, D., Waney, E.V.Y., Pangemanan, D.D.G., &amp; Mait, R.E.G.  (2021). Sustainable construction practices in the execution of  infrastructure projects: The extent of implementation. *Smart and * *Sustainable Built Environment*, *10*(1), 106–124. [https://doi.org/1](https://doi.org/10.1108/SASBE-07-2019-0086) [0.1108/SASBE-07-2019-0086](https://doi.org/10.1108/SASBE-07-2019-0086)
+- Zakariya, Y. F. (2022). Cronbach's alpha in mathematics education  research: Its appropriateness, overuse, and alternatives in estimating scale reliability. *Frontiers in Psychology*, *13*. [https://doi.org/1](https://doi.org/10.3389/fpsyg.2022.1074430) [0.3389/fpsyg.2022.1074430](https://doi.org/10.3389/fpsyg.2022.1074430)
+- Zimon, G., Habib, A. M., &amp; Haluza, D. (2024). Does the quality management system affect working capital management efficiency?  Evidence from Polish firms. *Cogent Business &amp; Management*,  *11*(1), 1–18. [https://doi.org/10.1080/23311975.2023.2292787](https://doi.org/10.1080/23311975.2023.2292787)
+</list>
+
+<text page="16" section="**References**" source="author" id="/page/15/Text/27">
+**Publisher's note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+</text>
+
+<text page="16" section="**References**" source="author" id="/page/15/Text/28">
+Springer Nature or its licensor (e.g. a society or other partner) holds  exclusive rights to this article under a publishing agreement with the  author(s) or other rightsholder(s); author self-archiving of the accepted  manuscript version of this article is solely governed by the terms of  such publishing agreement and applicable law.
+</text>
+
+<figure page="16" section="**References**" source="author" id="/page/15/Picture/29" image="A3.R24_fig23.jpg">[FIGURE: see A3.R24_fig23.jpg]</figure>
+
+</page>
+</paper>

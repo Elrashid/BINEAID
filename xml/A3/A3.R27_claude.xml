@@ -1,0 +1,782 @@
+<paper source_file="A3.R27" title="**International Quality** **Review of ** **the British University in Dubai**" total_pages="26" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/0" image="A3.R27_fig01.jpg">[FIGURE: see A3.R27_fig01.jpg]</figure>
+
+
+<heading page="1" section="**International Quality** **Review of ** **the British University in Dubai**" source="author" id="/page/0/SectionHeader/1" level="1">
+# **International Quality** **Review of ** **the British University in Dubai**
+</heading>
+
+<text page="1" section="**International Quality** **Review of ** **the British University in Dubai**" source="author" id="/page/0/Text/2">
+**May** **2022**
+</text>
+
+
+<heading page="1" section="**Contents**" source="author" id="/page/0/SectionHeader/3" level="1">
+# **Contents**
+</heading>
+
+<block type="TableOfContents" page="1" section="**Contents**" source="author" id="/page/0/TableOfContents/4">
+**About this review**1**Key findings**2Executive summary2QAA's conclusions about the British University in Dubai3European Standards and Guidelines3Good practice3Recommendations3**Explanation of the findings about the British University in Dubai**4Standard 1.1 Policy for quality assurance5Standard 1.2 Design and approval of programmes7Standard 1.3 Student-centred learning, teaching and assessment9Standard 1.4 Student admission, progression, recognition and certification11Standard 1.5 Teaching staff13Standard 1.6 Learning resources and student support15Standard 1.7 Information management17Standard 1.8 Public information19Standard 1.9 Ongoing monitoring and periodic review of programmes20Standard 1.10 Cyclical external quality assurance21**Glossary**23
+</block>
+
+</page>
+<page number="2">
+
+<heading page="2" section="**About this review**" source="author" id="/page/1/SectionHeader/1" level="1">
+# **About this review**
+</heading>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/2">
+This is a report of an International Quality Review conducted by the Quality Assurance  Agency for Higher Education (QAA) at the British University in Dubai (the University). The  review took place from 23 to 26 May 2022 and was conducted by a team of three reviewers,  as follows:
+</text>
+
+<list page="2" section="**About this review**" source="author" id="/page/1/ListGroup/184">
+- Ms Isabel Lucas
+- Professor Stephen Pratt (international reviewer)
+- Mr Abraham Baldry (student reviewer)
+</list>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/6">
+The QAA Officer for this review was Dr Roshani Swift.
+</text>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/7">
+International Quality Review (IQR) offers institutions outside the UK the opportunity to have  a review by the UK's Quality Assurance Agency for Higher Education (QAA). The review  benchmarks the institution's quality assurance processes against international quality  assurance standards set out in Part 1 of the *Standards and Guidelines for Quality Assurance * *in the European Higher Education Area* (ESG).^(1)
+</text>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/8">
+In an International Quality Review, the QAA review team:
+</text>
+
+<list page="2" section="**About this review**" source="author" id="/page/1/ListGroup/185">
+- reaches conclusions against each of the 10 standards set out in Part 1 of the ESG
+- makes recommendations
+- identifies features of good practice
+- comes to an overall conclusion as to whether the institution meets the standards  for International Quality Review.
+</list>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/13">
+A summary of the findings can be found in the section starting on page 2. Explanations of  the findings are given in numbered paragraphs in the section starting on page 6.
+</text>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/14">
+The QAA website gives more information[ about QAA](http://www.qaa.ac.uk/about-us) and its mission.^(2) A dedicated section  explains the method for International Quality Review^(3) and has links to other informative documents. For an explanation of terms, see the glossary at the end of this report.
+</text>
+
+<text page="2" section="**About this review**" source="author" id="/page/1/Text/17">
+-
+</text>
+
+<footnote page="2" section="**About this review**" source="author" id="/page/1/Footnote/15">
+^(1) [www.enqa.eu/esg-standards-and-guidelines-for-quality-assurance-in-the-european-higher-education-area](https://www.enqa.eu/esg-standards-and-guidelines-for-quality-assurance-in-the-european-higher-education-area/)
+</footnote>
+
+<footnote page="2" section="**About this review**" source="author" id="/page/1/Footnote/16">
+^(2) [www.qaa.ac.uk/about-us](http://www.qaa.ac.uk/about-us)
+</footnote>
+
+<footnote page="2" section="**About this review**" source="author" id="/page/1/Footnote/18">
+^(3) [www.qaa.ac.uk/en/training-and-services/iqr](https://www.qaa.ac.uk/en/training-and-services/iqr)
+</footnote>
+
+</page>
+<page number="3">
+
+<heading page="3" section="**Key** **findings**" source="author" id="/page/2/SectionHeader/1" level="1">
+# **Key** **findings**
+</heading>
+
+
+<heading page="3" section="**Executive summary**" source="author" id="/page/2/SectionHeader/2" level="1">
+# **Executive summary**
+</heading>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/3">
+The British University in Dubai (hereafter the University) was established in 2003 by a  grouping of public and private sector bodies, both Emirati and British, under the provisions  of Law Number 5 of the Emirate of Dubai. Its mission is to provide 'world class scholarship,  education and research that make a distinctive British contribution to support the aspirations  of the Dubai Government and the UAE to become a hub for education and research in the  region'.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/4">
+The University comprises three faculties (Business and Law, Engineering and Information  Technology, and Education) delivering a portfolio of bachelor's, master's and doctoral programmes accredited by the Commission for Academic Accreditation (CAA). At present,  there are five undergraduate degree programmes; 21 master's programmes; and seven doctoral programmes, based in the five subject areas of Business Management; Law;  Computer Science; Engineering and Education.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/5">
+As of November 2021, there are almost 1,200 students registered for study at the University,  of which 18% are undergraduate (UG) and 82% postgraduate (PG). The majority of PG  students at the University are part-time whereas almost all UG students are studying  full-time.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/6">
+The University's governance structure consists of the Council, the Senate, the Academic Board and a formal committee structure. The University boards and committees are categorised by academic and management domains, and their roles and responsibilities and reporting lines are clearly defined. The University Council usually includes members  from the University founding organisations, and both UAE nationals and UK expatriates are  represented.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/7">
+The Senate is the University's senior academic body and reports directly to the University  Council. It is in charge of approving academic plans that are in line with its strategic plans,  including the University's programmes and academic initiatives. The Academic Board is the  University's senior academic committee and has delegated authority from the Senate for  monitoring all academic and research business at the University.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/8">
+The University's strategic goals and priorities are outlined in its Strategic Plan for 2019-2024, and are designed to help the University be agile and capitalise on opportunities while also  providing a clear sense of direction and purpose. The University's Strategic Plan is  structured around four Strategic Themes covering enrichment of the student experience;  excellence-driven research and innovation; expansive University environment; and dynamic  academic and societal engagement. Under each Strategic Theme there are explicitly defined  Target Strategies**, **which align with the University's Mission and Vision; the UAE Vision 2021;  and the Dubai Plan 2021.
+</text>
+
+<text page="3" section="**Executive summary**" source="author" id="/page/2/Text/9">
+In reaching conclusions about the extent to which the British University in Dubai meets the  10 ESG Standards, the QAA review team followed the evidence-based review procedure as  outlined in the handbook for International Quality Review (June 2021). The QAA review team  was provided with a self-evaluation and supporting evidence by the University. During the  four-day online review visit, which took place from 23 to 26 May 2022, the review team held  a total of eight meetings with the Vice-Chancellor; senior management team; the Registrar  and Chief Administrative Officer; students; academic staff, professional support staff,  stakeholders including alumni; and a final meeting. The review team also had the opportunity  to view a video of the University's facilities, and received a live demonstration of the virtual  learning environment from a student access perspective.
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Executive summary**" source="author" id="/page/3/Text/1">
+The review team came to the overall conclusion that the British University in Dubai meets  all 10 of the European Standards and Guidelines (2015), Part 1: Internal Quality Assurance.  The review team has identified six areas of good practice and four recommendations.
+</text>
+
+
+<heading page="4" section="**QAA's** **conclusions** **about the British University in Dubai**" source="author" id="/page/3/SectionHeader/2" level="1">
+# **QAA's** **conclusions** **about the British University in Dubai**
+</heading>
+
+<text page="4" section="**QAA's** **conclusions** **about the British University in Dubai**" source="author" id="/page/3/Text/3">
+The QAA review team reached the following conclusions about the higher education  provision at the British University in Dubai.
+</text>
+
+
+<heading page="4" section="**European Standards and Guidelines**" source="author" id="/page/3/SectionHeader/4" level="1">
+# **European Standards and Guidelines**
+</heading>
+
+<text page="4" section="**European Standards and Guidelines**" source="author" id="/page/3/Text/5">
+The British University in Dubai meets all of the 10 ESG Standards and Guidelines.
+</text>
+
+
+<heading page="4" section="**Good practice**" source="author" id="/page/3/SectionHeader/6" level="1">
+# **Good practice**
+</heading>
+
+<text page="4" section="**Good practice**" source="author" id="/page/3/Text/7">
+The QAA review team identified the following features of **good practice** at the British  University in Dubai.
+</text>
+
+<list page="4" section="**Good practice**" source="author" id="/page/3/ListGroup/219">
+- The establishment, maintenance and effective operation of a dedicated Office  (Office for Quality and Institutional Effectiveness) with responsibility for quality  assurance, extended to incorporate managing the quality systems and closing  the loop in processes such as the assessment of teaching (ESG Standard 1.1).
+- The formation and operation of a stakeholder Advisory Board with a focused strategic, operational and advisory remit (ESG Standard 1.2).
+- The establishment and maintenance of a Doctoral Training Centre to further  enhance institutional research and scholarship priorities and support all students  and staff (ESG Standard 1.3).
+- The focus on learner independence, equity and inclusion for 'students of  determination' (those with additional needs) (ESG Standard 1.3).
+- The submission of model and/or indicative answers for assessment by the external  examiner along with assessment briefs and rubrics, as part of the assessment  process (ESG Standard 1.3).
+- The introduction of a bespoke feature on the student intranet, allowing enquiries  and requests to be tracked in real time by both University staff and individual  students (ESG Standard 1.7).
+</list>
+
+
+<heading page="4" section="**Recommendations **" source="author" id="/page/3/SectionHeader/14" level="1">
+# **Recommendations **
+</heading>
+
+<text page="4" section="**Recommendations **" source="author" id="/page/3/Text/15">
+The QAA review team makes the following **recommendations** to the British University  in Dubai.
+</text>
+
+<list page="4" section="**Recommendations **" source="author" id="/page/3/ListGroup/220">
+- To further strengthen the existing capacity and resource within the University for  subject specialists to develop pedagogically enhanced programmes across a range  of modes of delivery (ESG Standard 1.2).
+- To further develop and expand careers support and guidance for both existing  students and alumni (ESG Standard 1.6).
+- To consolidate the University's existing guidance and expertise in addressing diversity and equality, and to extend this expertise more broadly across faculties (ESG Standard 1.6).
+- To review in partnership with student representatives the discharge of their role and  responsibilities, and the pathways to further enhance student engagement and  involvement (ESG Standard 1.7).
+</list>
+
+</page>
+<page number="5">
+
+<heading page="5" section="**Explanation of the findings about the British University ** **in Dubai**" source="author" id="/page/4/SectionHeader/1" level="1">
+# **Explanation of the findings about the British University ** **in Dubai**
+</heading>
+
+<text page="5" section="**Explanation of the findings about the British University ** **in Dubai**" source="author" id="/page/4/Text/2">
+This section explains the review findings in more detail.
+</text>
+
+<text page="5" section="**Explanation of the findings about the British University ** **in Dubai**" source="author" id="/page/4/Text/3">
+Terms that may be unfamiliar to some readers have been included in a[ brief glossary](#page-22-0) at  the end of this report. A fuller[ glossary of terms](https://www.qaa.ac.uk/Glossary) is available on the QAA website, and formal  definitions of certain terms may be found in the operational description and handbook for the  [review method,](https://www.qaa.ac.uk/training-and-services/iqr) also on the QAA website.
+</text>
+
+</page>
+<page number="6">
+
+<heading page="6" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/5/SectionHeader/1" level="2">
+## **Standard 1.1 Policy for quality assurance**
+</heading>
+
+<text page="6" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/5/Text/2">
+**Institutions should have a policy for quality assurance that is made public and forms ** **part of their strategic management. Internal stakeholders should develop and ** **implement this policy through appropriate structures and processes, while involving ** **external stakeholders.**
+</text>
+
+
+<heading page="6" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/5/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="6" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/5/ListGroup/244">
+- 1.1 The University has demonstrated to the review team that it aligns its mission and  goals with its intended academic outcomes, in such a way as to meet the expectations of  both internal and external stakeholders. The Institutional Effectiveness Manual specifies that  the operational responsibility for the creation of an institutional effectiveness model lies with  the Office of Quality and Institutional Effectiveness (OQIE), which is tasked with the overall  deployment and improvement of the quality assessment system. The University in this  context defines institutional effectiveness in terms of the systems and processes which  enable the University to form judgements on its effectiveness of meeting or exceeding goals  and targets; and OQIE achieves this by ensuring that quality assurance policies have been  developed and appropriate and proportionate processes have been outlined.
+- 1.2 Reporting directly to the Vice Chancellor, the OQIE coordinates and oversees the University's oversight and management of Institutional Effectiveness. Over the years,  based on feedback from staff and students, together with recommendations from CAA and  associate universities, these quality assurance systems have been developed and made  more stringent. Part of this process of improvement within the University has been to take  deliberate steps to ensure that these feedback and process loops are closed. For these  reasons, the establishment and maintenance of this office with a University-wide role and  remit is agreed by the team to be an example of **good practice**.
+- 1.3 The operation of the quality systems, and the comprehensiveness and  consistency of their co-dependent operation is evidenced in the schematic of academic  and administrative units, which demonstrate how continual evaluation and improvement  has been conceptualised. This indicates clearly the process flow and laddering between  the different University committees involved in the process and their function/responsibility  for quality assurance has been mapped. These policies and processes comply with the requirements of the CAA's Standards 2019. Meetings with academic staff and support staff  enabled the review team to confirm staff awareness of the commitment to quality assurance  and its operation in practice.
+- 1.4 There is evidence that internal stakeholders have been consulted, contribute to  and are regularly informed of the quality assurance process. Students are able to provide  feedback in several ways, including surveys conducted amongst the student body to capture  the overall student experience; and the equivalent analysis of the research supervision  experience; along with evidence from programme and course level. Students are  represented on quality-oriented committees, including the Academic Staff-Student Liaison  Committee (ASSLC), Boards of Studies (BoS), Academic Board and the Senate.
+- 1.5 Staff are engaged in quality assurance through their membership and participation  in Programme Boards of Studies, ASSLCs, and Board of Examiners while all Deans and  Heads of Programmes are members of, and participate in, the Academic Board and Senate.  The governance structure of the institution is reviewed annually, and is based around a  delegation and accountability framework down from the Academic Board to committees and  subcommittees. Management and staff perceive the structure as working well at present.
+- 1.6 External quality assurance is captured at an operational level through external  examiners who are appointed for all taught programmes. They confirm that programmes
+</list>
+
+</page>
+<page number="7">
+<text page="7" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/6/Text/1">
+delivered are of an appropriate quality and standard when compared to comparable  institutions. External quality assurance is also used to provide independent external  accreditation for programmes run at the University, and the evidence provided shows that  bodies such as the American School for Engineering Management, the Chartered Institute of  Building, and the Project Management Institute have undertaken reviews and concluded that  the quality assurance arrangements of the University are in place and operating effectively. Further external stakeholder views on quality assurance processes are provided by the  meetings of Advisory Boards, and those external members of such boards met by the review  team confirmed their role in this regard, and that the University gives due weight to their  contributions.
+</text>
+
+<list page="7" section="**Standard 1.1 Policy for quality assurance**" source="author" id="/page/6/ListGroup/115">
+- 1.7 The University has approved policies and procedures in place to ensure the quality  and standards of its programmes and awards, and these are available to all staff and  students via the internet and the virtual learning environment (VLE), as well as being made  available to the general public on the University website at [(https://www.buid.ac.ae/discover](https://www.buid.ac.ae/discover-buid/policies/)[buid/policies/)](https://www.buid.ac.ae/discover-buid/policies/). These processes include arrangements to amend, adapt and renew policies  themselves, and these are overseen either by the Academic Board and Senate (for  academic matters) or by the University Council (for staff related or strategic issues). The  team evidenced the effective operation of this policy, and the discharge of the requirement  for an annual review of all quality assurance policies, by reference to changes to the  Class Size policy and to the Undergraduate Assessment policy. Responsibility for the  dissemination and transmission of changes to policies is vested in the OQIE, and the team  reviewed evidence which confirmed these arrangements operated effectively in practice.
+- 1.8 Overall, the review team found that the policies and procedures, and underpinning  arrangements for quality assurance are robust, and that development and implementation  occurs with input from both internal and external stakeholders. On this basis, the review  team concludes that Standard 1.1 is **met**.
+</list>
+
+</page>
+<page number="8">
+
+<heading page="8" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/7/SectionHeader/1" level="2">
+## **Standard 1.2 Design and approval of programmes**
+</heading>
+
+<text page="8" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/7/Text/2">
+**Institutions should have processes for the design and approval of their programmes. ** **The programmes should be designed so that they meet the objectives set for them, ** **including the intended learning outcomes. The qualification resulting from a ** **programme should be clearly specified and communicated, and refer to the correct ** **level of the national qualifications'** **framework for higher education and, consequently, ** **to the Framework for Qualifications of the European Higher Education Area.**
+</text>
+
+
+<heading page="8" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/7/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="8" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/7/ListGroup/235">
+- 2.1 Processes and policies for the development and approval of programmes are  embedded and are aligned to the University's Strategic Plan to focus on an enriched student  experience socially and academically. Further, these are aligned to the CAA and the Quality  Framework (QF Emirates) ensuring students are registered for programmes which are  widely recognised and licensed. There is a detailed and robust eight-step institutional  approval process for programme approval and minor/major changes that requires  programme teams to collaborate widely, including with students, employers, Advisory Board  and, where appropriate, professional bodies and one or more University partners. These  examples of wide stakeholder engagement with the design of programmes are augmented  by evidence supporting the acquisition of feedback from existing students on proposed  changes.
+- 2.2 Senior staff make effective use of the Advisory Board and OQIE to gain market  intelligence at strategic and local levels and this input informs the development of new  programmes and their content. The Advisory Board comprises external industry and  academic partners as well as staff and alumni. Students do not form part of this group but  their voice is gathered through surveys which inform the proposal under consideration. New programmes are reviewed quinquennially to ensure market validity and relevance.  The Advisory Board takes a central role in this process advising on curriculum content and  wider skills and knowledge development from which students will benefit, and the review  team confirmed the centrality of this role in discussions with the Vice Chancellor, senior staff  and stakeholders. For example, the Advisory Board has helped to develop a view on the  potential for dual awards with other organisations of interest as well as offering internships  to undergraduate students on the CAA compulsory placement. Alumni in the Advisory Board  have also provided valuable input into the skills aspect of the curriculum, advising on what  current employers may be seeking in graduates in the medium/long term.
+- 2.3 The CAA requires higher education institutions to use employers to inform the  curriculum, and the University has used this requirement as a basis for extending and  developing these significant relationships for the benefit of students and the Institution  as a whole, and this is supported by stakeholders. The review team agreed that the  extensive use of the stakeholder Advisory Board by the University represents **good ** **practice**.
+- 2.4 A key part of the approval process is to ensure that, wherever possible,  programmes gain additional validity and relevance through external accreditation. Where  multiple bodies are available for accreditation, the one which has the broadest appeal to  prospective students and employers is prioritised. Students underscored the value of these  arrangements in the meeting with the review team, stating that the level of independent  external accreditation is a significant factor in choosing to enrol at the University.
+- 2.5 Staff expertise is a starting point for designing programmes both in terms of  generating ideas for portfolio expansion as well as for curriculum content, and significant use  is made of benchmarking programmes in development with those that exist in the
+</list>
+
+</page>
+<page number="9">
+<text page="9" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/8/Text/1">
+international market, including to the level of scrutinising learning outcomes. A whole  organisational approach is taken with the creation of new programmes. Professional  Services play a vital role in ensuring appropriate marketing and administration is set up as  well as ensuring classrooms, IT and specialist equipment and library resources are in place  before the new programme commences. The review team considered that these strengths  serve the University well in its current form, but that as additional developments occur it is  **recommended** that the University strengthens further the existing capacity and resource  for subject specialists to develop pedagogically enhanced programmes across a range of  modes of delivery.
+</text>
+
+<list page="9" section="**Standard 1.2 Design and approval of programmes**" source="author" id="/page/8/ListGroup/106">
+- 2.6 Programme specifications are key documents in the approval of new programmes  and each of these specifies learning outcomes, credit sizes, and learning hours as well as  mapping each module against the knowledge, skills and competencies. All undergraduate  programmes include a 16-week, full-time placement for which students gain academic credit. The programme specifications detail the requirements for progression to the next level of  study, and those students met by the team confirmed this is clearly explained to them at  Induction and that the documents are readily available to them on the VLE.
+- 2.7 The review team concludes that the University has robust processes for the design  and approval of its programmes. They are designed to meet the objectives set for them,  including the intended learning outcomes, result in qualifications that are clearly specified  and communicated, and align with qualifications and credit frameworks. Overall, the team  concludes that Standard 1.2 is **met**.
+</list>
+
+</page>
+<page number="10">
+
+<heading page="10" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/9/SectionHeader/1" level="2">
+## **Standard 1.3 Student-centred learning, teaching and assessment**
+</heading>
+
+<text page="10" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/9/Text/2">
+**Institutions should ensure that the programmes are delivered in a way that ** **encourages students to take an active role in creating the learning process, and that ** **the assessment of students reflects this approach.**
+</text>
+
+
+<heading page="10" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/9/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="10" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/9/ListGroup/237">
+- 3.1 The University's focus on student experience and learner independence is clearly  articulated in its strategy and supported by staff and students. Students take part in course  development and approval through formal and informal feedback mechanisms and are also  represented on the full range of deliberative committees from Boards of Study to Academic  Board and Senate.
+- 3.2 Each taught module uses a variety of teaching and learning techniques to support  a range of learner types and to motivate students in their learning journey. In addition,  students have a wide range of formal and informal opportunities to engage with staff and  provide feedback on the programme. In the meeting with the Vice Chancellor an example  was provided where students suggested that a different title for the existing Professional  Doctorate in Project Management degree would allow them to enter a wider field of  employment. An additional pathway title was created (Business Management) which later  supported the development of the Professional Doctorate in Business Administration (DBA) programme. The review team saw this as a good example of active student engagement. In  addition, undergraduate students who met with the team confirmed that they are able to  discuss the delivery of their programme in the initial module-level induction and in this way  staff and students are reassured that the delivery of the programme is tailored to the needs  of the cohort, balanced with the accrediting bodies' needs.
+- 3.3 Delivery of programmes is face-to-face by default and class sizes are capped  depending on the level of programme and where specialist rooms are required. Flexible  routes to accessing programmes were introduced in response to the global pandemic. Staff  and students agreed that this was done well and as a result, in some courses, a degree of  flexibility using a hi-flex approach (which gives students the option to attend virtually or in  person to the same sessions) remains.
+- 3.4 All students have access to the Doctoral Training Centre (DTC) to develop their  academic skills. The DTC was established in 2016, and the CAA identified this as best  practice in its 2020 re-licensure report. Sessions range from how to avoid plagiarism to how  to defend a thesis, and these are recorded to encourage wider access. This initiative was  created by the University initially to support PG students to understand the British approach  to education and has since widened its remit as the portfolio has expanded. Tutors from the DTC also go into classes to provide academic support on specific topics such as  referencing. The review team concludes that the establishment and maintenance of the  Doctoral Training Centre is **good practice** in enabling the University to further enhance  educational research and scholarship priorities, and support all students and staff in this.
+- 3.5 Through meetings with senior staff the review team was able to understand the  University's approach to supporting the diverse needs of students. Senior staff are clear  that the approach from leaders and managers through to teaching and support staff is  one of inclusivity and equity, not equality. The institution also benefits from having a global  specialist in a senior role to support, develop and evaluate student support.
+- 3.6 Staff are provided with the opportunity to undergo training on supporting students  who have disclosed a need for additional support, or who have mitigating circumstances, organised by the Equality and Diversity group. Staff with students who have diverse needs  are proactively emailed and provided with access to relevant paperwork and reports to
+</list>
+
+</page>
+<page number="11">
+<text page="11" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/10/Text/1">
+inform their preparation and support for students. Senior staff also commented that they  appreciated, across the University, that not all students disclosed a need and that staff are  additionally trained to look out for signs of students requiring additional support from  teachers and/or student services.
+</text>
+
+<list page="11" section="**Standard 1.3 Student-centred learning, teaching and assessment**" source="author" id="/page/10/ListGroup/221">
+- 3.7 Students with diverse needs are supported in different and bespoke ways and  are, by law, given 25% additional time to complete assessments. Staff also stated they  offer one-to-one sessions to students with additional needs to ensure they are confident  with the material. Students confirmed to the team that those who are classified as a 'person  of determination' by the Ministry are provided with a shadow teacher/teaching assistant.  Differentiation during the global pandemic for students with additional needs included the  ability to attend classes flexibly using the VLE and/or recorded sessions. A recent example  was shared of a student with severe mobility issues being awarded his MA and subsequently  a full scholarship for a DBA. The review team formed the view that the breadth and depth of  the University's commitment to supporting students with diverse needs represents **good ** **practice**.
+- 3.8 In terms of assessment, the University demonstratively uses a combination of  formative and summative approaches, in line with the Learning and Teaching Strategy, all of  which are designed to demonstrate the attainment of one or more learning outcomes. The  assessment requirements within programme specifications range widely from essays and  written examinations to presentations and quizzes. Assessment type and questions are  approved by the relevant external examiners and Dean in line with University policy prior to being sat by students. As part of this process, staff also provide a model answer and/or  indicative answer to the external examiner. This supports the rigour and clarity of the full  assessment process and is assessed by the review team as representing **good practice**.
+- 3.9 The module descriptors detail how the module learning outcomes relate to  programme learning outcomes. Assessment briefs and rubrics are in place for the different levels of study and assessment information is available from the first day of each taught  module. The University has noted that this is not necessarily applied consistently across all  modules and is proactively addressing it through staff development and policies.
+- 3.10 Feedback to support improvement is provided to learners within 15 working days  from submission. Staff are supported to understand what good feedback looks like through  a range of activity such as induction, peer review and moderation meetings in which quality  of feedback is also scrutinised. Feedback is based on the relevant rubric and supplemented  with clear guidance on how to improve to achieve a higher grade. The University was in the  process at the time of the review visit of amending policies to clarify that unclear feedback  was recognised as a justifiable basis for an academic appeal. This sits within a wider context  of established processes and procedures governing academic appeals, which are detailed to  students within their student handbooks. The procedure defines when appeals can and  cannot be made, and provides for a structured hierarchy, commencing with an appeals  committee and escalating if necessary to the Academic Board.
+- 3.11 Based upon the evidence provided, including feedback from staff and students, the  review team concludes that the University has developed diversified approaches of learning,  teaching and assessment, and that consequently Standard 1.3 is **met**.
+</list>
+
+</page>
+<page number="12">
+
+<heading page="12" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/11/SectionHeader/1" level="2">
+## **Standard 1.4 Student admission, progression, recognition and certification**
+</heading>
+
+<text page="12" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/11/Text/2">
+**Institutions should consistently apply pre-defined and published regulations covering ** **all phases of the student 'life cycle', eg student admission, progression, recognition ** **and certification.**
+</text>
+
+
+<heading page="12" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/11/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="12" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/11/ListGroup/223">
+- 4.1 The University provides 'catalogues' (equivalent to prospectuses) for both  undergraduate and postgraduate programmes which outline entry requirements for  the institution's programmes of study, and these are available publicly to prospective  students and employers. These set out the admission requirements in each case, and for  undergraduates, for example, cover both the general principles underpinning recruitment and the specific principles for individual course admission. These general requirements  include a statement as to which regulations governing admission are being addressed (UAE  Standards), and a clear and unambivalent assurance to applicants confirming a nondiscriminatory approach. This is supported by more course-specific requirements, setting out  the admissions criteria in terms of qualifications required and English language proficiency  level needed. These catalogues reflect the undergraduate and postgraduate admissions  policies and procedures, which have themselves been approved by the University Council.  The undergraduate policy was approved by the University Council at its most recent revision  (September 2019) and reiterates both general and programme-specific admissions  requirements. These policies are also publicly available on the University website.
+- 4.2 The University also has a suite of policies and standard documentation which  supports individual aspects of the student admission process, and which are also publicly  available, including the arrangements for credit transfer. The review team concluded that in  theory the design of these policies and associated documents enables the Standard to be  met.
+- 4.3 To test how these arrangements work in practice, the team reviewed the policy  documents in context by meeting staff involved with admission, progression, recognition and  certification, as well as meeting a range of students from undergraduate and postgraduate  programmes, covering full and part-time modes of study, and including both those with a  representative role and those without.
+- 4.4 Admissions policies are in line with the requirements of the CAA and Ministry of  Education. All undergraduate students are required to be interviewed before admission.  Shortlisted PhD candidates are also interviewed prior to an offer of study being made.  Master's students are interviewed if the admission tutor requests that or on re-admission.  The University uses a structured interview process, and also welcomes contact from  prospective students prior to interview to have informal discussions with members of the  academic team. Applicants are sent a conditional or confirmed offer letter depending on the  documents they have submitted. If the applicants have met all the admission requirements  including documents, they are sent a confirmed offer letter, and students receive an  induction when they join the institution, which covers a range of useful information. Comprehensive details of the respective induction processes are provided to students in the  student handbooks, and on the VLE, outlining the breadth and depth of induction, including  both academic and pastoral aspects of the University life-cycle. This encompasses support  services including library and learning resources, information about expectations and  entitlement of students, and the use of a skills audit as a diagnostic assessment tool.
+- 4.5 Students noted that admissions staff were helpful, and that all queries raised  during the period up to and including their induction had been answered quickly and
+</list>
+
+</page>
+<page number="13">
+<text page="13" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/12/Text/1">
+comprehensively. They reported no problems with the operation of their admission  processes.
+</text>
+
+<list page="13" section="**Standard 1.4 Student admission, progression, recognition and certification**" source="author" id="/page/12/ListGroup/161">
+- 4.6 Data on recruitment and admissions, allowing for year-on-year monitoring including  of intake demographics, is produced by the University, and this data is considered at  Academic Board and Senate, prior to inclusion in the Vice Chancellor's report to the full  Council. The report to the full Council notes discernible signs of recovery in student numbers ascribed to the recovery from the pandemic, and the impact of new programmes including  those relating to Artificial Intelligence (AI). Gender distribution is balanced at 50:50 over the  long term, although the most recent intake splits 58:42 male to female. The percentage  recruitment of Emirati nationals remains at or close to 40%, as it has for the past five  academic years.
+- 4.7 Most students progress throughout their programme of studies. This is closely  monitored by the University, and the data examined by the team covering the period  between 2018 and 2021 showed retention rates of 97% for undergraduate students, 95%  for master's degree students, and 98% for doctoral students. The University has policies  for students who fail to meet progression requirements, including rules to ensure recognition  of studies undertaken by master's students who exit from programmes prematurely. The  updated doctoral student progression review details a range of check-in points with doctoral  students and consequences for failure to satisfactorily meet these requirements.
+- 4.8 The University has in place credit transfer arrangements towards its undergraduate  and postgraduate programme from other recognised higher education institutions under its  External Credit Transfer policy, most recently reviewed and updated in August 2021. This  provides for accreditation of prior learning to be undertaken at or prior to admission stage,  and involves recognition of attainment from programmes approved by the Ministry for  Education via accreditation or equivalence processes. A structured approval process is in  place in each instance and ends with a recommendation from the Dean of the relevant  faculty being considered by the Board of Examiners. The policy itself confirms that APEL  (Accreditation of Prior Experiential Learning) is not accepted, and in discussions in the final  meeting the team confirmed with the Vice Chancellor and the Registrar that such  experiential learning is not recognised by the Ministry of Education.
+- 4.9 The review team concludes that the processes for the admission of students, the  recognition of prior learning, and the arrangements for graduation and certification align with  the requirements outlined in Standard 1.4 and is therefore **met**.
+</list>
+
+</page>
+<page number="14">
+
+<heading page="14" section="**Standard 1.5 Teaching staff**" source="author" id="/page/13/SectionHeader/1" level="2">
+## **Standard 1.5 Teaching staff**
+</heading>
+
+<text page="14" section="**Standard 1.5 Teaching staff**" source="author" id="/page/13/Text/2">
+**Institutions should assure themselves of the competence of their teachers. They ** **should apply fair and transparent processes for the recruitment and development ** **of the staff.**
+</text>
+
+
+<heading page="14" section="**Standard 1.5 Teaching staff**" source="author" id="/page/13/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="14" section="**Standard 1.5 Teaching staff**" source="author" id="/page/13/ListGroup/220">
+- 5.1 The University has a clear Recruitment Policy and an associated Academic  Promotion Policy, both of which were most recently reviewed in February 2021 and both of  which were signed off by the Academic Council. Explicit mention in both documents confirms  adherence to the laws of the UAE, and there is also a specific commitment to recruit in a  non-discriminatory manner. Staff are recruited with qualifications relevant to their grade, for  example those with a Professorial title have PhDs and student supervision experience as  well as appropriate teaching expertise. On occasion, as part of the recruitment process, applicants are asked to deliver a sample lesson to ensure their teaching skills are to the  required standard. The balance between full-time and part-time staff, which is planned to  deliver a stable academic presence for students, is part of the licence conditions and  monitored by the Ministry of Education.
+- 5.2 The Promotion Policy for Associate/Professor requires those applying to  demonstrate excellence in three areas: teaching, research and community engagement.  This is in line with the institution's strategic plan and mission to be a research-evidenced  teaching institution. Staff were able to articulate the approach to integrating scholarly activity  and research into the curriculum and delivery approach. It was noted by students as well as  staff that as a result of this integration a number of students have published research papers  in collaboration with tutors. Joint publications have also been the topic of the Advisory Board  meetings showing widespread support to embed and integrate teaching and research.
+- 5.3 All academic staff have an Induction programme which supports them in understanding the University's approach to teaching and engaging learners. The induction  includes development of assessment writing skills. New inexperienced staff are allocated an  experienced mentor for their first year and meet with them at least twice during that time. It  was also noted in the final meeting that all staff leaving the University have an exit interview  with the Vice Chancellor as part of the commitment to learning and quality.
+- 5.4 There are weekly University-wide meetings in which all academic staff discuss  teaching, learning and assessment challenges and share good practice. A recent topic  was on how to approach the challenge of ghost-writing across the faculties which will inform  a future policy that is currently in development. Staff value this forum as a way of sharing challenges and solutions. The University has also recently launched a Centre for Digital  Education which encourages research across different providers and also for internal staff.  Staff appreciated the work of this new centre in developing resources and skills to enable  tutors to transition to online learning as a result of the global pandemic.
+- 5.5 Staff undergo annual reviews during which development opportunities from within  the University and externally are discussed as well as individual research plans. In this way, staff are supported to develop their teaching practice including through conferences,  workshops, one-to-one meetings with their line managers and peer reviews. This was  triangulated with teaching staff during the review process and was regarded as supportive  of the development of teaching knowledge and skills.
+- 5.6 Students spoke highly of tutors and the quality of teaching, and the review team  was able to confirm there is a robust process in place for matching staff to taught modules  based first on expertise and qualifications and secondly on availability. Student feedback on  staff is included in the appraisal review meetings and taken into account for the six-month
+</list>
+
+</page>
+<page number="15">
+<text page="15" section="**Standard 1.5 Teaching staff**" source="author" id="/page/14/Text/1">
+probation period. There is a strong focus on supporting new staff to understand the British  approach and ethos at the University through induction, probation, mentoring, and the appraisal system.
+</text>
+
+<list page="15" section="**Standard 1.5 Teaching staff**" source="author" id="/page/14/ListGroup/132">
+- 5.7 Staff have access to internal funds to support their research development and are  invited to attend the training and events put on by the Doctoral Training Centre. These  sessions are recorded and made available on demand for staff and students. A recent  development in the allocation of research funds is to include the UK partner universities  as collaborative partners in staff research projects as a prerequisite. This new initiative  ties in with the current strategic focus on 'Partnership'. The focus has also stimulated the  recruitment to two joint academic posts and a proposal for a joint research centre with one  of the UK partners. All staff are eligible for funds to support up to three conference events  per year which can include an international conference. In line with the institution's ethos,  staff are encouraged and incentivised to publish following attendance at a conference.
+- 5.8 Mandatory training took place during the global pandemic to ensure staff were  fully supported to deliver using the newly purchased VLE platform. This comprised a  comprehensive suite of CPD including workshops, videos, and a helpdesk all supported by  the Digital Education Centre. The SED provides examples of training materials in the use of  technology to enhance learning and teaching as well as dates those courses ran. Other  training to support the development of learning, teaching and assessment is not mandatory  or regular. Individuals discuss development needs as part of the appraisal process and a  budget is available centrally to support identified needs.
+- 5.9 The University is proactive in measuring and evaluating the outcomes from the  professional development policy, and maintains and periodically reviews its schedule of  professional activity of the academic staff and list of research publications arising.
+- 5.10 The review team concluded that the University's processes for staff recruitment,  professional development and support, and staff performance review align with the  requirements outlined in Standard 1.5. Therefore, the review team concludes that Standard 1.5: Teaching staff is **met**.
+</list>
+
+</page>
+<page number="16">
+
+<heading page="16" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/15/SectionHeader/1" level="2">
+## **Standard 1.6 Learning resources and student support**
+</heading>
+
+<text page="16" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/15/Text/2">
+**Institutions should have appropriate funding for learning and teaching activities and ** **ensure that adequate and readily accessible learning resources and student support ** **are provided.**
+</text>
+
+
+<heading page="16" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/15/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="16" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/15/ListGroup/221">
+- 6.1 The principles for the provision of funding for the development and maintenance of  learning resources and student support are set out in the Strategic Plan 2019-24. Budgets  are allocated in line with the strategy, and monitored and controlled by the Executive Office  under delegated powers. Recent reviews of this strategic approach have led to a focus on  enhancements to the VLE, including an expansion of internet bandwidth, purchase of  additional online licences, and investment in electronic information systems, with an annual  cost in the region of 2 million dirhams a year over the past three years (approximately  £450,000). Longer term resource plans include the construction of an entirely new campus featuring state of the art and technologically advanced facilities for all learners.
+- 6.2 The University has a policy document which covers academic advice, careers  advice and pastoral support, and was most recently approved by the University Council in  August 2021. This defines the roles of key staff, including Personal Tutors, Module Tutors  and Heads of Programme, and signposts the key role of course handbooks in guiding  students to the relevant sources of advice for key specialist areas. The review team  was able to follow the evidence trail through from the policy to the postgraduate and  undergraduate student handbooks and confirm completeness. Students are made aware  of these facilities through an induction programme which covers use of the learning facilities,  the doctoral training centre, and a range of programme-specific information.
+- 6.3 The University has one dedicated member of staff who provides careers advice  and information. This staff member is supported by other team members in the Marketing,  Admissions and Student Services department as needed. Additionally, career guidance and  workshops are provided for current students and recent graduates on CV-writing, interview  practice and networking skills. The University has historically educated postgraduate  students who were concurrently employed. In recent years, it has shifted to educating  undergraduates, who have an increased need for employability resources and careers  support throughout their time at university. Students raised the need for increased careers  support, as did alumni. The team therefore **recommends** that the University further  develops and expands careers support and guidance for both existing students and alumni.
+- 6.4 The University has a range of policies for students with disabilities, and also has a  draft equality and diversity policy. Nevertheless, staff do not currently receive an induction on  supporting students with disabilities, and there is no central repository which brings together  policies affecting these students into one place. The review team therefore **recommends** the University consolidates the existing guidance and expertise around diversity and  equality, and extends this expertise more broadly across the faculties.
+- 6.5 The team tested how well this works in practice by assessing a range of evidence  and meeting students and staff from professional services including the Registrar, academic  staff; and those professional services staff directly involved in the provision of support  services. The team also viewed a video tour of the facilities; and received a demonstration  of the VLE from a student access viewpoint. The video tour encompassed the library, an IT  lab, and a range of subscriptions to research databases to provide off-campus access to  students and staff. Recognising both the effects of the pandemic, and the fact that that many  learners study part time, the University has prioritised online and remote resources including  subscriptions to relevant databases and eBooks. The University has high speed Wi-Fi
+</list>
+
+</page>
+<page number="17">
+<text page="17" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/16/Text/1">
+throughout campus, which was introduced in response to student feedback. During the  COVID-19 outbreak, staff and students worked to find solutions to access specialist software  at home that would otherwise have been available on campus.
+</text>
+
+<list page="17" section="**Standard 1.6 Learning resources and student support**" source="author" id="/page/16/ListGroup/72">
+- 6.6 Students are invited to provide feedback through a range of surveys, and these are  disseminated to heads of department for consideration and action. Instances were cited of  improvements being made as the result of such surveys, including replacement of  engineering packages as more relevant equivalents were available. Performance and  student satisfaction levels are also monitored through KPIs outlined in the strategic plan,  although these are at a developmental stage at present, and currently monitored on a  'reporting only' basis.
+- 6.7 The review team concludes that the University provides appropriate learning and  student support services both online and in person. These services are underpinned by a  suitable level of funding and therefore Standard 1.6: Learning resources and student support  is **met**.
+</list>
+
+</page>
+<page number="18">
+
+<heading page="18" section="**Standard 1.7 Information management**" source="author" id="/page/17/SectionHeader/1" level="2">
+## **Standard 1.7 Information management**
+</heading>
+
+<text page="18" section="**Standard 1.7 Information management**" source="author" id="/page/17/Text/2">
+**Institutions should ensure that they collect, analyse and use relevant information for ** **the effective management of their programmes and other activities.**
+</text>
+
+
+<heading page="18" section="**Standard 1.7 Information management**" source="author" id="/page/17/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="18" section="**Standard 1.7 Information management**" source="author" id="/page/17/ListGroup/218">
+- 7.1 The University has systematic and embedded processes in place for data capture,  analysis and evaluation, and this is operationalised by the OQIE. OQIE is in charge of  coordinating data collection, incorporating student records management, academic  committee minutes, and student surveys, and oversees the administration of institutional  surveys and assessment methods. These surveys and tools assess the experiences and  perspectives of students, alumni, and faculty, providing significant insights into the  educational process. For example, in terms of student numbers, data is collected from  the student admissions department and fed respectively to Faculties or Academic Board,  depending on the locus of responsibility. This process is set out in the Institutional  Effectiveness Manual, most recently updated in May 2020, and approved by the Executive  Office.
+- 7.2 OQIE is in ongoing communication with the faculties, gathering and disseminating  information. An Annual Institutional Effectiveness report is prepared in line with CAA  Standards, and this enables University Management to assess progress against KPIs, and  to plan for enhancement. Sections include Programme Accreditation Status, Student Profile,  Student Admission, Registration, Drop Out, Retention and Completion statistics. Further,  data is also provided on staff. Staff Profiles (Gender, Nationality, Faculty), Staff Training  Undertaken and Staff Research Output are also displayed. For most statistics, the current  year is compared to the previous few years to determine short-term trends. The Strategic  Plan is signed off by the Strategic Planning Board and the University Council, who monitor  KPIs.
+- 7.3 Data from students is similarly collected and incorporated in deliberations, and  this entails outcomes from module and course reviews. There is a process in place for the  recruitment and appointment of student representatives for all courses and levels, and these  individuals provide the student voice to the deliberations of key committees. Students met by the review team are generally aware that there are student representatives and what their  role is, although the level of understanding and engagement does vary from cohort to cohort.  It is recognised that the great majority of the student body studies part-time at the University,  which can be a reason for the variations in coverage. Nonetheless, there would seem to be  an opportunity for the University to review in partnership with student representatives the  discharge of their role and responsibilities, and the pathways to further enhance student  engagement and involvement, and the review team **recommends** that such an exercise is  carried out.
+- 7.4 Information, in particular decisions made in committees, is circulated via the  minutes of meetings, first with attendees, then posted on a shared drive. Students met  by the review team were able to cite instances, for example a perceived mismatch in  assignment workload, which gave them confidence that concerns raised were being  discussed and actioned. Students have access to a wide variety of information via the  intranet. Students can check their programme requirements, the courses they have  undertaken, their grades, policy documents and financial information, such as fees owing  and paid, as well as logging enquiries or requests. The progress of these requests and  their related relevant policies are tracked through a flow chart so students can monitor  their progress. The review team agrees that this bespoke feature of the student intranet is  **good practice**.
+</list>
+
+</page>
+<page number="19">
+<text page="19" section="**Standard 1.7 Information management**" source="author" id="/page/18/Text/1">
+7.5 The University ensures that relevant data and information are collected, analysed,  and used to inform the management and continual improvement of programmes, allowing  Standard 1.7 to be **met**.
+</text>
+
+</page>
+<page number="20">
+
+<heading page="20" section="**Standard 1.8 Public information**" source="author" id="/page/19/SectionHeader/1" level="2">
+## **Standard 1.8 Public information**
+</heading>
+
+<text page="20" section="**Standard 1.8 Public information**" source="author" id="/page/19/Text/2">
+**Institutions should publish information about their activities, including programmes, ** **which is clear, accurate, objective, up-to date and readily accessible.**
+</text>
+
+
+<heading page="20" section="**Standard 1.8 Public information**" source="author" id="/page/19/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="20" section="**Standard 1.8 Public information**" source="author" id="/page/19/ListGroup/133">
+- 8.1 The main sources of publicly available information are the website and the student  handbook. Responsibility for information at an institutional level rests with the Registrar and  the Chief Administrative Officer. The design in practice allows the standard to be met.
+- 8.2 The review team tested how this works in practice by reviewing the publicly  available information and process governing it, and by meeting students, alumni, and senior  staff.
+- 8.3 The website is the principal source of information for the general public, prospective  and current students, alumni and others with an interest in the University. Information  published on the website encompasses the institution's mission, the student handbooks, the academic calendar, admission requirements, information about the facilities, and copies  of policies and procedures [(www.buid.ac.ae)](http://www.buid.ac.ae/).
+- 8.4 There is also a range of information about programmes, including details about  learning outcomes, course catalogues, the programme structure and fees. In addition, the  University publishes a newsletter, and a catalogue (prospectus) for both postgraduate and  undergraduate programmes. Students met by the review team were satisfied with the  information provided to them.
+- 8.5 Information governance around publicly facing information is overseen by the Communications, Marketing and External Relations (CMER) department. Individual  department heads are responsible for the content of their information pages, which are then  passed to the CMER to ratify, and then to the Registrar and Chief Administrative Officer to  approve. Before any such information can be published, it must be approved by the Ministry  for Education.
+- 8.6 The University provides information about its activities, programmes and overall  direction to both prospective students and the public that is clear, objective and readily  accessible. The team concludes that Standard 1.8: Public information is **met**.
+</list>
+
+</page>
+<page number="21">
+
+<heading page="21" section="**Standard 1.9 Ongoing monitoring and periodic review of programmes**" source="author" id="/page/20/SectionHeader/1" level="2">
+## **Standard 1.9 Ongoing monitoring and periodic review of programmes**
+</heading>
+
+<text page="21" section="**Standard 1.9 Ongoing monitoring and periodic review of programmes**" source="author" id="/page/20/Text/2">
+**Institutions should monitor and periodically review their programmes to ensure that ** **they achieve the objectives set for them and respond to the needs of students and ** **society. These reviews should lead to continuous improvement of the programme. ** **Any action planned or taken as a result should be communicated to all those ** **concerned.**
+</text>
+
+
+<heading page="21" section="**Standard 1.9 Ongoing monitoring and periodic review of programmes**" source="author" id="/page/20/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="21" section="**Standard 1.9 Ongoing monitoring and periodic review of programmes**" source="author" id="/page/20/ListGroup/220">
+- 9.1 The University monitors and systematically reviews its programmes within the  overall framework of regulatory requirements in Dubai, where each programme is to be  revised, as a minimum, every five years. This is achieved through a comprehensive and  structured process involving internal review mechanisms, benchmarking with comparable  institutions, and the requirements of partner universities and accrediting bodies. This  process has been developed and refined over the last 15 years.
+- 9.2 The main accreditation body in Dubai is the Commission for Academic Accreditation  (CAA). CAA programme accreditation status is valid for up to five years, after which  reaccreditation is required. All educational programmes at the University must be formally accredited by the UAE Ministry of Education through the CAA. The review team saw  evidence of the robustness of this process in the form of renewal of programme accreditation  correspondence, including a defined process for ensuring that required actions from the  review are undertaken before formal approval or reapproval is granted.
+- 9.3 The University underpins this requirement with a structured process under the  programme quality review policy (PQR), which requires all new programmes for the first  three years of their operation to have an internal quality review, after which they are  reviewed every other year. The PQR process is carried out by a panel of University staff,  usually selected from faculties other than the one in which the programme being reviewed  is situated. In preparation for the review, the OQIE compiles a standard portfolio of  documentation, including the annual programme self-study reports; analysis of  questionnaires relevant to the programme; programme handbook; module reviews; external  examiner reports (this includes both taught programmes and thesis); copy of the previous  review and a report on actions taken on the recommendations; minutes of the Board of  Studies; the Professional Advisory Group; and Staff-Student Liaison Committee.
+- 9.4 The panel compiles a report identifying both points of good practice, and areas of  concern, along with a series of action points. Actions required are monitored centrally by the  OQIE in conjunction with the relevant Dean, and overseen by the Academic Board, who hold  the faculty to account for the timely and complete implementation of all actions arising. OQIE  maintains a process chart to provide a clear trail of progress at any one time.
+- 9.5 The self-study reports are one of the key documents in the internal review process,  and are produced even in the years where a PQR is not being undertaken. They are  prepared to a template devised by OQIE, and the accompanying rubric describes them as  primarily a reflexive exercise undertaken annually by the Head of Programme or Programme  Coordinator for discussion with the Dean of Faculty. They provide an opportunity to look at  the areas which need any intervention for performance enhancement, and bring together  student feedback, external examiner comments, and detailed course-level data.
+- 9.6 The review team concludes that the University monitors and regularly reviews its  academic programmes with the aim to continuously improve the quality of the programmes  and modules. The review team concludes that on this basis, Standard 1.9 is **met**.
+</list>
+
+</page>
+<page number="22">
+
+<heading page="22" section="**Standard 1.10 Cyclical external quality assurance**" source="author" id="/page/21/SectionHeader/1" level="2">
+## **Standard 1.10 Cyclical external quality assurance**
+</heading>
+
+<text page="22" section="**Standard 1.10 Cyclical external quality assurance**" source="author" id="/page/21/Text/2">
+**Institutions should undergo external quality assurance in line with the ESG on a ** **cyclical basis.**
+</text>
+
+
+<heading page="22" section="**Standard 1.10 Cyclical external quality assurance**" source="author" id="/page/21/SectionHeader/3" level="2">
+## 
+</heading>
+
+<list page="22" section="**Standard 1.10 Cyclical external quality assurance**" source="author" id="/page/21/ListGroup/234">
+- 10.1 The University has the structures, policies and processes in place to continuously  undertake quality assurance. The academic accreditation is undertaken with CAA as a  condition of licence to operate, and the University must apply for renewal of licence every  five years. The University has gained CAA accreditation on multiple occasions, the latest  being November 2020. There is also evidence of accreditation with CAA at an individual  course level.
+- 10.2 External examiners are a particularly important source of objective externality in  relation to programme review, and this is directed by the University through its policy on the  appointment, role and expectations of external examiners. External examiners are provided  with guidance on their role, and a standard template report is provided for them to ensure  focus on key areas of programme quality. These reports are picked up as part of the  programme quality review process, and implementation of actions arising is monitored  and overseen by the Academic Board.
+- 10.3 Depending on the programme, accreditation occurs with specific specialist external  professional bodies. These include PMI (Project Management Institute) through its Global  Accreditation Committee (GAC), ASEM (American Society of Engineering Management),  and CIoB (Chartered Institute of Building). In deciding which professional body to be  accredited by, senior management along with academic staff evaluate the significance of the  awarding body and its standing in the marketplace. Academic staff use their professional  expertise to identify suitable accrediting organisations, and to recommend them for the  benefit of students on the programme. Endorsement from a professional body helps with  standing with CAA, and in moving into new curriculum areas. Where individual programmes  are accredited by a professional body, they are subject to that body's regulatory processes,  and output from their reviews, in the form of required action, are similarly monitored via the  OQIE and overseen by the Academic Board. Students also noted the importance of external  accreditation with academic and professional bodies. CAA accredited courses are a  requirement in some of the students' workplaces. Accreditation by professional bodies was  perceived by students to be important, especially in the private sector. External accreditation  was seen as a qualification which is more reliable and less susceptible to forgery.
+- 10.4 External assurance is also provided by the English UK partner universities, whose  quality review processes were originally undertaken at programme level. Following a  discussion at Senate in 2017, a change of focus was agreed such that partner university  reviews would now be carried out jointly by more than one university, and would focus on  institutional rather than programme-based quality. The programme has been disrupted by  the pandemic, but the review team was able to review one such report and confirmed that  points arising have been incorporated into the quality review processes.
+- 10.5 Developmental steps have also been taken to benchmark the University against  comparative institutions such as Dar Al-Hekma University in Saudi Arabia in the areas of  learning and teaching facilities, self-income, IT services and library facilities and equipment.  The University have also embarked on a MENA (Middle East and North African countries)  Benchmark 2020-21 exercise, encompassing a range of KPIs across the whole ambit of the  University, including student data, finance, scholarships and rankings.
+- 10.6 The University's established policies and procedures are effective in ensuring the  continuous review of its programmes. External reviews by CAA, external examiners,
+</list>
+
+</page>
+<page number="23">
+<text page="23" section="**Standard 1.10 Cyclical external quality assurance**" source="author" id="/page/22/Text/1">
+professional bodies and partner English universities further support continuous review.  Based upon the evidence provided, the review team concludes that there is an effective  cyclical quality assurance process in place, and that consequently Standard 1.10 is **met**.
+</text>
+
+</page>
+<page number="24">
+
+<heading page="24" section="**Glossary**" source="author" id="/page/23/SectionHeader/1" level="1">
+# **Glossary**
+</heading>
+
+
+<heading page="24" section="**Action plan**" source="author" id="/page/23/SectionHeader/2" level="3">
+### **Action plan**
+</heading>
+
+<text page="24" section="**Action plan**" source="author" id="/page/23/Text/3">
+A plan developed by the institution after the QAA review report has been published, which  is signed off by the head of the institution. It responds to the recommendations in the report  and gives any plans to capitalise on the identified good practice.
+</text>
+
+
+<heading page="24" section="**Annual monitoring**" source="author" id="/page/23/SectionHeader/4" level="3">
+### **Annual monitoring**
+</heading>
+
+<text page="24" section="**Annual monitoring**" source="author" id="/page/23/Text/5">
+Checking a process or activity every year to see whether it meets expectations for standards  and quality. Annual reports normally include information about student achievements and  may comment on the evaluation of courses and modules.
+</text>
+
+
+<heading page="24" section="**Collaborative arrangement**" source="author" id="/page/23/SectionHeader/6" level="3">
+### **Collaborative arrangement**
+</heading>
+
+<text page="24" section="**Collaborative arrangement**" source="author" id="/page/23/Text/7">
+A formal arrangement between a degree-awarding body and another higher education  provider. These may be degree-awarding bodies with which the institution collaborates  to deliver higher education qualifications on behalf of the degree-awarding bodies.  Alternatively, they may be other delivery organisations who deliver part or all of the  institution's higher education programmes.
+</text>
+
+
+<heading page="24" section="**Degree-awarding body**" source="author" id="/page/23/SectionHeader/8" level="3">
+### **Degree-awarding body**
+</heading>
+
+<text page="24" section="**Degree-awarding body**" source="author" id="/page/23/Text/9">
+Institutions that have authority - for example, from a national agency - to issue their own  awards. Institutions applying to IQR may be degree-awarding bodies themselves, or may  collaborate to deliver higher education qualifications on behalf of degree-awarding bodies.
+</text>
+
+
+<heading page="24" section="**Desk-based analysis**" source="author" id="/page/23/SectionHeader/10" level="3">
+### **Desk-based analysis**
+</heading>
+
+<text page="24" section="**Desk-based analysis**" source="author" id="/page/23/Text/11">
+An analysis by the review team of evidence, submitted by the institution, that enables the  review team to identify its initial findings and subsequently supports the review team as it  develops its review findings.
+</text>
+
+
+<heading page="24" section="**Enhancement **" source="author" id="/page/23/SectionHeader/12" level="3">
+### **Enhancement **
+</heading>
+
+<text page="24" section="**Enhancement **" source="author" id="/page/23/Text/13">
+See **quality enhancement**
+</text>
+
+
+<heading page="24" section="**European Standards and Guidelines**" source="author" id="/page/23/SectionHeader/14" level="3">
+### **European Standards and Guidelines**
+</heading>
+
+<text page="24" section="**European Standards and Guidelines**" source="author" id="/page/23/Text/15">
+For details, including the full text on each standard, see [www.enqa.eu/esg-standards-and](http://www.enqa.eu/esg-standards-and-guidelines-for-quality-assurance-in-the-european-higher-education-area)[guidelines-for-quality-assurance-in-the-european-higher-education-area](http://www.enqa.eu/esg-standards-and-guidelines-for-quality-assurance-in-the-european-higher-education-area)
+</text>
+
+
+<heading page="24" section="**Examples of practice**" source="author" id="/page/23/SectionHeader/16" level="3">
+### **Examples of practice**
+</heading>
+
+<text page="24" section="**Examples of practice**" source="author" id="/page/23/Text/17">
+A list of policies and practices that a review team may use when considering the extent to  which an institution meets the standards for review. The examples should be considered as  a guide only, in acknowledgment that not all of them will be appropriate for all institutions.
+</text>
+
+
+<heading page="24" section="**Externality**" source="author" id="/page/23/SectionHeader/18" level="3">
+### **Externality**
+</heading>
+
+<text page="24" section="**Externality**" source="author" id="/page/23/Text/19">
+The use of experts from outside a higher education provider, such as external examiners or  external advisers, to assist in quality assurance procedures.
+</text>
+
+
+<heading page="24" section="**Facilitator**" source="author" id="/page/23/SectionHeader/20" level="3">
+### **Facilitator**
+</heading>
+
+<text page="24" section="**Facilitator**" source="author" id="/page/23/Text/21">
+The member of staff identified by the institution to act as the principal point of contact for the  QAA officer and who will be available during the review visit to assist with any questions or  requests for additional documentation.
+</text>
+
+
+<heading page="24" section="**Good practice**" source="author" id="/page/23/SectionHeader/22" level="3">
+### **Good practice**
+</heading>
+
+<text page="24" section="**Good practice**" source="author" id="/page/23/Text/23">
+A feature of good practice is a process or way of working that, in the view of a QAA review  team, makes a particularly positive contribution to the institution's higher education provision.
+</text>
+
+</page>
+<page number="25">
+
+<heading page="25" section="**Lead student representative**" source="author" id="/page/24/SectionHeader/1" level="3">
+### **Lead student representative**
+</heading>
+
+<text page="25" section="**Lead student representative**" source="author" id="/page/24/Text/2">
+An optional voluntary role that is designed to allow students at the institution applying for  IQR to play a central part in the organisation of the review.
+</text>
+
+
+<heading page="25" section="**Oversight**" source="author" id="/page/24/SectionHeader/3" level="3">
+### **Oversight**
+</heading>
+
+<text page="25" section="**Oversight**" source="author" id="/page/24/Text/4">
+Objective scrutiny, monitoring and quality assurance of educational provision.
+</text>
+
+
+<heading page="25" section="**Peer reviewers**" source="author" id="/page/24/SectionHeader/5" level="3">
+### **Peer reviewers**
+</heading>
+
+<text page="25" section="**Peer reviewers**" source="author" id="/page/24/Text/6">
+Members of the review team who make the decisions in relation to the review of the  institution. Peer reviewers have experience of managing quality and academic standards  in higher education or have recent experience of being a student in higher education.
+</text>
+
+
+<heading page="25" section="**Periodic review**" source="author" id="/page/24/SectionHeader/7" level="3">
+### **Periodic review**
+</heading>
+
+<text page="25" section="**Periodic review**" source="author" id="/page/24/Text/8">
+An internal review of one or more programmes of study, undertaken by institutions  periodically (typically once every five years), using nationally agreed reference points,  to confirm that the programmes are of an appropriate academic standard and quality.  The process typically involves experts from other higher education providers. It covers  areas such as the continuing relevance of the programme, the currency of the curriculum  and reference materials, the employability of graduates and the overall performance of  students. Periodic review is one of the main processes whereby institutions can continue  to assure themselves about the academic quality and standards of their awards.
+</text>
+
+
+<heading page="25" section="**Programme of study**" source="author" id="/page/24/SectionHeader/9" level="3">
+### **Programme of study**
+</heading>
+
+<text page="25" section="**Programme of study**" source="author" id="/page/24/Text/10">
+An approved course of study that provides a coherent learning experience and normally  leads to a qualification. UK higher education programmes must be approved and validated  by UK degree-awarding bodies.
+</text>
+
+
+<heading page="25" section="**Quality enhancement**" source="author" id="/page/24/SectionHeader/11" level="3">
+### **Quality enhancement**
+</heading>
+
+<text page="25" section="**Quality enhancement**" source="author" id="/page/24/Text/12">
+The process by which higher education providers systematically improve the quality of  provision and the ways in which students' learning is supported.
+</text>
+
+
+<heading page="25" section="**QAA officer**" source="author" id="/page/24/SectionHeader/13" level="3">
+### **QAA officer**
+</heading>
+
+<text page="25" section="**QAA officer**" source="author" id="/page/24/Text/14">
+The person appointed by QAA to manage the review programme and to act as the liaison  between the review team and the institution.
+</text>
+
+
+<heading page="25" section="**Quality assurance**" source="author" id="/page/24/SectionHeader/15" level="3">
+### **Quality assurance**
+</heading>
+
+<text page="25" section="**Quality assurance**" source="author" id="/page/24/Text/16">
+The systematic monitoring and evaluation of learning and teaching, and the processes  that support them, to make sure that the standards of academic awards meet the necessary  standards, and that the quality of the student learning experience is being safeguarded  and improved.
+</text>
+
+
+<heading page="25" section="**Recognition of prior learning**" source="author" id="/page/24/SectionHeader/17" level="3">
+### **Recognition of prior learning**
+</heading>
+
+<text page="25" section="**Recognition of prior learning**" source="author" id="/page/24/Text/18">
+Assessing previous learning that has occurred in any of a range of contexts including school,  college and university, and/or through life and work experiences.
+</text>
+
+
+<heading page="25" section="**Recommendation**" source="author" id="/page/24/SectionHeader/19" level="3">
+### **Recommendation**
+</heading>
+
+<text page="25" section="**Recommendation**" source="author" id="/page/24/Text/20">
+Review teams make recommendations where they agree that an institution should consider  developing or changing a process or a procedure in order to improve the institution's higher  education provision.
+</text>
+
+
+<heading page="25" section="**Reference points**" source="author" id="/page/24/SectionHeader/21" level="3">
+### **Reference points**
+</heading>
+
+<text page="25" section="**Reference points**" source="author" id="/page/24/Text/22">
+Statements and other publications that establish criteria against which performance can  be measured.
+</text>
+
+</page>
+<page number="26">
+
+<heading page="26" section="**Self-evaluation document**" source="author" id="/page/25/SectionHeader/1" level="3">
+### **Self-evaluation document**
+</heading>
+
+<text page="26" section="**Self-evaluation document**" source="author" id="/page/25/Text/2">
+A self-evaluation report by an institution. The submission should include information about  the institution as well as an assessment of the effectiveness of its quality systems.
+</text>
+
+
+<heading page="26" section="**Student submission**" source="author" id="/page/25/SectionHeader/3" level="3">
+### **Student submission**
+</heading>
+
+<text page="26" section="**Student submission**" source="author" id="/page/25/Text/4">
+A document representing student views that describes what it is like to be a student at the  institution, and how students' views are considered in the institution's decision-making and  quality assurance processes.
+</text>
+
+
+<heading page="26" section="**Validation**" source="author" id="/page/25/SectionHeader/5" level="3">
+### **Validation**
+</heading>
+
+<text page="26" section="**Validation**" source="author" id="/page/25/Text/6">
+The process by which an institution ensures that its academic programmes meet  expected academic standards and that students will be provided with appropriate learning  opportunities. It may also be applied to circumstances where a degree-awarding institution  gives approval for its awards to be offered by a partner institution or organisation.
+</text>
+
+<text page="26" section="**Validation**" source="author" id="/page/25/Text/7">
+**QAA2686** **-** **R13259** **-** **Jul 22**
+</text>
+
+<text page="26" section="**Validation**" source="author" id="/page/25/Text/8">
+© The Quality Assurance Agency for Higher Education 2022 Southgate House, Southgate Street, Gloucester GL1 1UB Registered charity numbers 1062746 and SC037786
+</text>
+
+<text page="26" section="**Validation**" source="author" id="/page/25/Text/9">
+Tel: +44 1452 557000 Website: [www.qaa.ac.uk](http://www.qaa.ac.uk/)
+</text>
+
+</page>
+</paper>
