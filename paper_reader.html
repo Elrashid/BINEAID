@@ -635,6 +635,7 @@ async function showPaper(rpId) {
             <option value="important" ${currentTag === 'important' ? 'selected' : ''}>Important ⚡</option>
           </select>
           <button class="iconbtn" onclick="copyBibtex('${p.rp_id}')" title="Copy BibTeX">{ }</button>
+          <button class="iconbtn" onclick="downloadMd('${p.rp_id}')" title="Download markdown">⬇ MD</button>
           <button class="iconbtn" onclick="window.print()" title="Print">🖨</button>
           <button class="iconbtn" onclick="toggleTTS()" id="ttsBtn" title="Read aloud">🔊</button>
         </div>
@@ -916,6 +917,27 @@ function copyBibtex(rpId) {
   note   = {${p.rp_id}}
 }`;
   navigator.clipboard.writeText(bibtex).then(() => toast('BibTeX copied'));
+}
+async function downloadMd(rpId) {
+  const p = manifest.find(x => x.rp_id === rpId);
+  if (!p) return;
+  const useAr = currentLang === 'ar' && p.md_path_ar;
+  const path = useAr ? p.md_path_ar : p.md_path_en;
+  if (!path) { toast('No markdown file for this paper'); return; }
+  const cacheKey = p.rp_id + '_' + (useAr ? 'ar' : 'en');
+  let text = mdCache[cacheKey];
+  if (!text) {
+    try { text = await (await fetch(path)).text(); } catch { toast('Download failed'); return; }
+  }
+  const blob = new Blob([text], { type: 'text/markdown;charset=utf-8' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = path.split('/').pop();
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
 }
 function copyCite(rpId, page, section) {
   const p = manifest.find(x => x.rp_id === rpId);
