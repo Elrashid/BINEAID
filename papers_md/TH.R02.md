@@ -12,7 +12,7 @@ Award date: 2023
 
 Awarding institution: University of Bath
 
-Link to publication
+[Link to publication](https://researchportal.bath.ac.uk/en/studentTheses/91eb5039-4745-4893-94dc-f769815ec431)
 
 ## **Alternative formats**
 
@@ -26,7 +26,7 @@ If you consider content within Bath's Research Portal to be in breach of UK law,
 
 Download date: 11. Oct. 2025
 
-<!-- page 1 -->
+<!-- page 2 -->
 
 ## **Ethical Higher Education Management:** **The Role of Ethical Leadership** **in Shaping** **Employee Work Outcomes**
 
@@ -40,7 +40,7 @@ University of Bath School of Management (ICHEM)
 
 September 2022
 
-<!-- page 2 -->
+<!-- page 3 -->
 
 ## **COPYRIGHT**
 
@@ -58,559 +58,100 @@ I am the author of this thesis, and the work described therein was carried out b
 
 Signed…Amine N. Moussa
 
-<!-- page 3 -->
+<!-- page 4 -->
 
 ## **Table of Contents **
 
-List of Figures
-
-7
-
-List of Tables
-
-8
-
-Acknowledgements
-
-9
-
-Abstract
-
-10
-
-Chapter 1: Introduction
-
-11
-
-1.1 Research Motivation
-
-12
-
-1.2 Research Background
-
-14
-
-1.2.1 Leadership versus Management
-
-14
-
-1.2.2 Followers' Role in Leadership Research
-
-15
-
-1.2.3 The Ethical Aspect of Leadership
-
-15
-
-1.2.4 Ethical Leadership in Higher Education
-
-16
-
-1.3 Research Context
-
-17
-
-1.4 Definition of Key Terms
-
-19
-
-1.5 Significance of Key Terms
-
-20
-
-1.5.1 Significance of Ethical Leadership
-
-20
-
-1.5.2 Significance of Ethical Climate
-
-21
-
-1.5.3 Significance of Knowledge Sharing
-
-22
-
-1.5.4 Significance of Organizational Tenure
-
-23
-
-1.6 Research Aims
-
-24
-
-1.7 Research Questions
-
-25
-
-1.8 Potential Contribution to Knowledge
-
-25
-
-1.9 Potential Contribution to Professional Practice
-
-26
-
-1.10 Structure of the Thesis
-
-27
-
-1.11 Summary
-
-28
-
-Chapter 2: Literature Review
-
-29
-
-2.1 Literature Search Process
-
-29
-
-2.1 Current State of Leadership Literature in Higher Education
-
-30
-
-2.2 A Theoretical Lens
-
-31
-
-2.2.1 Social Learning Theory
-
-31
-
-2.2.2 Social Exchange Theory
-
-32
-
-2.3 Extended review of the main concepts
-
-34
-
-2.3.1 Ethical Leadership
-
-34
-
-2.3.1.1 Pillars of Ethical Leadership
-
-36
-
-2.3.1.2 Trickle-down Effect of Ethical Leadership
-
-40
-
-2.3.1.3 Ethical Leadership versus Transformational Leadership
-
-41
-
-<!-- page 4 -->
-
-2.3.1.4 Ethical Leadership versus Authentic Leadership and Servant Leadership
-
-42
-
-2.3.1.5 Ethical Leadership Across Societal Cultures44
-
-2.3.1.6 Ethical and Unethical Leadership in Lebanon 45
-
-2.3.1.7 Critiques of Ethical Leadership46
-
-2.3.2 Ethical Climate47
-
-2.3.2.1 Ethical Climate in Lebanese Higher Education Institutions 49
-
-2.3.2.2 Organizational Ethical Climate versus Departmental Ethical Climate
-
-49
-
-2.3.2.3 Distinguishing between Ethical Climate and Ethical Culture50
-
-2.3.2.4 Operationalisation and Measurement of Ethical Climate 51
-
-2.3.2.5 Critique of the Ethical Climate Questionnaire 53
-
-2.3.2.6 New Conceptualization of the Ethical Climate55
-
-2.3.3 Knowledge Sharing57
-
-2.3.3.1 Organizational Knowledge Sharing 58
-
-2.3.3.2 Channels of Knowledge Sharing59
-
-2.3.4 Employee Organizational Tenure 60
-
-2.4 Relationships between the Main Concepts 61
-
-2.4.1 Ethical Leadership and Employee Knowledge Sharing61
-
-2.4.2 Mediating Role of Ethical Climate between Ethical Leadership and Employee Knowledge
-
-Sharing Behaviour 63
-
-2.4.2.1 Ethical Leadership and Ethical Climate63
-
-2.4.2.2 Ethical Climate and Employee Knowledge Sharing Behaviour 64
-
-2.4.2.3 Mediating Role of Ethical Climate 66
-
-2.4.3 Moderating Role of Employee Organizational Tenure 67
-
-2.5 Proposed Conceptual Framework 69
-
-2.5 Summary69
-
-Chapter 3: Methodology and Methods
-
-70
-
-3.1 Research Philosophy70
-
-3.1.1 Ontology 70
-
-3.1.2 Epistemology 71
-
-3.1.3 Methodology73
-
-3.2 Research Design73
-
-3.2.1 Survey Research74
-
-3.2.2 Advantages and Limitations of Cross-Sectional Survey Design 75
-
-3.2.3 Advantages and Limitations of Longitudinal Survey Design 76
-
-3.2.4 Choice of the Cross-sectional Survey Design for This Study77
-
-3.3 Research Setting77
-
-3.3.1 The Study Population78
-
-3.3.2 Required Participant Sample Size80
+List of Figures7List of Tables 8Acknowledgements9Abstract10Chapter 1: Introduction111.1 Research Motivation121.2 Research Background141.2.1 Leadership versus Management141.2.2 Followers' Role in Leadership Research151.2.3 The Ethical Aspect of Leadership151.2.4 Ethical Leadership in Higher Education161.3 Research Context171.4 Definition of Key Terms191.5 Significance of Key Terms201.5.1 Significance of Ethical Leadership201.5.2 Significance of Ethical Climate211.5.3 Significance of Knowledge Sharing221.5.4 Significance of Organizational Tenure231.6 Research Aims241.7 Research Questions251.8 Potential Contribution to Knowledge251.9 Potential Contribution to Professional Practice261.10 Structure of the Thesis271.11 Summary28Chapter 2: Literature Review292.1 Literature Search Process292.1 Current State of Leadership Literature in Higher Education302.2 A Theoretical Lens312.2.1 Social Learning Theory312.2.2 Social Exchange Theory322.3 Extended review of the main concepts342.3.1 Ethical Leadership342.3.1.1 Pillars of Ethical Leadership362.3.1.2 Trickle-down Effect of Ethical Leadership402.3.1.3 Ethical Leadership versus Transformational Leadership41
 
 <!-- page 5 -->
 
-3.3.3 The Study Sample
-
-80
-
-3.4 Research Instruments
-
-81
-
-3.4.1 Control Variables
-
-81
-
-3.4.2 Ethical Leadership Measurement Instrument
-
-82
-
-3.4.3 Knowledge-Sharing Behaviour Measurement Instrument
-
-82
-
-3.4.4 Ethical Climate Measurement Instrument
-
-83
-
-3.5 Ethical Considerations
-
-83
-
-3.5.1 Privacy
-
-84
-
-3.5.2 Anonymity
-
-84
-
-3.5.3 Consent and Voluntary Participation
-
-84
-
-3.5.4 Protection from Harm
-
-85
-
-3.5.5 Ethical Approval
-
-86
-
-3.6 Data Collection and Analysis
-
-87
-
-3.6.1 Survey Layout
-
-87
-
-3.6.2 Email Invitation
-
-88
-
-3.6.3 Research Hypotheses
-
-89
-
-3.6.4 Data Analysis
-
-89
-
-3.7 Summary
-
-91
-
-Chapter 4: Findings
-
-92
-
-4.1 Frequencies of the Demographic Variables
-
-92
-
-4.2 Treatment of missing data due to survey item removal
-
-94
-
-4.3 Descriptive statistics for the study variables
-
-94
-
-4.4 Normality of the study variables
-
-95
-
-4.5 Reliability Analysis
-
-97
-
-4.6 Confirmatory Factor Analysis of Scales
-
-98
-
-4.6.1 CFA for the Ethical Leadership Scale
-
-99
-
-4.6.2 CFA for the Knowledge Donating Scale
-
-99
-
-4.6.3 CFA for the Knowledge Collecting Scale
-
-100
-
-4.6.4 CFA for the Ethical Organizational Climate Scale
-
-100
-
-4.7 Common Method Variance
-
-101
-
-4.8 Control Variables
-
-102
-
-4.9 Correlation Analysis
-
-103
-
-4.10 Hypotheses Testing
-
-105
-
-4.10.1 Mediation Analysis
-
-109
-
-4.10.2 Moderation Analysis
-
-114
-
-4.10.3 Moderated Mediation Analysis
-
-118
-
-4.11 Summary
-
-119
+2.3.1.4 Ethical Leadership versus Authentic Leadership and Servant Leadership422.3.1.5 Ethical Leadership Across Societal Cultures442.3.1.6 Ethical and Unethical Leadership in Lebanon
+452.3.1.7 Critiques of Ethical Leadership462.3.2 Ethical Climate472.3.2.1 Ethical Climate
+in Lebanese Higher Education Institutions
+492.3.2.2 Organizational Ethical Climate
+versus Departmental Ethical Climate492.3.2.3 Distinguishing between Ethical Climate and Ethical Culture502.3.2.4 Operationalisation and Measurement of Ethical Climate
+512.3.2.5 Critique of the Ethical Climate Questionnaire
+532.3.2.6 New Conceptualization of the Ethical Climate552.3.3 Knowledge Sharing572.3.3.1 Organizational Knowledge Sharing
+582.3.3.2 Channels of Knowledge Sharing592.3.4 Employee Organizational Tenure
+602.4 Relationships between the Main Concepts
+612.4.1 Ethical Leadership and Employee Knowledge Sharing612.4.2 Mediating Role of Ethical Climate between Ethical Leadership and Employee KnowledgeSharing Behaviour
+632.4.2.1 Ethical Leadership and Ethical Climate632.4.2.2 Ethical Climate and Employee Knowledge Sharing Behaviour
+642.4.2.3 Mediating Role of Ethical Climate
+662.4.3 Moderating Role of Employee Organizational Tenure
+672.5 Proposed Conceptual Framework
+692.5 Summary69Chapter 3: Methodology and Methods703.1 Research Philosophy703.1.1 Ontology
+703.1.2 Epistemology
+713.1.3 Methodology733.2 Research Design733.2.1 Survey Research743.2.2 Advantages and Limitations of Cross-Sectional Survey Design
+753.2.3 Advantages and Limitations of Longitudinal Survey Design
+763.2.4 Choice of the Cross-sectional Survey Design for This Study773.3 Research Setting773.3.1 The Study Population783.3.2 Required Participant Sample Size80
 
 <!-- page 6 -->
 
-Chapter 5: Discussion, Implications, and Recommendations
-
-121
-
-5.1 Discussion of Findings against Previous Research121
-
-5.1.1 The relationship between ethical leadership and knowledge sharing behaviour
-
-121
-
-5.1.2 The mediating role of the ethical climate123
-
-5.1.2.1 Ethical Leadership and Ethical Climate123
-
-5.1.2.2 Ethical Climate and Knowledge Sharing Behaviour 124
-
-5.1.2.3 Mediation Effect of the Ethical Climate on the Relationship between Ethical Leadership and Knowledge Sharing 125
-
-5.1.3 The Moderating Role of Employee Organizational Tenure126
-
-5.2 Contribution to Knowledge128
-
-5.3 Implications for Practice and Policy 132
-
-5.4 Limitations and Recommendations for Future Research 135
-
-5.5 Reflection and Conclusion137
-
-References
-
-140
-
-APPENDICES
-
-164
-
-APPENDIX A Ethical Leadership Scale 164
-
-APPENDIX B Knowledge Sharing Scale165
-
-APPENDIX C Ethical Organizational Climate166
-
-APPENDIX D Demographic Questionnaire167
-
-APPENDIX E Ethical Approval: Notre Dame University – Louaize168
-
-APPENDIX F University of Bath: Application Route Checklist 169
-
-APPENDIX G Ethical Approval: University of Bath171
-
-APPENDIX H Email Sent to University Research Boards 172
-
-APPENDIX I University Requesting Removal of a Scale Item 173
-
-APPENDIX J Ethical Approval: Université Saint Joseph (USJ) De Beyrouth 174
-
-APPENDIX K Email Sent from MUBS To The University Community175
-
-APPENDIX L Email Sent From Haigazian University To The University Community176
-
-APPENDIX M Email Correspondence with Arab Open University 177
-
-APPENDIX N Email Received From MEU Confirming Dissemination of The Survey178
-
-APPENDIX O Email Sent From University Of Balamand To The University Community
-
-179
-
-APPENDIX P Opening Introduction To The Survey And The Consent Form 180
-
-APPENDIX Q Personalised Reminder Email 181
+3.3.3 The Study Sample803.4 Research Instruments813.4.1 Control Variables813.4.2 Ethical Leadership Measurement Instrument823.4.3 Knowledge-Sharing Behaviour Measurement Instrument823.4.4 Ethical Climate Measurement Instrument833.5 Ethical Considerations833.5.1 Privacy843.5.2 Anonymity843.5.3 Consent and Voluntary Participation843.5.4 Protection from Harm853.5.5 Ethical Approval863.6 Data Collection and Analysis873.6.1 Survey Layout873.6.2 Email Invitation883.6.3 Research Hypotheses893.6.4 Data Analysis893.7 Summary91Chapter 4: Findings924.1 Frequencies of the Demographic Variables924.2 Treatment of missing data due to survey item removal944.3 Descriptive statistics for the study variables944.4 Normality of the study variables954.5 Reliability Analysis974.6 Confirmatory Factor Analysis of Scales984.6.1 CFA for the Ethical Leadership Scale994.6.2 CFA for the Knowledge Donating Scale994.6.3 CFA for the Knowledge Collecting Scale1004.6.4 CFA for the Ethical Organizational Climate Scale1004.7 Common Method Variance1014.8 Control Variables1024.9 Correlation Analysis1034.10 Hypotheses Testing1054.10.1 Mediation Analysis1094.10.2 Moderation Analysis1144.10.3 Moderated Mediation Analysis1184.11 Summary119
 
 <!-- page 7 -->
 
-## **List of Figures**
-
-Figure 1. The two pillars of ethical leadership38
-
-Figure 2. Ethical leadership reputation matrix39
-
-Figure 3. Theoretical ethical climate types52
-
-Figure 4. Emergent ethical climate types53
-
-Figure 5. A Multisystem Ethical Culture Framework55
-
-Figure 6. Proposed Conceptual Framework69
-
-Figure 7. Normal P-P Plot of Regression Standardized Residuals for Knowledge Collecting96
-
-Figure 8. Normal P-P Plot of Regression Standardized Residuals for Knowledge Donating96
-
-Figure 9. Path coefficients for ethical leadership, knowledge collecting, and knowledge donating 109
-
-Figure 10. Simple mediation model with a single mediator variable M located between an independent
-
-variable X and a dependent variable Y. 109
-
-Figure 11. Conceptual diagram of ethical leadership as a predictor of knowledge collecting mediated
-
-by the ethical climate. 112
-
-Figure 12. Conceptual diagram of ethical leadership as a predictor of knowledge donating mediated
-
-by ethical climate. 114
-
-Figure 13. Conceptual diagram of organizational tenure as moderator of the relationship between
-
-ethical leadership and ethical climate 115
-
-Figure 14. Moderating effects of ethical leadership and organizational tenure on ethical climate118
-
-Figure 15. Proposed Conceptual Framework with Supported Hypotheses128
+Chapter 5: Discussion, Implications, and Recommendations1215.1 Discussion of Findings against Previous Research1215.1.1 The relationship between ethical leadership and knowledge sharing behaviour1215.1.2 The mediating role of the ethical climate1235.1.2.1 Ethical Leadership and Ethical Climate1235.1.2.2 Ethical Climate and Knowledge Sharing Behaviour
+1245.1.2.3 Mediation Effect of the Ethical Climate on the Relationship between Ethical
+Leadership and Knowledge Sharing
+1255.1.3 The Moderating Role of Employee Organizational Tenure1265.2 Contribution to Knowledge1285.3 Implications for Practice and Policy
+1325.4 Limitations and Recommendations for Future Research
+1355.5 Reflection and Conclusion137References140APPENDICES
+164APPENDIX A Ethical Leadership Scale
+164APPENDIX B Knowledge Sharing Scale165APPENDIX C Ethical Organizational Climate166APPENDIX D Demographic Questionnaire167APPENDIX E Ethical Approval: Notre Dame University –
+Louaize168APPENDIX F University of Bath: Application Route Checklist
+169APPENDIX G Ethical Approval: University of Bath171APPENDIX H Email Sent to University Research Boards
+172APPENDIX I University Requesting Removal of a Scale Item
+173APPENDIX J Ethical Approval: Université Saint Joseph (USJ) De Beyrouth
+174APPENDIX K Email Sent from MUBS To The University Community175APPENDIX L Email Sent From Haigazian University To The University Community176APPENDIX M Email Correspondence with Arab Open University
+177APPENDIX N Email Received From MEU Confirming Dissemination of The Survey178APPENDIX O Email Sent From University Of Balamand To The University Community179APPENDIX P Opening Introduction To The Survey And The Consent Form
+180APPENDIX Q Personalised Reminder Email
+181
 
 <!-- page 8 -->
 
-## **List of Tables**
+## **List of Figures**
 
-Table 1: Ontology and Epistemology 72
-
-Table 2: Profile of universities included in the study 79
-
-Table 3: Respondents' Demographic Profile 93
-
-Table 4: Descriptive Statistics for the study variables94
-
-Table 5: Skewness and kurtosis of the study variables95
-
-Table 6: Normality tests for the study variables 97
-
-Table 7: Reliability of the Study Scales97
-
-Table 8: Estimated Standardized Regression Weights for the Ethical Leadership Scale 99
-
-Table 9: Estimated Standardized Regression Weights for the Knowledge Donating Scale 100
-
-Table 10: Estimated Standardized Regression Weights for the Knowledge Collecting Scale 100
-
-Table 11: Estimated Standardized Regression Weights for Ethical Organizational Climate Scale101
-
-Table 12: Respondents per university103
-
-Table 13: Pearson Correlations Among the Study Variables104
-
-Table 14: Regression coefficients of control variables and main effects of Ethical Leadership on
-
-Knowledge Collecting 106
-
-Table 15: Regression coefficients of control variables and main effects of Ethical Leadership on
-
-Knowledge Donating 108
-
-Table 16: Detailed direct effects of ethical leadership on knowledge collecting via ethical climate 111
-
-Table 17: Total, direct and indirect effects of ethical leadership on knowledge collecting via ethical
-
-climate112
-
-Table 18: Detailed direct effects of ethical leadership on knowledge donating via ethical climate 113
-
-Table 19: Total, direct and indirect effects of ethical leadership on knowledge donating via ethical
-
-climate113
-
-Table 20: Regression coefficients for control variables, main effects, and interaction effects116
-
-Table 21: Conditional effects of the moderator variable organizational tenure117
-
-Table 22: Conditional indirect effects of the moderator variable and index of moderated mediation
-
-119
+Figure 1.
+The two pillars of ethical leadership38Figure 2.
+Ethical leadership reputation matrix39Figure 3.
+Theoretical ethical climate types52Figure 4.
+Emergent ethical climate types53Figure 5.
+A Multisystem Ethical Culture Framework55Figure 6.
+Proposed Conceptual Framework69Figure 7.
+Normal P-P Plot of Regression Standardized Residuals for Knowledge Collecting96Figure 8.
+Normal P-P Plot of Regression Standardized Residuals for Knowledge Donating96Figure 9.
+Path coefficients for ethical leadership, knowledge collecting, and knowledge donating
+109Figure 10.
+Simple mediation model with a single mediator variable M located between an independentvariable X and a dependent variable Y.
+109Figure 11. Conceptual diagram of ethical leadership as a predictor of knowledge collecting mediatedby the ethical climate.
+112Figure 12.
+Conceptual diagram of ethical leadership as a predictor of knowledge donating mediatedby ethical climate.
+114Figure 13.
+Conceptual diagram of organizational tenure as moderator of the relationship betweenethical leadership and ethical climate
+115Figure 14.
+Moderating effects of ethical leadership and organizational tenure on ethical climate118Figure 15. Proposed Conceptual Framework with Supported Hypotheses128
 
 <!-- page 9 -->
+
+## **List of Tables**
+
+Table 1: Ontology and Epistemology
+72Table 2: Profile of universities included in the study
+79Table 3: Respondents' Demographic Profile
+93Table 4: Descriptive Statistics for the study variables94Table 5: Skewness and kurtosis of the study variables95Table 6: Normality tests for the study variables
+97Table 7: Reliability of the Study Scales97Table 8: Estimated Standardized Regression Weights for the Ethical Leadership Scale
+99Table 9: Estimated Standardized Regression Weights for the Knowledge Donating Scale
+100Table 10: Estimated Standardized Regression Weights for the Knowledge Collecting Scale
+100Table 11:
+Estimated Standardized Regression Weights for Ethical Organizational Climate Scale101Table 12: Respondents per university103Table 13: Pearson Correlations Among the Study Variables104Table 14: Regression coefficients of control variables and main effects of Ethical Leadership onKnowledge Collecting
+106Table 15: Regression coefficients of control variables and main effects of Ethical Leadership onKnowledge Donating
+108Table 16: Detailed direct effects of ethical leadership on knowledge collecting via ethical climate
+111Table 17: Total, direct and indirect effects of ethical leadership on knowledge collecting via ethicalclimate112Table 18: Detailed direct effects of ethical leadership on knowledge donating via ethical climate
+113Table 19: Total, direct and indirect effects of ethical leadership on knowledge donating via ethicalclimate113Table 20: Regression coefficients for control variables, main effects, and interaction effects116Table 21: Conditional effects of the moderator variable organizational tenure117Table 22: Conditional indirect effects of the moderator variable and index of moderated mediation119
+
+<!-- page 10 -->
 
 ## **Acknowledgements**
 
@@ -628,13 +169,13 @@ Finally, I am deeply grateful to my fellow peers in the programme, members of th
 
 Thank you. Amine Moussa
 
-<!-- page 10 -->
+<!-- page 11 -->
 
 ## **Abstract**
 
 Private higher education in Lebanon is facing mounting challenges from recent economic shocks; the increasing demand for higher education; the numerous players in the market and the resulting fierce competition; an absence of government regulation; and lack of consistent quality and accreditation standards. It can be argued that these unprecedented challenges require Lebanese private universities to bolster their reputation through attracting and retaining transparent and responsible leaders who behave ethically, engage fairly with stakeholders, honour their duties, are zealous in enforcing their principles, and make morallybased decisions. However, the benefits extend beyond building a robust reputation. Previous research suggests that ethical leadership and ethical institutional climates breed trusting relationships among employees which promote desirable work outcomes - such as knowledge sharing in the workplace - leading to higher performance and greater innovation at the individual, team, and organizational levels. However, little research has examined how leaders' ethicality and the organizational climate in higher education institutions (HEIs) affect the knowledge sharing behaviour of academic and professional staff. Drawing on social learning and social exchange theories, this quantitative study therefore empirically examines the direct and indirect relationships among ethical leadership, ethical climate, and the bidirectional process of knowledge sharing (knowledge collecting and knowledge donating), as well as the moderating role of employee organizational tenure. In total, 585 responses from academic and non-academic staff employed in nine private HEIs in Lebanon were collected between April and July 2021 via a web-based questionnaire. Hierarchical regression analysis and Hayes' Process macro for SPSS were used to test a series of hypotheses concerning the above relationships. Findings reveal that ethical leadership positively influences employee knowledge-sharing behaviour in Lebanese private HEIs. Specifically, the study presents evidence that perceptions of the ethical climate serve as a mechanism through which ethical leadership affects knowledge collecting and knowledge donating. In addition, the study highlights the moderating role of employee organizational tenure in the relationship between ethical leadership and ethical climate and consequently with knowledge sharing. The findings encourage deeper consideration of ethics in higher education leadership and demonstrate the role that universities' organisational climates can play in creating the conditions that facilitate knowledge sharing and hence more effective knowledge production and societal contribution.
 
-<!-- page 11 -->
+<!-- page 12 -->
 
 ## **Chapter** **1: Introduction**
 
@@ -646,7 +187,7 @@ This research proposes a theoretical framework (Figure 6) that examines the role
 
 In addition, the research also examines the role of the ethical organizational climate in the above relationship through the lens of social learning theory (Bandura, 1986). As such, how employees learn the directions of their workplace ethical climate and interpret this learning to guide their behaviour is explained through a social learning process. Besides, the impact of employee organizational tenure on the mentioned relationships is also examined in this thesis. Organizational tenure is a time-related factor that influences employee social learning and
 
-<!-- page 12 -->
+<!-- page 13 -->
 
 social exchange as these require time for any learning to take place and reciprocal behaviour to be developed.
 
@@ -662,7 +203,7 @@ With time, I have noticed that some of these appointments have regularly display
 
 Institutional accountability for such unethical leadership behaviour has been limited for several reasons, among which has been the deliberate downplaying of the bad behaviour in favour of departmental results. Another reason was the power that the leader has gained by the time the behaviour took place. I have observed how accumulated power granted a covert permission to behave unethically and escape any consequences, whereas understating
 
-<!-- page 13 -->
+<!-- page 14 -->
 
 employee complaints about the mistreatment became the typical avoidance strategy for the leader. This has resulted in normalizing unfair leadership that has gone unrectified, and fearbased approaches that have remained undetected or intentionally hidden under 'good departmental results.'
 
@@ -674,7 +215,7 @@ In terms of researching ethical climate in this thesis, I am curious as to wheth
 
 Furthermore, I aim to probe the effect that the duration of employment at an institution may have on employees' perceptions of ethicality and consequently their knowledge sharing behaviour. In this regard, I have observed that employees who had been employed for longer periods at their organizations had better interactions with their leaders and colleagues and more
 
-<!-- page 14 -->
+<!-- page 15 -->
 
 positive impressions of their organization's ethical policies than those who had been employed for shorter periods.
 
@@ -688,7 +229,7 @@ Leadership and management are both fundamental to a successful workplace (Kotter
 
 The academic literature on higher education tends not to differentiate between 'management', 'leadership', and 'administration' either (Middlehurst, 2008). In fact, most organizations including higher education institutions (HEIs), use the terms interchangeably and consider that managing and leading are two sides of the same coin (Tett et al., 2000; Raelin, 2004; Yielder and Codling, 2004; Bryman, 2007). In line with the above literature, this thesis does not attempt to make a distinction between management and leadership, regarding the two constructs as intertwined (Kotterman, 2006). Therefore, the thesis uses the term 'leadership behaviour' in the context of higher education to refer to the behaviour of managers at all levels of the institution and not only that of top leaders. Managers in higher education are those responsible for managing physical and financial resources, teaching programmes, research and consultancy services, and academic and professional staff.
 
-<!-- page 15 -->
+<!-- page 16 -->
 
 ## **1.2.2 Followers'** **Role in Leadership Research**
 
@@ -702,7 +243,7 @@ The ethical and moral aspects of leadership, in particular, have attracted incre
 
 Consequently, ethical behaviour has become seen as crucial to leaders' integrity, credibility, and potential to influence their followers (Brown, Treviño and Harrison, 2005; Piccolo et al., 2010) to the extent that leadership and ethics have become impossible to separate (Burns, 2004; Northouse, 2018). Therefore, not only have ethical scandals demonstrated the
 
-<!-- page 16 -->
+<!-- page 17 -->
 
 negative repercussions that unethical behaviour can have on organizations (De Vise, 2011), but they have ultimately revealed a crisis in leadership ethics (Winston, 2007).
 
@@ -716,7 +257,7 @@ Kuther (2003) argues that many of the challenges facing HEIs are triggered by th
 
 Following the above-mentioned scandals in higher education, there has been an upsurge in focus on leadership skills and managerial competencies across institutions at top management and even at previously overlooked departmental levels (Meek at al., 2010). However, little accompanying research has been conducted to determine what types of leadership are effective in this specific context (Bryman, 2007). The available leadership studies on higher education have tended to focus at the senior level, whilst research on middle and lower managers remains scarce (De Boer, Goegedebuure and Meek, 2010). It can certainly be argued that creating an ethical infrastructure in HEIs, as well as in any other organization,
 
-<!-- page 17 -->
+<!-- page 18 -->
 
 begins with leaders at the top. Mayer et al. (2009) assert that top leaders play the biggest part in cultivating ethical leadership and setting the tone for the ethical organizational culture through a trickle-down effect that impacts behaviour in the lower hierarchical levels. However, leaders at every level are responsible for modelling ethical conduct to their subordinates and should be aware of the implications of their actions on the behaviour, performance, and outcomes of their immediate teams and the wider organization. As ethics are pertinent to every individual in an organization, this thesis seeks to assess the practice of ethical leadership as perceived by leaders and their followers at all levels.
 
@@ -728,7 +269,7 @@ The Lebanese higher education sector dates back to 1866 and is characterized by 
 
 Higher education in Lebanon has historically been provided by private institutions (Fincham, 2020). The only public university in Lebanon, the Lebanese University, was established in 1951, and was subject to the country's segregation, which resulted in an abundance of branches, that were erected to answer the needs for equity among the Lebanese regions that are under the influence of distinct political and religious groups. The segregation and strong political influence over the public university has polarized the different branches to which political parties regularly assign their supporters. This patronage system has led to
 
-<!-- page 18 -->
+<!-- page 19 -->
 
 various forms of nepotism and favouritism in recruiting, promoting, and managing employees to the detriment of the university's overall competence and quality (Abou Arraj, 2018).
 
@@ -738,7 +279,7 @@ After the civil war ended in 1990, the rapid massification of the private higher
 
 The vast majority of the younger universities are smaller in size, capacity, and resources than the traditional ones, and are associated with religious groups or political parties. Due to their lower tuition fees and widely scattered campuses, they draw students from narrow social demographics and geographical areas. Political influence in these private institutions is much less visible compared to that in the public university, as they are mainly funded by student fees and are therefore compelled to provide quality services and seek better reputation through competitiveness and retaining a politically neutral position. The current private HEIs, especially the younger ones, mostly have a teaching-oriented focus with accordingly less emphasis on research.
 
-<!-- page 19 -->
+<!-- page 20 -->
 
 The private higher education sector in Lebanon is facing enormous challenges from the adverse economic situation; the increasing demand for higher education (Jammal, 2015); the numerous players in the market and the resulting fierce competition; absence of government regulation; and lack of unified quality and accreditation standards (National Tempus Office, 2016). These challenges arguably require Lebanese private universities to strengthen their reputations (Chedrawi, Howayeck and Tarhini, 2019) through attracting and retaining transparent and responsible leaders who behave ethically, engage fairly with stakeholders (Hansen et al., 2016), honour their duties, and make morally-based decisions.
 
@@ -760,7 +301,7 @@ For the purposes of this thesis:
 
 *Knowledge Donating *is defined as the act of communicating to others what one's personal intellectual capital is (Van Den Hoof and De Ridder, 2004).
 
-<!-- page 20 -->
+<!-- page 21 -->
 
 *Organizational Tenure* is defined as the length of time that an employee has spent in the employment of an organization (McEnrue, 1988).
 
@@ -776,7 +317,7 @@ The importance of ethical practices in higher education management reaches far b
 
 Universities typically have multiple goals and particular organizational complexity which makes leadership studies in higher education a highly contested field (Spendlove, 2007). This view is supported by Dopson et al. (2019) who assert that as universities grow in size and complexity, they become multi-functional organizations that face several uncommon challenges. University leadership increasingly needs to collaborate with strategic alliances requiring more cooperative and lateral leadership styles that extend beyond managing the traditional single vertically- integrated institutions.
 
-<!-- page 21 -->
+<!-- page 22 -->
 
 Wang (2020) argues that the complexity of higher education institutions presents leaders and administrators with unique challenges, some of which are traditional to higher education while others are novel and pose great challenges that even experienced leaders in the field are perplexed by their enormity. Traditional challenges are characterized by the diversity of stakeholders that higher education leaders deal with such as students, research and accrediting bodies, and political leaders at all national levels. Novel challenges, on the other hand, are the result of economic uncertainty, globalization, rising competitive pressures, and social change.
 
@@ -788,7 +329,7 @@ An ethical climate has been found to predict ethical conduct in an organization 
 
 Organizations that enforce a clear code of ethics have been found to maintain higher levels of ethical climate and ethical behaviour among their employees (Ferrell and Skinner, 1988). Outlining ethical policies and procedures indicates to employees that the organization values and supports them (Zagenczyk et al., 2020). In addition, effectively communicated ethical codes and practices that become engrained in a staff member's working knowledge are
 
-<!-- page 22 -->
+<!-- page 23 -->
 
 much more likely to influence the individual's reasoning for decision-making (Hegarty and Sims, 1979; Weeks and Nantel, 1992).
 
@@ -802,7 +343,7 @@ Knowledge can be considered the most valuable resource in an organization (Spend
 
 Knowledge sharing has been researched in various business and industry settings, yet there is a paucity of research investigating this behaviour among employees in higher education institutions (Wang and Noe, 2010; Fullwood, Rowley and Delbridge, 2013; Howell and Annansingh, 2013). Dopson et al. (2019) argue that universities have not studied their own
 
-<!-- page 23 -->
+<!-- page 24 -->
 
 knowledge-sharing effectiveness seriously, despite being an integral part of the knowledgebased economy. These institutions are unique, since their primary function is generating and disseminating knowledge, where knowledge is their principal input and output (Rowley, 2000; Seonghee and Boryung, 2008; Fullwood, Rowley and Delbridge, 2013; Howell and Annansingh, 2013; Jolaee et al., 2014).
 
@@ -816,7 +357,7 @@ Organizational tenure is an important time-related factor that encourages the de
 
 Organizational tenure is also a distinctive employee characteristic. According to Ng and Feldman (2013), employees with different organizational tenure tend to differ in their experience, cognitive level, psychological characteristics, and career strategies. Compared to
 
-<!-- page 24 -->
+<!-- page 25 -->
 
 their colleagues with short organizational tenure, employees with long organizational tenure acquire more skills and experience, whilst tending to display higher levels of in-role performance and citizenship behaviour (McEnrue, 1988; Ng and Feldman, 2010). This positivity, however, has been challenged by Wright and Bonett (2002) who argued that highly tenured employees who do not leave their job, may actually respond with negative attitudes towards the organization. These attitudes are increasingly demonstrated in the employees' withdrawal from work commitment, or worse, in their psychological retirement at work.
 
@@ -828,7 +369,7 @@ This thesis is concerned with the managerial aspects of Lebanese private HEIs at
 
 As leaders do in every other field, higher education leaders ingrain their beliefs and values into the institution they belong to. To date, there appears to be a dearth of research that explores the implications of leadership for the crucial behaviour of knowledge sharing between staff in HEIs worldwide. Moreover, there has been little empirical attention to the implications of ethical leadership in higher education management - particularly within a Lebanese context - and whether it can contribute towards positive change in work outcomes. Specifically, this thesis aims to examine follower perceptions of ethical leadership amongst academic and professional staff in Lebanese private HEIs and its implications for an extremely important employee behaviour, that of knowledge-sharing. It also aims to understand the role that the ethical climate may play in mediating any relationship between ethical leadership and
 
-<!-- page 25 -->
+<!-- page 26 -->
 
 employee knowledge-sharing. Additionally, the study aims to examine the effect of employee organizational tenure on that relationship.
 
@@ -836,11 +377,9 @@ employee knowledge-sharing. Additionally, the study aims to examine the effect o
 
 The following central research questions underpin this study:
 
-1- What is the relationship between ethical leadership and employee knowledge sharing in higher education institutions?
-
-2- Is the relationship between ethical leadership and employee knowledge sharing mediated by the ethical climate in higher education institutions?
-
-3- To what extent does organizational tenure moderate the relationship between ethical leadership and ethical climate in higher education institutions?
+- 1- What is the relationship between ethical leadership and employee knowledge sharing in higher education institutions?
+- 2- Is the relationship between ethical leadership and employee knowledge sharing mediated by the ethical climate in higher education institutions?
+- 3- To what extent does organizational tenure moderate the relationship between ethical leadership and ethical climate in higher education institutions?
 
 The research questions will be detailed in chapter two in accordance with the theoretical and conceptual frameworks adopted for this thesis, and corresponding hypotheses will be formulated.
 
@@ -850,7 +389,7 @@ From a theoretical perspective, the thesis aims to bridge a gap existing in the 
 
 The research highlights the role of knowledge sharing as a valid exchange outcome of ethical leadership and the underlying ethical climate as a social learning medium that shapes the experience of employees and influences their behaviour. Through examining bidirectional knowledge sharing as an outcome of ethical leadership, the study also offers a novel perspective for the literature on knowledge management. It adopts a moral lens which accounts for knowledge sharing as a morally induced phenomenon and ethical leadership as its predictive variable.
 
-<!-- page 26 -->
+<!-- page 27 -->
 
 This research proposes the mediating role of the ethical climate in the process through which ethical leadership affects knowledge sharing behaviour. It incorporates social exchange and social learning theories in the leadership and knowledge sharing domainsthrough assessing how the underlying institutional ethical climate can contribute to this relationship by proposing a mediation role. It also extends our knowledge of the ethical climate by examining whether longer exposure to organizational norms and values affects the association between employee perceptions of ethical leadership and ethical climate.
 
@@ -862,7 +401,7 @@ The thesis aims to advance leadership practice in the particular context of Leba
 
 From a practical perspective, this research assesses the state of ethical leadership and ethical climate in Lebanese private higher education institutions. A major potential contribution to practice lies in tackling the topic not only through drawing upon the perceptions of the academic body of institutions, but also through acknowledging the perceptions of a vital yet frequently overlooked element of the higher education workforce, that of professional staff.
 
-<!-- page 27 -->
+<!-- page 28 -->
 
 It will support the role that ethical leaders can play in promoting knowledge sharing among such employees, and the importance of developing and maintaining an ethical climate across the institution to mediate the influence of individual leaders over such behaviour. It contributes to the managerial practice of knowledge sharing through helping policy makers formulate knowledge sharing strategies that are well informed and tailored to their respective institutions.
 
@@ -876,7 +415,7 @@ This thesis has been organised into five chapters. After this introductory chapt
 
 In the methodology chapter, the research philosophy is outlined, including the epistemology, the methodology, and approach taken to execute the research. In this chapter, the research design is described with its advantages and limitations, the research population is presented, and the instruments used to measure the different constructs are laid out. The chapter provides an outline of the analytical strategies adopted and concludes with an overview of the ethical considerations and data collection procedures.
 
-<!-- page 28 -->
+<!-- page 29 -->
 
 In chapter four, the quantitative analytical strategies are applied, and the detailed results and findings of the main study are presented, including the measures of validity, the associations between ethical leadership and knowledge sharing, the mediating effect of the ethical climate, and the interaction of employee organizational tenure. The chapter concludes by discussing which hypotheses support the quantitative results.
 
@@ -886,7 +425,7 @@ Chapter five aims to derive meaning from the results discussed in chapter four. 
 
 Chapter 1 identified the research project, and detailed the scope, and purpose of the study. It specified the motivation behind conducting this research, gave an overview of the research context, emphasized the relevance of the research and its objectives, and underlined the research questions. It provided information on the significance of the constructs that make up this research. Finally, this chapter described the thesis' potential contribution to knowledge, practice, and policy and outlined the structure of this document.
 
-<!-- page 29 -->
+<!-- page 30 -->
 
 ## **Chapter 2: Literature Review**
 
@@ -898,7 +437,7 @@ The review of the literature was performed using the University of Bath Library 
 
 The search used the combination of key search terms: "ethical leadership", "ethical climate", "knowledge sharing", "higher education" or "universities", and "Lebanon" or "Lebanese", and looked into all the searchable fields (e.g., title, abstract, keywords, all text) within the journal articles in the targeted databases. The search returned no results indicating that no study has been conducted among Lebanese higher education institutions that investigates the influence of ethical leadership on employee knowledge sharing behaviour and role of the ethical climate. In fact, even when the terms ("Lebanon" and "ethical climate") were removed from the search keywords, only one result was returned (i.e. Xia and Yang, 2020) which shows the scarcity of research that has focused on the relationship between ethical leadership, as a particular style of leadership, and knowledge sharing behaviour as its outcome in the context of higher education institutions. Additional search results were retrieved when a combination of fewer key terms was used such as "ethical leadership" AND "knowledge sharing", or "ethical leadership" AND "ethical climate". The next section of this chapter will
 
-<!-- page 30 -->
+<!-- page 31 -->
 
 introduce the theoretical framework underlying this research and will cover the available literature surrounding each of the study's main constructs, in addition to studies that have examined the relationships between them.
 
@@ -910,7 +449,7 @@ In their literature review on leadership development in higher education, Dopson
 
 Esen, Bellibas and Gumus (2020) noted that leadership studies in higher education have either focused on the leadership of senior university administrators such as vice chancellors, presidents, or rectors (e.g., Bargh et al., 2000) or academic personnel such as deans and department chairs (e.g., Bellibas et al., 2016; Alonderiene and Majauskaite, 2016). This limitation was also reflected in De Boer, Goegedebuure and Meek's research (2010) in which they critiqued the focus of leadership studies on senior higher education executives while there is need to better understand how middle and lower-level managers exercise their leadership. Earlier studies (e.g., Spendlove, 2007) made similar alarming statements to De Boer, Goegedebuure and Meek's points that little is known about leadership styles and skills at other levels and in other university offices.
 
-<!-- page 31 -->
+<!-- page 32 -->
 
 ## **2.2 A Theoretical** **Lens**
 
@@ -922,7 +461,7 @@ Social learning theory (Bandura, 1986) suggests that through observational learn
 
 Therefore, a strong theoretical foundation that explicitly and fundamentally defines the ethical leadership construct is found in social learning theory (Brown, Treviño and Harrison, 2005) which demonstrates its relationship to and distinguishes it from other constructs. Ethical leaders, in particular, influence employee outcomes because they are attractive, credible, and legitimate role models who catch followers' attention, and through their ethical conduct they deliberately reinforce the ethics message (Brown, Trevino, Harrison, 2005). Most individuals
 
-<!-- page 32 -->
+<!-- page 33 -->
 
 look to others for ethical guidance (Treviño, 1986). In this aspect, ethical leaders are assuring role models and sources of guidance and learning due to their attractiveness and credibility which direct their followers' attention to their behavior.
 
@@ -936,7 +475,7 @@ In addition to social learning theory, a social exchange lens has been used to e
 
 Social exchange theory explains the emergence of social relationships between exchange parties based on positive transactions and models of reciprocity. According to Blau
 
-<!-- page 33 -->
+<!-- page 34 -->
 
 (1964, p. 94) "social exchange tends to engender feelings of personal obligation, gratitude and trust." Individuals engaged in social exchange develop an informal or non-contractual obligation to repay the party on the other end of the exchange with what they believe is of equivalent value. This reciprocity serves the purpose of fairness in the relationship and ensures the continuation of the exchanges into the future (Blau, 1964).
 
@@ -946,7 +485,7 @@ Followers of ethical leaders repay them with greater investment in the relations
 
 Social exchange theory has also been used to explain knowledge sharing behaviour between leaders and team members as well as among members of the same team as a reciprocation of gratitude and trust (Bock et al., 2005; Wu and Lee, 2017). Individuals may build social relationships with others by sharing their knowledge with an expectation of future returns (Wang and Noe, 2010). The nature of knowledge sharing is bidirectional and relates to personal qualities. It is always controlled by individuals and not the organization (Empson, 2001). Individuals willingly choose to exchange knowledge with others and obtain knowledge they deem relevant from sources they trust. Organizations may facilitate knowledge sharing behaviour through emphasis on contextual factors such as an organizational culture (Lam, 2005) that encourages and supports the exchange of knowledge.
 
-<!-- page 34 -->
+<!-- page 35 -->
 
 ## **2.3** **Extended review of the main concepts**
 
@@ -964,7 +503,7 @@ Utilitarianism calls for the decision-maker to assess the consequences of their 
 
 Ethics in primary leadership research has been mostly discussed in terms of the ethical characteristics of particular leadership theories, most commonly, transformational leadership
 
-<!-- page 35 -->
+<!-- page 36 -->
 
 (Kanungo and Mendonca, 1996; Yukl, 2002). In 2003, Treviño, Brown, and Hartman conducted seminal qualitative research that examined the ethical leadership of senior executives. This research formed the basis of treating ethical leadership as a distinct leadership style with its most common traits being integrity, honesty, and trustworthiness. Treviño, Brown and Hartman (2003) asserted that ethical executive leaders displayed elements of transactional and transformational leadership. Similar to transactional leaders, ethical executive leaders set ethical standards, conduct performance appraisals, and hold followers accountable for their ethical conduct. They also display individualized consideration (i.e., people orientation), and are inspirational in role-modelling ethical conduct which are both elements of transformational leadership.
 
@@ -972,7 +511,7 @@ However, ethical leadership theory was formally defined in the work of Brown, Tr
 
 Brown and Treviño (2006) have advocated the two theoretical frameworks discussed in sections 2.2.1 and 2.2.2, namely social learning theory and social exchange theory. The elements of ethical leadership that are based in social learning theory and social exchange theory explain why ethical leadership predicts certain employee outcomes such as perceived leader effectiveness, employee job dedication, and reporting problems to management (Brown, Treviño and Harrison, 2005). Through social learning, employees discern the norms of expected conduct in two ways: their own experience, and by observing others whom they consider role models and adopting their behaviour (Bandura, 1986). Combining the rolemodelling element of social learning theory with elements of transformational leadership and transactional leadership, as discussed above, provide followers with a learning model in which they watch and mimic behaviour. Furthermore, through social exchange, an employee learns the expected way to behave in an organization and reciprocates a leader's positive exchange
 
-<!-- page 36 -->
+<!-- page 37 -->
 
 with pro-social behaviour. Employees feel their commitment to reciprocity more strongly when both the leader and the organization's climate are perceived as ethical (Brown and Treviño, 2006).
 
@@ -988,7 +527,7 @@ In addition to traits, behaviours play an even more important role in influencin
 
 Ethical leaders encourage voice, welcome open communication (Brown, Treviño and Harrison, 2005), and engage their followers in decision making which signals power sharing (Kalshoven, Den Hartog and De Hoogh, 2011). They allow their followers to share bad news with them and treat it as a challenge to be addressed rather than a behaviour to be punished. When followers feel their ethical leaders trust them, they tend to take that trust seriously and try not to break it (Treviño, Hartman and Brown, 2000). Employees reporting to these leaders are thus encouraged to take part in otherwise risky behaviours like bringing forth their problems and presenting their opinions without fear, knowing that they will be heard (Kalshoven, Den Hartog and De Hoogh, 2011; Den Hartog, 2015).
 
-<!-- page 37 -->
+<!-- page 38 -->
 
 Den Hartog (2015) notes that when employees do not fear retaliation from their leader or peers and expect support instead of dismissal, they tend to speak up about ethical concerns, decision quality, and team performance (Treviño and Nelson, 2017) as well as offer constructive feedback and suggestions for change (Kalshoven et. al, 2013). Speaking up has been recognized as a main driver of organizational effectiveness and high-quality decisions (Burris, 2012) and employees who speak up have been rated as better performers (Whiting, Podsakoff and Pierce, 2008). Through social learning, employees know that such exchange is welcome and encouraged (Chen and Hou, 2016) and does not entail hidden risks (Brown and Treviño, 2006; Brown and Mitchell, 2010). On the contrary, when speaking up is deemed to be pointless and accompanied with feelings of fear and habituation to silence in situations of authority, employees tend to remain silent, keep their awareness of ethical problems to themselves (Schaubroeck et al., 2012), and withdraw from the honest exchange (Den Hartog, 2015).
 
@@ -996,17 +535,13 @@ Moral persons continuously exercise their ethical values and principles in decis
 
 They clarify the 'right path' of doing things through admitting their own mistakes and holding themselves accountable for their actions. In doing so, they encourage fair and balanced decision making that is shaped by an ethical mindset (Brown, Treviño and Harrison, 2005). They respect the employees' need for belonging and uniqueness thereby improving their sense of inclusion among team members (Boekhorst, 2015). Consequently, they create a psychologically safe work environment through which they gain their subordinates' trust, accept their diverse opinions, and heed their concerns (Walumbwa and Schaubroeck, 2009).
 
-<!-- page 38 -->
-
-![TH.R02 fig02](../figures/TH/TH.R02_fig02.jpg)
-
-> *Figure 1.* *The two pillars of ethical leadership* *(Treviño, Hartman and Brown, 2000, p.131)*
+<!-- page 39 -->
 
 ## **2.3.1.1.2 Moral Manager**
 
 Disseminating the moral person's ethical values and principles to subordinates and the rest of the organization requires moral managing. The moral manager pillar is made up of the ethical leader's actions that increase the salience of ethics in the workplace through establishing and promoting ethical standards. As moral managers deliberately model ethical conduct, they emphasize visible action to their followers. Moral managers understand that employees learn what is important through watching their leaders for cues. Such managers also recognize the words and actions that deliver the intended impact as well as how employees interpret them. Their actions shape the subordinates' perceptions of their organization (Fernandez, 2008), autonomy and job significance (Piccolo et al., 2010). In addition, Piccolo et al. (2010) suggest that as followers become intrinsically motivated, they begin to see their jobs as meaningful and thus display productive behaviour. Effective moral managers influence the manners of their followers to the extent that in an ethically neutral surrounding, moral managers emerge as
 
-<!-- page 39 -->
+<!-- page 40 -->
 
 socially significant (Treviño, Hartman and Brown, 2000; Treviño, Brown and Hartman, 2003; Brown and Treviño, 2006; Brown and Mitchell, 2010).
 
@@ -1016,11 +551,7 @@ Discussing ethics and values with followers is another important component of th
 
 Cross tabulating the two pillars produces a matrix (see Figure 2) that demonstrates how an ethical leader is the product of a strong moral person and a strong moral manager. The matrix also details what other types of leadership are produced when the two pillars are combined in varying strengths.
 
-![TH.R02 fig03](../figures/TH/TH.R02_fig03.jpg)
-
-> *Figure 2.* *Ethical leadership reputation matrix* *(Treviño and Nelson, 2011, p.159)*
-
-<!-- page 40 -->
+<!-- page 41 -->
 
 Unethical leaders are weak on the moral person level as well as the moral manager level. They are emotionally abusive, profane, and violent. When dealing with their subordinates, they are known to be arrogant and disrespectful. Hypocritical leaders, on the hand, are strong in communicating their ethical values (moral management aspect) but in contrast to their "talk", engage in unethical behaviour (moral person aspect) and encourage others to do the same. The last quadrant of the matrix describes ethically "silent" or ethically "neutral" leadership. Leaders in this category are not explicit about their ethical values but rather silent on these matters. Either they do not recognize the importance of ethics in an organization's culture, are not confident discussing ethics, or they just don't care. They may be strongly moral persons, however, due to their ethical neutrality in the workplace, they are perceived as self-centred rather than people-oriented (Treviño and Nelson, 2017).
 
@@ -1032,7 +563,7 @@ Conversely, Ruiz, Ruiz and Martinez (2011) studied a sample of Spanish insurance
 
 Overall, top managers' ethical leadership, whether mediated by supervisors' leadership or through direct impact, can have a greater positive influence on employees' outcomes affecting their job satisfaction, organizational commitment, turnover intention (Demirtas and Akdogan, 2015), organizational citizenship, and knowledge sharing (Bavik et al., 2018).
 
-<!-- page 41 -->
+<!-- page 42 -->
 
 ## **2.3.1.3 Ethical Leadership versus Transformational Leadership**
 
@@ -1044,7 +575,7 @@ According to Bass and Steidlmeier (1999), authentic transformational leadership,
 
 In the study conducted by Brown, Treviño and Harrison (2005), ethical leadership was found to predict critical group-level outcomes such as satisfaction with the supervisor, extra effort at work (job dedication), and a willingness to report problems, while the idealized influence component of transformational leadership did not. Also, in a study conducted in South Korea, Ng and Feldman (2015) demonstrated that ethical leadership was significantly related to followers' commitment even after controlling for the effects of transformational
 
-<!-- page 42 -->
+<!-- page 43 -->
 
 leadership providing further evidence that ethical leadership is conceptually distinct from transformational leadership.
 
@@ -1058,7 +589,7 @@ Furthermore, manipulative behaviours can be hard to distinguish as authentic tra
 
 Ethical leadership is commonly grouped together with styles that have moral approaches to leadership such as authentic leadership and servant leadership (Lemoine, Harnell and Leroy, 2019). Ethical, authentic, and servant leadership styles may share common ground and display characteristics such as honesty, fairness, and respect. However, they are distinguished by their emphasis on different criteria.
 
-<!-- page 43 -->
+<!-- page 44 -->
 
 Authentic leaders are "persons who have achieved high levels of authenticity in that they know who they are, what they believe and value, and they act on those values and beliefs while transparently interacting with others" (Avolio et al., 2004, p. 802). They are described as free and independent in making their moral judgements without being concerned about possibly conflicting with normative social pressures (Guignon, 2004). Whereas ethical leadership focuses on complying with expectations, authentic leadership uniquely revolves around the leader's self-awareness, self-concordance, self-regulation, and displaying these characteristics to followers (Luthans and Avolio, 2003).
 
@@ -1070,7 +601,7 @@ Refining Greenleaf's conceptual focus, Ehrhart (2004) defined servant leadership
 
 With regards to their measurement items, all three constructs appear to overlap in asking respondents to assess the extent to which their leader makes decisions based on high ethical standards. However, according to their conceptual definitions, the operational distinctions among ethical, authentic, and servant leadership are evident. These are compliance
 
-<!-- page 44 -->
+<!-- page 45 -->
 
 with normative standards, focus on self-concordance and self-awareness, and benefitting multiple stakeholders, respectively. In particular, ethical leadership, stands out in holding followers accountable for complying with organizational standards and values and the consequent use of reward and punishment (Lemoine, Harnell and Leroy, 2019).
 
@@ -1082,7 +613,7 @@ In several interesting articles, Resick et al. examined ethical leadership acros
 
 In addition, a more recent study across Eastern and Western cultures (Republic of China, Germany, Hong Kong, the United States, Ireland, and Taiwan) by Resick et al. (2011) concluded that the meaning of ethical leadership is likely to be attributed to particular characteristics and behaviours that vary across cultures. In China, Germany, and Hong Kong, themes of consideration, collective orientation, respect for others, and fairness predominated beliefs about ethical leadership. In contrast, themes of character and accountability were dominant in the U.S., Ireland, and Taiwan. Eisenbeiss and Brodbeck (2014) agree with Resick at al.'s (2011) view that in Eastern cultures, as opposed to Western cultures, ethical leadership is linked to nonmaterialism, an inner calling, and being deeply connected with others on a spiritual level.
 
-<!-- page 45 -->
+<!-- page 46 -->
 
 ## **2.3.1.6** **Ethical and Unethical Leadership in Lebanon**
 
@@ -1094,7 +625,7 @@ Nevertheless, despite the rampant unethical practices in the Lebanese political 
 
 With high power distance, the Lebanese people accept a hierarchical order in which centralization is popular, the manager is a benevolent autocrat, and subordinates naturally expect to be told what to do. Low individualism, on the other hand, indicates a collectivistic society where loyalty is paramount and can override societal regulations. Relationships between employers and employees have moral grounds and are perceived as family links. High uncertainty avoidance indicates rigid codes of belief and intolerance of unorthodox behaviour. Low indulgent societies do not emphasize leisure time and control the fulfilment of their personal desires.
 
-<!-- page 46 -->
+<!-- page 47 -->
 
 These properties form the basis of ethical leadership in Lebanon that is characterized by a strong tendency to establish norms based on what is truthful and moral, and that value the interest of the group over the individual. Ethical leadership in Lebanon comprises the opposite of all immoral practices mentioned above backed by a longing to raise the country from the economic and political abyss that corruption and unethical leadership have thrown it in.
 
@@ -1106,7 +637,7 @@ Moreover, ethical leaders may occasionally encourage controversial behaviour. Ka
 
 In the same line, Eisenbeiss (2012) challenged Brown, Treviño and Harrison's (2005) definition of ethical behaviour as it focuses on 'normatively appropriate' conduct which the authors intentionally left vague considering that norms can vary across organizations, industries, and cultures. Eisenbeiss (2012) doubted whether compliance with organizational
 
-<!-- page 47 -->
+<!-- page 48 -->
 
 norms would still be perceived as ethical when these norms demand behaviour that is against the generally accepted moral values*.* Eisenbeiss (2012) thus called for a benchmark of normative points against which ethicality of conduct can be evaluated since what is considered fitting in one context may be deemed harmful in another.
 
@@ -1120,7 +651,7 @@ An organizational climate refers to "a set of characteristics that (a) describe 
 
 Ethical climates emerge when members of an organization collectively perceive certain forms of ethical behaviour as the expected proper behaviour. Ethical climates consist of the normative values and beliefs involving moral issues shared by members of an organization (Weber, 1995). This common understanding sets the conventional norms and bases for decision making at all levels in the organization (Sims 1992). Importantly, ethical climates do not reflect the members' own ethical standards or moral development but rather depict elements of the members' work environment (Cullen, Parboteeah and Victor, 2003). Ethical climates can thus be perceived as strong or weak depending on the concerned organization or department (Victor
 
-<!-- page 48 -->
+<!-- page 49 -->
 
 and Cullen, 1987). Hence, multiple ethical climates may be present in a single organization (Weber, 1995).
 
@@ -1134,7 +665,7 @@ Importantly, ethical practices can be successfully encouraged among employees th
 
 Compared to the body of knowledge on ethical climate in the business sector (Martin and Cullen, 2006, Simha and Cullen, 2012), little is known about ethical climate in higher education. For example, Malički et al. (2019) examined perceptions of the ethical climate from
 
-<!-- page 49 -->
+<!-- page 50 -->
 
 three schools at the University of Split in Croatia. Acar et al. (2016) explored the ethical climate perceptions of administrative and academic staff members working in Usak University in Turkey. Al-omari (2013) determined the types of ethical climates as perceived by faculty members in the Hashemite University in Jordan.
 
@@ -1148,7 +679,7 @@ Amid fierce competition between them, Lebanese HEIs face mounting pressures to m
 
 Weber (1995) suggests that it is possible for multiple ethical climates to exist in different functions or departments within the same organization despite the overarching set of values that is shared by its members. Weber (1995) concluded that these ethical sub-climates are relatively stable and influenced by varying factors such as the function of the department
 
-<!-- page 50 -->
+<!-- page 51 -->
 
 (e.g., finance, HR, IT), its distinct tasks, and the stakeholders it serves. In a more recent study, Weber and Seger (2002) found contradicting results in which ethical sub-climates evidently existed in organizations and were stable over time however, they were less influenced by a department's function rather by the strength of an organization's ethical climate.
 
@@ -1160,7 +691,7 @@ In the higher education context, few studies have attempted to examine instituti
 
 Ethical climate and ethical culture are two closely related yet distinct constructs of the larger ethical context (Treviño, Beutterfield and McCabe, 1998; Kish-Gephart, Harrison and Treviño, 2010). They are distinguished by their focus on different organizational aspects. Culture, for instance, focuses on the profound organizational structure which encompasses employees' values, beliefs, and assumptions. It is revealed through organizational parables, symbols, and traditions. Climate, on the other hand, is concerned with how employees perceive and experience their environment. It focuses on the outward display of values such as how certain things are done in the organization. This 'way of doing things' is established by top
 
-<!-- page 51 -->
+<!-- page 52 -->
 
 management through devolving practical policies and procedures across the organization (Denison, 1996).
 
@@ -1174,7 +705,7 @@ Based on the theory of cognitive moral development (Kohlberg, 1981), Victor and 
 
 The authors grouped climates on the criteria dimension into three major classes: egoism, benevolence, and principle. In an egoistic climate, organizational norms are assumed to encourage the pursuit of self-interest. In a benevolent climate, more consideration is given to maximizing the interests of certain social groups, and the welfare of others is the reference
 
-<!-- page 52 -->
+<!-- page 53 -->
 
 for solving ethical problems. Finally, in a principled climate, organizational norms support following codes, rules and principles as a prescription for ethical reasoning irrespective of situational outcomes.
 
@@ -1182,17 +713,12 @@ Regarding loci of analysis, these are used to further dissect the organizational
 
 Cross tabulating the two dimensions produces nine ethical climate types: three egoistic; three benevolent; and three principled. The nine cells represent nine ethical criteria that would guide decision making in a unit or an organization. For instance, in an egoistic-individual climate (such as in car dealerships) decisions are mostly based on self-interest. In a principlecosmopolitan climate (such as in public accounting firms) decisions are based on certain professional codes. The resulting measure – the Ethical Climate Questionnaire – consisted of 26 questions designed to capture the nine ethical climate types.
 
-![TH.R02 fig04](../figures/TH/TH.R02_fig04.jpg)
+![TH.R02 fig02](../figures/TH/TH.R02_fig02.jpg)
+**Figure 3.* *Theoretical ethical climate* *types* *(Victor and Cullen, 1987, 1988)**
 
-> *Figure 3.* *Theoretical ethical climate* *types* *(Victor and Cullen, 1987, 1988)*
-
-<!-- page 53 -->
+<!-- page 54 -->
 
 Victor and Cullen (1988) then identified the five prevalent ethical climates among the nine categories: Instrumental, Caring, Independence, Rules, Law and Code (see Figure 4). The climate types are not considered as mutually exclusive, nor are they assumed to be uniform across an organization's subgroups (Wyld and Jones, 1997).
-
-![TH.R02 fig05](../figures/TH/TH.R02_fig05.jpg)
-
-> *Figure 4.* *Emergent* *ethical climate* *types* *(Victor and Cullen, 1987, 1988; Neubaum et al., 2004)*
 
 ## **2.3.2.5** **Critique** **of the Ethical Climate Questionnaire**
 
@@ -1200,7 +726,7 @@ At the time of its inception, ECQ was a pioneering step in measuring ethics. How
 
 Arnaud (2010) warns that the most significant drawback of Victor and Cullen's (1987, 1988) theory is its inability to empirically validate the climate types it theorized given the various distinct groups of climate types that have appeared in research since its inception (Wimbush, Shepard and Markham, 1997; Fritzsche, 2000; Peterson, 2002). Arnaud (2010) rightly demonstrates how the inconsistency in Victor and Cullen's theory is logically justified since the two dimensions (ethical criteria and loci of analysis) used to generate the nine climate types are not fully independent to begin with (Victor and Cullen, 1988: 106) but closely tied to moral judgement. Accordingly, cross-classifying them cannot produce distinct climate types.
 
-<!-- page 54 -->
+<!-- page 55 -->
 
 Arnaud (2010) concludes that Victor and Cullen's renowned theory, in effect addresses only a single element of the ethical work climate, that is morally right decision making.
 
@@ -1212,7 +738,7 @@ Second, in their approach to categorizing ethical climates, Victor and Cullen (1
 
 Third, studies using ECQ have detected inconsistencies in factor loadings (Smith, Thompson and Iacovou, 2009) even with the five common climate types. This resulted in a proliferation of alternative new measures that attempted to correctly assess the ethical climate. For instance, Deshpande (1996a, 1996b), Joseph and Deshpande (1997), Deshpande, George and Joseph (2000), Deshpande, Joseph and Shu (2011), and Zagenczyk et al., (2020) used a modified six-item scale based on ECQ to measure ethical climate. Others, like Stewart et al. (2011) have used a separate two-item scale, while Schwepker (2001) used a seven-item scale.
 
-<!-- page 55 -->
+<!-- page 56 -->
 
 David et al. (2020) based their measurement on Mayer et al.'s (2013) popular three-item scale. One group of marketing researchers (Schwepker and Hartline, 2005; Valentine, Greller and Richtermeyer, 2006; DeConinck, 2010, 2011) used a four-item measure which was later criticized for being too specific to marketing and sales contexts (Simha and Cullen, 2012) and cannot be generalized elsewhere. Altogether, the multitude of scales and inconsistencies suggests that what was originally measured was not strictly ethical climate, thereby posing a real challenge when attempting to compare different studies.
 
@@ -1222,11 +748,7 @@ Fourth, most research that was conducted using the ECQ has measured the ethical 
 
 To address the above-mentioned weaknesses, Kuenzi, Mayer and Greenbaum (2020) presented a new conceptualization of the ethical climate based on Treviño and Nelson's (2017) Multisystem Ethical Culture Framework (see Figure 5). This framework characterizes ethical culture as a complex interplay of formal systems: Selection Systems, Orientation and Training, Policies and Codes, Performance Management, Authority Structure, and Decision Processes; and informal systems: Norms, Rituals, Myths and Stories, and Language. The formal systems are detailed next, illustrating how each impacts the ethical culture of an organization.
 
-![TH.R02 fig06](../figures/TH/TH.R02_fig06.jpg)
-
-> *Figure 5.* *A Multisystem Ethical Culture Framework* *(Treviño* *and Nelson, 2017)*
-
-<!-- page 56 -->
+<!-- page 57 -->
 
 Selection systems are the procedures by which new employees who fit the organizational culture and values are recruited. Organizations can avert ethical issues through considering the candidates' moral character and ethical standards prior to recruitment which can be achieved by performing background checks and conducting integrity tests. For instance, organizations may proceed with caution when hiring candidates having a Machiavellian personality when the culture they are expected to fit in is one of cooperation and mutual support.
 
@@ -1236,7 +758,7 @@ Policies and codes would typically address ethical practices and matters of resp
 
 Performance management systems play a fundamental role in strengthening the ethical culture through showing members what behaviours are valued, rewarded, and disciplined. Ideally, performance metrics identify compensation while performance problems are rectified through disciplinary action that is taken quickly and fairly. An ethical culture is properly promoted when hard-working, upright employees are given chances to excel while unethical ones are disciplined. Discipline should be proportional to the position held by the employee.
 
-<!-- page 57 -->
+<!-- page 58 -->
 
 Members belonging higher in the organizational hierarchy receive harsher penalties that reflect the position's greater authority and responsibility.
 
@@ -1250,15 +772,14 @@ Kuenzi, Mayer and Greenbaum (2020) drew on Treviño and Nelson's (2017) establis
 
 Knowledge is defined as "the fluid mix of framed experiences, values, contextual information and expert insight that provides a framework for evaluating and incorporating new experiences and information" (Swart et al., 2014). Knowledge is not static but changes dynamically as it gets shared with others and interpreted by its providers and receivers (Watzlawick, 1976). Formal, organisational knowledge is often typically found in an organization's documents, databases, and repositories. Tacit knowledge, however, may be found in daily routines, norms, and practices (Davenport and Prusak, 1998). This part of the thesis focuses on understanding the dynamics of knowledge sharing behaviour between
 
-<!-- page 58 -->
+<!-- page 59 -->
 
 employees given the impact it has on accumulating team and organizational knowledge (Tsoukas and Vladimirou, 2001; Cabrera and Cabrera, 2005).
 
 Every act of knowledge-sharing is made up of both donating (providing) knowledge and collecting (obtaining) knowledge (Van Den Hoof and De Ridder, 2004). Knowledge sharing processes can be seen in different perspectives: supply of and demand for new knowledge (Ardichvili, Page and Wentling, 2003), an exchange between a knowledge source and a knowledge receiver, or an interaction between a knowledge carrier and a knowledge requester (Van Den Hoof and De Ridder, 2004). Consistent with the literature on knowledge sharing, this thesis labels the bidirectional process of knowledge sharing as:
 
-(1) knowledge donating, actively providing others with one's personal knowledge and skills.
-
-(2) knowledge collecting, actively consulting others to obtain from them the knowledge and skills they have.
+- (1) knowledge donating, actively providing others with one's personal knowledge and skills.
+- (2) knowledge collecting, actively consulting others to obtain from them the knowledge and skills they have.
 
 ## **2.3.3.1 Organizational Knowledge Sharing**
 
@@ -1266,7 +787,7 @@ In an organizational context, knowledge sharing is characterized by donating or 
 
 In comparison with the corporate sector, the higher education sector is arguably behind in terms of implementing comprehensive knowledge sharing programs (Rowley, 2000; Fullwood, Rowley and Delbridge, 2013). The available research on knowledge sharing in
 
-<!-- page 59 -->
+<!-- page 60 -->
 
 higher education focuses primarily on faculty and students' perspectives (e.g. Fullwood, Rowley and Delbridge, 2013; Goh and Sandhu, 2014; Xia and Yang, 2020) while there is little research focusing on an essential yet almost unexplored constituent of universities, that of professional or non-academic staff (e.g., Rahman et al., 2016; Rahman, Daud and Hassan, 2017). These staff members include executives, directors, managers, assistant managers, department heads, supervisors, librarians, etc. This thesis aims to examine the knowledge sharing behaviours of this specific group, in addition to that of academic staff, in light of the previously mentioned constructs: ethical leadership, and ethical climate in the Lebanese context.
 
@@ -1278,7 +799,7 @@ Knowledge can be shared through various channels such as written communication, 
 
 From the perspective of social exchange theory, knowledge sharing is a bidirectional and multilevel process. It can take place at the individual, intra-organizational, and interorganisational levels (Wilkesmann, Fischer and Wilkesmann, 2009) among individuals, teams, and units who exchange and obtain knowledge, and are impacted by the experience of other
 
-<!-- page 60 -->
+<!-- page 61 -->
 
 players (Argote and Ingram, 2000). Social exchange theory suggests that individuals assess the benefits and costs before sharing their knowledge and decide whether to proceed based on calculated benefits like reputation, respect, and concrete incentives (Blau, 1964). Perceived benefits stimulate knowledge sharing behaviours whereas perceived costs discourage them. (Wang and Noe, 2010).
 
@@ -1290,7 +811,7 @@ Studies on organizational tenure in higher education institutions are of strateg
 
 Organizational tenure is also related to the compatibility between people and their employing organizations. Long tenured employees tend to have higher work motivation,
 
-<!-- page 61 -->
+<!-- page 62 -->
 
 stronger organizational commitment, job engagement, job security, acceptance of organizational policies, values, and authority structure. They are also seldom attracted to the job market (Rhoades and Eisenberger, 2002). This view is supported by the Attraction-Selection-Attrition Theory (Schneider, Goldstein and Smith, 1995). The attraction process states that people find certain organizations more attractive than others based on their implicit judgement of the alignment between their personalities and an organization's culture, processes, and structure. Selection refers to the recruitment procedures that organizations use when hiring people that have attributes they desire. Attrition suggests that people will leave an organization they do not fit. Hence, through self-selection, employees with longer tenure at the organization are those with better person-organization fit. They perceive a stronger alignment between their personal values and those of the organization. Employees with a poor personorganization fit, on the other hand, would have likely left the organization in their early years of tenure (Bal, De Cooman and Mol, 2013).
 
@@ -1304,7 +825,7 @@ The next section will review the literature concerning the relationships between
 
 The leadership literature has repeatedly reported the central role of leaders in facilitating knowledge sharing through implementing norms that advocate positive prosocial
 
-<!-- page 62 -->
+<!-- page 63 -->
 
 behaviours (Srivastava et al., 2006; Xue, Bradley and Liang, 2011; Han et al., 2016; Park and Kim, 2018). As mentioned earlier, ethical leadership, in particular, is characterized by morality displayed in desirable behaviours such as fair treatment, encouraging voice, and building trust among the different exchange parties (Brown and Treviño, 2006; Le and Lei, 2018). These behaviours have been shown to positively influence the attitude toward knowledge sharing and the intention to share knowledge (Bock et al., 2005) through providing the motivation to do so and the opportunities that elicit this behaviour. Ethical leaders strive to eliminate the barriers that restrict the sharing of knowledge and resources among team members through enforcing policies that emphasize morality, such as codes of ethics, fair rewards, and ethical decisionmaking processes. Another contributor to eliminating barriers and facilitating knowledge sharing behaviours is the leader's role modelling element. Through their appropriate conduct, ethical leaders exhibit the organization's values of mutual care, justice, trust, and goodwill (Bavik et al., 2018).
 
@@ -1314,7 +835,7 @@ The available research has mostly taken a social capital perspective which argue
 
 To answer this research question, it is hypothesized that ethical leadership promotes employee knowledge sharing (collecting and donating) through eliminating the barriers that obstruct the sharing of knowledge. In an exchange fashion, employees involved in relationships that are characterized by trust expect their contribution of knowledge and sharing of resources
 
-<!-- page 63 -->
+<!-- page 64 -->
 
 to be fairly and equally reciprocated within the team (Mayer et al., 2012; Kacmar et al., 2013). Thus, I hypothesize:
 
@@ -1330,7 +851,7 @@ Social learning theory (Bandura, 1977, 1986) posits that employees learn suitabl
 
 According to Zohar and Luria (2005), top managers set the strategic goals and procedures pertinent to these goals. Through implementing practices, ethical leaders then interpret these broad strategies. Consequently, practices establish clear directions for employees on expected ethical conduct. The interpretation and implementation processes are rooted in the two pillars of ethical leadership: moral person (interpretation) and moral manager (implementation). Evidently, leaders' ethicality shapes their ethical practices in numerous areas. When recruiting employees, ethical leaders seek high moral standards. They implement ethics training and define acceptable behaviours as part of their active management of ethics (Brown and Mitchell, 2010). They also interpret policies and codes through discussing organizational ethics with employees (Brown, Treviño and Harrison, 2005) and emphasizing
 
-<!-- page 64 -->
+<!-- page 65 -->
 
 the morality of processes used to achieve goals instead of focusing only on end results (Greenbaum, Quade and Bonner, 2015).
 
@@ -1344,7 +865,7 @@ Prior research has indicated that the ethical climate plays a significant role i
 
 Social learning theory (Bandura, 1977, 1986) holds that individuals mimic the behaviour of their role models. Robinson and Bennett (1977) assert that ethical unit members act as role models as well as actively take part in observing ethical norms through rewards and punishments. Additionally, they may make positive or negative comments, involve complying employees in activities, and ostracize disobedient ones from their group. As employees witness
 
-<!-- page 65 -->
+<!-- page 66 -->
 
 these sanctions imposed for improper behaviour on one hand, and rewards offered for positive conduct on the other, they shape their shared perceptions towards ethical expectations.
 
@@ -1356,7 +877,7 @@ An organizational climate that is characterized by open communication, trust, co
 
 As for weak ethical climates, Mayer et al. (2013) assert that in unethical organizational cultures, employees fail to develop and maintain ethical behaviours, practice ethical decision-
 
-<!-- page 66 -->
+<!-- page 67 -->
 
 making, and encourage their peers to behave ethically. Such an environment generates a strong sense of uncertainty where employees are always sceptical of information shared by their peers. In fact, knowledge sharing has been found to be almost lacking among employees within organizational cultures of mistrust and competition (Lam, 2005).
 
@@ -1372,7 +893,7 @@ Indeed, past research has found that organizational climates play an important m
 
 Concerning the mediating role of ethical climates in particular, support is also found in the literature. For example, researchers have asserted that the relationship between ethical leadership and enhancing positive workplace attitudes is mediated by the ethical climate of the organization (Mayer, Kuenzi and Greenbaum, 2010; Kalshoven, Den Hartog and De Hoogh,
 
-<!-- page 67 -->
+<!-- page 68 -->
 
 2013; Lu and lin 2014; Demirtas and Akdogan, 2015). Ethical climate has also been found to mediate the relationship between ethical leadership and the financial performance of the organization (Shin et al., 2015). Research on the mediating role of ethical climate in the higher education sector is limited. Ramos, Mata and Nacar (2021) have argued that the ethical climate mediates the effect of individual differences, measured using personality traits, on the state of mindfulness. Their sample included faculty, administrators, and staff of higher education institutions in the Philippines. Awais-e-Yazdan and Hassan (2020) have found a mediating role of the ethical climate between human resource management practices and employee turnover intention among faculty members in public universities in Pakistan.
 
@@ -1386,7 +907,7 @@ Since leadership is a time-dependent phenomenon based on mutual trust that devel
 
 Organizational tenure has also been associated with a higher level of social links that employees compile throughout their tenure in addition to their long-term career plans within the organization (Hu et al., 2019). In fact, the longer employees stay in their current organization, the more strongly they become embedded in it (Lee et al., 2004) and the higher
 
-<!-- page 68 -->
+<!-- page 69 -->
 
 justice they perceive in the system's management practices (Magoshi and Chang, 2009). Accordingly, perceptions of long tenured employees become more nuanced with time.
 
@@ -1404,21 +925,20 @@ Taken together, hypotheses *H2.a.b.* and *H3* suggest a first-stage moderated me
 
 *H4a.b.* Employee organizational tenure moderates the indirect relationship between ethical leadership and employee (a) knowledge collecting and (b) knowledge donating through ethical climate such that the indirect relationship is stronger when organizational tenure is longer.
 
-<!-- page 69 -->
+<!-- page 70 -->
 
 ## **2.5 Proposed Conceptual Framework**
 
 The proposed conceptual framework, which is drawn from the review presented in the previous sections, and the above hypotheses discussed for each of the depicted relationships (arrows), is presented in Figure 6.
 
-![TH.R02 fig07](../figures/TH/TH.R02_fig07.jpg)
-
-> *Figure 6.* *Proposed Conceptual Framework* *Abbreviation: OT, Organizational Tenure*
+![TH.R02 fig03](../figures/TH/TH.R02_fig03.jpg)
+**Figure 6.* *Proposed Conceptual Framework* *Abbreviation: OT, Organizational Tenure**
 
 ## **2.5** **Summary**
 
 This chapter has shed light on a number of major studies contributing to the literature on ethical leadership, ethical climate, knowledge sharing, and organizational tenure. This review indicated that little attention has been given to the influence of ethical leadership on employee outcomes in the higher education sector, and less so to the roles of the ethical climate and employee organizational tenure in that relationship. Knowledge gaps in the higher education literature are thus identified, which this thesis aims to address in the Lebanese private higher education sector. The research questions of this thesis revolve around the relationship between ethical leadership and employee knowledge sharing and the role of the ethical climate and organizational tenure in that relationship. A theoretical lens through which the research questions of this thesis will be examined is laid out by adopting social learning and social exchange theories. An extended review of the main concepts of this thesis is then presented after which the hypotheses are formulated. The literature review covered in this chapter will serve as a guideline for the thesis contribution to knowledge and recommendations for practice that are considered in the discussion chapter.
 
-<!-- page 70 -->
+<!-- page 71 -->
 
 ## **Chapter 3: Methodology and Methods**
 
@@ -1432,7 +952,7 @@ Research is guided by a set of assumptions, beliefs, and feelings about the soci
 
 This research investigates the behaviour of people in the realm of management as opposed to investigating inanimate objects. The researcher believes that reality in this realm is truly independent of himself as an observer, however it cannot be accessed through direct means, and thus the assumptions of the natural sciences cannot be directly applied in this study. This position towards reality has been labelled 'internal realism' which holds that when dealing with perceptions, truth is uncertain and cannot be directly revealed as it is a function of the human mind and requires additional investigation to uncover. Internal realism expects that only indirect evidence of occurrences can be gathered within an environment. Realism, on the other hand, considers that the world exists independently of human perception, where objective reality is revealed by scientific observations (Easterby-Smith et al., 2018). Other ontological
 
-<!-- page 71 -->
+<!-- page 72 -->
 
 positions that Easterby-Smith et al. (2018) discuss are relativism and nominalism. Relativism acknowledges that there are many truths and that facts depend on the observer while nominalism goes a step further and holds that there is no truth and facts are all human creations.
 
@@ -1446,19 +966,15 @@ Positivists hold a deterministic philosophy of the realm they are researching in
 
 Easterby-Smith et al. (2018) distinguish among positivist philosophies. They classify the traditional positivist philosophy which is commonly applied to experimental studies as
 
-<!-- page 72 -->
+<!-- page 73 -->
 
 'Strong Positivism' whereas positivist philosophy that is applied to social-scientific studies, like the one at hand, is defined as 'Positivism'. They emphasize four epistemological positions that are situated on a continuum extending from Strong Positivism to Strong Constructionism where strong positivism and strong constructionism are linked to realist and nominalist ontologies while positivism and constructionism are linked to internal realist and relativist ontologies. Table 1 summarizes the links between ontologies and epistemologies.
-
-![TH.R02 fig08](../figures/TH/TH.R02_fig08.jpg)
-
-> *Table 1: Ontology and Epistemology*
 
 (Easterby-Smith, Thorpe and Jackson, 2008)
 
 Positivism challenges the traditional view of the absolute truth that strong positivism holds in the search for knowledge. It emphasizes that the investigation of human behaviour, such as the objective of this study, could not be an absolute science and researchers cannot be positive about their claims of knowledge (Creswell and Creswell, 2017). As mentioned in section 3.1.1, the researcher holds that when dealing with perceptions, truth is obscure and requires additional investigation to uncover as it is a function of the human mind. Therefore, a strong positivist epistemology would not fit the researcher's ontological views and cannot be applicable to this study.
 
-<!-- page 73 -->
+<!-- page 74 -->
 
 The positivist paradigm combines deductive logic with empirical observations of human behaviour and makes it possible to execute quantitative research in a social science environment. The primary method followed in positivist research is the survey method which uses cross-sectional surveys and presents data in quantitative values to demonstrate relationships between the observed variables. The positivist study presumes that the researcher is independent from the measured variables (Easterby-Smith et al., 2018) through maintaining minimal interaction with research participants when executing the research (Wilson, 2014) and preventing human bias from influencing its outcomes (Easterby-Smith et al., 2018).
 
@@ -1472,7 +988,7 @@ Conforming to the research philosophy outlined in the previous section, this stu
 
 Research design is a framework that the researcher adopts to answer research questions. It guides the methods of data collection and analysis (Zickmund, 2013). Research design can take three forms: exploratory, descriptive, and explanatory or causal (Babbie, 2020). Exploratory research focuses on examining a relatively new issue that is unstudied, whereas descriptive research observes and details a previously-established phenomenon. Explanatory research, on the other hand, has bases in exploratory and descriptive research, and aims to identify causeand-effect relationships between certain variables (Babbie, 2020).
 
-<!-- page 74 -->
+<!-- page 75 -->
 
 This research uses an explanatory design. It examines whether the perceptions of respondents towards their ethical leaders have any role in their knowledge sharing behaviours. The role of the respondents' perceptions of the ethical climate in mediating the relationship is also scrutinized as well as the moderating role of the organizational tenure. Hence, the research is explanatory in nature. The conceptual model developed in the previous chapter (see Figure 6) is tested to find out whether it fits the sample data using powerful statistical procedures and tools such as hierarchical regression and Hayes Process Macro (see section 3.6).
 
@@ -1484,7 +1000,7 @@ Survey research can be classified using the time dimension into cross-sectional 
 
 To expose existing relationships between the variables in this study, an inferential cross-sectional survey research methodology was adopted. Applying this methodology involves selecting groups of respondents that share a common context, analysing their data to test prior hypotheses and compare their current experiences, and arriving at knowledge that is indicative of the relations between the examined variables. The methodology of inferential cross-sectional surveys is underpinned by the ontology of internal realism and the epistemology of positivism. This approach enables the researcher to remain independent of the research outcome as well as test hypotheses derived from theories in the social science as opposed to applying experimental designs. In an experimental design, the independent variable is manipulated, and the dependent variable is measured before and after the experimental manipulation (Creswell and Creswell, 2017; Easterby-Smith et al., 2018). Since this is not the
 
-<!-- page 75 -->
+<!-- page 76 -->
 
 main purpose of this research, adopting a correlational design was considered the most appropriate for the study.
 
@@ -1496,7 +1012,7 @@ Advantages of choosing the survey method in this research also include the avail
 
 As for the limitations of using the cross-sectional survey method, these include the potential non-response resulting from recipients choosing not to take part in the survey. A large non-response ratio limits the representation and validity of the research. Also, different groups may respond to different extents, potentially skewing the sample. Moreover, the survey used in this study comprises close ended questions and is therefore unable to reveal motivations behind the reported answers. Qualitative research designs, on the other hand, which may take several forms such as case study, cohort, ethnographic, action, surveys, and observational research are able to reveal underlying motivations. However, a qualitative design was not adopted for this research because it was inappropriate for an empirical investigation of quantitative correlations between variables (Castellan, 2010). It is also incompatible with the researcher's ontological and epistemological assumptions.
 
-<!-- page 76 -->
+<!-- page 77 -->
 
 Further limitations of the cross-sectional survey method lie in the common method bias resulting from self-report questions (Podsakoff et al., 2003). Employee knowledge sharing behaviour in this study (knowledge collecting and knowledge donating) is a self-reported measure from the same source. Therefore, it can be subject to common method bias. However, this limitation is tested for using Harman's one-factor (see sections 3.2.4 and 4.7).
 
@@ -1510,7 +1026,7 @@ Compared to cross-sectional designs, longitudinal designs require multiple measu
 
 Another limitation of longitudinal designs is the measurement interval or the period between measurements. A poor choice of measurement intervals introduces two risks to the
 
-<!-- page 77 -->
+<!-- page 78 -->
 
 accuracy of the inferred results. It may weaken the potential to find any real change between measurements and may result in spurious findings or even opposite results (Pelz and Lew, 1970). Further limitations of longitudinal designs lie in the delusion of meaningful correlations simply because the measurements are separated by a time interval.
 
@@ -1526,7 +1042,7 @@ Among these remedies are those used to reduce social desirability, which include
 
 In section 1.3, the specific characteristics of the Lebanese private higher education sector were described along with the researcher's rationale for examining private universities over the public university. Further to this, it should be noted that the research outcomes include
 
-<!-- page 78 -->
+<!-- page 79 -->
 
 recommendations and proposed changes to private higher education management. In this regard, Lebanese private universities are self-governed, self-financed, and dependent upon their resources rather than the government which makes introducing change to their organizational structure and management culture attainable. Similar change is laborious to impose and difficult to implement in the public university system as it requires governmentlevel laws and decrees besides the resistance to change in a politically divided and nepotismrich environment.
 
@@ -1538,29 +1054,15 @@ The target population of this study includes academic and professional staff emp
 
 The researcher employed purposeful sampling which refers to a non-probability sampling technique in which units (universities in this case) are selected because they have certain characteristics that are needed in the sample. The main characteristic that would distinguish the private universities targeted in this study is their size. The researcher desired that universities of all sizes be represented in the sample. Large well-established universities in Lebanon offer a wide number of majors including engineering, nursing, and medicine, and have branch campuses spread across the country. They have highly equipped engineering labs (e.g., electrical, mechanical, construction) and are affiliated with university medical centres (i.e., hospitals) for student practicums. Smaller and more recently established universities offer a limited number of majors (e.g., business management, education, computer science) that essentially do not require affiliations with medical centres or labs equipped with cutting-edge technology.
 
-<!-- page 79 -->
+<!-- page 80 -->
 
-Initially, the researcher contacted 16 universities requesting permission to conduct the research among their staff. Five of the contacted universities represented the large institutions while the remaining nine represented the smaller ones*. *This was the maximum number that the researcher could reach within a reasonable period considering the long ethical procedures taken by some university research boards before granting approval. Of the 16 universities, nine approved the researcher's request to take part in the research (further details of this step can be found in section 3.5 Ethical Considerations). Three of these nine universities were among the large institutions while the remaining six represented the smaller ones. The profile of the universities included in this study is shown in Table 2.
+Initially, the researcher contacted 16 universities requesting permission to conduct the research among their staff. Five of the contacted universities represented the large institutions while the remaining nine represented the smaller ones*. *This was the maximum number that the researcher could reach within a reasonable period considering the long ethical procedures taken by some university research boards before granting approval. Of the 16 universities, nine approved the researcher's request to take part in the research (further details of this step can be found in section 3.5 [Ethical Considerations)](#page-83-1). Three of these nine universities were among the large institutions while the remaining six represented the smaller ones. The profile of the universities included in this study is shown in Table 2.
 
 The remaining seven universities either did not respond to the request or required the researcher to secure an internal research collaborator (co-author) from the university academic body who would apply for ethical approval on the researcher's behalf and take part in conducting the study, which was inappropriate for a single author doctoral thesis. Eventually, the accessible population or the sampling frame of this research was the academic and nonacademic staff of the nine universities whose identities are not disclosed when discussing the results to guarantee the confidentiality of information which might affect their reputation.
 
-> *Table 2: Profile of universities included in the study*
-
-| University | Type | Year Founded | Size |
-| --- | --- | --- | --- |
-| Univ A | Private | 2000 | Small |
-| Univ B | Private | 1994 | Small |
-| Univ C | Private | 1988 | Large |
-| Univ D | Private | 1996 | Small |
-| Univ E | Private | 1955 | Small |
-| Univ F | Private | 2001 | Small |
-| Univ G | Private | 2000 | Small |
-| Univ H | Private | 1987 | Large |
-| Univ I | Private | 1875 | Large |
-
 As far as the sampling framework is concerned, the researcher had requested in his email to university research boards that the survey be disseminated to the full employee list in each university directory, and was assured that his request was fulfilled. However*, *statistics about the total number of academic and non-academic staff working in these institutions was not available to the researcher in a single location. Obtaining an approximate total number was achieved either through aggregating data from the participating institution's websites when such data was publicly available or requesting these numbers from the participating
 
-<!-- page 80 -->
+<!-- page 81 -->
 
 universities. Even then, some institutions did not provide this information and only collaborated by sending the survey to their communities. The total accessible population comprised approximately 5,000 academic and non-academic staff.
 
@@ -1568,7 +1070,7 @@ universities. Even then, some institutions did not provide this information and 
 
 The sample size affects the generalizability of the research results to the population of nine Lebanese Private Higher Education Institutions. Determining the sample size is critical to achieve confidence in testing the hypotheses. According to Krejcie and Morgan (1970), the formula for calculating the required minimum sample size based on the confidence level desired from the target population is:
 
-s = X^2 NP(1-P) / d^2 (N-1) + X^2 P(1-P) where
+$$ s = X^2 NP(1-P) / d^2 (N-1) + X^2 P(1-P) where $$
 
 s = required sample size
 
@@ -1588,7 +1090,7 @@ Of the 5,000 employees surveyed in the 9 institutions, 663 survey responses were
 
 It is worth noting that data collection took place during the COVID19 pandemic and repetitive lockdowns which prohibited the researcher from meeting in person with the points of contact at each university and explaining the importance of the research. Instead, this task was either performed by email or over the phone. However, in-person meetings may have conveyed the importance of the research in a much clearer way and encouraged the university communities to answer the survey on a larger scale.
 
-<!-- page 81 -->
+<!-- page 82 -->
 
 The researcher speculates that the fully online activity of the universities (online classes, meetings, and working from home) due to the COVID19 had already burdened the university community with too much on-screen work at the time of data collection for this study. More employees may have participated in the survey, however deciding to take an additional, yet optional task (completing an anonymous survey received through the university email) would have likely resulted in declining that extra effort and screen time.
 
@@ -1604,7 +1106,7 @@ In order to rule out the possibility that pre-existing demographic differences m
 
 The complete demographic survey can be found in Appendix E.
 
-<!-- page 82 -->
+<!-- page 83 -->
 
 ## **3.4.2** **Ethical Leadership** **Measurement Instrument**
 
@@ -1618,7 +1120,7 @@ This thesis adopts the view of Van Den Hoof and De Ridder (2004) whereby knowled
 
 In its validating empirical study, the knowledge sharing scale (10 items) had a Cronbach's alpha of .85 for knowledge donating and .78 for knowledge collecting (Van Den Hoof and De Ridder, 2004). The study was conducted in five Dutch organizations from different industries: technical services, educational services, governmental department, financial services, and a consultancy firm. The scale was also used in another study which
 
-<!-- page 83 -->
+<!-- page 84 -->
 
 involved a specialty staffing agency that provides organizations with highly educated experts, and a consultancy firm that specialises in organizational communication.
 
@@ -1634,7 +1136,7 @@ A seven-point Likert-type scale (1 = "Strongly Disagree," and 7 = "Strongly Agre
 
 Any research that involves human participants entails major ethical concerns which relate to the safety of the participants and the confidentiality of their identities and answers. In planning this research and in recruiting the participants several considerations were made. The ethical review process as outlined by the Social Sciences Research Ethics Committee (SSREC)
 
-<!-- page 84 -->
+<!-- page 85 -->
 
 at the University of Bath (see Appendix F) was adhered to throughout the research process. Ethical directions pertinent to respondents' rights to privacy, anonymity, consent and voluntary participation, and protection from harm and deception as stated by Bryman (2003) also guided the operation of this research.
 
@@ -1652,7 +1154,7 @@ In addition, the questionnaire was designed to ask for general information only.
 
 The first page of the survey included a confidentiality notice and an informed consent form. The text used in the informed consent (see Appendix P) contained information about the objective and purpose of the study, the affiliation of the researcher and his contact information, and the approximate time required to complete the survey – 8 minutes. The consent also included an explanation regarding the use of the collected data. Respondents were informed
 
-<!-- page 85 -->
+<!-- page 86 -->
 
 that the information is part of the researcher's doctoral dissertation and that it will be used solely for academic research purposes. They were also informed that they could refuse to participate in the survey or discontinue their participation at any time without giving a reason, and that there were no negative consequences, penalties, or loss of benefits for choosing to do so. The guarantees presented in the text encouraged participants to provide honest and unbiased answers.
 
@@ -1666,7 +1168,7 @@ Another ethical matter that the researcher considered was whether the right of t
 
 Other than the above withholding of information to managers, there has been no deception at any stage of the study as the aim of the research was not to provide an individualised report that judges supervisors or managers without their knowledge or consent, but rather to determine followers' perceptions of ethical leadership practices and their
 
-<!-- page 86 -->
+<!-- page 87 -->
 
 implications for certain behaviours. In addition, the survey was sent to employees at all levels in an institution, that is supervisors that were being rated had the chance to rate their own superiors as well. In other words, everyone was aware of the survey that was being conducted.
 
@@ -1682,7 +1184,7 @@ IRB approval was then submitted to the University of Bath SSREC for review. Appr
 
 It is worth noting that according to professional practice, IRB approval issued by the researcher's home institution which is accredited by the New England Commission on Higher Education is generally acknowledged by other institutions in Lebanon. Therefore, the
 
-<!-- page 87 -->
+<!-- page 88 -->
 
 researcher sought to request ethical permission to collect data from the remaining universities in this study through presenting the IRB approval of his home institution in addition to that issued by the University of Bath (see Appendix H). Including both approvals in the request made a strong case for the research, encouraged the contacted universities to take part in it, and accelerated the approval process.
 
@@ -1696,7 +1198,7 @@ After receiving ethical approval from the relevant universities, an online anony
 
 The survey (see Appendices A-D) is built using the researchers' account on the Bath Qualtrics system. It comprises 4 sections and 38 obligatory questions. Section A consists of 6 questions relating to demographic information. Section B is composed of 10 questions about the follower's perception of ethical leadership. In section C, there are 12 items about the ethical organizational climate. Section D enquires about the respondent's knowledge sharing behaviour in 10 items.
 
-<!-- page 88 -->
+<!-- page 89 -->
 
 The questions were spread over 12 pages: Introduction and consent (1 page), demographics (1 page), ethical leadership (2 pages), ethical climate (2 pages), commitment (4 pages), knowledge collecting (1 page), and knowledge donating (1 page). The pages progressed automatically after answering all the questions on a given page. Spreading the questions over several pages served two purposes: eliminating respondent fatigue resulting from endless scrolling through a single page, especially when the survey is being viewed on a mobile device; and displaying short sets of related questions on each new page so respondents can focus on answering the questions at hand.
 
@@ -1710,7 +1212,7 @@ To maximise the response rate, the researcher sent personalized follow-up emails
 
 Notably, the response rate increased after personalized emails were sent. The researcher often received replies commending the research topic and confirming that the survey was
 
-<!-- page 89 -->
+<!-- page 90 -->
 
 completed. This indicated that personalized emails induce higher engagement between the respondent and the survey when the emails address each recipient by their name compared to when they were sent by the university without personally addressing respondents. However, this step was tedious and time consuming, as the researcher needed to manually retrieve thousands of email addresses from the university websites considering that some universities do not have a single university directory that includes all members but rather grouped them under different departments and offices.
 
@@ -1732,7 +1234,7 @@ I downloaded the raw data from Qualtrics into the IBM Statistical Package for th
 
 Scale mean imputation was then used to replace the missing data resulting from removing the third item of the Ethical Leadership Scale from the survey run at University H. On the other hand, data relating to respondents who opted out of the survey as well as those who left more than 10% missing data were discarded. According to Hair et al. (2014), missing
 
-<!-- page 90 -->
+<!-- page 91 -->
 
 data of under 10% would not create problems, however when the missing data exceeds 10%, no remedies can be used. When the data screening and cleaning is done, confirmatory factor analysis will be performed on all the used instruments to confirm their construct validity.
 
@@ -1746,7 +1248,7 @@ For the remaining hypotheses, a multivariate statistical analysis technique know
 
 Path analysis can be performed using Hayes Process Macro which was introduced by Hayes (2013) and is available as an add-on for SPSS. It is a computational tool with predefined models that are pre-programmed into the macro itself (Hayes et al., 2017). The macro performs path analyses and is used to generate the required statistics for mediation, moderation, and moderated mediation. It will be used in this research to evaluate the mediation effect of the
 
-<!-- page 91 -->
+<!-- page 92 -->
 
 ethical climate (H2a.b.) and the moderating effect of the employee organizational tenure (H3) and the resulting moderated mediation (H4a.b.) in the relationship between ethical leadership and employee knowledge sharing.
 
@@ -1756,7 +1258,7 @@ This chapter addressed the research philosophy, design, setting, population, ins
 
 In terms of ethical considerations, the researcher acquired full ethical approval from the University of Bath to conduct the survey and collect the data. Further ethical approvals were required by some of the involved institutions. The survey link was sent by email to the points of contact at the nine universities that granted their approval, and they distributed the survey to their communities. This chapter also included the statistical methods that will be applied to analyse the collected data, answer the research questions, and test the associated hypotheses. Chapter 4 will report the findings obtained from the data analysis.
 
-<!-- page 92 -->
+<!-- page 93 -->
 
 ## **Chapter 4: Findings**
 
@@ -1776,49 +1278,13 @@ This chapter starts with descriptive analysis for the demographic variables as w
 
 Following the data collection procedure outlined in the previous chapter, a total of 663 individuals attempted to access the survey. Of these, 10 individuals did not consent to taking part in the survey after reading the information sheet. The remaining 653 surveys included 68 cases with missing data (minimum missing of 16%). All the missing data were the result of incomplete surveys and found towards the end of the survey as the respondents were able to proceed through the survey only after they had fully completed each successive section. These 68 cases with missing data were removed, leaving a final sample size of 585 cases.
 
-<!-- page 93 -->
+<!-- page 94 -->
 
 The study's participants represented a relatively broad range of age groups, educational levels, positions, and tenure lengths. The demographics of the respondents are presented in Table 3 below. Despite the fact that the demographic profile of the population from which the sample is drawn – that is the total number of staff employed in all private higher education institutions in Lebanon – is unknown to the researcher, the wide range of demographics represented in this study adds to the strength of the findings, rendering them more generalizable across the larger population.
 
-> *Table 3: Respondents'* *Demographic Profile*
-
-| Demographic | Category | Frequency | Percentage |
-| --- | --- | --- | --- |
-| Gender | Male | 210 | 35.9 |
-|   | Female | 371 | 63.4 |
-|   | Prefer not to say | 4 | 0.7 |
-| Age Group | 21-25 | 8 | 1.4 |
-|   | 26-30 | 46 | 7.9 |
-|   | 31-35 | 92 | 15.7 |
-|   | 36-40 | 115 | 19.7 |
-|   | 41-45 | 103 | 17.6 |
-|   | 46-50 | 73 | 12.5 |
-|   | 51-55 | 70 | 12.0 |
-|   | 56-60 | 41 | 7.0 |
-|   | 61-65 | 23 | 3.9 |
-|   | >65 | 14 | 2.4 |
-| Education (Highest |   |   |   |
-| Level) | High School | 1 | 0.2 |
-|   | Technical/Vocational Degree | 11 | 1.9 |
-|   | Bachelor's Degree (or equivalent) | 64 | 10.9 |
-|   | Postgraduate Qualification (Non-Master's Degree) | 16 | 2.7 |
-|   | Master's Degree (or equivalent) | 228 | 39.0 |
-|   | Doctorate Degree (or equivalent) | 265 | 45.3 |
-| Position | Academic | 307 | 52.5 |
-|   | Non-academic / Administrative | 162 | 27.7 |
-|   | Both | 116 | 19.8 |
-| Organizational |   |   |   |
-| Tenure | Less than 1 year | 19 | 3.2 |
-|   | 1-5 years | 123 | 21.0 |
-|   | 6-10 years | 146 | 25.0 |
-|   | 11-15 years | 109 | 18.6 |
-|   | 16-20 years | 70 | 12.0 |
-|   | 21-25 years | 64 | 10.9 |
-|   | More than 25 years | 54 | 9.2 |
-
 The largest group of participants (*n*=371, 63.4%) were female and the largest age group was between 36 and 40 years (*n*=115, 19.7%). For the level of education, the largest group
 
-<!-- page 94 -->
+<!-- page 95 -->
 
 (*n*=265, 45.3%) reported holding a doctorate degree while the second largest group was master's degree holders (*n=*228, 39.0%). The survey targeted all the workforce of the higher education institutions involved, of which 52.7% (*n*=307) described their role as 'Academic' while 27.7% (*n=*162) described it as 'Non-academic / Administrative (Professional) Staff'. The remaining 116 respondents (19.8%) described their role as involving both academic and professional work, what is referred to in the literature on higher education management as the 'Third Space' (Whitchurch, 2008). In terms of tenure, the largest group (*n=*146, 25.0%) reported being part of the organization for the last 6 to 10 years.
 
@@ -1832,13 +1298,13 @@ Considering the unidimensionality of the scale which consists of 10 questions, I
 
 Table 4 presents the descriptive statistics for the study variables including the minimum, maximum, mean and standard deviation for each variable.
 
-> **Min** **Max** **Mean** **Std. Dev.** Ethical Leadership 1.00 7.00 5.4580 1.2722 Knowledge Donating 1.33 7.00 5.4171 1.0535 Knowledge Collecting 1.00 7.00 5.1855 1.0814
+***Min** **Max** **Mean** **Std. Dev.** Ethical Leadership 1.00 7.00 5.4580 1.2722 Knowledge Donating 1.33 7.00 5.4171 1.0535 Knowledge Collecting 1.00 7.00 5.1855 1.0814*
 
 Ethical Climate 1.00 7.00 4.9547 1.1369 Organizational Tenure 1.00 7.00 3.8478 1.6590
 
-> *Table 4: Descriptive Statistics for the study variables*
+**Table 4: Descriptive Statistics for the study variables**
 
-<!-- page 95 -->
+<!-- page 96 -->
 
 ## **4.4** **Normality of the study variables**
 
@@ -1846,44 +1312,21 @@ Normality is checked primarily as a basis for reliable correlations and multivar
 
 The use of skewness and kurtosis tests provides good insight as to whether the data are normally distributed. According to Hair et al. (2014), issues of skewness and kurtosis are present if the test values are greater than +1 or less than -1. The data is said to be not normally distributed if skewness and kurtosis are present.
 
-> *Table 5: Skewness and kurtosis of the study variables*
-
-|   | Skewness | Kurtosis |
-| --- | --- | --- |
-| Ethical Leadership | -1.169 | 1.306 |
-| Knowledge Donating | 847 | .869 |
-| Knowledge Collecting | 971 | 1.795 |
-| Ethical Climate | 789 | .570 |
-| Organizational Tenure | .426 | 826 |
-
 Table 5 shows that some data – namely those pertaining to ethical leadership and knowledge collecting questions - had skewness and/or kurtosis issues indicating non-normality. This was further confirmed by visually inspecting the P-P plots of regression standardized residuals that were generated for the two dependent variables, knowledge collecting (Figure 7) and knowledge donating (Figure 8) and revealed that the data is not completely normally distributed with points that were slightly off the line.
-
-<!-- page 96 -->
-
-![TH.R02 fig09](../figures/TH/TH.R02_fig09.jpg)
-
-> *Figure 7.* *Normal P-P Plot of Regression Standardized Residuals for Knowledge Collecting*
-
-![TH.R02 fig10](../figures/TH/TH.R02_fig10.jpg)
-
-> *Figure 8.* *Normal P-P Plot of Regression Standardized Residuals for Knowledge Donating*
-
-Furthermore, two main tests can be used to examine data normality: the Kolmogorov-Smirnov test and the Shapiro-Wilks test. These two tests compare the data to a normal distribution of the mean and provide an indication of whether the data is normally distributed.
 
 <!-- page 97 -->
 
+![TH.R02 fig04](../figures/TH/TH.R02_fig04.jpg)
+**Figure 7.* *Normal P-P Plot of Regression Standardized Residuals for Knowledge Collecting**
+
+![TH.R02 fig05](../figures/TH/TH.R02_fig05.jpg)
+**Figure 8.* *Normal P-P Plot of Regression Standardized Residuals for Knowledge Donating**
+
+Furthermore, two main tests can be used to examine data normality: the Kolmogorov-Smirnov test and the Shapiro-Wilks test. These two tests compare the data to a normal distribution of the mean and provide an indication of whether the data is normally distributed.
+
+<!-- page 98 -->
+
 If the significance value (Sig.) is greater than the alpha value (.05 in this research), then there is no evidence that the data differs significantly from a normal distribution.
-
-> *Table 6: Normality tests for the study variables*
-
-|   | Kolmogorov-Smirnov | Shapiro-Wilk |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- |
-|   | Statistic | df | Sig. | Statistic | df | Sig. |
-| Ethical Leadership | .113 | 585 | .000 | .905 | 585 | .000 |
-| Knowledge Collecting | .135 | 585 | .000 | .930 | 585 | .000 |
-| Knowledge Donating | .114 | 585 | .000 | .949 | 585 | .000 |
-| Ethical Climate | .082 | 585 | .000 | .959 | 585 | .000 |
-| Organizational Tenure | .188 | 585 | .000 | .919 | 585 | .000 |
 
 Table 6 shows that the significance value for the study variables in both tests is less than 0.05 indicating that they are not normally distributed. However, as mentioned earlier, this violation of normality is not a major concern in the current analysis, although it adds to the researcher's understanding of the data properties used in the research.
 
@@ -1893,16 +1336,7 @@ Internal reliability testing was performed using Cronbach's alpha to determine w
 
 Examining the dataset used in this study, all constructs were reliable (Table 7) and exceeded the acceptable threshold value of 0.70 (Nunnally, 1978).
 
-> *Table 7: Reliability of the Study Scales*
-
-| Scale | Items | Cronbach's alpha |
-| --- | --- | --- |
-| Ethical Leadership | 10 | .953 |
-| Ethical Organizational Climate | 12 | .931 |
-| Knowledge Donating | 6 | .889 |
-| Knowledge Collecting | 4 | .867 |
-
-<!-- page 98 -->
+<!-- page 99 -->
 
 ## **4.6 Confirmatory Factor Analysis of Scales**
 
@@ -1914,7 +1348,7 @@ The most widely used fit indices for CFA include the Comparative Fit Index (CFI)
 
 The CFI and TLI are incremental fit indices that evaluate the improvement in the fitness of a model over a baseline model without a relationship among the model variables. The fit indices CFI and TLI range between 0 and 1 with values closer to 1 (especially greater than 0.9) representing better fit (Kline, 2015). RMSEA indicates the extent to which the hypothesized model fits approximately well in the population. In other words, RMSEA reveals information about the 'badness-of-fit' with lower values indicating a good fit. The RMSEA index is considered among the most informative and recommended indices due to its sensitivity to model misspecification (Garver and Mentzer, 1999; MacCallum and Austin, 2000; Kline, 2015). According to Hair et al. (2014), the RMSEA overcomes the problem of rejecting the model due to large sample sizes. RMSEA values ranging between 0.05 and 0.08 are considered acceptable (Hair et al., 2014). Values less than 0.05 indicate a close fit between the hypothesized model and the data while a value of 0 suggests a perfect fit (Brown and Cudeck,
 
-<!-- page 99 -->
+<!-- page 100 -->
 
 1993; Byrne, 2013). The SRMR is another 'badness-of-fit' statistic and measures the mean absolute correlation residual, that is the overall difference between the observed correlations and the predicted ones with smaller values (<0.08) indicating a good model fit (Kline, 2015).
 
@@ -1922,77 +1356,23 @@ The CFI and TLI are incremental fit indices that evaluate the improvement in the
 
 I performed CFA on the ten items of the Ethical leadership Scale (Brown, Treviño and Harrison, 2005). Estimated standardised regression weights ranged from .569 to .931 (Table 8) which were greater than the cut-off value of 0.50. The CFI (.994) and TLI (.987) were well above the .9 required minimum. The SRMR (.0145) and the RMSEA (.053) were well below the .08 threshold. Since all index values were within their acceptable thresholds and the estimated standardized regression weights met the cut-off value of 0.50 (Table 8), the construct validity of this construct was established and its fitness with the data was confirmed.
 
-> *Table 8: Estimated Standardized Regression Weights for the Ethical Leadership Scale*
-
-| Item | Estimate |
-| --- | --- |
-| 1. Listens to what employees have to say | .689 |
-| 2. Disciplines employees who violate ethical standards | .569 |
-| 3. Conducts his or her personal life in an ethical manner | .688 |
-| 4. Has the interests of employees in mind | .767 |
-| 5. Makes fair and balanced decisions | .774 |
-| 6. Can be trusted | .858 |
-| 7. Discusses business ethics or values with employees | .865 |
-| 8. Sets an example of how to do things the right way in terms of ethics | .931 |
-| 9. Defines success not just by results but also the way that they are obtained | .916 |
-| 10. When making decisions, asks, "What is the right thing to do?" | .917 |
-
 ## **4.6.2 CFA for the Knowledge Donating** **Scale**
 
 The Knowledge Donating Scale consists of six items (Van Den Hoof and De Ridder, 2004). CFA (Table 9) showed that estimated standardised regression weights ranged from .508 to .903 which were greater than the threshold of .50. The CFI (.995) and TLI (.980) were well above the .9 minimum. The SRMR (.0156) and the RMSEA (.076) were below the .08 threshold. Since all index values were within their acceptable thresholds and the estimated standardized regression weights met the cut-off value of 0.50 (Table 9), the construct validity of this construct was established and its fitness with the data was confirmed.
 
-<!-- page 100 -->
-
-> *Table 9: Estimated Standardized Regression* *Weights for the Knowledge Donating Scale*
-
-| Item | Estimate |
-| --- | --- |
-| 1. When I've learned something new, I make sure that colleagues in my department can | .836 |
-| learn it as well. |   |
-| 2. I share the information I have with colleagues within my department. | .903 |
-| 3. I share my skills with colleagues within my department. | .857 |
-| 4. When I've learned something new, I make sure that colleagues outside of my department | .565 |
-| can learn it as well. |   |
-| 5. I share the information I have with colleagues outside of my department. | .508 |
-| 6. I share my skills with colleagues outside of my department. | .517 |
+<!-- page 101 -->
 
 ## **4.6.3 CFA for the Knowledge Collecting** **Scale**
 
 The Knowledge Collecting Scale consisted of four items (Van Den Hoof and De Ridder, 2004). CFA (Table 10) showed that the estimated standardised regression weights ranged from .567 to .954 which were greater than the threshold of .50. The CFI (.998) and TLI (.988) were well above the .9 minimum. The SRMR (.0053) and the RMSEA (.076) were below the .08 threshold. Since all index values were within their acceptable thresholds and the estimated standardized regression weights (Table 10) met the cut-off value of .50, the construct validity of this construct was established and its fitness with the data was confirmed.
 
-> *Table 10: Estimated Standardized Regression Weights for the Knowledge Collecting Scale*
-
-| Item | Estimate |
-| --- | --- |
-| 1. Colleagues within my department tell me what they know, when I ask them about it. | .826 |
-| 2. Colleagues within my department tell me what their skills are, when I ask them about it. | .954 |
-| 3. Colleagues outside of my department tell me what they know, when I ask them about it. | .591 |
-| 4. Colleagues outside of my department tell me what their skills are, when I ask them about it. | .567 |
-
 ## **4.6.4 CFA for the Ethical Organizational Climate** **Scale**
 
 The Ethical Organizational Climate Scale consists of 12 items (Kuenzi et al., 2020). CFA (Table 11) showed that estimated standardised regression weights ranged from .522 to .818 which were greater than the threshold of .50. The CFI (.991) and TLI (.986) were well above the .9 minimum. The SRMR (.0222) and the RMSEA (.042) were well below the .08 threshold. Since all index values were within their acceptable thresholds and the estimated
 
-<!-- page 101 -->
+<!-- page 102 -->
 
 standardized regression weights (Table 11) met the cut-off value of .50, the construct validity of this construct was established and its fitness with the data was confirmed.
-
-> *Table 11:* *Estimated Standardized Regression Weights for* *Ethical Organizational Climate Scale*
-
-| Item | Estimate |
-| --- | --- |
-| 1. Ethical issues are taken into consideration when decisions are made. | .724 |
-| 2. When decisions are made, we talk about whether something is the "right thing to do." | .704 |
-| 3. Ethics training is consistent with how employees actually perform their jobs. | .738 |
-| 4. All employees are required to attend ethical training. | .522 |
-| 5. Employees strictly follow the written code of ethics. | .717 |
-| 6. The behaviour of employees is consistent with the company's ethical codes. | .725 |
-| 7. An effort is made to search for applicants of a high moral standard. | .718 |
-| 8. When we hire employees, we try to assess how they would handle ethical issues. | .745 |
-| 9. A good effort is made to measure and track ethical behaviours. | .818 |
-| 10. Employees receive positive feedback for making ethical decisions. | .728 |
-| 11. When an unethical act occurs, employees take responsibility for their actions. | .749 |
-| 12. Employees at all levels take responsibility for the outcomes of their actions. | .719 |
 
 ## **4.7 Common Method Variance**
 
@@ -2000,7 +1380,7 @@ Common Method Variance is defined as "variance that is attributable to the measu
 
 I conducted Harman's Single Factor test in SPSS to detect whether CMB is present. In Harman's test, all items are analyzed by a single factor without rotation. If the variation amount of the first principal component does not account for the majority of the variance - that is it explains less than 50% of the total variance - CMV would not be considered a problem (Gefen, Rigdon and Straub, 2011). In this research, the result showed that the first factor accounted for
 
-<!-- page 102 -->
+<!-- page 103 -->
 
 35.05% of the variance which does not account for half of the total variation explanation indicating that the influence of common method bias is not obvious in this study.
 
@@ -2016,23 +1396,9 @@ As for the fourth control variable, university name, nine groups were assigned f
 
 It is worth noting that position was not chosen as a control variable as it wasn't as significantly related to the dependent variables as the other controls (Table 13). Moreover, regression tests did not show any significant effect of position on knowledge collecting or
 
-<!-- page 103 -->
+<!-- page 104 -->
 
 knowledge donating. Since including additional nonsignificant control variables would erode the degrees of freedom (Atinc, Simmering and Kroll, 2012), I did not control for position.
-
-> *Table 12: Respondents per university*
-
-| University | Respondents |
-| --- | --- |
-| Univ A | 42 |
-| Univ B | 48 |
-| Univ C | 112 |
-| Univ D | 14 |
-| Univ E | 10 |
-| Univ F | 15 |
-| Univ G | 35 |
-| Univ H | 155 |
-| Univ I | 154 |
 
 Eight dummy variables (k-1) were created for these groups with the largest group, Univ H, being the reference category.
 
@@ -2040,38 +1406,11 @@ Eight dummy variables (k-1) were created for these groups with the largest group
 
 Bivariate correlation analysis was conducted on the study variables to examine the degree of association between the variables. Examining the independent and dependent variables, the following can be noticed. The independent variable ethical leadership exhibited a significant positive correlation with the dependent variables, knowledge collecting (r = .307, p < .01) and knowledge donating (r = .204, p < .01), which was expected. Ethical leadership was also found to have a significant positive correlation with the ethical climate (r = .618, p < .01). The ethical climate also exhibited a significant positive correlation with the dependent variables, knowledge collecting (r = .244, p < .01) and knowledge donating (r = .419, p < .01). Table 13 shows the intercorrelations of the study variables.
 
-<!-- page 104 -->
-
-> Table 13: Pearson Correlations Among the Study Variables
-
-|   | Age | Gender (M) | Gender (F) | Gender (pns) | Edu | Pos (ac) | Pos (non-ac) | Pos (Both) | Univ A | Univ B | Univ C | Univ D | Univ E | Univ F | Univ G | Univ H | Univ I | EL | EC | KC | KD | от |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Age | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Gender (M) | .194** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Gender (F) | 203** | 985** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | | | | |
-| Gender (pns) | .059 | 062 | 109** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Education | .120** | .098* | 093* | 031 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Pos (ac) | .116** | .020 | 026 | .037 | .461** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Pos (non-ac) | 205** | 073 | .073 | 005 | 593** | 650** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Pos (Both) | .084* | .057 | 050 | 041 | .087* | 523** | 308** | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Univ A | 016 | .082* | 091* | .057 | 177** | 133** | .153** | 005 | 1 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Univ B | 065 | .088* | 083* | 025 | 005 | 015 | .010 | .008 | 083* | 1 |   |   |   |   |   |   |   |   |   |   |   |   |
-| Univ C | .039 | .016 | 018 | .012 | .062 | .045 | 049 | 002 | 135** | 145** | 1 |   |   |   |   |   |   |   |   |   |   |   |
-| Univ D | 080 | 094* | .096* | 013 | 043 | 075 | .078 | .006 | 044 | 047 | 076 | 1 |   |   |   |   |   |   |   |   |   |   |
-| Univ E | .100* | 016 | .018 | 011 | 169** | 112** | .154** | 033 | 037 | 039 | 064 | 021 | 1 |   |   |   |   |   |   |   |   |   |
-| Univ F | .028 | .082* | 079 | 013 | .009 | .024 | 004 | 026 | 045 | 048 | 079 | 025 | 021 | 1 |   |   |   |   |   |   |   |   |
-| Univ G | 136** | 054 | .057 | 021 | 048 | 121** | .118** | .019 | 070 | 075 | 123** | 040 | 033 | 041 | 1 |   |   |   |   |   |   |   |
-| Uni H | 109** | 029 | .022 | .044 | 079 | 003 | .087* | 095* | 167** | 180** | 292** | 094* | 079 | 097* | 151** | 1 |   |   |   |   |   |   |
-| Univ I | .186** | 051 | .059 | 050 | .219** | .165** | 275** | .102* | 166** | 179** | 291** | 094* | 079 | 097* | 151** | 359** | 1 |   |   |   |   |   |
-| EL | 093* | 042 | .049 | 038 | 072 | 097* | .076 | .037 | .030 | 021 | 125** | .032 | 001 | .023 | .108** | .048 | 018 | 1 |   |   |   |   |
-| EC | 048 | .008 | 002 | 036 | 147** | 151** | .124** | .050 | .090* | .017 | 103^*^ | .028 | 026 | .024 | .127** | 084* | .034 | .618** | 1 |   |   |   |
-| KC | .011 | .012 | 022 | .057 | 035 | 083* | .065 | .031 | .034 | .047 | 051 | 002 | 041 | .072 | .027 | .000 | 031 | .307** | .419** | 1 |   |   |
-| KD | .048 | .008 | 017 | .053 | .031 | 077 | .000 | .096* | .017 | 062 | 012 | .046 | 081* | .088* | .039 | 021 | .016 | .204** | .244** | .453** | 1 |   |
-| ОТ | .604** | .116** | 121** | .033 | .000 | 003 | 054 | .064 | 046 | 066 | .053 | 114** | .052 | 057 | 190** | .013 | .156** | 096* | 020 | 045 | .033 | 1 |
+<!-- page 105 -->
 
 Notes: *p < 0.05, **p < 0.01. Abbreviations: EL, ethical leadership; EC, ethical climate; KC, knowledge collecting; KD, knowledge donating, OT, organizational tenure; Gender(M), Male; Gender (F), Female; Gender (pns), Prefer Not To Say; Edu, Education; Pos (ac), Position - Academic; Pos (non-ac), Position - Non-Academic; Pos (Both), Position - Both; Univ [x], University [x].
 
-<!-- page 105 -->
+<!-- page 106 -->
 
 ## **4.10 Hypotheses Testing**
 
@@ -2085,89 +1424,36 @@ H1a.b. Ethical leadership has a positive association with employee (a) knowledge
 
 H1a: The correlation analysis showed a significant correlation between ethical leadership and knowledge collecting. Therefore, I conducted a hierarchical multiple regression to explore the relationship that included the control variables, ethical leadership as the independent variable and knowledge collecting as the dependent variable (Table 14). In step one of the regression analyses, the control variables were included and explained 1.8% of the total variance in knowledge collecting and the model was found to be statistically insignificant with *F* (12,572) = 0.873, *p* = .574. After ethical leadership was entered in step two, the total variance explained was 11.1% with *F* (13,571) = 5.506, p = .000. Ethical leadership thus explained an additional 9.3% of the variance (∆R^2^ ) in knowledge collecting after controlling for age, gender, education, and employing university. The analysis indicated that ethical leadership is a statistically significant predictor (β = .311, p = .000) of knowledge collecting. Thus, hypothesis H1a was supported.
 
-<!-- page 106 -->
-
-> *Table 14: Regression coefficients of control variables and main effects of Ethical Leadership on Knowledge Collecting*
-
-| Variable |   |   | Step 1 |   |   |   | 95% CI |   |   | Step 2 |   |   | 95% CI |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | B | SE B | β | t | Sig. | LL | UL | B | SE B | β | t | Sig. | LL | UL |
-| Age | .014 | .024 | .026 | .597 | .551 | 033 | .061 | .025 | .023 | .046 | 1.088 | .277 | 020 | .070 |
-| Gender (Male) | .007 | .101 | .003 | .065 | .948 | 191 | .204 | .021 | .096 | .009 | .224 | .823 | 167 | .210 |
-| Gender (prefer not to say) | .742 | .565 | .055 | 1.312 | .190 | 369 | 1.852 | .896 | .539 | .066 | 1.663 | .097 | 162 | 1.954 |
-| Education | 036 | .047 | 034 | 764 | .445 | 128 | .056 | 020 | .045 | 019 | 454 | .650 | 108 | .068 |
-| Univ A | .104 | .197 | .024 | .526 | .599 | 283 | .490 | .095 | .187 | .022 | .509 | .611 | 273 | .463 |
-| Univ B | .189 | .185 | .046 | 1.018 | .309 | 175 | .552 | .240 | .176 | .059 | 1.359 | .175 | 107 | .586 |
-| Univ C | 111 | .139 | 039 | 799 | .424 | 385 | .162 | 005 | .133 | 002 | 035 | .972 | 267 | .258 |
-| Univ D | 002 | .313 | 000 | 007 | .994 | 612 | .616 | 025 | .298 | 003 | 082 | .934 | 609 | .550 |
-| Univ E | 410 | .372 | 048 | -1.103 | .271 | -1.141 | .320 | 379 | .354 | 044 | -1.071 | .285 | -1.075 | .317 |
-| Univ F | .497 | .303 | .071 | 1.639 | .102 | 099 | 1.092 | .462 | .289 | .066 | 1.602 | .110 | 104 | 1.029 |
-| Univ G | .137 | .210 | .029 | .653 | .514 | 275 | .549 | .028 | .200 | .006 | .140 | .888 | 365 | .421 |
-| Univ I | 043 | .132 | 017 | 330 | .741 | 302 | .215 | 022 | .125 | 009 | 172 | .863 | 268 | .225 |
-| Ethical Leadership |   |   |   |   |   |   |   | .273 | .035 | .311*** | 7.747 | .000 | .204 | .342 |
-| 2 R |   |   |   | .018 |   |   |   |   |   |   | .111 |   |   |   |
-| ∆R2 |   |   |   | .018 |   |   |   |   |   |   | .093 |   |   |   |
-| Adjusted R2 |   |   |   | 003 |   |   |   |   |   |   | .091 |   |   |   |
-| F-value |   |   |   | F (12,572) = .873, P=.574 |   |   |   |   |   | F (13,571) = 5.506***, P=.000 |   |   |   |   |
+<!-- page 107 -->
 
 *Notes. N = *585, B *= *unstandardised beta coefficient, SE B = standard error of the unstandardized beta coefficient, β = standardised beta coefficient; CI = confidence interval for unstandardized beta coefficients; LL = lower limit, UL = upper limit; *p ≤ .05, **p ≤ .01, *** p ≤ 0.001 Adjusted R^2^ is a corrected goodness-of-fit (model accuracy) measure for linear models. Adjusted R^2^ = 1 - (x * y) where x = 1 - R 2 , y = (N-1) / (n-p-1), N = number of records in the data set, and p = number of independent variables.
 
-<!-- page 107 -->
+<!-- page 108 -->
 
 H1b: The correlation analysis showed a significant correlation between ethical leadership and knowledge donating. Therefore, I conducted a hierarchical multiple regression to explore the relationship that included the control variables, ethical leadership as the independent variable and knowledge donating as the dependent variable (Table 15). In step one of the regression analyses, the control variables explained 2.8% of the total variance in knowledge donating and the model was found to be statistically insignificant with *F* (12,572) = 1.380, *p* = .171. After ethical leadership was entered in step two, the total variance explained was 7.0% with *F* (13,571) = 3.324, p = .000. Ethical leadership thus explained an additional 4.2% (∆R^2^ ) of the variance in knowledge donating after controlling for age, gender, education, and employing university. The analysis indicated that ethical leadership is a statistically significant predictor (β = .209, p = .000) of knowledge donating. Thus hypothesis H1b was supported.
 
-<!-- page 108 -->
-
-> *Table 15: Regression coefficients of control variables and main effects of Ethical Leadership on Knowledge Donating*
-
-| Variable |   |   | Step 1 |   |   | 95% CI |   |   |   | Step 2 |   |   | 95% CI |   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|   | B | SE B | β | t | Sig. | LL | UL | B | SE B | β | t | Sig. | LL | UL |
-| Age | .028 | .023 | .055 | 1.248 | .213 | 016 | .072 | .035 | .022 | .068 | 1.575 | .116 | 009 | .070 |
-| Gender (Male) | .001 | .095 | .001 | .014 | .989 | 185 | .187 | .011 | .093 | .005 | .116 | .908 | 171 | .210 |
-| Gender (prefer not to say) | .643 | .532 | .050 | 1.209 | .227 | 402 | 1.687 | .741 | .521 | .058 | 1.422 | .156 | 283 | 1.954 |
-| Education | .018 | .044 | .018 | .405 | .686 | 069 | .105 | .028 | .043 | .028 | .642 | .521 | 057 | .113 |
-| Univ A | .095 | .185 | .023 | .512 | .609 | 269 | .458 | .090 | .181 | .022 | .494 | .621 | 266 | .445 |
-| Univ B | 175 | .174 | 046 | -1.003 | .316 | 517 | .167 | 142 | .171 | 037 | 833 | .405 | 477 | .193 |
-| Univ C | 007 | .131 | 003 | 051 | .959 | 264 | .251 | .061 | .129 | .023 | .474 | .636 | 192 | .315 |
-| Univ D | .376 | .294 | .055 | 1.278 | .202 | 202 | .954 | .359 | .298 | .052 | 1.247 | .213 | 207 | .925 |
-| Univ E | 638 | .350 | 079 | -1.824 | .069 | -1.325 | .049 | 618 | .343 | .076 | -1.805 | .072 | -1.291 | .054 |
-| Univ F | .592 | .285 | .089* | 2.078 | .038 | .032 | 1.152 | .571 | .279 | .086* | 2.044 | .041 | .022 | 1.119 |
-| Univ G | .231 | .197 | .052 | 1.169 | .243 | 157 | .618 | .161 | .194 | .036 | .834 | .405 | 219 | .541 |
-| Univ I | .035 | .124 | .015 | .280 | .779 | 208 | .278 | .049 | .121 | .020 | .401 | .689 | 189 | .287 |
-| Ethical Leadership |   |   |   |   |   |   |   | .173 | .034 | .209*** | 5.092 | .000 | .107 | .240 |
-| 2 R |   |   |   | .028 |   |   |   |   |   |   | .070 |   |   |   |
-| ∆R2 |   |   |   | .028 |   |   |   |   |   |   | .042 |   |   |   |
-| Adjusted R2 |   |   |   | .008 |   |   |   |   |   |   | .049 |   |   |   |
-| F-value |   |   |   | F (12,572) = 1.380, P=.171 |   |   |   |   |   | F (13,571) = 3.324***, P=.000 |   |   |   |   |
+<!-- page 109 -->
 
 *Notes. N = *585, B *= *unstandardized beta coefficient, SE B = standard error of the unstandardized beta coefficient, β = standardized beta coefficient; CI = confidence interval for unstandardized beta coefficients; LL = lower limit, UL = upper limit; *p ≤ .05, **p ≤ .01, *** p ≤ 0.001
 
-<!-- page 109 -->
+<!-- page 110 -->
 
-![TH.R02 fig11](../figures/TH/TH.R02_fig11.jpg)
-
-> *Figure 9.* *Path coefficients for ethical leadership, knowledge collecting,* *and knowledge donating* *Notes:* ** p < 0.05, ** p < 0.01, *** p < 0.001*
+![TH.R02 fig06](../figures/TH/TH.R02_fig06.jpg)
+**Figure 9.* *Path coefficients for ethical leadership, knowledge collecting,* *and knowledge donating* *Notes:* ** p < 0.05, ** p < 0.01, *** p < 0.001**
 
 ## **4.10.1 Mediation Analysis**
 
 Mediation, or indirect effect, occurs when the causal effect of an independent variable (X) on a dependent variable (Y) is transmitted by a mediator (M) where X affects Y because X affects M (path a), and M, in turn, affects Y (path b) (Figure 10). Path c represents the total effect of X on Y in the absence of M. Path c' represents the direct effect of X on Y, while the indirect effect is traditionally derived as: c-c'. The total effect c is also equivalent to: ab + c'
 
-![TH.R02 fig12](../figures/TH/TH.R02_fig12.jpg)
-
-> *Figure 10.* *Simple mediation model with a single mediator variable M located between an * *independent variable X and a dependent variable Y.*
-
 Traditionally, according to Baron and Kenny (1986), four conditions need to be met for establishing mediation:
 
-1. The independent variable must be significantly associated with the mediator.
+- 1. The independent variable must be significantly associated with the mediator.
+- 2. The independent variable must be significantly associated with the dependent variable.
 
-2. The independent variable must be significantly associated with the dependent variable.
+<!-- page 111 -->
 
-<!-- page 110 -->
-
-3. The mediator and dependent variable must be significantly associated; and
-
-4. The relationship between the independent variable and dependent variable should be nonsignificant or weaker when the mediator is introduced.
+- 3. The mediator and dependent variable must be significantly associated; and
+- 4. The relationship between the independent variable and dependent variable should be nonsignificant or weaker when the mediator is introduced.
 
 However, Preacher and Hayes (2004) introduced a macro script for SPSS called Process that is superior to Baron and Kenny's (1986) testing of mediation and that overcomes its shortcomings including its low statistical power (Hayes, 2009). Process, on the other hand, produces more accurate results as it utilizes the bootstrapping approach (Preacher, Rucker and Hayes, 2007) and does not assume that data is normally distributed.
 
@@ -2177,7 +1463,7 @@ The algorithm reiterates this process thousands of times, with each selected boo
 
 The hypothesized mediation in this research, H2a.b., was tested using the Process script macro (Preacher and Hayes, 2004) for SPSS. Model 4 of the Process macro (mediation model) was chosen with 10,000 bootstrap samples as recommended by Hayes (2013).
 
-<!-- page 111 -->
+<!-- page 112 -->
 
 *H2a.b. *The ethical climate mediates the relationship between ethical leadership and employee (a) knowledge collecting and (b) knowledge donating in higher education institutions.
 
@@ -2185,49 +1471,14 @@ To test Hypothesis H2a, the mediating role of the ethical climate in the relatio
 
 In addition, by comparing the total effect of ethical leadership on knowledge collecting (B = .273, p < .001) in Table 17 with the direct effect (B = .070, p > .05), we find that the direct effect of ethical leadership has become lower and insignificant (95% CI [-.0135, .1535]) after controlling for the effect of the ethical climate which suggests the full mediation of ethical climate. Furthermore, the bootstrapping analyses showed that the indirect effect of ethical leadership on knowledge collecting via ethical climate was significant .20, and the 95% confidence interval did not contain zero (CI = [.1369, .2701]) as shown in Table 17. Thus, hypothesis H2a was supported.
 
-> *Table 16: Detailed direct effects of ethical leadership on knowledge collecting* *via ethical climate*
-
-|   |   | Ethical Climate |   | Knowledge Collecting |
-| --- | --- | --- | --- | --- |
-|   |   | Model 1 |   | Model 2 |
-|   | Coefficient | 95% CI | Coefficient | 95% CI |
-| Variables |   |   |   |   |
-| Age | .0068 | 0304, .0439 | .0224 | 0204, .0652 |
-| Male | .0940 | 0617, .2496 | 0136 | 1932, .1659 |
-| Prefer not to say | 1327 | -1.0068, .7414 | .9452 | 0621, 1.9525 |
-| Education | 1337*** | 2064,0609 | .0296 | 0552, .1144 |
-| Univ A | .4215** | .1175, .7254 | 0621 | 4146, .2905 |
-| Univ B | .3270* | .0406, .6133 | .1176 | 2138, .4490 |
-| Univ C | .1778 | 0388, .3944 | 0710 | 3212, .1791 |
-| Univ D | .2825 | 2007, .7657 | 1300 | 6875, .4274 |
-| Univ E | 1795 | 7507, .3990 | 3136 | 9762, .3490 |
-| Univ F | .2770 | 1914, .7454 | .3590 | 1814, .8994 |
-| Univ G | .4917** | .1670, .8164 | 1556 | 5326, .2215 |
-| Univ I | .3617*** | .1583, .5650 | 1567 | 3935, .0802 |
-| Ethical Leadership | .5428*** | .4856, .5999 | .07000 | 0135, .1535 |
-| Ethical Climate |   |   | .3736*** | .2789, .4683 |
-| 2 R | .4173 |   | .1960 |   |
-| F | 31.4600*** |   | 9.9275*** |   |
-
 The results are based on Process macros Model 4. CI = Confidence Interval. Beta coefficients not standardized. * p < 0.05, ** p < 0.01, *** p < 0.001
 
-<!-- page 112 -->
-
-> *Table 17: Total, direct and indirect effects of ethical leadership on knowledge collecting* *via ethical climate*
-
-| Mediation results | B | SE B | t | Sig. | LLCI 95% | ULCI 95% |
-| --- | --- | --- | --- | --- | --- | --- |
-| EL → EC → KC |   |   |   |   |   |   |
-| Total Effect | .2728 | .0352 | 7.7467 | .000 | .2036 | .3419 |
-| Direct Effect | .0700 | .0425 | 1.6457 | .1004 | 0135 | .1535 |
-|   | B | BootSE | BootLLCI | BootULCI |   |   |
-| Indirect Effect | .2028 | .0340 | .1369 | .2701 |   |   |
+<!-- page 113 -->
 
 LLCI = lower limit within 95% confidence interval of boot indirect effect. ULCI = upper bound within 95% confidence interval of boot indirect effect. Bootstrap sample size = 10,000. Beta coefficients not standardized. Abbreviations: EL, ethical leadership; EC, ethical climate; KC, knowledge collecting
 
-![TH.R02 fig13](../figures/TH/TH.R02_fig13.jpg)
-
-> *Figure 11.* *Conceptual diagram of ethical leadership as a predictor of knowledge collecting * *mediated by the ethical climate.*
+![TH.R02 fig07](../figures/TH/TH.R02_fig07.jpg)
+**Figure 11.* *Conceptual diagram of ethical leadership as a predictor of knowledge collecting * *mediated by the ethical climate.**
 
 *Notes:* *All presented effects are unstandardized. *p < .05, **p < .01, ***p < .001. The bootstrapped * *confidence interval for the indirect effect is bias-corrected and accelerated.*
 
@@ -2235,53 +1486,18 @@ To test Hypothesis H2b, the mediating role of the ethical climate in the relatio
 
 In addition, by comparing the total effect of ethical leadership on knowledge donating (B = .173, p < .001) in Table 19 with the direct effect (B = .074, p > .05), we find that the direct effect of ethical leadership has become lower and insignificant (95% CI [-.0095, .1583]) after controlling for the effect of the ethical climate which suggests the full mediation of ethical climate. Furthermore, the bootstrapping analyses showed that the indirect effect of ethical leadership on knowledge donating via ethical climate was significant .099, and the 95%
 
-<!-- page 113 -->
+<!-- page 114 -->
 
 confidence interval did not contain zero (CI = [.0421, .1576]) as shown in Table 19. Thus, hypothesis H2b was supported.
 
-> *Table 18: Detailed direct effects of ethical leadership on knowledge donating* *via ethical climate*
-
-|   |   | Ethical Climate |   | Knowledge Donating |
-| --- | --- | --- | --- | --- |
-|   |   | Model 1 |   | Model 2 |
-|   | Coefficient | 95% CI | Coefficient | 95% CI |
-| Variables |   |   |   |   |
-| Age | .0068 | 0304, .0439 | .0336 | 0093, .0766 |
-| Male | .0940 | 0617, .2496 | 0064 | 1867, .1740 |
-| Prefer not to say | 1327 | -1.0068, .7414 | .7648 | 2468, 1.7763 |
-| Education | 1337*** | 2064,0609 | .0522 | 0329, .1374 |
-| Univ A | .4215** | .1175, .7254 | .0127 | 3414, .3667 |
-| Univ B | .3270* | .0406, .6133 | 2018 | 5346, .1310 |
-| Univ C | .1778 | 0388, .3944 | .0288 | 2225, .2800 |
-| Univ D | .2825 | 2007, .7657 | .3074 | 2524, .8673 |
-| Univ E | 1795 | 7507, .3990 | 5863 | -1.2518, .0791 |
-| Univ F | .2770 | 1914, .7454 | .5200 | 0227,1.0627 |
-| Univ G | .4917** | .1670, .8164 | .0716 | 3071, .4503 |
-| Univ I | .3617*** | .1583, .5650 | 0174 | 2552, .2205 |
-| Ethical Leadership | .5428*** | .4856, .5999 | .0744 | 0095, .1583 |
-| Ethical Climate |   |   | .1824*** | .0873, .2775 |
-| R2 | .4173 |   | .0929 |   |
-| F | 31.4600*** |   | 4.1711*** |   |
-
 The results are based on Process Model 4. CI = Confidence Interval. Beta coefficients not standardized. ** p < 0.05, ** p < 0.01, *** p < 0.001
-
-> *Table 19: Total, direct and indirect effects of ethical leadership on knowledge donating* *via * *ethical climate.*
-
-| Mediation results | B | SE B | t | Sig. | LLCI 95% | ULCI 95% |
-| --- | --- | --- | --- | --- | --- | --- |
-| EL → EC → KD |   |   |   |   |   |   |
-| Total Effect | .1734 | .0340 | 5.0921 | .000 | .1065 | .2403 |
-| Direct Effect | .0744 | .0427 | 1.7415 | .0821 | 0095 | .1583 |
-|   | B | BootSE | BootLLCI | BootULCI |   |   |
-| Indirect Effect | .0990 | .0296 | .0421 | .1576 |   |   |
 
 LLCI = lower limit within 95% confidence interval of boot indirect effect. ULCI = upper bound within 95% confidence interval of boot indirect effect. Bootstrap sample size = 10,000. Abbreviations: EL, ethical leadership; EC, ethical climate; KD, knowledge donating
 
-<!-- page 114 -->
+<!-- page 115 -->
 
-![TH.R02 fig14](../figures/TH/TH.R02_fig14.jpg)
-
-> *Figure 12.* *Conceptual diagram of ethical leadership as a predictor of knowledge donating * *mediated by ethical climate. *
+![TH.R02 fig08](../figures/TH/TH.R02_fig08.jpg)
+**Figure 12.* *Conceptual diagram of ethical leadership as a predictor of knowledge donating * *mediated by ethical climate. **
 
 *Notes: All presented effects are unstandardized. *p < .05, **p < .01, ***p < .001. The * *bootstrapped confidence interval for the indirect effect is bias-corrected and accelerated.*
 
@@ -2291,60 +1507,24 @@ According to MacKinnon (2011, p. 678), "a moderator is a variable that modifies 
 
 The analyses in the previous section showed a positive relationship between ethical leadership and the ethical climate. Hypothesis H3 extends this relationship by adding a moderating variable – organizational tenure – and proposing that the relationship between ethical leadership and ethical climate is stronger for individuals with a longer organizational tenure, thus acknowledging an important individual difference among respondents. Figure 13 depicts the proposed moderating role of organizational tenure in the relationship between ethical leadership and ethical climate.
 
-<!-- page 115 -->
+<!-- page 116 -->
 
-![TH.R02 fig15](../figures/TH/TH.R02_fig15.jpg)
-
-> *Figure 13.* *Conceptual diagram of organizational tenure as moderator of the * *relationship between ethical leadership and ethical climate*
+![TH.R02 fig09](../figures/TH/TH.R02_fig09.jpg)
+**Figure 13.* *Conceptual diagram of organizational tenure as moderator of the * *relationship between ethical leadership and ethical climate**
 
 The moderating variable effect model shown in Figure 13 is summarized in the following equation:
 
-Y = i_1 + c_1 X + c_2 Z + c_3 XZ + e_1
+$$ Y = i_1 + c_1 X + c_2 Z + c_3 XZ + e_1 $$
 
 Y is the dependent variable (ethical climate), X is the independent variable (ethical leadership), Z is the moderator variable (organizational tenure), and XZ is the interaction of the moderator and the independent variable. It is the product of X and Z. X and Z are often centred where the average of the values of a variable is subtracted from each observed value of that variable. c1, c2, and c3 represent the relation between the dependent variable and the independent variable, moderator variable, and moderator by independent variable interaction, respectively and e1 is a residual (MacKinnon, 2011).
 
 To test the moderation effect of organizational tenure on the relationship between ethical leadership and ethical climate, I used Model 1 of the Hayes' Process macro for SPSS. Table 20 shows that the interaction of ethical leadership and organizational tenure had a significant positive effect on ethical climate (B = .0507, p < 0.01) and its inclusion in the regression equation explained significant variance in the ethical climate (∆R^2^ =.0074).
 
-<!-- page 116 -->
-
-> *Table 20: Regression coefficients for control variables, main effects, and interaction effects*
-
-|   |   |   |   | Ethical Climate |   |
-| --- | --- | --- | --- | --- | --- |
-|   | Variable | B | SE | t | 95% CI |
-| Control Variables | Age | 0149 | .0231 | 6446 | 0602, .0304 |
-|   | Gender (Male) | .0905 | .0787 | 1.1503 | 0641, .2451 |
-|   | Gender (Prefer not to say) | 1321 | .4420 | 2988 | -1.0003, .7361 |
-|   | Education | 1232** | .0371 | -3.3204 | 1961,0503 |
-|   | Univ A | .4704** | .1574 | 3.0407 | .1666, .7743 |
-|   | Univ B | .3586* | .1453 | 2.4685 | .0733, .6439 |
-|   | Univ C | .1946 | .1097 | 1.7751 | 0207, .4100 |
-|   | Univ D | .3701 | .2463 | 1.5023 | 1138, .8539 |
-|   | Univ E | 1075 | .2915 | 3686 | 6800, .4651 |
-|   | Univ F | .3261 | .2384 | 1.3682 | 1421, .7943 |
-|   | Univ G | .5843** | .1673 | 3.4916 | .2556, .9129 |
-|   | Univ I | .3698** | .1029 | 3.5939 | .1677, .5718 |
-| Main Effects | Ethical Leadership | .5383*** | .0290 | 18.5583 | .4813, .5953 |
-|   | Organizational Tenure | .0448 | .0282 | 1.5917 | 0105, .1002 |
-| Interaction | Ethical Leadership * Organizational Tenure | .0507** | .0186 | 2.7202 | .0141, .0873 |
-| 2 R |   | .4273 |   |   |   |
-| ∆R2 (due to interaction) |   | .0074 |   |   |   |
-| F-value |   | 28.298*** |   |   |   |
-| F-value (interaction) |   | 7.3992** |   |   |   |
-
-*^*^Regression effect is significant at the 0.05 level (2-tailed), ** Regression effect is significant at the * *0.01 level (2-tailed), *** Regression effect is significant at the 0.001 level (2-tailed).*
+<!-- page 117 -->
 
 The estimated conditional effects are presented in Table 21. Following Aiken and West (1991) recommendations, the independent variable (ethical leadership), and moderator variable, (organizational tenure), were mean-centred prior to calculating the interaction term which was created by multiplying the centred variables. Thus, the three levels of high, medium, and low (for both the continuous main effect of ethical leadership as well as the continuous moderating variable, organizational tenure), are computed using the mean as the medium value, one standard deviation above the mean as the high value, and one standard deviation below the mean as the low value (Aiken and West, 1991). Consistent with H3, the ethical leadershipethical climate link was stronger and significant when the organizational tenure value was high (effect = .6224) compared to when the organizational tenure value was low (effect = .4542).
 
-<!-- page 117 -->
-
-> *Table 21: Conditional effects of the moderator variable organizational tenure*
-
-| Conditional Effect | OT Value | Effect | Std. error | t-value | p-value | 95% CI |
-| --- | --- | --- | --- | --- | --- | --- |
-| Low OT (Mean -1 SD) | -1.6591 | .4542 | .0440 | 10.3149 | .0000 | .3677, .5407 |
-| Medium OT (Mean) | .0000 | .5383 | .0290 | 18.5583 | .0000 | .4813, .5953 |
-| High OT (Mean +1 SD) | 1.6591 | .6224 | .0407 | 15.3021 | .0000 | .5425, .7022 |
+<!-- page 118 -->
 
 *CI = confidence interval of indirect effect. Abbreviations: OT, organizational tenure.*
 
@@ -2352,33 +1532,16 @@ The graph of the significant interaction plotted at +1/-1 SD from the mean of or
 
 For both levels of organizational tenure, a positive relationship appears, meaning that when employees have a stronger perception of ethical leadership, they will be more likely to perceive the organizational climate as ethical. However, these relationships differ significantly between low and high values of organizational tenure, in that the effect is much stronger in high organizational tenure. When employees have high organizational tenure, their perception of the ethical climate is significantly and positively affected by their perception of ethical leadership. In contrast, perception of the ethical climate when employees have low organizational tenure is less positively yet still significantly affected by their perception of ethical leadership.
 
-<!-- page 118 -->
+<!-- page 119 -->
 
-![TH.R02 fig16](../figures/TH/TH.R02_fig16.jpg)
-
-> *Figure 14.* *Moderating effects of ethical leadership and organizational tenure* *on ethical climate*
+![TH.R02 fig10](../figures/TH/TH.R02_fig10.jpg)
+**Figure 14.* *Moderating effects of ethical leadership and organizational tenure* *on ethical climate**
 
 ## **4.10.3 Moderated Mediation Analysis**
 
 In hypothesis 4, I predicted a first-stage moderated mediation effect of ethical leadership on knowledge sharing (knowledge collecting and knowledge donating) via the ethical climate and moderated by employees' organizational tenure. To test hypothesis 4, I inspected the indirect effects at one standard deviation above the mean, at the mean, and one standard deviation below the mean of organizational tenure (with 10,000 bootstrap samples) as well as the index of moderated mediation following Hayes (2015). The results are shown in Table 22.
 
-<!-- page 119 -->
-
-> *Table 22: Conditional indirect effects of the moderator variable* *and index of moderated mediation*
-
-|   |   |   | Knowledge Collecting |   |
-| --- | --- | --- | --- | --- |
-| Conditional indirect effect via Ethical Climate | OT Value | Effect | Boot SE | 95% CI |
-| Low OT (Mean -1 SD) | -1.6591 | .1697 | .0330 | .1089, .2384 |
-| Medium OT (Mean) | .0000 | .2011 | .0338 | .1366, .2680 |
-| High OT (Mean +1 SD) | 1.6591 | .2325 | .0402 | .1556, .3117 |
-| Index of moderated mediation |   | .0189 | .0087 | .0035, .3117 |
-|   |   |   | Knowledge Donating |   |
-| Conditional indirect effect via Ethical Climate | OT Value | Effect | Boot SE | 95% CI |
-| Low OT (Mean -1 SD) | -1.6591 | .0829 | .0265 | .0342, .1384 |
-| Medium OT (Mean) | .0000 | .0982 | .0297 | .0418, .1580 |
-| High OT (Mean +1 SD) | 1.6591 | .1135 | .0345 | .0483, .1824 |
-| Index of moderated mediation |   | .0092 | .0048 | .0013, .0202 |
+<!-- page 120 -->
 
 *Notes: Unstandardized coefficients. Abbreviations: OT, organizational tenure, CI, confidence interval*
 
@@ -2390,7 +1553,7 @@ Evidence for a moderated mediation can be derived from the bootstrap results in 
 
 The purpose of this quantitative non-experimental study was to explore the relationships between perceived ethical leadership, ethical climate, knowledge sharing, and organizational tenure in the Lebanese private higher education sector. The findings of the data
 
-<!-- page 120 -->
+<!-- page 121 -->
 
 collection were presented in this chapter. Results of the analysis have addressed the three research questions of the thesis and their corresponding hypotheses.
 
@@ -2398,17 +1561,14 @@ A total of 653 potential responses that engaged with the study survey were colle
 
 Hierarchical multiple regression and Hayes Process for SPSS were used to test the four main hypotheses of the study. The data sample was found to be non-normally distributed and thus bootstrapping was employed while conducting the statistical tests. Results of the analysis provided evidence that supported the proposed hypotheses. Based on the results and findings, these conclusions can be reached about study participants' perceptions and behaviour in Lebanese private higher education institutions:
 
-1. Perceived ethical leadership positively influences the two aspects of employee selfreported knowledge sharing (collecting and donating).
-
-2. Perceived ethical climate fully mediates the relationship between ethical leadership and the two aspects of employee knowledge sharing (collecting and donating).
-
-3. Employee organizational tenure moderates the relationship between ethical leadership and ethical climate, such that the relationship is stronger when organizational tenure is longer.
-
-4. Employee organizational tenure moderates the indirect relationship between ethical leadership and the two aspects of employee knowledge sharing (collecting and donating) through ethical climate such that the indirect relationship is stronger when organizational tenure is longer.
+- 1. Perceived ethical leadership positively influences the two aspects of employee selfreported knowledge sharing (collecting and donating).
+- 2. Perceived ethical climate fully mediates the relationship between ethical leadership and the two aspects of employee knowledge sharing (collecting and donating).
+- 3. Employee organizational tenure moderates the relationship between ethical leadership and ethical climate, such that the relationship is stronger when organizational tenure is longer.
+- 4. Employee organizational tenure moderates the indirect relationship between ethical leadership and the two aspects of employee knowledge sharing (collecting and donating) through ethical climate such that the indirect relationship is stronger when organizational tenure is longer.
 
 Chapter 5 interprets and discusses the results of the study, acknowledges its limitations, identifies its contribution to knowledge and practice, and provides recommendations for future research.
 
-<!-- page 121 -->
+<!-- page 122 -->
 
 ## **Chapter 5: Discussion, Implications, and Recommendations**
 
@@ -2422,7 +1582,7 @@ This section discusses the quantitative findings outlined in Chapter 4 against f
 
 The significance of leader ethicality is underscored in the general leadership literature. Emphasis is strongly placed on the effectiveness of the ethical leader in eliciting desirable employee behaviour such as knowledge sharing (Brown, Treviño and Harrison, 2005; Piccolo et al., 2010; Den Hartog and Belschak, 2012). Furthermore, the competitive advantage of knowledge intensive organizations such as higher education institutions relies heavily on the strength of their knowledge management (Le and Lei, 2018) which can be maintained through enhancing knowledge sharing activities among employees (Bavik et al., 2018). Ethical leadership is ideally positioned to enhance such activities through motivating employees to increasingly participate in an otherwise personally driven behaviour. However, the ethical leader's effectiveness is essentially dependent upon employees' perception of the leader which eventually determines the leader's ability to influence behaviour (Brown, Treviño and Harrison, 2005; De Hoogh and Den Hartog, 2008). Research question 1 identifies this proposed relationship between ethical leadership and knowledge sharing behaviour in higher education institutions.
 
-<!-- page 122 -->
+<!-- page 123 -->
 
 Hypothesis (H1a.b.) stated that "*Ethical leadership has a positive association with * *employee (a) knowledge collecting and (b) knowledge donating in higher education * *institutions."* As predicted by this hypothesis, ethical leadership had a significant, positive, and direct effect on employees' likelihood to engage in the two processes of knowledge sharing in the context of Lebanese private higher education. Specifically, statistical analysis yielded values of .311 (p < 0.001) and .209 (p < 0.001) for ethical leadership's influence on knowledge collecting and knowledge donating respectively (see section 4.10). This finding is consistent with the study results by Le and Lei (2018) who found a direct positive relationship between ethical leadership and each of knowledge collecting and knowledge donating. Le and Lei's (2018) study was conducted among Chinese firms and their sample consisted of deputy directors, department heads, team leaders, and clerks in various departments (e.g.: administration, operation, accounting, marketing, and sales). Similarly, the study results by Su et al. (2021), Ma et al. (2013) found a significant influence of ethical leadership on knowledge sharing, however these studies have assessed knowledge sharing a single process.
 
@@ -2430,7 +1590,7 @@ In the higher education context, Xia and Yang (2020) conducted a study among pos
 
 Ethical leaders express honest concern toward their followers and display moral behaviours such as fairness and trust building (Brown and Treviño, 2006; Le and Lei, 2018). Among their many desirable qualities, ethical leaders are considerate, compassionate, sincere, and noble which is conveyed in their behaviour and reflected in their followers' performance. They promote ethical standards in accordance with their moral convictions which provides the appropriate atmosphere for employees to repay the treatment through reciprocation. Drawing
 
-<!-- page 123 -->
+<!-- page 124 -->
 
 on the principles of social exchange theory (Blau, 1964), followers recognize the benefits of reciprocating the moral behaviour they receive from the leader and engage in similar ethical behaviour that benefits the leader, the team, and the organization (Newman et al., 2014; Wang and Sung, 2016; Bhatti, 2020). This authentic exchange promotes honest communication between leaders and followers, and among followers themselves. The exchange includes communicating values, ideas, and taking part in decision-making, and provides the proper conditions that endorse knowledge sharing.
 
@@ -2444,7 +1604,7 @@ In research question 2, emphasis is placed on assessing the role of the ethical 
 
 The relationship between ethical leadership and ethical climate in this study is positive and significant (.543, p < 0.001) (see Section 4.10.1). This finding corroborates the empirical findings of various studies conducted in different contexts and populations: chief executive
 
-<!-- page 124 -->
+<!-- page 125 -->
 
 officers and their employees in South Korean companies (Shin, 2012); management and engineering staff in aviation maintenance centres in Turkey (Demirtas and Akdogan, 2015); civil servants in a local government agency in Indonesia (Aryati et al., 2018); Iraqi manufacturing, medical, and insurance organizations (Al Halbusi et al., 2020); teachers in primary, secondary, and high schools in Istanbul (Cansoy, Parlar and Türkoğlu, 2021); and postgraduate student workers in Portuguese universities (Freire and Pinto, 2022). In the higher education sector, the positive relationship between ethical leadership and ethical climate has been supported in a study conducted among academic and administrative staff working at public and private universities in the Federation of Bosnia and Herzegovina (Dinc, 2018).
 
@@ -2456,7 +1616,7 @@ Social learning theory (Bandura, 1986) suggests that leaders are commonly consid
 
 The findings in section 4.10.1 reflect previous findings in the literature on the positive impact of ethical climate on knowledge sharing as a single process in Portuguese nongovernmental organizations (Curado et al., 2021), organized industrial zones in Turkey (Şehitoǧlu and Bilgetürk, 2020) as well as related knowledge sharing behaviour such as knowledge management engagement among in-service employees (Tseng and Fan, 2011).
 
-<!-- page 125 -->
+<!-- page 126 -->
 
 However, the current study extends existing findings through examining knowledge sharing from a bidirectional perspective on one hand, and in a higher education context on the other. The findings show that the ethical climate in higher education institutions has a significant positive influence on knowledge collecting (.374, p < 0.01) as well as knowledge donating (.182, p < 0.001). This detailed analysis clearly demonstrates how the organizational climate affects employee behaviour on both sides of the knowledge sharing phenomenon.
 
@@ -2470,7 +1630,7 @@ In line with the body of literature outlined in sections 5.1.2.1 and 5.1.2.2 and
 
 The findings of the mediation analysis provided evidence that the ethical climate indeed played a full mediating role between ethical leadership and knowledge collecting (indirect effect = .203, 95% CI) and between ethical leadership and knowledge donating (indirect effect = .099, 95% CI). The mediating role of the ethical climate is reinforced in other studies and various contexts such as in the technology, insurance, financial, government, manufacturing,
 
-<!-- page 126 -->
+<!-- page 127 -->
 
 retail, and medical sectors in southeast United States (Kuenzi, Mayer and Greenbaum, 2020) and Iraqi insurance, medical, and manufacturing industries (Al Halbusi et al., 2020).
 
@@ -2484,11 +1644,11 @@ Research question 3 explores the role of the organizational tenure in the relati
 
 Previous research in organizational behaviour provides evidence of the role employee organizational tenure plays in shaping employee social links (Hu et al., 2019) as well as in employees' understanding of their work environment (Clark et al., 1996) and social norms (Rollag, 2004). Therefore, it was imperative to explore the role of this human related factor in influencing employee perceptions relevant to this research and thus hypothesize a moderating role of this variable (H3) and a consequent moderated mediation (H4).
 
-<!-- page 127 -->
+<!-- page 128 -->
 
 *H3. Employee organizational tenure moderates the relationship between ethical leadership * *and ethical climate such that this relationship is stronger when organizational tenure is longer.*
 
-The findings related to the third research question extend the weight of evidence supported in the second question, by examining *when* ethical leadership is more strongly related to the ethical climate in private higher education institutions in Lebanon. A moderating effect of the organizational tenure is evident according to the analysis reported in section 4.10.2 Moderation Analysis. The effect of ethical leadership on the ethical climate was stronger when organizational tenure was long (effect = .6224) compared to when it was short (effect = .4542) supporting hypothesis 3. These findings demonstrate that the interaction of ethical leadership with employee organizational tenure produces stronger perceptions of the ethical climate for employees with longer tenure than those with shorter tenure.
+The findings related to the third research question extend the weight of evidence supported in the second question, by examining *when* ethical leadership is more strongly related to the ethical climate in private higher education institutions in Lebanon. A moderating effect of the organizational tenure is evident according to the analysis reported in section [4.10.2](#page-114-0) [Moderation Analysis](#page-114-0). The effect of ethical leadership on the ethical climate was stronger when organizational tenure was long (effect = .6224) compared to when it was short (effect = .4542) supporting hypothesis 3. These findings demonstrate that the interaction of ethical leadership with employee organizational tenure produces stronger perceptions of the ethical climate for employees with longer tenure than those with shorter tenure.
 
 The significance of this interaction is conveyed not only in the actual values of the interaction index and the consequent conditional effects analysis outlined in Chapter 4, but also in the presence of the interaction itself. In a series of simulations, McClelland and Judd (1993) showed that while interaction effects might frequently occur in experimental studies, they are much harder to notice in field studies like the one considered in this research. Field studies have non-optimal distributions of the predictor (e.g., ethical leadership) and the moderator variables (e.g., organizational tenure). According to McClelland and Judd (1993), this distribution reduces the efficiency of the moderator parameter estimate and consequently lowers the statistical power, rendering it hardly detectable. Therefore, successfully detecting a moderator in a field study highlights a strength of that study. Hence, the moderating role of organizational tenure in the third hypothesis is supported and its significance is emphasized.
 
@@ -2498,21 +1658,20 @@ Considering the support found for a mediating role of the ethical climate (H2) a
 
 The findings derived in the previous chapter (Table 21) show that the indirect effects of ethical leadership on knowledge colleting and knowledge donating through the mediating role of ethical climate were enhanced as employee organizational tenure increased, therefore supporting H4. This finding emphasizes the role of employee organizational tenure and how
 
-<!-- page 128 -->
+<!-- page 129 -->
 
 its variation affects perceptions of the ethical climate and consequently, knowledge sharing behaviour. Past studies examined a moderating role of the organizational tenure in the relationship between supervision and knowledge sharing. In their sample of employees and their supervisors, working in appliance manufacturing companies in South Korea, Kim, Son and Yun (2018) argued that organizational tenure moderates the negative relationship between abusive supervision and employee's knowledge sharing behaviour. Their findings indicated that this negative relationship is strengthened when organizational tenure is high than when organizational tenure is low.
 
 The proposed conceptual framework presented earlier in Figure 6 is updated with the supported hypotheses discussed in sections 5.1.1, 5.1.2, 5.1.3, and presented in Figure 15 below.
 
-![TH.R02 fig17](../figures/TH/TH.R02_fig17.jpg)
-
-> *Abbreviation: OT, Organizational Tenure* *Figure 15. Proposed Conceptual Framework with Supported Hypotheses*
+![TH.R02 fig11](../figures/TH/TH.R02_fig11.jpg)
+**Abbreviation: OT, Organizational Tenure* *Figure 15. Proposed Conceptual Framework with Supported Hypotheses**
 
 ## **5.2** **Contribution to Knowledge**
 
 This research makes considerable theoretical contributions to the literature on leadership, organizational climate, and knowledge management, specifically in the context of higher education. First, it echoes the significance of ethical leadership and its influence on employee attitudes and behaviours, thereby acting as a robustness test of existing research on the subject. It also answers the need for a comprehensive understanding of the mechanism by which employees adopt these attitudes and behaviours, and how they are altered by different aspects and styles of leadership (Bock et al., 2005). Previous research has concluded that ethical leadership positively influences knowledge sharing (Bavik et al., 2018; Lu et al., 2019; Xia and Yang, 2020). The present study extends our understanding of that relationship by proposing a
 
-<!-- page 129 -->
+<!-- page 130 -->
 
 conceptual model (see Figure 6) that links ethical leadership to knowledge sharing through the mediating role of the ethical climate – explained through social learning and social exchange theories – within a knowledge-rich organisational environment such as a university.
 
@@ -2522,7 +1681,7 @@ Second, this research contributes to the knowledge sharing literature in multipl
 
 The research also contributes to the theoretical understanding of such knowledge sharing behaviour by examining its two distinct behavioural components: knowledge collecting (actively consulting others to obtain knowledge), and knowledge donating (actively providing others with one's knowledge). This distinction is important when attempting to understand how
 
-<!-- page 130 -->
+<!-- page 131 -->
 
 ethical leadership affects each process separately and how to increase the efficiency of the overall knowledge sharing behaviour.
 
@@ -2530,7 +1689,7 @@ Third, this research adds to the literature on organizational climates in genera
 
 Through this perspective, the research highlights the role of the ethical climate in the relationship between ethical leadership and different aspects of knowledge sharing. The findings empirically confirm that the ethical climate serves as an effective mediator between ethical leadership and knowledge sharing behaviour. This validation fills a theoretical gap in the general leadership literature in exploring the mediating role of ethical climates between ethical leadership and other dependent variables as suggested by Kuenzi, Mayer and Greenbaum (2020). The findings thus highlight the role of the ethical climate in facilitating knowledge collecting and knowledge donating and the direct and indirect effects of ethical leadership on these behaviours. Therefore, they provide a better theoretical understanding of the process underlying the relationship between ethical leadership and employee knowledge sharing behaviour. This understanding reveals that when employees operate in an ethical climate that is aligned with the two aspects of their ethical leader (i.e. moral person and moral manager), they are more likely to engage in discretionary, yet desirable behaviour such as
 
-<!-- page 131 -->
+<!-- page 132 -->
 
 knowledge sharing. Consequently, the findings call for renewed attention to the institution and its role in providing the climate necessary for leaders to influence the behaviour of employees, besides the long-established focus laid on the leaders' shoulders and their responsibility in effecting the desired change. As such, higher education institutions are entrusted to create the right conditions according to Treviño and Nelson's (2017) framework of formal systems. Furthermore, this study extends our understanding of the Ethical Organizational Climate through application in a culture that has not been researched before. The results thus bridge a particular knowledge gap and emphasize the need for maintaining ethical climates in Lebanese HEIs.
 
@@ -2538,7 +1697,7 @@ Fourth, this study incorporates the contingent effect of a human factor, that of
 
 Furthermore, this research confirms the relationships between ethical leadership, ethical climate, and knowledge sharing by analysing the boundary condition of employee organizational tenure. It provides empirical evidence of how the mediating role of the ethical climate between ethical leadership and knowledge sharing is conditional on employee organizational tenure. The indirect influence of ethical leadership on knowledge sharing through ethical climate is stronger when organizational tenure is longer; that is, in higher education institutions where ethical leadership exists, knowledge sharing is improved when employee organizational tenure is long. This research thus acknowledges employee organizational tenure as an individual difference that is linked to behavioural outcomes, and more specifically to knowledge sharing behaviour. To summarize, simultaneously including ethical climate and employee organizational tenure in the hypothesized relationships facilitates the understanding of ethical leadership, as well as its links to knowledge sharing.
 
-<!-- page 132 -->
+<!-- page 133 -->
 
 Finally, this research has explored the impact of ethical leadership on knowledge sharing in the unique context of higher education, which answers Bavik et al.'s (2018) call to examine ethical leadership in different contexts and industries. In doing so, this research enriches previous research on leadership in the context of higher education promoting the value of ethical leadership and climate in this knowledge intensive sector and ethically challenging context. Also, it contributes to the increasing development of the knowledge management discipline in knowledge intensive organizations, precisely higher education institutions.
 
@@ -2550,7 +1709,7 @@ First, considering the benefits of ethical leadership in promoting knowledge sha
 
 Types of training, on the other hand, can be varied and addressed to employees at different positions and with different responsibilities across the institution. They can be aimed at improving the moral manager side of leaders through raising awareness on the importance of institution-wide ethical practices as well as the implications of serving as ethical role models. This needs to be coupled with practically demonstrating how ethical management not only affects immediate subordinates but reaches far beyond the concerned department to the whole institution. Further practical applications can be through requiring higher education managers to balance their words and deeds in their daily management practices in order to reach an
 
-<!-- page 133 -->
+<!-- page 134 -->
 
 alignment of promises, directions, and corresponding action. On the moral person side of ethical leadership, training can emphasize the importance of honesty, trustworthiness, care, and fairness.
 
@@ -2562,7 +1721,7 @@ Second, higher education institutions need to continuously exert efforts to inte
 
 The task of creating or maintaining an ethical climate can be challenging to the institution. Such a climate needs to optimize the six formal systems that constitute an efficient ethical climate: recruitment and selection, orientation and training, policy and codes, reward
 
-<!-- page 134 -->
+<!-- page 135 -->
 
 and punishment, accountability and responsibility, and decision-making (Treviño and Nelson's, 2017). As such, human resource practices, policies, and procedures should reflect a transparent ethical climate through emphasizing the ultimate value of being an ethical employee and complying with the institution's regulations. For instance, properly written and enforced policies can guarantee that a highly visible system is in place where employees are not be left to learn about their expected ethical behaviour from their own experiences but through the reward and punishment of others.
 
@@ -2572,7 +1731,7 @@ Third, considering the importance of ethical leadership in improving knowledge s
 
 Taken together, the preceding two points imply that ethical leadership in higher education institutions not only enhances employee knowledge sharing behaviour in a direct manner, but when that influence is situated within an ethical climate, consequences of ethical leadership are transmitted in an indirect manner through the mediating effect of the ethical climate. By demonstrating that the ethical climate is a mediator, this research signals that, when establishing policies concerning how knowledge sharing behaviour can be developed among employees, managers and institutions should devote equal effort to developing ethical
 
-<!-- page 135 -->
+<!-- page 136 -->
 
 leadership as well as strengthening and maintaining a consistent ethical climate. Therefore, focus should not be limited to the recruitment, and promotion of ethical managers at all levels of the institution, but rather extend beyond the individual to ensure a consistent ethical climate through cultivating the six formal systems adopted in this research. Considering the particular national context of this thesis, Lebanese HEIs need to make every effort to maintain a combination of ethical leaders and ethical climates in order to reach the resulting positive outcomes discussed earlier including enhanced employee knowledge sharing.
 
@@ -2586,7 +1745,7 @@ One way to address this gap would be through clearly communicating the instituti
 
 The researcher acknowledges that the present study is not without limitations and proposes recommendations to overcome them in future research. First, with regards to
 
-<!-- page 136 -->
+<!-- page 137 -->
 
 measurement, this research has taken a cross-sectional survey approach to measure its constructs. This was due to the nature of the research and the limited time given to complete it. Despite the advantages of cross-sectional surveys (see section 3.2.2), causal inferences from the research model cannot be clearly drawn unless guided by theory as is the case in this study. Still, future research may consider a longitudinal design that measures constructs repeatedly at different points in time to better expose the causality between constructs.
 
@@ -2600,7 +1759,7 @@ Fifth, this research explored knowledge sharing in a bidirectional process to me
 
 Finally, the empirical results for the moderating role of organizational tenure suggest that further work in this area should consider investigating the role of other tenure-related
 
-<!-- page 137 -->
+<!-- page 138 -->
 
 human factors, such as dyadic tenure (the length of the leader-follower relationship) on the proposed links investigated here. Further work in this area can benefit from the particular context of Lebanon used in the study to compare organizational tenure in other countries with diverse properties such as a different retirement age, a stronger economy in which remaining in a certain job is less affected by external factors, and different benefits packages that normally affect employee tenure.
 
@@ -2612,7 +1771,7 @@ First, the topic of this research is timely and essential to the higher educatio
 
 Second, in conducting the literature review, the researcher had to undergo a thorough process of searching for relevant articles that can be the foundation on which to build the thesis and support its arguments throughout. This phase included critical reflection on the relevance of ideas encountered in the literature, the dependability and comprehensiveness of the adopted theories to explain the proposed links and phenomena. Also, an essential reflection involved the identification of gaps in the existing literature that would justify the undertaking of this research and the filling of which would advance knowledge and practice. Analysing and synthesising the disparate pieces of knowledge spread across the large body of literature has
 
-<!-- page 138 -->
+<!-- page 139 -->
 
 broadened the researcher's cognitive skills through higher-order thinking and discovering new perspectives to engage with the topic.
 
@@ -2622,741 +1781,425 @@ Learning AMOS was another challenging and time-consuming task, as the software i
 
 Fourth, the significant amount of writing required for the thesis had to be achieved through a disciplined approach of critically reviewing ideas, assessing their strengths and weaknesses, comparing their different sources, and synthesising the many pieces into a single new whole. The researcher's writing style had already been properly established and raised to academic levels during the taught phase of the doctorate. This initial phase served as a foundation for writing the thesis through training the researcher to write several large pieces of academic work, become a critical thinker, learn to situate himself in the literature, take a stance from the researched topic, and above all acquire the endurance that would eventually lead to completing the thesis.
 
-<!-- page 139 -->
+<!-- page 140 -->
 
 Finally, finishing the thesis with all the challenges it involved and the time and effort it took has shaped the researcher's personality and thinking as a researcher, a hard worker, and high performer. In addition, the thesis has added a new role to the researcher, that of a contributor to knowledge and practice through rigorous applicable research. The researcher has added to the existing body of knowledge on ethical leadership, ethical climate, organizational tenure, and knowledge sharing and has made recommendations towards advancing practice in these areas in the context of higher education management. The considerable effort laid out here has affirmed the researcher's ability and built his confidence in undertaking large projects the size of this thesis, and thereafter aiming for bigger achievements.
 
-<!-- page 140 -->
+<!-- page 141 -->
 
 ## **References**
 
-AACSB, 2020. *Publications* [Online]. 2020 Guiding Principles and Guidelines. Available from: https://www.aacsb.edu/-/media/documents/accreditation/2020-aacsb-businessaccreditation-standards-july-2021.pdf [Accessed 05 February 2023].
-
-Abou Arraj, H., 2018. Professionalism among employees in Lebanon: the Lebanese University. *World Journal of Entrepreneurship, Management and Sustainable * *Development*.
-
-Acar, G., Karabulut, N., Sahin, A., Musa, M. and Ozer, M., 2016. University staff's perceptions on ethical climate in their workplaces. *The Anthropologist*, *24*(3), pp.685-693.
-
-Aiken, L.S., West, S.G. and Reno, R.R., 1991. *Multiple regression: Testing and interpreting * *interactions*. sage.
-
-Al Halbusi, H., Williams, K.A., Ramayah, T., Aldieri, L. and Vinci, C.P., 2020. Linking ethical leadership and ethical climate to employees' ethical behavior: the moderating role of person–organization fit. *Personnel Review*.
-
-Al-Husseini, S. and Elbeltagi, I., 2018. Evaluating the effect of transformational leadership on knowledge sharing using structural equation modelling: the case of Iraqi higher education. *International Journal of Leadership in Education*, *21*(4), pp.506-517.
-
-Al-Kurdi, O., El-Haddadeh, R. and Eldabi, T., 2018. Knowledge sharing in higher education institutions: a systematic review. *Journal of Enterprise Information Management*.
-
-Al-omari, A.A., 2013. The perceived organizational ethical climate in Hashemite University. *The Asia-Pacific Education Researcher*, *22*(3), pp.273-279.
-
-Alonderiene, R. and Majauskaite, M., 2016. Leadership style and job satisfaction in higher education institutions. *International Journal of Educational Management*.
-
-Ardichvili, A., Page, V. and Wentling, T., 2003. Motivation and barriers to participation in virtual knowledge‐sharing communities of practice. *Journal of knowledge management*, *7*(1), pp.64-77.
-
-Argote, L. and Ingram, P., 2000. Knowledge transfer: A basis for competitive advantage in firms. *Organizational behavior and human decision processes*, *82*(1), pp.150-169.
-
-Arnaud, A., 2010. Conceptualizing and measuring ethical work climate: Development and validation of the ethical climate index. *Business & Society*, *49*(2), pp.345-358.
-
-Aryati, A.S., Sudiro, A., Hadiwidjaja, D. and Noermijati, N., 2018. The influence of ethical leadership to deviant workplace behavior mediated by ethical climate and organizational commitment. *International Journal of Law and Management*.
-
-Atatsi, E.A., Stoffers, J. and Kil, A., 2021. Work tenure and organizational citizenship behaviors; a study in Ghanaian technical universities. *Sustainability*, *13*(24), p.13762.
-
-<!-- page 141 -->
-
-Atinc, G., Simmering, M.J. and Kroll, M.J., 2012. Control variable use and reporting in macro and micro management research. *Organizational Research Methods*, *15*(1), pp.57-74.
-
-Audette, L.M., Hammond, M.S. and Rochester, N.K., 2020. Methodological issues with coding participants in anonymous psychological longitudinal studies. *Educational and * *Psychological Measurement*, *80*(1), pp.163-185.
-
-Audi, R., 2012. Virtue ethics as a resource in business. Business Ethics Quarterly, 22(2), pp.273-291.
-
-Awais-e-Yazdan, M. and Hassan, Z., 2020. The impact of HRM practices on turnover intention with the mediation effect of ethical climate: an empirical evidence from higher educational sector of pakistan. *PalArch's Journal of Archaeology of Egypt/Egyptology*, *17*(11), pp.12- 28.
-
-Avey, J.B., Wernsing, T.S. and Palanski, M.E., 2012. Exploring the process of ethical leadership: The mediating role of employee voice and psychological ownership. *Journal of * *Business Ethics*, *107*(1), pp.21-34.
-
-Avolio, B.J., 1999. *Full leadership development: Building the vital forces in organizations*. Sage.
-
-Avolio, B.J., Gardner, W.L., Walumbwa, F.O., Luthans, F. and May, D.R., 2004. Unlocking the mask: A look at the process by which authentic leaders impact follower attitudes and behaviors. *The leadership quarterly*, *15*(6), pp.801-823.
-
-Babbie, E.R., 2020. *The practice of social research*. Cengage learning.
-
-Bal, P.M., De Cooman, R. and Mol, S.T., 2013. Dynamics of psychological contracts with work engagement and turnover intention: The influence of organizational tenure. *European * *journal of work and organizational psychology*, *22*(1), pp.107-122.
-
-Bandura, A., 1986. Social foundations of thought and action. *Englewood Cliffs, NJ*, *1986*, pp.23-28.
-
-Bandura, A. and Walters, R.H., 1977. *Social learning theory* (Vol. 1). Englewood Cliffs, NJ: Prentice-hall.
-
-Bargh, C., Bocock, J., Scott, P. and Smith, D., 2000. *University leadership: The role of the * *chief executive*. Open University Press.
-
-Baron, R.M. and Kenny, D.A., 1986. The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of * *personality and social psychology*, *51*(6), p.1173.
-
-Bartlett, M.S., 1954. A note on the multiplying factors for various χ 2 approximations. *Journal of the Royal Statistical Society. Series B (Methodological)*, pp.296-298.
-
-Bartol, K.M., Liu, W., Zeng, X. and Wu, K., 2009. Social exchange and knowledge sharing among knowledge workers: The moderating role of perceived job security. *Management * *and Organization Review*, *5*(2), pp.223-240.
+- AACSB, 2020. *Publications* [Online]. 2020 Guiding Principles and Guidelines. Available from: [https://www.aacsb.edu/-/media/documents/accreditation/2020-aacsb-business](https://www.aacsb.edu/-/media/documents/accreditation/2020-aacsb-business-accreditation-standards-july-2021.pdf)[accreditation-standards-july-2021.pdf](https://www.aacsb.edu/-/media/documents/accreditation/2020-aacsb-business-accreditation-standards-july-2021.pdf) [Accessed 05 February 2023].
+- Abou Arraj, H., 2018. Professionalism among employees in Lebanon: the Lebanese University. *World Journal of Entrepreneurship, Management and Sustainable * *Development*.
+- Acar, G., Karabulut, N., Sahin, A., Musa, M. and Ozer, M., 2016. University staff's perceptions on ethical climate in their workplaces. *The Anthropologist*, *24*(3), pp.685-693.
+- Aiken, L.S., West, S.G. and Reno, R.R., 1991. *Multiple regression: Testing and interpreting * *interactions*. sage.
+- Al Halbusi, H., Williams, K.A., Ramayah, T., Aldieri, L. and Vinci, C.P., 2020. Linking ethical leadership and ethical climate to employees' ethical behavior: the moderating role of person–organization fit. *Personnel Review*.
+- Al-Husseini, S. and Elbeltagi, I., 2018. Evaluating the effect of transformational leadership on knowledge sharing using structural equation modelling: the case of Iraqi higher education. *International Journal of Leadership in Education*, *21*(4), pp.506-517.
+- Al-Kurdi, O., El-Haddadeh, R. and Eldabi, T., 2018. Knowledge sharing in higher education institutions: a systematic review. *Journal of Enterprise Information Management*.
+- Al-omari, A.A., 2013. The perceived organizational ethical climate in Hashemite University. *The Asia-Pacific Education Researcher*, *22*(3), pp.273-279.
+- Alonderiene, R. and Majauskaite, M., 2016. Leadership style and job satisfaction in higher education institutions. *International Journal of Educational Management*.
+- Ardichvili, A., Page, V. and Wentling, T., 2003. Motivation and barriers to participation in virtual knowledge‐sharing communities of practice. *Journal of knowledge management*, *7*(1), pp.64-77.
+- Argote, L. and Ingram, P., 2000. Knowledge transfer: A basis for competitive advantage in firms. *Organizational behavior and human decision processes*, *82*(1), pp.150-169.
+- Arnaud, A., 2010. Conceptualizing and measuring ethical work climate: Development and validation of the ethical climate index. *Business & Society*, *49*(2), pp.345-358.
+- Aryati, A.S., Sudiro, A., Hadiwidjaja, D. and Noermijati, N., 2018. The influence of ethical leadership to deviant workplace behavior mediated by ethical climate and organizational commitment. *International Journal of Law and Management*.
+- Atatsi, E.A., Stoffers, J. and Kil, A., 2021. Work tenure and organizational citizenship behaviors; a study in Ghanaian technical universities. *Sustainability*, *13*(24), p.13762.
 
 <!-- page 142 -->
 
-Bass, B.M., 1985. *Leadership and performance beyond expectations*. Free Press, New York, NY
-
-Bass, B.M. and Avolio, B.J. eds., 1994. *Improving organizational effectiveness through * *transformational leadership*. Sage.
-
-Bass, B.M. and Steidlmeier, P., 1999. Ethics, character, and authentic transformational leadership behavior. *The leadership quarterly*, *10*(2), pp.181-217.
-
-Bass, B.M. and Stogdill, R.M., 1990. *Bass & Stogdill's handbook of leadership: Theory, * *research, and managerial applications*. Simon and Schuster.
-
-Bavik, Y.L., Tang, P.M., Shao, R. and Lam, L.W., 2018. Ethical leadership and employee knowledge sharing: Exploring dual-mediation paths. *The Leadership Quarterly*, *29*(2), pp.322-332.
-
-Bell, E., Bryman, A. and Harley, B., 2018. *Business research methods*. Oxford university press.
-
-Bellibas, M. S, Ozaslan, G, Gumus, E, & Gumus, S., 2016. Examining department chairs' needs in performing academic leadership in turkish universities. *Education and Science*, *41(184),* pp. 91-103
-
-Blau, P., 1964. *Exchange and power in social life*, New York, NY: Wiley.
-
-Bluedorn, A.C. and Jaussi, K.S., 2008. Leaders, followers, and time. *The Leadership Quarterly*, *19*(6), pp.654-668.
-
-Bock, G.W., Zmud, R.W., Kim, Y.G. and Lee, J.N., 2005. Behavioral intention formation in knowledge sharing: Examining the roles of extrinsic motivators, social-psychological forces, and organizational climate. *MIS quarterly*, pp.87-111.
-
-Boekhorst, J.A., 2015. The role of authentic leadership in fostering workplace inclusion: A social information processing perspective. *Human Resource Management*, *54*(2), pp.241- 264.
-
-Bray, J.N., Lee, J., Smith, L.L. and Yorks, L., 2000. *Collaborative inquiry in practice: Action, * *reflection, and making meaning*. Sage.
-
-Brin, P.V. and Nehme, M.N., 2018. Corporate and governmental social responsibility: possible approaches to unemployment reduction.
-
-Brown, J.S. and Duguid, P., 1991. Organizational learning and communities-of-practice: Toward a unified view of working, learning, and innovation. *Organization science*, *2*(1), pp.40-57.
-
-Brown, M.W. and Cudeck, R., 1993. Alternative ways of assessing model fit. *Testing structural * *equation models*, *154*, pp.136-162.
-
-Brown, M.E. and Mitchell, M.S., 2010. Ethical and unethical leadership: Exploring new avenues for future research. *Business Ethics Quarterly*, pp.583-616.
+- Atinc, G., Simmering, M.J. and Kroll, M.J., 2012. Control variable use and reporting in macro and micro management research. *Organizational Research Methods*, *15*(1), pp.57-74.
+- Audette, L.M., Hammond, M.S. and Rochester, N.K., 2020. Methodological issues with coding participants in anonymous psychological longitudinal studies. *Educational and * *Psychological Measurement*, *80*(1), pp.163-185.
+- Audi, R., 2012. Virtue ethics as a resource in business. Business Ethics Quarterly, 22(2), pp.273-291.
+- Awais-e-Yazdan, M. and Hassan, Z., 2020. The impact of HRM practices on turnover intention with the mediation effect of ethical climate: an empirical evidence from higher educational sector of pakistan. *PalArch's Journal of Archaeology of Egypt/Egyptology*, *17*(11), pp.12- 28.
+- Avey, J.B., Wernsing, T.S. and Palanski, M.E., 2012. Exploring the process of ethical leadership: The mediating role of employee voice and psychological ownership. *Journal of * *Business Ethics*, *107*(1), pp.21-34.
+- Avolio, B.J., 1999. *Full leadership development: Building the vital forces in organizations*. Sage.
+- Avolio, B.J., Gardner, W.L., Walumbwa, F.O., Luthans, F. and May, D.R., 2004. Unlocking the mask: A look at the process by which authentic leaders impact follower attitudes and behaviors. *The leadership quarterly*, *15*(6), pp.801-823.
+- Babbie, E.R., 2020. *The practice of social research*. Cengage learning.
+- Bal, P.M., De Cooman, R. and Mol, S.T., 2013. Dynamics of psychological contracts with work engagement and turnover intention: The influence of organizational tenure. *European * *journal of work and organizational psychology*, *22*(1), pp.107-122.
+- Bandura, A., 1986. Social foundations of thought and action. *Englewood Cliffs, NJ*, *1986*, pp.23-28.
+- Bandura, A. and Walters, R.H., 1977. *Social learning theory* (Vol. 1). Englewood Cliffs, NJ: Prentice-hall.
+- Bargh, C., Bocock, J., Scott, P. and Smith, D., 2000. *University leadership: The role of the * *chief executive*. Open University Press.
+- Baron, R.M. and Kenny, D.A., 1986. The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of * *personality and social psychology*, *51*(6), p.1173.
+- Bartlett, M.S., 1954. A note on the multiplying factors for various χ 2 approximations. *Journal of the Royal Statistical Society. Series B (Methodological)*, pp.296-298.
+- Bartol, K.M., Liu, W., Zeng, X. and Wu, K., 2009. Social exchange and knowledge sharing among knowledge workers: The moderating role of perceived job security. *Management * *and Organization Review*, *5*(2), pp.223-240.
 
 <!-- page 143 -->
 
-Brown, M.E., Treviño, L.K. and Harrison, D.A., 2005. Ethical leadership: A social learning perspective for construct development and testing. *Organizational behavior and human * *decision processes*, *97*(2), pp.117-134.
-
-Brown, M.E. and Treviño, L.K., 2006. Ethical leadership: A review and future directions. *The * *leadership quarterly, 17(6), pp.595-616.*
-
-Brunk, K.H., 2012. Un/ethical company and brand perceptions: Conceptualising and operationalising consumer meanings. Journal of business ethics, 111(4), pp.551-565.
-
-Bryman, A., 2007. Effective leadership in higher education: A literature review. *Studies in * *higher education*, *32*(6), pp.693-710.
-
-Bryman, A., 2016. *Social research methods* 5th ed., Oxford: Oxford University Press.
-
-Buckner, E., Spencer, D. and Cha, J., 2018. Between policy and practice: The education of Syrian refugees in Lebanon. *Journal of Refugee Studies*, *31*(4), pp.444-465.
-
-Burns, J.M., 2004. *Transforming leadership: A new pursuit of happiness* (Vol. 213). Grove Press.
-
-Burris, E.R., 2012. The risks and rewards of speaking up: Managerial responses to employee voice. *Academy of Management Journal*, *55*(4), pp.851-875.
-
-Byrne, B.M., 2013. *Structural equation modeling with Mplus: Basic concepts, applications, * *and programming*. routledge.
-
-Cabrera, E.F. and Cabrera, A., 2005. Fostering knowledge sharing through people management practices. *The international journal of human resource management*, *16*(5), pp.720-735.
-
-Cansoy, R., Parlar, H. and Türkoğlu, M.E., 2021. The Effect of School Principals' Ethical Leadership on Teacher Job Satisfaction: The Mediating Role of School Ethical Climate. *International Journal of Psychology and Educational Studies*, *8*(4), pp.210-222.
-
-Castellan, C.M., 2010. Quantitative and qualitative research: A view for clarity. *International * *journal of education*, *2*(2), p.1.
-
-Chan Kim, W. and Mauborgne, R., 1998. Procedural justice, strategic decision making, and the knowledge economy. *Strategic management journal*, *19*(4), pp.323-338.
-
-Chan, S.C. and Mak, W.M., 2014. The impact of servant leadership and subordinates' organizational tenure on trust in leader and attitudes. *Personnel Review*.
-
-Chapman, D.W. and Lindner, S., 2016. Degrees of integrity: The threat of corruption in higher education. *Studies in Higher Education*, *41*(2), pp.247-268.
-
-Chedrawi, C., Howayeck, P. and Tarhini, A., 2019. CSR and legitimacy in higher education accreditation programs, an isomorphic approach of Lebanese business schools. *Quality * *Assurance in Education*.
+- Bass, B.M., 1985. *Leadership and performance beyond expectations*. Free Press, New York, NY
+- Bass, B.M. and Avolio, B.J. eds., 1994. *Improving organizational effectiveness through * *transformational leadership*. Sage.
+- Bass, B.M. and Steidlmeier, P., 1999. Ethics, character, and authentic transformational leadership behavior. *The leadership quarterly*, *10*(2), pp.181-217.
+- Bass, B.M. and Stogdill, R.M., 1990. *Bass & Stogdill's handbook of leadership: Theory, * *research, and managerial applications*. Simon and Schuster.
+- Bavik, Y.L., Tang, P.M., Shao, R. and Lam, L.W., 2018. Ethical leadership and employee knowledge sharing: Exploring dual-mediation paths. *The Leadership Quarterly*, *29*(2), pp.322-332.
+- Bell, E., Bryman, A. and Harley, B., 2018. *Business research methods*. Oxford university press.
+- Bellibas, M. S, Ozaslan, G, Gumus, E, & Gumus, S., 2016. Examining department chairs' needs in performing academic leadership in turkish universities. *Education and Science*, *41(184),* pp. 91-103
+- Blau, P., 1964. *Exchange and power in social life*, New York, NY: Wiley.
+- Bluedorn, A.C. and Jaussi, K.S., 2008. Leaders, followers, and time. *The Leadership Quarterly*, *19*(6), pp.654-668.
+- Bock, G.W., Zmud, R.W., Kim, Y.G. and Lee, J.N., 2005. Behavioral intention formation in knowledge sharing: Examining the roles of extrinsic motivators, social-psychological forces, and organizational climate. *MIS quarterly*, pp.87-111.
+- Boekhorst, J.A., 2015. The role of authentic leadership in fostering workplace inclusion: A social information processing perspective. *Human Resource Management*, *54*(2), pp.241- 264.
+- Bray, J.N., Lee, J., Smith, L.L. and Yorks, L., 2000. *Collaborative inquiry in practice: Action, * *reflection, and making meaning*. Sage.
+- Brin, P.V. and Nehme, M.N., 2018. Corporate and governmental social responsibility: possible approaches to unemployment reduction.
+- Brown, J.S. and Duguid, P., 1991. Organizational learning and communities-of-practice: Toward a unified view of working, learning, and innovation. *Organization science*, *2*(1), pp.40-57.
+- Brown, M.W. and Cudeck, R., 1993. Alternative ways of assessing model fit. *Testing structural * *equation models*, *154*, pp.136-162.
+- Brown, M.E. and Mitchell, M.S., 2010. Ethical and unethical leadership: Exploring new avenues for future research. *Business Ethics Quarterly*, pp.583-616.
 
 <!-- page 144 -->
 
-Chen, A.S.Y. and Hou, Y.H., 2016. The effects of ethical leadership, voice behavior and climates for innovation on creativity: A moderated mediation examination. *The Leadership * *Quarterly*, *27*(1), pp.1-13.
-
-Chen, G., Ployhart, R.E., Thomas, H.C., Anderson, N. and Bliese, P.D., 2011. The power of momentum: A new model of dynamic relationships between job satisfaction change and turnover intentions. *Academy of Management Journal*, *54*(1), pp.159-181.
-
-Choi, S.B., Kim, K., Ullah, S.E. and Kang, S.W., 2016. How transformational leadership facilitates innovative behavior of Korean workers. *Personnel Review*.
-
-Clark, A., Oswald, A. and Warr, P., 1996. Is job satisfaction U‐shaped in age?. *Journal of * *occupational and organizational psychology*, *69*(1), pp.57-81.
-
-Coface, 2022. *Publications* [Online]. Country Risk assessment Map Q3 2022. Available from: https://www.coface.com/News-Publications/Publications/Country-Risk-Assessment-Map-Q3-2022 [Accessed 24 January 2023].
-
-Collis, J. and Hussey, R., 2013. *Business research: A practical guide for undergraduate and * *postgraduate students*. Macmillan International Higher Education.
-
-Cottrill, K., Lopez, P.D. and Hoffman, C.C., 2014. How authentic leadership and inclusion benefit organizations. *Equality, Diversity and Inclusion: An International Journal*, *33*(3), pp.275-292.
-
-Coyle-Shapiro, J.A.M., 2002. A psychological contract perspective on organizational citizenship behavior. *Journal of Organizational Behavior: The International Journal of * *Industrial, Occupational and Organizational Psychology and Behavior*, *23*(8), pp.927-946.
-
-Creswell, J.W. and Creswell, J. David, 2017. *Research design: qualitative, quantitative, and * *mixed methods approaches* 5th edition; international., Thousand Oaks, Calif.: SAGE.
-
-Cropanzano, R., James, K. and Konovsky, M.A., 1993. Dispositional affectivity as a predictor of work attitudes and job performance. *Journal of organizational behavior*, *14*(6), pp.595- 606.
-
-Cullen, J.B., Victor, B. and Bronson, J.W., 1993. The ethical climate questionnaire: An assessment of its development and validity. *Psychological reports*, *73*(2), pp.667-674.
-
-Cullen, J.B., Parboteeah, K.P. and Victor, B., 2003. The effects of ethical climates on organizational commitment: A two-study analysis. *Journal of Business Ethics*, *46*(2), pp.127-141.
-
-Cummings, J.N., 2004. Work groups, structural diversity, and knowledge sharing in a global organization. *Management science*, *50*(3), pp.352-364.
-
-Curado, C., Henriques, P., Oliveira, M. and Martins, R., 2021. Organisational culture as an antecedent of knowledge sharing in NGOs. *Knowledge Management Research & Practice*, pp.1-13.
+- Brown, M.E., Treviño, L.K. and Harrison, D.A., 2005. Ethical leadership: A social learning perspective for construct development and testing. *Organizational behavior and human * *decision processes*, *97*(2), pp.117-134.
+- Brown, M.E. and Treviño, L.K., 2006. Ethical leadership: A review and future directions. *The * *leadership quarterly, 17(6), pp.595-616.*
+- Brunk, K.H., 2012. Un/ethical company and brand perceptions: Conceptualising and operationalising consumer meanings. Journal of business ethics, 111(4), pp.551-565.
+- Bryman, A., 2007. Effective leadership in higher education: A literature review. *Studies in * *higher education*, *32*(6), pp.693-710.
+- Bryman, A., 2016. *Social research methods* 5th ed., Oxford: Oxford University Press.
+- Buckner, E., Spencer, D. and Cha, J., 2018. Between policy and practice: The education of Syrian refugees in Lebanon. *Journal of Refugee Studies*, *31*(4), pp.444-465.
+- Burns, J.M., 2004. *Transforming leadership: A new pursuit of happiness* (Vol. 213). Grove Press.
+- Burris, E.R., 2012. The risks and rewards of speaking up: Managerial responses to employee voice. *Academy of Management Journal*, *55*(4), pp.851-875.
+- Byrne, B.M., 2013. *Structural equation modeling with Mplus: Basic concepts, applications, * *and programming*. routledge.
+- Cabrera, E.F. and Cabrera, A., 2005. Fostering knowledge sharing through people management practices. *The international journal of human resource management*, *16*(5), pp.720-735.
+- Cansoy, R., Parlar, H. and Türkoğlu, M.E., 2021. The Effect of School Principals' Ethical Leadership on Teacher Job Satisfaction: The Mediating Role of School Ethical Climate. *International Journal of Psychology and Educational Studies*, *8*(4), pp.210-222.
+- Castellan, C.M., 2010. Quantitative and qualitative research: A view for clarity. *International * *journal of education*, *2*(2), p.1.
+- Chan Kim, W. and Mauborgne, R., 1998. Procedural justice, strategic decision making, and the knowledge economy. *Strategic management journal*, *19*(4), pp.323-338.
+- Chan, S.C. and Mak, W.M., 2014. The impact of servant leadership and subordinates' organizational tenure on trust in leader and attitudes. *Personnel Review*.
+- Chapman, D.W. and Lindner, S., 2016. Degrees of integrity: The threat of corruption in higher education. *Studies in Higher Education*, *41*(2), pp.247-268.
+- Chedrawi, C., Howayeck, P. and Tarhini, A., 2019. CSR and legitimacy in higher education accreditation programs, an isomorphic approach of Lebanese business schools. *Quality * *Assurance in Education*.
 
 <!-- page 145 -->
 
-Dasborough, M.T. and Ashkanasy, N.M., 2002. Emotion and attribution of intentionality in leader–member relationships. *The Leadership Quarterly*, *13*(5), pp.615-634.
-
-Davenport, T.H. and Prusak, L., 1998. *Working knowledge: How organizations manage what * *they know*. Boston, MA: Harvard Business School Press.
-
-David, E.M., Kim, T.Y., Farh, J.L., Lin, X. and Zhou, F., 2020. Is 'be yourself' always the best advice? The moderating effect of team ethical climate and the mediating effects of vigor and demand–ability fit. *Human Relations*, p.0018726719894054.
-
-De Boer, H., Goedegebuure, L. and Meek, V.L., 2010. The changing nature of academic middle management: A framework for analysis. In *The changing dynamics of higher education * *middle management* (pp. 229-241). Springer, Dordrecht.
-
-De Hoogh, A.H. and Den Hartog, D.N., 2008. Ethical and despotic leadership, relationships with leader's social responsibility, top management team effectiveness and subordinates' optimism: A multi-method study. *The leadership quarterly*, *19*(3), pp.297-311.
-
-DeConinck, J.B., 2010. The influence of ethical climate on marketing employees' job attitudes and behaviors. *Journal of Business Research*, *63*(4), pp.384-391.
-
-DeConinck, J.B., 2011. The effects of ethical climate on organizational identification, supervisory trust, and turnover among salespeople. *Journal of Business Research*, *64*(6), pp.617-624.
-
-De Long, D.W. and Fahey, L., 2000. Diagnosing cultural barriers to knowledge management. *Academy of Management Perspectives*, *14*(4), pp.113-127.
-
-Demirtas, O. and Akdogan, A.A., 2015. The effect of ethical leadership behavior on ethical climate, turnover intention, and affective commitment. *Journal of Business Ethics*, *130*(1), pp.59-67.
-
-Den Hartog, D.N., 2015. Ethical leadership. *Annu. Rev. Organ. Psychol. Organ. Behav.*, *2*(1), pp.409-434.
-
-Den Hartog, D.N. and Belschak, F.D., 2012. Work engagement and Machiavellianism in the ethical leadership process. *Journal of Business Ethics*, *107*(1), pp.35-47.
-
-Denison, D.R., 1996. What is the difference between organizational culture and organizational climate? A native's point of view on a decade of paradigm wars. *Academy of management * *review*, *21*(3), pp.619-654.
-
-Denzin, N.K., 2005. The discipline and practice of qualitative research. In. NK Denzin & YS Lincoln. *Handbook of qualitative research*, pp.1-42.
-
-Deshpande, S.P., 1996a. Ethical climate and the link between success and ethical behavior: An empirical investigation of a non-profit organization. *Journal of Business Ethics*, *15*(3), pp.315-320.
+- Chen, A.S.Y. and Hou, Y.H., 2016. The effects of ethical leadership, voice behavior and climates for innovation on creativity: A moderated mediation examination. *The Leadership * *Quarterly*, *27*(1), pp.1-13.
+- Chen, G., Ployhart, R.E., Thomas, H.C., Anderson, N. and Bliese, P.D., 2011. The power of momentum: A new model of dynamic relationships between job satisfaction change and turnover intentions. *Academy of Management Journal*, *54*(1), pp.159-181.
+- Choi, S.B., Kim, K., Ullah, S.E. and Kang, S.W., 2016. How transformational leadership facilitates innovative behavior of Korean workers. *Personnel Review*.
+- Clark, A., Oswald, A. and Warr, P., 1996. Is job satisfaction U‐shaped in age?. *Journal of * *occupational and organizational psychology*, *69*(1), pp.57-81.
+- Coface, 2022. *Publications* [Online]. Country Risk assessment Map Q3 2022. Available from: [https://www.coface.com/News-Publications/Publications/Country-Risk-](https://www.coface.com/News-Publications/Publications/Country-Risk-Assessment-Map-Q3-2022)[Assessment-Map-Q3-2022](https://www.coface.com/News-Publications/Publications/Country-Risk-Assessment-Map-Q3-2022) [Accessed 24 January 2023].
+- Collis, J. and Hussey, R., 2013. *Business research: A practical guide for undergraduate and * *postgraduate students*. Macmillan International Higher Education.
+- Cottrill, K., Lopez, P.D. and Hoffman, C.C., 2014. How authentic leadership and inclusion benefit organizations. *Equality, Diversity and Inclusion: An International Journal*, *33*(3), pp.275-292.
+- Coyle-Shapiro, J.A.M., 2002. A psychological contract perspective on organizational citizenship behavior. *Journal of Organizational Behavior: The International Journal of * *Industrial, Occupational and Organizational Psychology and Behavior*, *23*(8), pp.927-946.
+- Creswell, J.W. and Creswell, J. David, 2017. *Research design: qualitative, quantitative, and * *mixed methods approaches* 5th edition; international., Thousand Oaks, Calif.: SAGE.
+- Cropanzano, R., James, K. and Konovsky, M.A., 1993. Dispositional affectivity as a predictor of work attitudes and job performance. *Journal of organizational behavior*, *14*(6), pp.595- 606.
+- Cullen, J.B., Victor, B. and Bronson, J.W., 1993. The ethical climate questionnaire: An assessment of its development and validity. *Psychological reports*, *73*(2), pp.667-674.
+- Cullen, J.B., Parboteeah, K.P. and Victor, B., 2003. The effects of ethical climates on organizational commitment: A two-study analysis. *Journal of Business Ethics*, *46*(2), pp.127-141.
+- Cummings, J.N., 2004. Work groups, structural diversity, and knowledge sharing in a global organization. *Management science*, *50*(3), pp.352-364.
+- Curado, C., Henriques, P., Oliveira, M. and Martins, R., 2021. Organisational culture as an antecedent of knowledge sharing in NGOs. *Knowledge Management Research & Practice*, pp.1-13.
 
 <!-- page 146 -->
 
-Deshpande, S.P., 1996b. The impact of ethical climate types on facets of job satisfaction: An empirical investigation. *Journal of Business Ethics*, *15*(6), pp.655-660.
-
-Deshpande, S.P., George, E. and Joseph, J., 2000. Ethical climates and managerial success in Russian organizations. *Journal of Business Ethics*, *23*(2), pp.211-217.
-
-Deshpande, S.P. and Joseph, J., 2009. Impact of emotional intelligence, ethical climate, and behavior of peers on ethical behavior of nurses. *Journal of Business Ethics*, *85*(3), pp.403- 410.
-
-Deshpande, S.P., Joseph, J. and Shu, X., 2011. Ethical climate and managerial success in China. *Journal of Business Ethics*, *99*(4), pp.527-534.
-
-De Vise, D., 2011. Eight scandals that ended college presidencies. *Washington Post. * *November*, *21*.
-
-Dinc, M.S., 2018. Direct and indirect effect of ethical leadership on employee behaviours in higher education. *International Journal of Management in Education*, *12*(3), pp.201-222.
-
-Dirican, A.H. and Erdil, O., 2016. An exploration of academic staff's organizational citizenship behavior and counterproductive work behavior in relation to demographic characteristics. *Procedia-Social and Behavioral Sciences*, *235*, pp.351-360.
-
-Dopson, S., Ferlie, E., McGivern, G., Fischer, M.D., Mitra, M., Ledger, J. and Behrens, S., 2019. Leadership development in Higher Education: A literature review and implications for programme redesign. *Higher Education Quarterly*, *73*(2), pp.218-234.
-
-Easterby-Smith et al., 2018. *Management and business research* 6th ed., Los Angeles, Calif.: SAGE.
-
-Eden, D. and Leviatan, U., 1975. Implicit leadership theory as a determinant of the factor structure underlying supervisory behavior scales. *Journal of Applied Psychology*, *60*(6), p.736.
-
-Ehrhart, M.G., 2004. Leadership and procedural justice climate as antecedents of unit‐level organizational citizenship behavior. *Personnel psychology*, *57*(1), pp.61-94.
-
-Eisenbeiss, S.A., 2012. Re-thinking ethical leadership: An interdisciplinary integrative approach. *The Leadership Quarterly*, *23*(5), pp.791-808.
-
-Eisenbeiss, S.A. and Brodbeck, F., 2014. Ethical and unethical leadership: A cross-cultural and cross-sectoral analysis. *Journal of Business Ethics*, *122*(2), pp.343-359.
-
-El-Ghali, H.A. and Ghalayini, N., 2016. Why Doesn't Lebanon Have a National Quality Assurance Agency for Higher Education Yet?. *Education and Youth Policy Research*.
-
-ElZein, H. and Alameddine, M., 2012. Development of sustainable ethics education in business: A framework. *American Academic & Scholarly Research Journal*, *4*(5).
+- Dasborough, M.T. and Ashkanasy, N.M., 2002. Emotion and attribution of intentionality in leader–member relationships. *The Leadership Quarterly*, *13*(5), pp.615-634.
+- Davenport, T.H. and Prusak, L., 1998. *Working knowledge: How organizations manage what * *they know*. Boston, MA: Harvard Business School Press.
+- David, E.M., Kim, T.Y., Farh, J.L., Lin, X. and Zhou, F., 2020. Is 'be yourself' always the best advice? The moderating effect of team ethical climate and the mediating effects of vigor and demand–ability fit. *Human Relations*, p.0018726719894054.
+- De Boer, H., Goedegebuure, L. and Meek, V.L., 2010. The changing nature of academic middle management: A framework for analysis. In *The changing dynamics of higher education * *middle management* (pp. 229-241). Springer, Dordrecht.
+- De Hoogh, A.H. and Den Hartog, D.N., 2008. Ethical and despotic leadership, relationships with leader's social responsibility, top management team effectiveness and subordinates' optimism: A multi-method study. *The leadership quarterly*, *19*(3), pp.297-311.
+- DeConinck, J.B., 2010. The influence of ethical climate on marketing employees' job attitudes and behaviors. *Journal of Business Research*, *63*(4), pp.384-391.
+- DeConinck, J.B., 2011. The effects of ethical climate on organizational identification, supervisory trust, and turnover among salespeople. *Journal of Business Research*, *64*(6), pp.617-624.
+- De Long, D.W. and Fahey, L., 2000. Diagnosing cultural barriers to knowledge management. *Academy of Management Perspectives*, *14*(4), pp.113-127.
+- Demirtas, O. and Akdogan, A.A., 2015. The effect of ethical leadership behavior on ethical climate, turnover intention, and affective commitment. *Journal of Business Ethics*, *130*(1), pp.59-67.
+- Den Hartog, D.N., 2015. Ethical leadership. *Annu. Rev. Organ. Psychol. Organ. Behav.*, *2*(1), pp.409-434.
+- Den Hartog, D.N. and Belschak, F.D., 2012. Work engagement and Machiavellianism in the ethical leadership process. *Journal of Business Ethics*, *107*(1), pp.35-47.
+- Denison, D.R., 1996. What is the difference between organizational culture and organizational climate? A native's point of view on a decade of paradigm wars. *Academy of management * *review*, *21*(3), pp.619-654.
+- Denzin, N.K., 2005. The discipline and practice of qualitative research. In. NK Denzin & YS Lincoln. *Handbook of qualitative research*, pp.1-42.
+- Deshpande, S.P., 1996a. Ethical climate and the link between success and ethical behavior: An empirical investigation of a non-profit organization. *Journal of Business Ethics*, *15*(3), pp.315-320.
 
 <!-- page 147 -->
 
-Empson, L., 2001. Fear of exploitation and fear of contamination: Impediments to knowledge transfer in mergers between professional service firms. *Human relations*, *54*(7), pp.839- 862.
-
-Erez, A. and Judge, T.A., 2001. Relationship of core self-evaluations to goal setting, motivation, and performance. *Journal of applied psychology*, *86*(6), p.1270.
-
-Esen, M., Bellibas, M.S. and Gumus, S., 2020. The evolution of leadership research in higher education for two decades (1995-2014): A bibliometric and content analysis. *International * *Journal of Leadership in Education*, *23*(3), pp.259-273.
-
-Faraj, S. and Sproull, L., 2000. Coordinating expertise in software development teams. *Management science*, *46*(12), pp.1554-1568.
-
-Fernandez, S., 2008. Examining the effects of leadership behavior on employee perceptions of performance and job satisfaction. *Public Performance & Management Review*, *32*(2), pp.175-205.
-
-Ferrell, O.C. and Gresham, L.G., 1985. A contingency framework for understanding ethical decision making in marketing. *Journal of marketing*, *49*(3), pp.87-96.
-
-Ferrell, O.C. and Skinner, S.J., 1988. Ethical behavior and bureaucratic structure in marketing research organizations. *Journal of marketing research*, *25*(1), pp.103-109.
-
-Field, A., 2013. *Discovering statistics using IBM SPSS statistics*. sage.
-
-Fincham, K., 2020. Rethinking higher education for Syrian refugees in Jordan, Lebanon and Turkey. *Research in Comparative and International Education*, *15*(4), pp.329-356.
-
-Forehand, G.A. and Von Haller, G., 1964. Environmental variation in studies of organizational behavior. *Psychological bulletin*, *62*(6), p.361.
-
-Fournier, C., Tanner Jr, J.F., Chonko, L.B. and Manolis, C., 2010. The moderating role of ethical climate on salesperson propensity to leave. *Journal of Personal Selling & Sales * *Management*, *30*(1), pp.7-22.
-
-Freire, C. and Pinto, M.I., 2022. Clarifying the mediating effect of ethical climate on the relationship between ethical leadership and workplace bullying. *Ethics & Behavior*, *32*(6), pp.498-509.
-
-Fritz, J.H., O'Neil, N.B., Popp, A.M., Williams, C. and Arnett, R.C., 2013. The influence of supervisory behavioral integrity on intent to comply with organizational ethical standards and organizational commitment. *Journal of business ethics*, *114*(2), pp.251-263.
-
-Fritzsche, D.J., 2000. Ethical climates and the ethical dimension of decision making. *Journal * *of Business Ethics*, *24*(2), pp.125-140.
-
-Frost, M., 2016. *Universities' role in providing ethical leadership *[Online]. Available from https://www.universityworldnews. com/post.php?story=20160923111709132 [Accessed 10 June 2021].
+- Deshpande, S.P., 1996b. The impact of ethical climate types on facets of job satisfaction: An empirical investigation. *Journal of Business Ethics*, *15*(6), pp.655-660.
+- Deshpande, S.P., George, E. and Joseph, J., 2000. Ethical climates and managerial success in Russian organizations. *Journal of Business Ethics*, *23*(2), pp.211-217.
+- Deshpande, S.P. and Joseph, J., 2009. Impact of emotional intelligence, ethical climate, and behavior of peers on ethical behavior of nurses. *Journal of Business Ethics*, *85*(3), pp.403- 410.
+- Deshpande, S.P., Joseph, J. and Shu, X., 2011. Ethical climate and managerial success in China. *Journal of Business Ethics*, *99*(4), pp.527-534.
+- De Vise, D., 2011. Eight scandals that ended college presidencies. *Washington Post. * *November*, *21*.
+- Dinc, M.S., 2018. Direct and indirect effect of ethical leadership on employee behaviours in higher education. *International Journal of Management in Education*, *12*(3), pp.201-222.
+- Dirican, A.H. and Erdil, O., 2016. An exploration of academic staff's organizational citizenship behavior and counterproductive work behavior in relation to demographic characteristics. *Procedia-Social and Behavioral Sciences*, *235*, pp.351-360.
+- Dopson, S., Ferlie, E., McGivern, G., Fischer, M.D., Mitra, M., Ledger, J. and Behrens, S., 2019. Leadership development in Higher Education: A literature review and implications for programme redesign. *Higher Education Quarterly*, *73*(2), pp.218-234.
+- Easterby-Smith et al., 2018. *Management and business research* 6th ed., Los Angeles, Calif.: SAGE.
+- Eden, D. and Leviatan, U., 1975. Implicit leadership theory as a determinant of the factor structure underlying supervisory behavior scales. *Journal of Applied Psychology*, *60*(6), p.736.
+- Ehrhart, M.G., 2004. Leadership and procedural justice climate as antecedents of unit‐level organizational citizenship behavior. *Personnel psychology*, *57*(1), pp.61-94.
+- Eisenbeiss, S.A., 2012. Re-thinking ethical leadership: An interdisciplinary integrative approach. *The Leadership Quarterly*, *23*(5), pp.791-808.
+- Eisenbeiss, S.A. and Brodbeck, F., 2014. Ethical and unethical leadership: A cross-cultural and cross-sectoral analysis. *Journal of Business Ethics*, *122*(2), pp.343-359.
+- El-Ghali, H.A. and Ghalayini, N., 2016. Why Doesn't Lebanon Have a National Quality Assurance Agency for Higher Education Yet?. *Education and Youth Policy Research*.
+- ElZein, H. and Alameddine, M., 2012. Development of sustainable ethics education in business: A framework. *American Academic & Scholarly Research Journal*, *4*(5).
 
 <!-- page 148 -->
 
-Fullwood, R., Rowley, J. and Delbridge, R., 2013. Knowledge sharing amongst academics in UK universities. *Journal of knowledge management*.
-
-Garver, M.S. and Mentzer, J.T., 1999. Logistics research methods: employing structural equation modeling to test for construct validity. *Journal of business logistics*, *20*(1), p.33.
-
-Gasparski, W. 2005. Business expectation beyond profit. In Habisch, A., Jonker, J., Wegner, M and Schmidpeter, R., eds., *Corporate Social Responsibility across Europe*. Springer Verlag, Heidelberg.
-
-Gavin, J.F. and Greenhaus, J.H., 1976. Organizational tenure, work environment perceptions, and employee mental health. *Journal of vocational behavior*, *8*(2), pp.247-258.
-
-Gefen, D., Rigdon, E.E. and Straub, D., 2011. Editor's comments: an update and extension to SEM guidelines for administrative and social science research. *Mis Quarterly*, pp.iii-xiv.
-
-George, D. and Mallery, P., 2019. *IBM SPSS statistics 26 step by step: A simple guide and * *reference*. Routledge.
-
-Ghasemi, A. and Zahediasl, S., 2012. Normality tests for statistical analysis: a guide for nonstatisticians. *International journal of endocrinology and metabolism*, *10*(2), p.486.
-
-Gmelch, W.H., 2013. The development of campus academic leaders. *International Journal of * *Leadership and Change*, *1*(1), p.7.
-
-Goh, S.K. and Sandhu, M.S., 2014. The Influence of Trust on Knowledge Donating and Collecting: An Examination of Malaysian Universities. *International Education * *Studies*, *7*(2), pp.125-136.
-
-Gordon, A. and Yukl, G., 2004. The future of leadership research: Challenges and opportunities. *German Journal of Human Resource Management*, *18*(3), pp.359-365.
-
-Gouldner, A.W., 1960. The norm of reciprocity: A preliminary statement. *American * *sociological review*, pp.161-178.
-
-Greenbaum, R.L., Quade, M.J. and Bonner, J., 2015. Why do leaders practice amoral management? A conceptual investigation of the impediments to ethical leadership. *Organizational Psychology Review*, *5*(1), pp.26-49.
-
-Greenleaf, R.K., 1970. The servant as leader. Newton Centre. *MA: Robert K. Greenleaf Center*.
-
-Guba, E. G., 1990. The Alternative Paradigm Dialog. In E. G. Guba (Ed.), The Paradigm Dialog (pp. 17-27). London: Sage Publications.
-
-Guest, D., 2004. Flexible employment contracts, the psychological contract and employee outcomes: an analysis and review of the evidence. *International journal of management * *reviews*, *5*(1), pp.1-19.
-
-Guignon, C., 2004. *On being authentic*. Routledge.
+- Empson, L., 2001. Fear of exploitation and fear of contamination: Impediments to knowledge transfer in mergers between professional service firms. *Human relations*, *54*(7), pp.839- 862.
+- Erez, A. and Judge, T.A., 2001. Relationship of core self-evaluations to goal setting, motivation, and performance. *Journal of applied psychology*, *86*(6), p.1270.
+- Esen, M., Bellibas, M.S. and Gumus, S., 2020. The evolution of leadership research in higher education for two decades (1995-2014): A bibliometric and content analysis. *International * *Journal of Leadership in Education*, *23*(3), pp.259-273.
+- Faraj, S. and Sproull, L., 2000. Coordinating expertise in software development teams. *Management science*, *46*(12), pp.1554-1568.
+- Fernandez, S., 2008. Examining the effects of leadership behavior on employee perceptions of performance and job satisfaction. *Public Performance & Management Review*, *32*(2), pp.175-205.
+- Ferrell, O.C. and Gresham, L.G., 1985. A contingency framework for understanding ethical decision making in marketing. *Journal of marketing*, *49*(3), pp.87-96.
+- Ferrell, O.C. and Skinner, S.J., 1988. Ethical behavior and bureaucratic structure in marketing research organizations. *Journal of marketing research*, *25*(1), pp.103-109.
+- Field, A., 2013. *Discovering statistics using IBM SPSS statistics*. sage.
+- Fincham, K., 2020. Rethinking higher education for Syrian refugees in Jordan, Lebanon and Turkey. *Research in Comparative and International Education*, *15*(4), pp.329-356.
+- Forehand, G.A. and Von Haller, G., 1964. Environmental variation in studies of organizational behavior. *Psychological bulletin*, *62*(6), p.361.
+- Fournier, C., Tanner Jr, J.F., Chonko, L.B. and Manolis, C., 2010. The moderating role of ethical climate on salesperson propensity to leave. *Journal of Personal Selling & Sales * *Management*, *30*(1), pp.7-22.
+- Freire, C. and Pinto, M.I., 2022. Clarifying the mediating effect of ethical climate on the relationship between ethical leadership and workplace bullying. *Ethics & Behavior*, *32*(6), pp.498-509.
+- Fritz, J.H., O'Neil, N.B., Popp, A.M., Williams, C. and Arnett, R.C., 2013. The influence of supervisory behavioral integrity on intent to comply with organizational ethical standards and organizational commitment. *Journal of business ethics*, *114*(2), pp.251-263.
+- Fritzsche, D.J., 2000. Ethical climates and the ethical dimension of decision making. *Journal * *of Business Ethics*, *24*(2), pp.125-140.
+- Frost, M., 2016. *Universities' role in providing ethical leadership *[Online]. Available from https://www.universityworldnews. com/post.php?story=20160923111709132 [Accessed 10 June 2021].
 
 <!-- page 149 -->
 
-Hair, J.F., Black, W.C., Babin, B.J. and Anderson, R.E., 2014. Multivariate data analysis: Pearson new. *International edition. Harlow, UK: Pearson Education Limited*.
-
-Hair Jr, J.F., Hult, G.T.M., Ringle, C.M. and Sarstedt, M., 2021. *A primer on partial least * *squares structural equation modeling (PLS-SEM)*. Sage publications.
-
-Hamieh, C.S. and Mac Ginty, R., 2010. A very political reconstruction: governance and reconstruction in Lebanon after the 2006 war. *Disasters*, *34*, pp.S103-S123.
-
-Han, S.H., Seo, G., Yoon, S.W. and Yoon, D.Y., 2016. Transformational leadership and knowledge sharing. *Journal of Workplace Learning*.
-
-Hansen, S.D., Alge, B.J., Brown, M.E., Jackson, C.L. and Dunford, B.B., 2013. Ethical leadership: Assessing the value of a multifoci social exchange perspective. *Journal of * *business ethics*, *115*(3), pp.435-449.
-
-Hansen, S.D., Dunford, B.B., Alge, B.J. and Jackson, C.L., 2016. Corporate social responsibility, ethical leadership, and trust propensity: A multi-experience model of perceived ethical climate. *Journal of Business Ethics*, *137*(4), pp.649-662.
-
-Hayes, A.F., 2013. Introduction to mediation, moderation, and conditional process analysis: A regression-based approach. 2013. *New York: Guilford*, *1609182308*.
-
-Hayes, A.F., Montoya, A.K. and Rockwood, N.J., 2017. The analysis of mechanisms and their contingencies: PROCESS versus structural equation modeling. *Australasian Marketing * *Journal (AMJ)*, *25*(1), pp.76-81.
-
-Hazbun, W., 2016. Assembling security in a 'weak state:'the contentious politics of plural governance in Lebanon since 2005. *Third World Quarterly*, *37*(6), pp.1053-1070.
-
-Hegarty, W.H. and Sims, H.P., 1979. Organizational philosophy, policies, and objectives related to unethical decision behavior: A laboratory experiment. *journal of Applied * *Psychology*, *64*(3), p.331.
-
-Heifetz, R. and Linsky, M., 2002. Leadership on the Line: Staying Alive through the Dangers of Leading (Harvard Business School Press).
-
-Helmreich, R.L., Sawin, L.L. and Carsrud, A.L., 1986. The honeymoon effect in job performance: Temporal increases in the predictive power of achievement motivation. *Journal of Applied Psychology*, *71*(2), p.185.
-
-Heng, F. and Zucheng, Z., 2018. Ethical leadership and employee discretionary behavior: A social learning perspective. *Management Review*, *30*(9), p.164.
-
-Higgins, J., 2006. The radical statistician: A beginners guide to unleashing the power of applied statistics in the real world. *Jim Higgins Publishing*.
-
-Hinds, P.J., Patterson, M. and Pfeffer, J., 2001. Bothered by abstraction: The effect of expertise on knowledge transfer and subsequent novice performance. *Journal of applied psychology*, *86*(6), p.1232.
+- Fullwood, R., Rowley, J. and Delbridge, R., 2013. Knowledge sharing amongst academics in UK universities. *Journal of knowledge management*.
+- Garver, M.S. and Mentzer, J.T., 1999. Logistics research methods: employing structural equation modeling to test for construct validity. *Journal of business logistics*, *20*(1), p.33.
+- Gasparski, W. 2005. Business expectation beyond profit. In Habisch, A., Jonker, J., Wegner, M and Schmidpeter, R., eds., *Corporate Social Responsibility across Europe*. Springer Verlag, Heidelberg.
+- Gavin, J.F. and Greenhaus, J.H., 1976. Organizational tenure, work environment perceptions, and employee mental health. *Journal of vocational behavior*, *8*(2), pp.247-258.
+- Gefen, D., Rigdon, E.E. and Straub, D., 2011. Editor's comments: an update and extension to SEM guidelines for administrative and social science research. *Mis Quarterly*, pp.iii-xiv.
+- George, D. and Mallery, P., 2019. *IBM SPSS statistics 26 step by step: A simple guide and * *reference*. Routledge.
+- Ghasemi, A. and Zahediasl, S., 2012. Normality tests for statistical analysis: a guide for nonstatisticians. *International journal of endocrinology and metabolism*, *10*(2), p.486.
+- Gmelch, W.H., 2013. The development of campus academic leaders. *International Journal of * *Leadership and Change*, *1*(1), p.7.
+- Goh, S.K. and Sandhu, M.S., 2014. The Influence of Trust on Knowledge Donating and Collecting: An Examination of Malaysian Universities. *International Education * *Studies*, *7*(2), pp.125-136.
+- Gordon, A. and Yukl, G., 2004. The future of leadership research: Challenges and opportunities. *German Journal of Human Resource Management*, *18*(3), pp.359-365.
+- Gouldner, A.W., 1960. The norm of reciprocity: A preliminary statement. *American * *sociological review*, pp.161-178.
+- Greenbaum, R.L., Quade, M.J. and Bonner, J., 2015. Why do leaders practice amoral management? A conceptual investigation of the impediments to ethical leadership. *Organizational Psychology Review*, *5*(1), pp.26-49.
+- Greenleaf, R.K., 1970. The servant as leader. Newton Centre. *MA: Robert K. Greenleaf Center*.
+- Guba, E. G., 1990. The Alternative Paradigm Dialog. In E. G. Guba (Ed.), The Paradigm Dialog (pp. 17-27). London: Sage Publications.
+- Guest, D., 2004. Flexible employment contracts, the psychological contract and employee outcomes: an analysis and review of the evidence. *International journal of management * *reviews*, *5*(1), pp.1-19.
+- Guignon, C., 2004. *On being authentic*. Routledge.
 
 <!-- page 150 -->
 
-Hoffman, B.J., Strang, S.E., Kuhnert, K.W., Campbell, W.K., Kennedy, C.L. and LoPilato, A.C., 2013. Leader narcissism and ethical context: Effects on ethical leadership and leader effectiveness. *Journal of Leadership & Organizational Studies*, *20*(1), pp.25-37.
-
-Hofstede Insights, 2020. *Country Comparison* [Online]. What About Lebanon?. Available from: https://www.hofstede-insights.com/country-comparison/lebanon/ [Accessed 24 January 2023].
-
-Hollander, E.P. and Julian, J.W., 1969. Contemporary trends in the analysis of leadership processes. *Psychological bulletin*, *71*(5), p.387.
-
-House, R.J., 1996. Path-goal theory of leadership: Lessons, legacy, and a reformulated theory. *The leadership quarterly*, *7*(3), pp.323-352.
-
-House, R.J., Hanges, P.J., Javidan, M., Dorfman, P.W. and Gupta, V. eds., 2004. *Culture, * *leadership, and organizations: The GLOBE study of 62 societies*. Sage publications.
-
-Howell, J.M. and Shamir, B., 2005. The role of followers in the charismatic leadership process: Relationships and their consequences. *Academy of management review*, *30*(1), pp.96-112.
-
-Howell, K.E. and Annansingh, F., 2013. Knowledge generation and sharing in UK universities: A tale of two cultures?. *International Journal of Information Management*, *33*(1), pp.32- 39.
-
-Hu, L.T. and Bentler, P.M., 1999. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. *Structural equation modeling: a * *multidisciplinary journal*, *6*(1), pp.1-55.
-
-Hu, L. and Randel, A.E., 2014. Knowledge sharing in teams: Social capital, extrinsic incentives, and team innovation. *Group & Organization Management*, *39*(2), pp.213-243.
-
-Hu, B., Hou, Z., Mak, M.C.K., Xu, S.L., Yang, X., Hu, T., Qiu, Y. and Wen, Y., 2019. Work engagement, tenure, and external opportunities moderate perceived high-performance work systems and affective commitment. *Social Behavior and Personality: an international * *journal*, *47*(5), pp.1-16.
-
-Jammal, A., 2015. Towards Quality Assurance in HE. *Towards Quality Assurance in HE in * *Lebanon*, pp.1-10.
-
-Jarvenpaa, S.L. and Staples, D.S., 2001. Exploring perceptions of organizational ownership of information and expertise. *Journal of management information systems*, *18*(1), pp.151-183.
-
-Johnson, R.E., Rosen, C.C., Chang, C.H.D. and Lin, S.H.J., 2015. Getting to the core of locus of control: Is it an evaluation of the self or the environment?. *Journal of Applied * *Psychology*, *100*(5), p.1568.
-
-Jolaee, A., Nor, K.M., Khani, N. and Yusoff, R.M., 2014. Factors affecting knowledge sharing intention among academic staff. *International Journal of Educational Management*.
-
-Joseph, J. and Deshpande, S.P., 1997. The impact of ethical climate on job satisfaction of nurses. *Health care management review*, *22*(1), pp.76-81.
+- Hair, J.F., Black, W.C., Babin, B.J. and Anderson, R.E., 2014. Multivariate data analysis: Pearson new. *International edition. Harlow, UK: Pearson Education Limited*.
+- Hair Jr, J.F., Hult, G.T.M., Ringle, C.M. and Sarstedt, M., 2021. *A primer on partial least * *squares structural equation modeling (PLS-SEM)*. Sage publications.
+- Hamieh, C.S. and Mac Ginty, R., 2010. A very political reconstruction: governance and reconstruction in Lebanon after the 2006 war. *Disasters*, *34*, pp.S103-S123.
+- Han, S.H., Seo, G., Yoon, S.W. and Yoon, D.Y., 2016. Transformational leadership and knowledge sharing. *Journal of Workplace Learning*.
+- Hansen, S.D., Alge, B.J., Brown, M.E., Jackson, C.L. and Dunford, B.B., 2013. Ethical leadership: Assessing the value of a multifoci social exchange perspective. *Journal of * *business ethics*, *115*(3), pp.435-449.
+- Hansen, S.D., Dunford, B.B., Alge, B.J. and Jackson, C.L., 2016. Corporate social responsibility, ethical leadership, and trust propensity: A multi-experience model of perceived ethical climate. *Journal of Business Ethics*, *137*(4), pp.649-662.
+- Hayes, A.F., 2013. Introduction to mediation, moderation, and conditional process analysis: A regression-based approach. 2013. *New York: Guilford*, *1609182308*.
+- Hayes, A.F., Montoya, A.K. and Rockwood, N.J., 2017. The analysis of mechanisms and their contingencies: PROCESS versus structural equation modeling. *Australasian Marketing * *Journal (AMJ)*, *25*(1), pp.76-81.
+- Hazbun, W., 2016. Assembling security in a 'weak state:'the contentious politics of plural governance in Lebanon since 2005. *Third World Quarterly*, *37*(6), pp.1053-1070.
+- Hegarty, W.H. and Sims, H.P., 1979. Organizational philosophy, policies, and objectives related to unethical decision behavior: A laboratory experiment. *journal of Applied * *Psychology*, *64*(3), p.331.
+- Heifetz, R. and Linsky, M., 2002. Leadership on the Line: Staying Alive through the Dangers of Leading (Harvard Business School Press).
+- Helmreich, R.L., Sawin, L.L. and Carsrud, A.L., 1986. The honeymoon effect in job performance: Temporal increases in the predictive power of achievement motivation. *Journal of Applied Psychology*, *71*(2), p.185.
+- Heng, F. and Zucheng, Z., 2018. Ethical leadership and employee discretionary behavior: A social learning perspective. *Management Review*, *30*(9), p.164.
+- Higgins, J., 2006. The radical statistician: A beginners guide to unleashing the power of applied statistics in the real world. *Jim Higgins Publishing*.
+- Hinds, P.J., Patterson, M. and Pfeffer, J., 2001. Bothered by abstraction: The effect of expertise on knowledge transfer and subsequent novice performance. *Journal of applied psychology*, *86*(6), p.1232.
 
 <!-- page 151 -->
 
-Kacmar, K.M., Collins, B.J., Harris, K.J. and Judge, T.A., 2009. Core self-evaluations and job performance: the role of the perceived work environment. *Journal of Applied Psychology*, *94*(6), p.1572.
-
-Kacmar, K.M., Bachrach, D.G., Harris, K.J. and Zivnuska, S., 2011. Fostering good citizenship through ethical leadership: Exploring the moderating role of gender and organizational politics. *Journal of applied psychology*, *96*(3), p.633.
-
-Kacmar, K.M., Andrews, M.C., Harris, K.J. and Tepper, B.J., 2013. Ethical leadership and subordinate outcomes: The mediating role of organizational politics and the moderating role of political skill. *Journal of Business Ethics*, *115*(1), pp.33-44.
-
-Kalshoven, K., Den Hartog, D.N. and De Hoogh, A.H., 2011. Ethical leadership at work questionnaire (ELW): Development and validation of a multidimensional measure. *The * *leadership quarterly*, *22*(1), pp.51-69.
-
-Kalshoven, K., Den Hartog, D.N. and De Hoogh, A.H., 2013. Ethical leadership and followers' helping and initiative: The role of demonstrated responsibility and job autonomy. *European * *Journal of Work and Organizational Psychology*, *22*(2), pp.165-181.
-
-Kalshoven, K., van Dijk, H. and Boon, C., 2016. Why and when does ethical leadership evoke unethical follower behavior?. *Journal of Managerial Psychology*.
-
-Kanungo, R.N. and Mendonca, M., 1996. *Ethical dimensions of leadership* (Vol. 3). Sage.
-
-Keenan, F.J.F., 2015. *University ethics: How colleges can build and benefit from a culture of * *ethics*. Rowman & Littlefield.
-
-Kelloway, E.K. and Barling, J., 2000. Knowledge work as organizational behavior. *International journal of management reviews*, *2*(3), pp.287-304.
-
-Kim, S.L., Son, S.Y. and Yun, S., 2018. Abusive supervision and knowledge sharing: the moderating role of organizational tenure. *Personnel Review*.
-
-Kish-Gephart, J.J., Harrison, D.A. and Treviño, L.K., 2010. Bad apples, bad cases, and bad barrels: meta-analytic evidence about sources of unethical decisions at work. *Journal of * *applied psychology*, *95*(1), p.1.
-
-Kline, R.B., 2015. *Principles and practice of structural equation modeling*. Guilford publications.
-
-Kohlberg, L., 1981. *The philosophy of moral development: moral stages and the idea of * *justice.*, San Francisco; London: Harper & Row.
-
-Kotter, J.P., 2008. *Force for change: How leadership differs from management*. Simon and Schuster.
-
-Kotterman, J., 2006. Leadership versus management: What's the difference. *The Journal for * *Quality and Participation*, *29*(2), pp.13-17.
+- Hoffman, B.J., Strang, S.E., Kuhnert, K.W., Campbell, W.K., Kennedy, C.L. and LoPilato, A.C., 2013. Leader narcissism and ethical context: Effects on ethical leadership and leader effectiveness. *Journal of Leadership & Organizational Studies*, *20*(1), pp.25-37.
+- Hofstede Insights, 2020. *Country Comparison* [Online]. What About Lebanon?. Available from: [https://www.hofstede-insights.com/country-comparison/lebanon/](https://www.hofstede-insights.com/country-comparison/lebanon/) [Accessed 24 January 2023].
+- Hollander, E.P. and Julian, J.W., 1969. Contemporary trends in the analysis of leadership processes. *Psychological bulletin*, *71*(5), p.387.
+- House, R.J., 1996. Path-goal theory of leadership: Lessons, legacy, and a reformulated theory. *The leadership quarterly*, *7*(3), pp.323-352.
+- House, R.J., Hanges, P.J., Javidan, M., Dorfman, P.W. and Gupta, V. eds., 2004. *Culture, * *leadership, and organizations: The GLOBE study of 62 societies*. Sage publications.
+- Howell, J.M. and Shamir, B., 2005. The role of followers in the charismatic leadership process: Relationships and their consequences. *Academy of management review*, *30*(1), pp.96-112.
+- Howell, K.E. and Annansingh, F., 2013. Knowledge generation and sharing in UK universities: A tale of two cultures?. *International Journal of Information Management*, *33*(1), pp.32- 39.
+- Hu, L.T. and Bentler, P.M., 1999. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives. *Structural equation modeling: a * *multidisciplinary journal*, *6*(1), pp.1-55.
+- Hu, L. and Randel, A.E., 2014. Knowledge sharing in teams: Social capital, extrinsic incentives, and team innovation. *Group & Organization Management*, *39*(2), pp.213-243.
+- Hu, B., Hou, Z., Mak, M.C.K., Xu, S.L., Yang, X., Hu, T., Qiu, Y. and Wen, Y., 2019. Work engagement, tenure, and external opportunities moderate perceived high-performance work systems and affective commitment. *Social Behavior and Personality: an international * *journal*, *47*(5), pp.1-16.
+- Jammal, A., 2015. Towards Quality Assurance in HE. *Towards Quality Assurance in HE in * *Lebanon*, pp.1-10.
+- Jarvenpaa, S.L. and Staples, D.S., 2001. Exploring perceptions of organizational ownership of information and expertise. *Journal of management information systems*, *18*(1), pp.151-183.
+- Johnson, R.E., Rosen, C.C., Chang, C.H.D. and Lin, S.H.J., 2015. Getting to the core of locus of control: Is it an evaluation of the self or the environment?. *Journal of Applied * *Psychology*, *100*(5), p.1568.
+- Jolaee, A., Nor, K.M., Khani, N. and Yusoff, R.M., 2014. Factors affecting knowledge sharing intention among academic staff. *International Journal of Educational Management*.
+- Joseph, J. and Deshpande, S.P., 1997. The impact of ethical climate on job satisfaction of nurses. *Health care management review*, *22*(1), pp.76-81.
 
 <!-- page 152 -->
 
-Kuenzi, M., Mayer, D.M. and Greenbaum, R.L., 2020. Creating an ethical organizational environment: The relationship between ethical leadership, ethical organizational climate, and unethical behavior. *Personnel Psychology*, *73*(1), pp.43-71.
-
-Kuenzi, M. and Schminke, M., 2009. Assembling fragments into a lens: A review, critique, and proposed research agenda for the organizational work climate literature. *Journal of * *management*, *35*(3), pp.634-717.
-
-Kuther, T.L., 2003. A profile of the ethical professor: Student views. *College teaching*, *51*(4), pp.153-160.
-
-Lam, W., 2005. Successful knowledge management requires a knowledge culture: a case study. *Knowledge Management Research & Practice*, *3*(4), pp.206-217.
-
-Le, P.B. and Lei, H., 2018. Fostering knowledge sharing behaviours through ethical leadership practice: the mediating roles of disclosure-based trust and reliance-based trust in leadership. *Knowledge Management Research & Practice*, *16*(2), pp.183-195.
-
-Lee, T.W., Mitchell, T.R., Sablynski, C.J., Burton, J.P. and Holtom, B.C., 2004. The effects of job embeddedness on organizational citizenship, job performance, volitional absences, and voluntary turnover. *Academy of management journal*, *47*(5), pp.711-722.
-
-Lemoine, G.J., Hartnell, C.A. and Leroy, H., 2019. Taking stock of moral approaches to leadership: An integrative review of ethical, authentic, and servant leadership. *Academy of * *Management Annals*, *13*(1), pp.148-187.
-
-Lin, C.P., 2006. Gender differs: Modelling knowledge sharing from a perspective of social network ties. *Asian Journal of Social Psychology*, *9*(3), pp.236-241.
-
-Litwin, G.H. and Stringer, R.A., 1968. *Motivation and organizational climate*. Harvard University, Oxford, England
-
-Liu, H. and Li, G., 2018. Linking transformational leadership and knowledge sharing: the mediating roles of perceived team goal commitment and perceived team identification. *Frontiers in psychology*, *9*, p.1331.
-
-Lu, C.S. and Lin, C.C., 2014. The effects of ethical leadership and ethical climate on employee ethical behavior in the international port context. *Journal of Business Ethics*, *124*(2), pp.209-223.
-
-Lu, X., Zhou, H. and Chen, S., 2019. Facilitate knowledge sharing by leading ethically: The role of organizational concern and impression management climate. *Journal of Business * *and Psychology*, *34*(4), pp.539-553.
-
-Luthans, F. and Avolio, B.J., 2003. Authentic leadership development. *Positive organizational * *scholarship*, *241*, p.258.
-
-Ma, Y., Cheng, W., Ribbens, B.A. and Zhou, J., 2013. Linking ethical leadership to employee creativity: Knowledge sharing and self-efficacy as mediators. *Social Behavior and * *Personality: an international journal*, *41*(9), pp.1409-1419.
+- Kacmar, K.M., Collins, B.J., Harris, K.J. and Judge, T.A., 2009. Core self-evaluations and job performance: the role of the perceived work environment. *Journal of Applied Psychology*, *94*(6), p.1572.
+- Kacmar, K.M., Bachrach, D.G., Harris, K.J. and Zivnuska, S., 2011. Fostering good citizenship through ethical leadership: Exploring the moderating role of gender and organizational politics. *Journal of applied psychology*, *96*(3), p.633.
+- Kacmar, K.M., Andrews, M.C., Harris, K.J. and Tepper, B.J., 2013. Ethical leadership and subordinate outcomes: The mediating role of organizational politics and the moderating role of political skill. *Journal of Business Ethics*, *115*(1), pp.33-44.
+- Kalshoven, K., Den Hartog, D.N. and De Hoogh, A.H., 2011. Ethical leadership at work questionnaire (ELW): Development and validation of a multidimensional measure. *The * *leadership quarterly*, *22*(1), pp.51-69.
+- Kalshoven, K., Den Hartog, D.N. and De Hoogh, A.H., 2013. Ethical leadership and followers' helping and initiative: The role of demonstrated responsibility and job autonomy. *European * *Journal of Work and Organizational Psychology*, *22*(2), pp.165-181.
+- Kalshoven, K., van Dijk, H. and Boon, C., 2016. Why and when does ethical leadership evoke unethical follower behavior?. *Journal of Managerial Psychology*.
+- Kanungo, R.N. and Mendonca, M., 1996. *Ethical dimensions of leadership* (Vol. 3). Sage.
+- Keenan, F.J.F., 2015. *University ethics: How colleges can build and benefit from a culture of * *ethics*. Rowman & Littlefield.
+- Kelloway, E.K. and Barling, J., 2000. Knowledge work as organizational behavior. *International journal of management reviews*, *2*(3), pp.287-304.
+- Kim, S.L., Son, S.Y. and Yun, S., 2018. Abusive supervision and knowledge sharing: the moderating role of organizational tenure. *Personnel Review*.
+- Kish-Gephart, J.J., Harrison, D.A. and Treviño, L.K., 2010. Bad apples, bad cases, and bad barrels: meta-analytic evidence about sources of unethical decisions at work. *Journal of * *applied psychology*, *95*(1), p.1.
+- Kline, R.B., 2015. *Principles and practice of structural equation modeling*. Guilford publications.
+- Kohlberg, L., 1981. *The philosophy of moral development: moral stages and the idea of * *justice.*, San Francisco; London: Harper & Row.
+- Kotter, J.P., 2008. *Force for change: How leadership differs from management*. Simon and Schuster.
+- Kotterman, J., 2006. Leadership versus management: What's the difference. *The Journal for * *Quality and Participation*, *29*(2), pp.13-17.
 
 <!-- page 153 -->
 
-MacCallum, R.C. and Austin, J.T., 2000. Applications of structural equation modeling in psychological research. *Annual review of psychology*, *51*(1), pp.201-226.
-
-MacKinnon, D.P., 2011. Integrating mediators and moderators in research design. *Research on * *social work practice*, *21*(6), pp.675-681.
-
-MacKinnon, D.P., Lockwood, C.M. and Williams, J., 2004. Confidence limits for the indirect effect: Distribution of the product and resampling methods. *Multivariate behavioral * *research*, *39*(1), pp.99-128.
-
-Magoshi, E. and Chang, E., 2009. Diversity management and the effects on employees' organizational commitment: Evidence from Japan and Korea. *Journal of world business*, *44*(1), pp.31-40.
-
-Malički, M., Katavić, V., Marković, D., Marušić, M. and Marušić, A., 2019. Perceptions of ethical climate and research pressures in different faculties of a university: Cross-sectional study at the University of Split, Croatia. *Science and engineering ethics*, *25*(1), pp.231-245.
-
-Martin, K.D. and Cullen, J.B., 2006. Continuities and extensions of ethical climate theory: A meta-analytic review. *Journal of business ethics*, *69*(2), pp.175-194.
-
-Mayer, D.M., Aquino, K., Greenbaum, R.L. and Kuenzi, M., 2012. Who displays ethical leadership, and why does it matter? An examination of antecedents and consequences of ethical leadership. *Academy of management journal*, *55*(1), pp.151-171.
-
-Mayer, D.M., Kuenzi, M., Greenbaum, R., Bardes, M. and Salvador, R.B., 2009. How low does ethical leadership flow? Test of a trickle-down model. *Organizational behavior and * *human decision processes*, *108*(1), pp.1-13.
-
-Mayer, D.M., Kuenzi, M. and Greenbaum, R.L., 2010. Examining the link between ethical leadership and employee misconduct: The mediating role of ethical climate. *Journal of * *business ethics*, *95*(1), pp.7-16.
-
-Mayer, D.M., Nurmohamed, S., Treviño, L.K., Shapiro, D.L. and Schminke, M., 2013. Encouraging employees to report unethical conduct internally: It takes a village. *Organizational Behavior and Human Decision Processes*, *121*(1), pp.89-103.
-
-McEnrue, M.P., 1988. Length of experience and the performance of managers in the establishment phase of their careers. *Academy of Management Journal*, *31*(1), pp.175-185.
-
-McClelland, G.H. and Judd, C.M., 1993. Statistical difficulties of detecting interactions and moderator effects. *Psychological bulletin*, *114*(2), p.376.
-
-McMurray, A.J., 1994. The Relationship between Organisational Culture and Organisational Climate with Reference to a University Setting.
-
-Meek, V.L., Goedegebuure, L., Santiago, R. and Carvalho, T. eds., 2010. *The changing * *dynamics of higher education middle management* (Vol. 33). Springer Science & Business Media.
+- Kuenzi, M., Mayer, D.M. and Greenbaum, R.L., 2020. Creating an ethical organizational environment: The relationship between ethical leadership, ethical organizational climate, and unethical behavior. *Personnel Psychology*, *73*(1), pp.43-71.
+- Kuenzi, M. and Schminke, M., 2009. Assembling fragments into a lens: A review, critique, and proposed research agenda for the organizational work climate literature. *Journal of * *management*, *35*(3), pp.634-717.
+- Kuther, T.L., 2003. A profile of the ethical professor: Student views. *College teaching*, *51*(4), pp.153-160.
+- Lam, W., 2005. Successful knowledge management requires a knowledge culture: a case study. *Knowledge Management Research & Practice*, *3*(4), pp.206-217.
+- Le, P.B. and Lei, H., 2018. Fostering knowledge sharing behaviours through ethical leadership practice: the mediating roles of disclosure-based trust and reliance-based trust in leadership. *Knowledge Management Research & Practice*, *16*(2), pp.183-195.
+- Lee, T.W., Mitchell, T.R., Sablynski, C.J., Burton, J.P. and Holtom, B.C., 2004. The effects of job embeddedness on organizational citizenship, job performance, volitional absences, and voluntary turnover. *Academy of management journal*, *47*(5), pp.711-722.
+- Lemoine, G.J., Hartnell, C.A. and Leroy, H., 2019. Taking stock of moral approaches to leadership: An integrative review of ethical, authentic, and servant leadership. *Academy of * *Management Annals*, *13*(1), pp.148-187.
+- Lin, C.P., 2006. Gender differs: Modelling knowledge sharing from a perspective of social network ties. *Asian Journal of Social Psychology*, *9*(3), pp.236-241.
+- Litwin, G.H. and Stringer, R.A., 1968. *Motivation and organizational climate*. Harvard University, Oxford, England
+- Liu, H. and Li, G., 2018. Linking transformational leadership and knowledge sharing: the mediating roles of perceived team goal commitment and perceived team identification. *Frontiers in psychology*, *9*, p.1331.
+- Lu, C.S. and Lin, C.C., 2014. The effects of ethical leadership and ethical climate on employee ethical behavior in the international port context. *Journal of Business Ethics*, *124*(2), pp.209-223.
+- Lu, X., Zhou, H. and Chen, S., 2019. Facilitate knowledge sharing by leading ethically: The role of organizational concern and impression management climate. *Journal of Business * *and Psychology*, *34*(4), pp.539-553.
+- Luthans, F. and Avolio, B.J., 2003. Authentic leadership development. *Positive organizational * *scholarship*, *241*, p.258.
+- Ma, Y., Cheng, W., Ribbens, B.A. and Zhou, J., 2013. Linking ethical leadership to employee creativity: Knowledge sharing and self-efficacy as mediators. *Social Behavior and * *Personality: an international journal*, *41*(9), pp.1409-1419.
 
 <!-- page 154 -->
 
-MEHE, 2021. *Lebanese Private Universities *[Online]*.* Lebanon. Available from http://www.higher-edu.gov.lb/arabic/privuniv/personal_univ.html [Accessed 17 July 2021].
-
-Merriam-Webster.com Dictionary, 2022. [Online]. Available from: https://www.merriamwebster.com/dictionary/ethic [Accessed 28 August 2022].
-
-Middlehurst, R., 2008. Not enough science or not enough learning? Exploring the gaps between leadership theory and practice. *Higher Education Quarterly*, *62*(4), pp.322-339.
-
-Mihelic, K.K., Lipicnik, B. and Tekavcic, M., 2010. Ethical leadership. *International Journal * *of Management & Information Systems (IJMIS)*, *14*(5).
-
-Mroczek, D.K. and Almeida, D.M., 2004. The effect of daily stress, personality, and age on daily negative affect. *Journal of personality*, *72*(2), pp.355-378.
-
-Myer, A.T., Thoroughgood, C.N. and Mohammed, S., 2016. Complementary or competing climates? Examining the interactive effect of service and ethical climates on company-level financial performance. *Journal of Applied Psychology*, *101*(8), p.1178.
-
-Nabaho, L. and Turyasingura, W., 2019. Battling Academic Corruption in Higher Education: Does External Quality Assurance (EQA) Offer a Ray of Hope?. *Higher Learning Research * *Communications*, *9*(1), p.2.
-
-National Tempus Office, 2016. *Higher Education in Lebanon *[Online]. Lebanon: Education, Audio-visual and Cultural Executive Agency. Available from: http://www.tempus-lb.org [Accessed 26 June 2021].
-
-NECHE, 2021. *Publications* [Online]. 2021 Standards for Accreditation. Available from: https://www.neche.org/resources/standards-for-accreditation [Accessed 05 February 2023].
-
-Neubert, M.J., Carlson, D.S., Kacmar, K.M., Roberts, J.A. and Chonko, L.B., 2009. The virtuous influence of ethical leadership behavior: Evidence from the field. *Journal of * *Business Ethics*, *90*(2), pp.157-170.
-
-Newman, A., Kiazad, K., Miao, Q. and Cooper, B., 2014. Examining the cognitive and affective trust-based mechanisms underlying the relationship between ethical leadership and organisational citizenship: A case of the head leading the heart?. *Journal of business * *ethics*, *123*(1), pp.113-123.
-
-Newman, A., Round, H., Bhattacharya, S. and Roy, A., 2017. Ethical climates in organizations: A review and research agenda. *Business Ethics Quarterly*, *27*(4), pp.475-512.
-
-Ng, T.W. and Feldman, D.C., 2013. A meta‐analysis of the relationships of age and tenure with innovation‐related behaviour. *Journal of occupational and organizational * *psychology*, *86*(4), pp.585-616.
-
-Ng, T.W. and Feldman, D.C., 2015. Ethical leadership: Meta-analytic evidence of criterionrelated and incremental validity. *Journal of Applied Psychology*, *100*(3), p.948-965
+- MacCallum, R.C. and Austin, J.T., 2000. Applications of structural equation modeling in psychological research. *Annual review of psychology*, *51*(1), pp.201-226.
+- MacKinnon, D.P., 2011. Integrating mediators and moderators in research design. *Research on * *social work practice*, *21*(6), pp.675-681.
+- MacKinnon, D.P., Lockwood, C.M. and Williams, J., 2004. Confidence limits for the indirect effect: Distribution of the product and resampling methods. *Multivariate behavioral * *research*, *39*(1), pp.99-128.
+- Magoshi, E. and Chang, E., 2009. Diversity management and the effects on employees' organizational commitment: Evidence from Japan and Korea. *Journal of world business*, *44*(1), pp.31-40.
+- Malički, M., Katavić, V., Marković, D., Marušić, M. and Marušić, A., 2019. Perceptions of ethical climate and research pressures in different faculties of a university: Cross-sectional study at the University of Split, Croatia. *Science and engineering ethics*, *25*(1), pp.231-245.
+- Martin, K.D. and Cullen, J.B., 2006. Continuities and extensions of ethical climate theory: A meta-analytic review. *Journal of business ethics*, *69*(2), pp.175-194.
+- Mayer, D.M., Aquino, K., Greenbaum, R.L. and Kuenzi, M., 2012. Who displays ethical leadership, and why does it matter? An examination of antecedents and consequences of ethical leadership. *Academy of management journal*, *55*(1), pp.151-171.
+- Mayer, D.M., Kuenzi, M., Greenbaum, R., Bardes, M. and Salvador, R.B., 2009. How low does ethical leadership flow? Test of a trickle-down model. *Organizational behavior and * *human decision processes*, *108*(1), pp.1-13.
+- Mayer, D.M., Kuenzi, M. and Greenbaum, R.L., 2010. Examining the link between ethical leadership and employee misconduct: The mediating role of ethical climate. *Journal of * *business ethics*, *95*(1), pp.7-16.
+- Mayer, D.M., Nurmohamed, S., Treviño, L.K., Shapiro, D.L. and Schminke, M., 2013. Encouraging employees to report unethical conduct internally: It takes a village. *Organizational Behavior and Human Decision Processes*, *121*(1), pp.89-103.
+- McEnrue, M.P., 1988. Length of experience and the performance of managers in the establishment phase of their careers. *Academy of Management Journal*, *31*(1), pp.175-185.
+- McClelland, G.H. and Judd, C.M., 1993. Statistical difficulties of detecting interactions and moderator effects. *Psychological bulletin*, *114*(2), p.376.
+- McMurray, A.J., 1994. The Relationship between Organisational Culture and Organisational Climate with Reference to a University Setting.
+- Meek, V.L., Goedegebuure, L., Santiago, R. and Carvalho, T. eds., 2010. *The changing * *dynamics of higher education middle management* (Vol. 33). Springer Science & Business Media.
 
 <!-- page 155 -->
 
-Ng, T.W., Feldman, D.C. and Lam, S.S., 2010. Psychological contract breaches, organizational commitment, and innovation-related behaviors: A latent growth modeling approach. *Journal of applied Psychology*, *95*(4), p.744.
-
-Northouse, P.G., 2018. *Leadership: Theory and practice*. Thousand Oaks, CA: Sage.
-
-Nunnally, J.C., 1978. *Psychometric theory*. McGraw-Hill New York.
-
-Ojha, A.K., 2005. Impact of team demography on knowledge sharing in software project teams. *South Asian Journal of Management*, *12*(3), p.67.
-
-Osipian, A.L., 2012. Grey areas in the higher education sector: Legality versus corruptibility. *BYU Educ. & LJ*, p.141.
-
-Park, S. and Kim, E.J., 2018. Fostering organizational learning through leadership and knowledge sharing. *Journal of Knowledge Management*.
-
-Peterson, D.K., 2002. The relationship between unethical behavior and the dimensions of the ethical climate questionnaire. *Journal of Business Ethics*, *41*(4), pp.313-326.
-
-Piccolo, R.F., Greenbaum, R., Hartog, D.N.D. and Folger, R., 2010. The relationship between ethical leadership and core job characteristics. *Journal of organizational behavior*, *31*(2‐ 3), pp.259-278.
-
-Piccolo, R.F., Greenbaum, R.L. and Eissa, G., 2012. Ethical leadership and core job characteristics: Designing jobs for employee well-being. In *Work and quality of life* (pp. 291-305). Springer, Dordrecht.
-
-Pircher Verdorfer, A., Steinheider, B. and Burkus, D., 2015. Exploring the socio-moral climate in organizations: An empirical examination of determinants, consequences, and mediating mechanisms. *Journal of Business Ethics*, *132*(1), pp.233-248.
-
-Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P., 2003. Common method biases in behavioral research: a critical review of the literature and recommended remedies. *Journal of applied psychology*, *88*(5), p.879.
-
-Preacher, K.J. and Hayes, A.F., 2004. SPSS and SAS procedures for estimating indirect effects in simple mediation models. *Behavior research methods, instruments, & computers*, *36*(4), pp.717-731.
-
-Preacher, K.J., Rucker, D.D. and Hayes, A.F., 2007. Addressing moderated mediation hypotheses: Theory, methods, and prescriptions. *Multivariate behavioral research*, *42*(1), pp.185-227.
-
-Punch, K., 2016. *Developing effective research proposals* 3rd ed., London: SAGE.
-
-Raelin, J.A., 2004. Don't bother putting leadership into people. *Academy of Management * *Perspectives*, *18*(3), pp.131-135.
+- MEHE, 2021. *Lebanese Private Universities *[Online]*.* Lebanon. Available from [http://www.higher-edu.gov.lb/arabic/privuniv/personal_univ.html](http://www.higher-edu.gov.lb/arabic/privuniv/personal_univ.html) [Accessed 17 July 2021].
+- Merriam-Webster.com Dictionary, 2022. [Online]. Available from: [https://www.merriam](https://www.merriam-webster.com/dictionary/ethic)[webster.com/dictionary/ethic](https://www.merriam-webster.com/dictionary/ethic) [Accessed 28 August 2022].
+- Middlehurst, R., 2008. Not enough science or not enough learning? Exploring the gaps between leadership theory and practice. *Higher Education Quarterly*, *62*(4), pp.322-339.
+- Mihelic, K.K., Lipicnik, B. and Tekavcic, M., 2010. Ethical leadership. *International Journal * *of Management & Information Systems (IJMIS)*, *14*(5).
+- Mroczek, D.K. and Almeida, D.M., 2004. The effect of daily stress, personality, and age on daily negative affect. *Journal of personality*, *72*(2), pp.355-378.
+- Myer, A.T., Thoroughgood, C.N. and Mohammed, S., 2016. Complementary or competing climates? Examining the interactive effect of service and ethical climates on company-level financial performance. *Journal of Applied Psychology*, *101*(8), p.1178.
+- Nabaho, L. and Turyasingura, W., 2019. Battling Academic Corruption in Higher Education: Does External Quality Assurance (EQA) Offer a Ray of Hope?. *Higher Learning Research * *Communications*, *9*(1), p.2.
+- National Tempus Office, 2016. *Higher Education in Lebanon *[Online]. Lebanon: Education, Audio-visual and Cultural Executive Agency. Available from: [http://www.tempus-lb.org](http://www.tempus-lb.org/) [Accessed 26 June 2021].
+- NECHE, 2021. *Publications* [Online]. 2021 Standards for Accreditation. Available from: [https://www.neche.org/resources/standards-for-accreditation](https://www.neche.org/resources/standards-for-accreditation) [Accessed 05 February 2023].
+- Neubert, M.J., Carlson, D.S., Kacmar, K.M., Roberts, J.A. and Chonko, L.B., 2009. The virtuous influence of ethical leadership behavior: Evidence from the field. *Journal of * *Business Ethics*, *90*(2), pp.157-170.
+- Newman, A., Kiazad, K., Miao, Q. and Cooper, B., 2014. Examining the cognitive and affective trust-based mechanisms underlying the relationship between ethical leadership and organisational citizenship: A case of the head leading the heart?. *Journal of business * *ethics*, *123*(1), pp.113-123.
+- Newman, A., Round, H., Bhattacharya, S. and Roy, A., 2017. Ethical climates in organizations: A review and research agenda. *Business Ethics Quarterly*, *27*(4), pp.475-512.
+- Ng, T.W. and Feldman, D.C., 2013. A meta‐analysis of the relationships of age and tenure with innovation‐related behaviour. *Journal of occupational and organizational * *psychology*, *86*(4), pp.585-616.
+- Ng, T.W. and Feldman, D.C., 2015. Ethical leadership: Meta-analytic evidence of criterionrelated and incremental validity. *Journal of Applied Psychology*, *100*(3), p.948-965
 
 <!-- page 156 -->
 
-Rahman, M.S., Daud, N.M. and Hassan, H., 2017. Generation "X" and "Y" knowledge sharing behaviour: The influence of motivation and intention on non-academic staff of higher learning institutions. *Journal of Applied Research in Higher Education*.
-
-Rahman, M.S., Osmangani, A.M., Daud, N.M. and AbdelFattah, F.A.M., 2016. Knowledge sharing behaviors among non academic staff of higher learning institutions: Attitude, subjective norms and behavioral intention embedded model. *Library Review*.
-
-Rainey, H.G., 2009. *Understanding and managing public organizations*. John Wiley & Sons.
-
-Resick, C.J., Hanges, P.J., Dickson, M.W. and Mitchelson, J.K., 2006. A cross-cultural examination of the endorsement of ethical leadership. *Journal of Business Ethics*, *63*(4), pp.345-359.
-
-Resick, C.J., Mitchelson, J.K., Dickson, M.W. and Hanges, P.J., 2009. Culture, corruption, and the endorsement of ethical leadership. In *Advances in global leadership*. Emerald Group Publishing Limited.
-
-Resick, C.J., Martin, G.S., Keating, M.A., Dickson, M.W., Kwan, H.K. and Peng, C., 2011. What ethical leadership means to me: Asian, American, and European perspectives. *Journal of Business Ethics*, *101*(3), pp.435-457.
-
-Rhode, D.L., 2006. Introduction: Where is the leadership in moral leadership. *Moral * *leadership. The theory and practice of power, judgment, and policy*, pp.1-53.
-
-Rhoades, L. and Eisenberger, R., 2002. Perceived organizational support: a review of the literature. *Journal of applied psychology*, *87*(4), p.698.
-
-Ritter, B.A., 2006. Can business ethics be trained? A study of the ethical decision-making process in business students. *Journal of Business Ethics*, *68*(2), pp.153-164.
-
-Rok, B., 2009. Ethical context of the participative leadership model: taking people into account. *Corporate Governance: The international journal of business in society,* *9*(4), pp. 461-472.
-
-Rollag, K., 2004. The impact of relative tenure on newcomer socialization dynamics. *Journal * *of Organizational Behavior: The International Journal of Industrial, Occupational and * *Organizational Psychology and Behavior*, *25*(7), pp.853-872.
-
-Rowley, J., 2000. Is higher education ready for knowledge management?. *International journal * *of educational management*.
-
-Ruiz, P., Ruiz, C. and Martínez, R., 2011. Improving the "leader–follower" relationship: Top manager or supervisor? The ethical leadership trickle-down effect on follower job response. *Journal of Business Ethics*, *99*(4), pp.587-608.
-
-Rulke, D.L. and Galaskiewicz, J., 2000. Distribution of knowledge, group network structure, and group performance. *Management Science*, *46*(5), pp.612-625.
+- Ng, T.W., Feldman, D.C. and Lam, S.S., 2010. Psychological contract breaches, organizational commitment, and innovation-related behaviors: A latent growth modeling approach. *Journal of applied Psychology*, *95*(4), p.744.
+- Northouse, P.G., 2018. *Leadership: Theory and practice*. Thousand Oaks, CA: Sage.
+- Nunnally, J.C., 1978. *Psychometric theory*. McGraw-Hill New York.
+- Ojha, A.K., 2005. Impact of team demography on knowledge sharing in software project teams. *South Asian Journal of Management*, *12*(3), p.67.
+- Osipian, A.L., 2012. Grey areas in the higher education sector: Legality versus corruptibility. *BYU Educ. & LJ*, p.141.
+- Park, S. and Kim, E.J., 2018. Fostering organizational learning through leadership and knowledge sharing. *Journal of Knowledge Management*.
+- Peterson, D.K., 2002. The relationship between unethical behavior and the dimensions of the ethical climate questionnaire. *Journal of Business Ethics*, *41*(4), pp.313-326.
+- Piccolo, R.F., Greenbaum, R., Hartog, D.N.D. and Folger, R., 2010. The relationship between ethical leadership and core job characteristics. *Journal of organizational behavior*, *31*(2‐ 3), pp.259-278.
+- Piccolo, R.F., Greenbaum, R.L. and Eissa, G., 2012. Ethical leadership and core job characteristics: Designing jobs for employee well-being. In *Work and quality of life* (pp. 291-305). Springer, Dordrecht.
+- Pircher Verdorfer, A., Steinheider, B. and Burkus, D., 2015. Exploring the socio-moral climate in organizations: An empirical examination of determinants, consequences, and mediating mechanisms. *Journal of Business Ethics*, *132*(1), pp.233-248.
+- Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y. and Podsakoff, N.P., 2003. Common method biases in behavioral research: a critical review of the literature and recommended remedies. *Journal of applied psychology*, *88*(5), p.879.
+- Preacher, K.J. and Hayes, A.F., 2004. SPSS and SAS procedures for estimating indirect effects in simple mediation models. *Behavior research methods, instruments, & computers*, *36*(4), pp.717-731.
+- Preacher, K.J., Rucker, D.D. and Hayes, A.F., 2007. Addressing moderated mediation hypotheses: Theory, methods, and prescriptions. *Multivariate behavioral research*, *42*(1), pp.185-227.
+- Punch, K., 2016. *Developing effective research proposals* 3rd ed., London: SAGE.
+- Raelin, J.A., 2004. Don't bother putting leadership into people. *Academy of Management * *Perspectives*, *18*(3), pp.131-135.
 
 <!-- page 157 -->
 
-Sarkis, N. and Daou, L., 2013. "Giving back to the community, an obligation or an option today?"—Case of the educational sector in Lebanon. *International Strategic Management * *Review*, *1*(1-2), pp.59-64.
-
-Schaubroeck, J.M., Hannah, S.T., Avolio, B.J., Kozlowski, S.W., Lord, R.G., Treviño, L.K., Dimotakis, N. and Peng, A.C., 2012. Embedding ethical leadership within and across organization levels. *Academy of management Journal*, *55*(5), pp.1053-1078.
-
-Schaubroeck, J., Lam, S.S. and Peng, A.C., 2011. Cognition-based and affect-based trust as mediators of leader behavior influences on team performance. *Journal of applied * *psychology*, 96(4), p.863.
-
-Schminke, M., Ambrose, M.L. and Neubaum, D.O., 2005. The effect of leader moral development on ethical climate and employee attitudes. *Organizational behavior and * *human decision processes*, *97*(2), pp.135-151.
-
-Schneider, B., Goldstiein, H.W. and Smith, D.B., 1995. The ASA framework: An update. *Personnel psychology*, *48*(4), pp.747-773.
-
-Schneider, B. and Reichers, A.E., 1983. On the etiology of climates. *Personnel psychology*, *36*(1), pp.19-39.
-
-Schwepker Jr, C.H., 2001. Ethical climate's relationship to job satisfaction, organizational commitment, and turnover intention in the salesforce. *Journal of business research*, *54*(1), pp.39-52.
-
-Schwepker Jr, C.H. and Hartline, M.D., 2005. Managing the ethical climate of customercontact service employees. *Journal of Service Research*, *7*(4), pp.377-397.
-
-Schyns, B. and Schilling, J., 2013. How bad are the effects of bad leaders? A meta-analysis of destructive leadership and its outcomes. *The Leadership Quarterly*, *24*(1), pp.138-158.
-
-Şehitoǧlu, Y. and Bilgetürk, M., 2020. The Moderating Role of Ethical Climate in the Relationship Between Total Quality Management and Knowledge-Sharing Behavior. *Is * *Ahlakı Dergisi*, *13*(2), pp.191-202.
-
-Sendjaya, S., 2005. Morality and leadership: Examining the ethics of transformational leadership. *Journal of Academic Ethics*, *3*(1), pp.75-86.
-
-Seonghee, K. and Boryung, J., 2008. An analysis of faculty perceptions: Attitudes toward knowledge sharing and collaboration in an academic institution. *Library & Information * *Science Research*, *30*(4), pp.282-290.
-
-Shaughnessy, J.J., Zechmeister, E.B. and Zechmeister, J.S., 2000. *Research methods in * *psychology*. McGraw-Hill.
-
-Shaw, M.A., 2013. Impacts of globalisation on the academic profession: emerging corruption risks in higher education.
-
-Shin, Y., 2012. CEO ethical leadership, ethical climate, climate strength, and collective organizational citizenship behavior. *Journal of business ethics*, *108*(3), pp.299-312.
+- Rahman, M.S., Daud, N.M. and Hassan, H., 2017. Generation "X" and "Y" knowledge sharing behaviour: The influence of motivation and intention on non-academic staff of higher learning institutions. *Journal of Applied Research in Higher Education*.
+- Rahman, M.S., Osmangani, A.M., Daud, N.M. and AbdelFattah, F.A.M., 2016. Knowledge sharing behaviors among non academic staff of higher learning institutions: Attitude, subjective norms and behavioral intention embedded model. *Library Review*.
+- Rainey, H.G., 2009. *Understanding and managing public organizations*. John Wiley & Sons.
+- Resick, C.J., Hanges, P.J., Dickson, M.W. and Mitchelson, J.K., 2006. A cross-cultural examination of the endorsement of ethical leadership. *Journal of Business Ethics*, *63*(4), pp.345-359.
+- Resick, C.J., Mitchelson, J.K., Dickson, M.W. and Hanges, P.J., 2009. Culture, corruption, and the endorsement of ethical leadership. In *Advances in global leadership*. Emerald Group Publishing Limited.
+- Resick, C.J., Martin, G.S., Keating, M.A., Dickson, M.W., Kwan, H.K. and Peng, C., 2011. What ethical leadership means to me: Asian, American, and European perspectives. *Journal of Business Ethics*, *101*(3), pp.435-457.
+- Rhode, D.L., 2006. Introduction: Where is the leadership in moral leadership. *Moral * *leadership. The theory and practice of power, judgment, and policy*, pp.1-53.
+- Rhoades, L. and Eisenberger, R., 2002. Perceived organizational support: a review of the literature. *Journal of applied psychology*, *87*(4), p.698.
+- Ritter, B.A., 2006. Can business ethics be trained? A study of the ethical decision-making process in business students. *Journal of Business Ethics*, *68*(2), pp.153-164.
+- Rok, B., 2009. Ethical context of the participative leadership model: taking people into account. *Corporate Governance: The international journal of business in society,* *9*(4), pp. 461-472.
+- Rollag, K., 2004. The impact of relative tenure on newcomer socialization dynamics. *Journal * *of Organizational Behavior: The International Journal of Industrial, Occupational and * *Organizational Psychology and Behavior*, *25*(7), pp.853-872.
+- Rowley, J., 2000. Is higher education ready for knowledge management?. *International journal * *of educational management*.
+- Ruiz, P., Ruiz, C. and Martínez, R., 2011. Improving the "leader–follower" relationship: Top manager or supervisor? The ethical leadership trickle-down effect on follower job response. *Journal of Business Ethics*, *99*(4), pp.587-608.
+- Rulke, D.L. and Galaskiewicz, J., 2000. Distribution of knowledge, group network structure, and group performance. *Management Science*, *46*(5), pp.612-625.
 
 <!-- page 158 -->
 
-Shin, Y., Sung, S.Y., Choi, J.N. and Kim, M.S., 2015. Top management ethical leadership and firm performance: Mediating role of ethical and procedural justice climate. *Journal of * *Business Ethics*, *129*(1), pp.43-57.
-
-Shook, C.L., Ketchen Jr, D.J., Hult, G.T.M. and Kacmar, K.M., 2004. An assessment of the use of structural equation modeling in strategic management research. *Strategic * *management journal*, *25*(4), pp.397-404.
-
-Simha, A. and Cullen, J.B., 2012. Ethical climates and their effects on organizational outcomes: Implications from the past and prophecies for the future. *Academy of Management * *Perspectives*, *26*(4), pp.20-34.
-
-Sims, R.R., 1992. The challenge of ethical behavior in organizations. *Journal of Business * *Ethics*, *11*(7), pp.505-513.
-
-Smith, H.J., Thompson, R.L. and Iacovou, C.L., 2009. The impact of organizational climate on reporting behaviors in information systems projects. Journal of Business Ethics, 90(4), pp.577-591.
-
-Spears, L.C., 2002. Tracing the past, present, and future of servant-leadership. Focus on leadership: Servant-leadership for the 21st century, pp.1-16.
-
-Spears, L.C., 2010. Character and servant leadership: Ten characteristics of effective, caring leaders. *The journal of virtues & leadership*, *1*(1), pp.25-30.
-
-Spender, J.C. and Grant, R.M., 1996. Knowledge and the firm: Overview. *Strategic * *management journal*, *17*(S2), pp.5-9.
-
-Spendlove, M., 2007. Competencies for effective leadership in higher education. *International * *Journal of Educational Management*.
-
-Srivastava, A., Bartol, K.M. and Locke, E.A., 2006. Empowering leadership in management teams: Effects on knowledge sharing, efficacy, and performance. *Academy of management * *journal*, *49*(6), pp.1239-1251.
-
-Stewart, R., Volpone, S.D., Avery, D.R. and McKay, P., 2011. You support diversity, but are you ethical? Examining the interactive effects of diversity and ethical climate perceptions on turnover intentions. *Journal of business ethics*, *100*(4), pp.581-593.
-
-Stogdill, R.M., 1948. Personal factors associated with leadership: A survey of the literature. *The Journal of psychology*, *25*(1), pp.35-71.
-
-Stouten, J., Van Dijke, M., Mayer, D.M., De Cremer, D. and Euwema, M.C., 2013. Can a leader be seen as too ethical? The curvilinear effects of ethical leadership. *The Leadership * *Quarterly*, *24*(5), pp.680-695.
-
-Straub, D., Boudreau, M.C. and Gefen, D., 2004. Validation guidelines for IS positivist research. *Communications of the Association for Information systems*, *13*(1), p.24.
-
-Streiner, D.L., 2006. Building a better model: an introduction to structural equation modelling. *The Canadian Journal of Psychiatry*, *51*(5), pp.317-324.
+- Sarkis, N. and Daou, L., 2013. "Giving back to the community, an obligation or an option today?"—Case of the educational sector in Lebanon. *International Strategic Management * *Review*, *1*(1-2), pp.59-64.
+- Schaubroeck, J.M., Hannah, S.T., Avolio, B.J., Kozlowski, S.W., Lord, R.G., Treviño, L.K., Dimotakis, N. and Peng, A.C., 2012. Embedding ethical leadership within and across organization levels. *Academy of management Journal*, *55*(5), pp.1053-1078.
+- Schaubroeck, J., Lam, S.S. and Peng, A.C., 2011. Cognition-based and affect-based trust as mediators of leader behavior influences on team performance. *Journal of applied * *psychology*, 96(4), p.863.
+- Schminke, M., Ambrose, M.L. and Neubaum, D.O., 2005. The effect of leader moral development on ethical climate and employee attitudes. *Organizational behavior and * *human decision processes*, *97*(2), pp.135-151.
+- Schneider, B., Goldstiein, H.W. and Smith, D.B., 1995. The ASA framework: An update. *Personnel psychology*, *48*(4), pp.747-773.
+- Schneider, B. and Reichers, A.E., 1983. On the etiology of climates. *Personnel psychology*, *36*(1), pp.19-39.
+- Schwepker Jr, C.H., 2001. Ethical climate's relationship to job satisfaction, organizational commitment, and turnover intention in the salesforce. *Journal of business research*, *54*(1), pp.39-52.
+- Schwepker Jr, C.H. and Hartline, M.D., 2005. Managing the ethical climate of customercontact service employees. *Journal of Service Research*, *7*(4), pp.377-397.
+- Schyns, B. and Schilling, J., 2013. How bad are the effects of bad leaders? A meta-analysis of destructive leadership and its outcomes. *The Leadership Quarterly*, *24*(1), pp.138-158.
+- Şehitoǧlu, Y. and Bilgetürk, M., 2020. The Moderating Role of Ethical Climate in the Relationship Between Total Quality Management and Knowledge-Sharing Behavior. *Is * *Ahlakı Dergisi*, *13*(2), pp.191-202.
+- Sendjaya, S., 2005. Morality and leadership: Examining the ethics of transformational leadership. *Journal of Academic Ethics*, *3*(1), pp.75-86.
+- Seonghee, K. and Boryung, J., 2008. An analysis of faculty perceptions: Attitudes toward knowledge sharing and collaboration in an academic institution. *Library & Information * *Science Research*, *30*(4), pp.282-290.
+- Shaughnessy, J.J., Zechmeister, E.B. and Zechmeister, J.S., 2000. *Research methods in * *psychology*. McGraw-Hill.
+- Shaw, M.A., 2013. Impacts of globalisation on the academic profession: emerging corruption risks in higher education.
+- Shin, Y., 2012. CEO ethical leadership, ethical climate, climate strength, and collective organizational citizenship behavior. *Journal of business ethics*, *108*(3), pp.299-312.
 
 <!-- page 159 -->
 
-Su, X., Lin, W., Wu, J., Zheng, Q., Chen, X. and Jiang, X., 2021. Ethical leadership and knowledge sharing: the effects of positive reciprocity and moral efficacy. *Sage * *Open*, *11*(2), p.21582440211021823.
-
-Swart, J., 2006. Intellectual capital: disentangling an enigmatic concept. *Journal of Intellectual * *capital*.
-
-Swart, J. and Kinnie, N., 2003. Sharing knowledge in knowledge‐intensive firms. *Human * *resource management journal*, *13*(2), pp.60-75.
-
-Swart, J., Kinnie, N., Van Rossenberg, Y. and Yalabik, Z.Y., 2014. Why should I share my knowledge? A multiple foci of commitment perspective. *Human Resource Management * *Journal*, *24*(3), pp.269-289.
-
-Taasoobshirazi, G. and Wang, S., 2016. The performance of the SRMR, RMSEA, CFI, and TLI: An examination of sample size, path size, and degrees of freedom. *Journal of Applied * *Quantitative Methods*, *11*(3), pp.31-39.
-
-Tett, R.P., Guterman, H.A., Bleier, A. and Murphy, P.J., 2000. Development and content validation of a" hyperdimensional" taxonomy of managerial competence. *Human * *performance*, *13*(3), pp.205-251.
-
-The World Bank Group, 2021. *Population, total -* *Lebanon* [Online]. Washington, DC: The World Bank. Available from: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB [Accessed 01 March 2021].
-
-Tranby, P.A., 2012. *Assessing the impact of the Academic Quality Improvement Project on the * *organizational climate of a comprehensive community college: A case study approach* (Doctoral dissertation, Colorado State University).
-
-Transparency International, 2021. *CPI* [Online]. Corruption Perceptions Index. Available from: https://www.transparency.org/en/cpi/2021 [Accessed 24 January 2023].
-
-Trent, M.P. and Pollard, D.P., 2019. Implementing Ethical Decision‐Making: Strategies for Today's Community College Presidents. *New Directions for Community * *Colleges*, *2019*(185), pp.65-74.
-
-Treviño, L.K., 1986. Ethical decision making in organizations: A person-situation interactionist model. *Academy of management Review*, *11*(3), pp.601-617.
-
-Treviño, L.K., Butterfield, K.D. and McCabe, D.L., 2001. The ethical context in organizations: Influences on employee attitudes and behaviors. In: J.W., Dienhart et al., eds. *The next * *phase of business ethics: Integrating psychology and ethics*. Emerald Group Publishing Limited, pp. 301-337
-
-Treviño, L.K., Brown, M. and Hartman, L.P., 2003. A qualitative investigation of perceived executive ethical leadership: Perceptions from inside and outside the executive suite. *Human relations*, *56*(1), pp.5-37.
+- Shin, Y., Sung, S.Y., Choi, J.N. and Kim, M.S., 2015. Top management ethical leadership and firm performance: Mediating role of ethical and procedural justice climate. *Journal of * *Business Ethics*, *129*(1), pp.43-57.
+- Shook, C.L., Ketchen Jr, D.J., Hult, G.T.M. and Kacmar, K.M., 2004. An assessment of the use of structural equation modeling in strategic management research. *Strategic * *management journal*, *25*(4), pp.397-404.
+- Simha, A. and Cullen, J.B., 2012. Ethical climates and their effects on organizational outcomes: Implications from the past and prophecies for the future. *Academy of Management * *Perspectives*, *26*(4), pp.20-34.
+- Sims, R.R., 1992. The challenge of ethical behavior in organizations. *Journal of Business * *Ethics*, *11*(7), pp.505-513.
+- Smith, H.J., Thompson, R.L. and Iacovou, C.L., 2009. The impact of organizational climate on reporting behaviors in information systems projects. Journal of Business Ethics, 90(4), pp.577-591.
+- Spears, L.C., 2002. Tracing the past, present, and future of servant-leadership. Focus on leadership: Servant-leadership for the 21st century, pp.1-16.
+- Spears, L.C., 2010. Character and servant leadership: Ten characteristics of effective, caring leaders. *The journal of virtues & leadership*, *1*(1), pp.25-30.
+- Spender, J.C. and Grant, R.M., 1996. Knowledge and the firm: Overview. *Strategic * *management journal*, *17*(S2), pp.5-9.
+- Spendlove, M., 2007. Competencies for effective leadership in higher education. *International * *Journal of Educational Management*.
+- Srivastava, A., Bartol, K.M. and Locke, E.A., 2006. Empowering leadership in management teams: Effects on knowledge sharing, efficacy, and performance. *Academy of management * *journal*, *49*(6), pp.1239-1251.
+- Stewart, R., Volpone, S.D., Avery, D.R. and McKay, P., 2011. You support diversity, but are you ethical? Examining the interactive effects of diversity and ethical climate perceptions on turnover intentions. *Journal of business ethics*, *100*(4), pp.581-593.
+- Stogdill, R.M., 1948. Personal factors associated with leadership: A survey of the literature. *The Journal of psychology*, *25*(1), pp.35-71.
+- Stouten, J., Van Dijke, M., Mayer, D.M., De Cremer, D. and Euwema, M.C., 2013. Can a leader be seen as too ethical? The curvilinear effects of ethical leadership. *The Leadership * *Quarterly*, *24*(5), pp.680-695.
+- Straub, D., Boudreau, M.C. and Gefen, D., 2004. Validation guidelines for IS positivist research. *Communications of the Association for Information systems*, *13*(1), p.24.
+- Streiner, D.L., 2006. Building a better model: an introduction to structural equation modelling. *The Canadian Journal of Psychiatry*, *51*(5), pp.317-324.
 
 <!-- page 160 -->
 
-Treviño, L.K., Hartman, L.P. and Brown, M., 2000. Moral person and moral manager: How executives develop a reputation for ethical leadership. *California management review*, *42*(4), pp.128-142.
-
-Treviño, L. K., and Nelson, K. A., 2017. *Managing business ethics: Straight talk about* *how to * *do it right*. Hoboken, NJ: John Wiley & Sons
-
-Treviño, L.K. and Nelson, K.A., 2011. *Managing business ethics: Straight talk about how to * *do it right*. John Wiley & Sons. Inc.
-
-Tseng, F.C. and Fan, Y.J., 2011. Exploring the influence of organizational ethical climate on knowledge management. *Journal of business ethics*, *101*(2), pp.325-342.
-
-Tsoukas, H. and Vladimirou, E., 2001. What is organizational knowledge?. *Journal of * *management studies*, *38*(7), pp.973-993.
-
-Uçanok, B., 2008. The effects of work values, work-value congruence and work centrality on organizational citizenship behavior. *International Journal of Humanities and Social * *Sciences*, *2*(10), pp.1179-1192.
-
-Umphress, E.E. and Bingham, J.B., 2011. When employees do bad things for good reasons: Examining unethical pro-organizational behaviors. *Organization Science*, *22*(3), pp.621- 640.
-
-Valentine, S., Godkin, L. and Lucero, M., 2002. Ethical context, organizational commitment, and person-organization fit. *Journal of business ethics*, *41*(4), pp.349-360.
-
-Valentine, S., Greller, M.M. and Richtermeyer, S.B., 2006. Employee job response as a function of ethical context and perceived organization support. *Journal of Business * *Research*, *59*(5), pp.582-588.
-
-Valle, M., Harris, K. and Andrews Martha, C., 2004. An examination of tenure in negative organizational environments. *Journal of management Research*, *4*(2), pp.113-119.
-
-Van den Hooff, B. and de Leeuw van Weenen, F., 2004. Committed to share: commitment and CMC use as antecedents of knowledge sharing. *Knowledge and process management*, *11*(1), pp.13-24.
-
-Van Den Hooff, B. and De Ridder, J.A., 2004. Knowledge sharing in context: the influence of organizational commitment, communication climate and CMC use on knowledge sharing. *Journal of knowledge management*.
-
-Victor, B. and Cullen, J.B., 1987. A theory and measure of ethical climate in organisations. *Research in Corporate Social Performances and Policy*, 9, 51-57.
-
-Victor, B. and Cullen, J.B., 1988. The organizational bases of ethical work climates. *Administrative science quarterly*, pp.101-125.
+- Su, X., Lin, W., Wu, J., Zheng, Q., Chen, X. and Jiang, X., 2021. Ethical leadership and knowledge sharing: the effects of positive reciprocity and moral efficacy. *Sage * *Open*, *11*(2), p.21582440211021823.
+- Swart, J., 2006. Intellectual capital: disentangling an enigmatic concept. *Journal of Intellectual * *capital*.
+- Swart, J. and Kinnie, N., 2003. Sharing knowledge in knowledge‐intensive firms. *Human * *resource management journal*, *13*(2), pp.60-75.
+- Swart, J., Kinnie, N., Van Rossenberg, Y. and Yalabik, Z.Y., 2014. Why should I share my knowledge? A multiple foci of commitment perspective. *Human Resource Management * *Journal*, *24*(3), pp.269-289.
+- Taasoobshirazi, G. and Wang, S., 2016. The performance of the SRMR, RMSEA, CFI, and TLI: An examination of sample size, path size, and degrees of freedom. *Journal of Applied * *Quantitative Methods*, *11*(3), pp.31-39.
+- Tett, R.P., Guterman, H.A., Bleier, A. and Murphy, P.J., 2000. Development and content validation of a" hyperdimensional" taxonomy of managerial competence. *Human * *performance*, *13*(3), pp.205-251.
+- The World Bank Group, 2021. *Population, total -* *Lebanon* [Online]. Washington, DC: The World Bank. Available from: [https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB ](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=LB)[Accessed 01 March 2021].
+- Tranby, P.A., 2012. *Assessing the impact of the Academic Quality Improvement Project on the * *organizational climate of a comprehensive community college: A case study approach* (Doctoral dissertation, Colorado State University).
+- Transparency International, 2021. *CPI* [Online]. Corruption Perceptions Index. Available from:[ https://www.transparency.org/en/cpi/2021](https://www.transparency.org/en/cpi/2021) [Accessed 24 January 2023].
+- Trent, M.P. and Pollard, D.P., 2019. Implementing Ethical Decision‐Making: Strategies for Today's Community College Presidents. *New Directions for Community * *Colleges*, *2019*(185), pp.65-74.
+- Treviño, L.K., 1986. Ethical decision making in organizations: A person-situation interactionist model. *Academy of management Review*, *11*(3), pp.601-617.
+- Treviño, L.K., Butterfield, K.D. and McCabe, D.L., 2001. The ethical context in organizations: Influences on employee attitudes and behaviors. In: J.W., Dienhart et al., eds. *The next * *phase of business ethics: Integrating psychology and ethics*. Emerald Group Publishing Limited, pp. 301-337
+- Treviño, L.K., Brown, M. and Hartman, L.P., 2003. A qualitative investigation of perceived executive ethical leadership: Perceptions from inside and outside the executive suite. *Human relations*, *56*(1), pp.5-37.
 
 <!-- page 161 -->
 
-Walumbwa, F.O., Avolio, B.J., Gardner, W.L., Wernsing, T.S. and Peterson, S.J., 2008. Authentic leadership: Development and validation of a theory-based measure. *Journal of * *management*, *34*(1), pp.89-126.
-
-Walumbwa, F.O., Lawler, J.J., Avolio, B.J., Wang, P. and Shi, K., 2005. Transformational leadership and work-related attitudes: The moderating effects of collective and selfefficacy across cultures. *Journal of Leadership & Organizational Studies*, *11*(3), pp.2-16.
-
-Walumbwa, F.O. and Schaubroeck, J., 2009. Leader personality traits and employee voice behavior: mediating roles of ethical leadership and work group psychological safety. *Journal of applied psychology*, *94*(5), p.1275.
-
-Wang, S. and Noe, R.A., 2010. Knowledge sharing: A review and directions for future research. *Human resource management review*, *20*(2), pp.115-131.
-
-Wang, V., 2020. *Handbook of research on ethical challenges in higher education leadership * *and administration*, Hershey, Pennsylvania: IGI Global.
-
-Wang, Y.D. and Sung, W.C., 2016. Predictors of organizational citizenship behavior: Ethical leadership and workplace jealousy. *Journal of Business Ethics*, *135*(1), pp.117-128.
-
-Weber, J., 1995. Influences upon organizational ethical subclimates: A multi-departmental analysis of a single firm. *Organization Science*, *6*(5), pp.509-523.
-
-Weber, J.A., 2007. Business ethics training: Insights from learning theory. *Journal of Business * *Ethics*, *70*(1), pp.61-85.
-
-Weber, J. and Seger, J.E., 2002. Influences upon organizational ethical subclimates: A replication study of a single firm at two points in time. *Journal of Business Ethics*, *41*(1-2), pp.69-84.
-
-Weeks, W.A. and Nantel, J., 1992. Corporate codes of ethics and sales force behavior: A case study. *Journal of Business Ethics*, *11*(10), pp.753-760.
-
-Whitchurch, C., 2008. Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education. *Higher education quarterly*, *62*(4), pp.377- 396.
-
-White, S., Fook, J. and Gardner, F., 2006. Critical reflection: a review of contemporary literature and understandings.
-
-Whiting, S.W., Podsakoff, P.M. and Pierce, J.R., 2008. Effects of task performance, helping, voice, and organizational loyalty on performance appraisal ratings. *Journal of Applied * *Psychology*, *93*(1), p.125.
-
-Wilkesmann, U., Fischer, H. and Wilkesmann, M., 2009. Cultural characteristics of knowledge transfer. *Journal of Knowledge Management*.
-
-Willem, A. and Scarbrough, H., 2006. Social capital and political bias in knowledge sharing: An exploratory study. *Human relations*, *59*(10), pp.1343-1370.
+- Treviño, L.K., Hartman, L.P. and Brown, M., 2000. Moral person and moral manager: How executives develop a reputation for ethical leadership. *California management review*, *42*(4), pp.128-142.
+- Treviño, L. K., and Nelson, K. A., 2017. *Managing business ethics: Straight talk about* *how to * *do it right*. Hoboken, NJ: John Wiley & Sons
+- Treviño, L.K. and Nelson, K.A., 2011. *Managing business ethics: Straight talk about how to * *do it right*. John Wiley & Sons. Inc.
+- Tseng, F.C. and Fan, Y.J., 2011. Exploring the influence of organizational ethical climate on knowledge management. *Journal of business ethics*, *101*(2), pp.325-342.
+- Tsoukas, H. and Vladimirou, E., 2001. What is organizational knowledge?. *Journal of * *management studies*, *38*(7), pp.973-993.
+- Uçanok, B., 2008. The effects of work values, work-value congruence and work centrality on organizational citizenship behavior. *International Journal of Humanities and Social * *Sciences*, *2*(10), pp.1179-1192.
+- Umphress, E.E. and Bingham, J.B., 2011. When employees do bad things for good reasons: Examining unethical pro-organizational behaviors. *Organization Science*, *22*(3), pp.621- 640.
+- Valentine, S., Godkin, L. and Lucero, M., 2002. Ethical context, organizational commitment, and person-organization fit. *Journal of business ethics*, *41*(4), pp.349-360.
+- Valentine, S., Greller, M.M. and Richtermeyer, S.B., 2006. Employee job response as a function of ethical context and perceived organization support. *Journal of Business * *Research*, *59*(5), pp.582-588.
+- Valle, M., Harris, K. and Andrews Martha, C., 2004. An examination of tenure in negative organizational environments. *Journal of management Research*, *4*(2), pp.113-119.
+- Van den Hooff, B. and de Leeuw van Weenen, F., 2004. Committed to share: commitment and CMC use as antecedents of knowledge sharing. *Knowledge and process management*, *11*(1), pp.13-24.
+- Van Den Hooff, B. and De Ridder, J.A., 2004. Knowledge sharing in context: the influence of organizational commitment, communication climate and CMC use on knowledge sharing. *Journal of knowledge management*.
+- Victor, B. and Cullen, J.B., 1987. A theory and measure of ethical climate in organisations. *Research in Corporate Social Performances and Policy*, 9, 51-57.
+- Victor, B. and Cullen, J.B., 1988. The organizational bases of ethical work climates. *Administrative science quarterly*, pp.101-125.
 
 <!-- page 162 -->
 
-Wilson, J., 2014. *Essentials of business research: A guide to doing your research project*. Sage.
-
-Wimbush, J.C., Shepard, J.M. and Markham, S.E., 1997. An empirical examination of the relationship between ethical climate and ethical behavior from multiple levels of analysis. *Journal of Business Ethics*, *16*(16), pp.1705-1716.
-
-Winston, M.D., 2007. Ethical leadership and ethical decision making: A meta-analysis of research related to ethics education. *Library & information science research*, *29*(2), pp.230- 251.
-
-Wolmarans, J., 2014. *The effect of core ethical values on ethical leadership, organisational * *justice, ethical climate and leader effectiveness* (Doctoral dissertation, Stellenbosch: Stellenbosch University).
-
-Wong, K.C., 1998. Culture and moral leadership in education. *Peabody journal of education*, *73*(2), pp.106-125.
-
-Wright, T.A. and Bonett, D.G., 2002. The moderating effects of employee tenure on the relation between organizational commitment and job performance: a meta-analysis. *Journal of applied psychology*, *87*(6), p.1183.
-
-Wright, A.G.C. and Markon, K.E., 2016. Longitudinal designs. In: Norcross, J.C., Vandenbos, G.R., Freedheim, D.K., Olatunji, B.O., Norcross, J.C., Vandenbos, G.R., Freedheim, D.K. and Olatunji, B.O., eds. *APA handbook of clinical psychology: Theory and research*, Vol. 2. Washington, DC, US: American Psychological Association, 419-434
-
-Wyld, D.C. and Jones, C.A., 1997. The importance of context: The ethical work climate construct and models of ethical decision making--an agenda for research. *Journal of * *Business Ethics*, *16*(4), pp.465-472.
-
-Xia, Z. and Yang, F., 2020. Ethical leadership and knowledge sharing: the impacts of prosocial motivation and two facets of conscientiousness. *Frontiers in Psychology*, p.3068.
-
-Xu, A.J., Loi, R. and Ngo, H.Y., 2016. Ethical leadership behavior and employee justice perceptions: The mediating role of trust in organization. *Journal of Business Ethics*, *134*(3), pp.493-504.
-
-Yalabik, Z.Y., Swart, J., Kinnie, N. and Van Rossenberg, Y., 2017. Multiple foci of commitment and intention to quit in knowledge-intensive organizations (KIOs): what makes professionals leave?. *The International Journal of Human Resource Management*, *28*(2), pp.417-447.
-
-Yang, S.C. and Farn, C.K., 2009. Social capital, behavioural control, and tacit knowledge sharing—A multi-informant design. *International Journal of Information Management*, *29*(3), pp.210-218.
-
-Yielder, J. and Codling, A., 2004. Management and leadership in the contemporary university. *Journal of higher education policy and management*, *26*(3), pp.315-328.
+- Walumbwa, F.O., Avolio, B.J., Gardner, W.L., Wernsing, T.S. and Peterson, S.J., 2008. Authentic leadership: Development and validation of a theory-based measure. *Journal of * *management*, *34*(1), pp.89-126.
+- Walumbwa, F.O., Lawler, J.J., Avolio, B.J., Wang, P. and Shi, K., 2005. Transformational leadership and work-related attitudes: The moderating effects of collective and selfefficacy across cultures. *Journal of Leadership & Organizational Studies*, *11*(3), pp.2-16.
+- Walumbwa, F.O. and Schaubroeck, J., 2009. Leader personality traits and employee voice behavior: mediating roles of ethical leadership and work group psychological safety. *Journal of applied psychology*, *94*(5), p.1275.
+- Wang, S. and Noe, R.A., 2010. Knowledge sharing: A review and directions for future research. *Human resource management review*, *20*(2), pp.115-131.
+- Wang, V., 2020. *Handbook of research on ethical challenges in higher education leadership * *and administration*, Hershey, Pennsylvania: IGI Global.
+- Wang, Y.D. and Sung, W.C., 2016. Predictors of organizational citizenship behavior: Ethical leadership and workplace jealousy. *Journal of Business Ethics*, *135*(1), pp.117-128.
+- Weber, J., 1995. Influences upon organizational ethical subclimates: A multi-departmental analysis of a single firm. *Organization Science*, *6*(5), pp.509-523.
+- Weber, J.A., 2007. Business ethics training: Insights from learning theory. *Journal of Business * *Ethics*, *70*(1), pp.61-85.
+- Weber, J. and Seger, J.E., 2002. Influences upon organizational ethical subclimates: A replication study of a single firm at two points in time. *Journal of Business Ethics*, *41*(1-2), pp.69-84.
+- Weeks, W.A. and Nantel, J., 1992. Corporate codes of ethics and sales force behavior: A case study. *Journal of Business Ethics*, *11*(10), pp.753-760.
+- Whitchurch, C., 2008. Shifting identities and blurring boundaries: The emergence of third space professionals in UK higher education. *Higher education quarterly*, *62*(4), pp.377- 396.
+- White, S., Fook, J. and Gardner, F., 2006. Critical reflection: a review of contemporary literature and understandings.
+- Whiting, S.W., Podsakoff, P.M. and Pierce, J.R., 2008. Effects of task performance, helping, voice, and organizational loyalty on performance appraisal ratings. *Journal of Applied * *Psychology*, *93*(1), p.125.
+- Wilkesmann, U., Fischer, H. and Wilkesmann, M., 2009. Cultural characteristics of knowledge transfer. *Journal of Knowledge Management*.
+- Willem, A. and Scarbrough, H., 2006. Social capital and political bias in knowledge sharing: An exploratory study. *Human relations*, *59*(10), pp.1343-1370.
 
 <!-- page 163 -->
 
-Yukl, G., 1989. Managerial leadership: A review of theory and research. *Journal of * *management*, *15*(2), pp.251-289.
-
-Yukl, G., 2002. Leadership in organisations. New Jersey: Prentice Hall.
-
-Zagenczyk, T.J., Purvis, R.L., Cruz, K.S., Thoroughgood, C.N. and Sawyer, K.B., 2020. Context and social exchange: perceived ethical climate strengthens the relationships between perceived organizational support and organizational identification and commitment. *The International Journal of Human Resource Management*, pp.1-20.
-
-Zohar, D. and Luria, G., 2005. A multilevel model of safety climate: cross-level relationships between organization and group-level climates. *Journal of applied psychology*, *90*(4), p.616.
+- Wilson, J., 2014. *Essentials of business research: A guide to doing your research project*. Sage.
+- Wimbush, J.C., Shepard, J.M. and Markham, S.E., 1997. An empirical examination of the relationship between ethical climate and ethical behavior from multiple levels of analysis. *Journal of Business Ethics*, *16*(16), pp.1705-1716.
+- Winston, M.D., 2007. Ethical leadership and ethical decision making: A meta-analysis of research related to ethics education. *Library & information science research*, *29*(2), pp.230- 251.
+- Wolmarans, J., 2014. *The effect of core ethical values on ethical leadership, organisational * *justice, ethical climate and leader effectiveness* (Doctoral dissertation, Stellenbosch: Stellenbosch University).
+- Wong, K.C., 1998. Culture and moral leadership in education. *Peabody journal of education*, *73*(2), pp.106-125.
+- Wright, T.A. and Bonett, D.G., 2002. The moderating effects of employee tenure on the relation between organizational commitment and job performance: a meta-analysis. *Journal of applied psychology*, *87*(6), p.1183.
+- Wright, A.G.C. and Markon, K.E., 2016. Longitudinal designs. In: Norcross, J.C., Vandenbos, G.R., Freedheim, D.K., Olatunji, B.O., Norcross, J.C., Vandenbos, G.R., Freedheim, D.K. and Olatunji, B.O., eds. *APA handbook of clinical psychology: Theory and research*, Vol. 2. Washington, DC, US: American Psychological Association, 419-434
+- Wyld, D.C. and Jones, C.A., 1997. The importance of context: The ethical work climate construct and models of ethical decision making--an agenda for research. *Journal of * *Business Ethics*, *16*(4), pp.465-472.
+- Xia, Z. and Yang, F., 2020. Ethical leadership and knowledge sharing: the impacts of prosocial motivation and two facets of conscientiousness. *Frontiers in Psychology*, p.3068.
+- Xu, A.J., Loi, R. and Ngo, H.Y., 2016. Ethical leadership behavior and employee justice perceptions: The mediating role of trust in organization. *Journal of Business Ethics*, *134*(3), pp.493-504.
+- Yalabik, Z.Y., Swart, J., Kinnie, N. and Van Rossenberg, Y., 2017. Multiple foci of commitment and intention to quit in knowledge-intensive organizations (KIOs): what makes professionals leave?. *The International Journal of Human Resource Management*, *28*(2), pp.417-447.
+- Yang, S.C. and Farn, C.K., 2009. Social capital, behavioural control, and tacit knowledge sharing—A multi-informant design. *International Journal of Information Management*, *29*(3), pp.210-218.
+- Yielder, J. and Codling, A., 2004. Management and leadership in the contemporary university. *Journal of higher education policy and management*, *26*(3), pp.315-328.
 
 <!-- page 164 -->
+
+- Yukl, G., 1989. Managerial leadership: A review of theory and research. *Journal of * *management*, *15*(2), pp.251-289.
+- Yukl, G., 2002. Leadership in organisations. New Jersey: Prentice Hall.
+- Zagenczyk, T.J., Purvis, R.L., Cruz, K.S., Thoroughgood, C.N. and Sawyer, K.B., 2020. Context and social exchange: perceived ethical climate strengthens the relationships between perceived organizational support and organizational identification and commitment. *The International Journal of Human Resource Management*, pp.1-20.
+- Zohar, D. and Luria, G., 2005. A multilevel model of safety climate: cross-level relationships between organization and group-level climates. *Journal of applied psychology*, *90*(4), p.616.
+
+<!-- page 165 -->
 
 ## **APPENDICES**
 
@@ -3366,20 +2209,20 @@ Instructions: The following statements describe the ethical leadership behaviour
 
 **1 = Strongly Disagree, 2 = Disagree, 3 = Somewhat** **Disagree, 4 = Neutral, 5 = Slightly ** **Agree, 6 = Agree, 7** **=** **Strongly Agree**
 
-|   |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Listens to what employees have to say |   |   |   |   |   |   |   |
-| 2 | Disciplines employees who violate ethical standards |   |   |   |   |   |   |   |
-| 3 | Conducts his or her personal life in an ethical manner |   |   |   |   |   |   |   |
-| 4 | Has the interests of employees in mind |   |   |   |   |   |   |   |
-| 5 | Makes fair and balanced decisions |   |   |   |   |   |   |   |
-| 6 | Can be trusted |   |   |   |   |   |   |   |
-| 7 | Discusses business ethics or values with employees |   |   |   |   |   |   |   |
-| 8 | Sets an example of how to do things the right way in terms of ethics |   |   |   |   |   |   |   |
-| 9 | Defines success not just by results but also the way that they are obtained |   |   |   |   |   |   |   |
-| 10 | When making decisions, asks, "What is the right thing to do?" |   |   |   |   |   |   |   |
+| 1 | Listens to what employees have to say |  |  |  |  |  |  |  |
+| 2 | Disciplines employees who violate ethical standards |  |  |  |  |  |  |  |
+| 3 | Conducts his or her personal life in an ethical manner |  |  |  |  |  |  |  |
+| 4 | Has the interests of employees in mind |  |  |  |  |  |  |  |
+| 5 | Makes fair and balanced decisions |  |  |  |  |  |  |  |
+| 6 | Can be trusted |  |  |  |  |  |  |  |
+| 7 | Discusses business ethics or values with employees |  |  |  |  |  |  |  |
+| 8 | Sets an example of how to do things the right way in terms of ethics |  |  |  |  |  |  |  |
+| 9 | Defines success not just by results but also the way that they are obtained |  |  |  |  |  |  |  |
+| 10 | When making decisions, asks, "What is the right thing to do?" |  |  |  |  |  |  |  |
 
-<!-- page 165 -->
+<!-- page 166 -->
 
 ## **APPENDIX B** **Knowledge Sharing Scale**
 
@@ -3387,29 +2230,29 @@ Instructions: Thinking about how you share knowledge, skills, and expertise with
 
 ## **1 = Strongly Disagree, 2 = Disagree, 3 = Somewhat** **Disagree, 4 = Neutral, 5 = Slightly ** **Agree, 6 = Agree, 7** **=** **Strongly Agree**
 
-|   |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | When I've learned something new, I make sure that |   |   |   |   |   |   |   |
-|   | colleagues in my department can learn it as well. |   |   |   |   |   |   |   |
-| 2 | I share the information I have with colleagues within my |   |   |   |   |   |   |   |
-|   | department. |   |   |   |   |   |   |   |
-| 3 | I share my skills with colleagues within my department. |   |   |   |   |   |   |   |
-| 4 | When I've learned something new, I make sure that |   |   |   |   |   |   |   |
-|   | colleagues outside of my department can learn it as well. |   |   |   |   |   |   |   |
-| 5 | I share the information I have with colleagues outside of |   |   |   |   |   |   |   |
-|   | my department. |   |   |   |   |   |   |   |
-| 6 | I share my skills with colleagues outside of my |   |   |   |   |   |   |   |
-|   | department. |   |   |   |   |   |   |   |
-| 7 | Colleagues within my department tell me what they |   |   |   |   |   |   |   |
-|   | know, when I ask them about it. |   |   |   |   |   |   |   |
-| 8 | Colleagues within my department tell me what their |   |   |   |   |   |   |   |
-|   | skills are, when I ask them about it. |   |   |   |   |   |   |   |
-| 9 | Colleagues outside of my department tell me what they |   |   |   |   |   |   |   |
-|   | know, when I ask them about it. |   |   |   |   |   |   |   |
-| 10 | Colleagues outside of my department tell me what their |   |   |   |   |   |   |   |
-|   | skills are, when I ask them about it. |   |   |   |   |   |   |   |
+| 1 | When I've learned something new, I make sure that |  |  |  |  |  |  |  |
+|  | colleagues in my department can learn it as well. |  |  |  |  |  |  |  |
+| 2 | I share the information I have with colleagues within my |  |  |  |  |  |  |  |
+|  | department. |  |  |  |  |  |  |  |
+| 3 | I share my skills with colleagues within my department. |  |  |  |  |  |  |  |
+| 4 | When I've learned something new, I make sure that |  |  |  |  |  |  |  |
+|  | colleagues outside of my department can learn it as well. |  |  |  |  |  |  |  |
+| 5 | I share the information I have with colleagues outside of |  |  |  |  |  |  |  |
+|  | my department. |  |  |  |  |  |  |  |
+| 6 | I share my skills with colleagues outside of my |  |  |  |  |  |  |  |
+|  | department. |  |  |  |  |  |  |  |
+| 7 | Colleagues within my department tell me what they |  |  |  |  |  |  |  |
+|  | know, when I ask them about it. |  |  |  |  |  |  |  |
+| 8 | Colleagues within my department tell me what their |  |  |  |  |  |  |  |
+|  | skills are, when I ask them about it. |  |  |  |  |  |  |  |
+| 9 | Colleagues outside of my department tell me what they |  |  |  |  |  |  |  |
+|  | know, when I ask them about it. |  |  |  |  |  |  |  |
+| 10 | Colleagues outside of my department tell me what their |  |  |  |  |  |  |  |
+|  | skills are, when I ask them about it. |  |  |  |  |  |  |  |
 
-<!-- page 166 -->
+<!-- page 167 -->
 
 ## **APPENDIX C** **Ethical Organizational Climate**
 
@@ -3417,22 +2260,22 @@ Instructions: Thinking about the culture of the organization for which you are c
 
 ## **1 = Strongly Disagree, 2 = Disagree, 3 = Somewhat** **Disagree, 4 = Neutral, 5 = Slightly ** **Agree, 6 = Agree, 7** **=** **Strongly Agree**
 
-|   |   | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Ethical issues are taken into consideration when decisions are made. |   |   |   |   |   |   |   |
-| 2 | When decisions are made, we talk about whether something is the "right thing to do." |   |   |   |   |   |   |   |
-| 3 | Ethics training is consistent with how employees actually perform their jobs. |   |   |   |   |   |   |   |
-| 4 | All employees are required to attend ethical training. |   |   |   |   |   |   |   |
-| 5 | Employees strictly follow the written code of ethics. |   |   |   |   |   |   |   |
-| 6 | The behaviour of employees is consistent with the company's ethical codes. |   |   |   |   |   |   |   |
-| 7 | An effort is made to search for applicants of a high moral standard. |   |   |   |   |   |   |   |
-| 8 | When we hire employees, we try to assess how they would handle ethical issues. |   |   |   |   |   |   |   |
-| 9 | A good effort is made to measure and track ethical behaviours. |   |   |   |   |   |   |   |
-| 10 | Employees receive positive feedback for making ethical decisions. |   |   |   |   |   |   |   |
-| 11 | When an unethical act occurs, employees take responsibility for their actions. |   |   |   |   |   |   |   |
-| 12 | Employees at all levels take responsibility for the outcomes of their actions. |   |   |   |   |   |   |   |
+| 1 | Ethical issues are taken into consideration when decisions are made. |  |  |  |  |  |  |  |
+| 2 | When decisions are made, we talk about whether something is the "right thing to do." |  |  |  |  |  |  |  |
+| 3 | Ethics training is consistent with how employees actually perform their jobs. |  |  |  |  |  |  |  |
+| 4 | All employees are required to attend ethical training. |  |  |  |  |  |  |  |
+| 5 | Employees strictly follow the written code of ethics. |  |  |  |  |  |  |  |
+| 6 | The behaviour of employees is consistent with the company's ethical codes. |  |  |  |  |  |  |  |
+| 7 | An effort is made to search for applicants of a high moral standard. |  |  |  |  |  |  |  |
+| 8 | When we hire employees, we try to assess how they would handle ethical issues. |  |  |  |  |  |  |  |
+| 9 | A good effort is made to measure and track ethical behaviours. |  |  |  |  |  |  |  |
+| 10 | Employees receive positive feedback for making ethical decisions. |  |  |  |  |  |  |  |
+| 11 | When an unethical act occurs, employees take responsibility for their actions. |  |  |  |  |  |  |  |
+| 12 | Employees at all levels take responsibility for the outcomes of their actions. |  |  |  |  |  |  |  |
 
-<!-- page 167 -->
+<!-- page 168 -->
 
 ## **APPENDIX D**
 
@@ -3476,11 +2319,12 @@ Organizational tenure was measured by the number of years the respondents had be
 
 **[**Less than 1 year**] [**1-5 years**] [**6-10 years**] [**11-15 years**] [**16-20 years**]** **[**21-25 years**] [**More than 25 years**]**
 
-<!-- page 168 -->
+<!-- page 169 -->
 
-## APPENDIX E Ethical Approval: Notre Dame University – Louaize
+## APPENDIX E
+Ethical Approval: Notre Dame University – Louaize
 
-![TH.R02 fig18](../figures/TH/TH.R02_fig18.jpg)
+![TH.R02 fig12](../figures/TH/TH.R02_fig12.jpg)
 
 ## **Notice of Institutional Review Board Approval **
 
@@ -3510,7 +2354,7 @@ Dr. Ghazi Asmar, AVPRGS
 
 M. A. Ghazi Asmar
 
-<!-- page 169 -->
+<!-- page 170 -->
 
 ## **APPENDIX F** **University of Bath: Application Route Checklist**
 
@@ -3524,17 +2368,17 @@ The Faculty has agreed on an ethical review process that has a fast track for th
 
 **Projects that fall outside of these categories will need to make a full submission to the Social Sciences ** **Research Ethics Committee.**
 
-|   |   | SECTION ONE |   |   |   |
+|  |  | SECTION ONE |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Name (PI or | Student and Supervisor) | Student: Amine Moussa Lead Supervisor: Gina Wisker |   |   |   |
-| Department | Second supervisor: Dan Davies School of Management Programme: DBA in Higher Education Management |   |   |   |   |
-| Project Title | Ethical Higher Education Management |   |   |   |   |
-|   |   | The Role of Ethical Leadership in Shaping Employee Work Outcomes |   |   |   |
-|   | Please tick the description that applies to your project: |   |   |   |   |
-|   | Externally funded research project | Consultancy |   | Unfunded research project |   |
-| Other (please specify) |   |   |   |   |   |
-|   | Please tick the description that applies to you: |   |   |   |   |
-| Staff |   | PhD | Masters |   |   |
+| Name (PI or | Student and Supervisor) | Student: Amine Moussa Lead Supervisor: Gina Wisker |  |  |  |
+| Department | Second supervisor: Dan Davies School of Management Programme: DBA in Higher Education Management |  |  |  |  |
+| Project Title | Ethical Higher Education Management |  |  |  |  |
+|  |  | The Role of Ethical Leadership in Shaping Employee Work Outcomes |  |  |  |
+|  | Please tick the description that applies to your project: |  |  |  |  |
+|  | Externally funded research project | Consultancy |  | Unfunded research project |  |
+| Other (please specify) |  |  |  |  |  |
+|  | Please tick the description that applies to you: |  |  |  |  |
+| Staff |  | PhD | Masters |  |  |
 
 ## **SECTION TWO**
 
@@ -3544,76 +2388,57 @@ Described below are 3 routes for ethical approval with corresponding research pr
 
 Provide the completed and signed documents as detailed to the REACH Secretary. If you have any queries as to which option to select, please contact the SSREC Secretary for guidance.
 
-<!-- page 170 -->
+<!-- page 171 -->
 
-![TH.R02 fig19](../figures/TH/TH.R02_fig19.jpg)
+![TH.R02 fig13](../figures/TH/TH.R02_fig13.jpg)
 
 ## **A.** **SUBMISSION OF EVIDENCE OF APPROVAL FROM ANOTHER UNIVERSITY ETHICS COMMITTEE ** **FOR REVIEW BY SSREC **
 
 **1** My research has received approval from another University Ethics Committee
 
-_
-
-,
-
-٠
-
-_
-
-•
+_,٠_•
 
 ## **DOCUMENTS TO SUBMIT TO SSREC:**
 
-This form
-
-Application and Approval letter from other University Ethics Committee
-
-N.B. Form B is not required
+- This form
+- Application and Approval letter from other University Ethics Committee
+- N.B. Form B is not required
 
 ## **B.** **FULL CONSIDERATION IS REQUIRED BY SSREC**
 
-| 2 | My research involves human subjects and does not take place in an NHS context |   |
+| 2 | My research involves human subjects and does not take place in an NHS context |  |
 | --- | --- | --- |
-| 3 | My research involves the collection human tissue that will be destroyed within a matter of hours or |   |
-|   | days and certainly no longer than a week. |   |
-| 4 | My research project involves analysis of secondary data originating from human subjects |   |
-| 5 | My research involves human subjects and takes place outside of the UK, and for which particular |   |
-|   | consideration needs to be given |   |
-| 6 | My research involves working with children and/or vulnerable adults |   |
-| 7 | My project takes place in an NHS context but has been categorised by NHS local R&D as a service |   |
-|   | evaluation, clinical audit, surveillance or usual practice. |   |
+| 3 | My research involves the collection human tissue that will be destroyed within a matter of hours or |  |
+|  | days and certainly no longer than a week. |  |
+| 4 | My research project involves analysis of secondary data originating from human subjects |  |
+| 5 | My research involves human subjects and takes place outside of the UK, and for which particular |  |
+|  | consideration needs to be given |  |
+| 6 | My research involves working with children and/or vulnerable adults |  |
+| 7 | My project takes place in an NHS context but has been categorised by NHS local R&D as a service |  |
+|  | evaluation, clinical audit, surveillance or usual practice. |  |
 
 ## **DOCUMENTS TO SUBMIT TO SSREC:**
 
-This form
-
-Form B & attachments
-
-Form C (Option 3 only)
-
-Evidence of consent to use secondary data for the purpose of the proposed project (Option 4 only)
-
-Confirmation the University Child Protection and Safeguarding Policy will be followed (Option 6 only)
-
-Confirmation of approval that study can be conducted at a specific NHS site (Option 7)
+- This form
+- Form B & attachments
+- Form C (Option 3 only)
+- Evidence of consent to use secondary data for the purpose of the proposed project (Option 4 only)
+- Confirmation the Universit[y Child Protection and Safeguarding Policy](http://www.bath.ac.uk/university-secretary/secretary/child-protection-safeguarding/) will be followed (Option 6 only)
+- Confirmation of approval that study can be conducted at a specific NHS site (Option 7)
 
 ## **C.** **FULL NHS REC CONSIDERATION IS REQUIRED BY THE APPROPRIATE NHS REC,** **SUBMISSION OF DOCUMENTS FOR NOTING BY SSREC **
 
-**8** My research meets the requirements for submission through the HRA IRAS system, that is, includes: access to NHS patients adults lacking capacity collection and storage of human tissue (i.e. human tissue **not **destroyed within a matter of hours or days and certainly no longer than a week). the use of ionising radiation a clinical trial of an investigation medicinal product (CTIMP)
+- **8** My research meets the requirements for submission through the HRA IRAS system, that is, includes: access to NHS patients adults lacking capacity collection and storage of human tissue (i.e. human tissue **not **destroyed within a matter of hours or days and certainly no longer than a week). the use of ionising radiation a clinical trial of an investigation medicinal product (CTIMP)
 
 ## **DOCUMENTS TO SUBMIT TO SSREC:**
 
-This form
+- This form
+- NHS REC approved study protocol, Participant information sheet and Consent form
+- Formal confirmation of NHS REC approval
+- Form C (if study involves collection and storage of human tissue)
+- Details of who is Sponsoring this project
 
-NHS REC approved study protocol, Participant information sheet and Consent form
-
-Formal confirmation of NHS REC approval
-
-Form C (if study involves collection and storage of human tissue)
-
-Details of who is Sponsoring this project
-
-<!-- page 171 -->
+<!-- page 172 -->
 
 ## **APPENDIX G**
 
@@ -3629,7 +2454,7 @@ in Shaping Employee Work Outcomes **SSREC reference number**: S21-055
 
 On behalf of the Committee, I am pleased to confirm that the Committee has noted the above research and the supporting documentation.
 
-Your application has received a favourable ethical opinion. However please be aware that a researcher (or supervisor in the case of UG or Masters students) is responsible for ensuring full GDPR compliance. Please seek further advice from dataprotectionqueries@lists.bath.ac.uk if you have any concerns.
+Your application has received a favourable ethical opinion. However please be aware that a researcher (or supervisor in the case of UG or Masters students) is responsible for ensuring full GDPR compliance. Please seek further advice from [dataprotection](mailto:dataprotection-queries@lists.bath.ac.uk)[queries@lists.bath.ac.uk](mailto:dataprotection-queries@lists.bath.ac.uk) if you have any concerns.
 
 If you intend to display recruitment posters/materials, please ensure you obtain the appropriate permission to do so from those who manage the location(s) you choose.
 
@@ -3641,7 +2466,7 @@ Kind regards
 
 On behalf of SSREC
 
-<!-- page 172 -->
+<!-- page 173 -->
 
 ## **APPENDIX H** **Email Sent to University Research Boards**
 
@@ -3667,7 +2492,7 @@ Best wishes,
 
 Amine Moussa
 
-<!-- page 173 -->
+<!-- page 174 -->
 
 ## **APPENDIX I**
 
@@ -3679,9 +2504,8 @@ Dear M. Moussa,
 
 Hope you are doing well as well. Your survey had a positive response from the Committee with 2 recommendations:
 
-1- Present yourself in the introductory paragraph ( I…. invite you to …)
-
-2- Remove point 3 of q11
+- 1- Present yourself in the introductory paragraph ( I…. invite you to …)
+- 2- Remove point 3 of q11
 
 You will receive the official letter on Friday by mail. You can send me the modifications once done so I can validate the document.
 
@@ -3693,13 +2517,13 @@ Best regards,
 
 Chargée d'analyse éthique des projets de recherche
 
-<!-- page 174 -->
+<!-- page 175 -->
 
 ## APPENDIX J
 
 ## Ethical Approval: Université Saint Joseph (USJ) De Beyrouth
 
-![TH.R02 fig20](../figures/TH/TH.R02_fig20.jpg)
+![TH.R02 fig14](../figures/TH/TH.R02_fig14.jpg)
 
 Comité d'éthique de la recherche
 
@@ -3729,7 +2553,7 @@ Campus des sciences médicales, rue de Damas B.P. 11-5076 Riad el Solh, Beyrouth
 
 www.usj.edu.lb
 
-<!-- page 175 -->
+<!-- page 176 -->
 
 **APPENDIX K**
 
@@ -3765,13 +2589,13 @@ is greatly appreciated.
 
 Here is the link to the electronic survey
 
-https://bathmanagement.az1.qualtrics.com/jfe/form/SV_bBkrsFx515uGvZk
+[https://bathmanagement.az1.qualtrics.com/jfe/form/SV_bBkrsFx515uGvZk](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbathmanagement.az1.qualtrics.com%2Fjfe%2Fform%2FSV_bBkrsFx515uGvZk&data=04%7C01%7Cam3186%40bath.ac.uk%7C04b4cef22b204cb4996108d90ae307fe%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637552792480150328%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=YGFvy2VJEMzf%2B1WYVBrXBBx88CuMs5R5PU0LGjss4RA%3D&reserved=0)
 
 Thank you for your contribution.
 
 175
 
-<!-- page 176 -->
+<!-- page 177 -->
 
 ## **APPENDIX L** **Email Sent From Haigazian University To The University Community**
 
@@ -3783,11 +2607,11 @@ The survey has been shared with our staff this morning.
 
 ## Good luck!
 
-![TH.R02 fig21](../figures/TH/TH.R02_fig21.jpg)
+![TH.R02 fig15](../figures/TH/TH.R02_fig15.jpg)
 
-Mexique Street, Kantari, Beirut, Lebanon www.haigazian.edu.lb
+Mexique Street, Kantari, Beirut, Lebanon[ www.haigazian.edu.lb](https://eur01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.haigazian.edu.lb%2F&data=04%7C01%7Cam3186%40bath.ac.uk%7C7b8e90fa15a84862653108d906332214%7C377e3d224ea1422db0ad8fcc89406b9e%7C0%7C0%7C637547639075354788%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=rsIzsu%2F0t3wclOT%2BShFZ4xxX7ttehJSMANGTi9BjzF0%3D&reserved=0)
 
-<!-- page 177 -->
+<!-- page 178 -->
 
 ## **APPENDIX M** **Email Correspondence with Arab Open University**
 
@@ -3819,7 +2643,7 @@ Best wishes, Amine
 
 **Sent:** Tuesday, April 13, 2021 12:35 PM
 
-**To:** Amine Moussa <amoussa@aou.edu.lb> **Subject:** RE: Survey for Doctoral Thesis
+**To:** Amine Moussa [<amoussa@aou.edu.lb>](mailto:amoussa@aou.edu.lb) **Subject:** RE: Survey for Doctoral Thesis
 
 Dear Mr. Moussa
 
@@ -3831,11 +2655,11 @@ Best Regards,
 
 Deputy Director for Academic Affairs Head of Antelias Study Center Arab Open University – Lebanon
 
-![TH.R02 fig22](../figures/TH/TH.R02_fig22.jpg)
+![TH.R02 fig16](../figures/TH/TH.R02_fig16.jpg)
 
-![TH.R02 fig23](../figures/TH/TH.R02_fig23.jpg)
+![TH.R02 fig17](../figures/TH/TH.R02_fig17.jpg)
 
-<!-- page 178 -->
+<!-- page 179 -->
 
 ## **APPENDIX N** **Email Received From MEU Confirming Dissemination of The Survey**
 
@@ -3847,7 +2671,7 @@ The survey reached the destination, and we are waiting for replies in the coming
 
 Best regards,
 
-![TH.R02 fig24](../figures/TH/TH.R02_fig24.jpg)
+![TH.R02 fig18](../figures/TH/TH.R02_fig18.jpg)
 
 Library Director **T:** +961 1 685800 x 121
 
@@ -3855,15 +2679,15 @@ M: +961 70 274874
 
 Ferdous Street, Sabtieh, Lebanon PO Box 90-481, Metn 1202-2040
 
-farid.khoury@meu.edu.lb http://meu.edu.lb
+[farid.khoury@meu.edu.lb](mailto:farid.khoury@meu.edu.lb) [http://meu.edu.lb](http://meu.edu.lb/)
 
-<!-- page 179 -->
+<!-- page 180 -->
 
 ## **APPENDIX O** **Email Sent From University Of Balamand To The University Community**
 
 Email sent from the University of Balamand acting provost to the university community on 28-APR-2021. Screenshot sent from a colleague at the university confirming the reception of the broadcast email.
 
-<!-- page 180 -->
+<!-- page 181 -->
 
 ## **APPENDIX P** **Opening Introduction To The Survey And The Consent Form**
 
@@ -3877,17 +2701,15 @@ The aim of this study is to explore the relationship between ethical leadership,
 
 You will be asked to complete a survey which should take around 8 minutes to complete. I guarantee that you cannot be identified from your responses as the survey is anonymous and has been designed to ask for general information only. Your responses will remain confidential and will be used for research purposes. Your participation is greatly appreciated.
 
-If you have any questions or concerns about the survey, please contact me, Amine Moussa (am3186@bath.ac.uk).
+If you have any questions or concerns about the survey, please contact me, Amine Moussa ([am3186@bath.ac.uk](mailto:am3186@bath.ac.uk)).
 
 ## Respondent's Consent:
 
 I hereby certify that by responding to this survey, I have given my full consent to participate in the research study and that my participation is voluntary. Any refusal to participate will involve no penalty or loss of benefits to which I am entitled. I may as well discontinue my participation at any time without giving a reason.
 
-[ ] I understand and want to participate in the study.
+[ ] I understand and want to participate in the study.[ ] I do not want to participate in the study.
 
-[ ] I do not want to participate in the study.
-
-<!-- page 181 -->
+<!-- page 182 -->
 
 ## **APPENDIX Q** **Personalised Reminder Email**
 
@@ -3904,5 +2726,3 @@ Would you please complete it if you haven't already? It should take around eight
 Here is the link to the survey: https://bathmanagement.az1.qualtrics.com/jfe/form/SV_aghwK2jglTBC4D4
 
 Thank you very much, Amine Moussa
-
-<!-- page 182 -->

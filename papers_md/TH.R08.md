@@ -4,9 +4,7 @@
 
 ## **DOCTOR OF BUSINESS (DBA)**
 
-The insertion of large management consultancy firms in the higher education sector of
-
-the GCC : the significance of power
+The insertion of large management consultancy firms in the higher education sector ofthe GCC : the significance of power
 
 Johnson, Rachel
 
@@ -14,7 +12,7 @@ Award date: 2019
 
 Awarding institution: University of Bath
 
-Link to publication
+[Link to publication](https://researchportal.bath.ac.uk/en/studentTheses/f45d9515-3c5e-46ea-9e60-04fb754981f0)
 
 ## **Alternative formats**
 
@@ -28,7 +26,7 @@ If you consider content within Bath's Research Portal to be in breach of UK law,
 
 Download date: 11. Oct. 2025
 
-<!-- page 1 -->
+<!-- page 2 -->
 
 ## **THE INSERTION OF LARGE MANAGEMENT ** **CONSULTANCY FIRMS IN THE HIGHER EDUCATION ** **SECTOR OF THE GCC: THE SIGNIFICANCE OF POWER**
 
@@ -48,7 +46,7 @@ This thesis may be made available for consultation within the University Library
 
 Signed on behalf of the Doctoral College:
 
-<!-- page 2 -->
+<!-- page 3 -->
 
 ## **ACKNOWLEDGEMENTS**
 
@@ -72,569 +70,101 @@ Professor Rajani Naidoo played a vital role in the production of this thesis, gi
 
 ![TH.R08 fig03](../figures/TH/TH.R08_fig03.jpg)
 
-<!-- page 3 -->
+<!-- page 4 -->
 
 ## **TABLE OF CONTENTS**
 
-Abstract
-
-Part 1 Introduction, Literature Review, Theoretical and Methodological Approaches
-
-1.
-
-Introduction
-
-a.
-
-Preamble: a personal account of the research question
-
-b.
-
-The Research Agenda
-
-c.
-
-Connecting Research Domains
-
-d.
-
-Theoretical Framework of Power
-
-e.
-
-The Structure of the Thesis
-
-2.
-
-Literature Review: Bringing Different Fields Together
-
-a.
-
-Introduction
-
-b.
-
-Part One: Connections
-
-i. Large Management Consultancy Firms as Global Professional
-
-Service Firms
-
-ii. Global Professional Service Firms and Transnational Governance
-
-iii. Education Governance in the Context of Globalisation
-
-iv. Power, Knowledge, and Neoliberalism
-
-v. Management Consultancy and Higher Education
-
-vi. The Implication of Management Consultancy in the
-
-Transnational Governance of Education
-
-vii. Postcolonial Theory, the GPSF and Higher Education
-
-viii. Conclusion to Part One
-
-c.
-
-Part Two: Management Consultancy
-
-i. Definitions
-
-ii. Status as a Profession
-
-iii. The Evaluation and Value of Management Consulting
-
-iv. Knowledge and Expertise
-
-v. Conclusion to Part Two
-
-d.
-
-Conclusion: Utility of the Literature for This Study
-
-3.
-
-Theoretical Framework: The Powercube Integrated with a Postcolonial Analytic
-
-a.
-
-Introduction
-
-b.
-
-An Analytical Framework to Identify and Examine Power
-
-c.
-
-The Postcolonial Analytic as a Power-sensitive Tool
-
-d.
-
-Conclusion: The Application of the Framework in This Study
-
-4.
-
-Research Strategy
-
-a.
-
-Introduction
-
-b.
-
-Methodological Framework: A theoretical account of the ontological
-
-and epistemological underpinnings of my qualitative study
-
-i. Critical Realism and the Powercube
-
-ii. Critical Discourse Analysis
-
-iii. Positionality
-
-iv. Access
-
-v. Interviewing Roles
-
-vi. Seeing Like a Consultant
-
-<!-- page 4 -->
-
-vii. The Analysis Process
-
-viii. Politics and Ethics in Research
-
-ix. Data and its Status
-
-c.
-
-Operationalisation
-
-i. Data Sampling Strategy
-
-ii. Desk-based Study
-
-iii. Interviews: Sampling and Access
-
-iv. Interviews: Data Collection
-
-v. Interview Questions
-
-vi. Interviews Conducted
-
-5.
-
-Methods of Analysis
-
-a.
-
-Introduction
-
-b.
-
-Methodological Context of Analysis
-
-i. Bricolage
-
-ii. Abduction and Reflexivity
-
-c.
-
-Interviews
-
-i. Interview Transcription
-
-ii. Use of the Transcripts in the Discussion of the Findings
-
-d.
-
-Stages of Analysis of Interview Data
-
-e.
-
-Techniques of Critical Discourse Analysis
-
-f.
-
-Conclusion: Structure of the Second Part of the Thesis
-
-Part Two: The Regional Context and Findings
-
-6.
-
-Consultancy Firms
-
-a.
-
-Introduction
-
-b.
-
-The Colonial and Post-colonial Heritage of the GCC
-
-c.
-
-Changes in the Political Context of the GCC
-
-d.
-
-Changes to Higher Education in the GCC
-
-The GCC: Postcolonial Heritage, Autocracy, Higher Education, and Large Management i. Expenditure
-
-ii. Higher Education Enrollment
-
-iii. Differences Within the Region
-
-e. f.
-
-The Scale and Impact of Management Consultancy in the GCC Context… Large Management Consultancy Firms in the GCC Higher Education
-
-Sector
-
-i. Price Waterhouse Coopers (pwc)
-
-ii. Deloitte
-
-iii. KPMG
-
-iv. The Boston Consulting Group
-
-v. McKinsey and Company
-
-vi. Ernst and Young
-
-g.
-
-Conclusion
-
-7.
-
-The Centre and the Periphery: Issue Distinction, Linked Ecologies, and Scale
-
-a.
-
-Introduction
-
-b.
-
-Created Spaces and the Transnational Vertical
-
-c.
-
-Contextualisation: Production of Hinges i. North America, United Kingdom, Australia
+AbstractPart 1 Introduction, Literature Review, Theoretical and Methodological Approaches1.Introductiona.Preamble: a personal account of the research questionb.The Research Agendac.Connecting Research Domainsd.Theoretical Framework of Powere.The Structure of the Thesis2.Literature Review: Bringing Different Fields Togethera.Introductionb.Part One: Connectionsi.
+Large Management Consultancy Firms as Global ProfessionalService Firmsii.
+Global Professional Service Firms and Transnational Governance
+iii.
+Education Governance in the Context of Globalisationiv.
+Power, Knowledge, and Neoliberalismv.
+Management Consultancy and Higher Educationvi.
+The Implication of Management Consultancy in theTransnational Governance of Educationvii.
+Postcolonial Theory, the GPSF and Higher
+Educationviii.
+Conclusion to Part Onec.Part Two: Management Consultancyi.
+Definitionsii.
+Status as a Professioniii.
+The Evaluation and Value of Management Consultingiv.
+Knowledge and Expertisev.
+Conclusion to Part Twod.Conclusion: Utility of the Literature for This Study3.Theoretical Framework: The Powercube
+Integrated with a Postcolonial Analytica.Introductionb.An Analytical Framework to Identify and Examine Powerc.The Postcolonial Analytic as a Power-sensitive Toold.Conclusion: The Application of the Framework in This Study4.Research Strategya.Introductionb.Methodological Framework: A theoretical account of the ontologicaland epistemological underpinnings of my qualitative studyi.
+Critical Realism and the Powercube
+ii.
+Critical Discourse Analysisiii.
+Positionalityiv.
+Accessv.
+Interviewing Rolesvi.
+Seeing Like a Consultant
 
 <!-- page 5 -->
 
-d.
-
-A Linked Ecology from Particular Parts of the World
-
-91
-
-i. The 'World' Within Resources for North America, United
-
-Kingdom, and Australia
-
-91
-
-ii. The GCC refracted by the 'World'
-
-95
-
-e.
-
-Conclusion
-
-99
-
-8.
-
-The Internalisation of the Functions of the University
-
-a.
-
-Introduction
-
-101
-
-b.
-
-Adopting features and functions of the University
-
-101
-
-i. Co-option: structures, image/identity, and collaboration
-
-102
-
-ii. 'Academic norms'
-
-105
-
-iii. Education and Professional Training Functions
-
-106
-
-iv. Research functions
-
-107
-
-c.
-
-Due Diligence
-
-110
-
-i. Project work with clients
-
-110
-
-ii. Knowledge generation and expert insight
-
-111
-
-iii. Methodology
-
-113
-
-iv. Conclusion
-
-117
-
-d.
-
-Legitimizing Knowledge and Expertise
-
-117
-
-i. Size, reach, image and reputation
-
-117
-
-ii. Networks and Contextual Experience
-
-118
-
-e.
-
-Conclusion
-
-120
-
-9.
-
-Requests for Proposals
-
-a.
-
-Introduction
-
-123
-
-b.
-
-Requests for Proposals and the powercube
-
-124
-
-c.
-
-Markets and Revenue Streams
-
-125
-
-i. Firm motivations
-
-125
-
-ii. Consultant motivations
-
-126
-
-d.
-
-Networks and Networked Reputation
-
-130
-
-i. Networks of Large Firms
-
-130
-
-ii. Client and Consultant Networks
-
-130
-
-iii. Trust Networks and Networked Reputation
-
-133
-
-iv. Summary
-
-134
-
-e.
-
-Contracting and Contracts, Invitations and Negotiations
-
-134
-
-i. Contracting and Contracts
-
-135
-
-ii. Invitations and Negotiations
-
-136
-
-iii. Capacity, Collaboration and Control
-
-137
-
-f.
-
-Conclusion
-
-138
-
-10.
-
-Realizing the Rules of Recognition
-
-a.
-
-Introduction
-
-140
-
-b.
-
-Neoliberalism and the Market for Management Consultancy in the
-
-c.
-
-Higher Education Sector of the GCC Powercube: Neoliberalism as hegemonic
-
-141 142
-
-d.
-
-Temporality, Teleology, and Tone: Private Investment and Economic
-
-Benefit
-
-145
-
-e.
-
-Realising the Rules of Recognition
-
-148
-
-f.
-
-Conclusion
-
-152
+vii.
+The Analysis Processviii.
+Politics and Ethics in Researchix.
+Data and its Statusc.Operationalisationi.
+Data Sampling Strategyii.
+Desk-based Studyiii.
+Interviews: Sampling and Accessiv.
+Interviews: Data Collectionv.
+Interview Questionsvi.
+Interviews Conducted5.Methods of Analysisa.Introductionb.Methodological Context of Analysisi.
+Bricolageii.
+Abduction and Reflexivityc.Interviewsi.
+Interview Transcriptionii.
+Use of the Transcripts in the Discussion of the Findingsd.Stages of Analysis of Interview Datae.Techniques of Critical Discourse Analysisf.Conclusion: Structure of the Second Part of the ThesisPart Two: The Regional Context and Findings6.Consultancy Firmsa.Introductionb.The Colonial and Post-colonial Heritage of the GCCc.Changes in the Political Context of the GCCd.Changes to Higher Education in the GCCThe GCC: Postcolonial Heritage, Autocracy, Higher Education, and Large Management
+i.
+Expenditureii.
+Higher Education Enrollmentiii.
+Differences Within the Regione.
+f.The Scale and Impact of Management Consultancy in the GCC Context…
+Large
+Management Consultancy Firms in the GCC Higher EducationSectori.
+Price Waterhouse Coopers (pwc)ii.
+Deloitteiii.
+KPMGiv.
+The Boston Consulting Groupv.
+McKinsey and Companyvi.
+Ernst and Youngg.Conclusion7.The Centre and the Periphery: Issue Distinction, Linked Ecologies, and Scalea.Introductionb.Created Spaces and the Transnational Verticalc.Contextualisation: Production of Hinges
+i.
+North America, United Kingdom, Australia
 
 <!-- page 6 -->
 
-a.
-
-Introduction
-
-154
-
-b.
-
-Identification of the Research Question: Connections
-
-154
-
-c.
-
-The Analytical Power of the Powercube
-
-156
-
-d.
-
-Detailed Summary of Findings
-
-158
-
-e.
-
-Summary of Key Scholarly Contributions
-
-160
-
-f.
-
-Practical Implications
-
-160
-
-g.
-
-Research Limitations and Future Research
-
-162
-
-Bibliography
-
-163
-
-Appendixes
-
-1.
-
-Management Consultancy Resources Used
-
-a.
-
-Anglosphere
-
-179
-
-b.
-
-GCC
-
-182
-
-2.
-
-Example of Critical Discourse Analysis Method
-
-185
-
-3.
-
-Critical Discourse Analysis – Evidence for Chapter Seven
-
-a.
-
-North America, United Kingdom, Australia
-
-195
-
-b.
-
-GCC
-
-196
-
-4.
-
-Checklists and Categorisations (Evidence for Chapter 8)
-
-200
+d.A Linked Ecology from Particular Parts of the World91i.
+The 'World' Within Resources for North America, UnitedKingdom, and Australia91ii.
+The GCC refracted by the 'World'95e.Conclusion998.The Internalisation of the Functions of the Universitya.Introduction101b.Adopting features and functions of the University101i.
+Co-option: structures, image/identity, and collaboration102ii.
+'Academic norms'105iii.
+Education and Professional Training Functions106iv.
+Research functions107c.Due Diligence110i.
+Project work with clients110ii.
+Knowledge generation and expert insight111iii.
+Methodology113iv.
+Conclusion117d.Legitimizing Knowledge and Expertise117i.
+Size, reach, image and reputation117ii.
+Networks and Contextual Experience118e.Conclusion1209.Requests for Proposalsa.Introduction123b.Requests for Proposals and the powercube124c.Markets and Revenue Streams125i.
+Firm motivations125ii.
+Consultant motivations126d.Networks and Networked Reputation130i.
+Networks of Large Firms130ii.
+Client and Consultant Networks130iii.
+Trust Networks and Networked Reputation133iv.
+Summary134e.Contracting and Contracts, Invitations and Negotiations134i.
+Contracting and Contracts135ii.
+Invitations and Negotiations136iii.
+Capacity, Collaboration and Control137f.Conclusion13810.Realizing the Rules of Recognitiona.Introduction140b.Neoliberalism and the Market for Management Consultancy in thec.Higher Education Sector of the GCC
+Powercube: Neoliberalism as hegemonic141
+142d.Temporality, Teleology, and Tone: Private Investment and EconomicBenefit145e.Realising the Rules of Recognition148f.Conclusion152
 
 <!-- page 7 -->
+
+a.Introduction154b.Identification of the Research Question: Connections154c.The Analytical Power of the Powercube
+156d.Detailed Summary of Findings158e.Summary of Key Scholarly Contributions160f.Practical Implications160g.Research Limitations and Future Research162Bibliography163Appendixes1.Management Consultancy Resources Useda.Anglosphere179b.GCC1822.Example of Critical Discourse Analysis Method1853.Critical Discourse Analysis –
+Evidence for Chapter Sevena.North America, United Kingdom, Australia195b.GCC1964.Checklists and Categorisations (Evidence for Chapter 8)200
+
+<!-- page 8 -->
 
 ## **ABSTRACT**
 
@@ -642,7 +172,7 @@ Since 2000, global professional service firms have expanded their operations in 
 
 The study highlights how strategies and mechanisms used draw on different 'forms' of power and how power operates 'spatially' to create and claim markets, client networks and contracts. The 'scale' of power is dynamic and transformative; the dynamic reflects historical and contemporary geographical power relations and it draws global centres into local peripheries to expose nationally bounded systems to transnationally circulating agendas. Firms propose decontextualized and homogeneous views of the GCC context and its problems and apply to this a generic 'panacea' of diagnosis and solution. This panacea is informed by firm experiences in historical centres of higher education and cognitive assumptions associated with the broad concept of neoliberalism. The outcomes augur transformation of the purpose, organisation, and operation of higher education in the GCC. The research concludes with policy and practice recommendations for GCC clients and consultants relating to contract formation and execution, and business models.
 
-<!-- page 8 -->
+<!-- page 9 -->
 
 ## **CHAPTER ONE**
 
@@ -658,11 +188,11 @@ Governments across the GCC are making efforts to expand supply and demand for hi
 
 My original intention was to contribute to this literature with an examination of the significance of the home-host dyad to the management of universities with IBCs. This idea involved conceptualising the IBC as part of a 'whole structure' that operated across and within (at least
 
-^1^ http://cbert.org/resources-data/branch-campus/ [Accessed 12th August 2019]
+> ^1^ http://cbert.org/resources-data/branch-campus/ [Accessed 12th August 2019]
 
-^2^ Discussion of these issues runs throughout the thesis because the massive and rapid expansion and reorientation of the GCC higher education sector (providers and participation) can be linked to the reasons for the hire of management consulting firms – both large and small by governments and institutions.
+> ^2^ Discussion of these issues runs throughout the thesis because the massive and rapid expansion and reorientation of the GCC higher education sector (providers and participation) can be linked to the reasons for the hire of management consulting firms – both large and small by governments and institutions.
 
-<!-- page 9 -->
+<!-- page 10 -->
 
 two) national borders. This would have been an original theoretical framework to use in a muchneeded detailed study *in situ*. The idea drew on lessons emerging from emerging critical research on **multinational organisations and global professional service firms**. This research examines the dynamics and tensions of organisations that organise both locally and across national borders and identifies postcolonial theory as useful in understanding the patterns of relationship involved. The patterns chart the continued dominance of geographical centres of economic and political power and suggest continued exploitation of the 'periphery' for corporate gain. The higher education literature also describes historical centres of academic power, and these lie in the same places.
 
@@ -673,12 +203,11 @@ It was when preparing for research on the 'university with IBC' that I came acro
 Despite the concentration of revenue generating activity in North America and Europe, management consultancy has a long history in the GCC dating back over 90 years. The growth of management consultancy in the region has intensified such that it now generates a significant proportion of total global revenues and a sum disproportionate to the geographical size of the region. For example, here are statistics that show the cumulative growth in number of client engagements in the region that were achieved by McKinsey over the first 17 years of this century:
 
 ![TH.R08 fig04](../figures/TH/TH.R08_fig04.jpg)
-
-^ ^ ^3^ https://www.pwc.com/m1/en/media-centre/2016/press-releases/sally-jeffery-announcementenglish.pdf [Last accessed 19th July 2019]
+> ^ ^ ^3^ [https://www.pwc.com/m1/en/media-centre/2016/press-releases/sally-jeffery-announcement](https://www.pwc.com/m1/en/media-centre/2016/press-releases/sally-jeffery-announcement-english.pdf)[english.pdf](https://www.pwc.com/m1/en/media-centre/2016/press-releases/sally-jeffery-announcement-english.pdf) [Last accessed 19th July 2019]
 
 8
 
-<!-- page 10 -->
+<!-- page 11 -->
 
 For the DBA research assignments, I had already completed work related to professional service firms. I had probed questions around the status of universities as professional organisations, universities as organisations comprised of academic profession and service profession communities, and as organisations responsible for establishing the knowledge base and awarding credential to professional practitioners. In the fields of international business and organisation research focussing on the professions studies sometimes referred to the historical role of the university in professional formation and governance of professions. These fields have recently highlighted how global professional service firms are coopting and forming allegiances with university business schools to further their cooperate interests. However, the above PR announcement seemed to *turn such a relationship on its head*. Higher education and universities were becoming additionally useful as a source of income and yet also, by accessing higher education and universities *as clients*, the large professional service firms seemed to have gained the potential to play a role in the function, operation, and purposes of higher education and universities. This then raised questions about whether such potential is being realised and if so how, and questions about why universities are using such firms, how that relationship works, and what are the outcomes. Furthermore, I found only one piece of extensive research on the work of global professional service firms in universities, and this was a study based outside the GCC region.
 
@@ -686,9 +215,9 @@ According to the literature, the historical organisation and management of unive
 
 Yet further inquiries into the client base and client projects of large professional service firms such as *pwc* revealed that their work in the GCC higher education space stretches far beyond questions of the organisation and management of universities. It concerns curriculum, student learning, and research strategies and outcomes - issues that have traditionally been the realm of academics and continue to be fought over as academic concerns despite the context of increasingly executive managerial forms of university leadership. Furthermore, the large firms are active at government level guiding Ministries and influencing higher education policy, the development of higher education systems, structures and purposes, and principles and tools of higher education governance. They are also being hired by investment companies to ensure alignment between capital interests and private university strategy and operations. Project work included^4^ , for example:
 
-^4^ The evidence for this is in personally obtained firm responses to clients' requests for proposals and is not in the public domain.
+> ^4^ The evidence for this is in personally obtained firm responses to clients' requests for proposals and is not in the public domain.
 
-<!-- page 11 -->
+<!-- page 12 -->
 
 ## Example 1
 
@@ -698,93 +227,66 @@ A 20-year strategy to improve teaching and research and increase global reputati
 
 [The firm] was engaged by [a university] to undertake a quick assessment of their current practices across five key areas:
 
-Operating and governance models and organizational structure
-
-Research performance and impact
-
-Digital technologies enabling support services and teaching and learning
-
-Efficiency and effectiveness of back office functions
-
-Student experience
+- Operating and governance models and organizational structure
+- Research performance and impact
+- Digital technologies enabling support services and teaching and learning
+- Efficiency and effectiveness of back office functions
+- Student experience
 
 ## Example 3
 
 [The firm] was engaged by [the university] to provide an internal and external perspective on the University's current position in the market. We identified and prioritised opportunities for the future and provided implementation considerations for delivering those opportunities identified as the highest priority. We conducted the review of [the university] across the following 6 areas to understand its current position:
 
-Governance, People & Operating Model
-
-Research and Enterprise
-
-Curriculum and Programs
-
-Student Experience & Employability
-
-Education Technology
-
-Enabling Activities
+- Governance, People & Operating Model
+- Research and Enterprise
+- Curriculum and Programs
+- Student Experience & Employability
+- Education Technology
+- Enabling Activities
 
 ## Example 4
 
 [The firm] was engaged by an investor to undertake a strategic review of a [GCC] based university in order understand the value that the University brings and the potential benefits to the investor group. We conducted the review of the university across 7 areas to understand the alignment of the University with the group and to assess its performance qualitatively:
 
-Strategic alignment
+- Strategic alignment
+- Operating model and partnering strategy
+- Program and curriculum development
+- Enrolment management
+- · Academic planning and quality assurance
+- Education delivery
+- Educational and institutional technology
 
-Operating model and partnering strategy
-
-Program and curriculum development
-
-Enrolment management
-
-· Academic planning and quality assurance
-
-Education delivery
-
-Educational and institutional technology
-
-<!-- page 12 -->
+<!-- page 13 -->
 
 ## Example 5
 
 [The firm] was engaged to design a new operating and governance model based on the new strategy. [The firm] was responsible for the following activities:
 
-Strategy and organizational design review.
-
-Benchmarking best practices in key universities
-
-Design operating and governance models
-
-Deep dives into: Strategy Execution, Educational Technologies and Shared Services
-
-Mapping of students' journeys and partners' journeys
-
-Education technologies recommendations for innovation
-
-Development of policies, procedures and student learning agreements
+- Strategy and organizational design review.
+- Benchmarking best practices in key universities
+- Design operating and governance models
+- Deep dives into: Strategy Execution, Educational Technologies and Shared Services
+- Mapping of students' journeys and partners' journeys
+- Education technologies recommendations for innovation
+- Development of policies, procedures and student learning agreements
 
 ## Example 6
 
 [The firm] was engaged by the [Ministry] to design the 10-year higher education strategy for [GCC country]. [The firm] was responsible for the following activities:
 
-Conducting an in-depth current state assessment of the landscape of higher education in [GCC country] and in-depth benchmarking.
-
-Identifying the skills gap in the country through a supply/demand analysis.
-
-Developing the strategic priorities through analysing the higher education system governance including its operating model, regulatory framework, and funding system.
-
-Addressing institutional and regulatory arrangements necessary for strategy implementation.
-
-Aligning all strategies with [GCC country's] evolving research agenda and national priorities.
-
-Identifying key stakeholders and prioritised initiatives with timelines and co dependencies.
-
-Projected implementation budgetary requirements.
+- Conducting an in-depth current state assessment of the landscape of higher education in [GCC country] and in-depth benchmarking.
+- Identifying the skills gap in the country through a supply/demand analysis.
+- Developing the strategic priorities through analysing the higher education system governance including its operating model, regulatory framework, and funding system.
+- Addressing institutional and regulatory arrangements necessary for strategy implementation.
+- Aligning all strategies with [GCC country's] evolving research agenda and national priorities.
+- Identifying key stakeholders and prioritised initiatives with timelines and co dependencies.
+- Projected implementation budgetary requirements.
 
 This resulted in a holistic higher education strategy for [GCC country] which included thematic and functional objectives stressing on the need to balance access, quality, and affordability, while addressing key challenges facing the sector including the employability of graduates, diversity of the offerings, alignment with national priorities and potential for attracting international students.
 
 So, as a result of the chance discovery of a PR announcement, my research interests were transformed. In order that the investigation move from what would otherwise have been a piece of journalism, I needed to identify and ground the study theoretically. However, no single theory or theoretical research field seemed sufficiently comprehensive to offer focus for the broad interests of the study. Therefore, my challenge at the outset was to bring different theoretical and research fields together with some measure of coherence and, furthermore, to identify issues where research would be justified because of absences or weaknesses. The remainder of the introduction to the thesis sets out how I addressed this challenge.
 
-<!-- page 13 -->
+<!-- page 14 -->
 
 ## **The Research** **Agenda**
 
@@ -796,13 +298,13 @@ The theoretical foundations and critical interests of the study derive from an i
 
 It results in the following central research question and more nuanced sub-questions:
 
-What are the strategies and mechanisms used by large management consultancy firms to insert themselves in the GCC higher education sector? o What are the characteristics and dynamics the of the mechanisms and strategies?o What are the politics and interests at stake?o What is contingent or conditional, what is gained or lost when these strategies and mechanisms are employed?o What are the outcomes and the consequences of this work in terms of transnational governance, the implementation of practices associated with neoliberalism, and our understanding of the purpose, organisation and function of the university?o To what extent is a power-sensitive theoretical framework useful in understanding these strategies and mechanisms?o How are historical centre-periphery relations reflected in the work of large management consultancy firms in the higher education sector of the GCC?
+- What are the strategies and mechanisms used by large management consultancy firms to insert themselves in the GCC higher education sector? o What are the characteristics and dynamics the of the mechanisms and strategies?o What are the politics and interests at stake?o What is contingent or conditional, what is gained or lost when these strategies and mechanisms are employed?o What are the outcomes and the consequences of this work in terms of transnational governance, the implementation of practices associated with neoliberalism, and our understanding of the purpose, organisation and function of the university?o To what extent is a power-sensitive theoretical framework useful in understanding these strategies and mechanisms?o How are historical centre-periphery relations reflected in the work of large management consultancy firms in the higher education sector of the GCC?
 
 ## **Connecting Research Domains**
 
 In this section I present an overview of the connections between the two sets of literatures and their application to this study in terms of the above set of questions. The literatures are reviewed in detail in the following chapter.
 
-<!-- page 14 -->
+<!-- page 15 -->
 
 A literature on the governance of education in the context of globalisation (Brown, Lauder, Ashton, 2011; Lauder et al, 2012; Robertson, 2003; 2010; 2012; 2017; Dale and Robertson, 2007; Robertson and Dale, 2006; 2008; Verger and Robertson, 2012) has parallels with the studies of the dynamics and influences of the global professional service firm that are found in the international organisation, management and business literatures.
 
@@ -814,7 +316,7 @@ In broadening the concept of power, we can refer to, and extend Lukes' (1974) we
 
 Within the broad discussions of governance in the context of globalization we also find arguments about how the command of knowledge production and claims to expertise are key power strategies (e.g. Boussebaa and Faulconbridge, 2018; Reed, 1996; 2012; Scott, 2008). Although the literatures discuss the relationship between knowledge and expertise and power (for which see Stehr and Adolf, 2018), this connection has not stimulated interest in the relationships between the GPSF and the university as two knowledge-intensive types of organisations. Similarly, there has been no attention paid to this relationship in discussions of transnational governance and questions of how different actors come to have influence.
 
-<!-- page 15 -->
+<!-- page 16 -->
 
 The literature does note that universities and large management consultancy firms have had longstanding relationships – mostly in connection with the university business school (Engwall, 2012; Kipping and Clark, 2012; Sturdy and Gabriel, 2000; Suddaby and Greenwood, 2001). However, recent research sees the boundaries of the relationship changing. We see how large management consultancy firms are starting to take on the role and functions of the university in knowledge production and in the training and credentialing of professionals. So, if the large management consultancy firms are beginning to displace the university as centre of knowledge production and qualification then we need to ask critical questions concerning 'due diligence' (Engwall, 2012; Suddaby and Greenwood, 2001) and the public good (Calhoun, 2006; Marginson, 2011) and to see what 'knowledge and expertise' is being drawn on. We also need to see how the knowledge and expertise of the large management consultancy firms is applied inside the higher education sector, why it is sought out within the sector, and what impact it has. These two issues – the dislocation of higher education and its colonisation by large management consultancy firms – are critical to an understanding of the sources and patterns of influence within transnational governance.
 
@@ -824,7 +326,7 @@ Finally, there is shared attention in the two literatures to the significance to
 
 In this study power is conceptualised using an analytical framework called the *powercube*. This three-dimensional framework incorporates, as one dimension, the three faces of power proposed by Lukes (1974). In the context of the *powercube* these three faces are referred to as visible, hidden, and invisible forms of power. The framework also introduces power as operating in a spatial dimension and a scalar dimension. Power operates to create, claim, close and transform space, and it operates in different geographies, from the local to national, regional and global. Moreover, power operates dynamically and in interaction so that different forms of power work differently across spaces and scales and have different transformative effects. However, the framework of the *powercube* omits a critical analytic to understand power relations between spaces and geographies. Thus in order to address questions of historical and contemporary centreperiphery power relations I therefore draw into the framework a postcolonial analytic and powersensitive tools derived from critical discourse theory. The latter are highly relevant to examination of 'invisible' forms of power – forms of power that shape ideas and norms.
 
-<!-- page 16 -->
+<!-- page 17 -->
 
 ## **The structure of the thesis**
 
@@ -846,7 +348,7 @@ The thesis is structured in two parts. The first part of the thesis comprises th
 
 **Chapter Six** develops an analysis of the GCC context in which we can see how its political economy was, and continues to be, set in global relation to the 'anglosphere'. The analysis is structured by themes relevant to the research. These are the colonial and postcolonial heritage of the GCC, the impact of globalization on the system of autocratic rule in the GCC nations, how higher education sector in the GCC is changing, and what we know about the development of management consultancy in the GCC. The Chapter draws on desk-based research as an evidence base because there is little research work on the political economy of the GCC in these terms. It concludes with a summary of how the themes link together under the broad terms of neoliberalism, neo-
 
-<!-- page 17 -->
+<!-- page 18 -->
 
 imperialism, and economic /social globalisation. We see how reform has focused on enriching the private sector and private wealth, and on modernisation around technology, physical infrastructure, and public services. Within this reform governments have sought to expand higher education. The expansion of higher education has been uneven in scale, speed, and success but it has been intensive and remarkable in relation to other parts of the world. Against the backdrop of reform, the management consultancy industry has grown dramatically and several of the large firms are identified as active in the higher education sector of the GCC.
 
@@ -858,7 +360,7 @@ In terms of the *powercube* this chapter identifies *invisible *forms of power s
 
 **Chapter Eight** addresses observations in the academic literature about the relationships between management consultancy firms and university business schools. It identifies that there are two key strategies used by the large management consultancies to claim a role for themselves in the 'space' that they have constructed discursively in the resources. The first is to generate knowledge about the higher education sector and the second is to adopt characteristics of universities. By creating structures in the image of academia and by collaborating and associating with academic institutions and academics, the large management consultancy firms cultivate an academic identity and imply academic warrant for their knowledge and expertise. The firms thus position themselves to claim an expert role with respect to the needs they propose are faced by the higher education sector. Under this analysis, what matters is not simply that management consultancies have internalized the functions of the university and eclipse and compete with academia in the production of knowledge and expertise. Rather, the firms are also positioned to colonise the higher education sector. Furthermore, in examination of the 'due diligence' demonstrated in this knowledge production process we can see that the business model of the firm both motivates and constrains knowledge production. Knowledge production by the large management consultancy firms is not a disinterested process of generating a public good for the good of the public. I suggest that in the higher education sector of the GCC clients use substitute criteria to evaluate the warrant of the knowledge and expertise of the firms. The substitute criteria are brand identity in terms of size and global reach and rich resources of human capital and knowledge management systems. However, clients and to some extent consultants saw that
 
-<!-- page 18 -->
+<!-- page 19 -->
 
 it is necessary to balance the resource of global reach with the ability to contextualise knowledge and expertise in terms of the GCC and the specifics of the higher education sector. All of this suggests that higher education clients should be more critical in their evaluation of the knowledge base and expertise of the large consultancy firms and more specific in requiring collaborations between the large firms with large resource base and the niche firms with expertise grounded in a contextualised and specialist understanding of the GCC higher education sector.
 
@@ -872,13 +374,13 @@ Using the framework of the *powercube*, requests for proposals are conceptualise
 
 In terms of the *powercube* we see how invisible, hidden, and visible forms of power serve to transform the GCC higher education space from a nationally enclosed sector focused on national needs, to being exposed to the globally circulating discourses of neoliberalism and the practical ideas that relate to this discourse. In terms of the *powercube* neoliberalism is a hegemonic form of power that operates dynamically and on a scale that is transformative in its impact on a space. This conclusion provides support for the argument that the large management consultancy firms
 
-<!-- page 19 -->
+<!-- page 20 -->
 
 are active as actors in the governance of higher education and are agents of the globalization of its governance.
 
 In the conclusion, **Chapter Eleven**, I review the empirical findings in relation to the research question and propose the implications for the university of the findings of this study and some practical steps forward. Finally, I discuss the limitations of the research and areas for future study.
 
-<!-- page 20 -->
+<!-- page 21 -->
 
 ## **CHAPTER TWO**
 
@@ -896,7 +398,7 @@ The first set of connections concern governance and neoliberalism. In the study 
 
 The second set of connections concern the need to provide empirical evidence around the two analyses above, and within this a need to attend to power. In both the field of education and in the international organisation, management and business literatures it is acknowledged that it is essential to identify and analyse the strategies and mechanisms by which actors such as large management consultancy firms gain positions of influence in the governance of social, economic and political affairs. Yet this has not been achieved in systematic detail. Critical accounts of
 
-<!-- page 21 -->
+<!-- page 22 -->
 
 governance in both literatures also point to the lack of attention to power, or a too narrow conception of power, in what are generally institutionalist accounts of how hard rules/laws and soft norms/standards are generated, diffused and implemented. The production of knowledge, gaining position to claim expertise, and gaining control of 'cognitive' agendas are considered power strategies and key means of influence.
 
@@ -906,21 +408,16 @@ Finally, both the higher education literature and the international organisation
 
 The literatures that provide for the above connections are discussed next in the following order
 
-Large Management Consultancy Firms as Global Professional Service Firms
+- Large Management Consultancy Firms as Global Professional Service Firms
+- Global Professional Service Firms and Transnational Governance
+- Education Governance in the Context of Globalisation
+- Power, Knowledge, and Neoliberalism
+- Management Consultancy and Higher Education
 
-Global Professional Service Firms and Transnational Governance
+<!-- page 23 -->
 
-Education Governance in the Context of Globalisation
-
-Power, Knowledge, and Neoliberalism
-
-Management Consultancy and Higher Education
-
-<!-- page 22 -->
-
-The Implication of Management Consultancy in The Transnational Governance of Education
-
-Postcolonial Theory, the GPSF and Higher Education
+- The Implication of Management Consultancy in The Transnational Governance of Education
+- Postcolonial Theory, the GPSF and Higher Education
 
 ## **Part One: Connections**
 
@@ -936,7 +433,7 @@ Third, the PSF emphasises **client relationships **and the customisation of spec
 
 Research on the PSF studies management and organisational strategies, structures, processes, and performance (Brock, 2006; Greenwood et al, 2005; Faulconbridge 2015; Somaya and Mawdsley, 2015), the expansion of jurisdiction or market share (Barratt and Hinings, 2015; Faulconbridge and Muzio 2011; Gardner, Anand, Morris 2008; Suddaby and Greenwood, 2001), the extensiveness of the client base (Hinings et al, 2015) and the encroachment of areas traditionally the domain of other organisations, such as professional formation (Faulconbridge and Muzio, 2011). A notable research theme identifies the rapid and intensive expansion of professional services firms so that some are now 'global giants' (Hinings et al, 2015). The PSFs have expanded in terms of size (employees, offices, annual revenue), sectors (client base/industry range) and geographical footprint to become **global** professional service firms (GPSF) (Boussebaa and Faulconbridge, 2016;
 
-<!-- page 23 -->
+<!-- page 24 -->
 
 Boussebaa and Faulconbridge, 2018; Boussebaa, Sturdy, Morgan 2013; Greenwood et al, 2010; Hinings et al, 2015; Morgan and Boussebaa, 2015). In the global context, PSFs additionally work with other transnational, international and multinational organisations (Brock, 2016; Faulconbridge, 2015). The GPSF is recognised as experiencing organisation and management issues that are different to multinational corporations in the manufacturing or retail sectors because of their knowledge-intensive work and the significance of professionalised human capital (Boussebaa and Morgan, 2014; Boussebaa, Morgan, Sturdy, 2014; Boussebaa, Sturdy, Morgan, 2012; Faulconbridge, 2015; Morris and Empson, 1998; Suddaby et al, 2008).
 
@@ -952,7 +449,7 @@ The argument is that the GSPFs jostle alongside other actors in a transnational 
 
 The work of Robertson, (2003; 2010; 2012; 2017), Dale and Robertson (2007), Robertson and Dale (2006; 2008) and Verger and Robertson (2012) proposes that to understand the governance of
 
-<!-- page 24 -->
+<!-- page 25 -->
 
 education (its funding, provision or delivery, ownership, and regulation) in the context of globalization it is necessary to conceptualise globalization as having a subject. That is, there are actors and agents which embed the global in regional, national, and sub-national boundaries. Processes oriented to global agendas and systems are brought to bear inside institutional domains, organisations and subjectivities that were previously constructed and oriented in national terms. Moreover, the actors and agents are multiple, including the formal state, international agencies and organisations, multinational companies, and private capital investors.
 
@@ -966,7 +463,7 @@ Dale and Robertson (2007) claim that with respect to governance of education in 
 
 Dale and Robertson (2007) identify a set of common 'cognitive assumptions' in the ideas, knowledge, expertise, discourse, and agenda-setting practices. These cognitive assumptions concern the role of neoliberal ideas and practices in the governance of education. The concept of neoliberalism involves an overarching philosophy of the use of the market as technology of governance, "distributing services and benefits according to the market logic of efficiency, competitiveness, and profitability" (Bockman, 2013: 14). It is a 'flexible credo' realised through an "improvised and shape-shifting repertoire of pro-corporate, pro-market programs, projects, and power-plays" (Peck et al, 2018: online). It operates "through a multiplicity of governing networks, nodes and modes that allow for … levels of contingency and context-specific variation" (Venugopal, 2015: 170). It "manifests itself differently in different places … worldwide and comes in many different and contradictory forms" (Bockman, 2013: 15).
 
-<!-- page 25 -->
+<!-- page 26 -->
 
 Venugopal (2015: 165) proposes that the concept of neoliberalism is 'controversial, incoherent and crisis-ridden', used as a 'constant master category' that involves 'a perplexing mix of overreach and under-specification', discursively useful in rendering negative judgments about a range of contemporary economic, social, political, spatial and cultural phenomena. As a result, he argues, neoliberalism is of diminished analytical value because it is neither distinct as a body of knowledge nor identifiable as a coherent real-world set of practices (p.178).
 
@@ -978,7 +475,7 @@ The normative, disciplinary ideas and the constitutionally grounded rules associ
 
 This argument and analysis are similar to recently emerging critical accounts in the international organisation, management, and business literature of the role of the GPSF in transnational
 
-<!-- page 26 -->
+<!-- page 27 -->
 
 governance. This literature highlights the central role of the GPSF "in choreographing the global economy and setting the rules of the game for capitalist activities" (Boussebaa and Faulconbridge, 2016: 105), the role played by professionals (accountants, consultants, lawyers) "in spreading business practices and in building the legal and fiscal infrastructure that supports global capitalism" (Muzio et al. 2013: 704) and the "specific ways in which GPSFs drive economic globalization in accordance with their corporate goals" (Boussebaa and Faulconbridge, 2018:2). Both sets of literature call for detailed studies that show which variants of neoliberal practice manifest according to the specifics of a given context and how this happens.
 
@@ -990,7 +487,7 @@ It is in this context that we identify the first reason for why the relationship
 
 **Knowledge intensive organisations: **Engwall and Kipping (2004) explain how an industry formed of business education, university business schools, and management consultancies creates, circulates, and commercialises management knowledge. Suddaby and Greenwood (2001: 937) argue that business schools "provide the cognitive foundation for the legitimacy of extant management knowledge and the ongoing need to continually update it". Sturdy and Gabriel (2000) draw a parallel between the growth of management consultancy internationally and the growth of exported 'anglosphere'-based university business education. They note that this is neglected in research on the dissemination of management ideas. Engwall (2012) argues that the business school has provided the connection between academia and management practice. More recently management consultancy has inserted itself into this relationship by serving to popularise and disseminate management knowledge to managers. Business schools have served as models for management consulting firms wishing to claim academic warrant for their knowledge and expertise. Kipping and Clark (2012) argue that this relationship is now rivalrous and management 'gurus' have come to replace academics not only as leading experts on business matters but also as producers of knowledge and expertise. This then raises questions about the standard and extent of academic 'due diligence' exercised by management consultants (Engwall, 2012; Suddaby and Greenwood, 2001).
 
-<!-- page 27 -->
+<!-- page 28 -->
 
 **Universities as clients: **Despite accounts in popular media which suggest a history and recent intensification of universities as *clients* of large management consultancy firms^5^ *very* little research on this client relationship exists. Ferlie, Musselin, and Andresani (2007) note that management consultancy is included in an 'international industry' that brings together buyers and sellers of public management reforms. They assert that "this would be an interesting theme to look at within the higher education context" (p.343). In the single study of the client relationship I have identified, Serrano-Verlade (2010) argues that the use of management consultancy by German universities is the effect of a turn to New Public Management (NPM). In her analysis management consultants struggle to claim authority for their knowledge and expertise because for academics it is seen as "biased and insufficiently reliable for scientific reasoning" (p.141); it lacks academic warrant. Consultants are not considered a peer but are tolerated as a temporary outsider. They serve as a buffer between academics and university managers in the implementation of NPM.
 
@@ -1000,19 +497,19 @@ Thus, existing research considers the significance of universities to management
 
 National systems of higher education and national social, economic, and political contexts vary. Given this, it is difficult to extrapolate from the predominantly nationally based higher education research (Kogan, 1996; Teichler, 2014) to identify global trends in the regulation, organisation, and management of universities and to consider the role of management consultancy in this (from the perspective of the university as either collaborator or a client). And, it is worth noting that studies of management consultancy in government or the public sector (e.g. Kipping and Saint Martin, 2005; Lapsley and Oldfield, 2001; Momani, 2013; Saint Martin, 1998; 2012) are not necessarily relevant given that higher education is not exclusively a public-sector field and the 'public sector' is a broad and diffuse sphere, comprising different sets of research interest including policy
 
-^ ^ ^5^ https://www.theguardian.com/education/mortarboard/2009/mar/26/education-consultancy-substance [26th March 2009; Accessed 25th July 2018]
+> ^ ^ ^5^ [https://www.theguardian.com/education/mortarboard/2009/mar/26/education-consultancy-substance](https://www.theguardian.com/education/mortarboard/2009/mar/26/education-consultancy-substance) [26th March 2009; Accessed 25th July 2018]
 
-https://www.chronicle.com/blogs/brainstorm/can-consultants-save-universities/8868 [November 16th 2009; Accessed 25th July 2018 – general access]
+> [https://www.chronicle.com/blogs/brainstorm/can-consultants-save-universities/8868](https://www.chronicle.com/blogs/brainstorm/can-consultants-save-universities/8868) [November 16th 2009; Accessed 25th July 2018 – general access]
 
-https://www.chronicle.com/article/Tough-Times-for-Colleges-Mean/149821 [4th November 2014; Accessed 25th July – subscription access]
+> [https://www.chronicle.com/article/Tough-Times-for-Colleges-Mean/149821](https://www.chronicle.com/article/Tough-Times-for-Colleges-Mean/149821) [4th November 2014; Accessed 25th July – subscription access]
 
-https://www.chronicle.com/article/Hired-Guns-The-Consultants/150843 [December 15th 2014; Accessed 25th July 2018 - general access]
+> [https://www.chronicle.com/article/Hired-Guns-The-Consultants/150843](https://www.chronicle.com/article/Hired-Guns-The-Consultants/150843) [December 15th 2014; Accessed 25th July 2018 - general access]
 
-https://wonkhe.com/wonkhe-and-kpmg/ [Accessed 11th June 2018]
+> [https://wonkhe.com/wonkhe-and-kpmg/](https://wonkhe.com/wonkhe-and-kpmg/) [Accessed 11th June 2018]
 
-Trounson, A. (2014) "Uni consultants make $17m killing". The Australian, April 9th 2014: 25
+> Trounson, A. (2014) "Uni consultants make $17m killing". The Australian, April 9th 2014: 25
 
-<!-- page 28 -->
+<!-- page 29 -->
 
 making, politics and the organisation and dynamics of government, and different issues affecting the diverse services and organisations that constitute the public sector.
 
@@ -1026,7 +523,7 @@ In this paragraph Ball draws our attention to the geographical reach of the larg
 
 Recent critical literature on the GPSF encourages research that accounts for the historical role of such firms in the imperial projects of colonial powers as well as the contemporary role of these firms in neo-imperial globalization and contemporary capitalism. Imperialism "inscribes social, cultural, and political relations of power between the empire and its subordinated periphery" (Bush, 2006: 2) under a system of domination called colonialism. This system operates "to produce a profit that benefits a privileged class in the imperial centre" (p.26). According to Prasad (1997),
 
-<!-- page 29 -->
+<!-- page 30 -->
 
 theorisation of the mechanisms of imperialism and colonialism came into prominence with *Orientalism* (Said, 1978) which identified how systems of representation, reading practices, and values contained hierarchical binary polarities served to construct the colonised as an "ontologically and epistemologically distinct and opposite" (Prasad, 1997: 288-90). This is the logic of 'othering' that patterns colonial power relationships (Fougère and Moulettes, 2007).
 
@@ -1040,7 +537,7 @@ Finally, the postcolonial analytic demonstrates the implication of education ins
 
 "Colonial powers exported their laws, their *educational systems*, their tax systems and their bureaucracies to civilise and exploit. Such *knowledge transfers*, … shaped the local economies, their infrastructures, values and practices. … In particular, … (accountancies, law firms, and management consultancies) are centrally concerned with *establishing forms * *of knowledge* and *modes of organizing* that make it possible for them to sell their services around the world. … they have established a powerful influence over *rule-making* and
 
-<!-- page 30 -->
+<!-- page 31 -->
 
 *knowledge production processes* globally. Linked to them have been *educational * *institutions* established in part to provide appropriate *professional education* for, initially, the imperial ruling classes and, later for middle ranking professionals and managers in corporations and civil administration" (Boussebaa and Morgan, 2014: 99 – 100; my emphases).
 
@@ -1056,21 +553,16 @@ Throughout the discussion knowledge and expertise has been a constant theme. In 
 
 As we have seen above the management consultancy industry and organisation is relevant to broader fields of enquiry within the international organisation, management and business literature. It is also a discrete field of study. It is this literature that I turn to now. The section is structured as follows.
 
-Definitions
+- Definitions
+- Status as a Profession
+- The Evaluation and Value of Management Consulting
+- Knowledge and Expertise: o knowledge intensive firmso critical perspectives
 
-Status as a Profession
+<!-- page 32 -->
 
-The Evaluation and Value of Management Consulting
-
-Knowledge and Expertise: o knowledge intensive firmso critical perspectives
-
-<!-- page 31 -->
-
-o sector knowledge
-
-o knowledge management and its flow
-
-o knowledge and power
+- o sector knowledge
+- o knowledge management and its flow
+- o knowledge and power
 
 ## *Definitions*
 
@@ -1082,7 +574,7 @@ In general, the literature agrees that the identity of management consultancy is
 
 Management consultancy draws on the idea and image of professionalism, yet its knowledge base is weak, without formal credential (Muzio, Kirkpatrick and Kipping, 2011). Management consultants rely on a combination of theoretical knowledge, analytical tools, and tacit judgemental skills that are difficult to standardize, replicate, and incorporate within formalised routines. Their professionalism was 'hollow from the start' and management consultancy has largely failed to achieve professional closure despite attempts to do so (Kipping, 2011). Claims to professional status are reliant on projections of professionalism or 'image professionalism'. Image professionalism includes subjectification of the individual client in terms of their identity and practice and involves the firm in mimicking and associating with existing credentialed professions such as law or accountancy and projecting the importance of alliances with Business Schools. The MBA becomes the ersatz entry qualification (Engwall and Kipping, 2013). In this sense
 
-<!-- page 32 -->
+<!-- page 33 -->
 
 management consultancy's claims to professionalism are a simply a discursive resource and a device to establish authority, status and credibility.
 
@@ -1096,7 +588,7 @@ Global management consulting firms are often viewed as agents of processes of gl
 
 Sturdy (2011) observes that both popular and academic commentators agree that management consultants are significant because they influence and legitimate ideas and practices affecting the lives of the many different people connected to client organisations (Sturdy et al, 2009). Yet Sturdy (2011) argues these grand claims (positive and negative) lack empirical evidence and should be made and treated carefully. Research is yet too limited to demonstrate and evaluate the extent, force and permanence of consultancies' impact (Engwall and Kipping 2013). Management consultancy firms "tend to be inaccessible and secret about clients and consultancy practices, and little reliable statistical data exists at the levels of both firm and industry" (Sturdy 2012: 468). Academic research is lacking owing to difficulties with conceptualisation of what management consultancy is, difficulties with access, restrictions on methodological design, and an incomplete scope of research, including where management consultancy is absent. Here he notes that "approximately 80% of consultancy fees worldwide are generated in only five nations … – consultancy is by no means omnipresent, even within the developed world" (p.521). The
 
-<!-- page 33 -->
+<!-- page 34 -->
 
 implication of this is that the knowledge and expertise of management consultancy derives from and is credentialed in those five nations: UK, USA, Canada, Germany and France (Armbrüster, 2006; Fincham and Clark, 2002; Momani, 2013; O'Mahoney and Sturdy, 2016; Sturdy, 2011).
 
@@ -1117,28 +609,24 @@ Management consultancy depends on the acquisition and presentation of market kno
 
 (See Faulconbridge, 2015)
 
-<!-- page 34 -->
+<!-- page 35 -->
 
 The second identifies that differences between subject/ownership and form of knowledge/expertise result in different processes of acquisition and different 'repositories':
 
 | Individual | Acquisition: Expertise / Training Repository: Embrained | Acquisition: Experience / Wisdom Repository: Embodied |
 | --- | --- | --- |
 | Collective | Acquisition: Precedent / System Repository: Encoded | Acquisition: Routines and Relationships Repository: Encultured and embedded |
-|   | Codified/formal | Tacit |
+|  | Codified/formal | Tacit |
 
 (Adapted from Morris and Empson, 1998)
 
 The third views knowledge and expertise as a collective resource held by the client/consultant as a team. This collective resource is a product of 'enculturation, interaction, and feedback', where meaning and legitimacy is negotiated in a collaboration within a 'complex ecology' of different audiences:
 
-![TH.R08 fig05](../figures/TH/TH.R08_fig05.jpg)
-
-> Adapted from Rheilen and Nikolova, (2010)
-
 Alvesson suggests that these 'four-fielder' categorisations avoid the problem of the essentially elusive properties of the knowledge and expertise of management consultancy. From his perspective, the only 'non-speculative' area of study is how knowledge and expertise are *claimed*. Knowledge and expertise do not 'speak for themselves' but are proposed discursively or rhetorically and it is this discourse that is available to examination (Alvesson, 1993, 2011).
 
 From this perspective management consultancy is a 'system of persuasion par excellence' (Alvesson, 2001; Clark and Salaman, 1998) and the idea of specialised knowledge and expertise is an institutionalised myth (Alvesson, 2011). Claims to effectiveness and success are "power games and rhetorical strategies employed by consultants to legitimize their knowledge claims" (Fincham and Clark, 2002:7). Expertise is performed to create a 'belief system' (Treem, 2016), and impression management is essential. It is important for consultants to "appear and to be perceived as committed, persistent, able to cope with uncertainty and strain, to have interpersonnel skills, to communicate, develop and maintain contacts" (Alvesson, 1993: 1005). The
 
-<!-- page 35 -->
+<!-- page 36 -->
 
 management consultant must develop the identity of a networker and perform their expertise in networks (Anderson-Gough et al, 2006). The system of persuasion is served by, and builds, the reputation of the firm as credible authority (Gardner, Anand, Morris, 2008; Greenwood et al, 2005; Hayes and Westrup, 2014; Heusinkveld and Benders, 2002).
 
@@ -1152,7 +640,7 @@ This negotiation is carried out in networks. The commodified knowledge proprieta
 
 Knowledge management also organises the firm's products and people. Knowledge management serves to segregate the firm into multiple axes of expertise and to integrate across them. "The different axes … connect professionals and thus form and re-form a latticework of smaller communities within the broader organization" (Greenwood et al, 2010: 176). This creates an extensive network through which to source expertise and form the personal relationships necessary to put together teams able to provide resources necessary to service a client project.
 
-<!-- page 36 -->
+<!-- page 37 -->
 
 The capital that the firm can derive from its proprietary knowledge is contingent on the socialcapital of the consultant (Nahapiet and Ghoshal, 1998; Diez-Vial and Matero Sanchez, 2014). The capital that the firm can derive from its proprietary knowledge is a function of the size and reach of its office networks and consultants' networks (Faulconbridge and Jones, 2012) and its capacity to absorb from these networks (Burt, 2000).
 
@@ -1164,7 +652,7 @@ O'Mahoney and Sturdy (2016: 248-9) set out to understand how multiple forms of p
 
 However, the relationship between power and knowledge in management consulting appears mainly in research concerning the client-consultant relationship. Werr and Styhre (2002: 46) found that the functionalist literature focuses on the client as the controlling party, and the critical literature emphases the consultant's power in a relationship that is exploitative of the client 'victim'. Nikolova and Devinney (2012) consider how the client is positioned by the role the consultants adopt. When the consultant assumes the role of expert, the consultant defines the problem and solution. As consequence the client is dependent and accepts the consultant's authority. When consultants see themselves as collaborators, both consultant and client are powerful and interdependent based on equality of knowledge and contribution. Yet when consultants are expert in rhetoric and persuasion, they become powerful based on the impressions they make and the management fads they profess as cures. Pemer and Werr's study (2013:33) of client-consultant relationships examines how the client positions the consultant. 'Controlling clients' see management consultants as 'parasites' who are "disloyal, inexperienced, too dependent on theoretical models, not taking responsibility for their ideas or work". Instrumental clients view the consultants as 'tools' who are "competent in their area of expertise
 
-<!-- page 37 -->
+<!-- page 38 -->
 
 but acting for their own good". Trustful clients see the consultant as a 'colleague' who is "very competent and experienced, loyal and take[s] responsibility for their ideas and work". Ambivalent clients see the consultant as a 'saviour' who is more competent and experienced than the client and the client organisation and is good at handling complex problems (Pemer and Werr, 2013:33).
 
@@ -1180,7 +668,7 @@ At the other end of the spectrum knowledge and expertise are objectified as a re
 
 There is hesitancy concerning the nature and impact of management consultancy knowledge. The literature teaches us to pay close attention to discourse, rhetoric, and techniques of persuasion that are used to imply substance to a knowledge base and expert image that may in fact be more drama and image. The literature calls for caution when making claims about the impact of management consultancy in a global context because management consultancy is difficult to study and has not been studied in enough breadth and detail. Moreover, the business of management consultancy is not spread evenly across the world. So, although there is much 'noise' about the growth and omnipresence of the large global firms there is also much uncertainty. And this contrasts with the general literature on GPSFs which makes confident claims about the certain agenda and impact of GPSFs.
 
-<!-- page 38 -->
+<!-- page 39 -->
 
 ## **Conclusion: Utility of the Literature for This Study**
 
@@ -1188,7 +676,7 @@ The literature review has identified that little is known about the work of larg
 
 The literature presents the argument that detailed critical attention to power is significant in understanding how elites derive, sustain their jurisdiction, and come to have influence. The connection between knowledge and expertise and power is central with the implication that it is necessary to identify the subjects and centres of knowledge generation and the warrants through which knowledge and expertise is legitimated and circulated. Yet Sturdy (2009) notes how the academic literature lacks *critical* accounts of management consultancy and its consequences. It tends to lack critical attention to the role of power and politics in the structures, functions and processes involved. This is no different to the wider organisational literature where the "focus is generally on disinterested, spontaneous processes and outcomes … rather than on the interests and the associated struggles and political strategies of particular actors" (Boussebaa and Faulconbridge, 2018: 5). Studies tend to normalise rather than critique the structures and relationships of the organisational environment, "most empirical studies of organizational fields do not specifically identify central versus peripheral players, elite or marginal actors or dominant and subservient classes of organizations" Suddaby et al, (2007: 335). Clegg (2010: 9) notes how "[s]omewhere along the way the more sophisticated conceptions of power relations as constituting the core of the social went missing in action". In this study I will draw on the literature of management consultancy in order to help recognise in the interview accounts and the documentary resources the structures, functions and processes at work. I will use the concepts and terminology developed in that literature in my discussion, but the analysis will be critical – it will attend to power and politics. The outcome of my work is a more critical reading of the concepts and terminology; we will move beyond a 'neutral' and 'normalised' view.
 
-<!-- page 39 -->
+<!-- page 40 -->
 
 ## **CHAPTER THREE**
 
@@ -1204,13 +692,11 @@ Lukes argues that power is a 'primitive', 'essentially contested' and 'performat
 
 This diverse perspective on power is compatible with the analytical framework developed by Gaventa (2006; 2007; 2011) for the purposes of identifying where and how power operates in any given domain. As a PhD student of Lukes, Gaventa (1980) drew upon Lukes's three 'faces' of power and reconceptualised them as visible, hidden and invisible 'forms' of power. These are defined as follows (adapted from Gaventa, 2006:29):
 
-<!-- page 40 -->
+<!-- page 41 -->
 
-**Visible power**: Political power: the formal rules, structures, authorities, institutions and procedures of decision making; elsewhere (Gaventa, 2003) also refers to economic resources in this context;
-
-**Hidden power**: The maintenance of influence by controlling who gets to the decisionmaking table and what gets on the agenda;
-
-**Invisible power**: Shaping meanings and beliefs; defining what is normal, acceptable and safe.
+- **Visible power**: Political power: the formal rules, structures, authorities, institutions and procedures of decision making; elsewhere (Gaventa, 2003) also refers to economic resources in this context;
+- **Hidden power**: The maintenance of influence by controlling who gets to the decisionmaking table and what gets on the agenda;
+- **Invisible power**: Shaping meanings and beliefs; defining what is normal, acceptable and safe.
 
 The literature review discussed the forms of power involved in the governance of education in the context of globalisation and in transnational governance. These forms of power were identified as ideas, knowledge, expertise, discourse and agenda setting, and are represented in the *powercube* as **invisible** and **hidden** forms of power. The literature review also identified that cognitive assumptions broadly associated with neoliberalism have disciplinary effect as 'a normalized common-sense or practical hegemony' (Peck et al, 2018), but are also given **visible** form when constitutionalised in law. We can see then that Gaventa's conceptualisation of the three forms of power will have theoretical relevance within the study.
 
@@ -1218,11 +704,10 @@ Gaventa argues that these forms of power constitute just one of three 'dimension
 
 The third dimension of power involves consideration of the inclusiveness or exclusiveness of the spaces in which power is enacted. Here we find connection to the literature on management consultancy which described power as the ability to manipulate through exclusion or invitation, suppression or advocacy. Gaventa identifies three types of space: closed, invited, and claimed/created and he defines them as follows (Gaventa, 2007; 2011):
 
-**Closed spaces** occur where a group of people make decisions without reference to or consultation with external parties. Power is formalised in terms of who makes the rules and who are the subjects of those rules.
+- **Closed spaces** occur where a group of people make decisions without reference to or consultation with external parties. Power is formalised in terms of who makes the rules and who are the subjects of those rules.
+- **Invited spaces** involve intentional and selective participation, with invitations (and exclusions) generated by different kinds of entities and authorities. They may be transient or persistent.
 
-**Invited spaces** involve intentional and selective participation, with invitations (and exclusions) generated by different kinds of entities and authorities. They may be transient or persistent.
-
-<!-- page 41 -->
+<!-- page 42 -->
 
 **Claimed/created spaces** are the product of social activity around sets of common concerns, and do not require or constitute institutionalised sanction.
 
@@ -1230,13 +715,12 @@ Within the study this dimension of power calls attention to the social dynamics 
 
 Finally, the three dimensions are separated analytically but interrelated and interactive in practice. This interrelation and interaction can be understood when the three dimensions are brought together, conceptualised as a cube.
 
-![TH.R08 fig06](../figures/TH/TH.R08_fig06.jpg)
-
-> (http://www.*powercube*.net/)
+![TH.R08 fig05](../figures/TH/TH.R08_fig05.jpg)
+*[(http://www.](http://www.powercube.net/)*powercube*.net/)*
 
 Therefore, forms of power operate in different spaces and interact with scale on "subnational, national, regional, and global" levels (Gaventa, 2007: 216) in different ways and with different outcomes (Gaventa, 2006: 30). The differences between local, national, and global agendas mean that different forms of power will be more or less relevant. For example, on a global scale invisible power circulates rapidly through mechanisms such as digital and electronic media whereas visible power is more difficult to move and manipulate. Spaces may be created easily enough at global scale using digital and electronic technology to network between people, but networks are more readily controlled (in terms of membership, discussion, and activity) on a local basis. And, because of change in one space, other spaces may be changed – the outcome of invited spaces may lead to new closed spaces, the functions of closed spaces may generate responses in more open arenas.
 
-<!-- page 42 -->
+<!-- page 43 -->
 
 Finally, interactions in spaces at a global level may be transformative of local spaces when ideas are scaled from the global to the local.
 
@@ -1254,11 +738,11 @@ The postcolonial analytic is useful to a qualitative study of documents and inte
 
 In this chapter I have discussed how the *powercube* is compatible with the theoretical accounts presented in the literature review which highlighted the need to attend to mechanisms of power and power strategies in the form of ideas, knowledge, expertise, discourse and agenda setting. The postcolonial analysis and the critical discourse analysis both reinforce attention to these issues and provide tools to make sense of how they work. The *powercube* also offers a structure to
 
-<!-- page 43 -->
+<!-- page 44 -->
 
 identify the scales at which power operates, and their dynamic interaction. This is compatible with the analysis provided within the literature review of the intersection of the global and local. However, a postcolonial analytic is necessary to introduce a critical element to the structure for analysis provided by the *powercube*. The *powercube* is useful in analysis to locate, describe, and explain the spaces – in time, domain, and form – that construct and give effect to power within the work of the management consultancy firms in the GCC. The large management consultancy firms create a space, claim a role in that space, invite clients to join spaces as networks, and contract specially selected communities to form project teams. The next chapter incorporates the *powercube* within the methodological framework of the thesis by analysing it against the ontological premises of critical realism.
 
-<!-- page 44 -->
+<!-- page 45 -->
 
 ## **CHAPTER FOUR**
 
@@ -1270,31 +754,21 @@ This chapter gives a theoretical and practical account of the research strategy.
 
 Part One: Methodological Framework: A theoretical account of the ontological and epistemological underpinnings of my qualitative study, and why this is useful to the question
 
-i. Critical Realism and the Powercube
-
-ii. Critical Discourse Analysis
-
-iii. Positionality
-
-iv. Access
-
-v. Interviewing Roles
-
-vi. Seeing Like a Consultant
-
-vii. The Analysis Process
-
-viii. Politics and Ethics in the Research Approach
-
-ix. Data and its Status
+- i. Critical Realism and the Powercube
+- ii. Critical Discourse Analysis
+- iii. Positionality
+- iv. Access
+- v. Interviewing Roles
+- vi. Seeing Like a Consultant
+- vii. The Analysis Process
+- viii. Politics and Ethics in the Research Approach
+- ix. Data and its Status
 
 ## Part Two: Operationalisation
 
-x. The data sampling strategy and its stages are set out.
-
-xi. The desk-based research is explained a. identification of consultanciesb. identification of documents to analyse and their organisation.
-
-xii. The interview stage is described in three sections a. Accessb. Data collectionc. Interviews conducted
+- x. The data sampling strategy and its stages are set out.
+- xi. The desk-based research is explained a. identification of consultanciesb. identification of documents to analyse and their organisation.
+- xii. The interview stage is described in three sections a. Accessb. Data collectionc. Interviews conducted
 
 ## **Methodological Framework: A theoretical account of the ontological and epistemological ** **underpinnings of my qualitative study, and why this is useful to the question**
 
@@ -1304,7 +778,7 @@ This section explains the theoretical methodological framework used to design th
 
 In methodological terms, the *powercube* is a heuristic device: it enables the practical application of a theoretical analysis of power in order to solve problems; it serves as a cognitive map (Frigg and Hartman, 2018) for investigating power. It models a structure (three dimensions of power, each of
 
-<!-- page 45 -->
+<!-- page 46 -->
 
 which has three variants) and articulates a relationship between the dimensions, visualised in terms of a cube. The variants of power have different properties. Forms of power are visible (formal, relatively stable structures), hidden (more temporary structural effects of social action), and invisible (ideational, normative, psychological). The spaces of power differentiate in similar ways: closed spaces are authorised structures; invited spaces are material, formed by social action that both includes and excludes; claimed spaces serve social participation in agendas which may take material form or operate discursively. The scales through which power operates can be identified in concrete physical and material terms (a local instance) and also abstract, nominal ways (not contingent on and sometimes external to geographical or political structures). Power is constructed of structures and social action, and effects structures and social action, and does so in interaction between structure and social action on dimensions that also interact dynamically.
 
@@ -1316,7 +790,7 @@ Within the critical realist perspective, societies and organisations consist of 
 
 A critical realist philosophy can be applied across disciplines and can be used in interdisciplinary ways – it can work within and across diverse theoretical frameworks and it can draw from these to bear on the analysis process in relation to a specific research study. The objective is to settle on
 
-<!-- page 46 -->
+<!-- page 47 -->
 
 methods of data selection, collection, and analysis that best fit with the 'research object' for explanatory purposes. I have organised my study in this way, both in the active connection of different disciplinary fields to generate a theoretical framework for investigation, and in the use of concepts and theories found within these literatures to aid the analysis and interpretation.
 
@@ -1326,7 +800,7 @@ As noted, critical realism rejects the social constructionist idea that the soci
 
 It is on the basis of this last notion that Van Dijk (1993) argues that language is a tool that can be used by 'elites, institutions, or groups' to gain and sustain social power. Those who have expert institutional warrant (Fairclough, 1989) have access to the means of categorisation – framing what is known and how it is understood; they have control of an important power resource. They are "literally the ones who have most to say" (Van Dijk, 1993: 255) in decision making, forming agendas, proposing the nature of problems to be solved, ordering and positioning people or things, and the formation of rules and norms. Therefore, critical discourse analysis is highly relevant to this study, offering a means to identify and analyse manifestations of power. It aims to, "systematically explore often opaque relationships of causality and determination between (a) discursive practices, events and texts ,and (b) wider social and cultural structures, relations and processes; to investigate how such practices, events and texts arise out of and are ideologically shaped by relations of power and struggles over power, and to explore how the opacity of these relationships between discourse and society is itself a factor securing power and hegemony" (Fairclough, 1993: 135). Fairclough and van Dijk also argue that an important property of language is its routine, everyday form that functions to make dominance seem natural, acceptable, and taken for granted, to manufacture consensus and legitimacy such that dominance is ideologically hegemonic. "Some ways of making meaning are dominant or mainstream in a particular order of discourse; others are marginal or oppositional, or 'alternative'. … A particular social structuring of
 
-<!-- page 47 -->
+<!-- page 48 -->
 
 semiotic difference may become hegemonic, become part of the legitimizing common sense which sustains relations of domination" (Fairclough, 2011: online). So, discourse can be studied for the ways in which language is used to provide, "more or less direct or overt support, enactment, representation, legitimation, denial, mitigation or concealment of dominance" (Van Dijk, 1993: 254). Under critical discourse analysis we can see how language is used to negotiate the contradictions and tensions of organisational structures and relations of power to material effect and connecting with wider political and economic questions (Mumby, 2012).
 
@@ -1338,7 +812,7 @@ Positionality "is the notion that personal values, views, and location in time a
 
 It is difficult to identify for oneself which demographic and sociological characteristics are significant to identify in terms of my 'position' in relation to this current research. When researchers choose particular identity-characteristics to describe themselves or the participants to their research, they neglect others (Silverman, 2017); "positionality is a highly selective version of oneself that usually serves to keep academic authority intact … and address the categories and issues important to academic analysis" under a particular theoretical position (Moser, 2008: 386). For example, under Marxism, the assumption that race, ethnicity, class, gender, disability and sexuality "are the salient factors in shaping who we are and how we view the world" (Cousins, 2010:11). For Silverman (2017:151), "the only identities that should matter in the qualitative analysis of interview data are those identities actually invoked by the participants; … [these call] attention to the identity-work that is actually taking place".
 
-<!-- page 48 -->
+<!-- page 49 -->
 
 From my own perspective, the reasonable requirement "for locating the intersections of author, other, text, and world, and for penetrating the representational exercise itself" (Macbeth, 2010: 35) involves identifying "a professionally disciplined reflexive analytic" (p.36) that is compatible with the ontological and epistemological premises of critical realism itself. That is, instances of this intersection will be found in its manifestation in social practice – which in terms of research means as it is manifest in the empirical experience of research practice (question identification, research design, data gathering, analysis, discussion). The praxis is the ethics and methodology of conscious and self-conscious (Eikeland, 2014) reflexive analysis of the research process: the intentional and self-aware investigation of the structured and relational features of the experienced research process which has, as its purpose, the intention of extending the sphere of exploration and analysis. In short, we need to 'grey' positionality (Cousin, 2010) and turn it to a useful tool. We need a reflexive praxis *through* which we understand how 'place, biography, self and other' shape the research process and are shaped by it (Macbeth, 2001: 35).
 
@@ -1354,7 +828,7 @@ First, my experience of being referred from participant to participant within a 
 
 Second, participants' interest in being interviewed by me brought to my attention the significance of Subject Matter Experts to management consultants working in the GCC higher education sector. Participants frequently referred to my own professional background in higher education management in the UAE, and one requested my help with one of his current projects [I provided
 
-<!-- page 49 -->
+<!-- page 50 -->
 
 policy documents that I had written in the context of my previous employment in the UAE higher education sector]. A different participant invited me to work freelance on policy documents [I did not take up this offer but referred him to a colleague who did]. I considered whether the agreement to be interviewed was an investment for future advantage (Rogan and Mors, 2016) – that I would be of value within the consultant's own networks. This consideration also prompted questions of *why *I would be of value. The immediate implication seemed to be that the base of the large firms' knowledge and expertise was not the specifics of the higher education sector and that consultants did not necessarily position themselves as needing that expertise; they made a conceptual distinction between expertise in higher education and expertise in the operation of higher education. Both the implication and its reverse are reflected in the following interview account:
 
@@ -1364,9 +838,8 @@ We know what we're talking about, but we don't pretend to be global experts. Whe
 
 Third, two of the interviews resulted in the consultant's offer of working further with me in a nonacademic project about the research. One participant was interested to continue exploring some of the main themes developed in the course of the interview:
 
-a) how 'expertise' of the consultant is contingent on the client base, and how the client base depends on where the revenue streams are, and
-
-b) how to build and sustain organisational capacity/expertise in universities.
+- a) how 'expertise' of the consultant is contingent on the client base, and how the client base depends on where the revenue streams are, and
+- b) how to build and sustain organisational capacity/expertise in universities.
 
 Another participant said that he had agreed to be interviewed because he felt that my research would help the industry understand particularities of consultancy in GCC higher education and would help stimulate questions within the industry about the appropriateness of the large firms' current business models to consultant professional development and client capacity building. He wanted to co-author publications for the industry press and positioned me as an external voice or at least external source of missing evidence, who could speak authoritatively to his own community.
 
@@ -1374,7 +847,7 @@ Fourth, my invitations to participate were often responded to immediately and en
 
 "This seemingly open, cooperative attitude and positive, outward-directed image initially encountered while trying to gain access does not always resonate with, and may even be in contradiction with, their rigid boundaries in relation to information or access. While on the surface these organizations celebrate flexibility, innovation, internationalism and openness to the newest information, they themselves are, due to the confidential nature
 
-<!-- page 50 -->
+<!-- page 51 -->
 
 of their business, relatively closed to certain forms of qualitative inquiry" (Karjalainen et al, 2015: 287).
 
@@ -1388,7 +861,7 @@ The following individual did not respond to the email they had requested:
 
 Associate Partner in the same Strategy House
 
-*"Yes sorry, I responded also to your email but realize that may not reach via LinkedIn. Could you * *please share details of your project on *name*@xxxxxxxx.com**?"*
+*"Yes sorry, I responded also to your email but realize that may not reach via LinkedIn. Could you * *please share details of your project on *name*[@xxxxxxxx.com](mailto:name@xxxxxxxx.com)**?"*
 
 Finally, all interviewees found the conversation fruitful within their own interests: "*Look I must go, * *it's been fascinating*" (Consultant, Big Four). The meetings tended to close with a comment on how much they'd learned, and at times there is text evidencing how the interview is an exchange in which learning takes place. For example:
 
@@ -1400,7 +873,7 @@ The affective nature of the interview process is an ethical consideration (Brink
 
 In sum the process of gaining access, as I negotiated researcher and professional 'positions' relative to their own personal and professional positions contributed important perspectives on the management consultancy organisation and process. These aspects of my experience were indicative of the relationship between me and the field, how potential and actual participants positioned me in relation to their professional time. The experience of being 'positioned' was productive to the research process because it led to a learning process, reflections that led to reengagement with the research literature on the profession of management consulting in order to make sense of my experience. The issues that resulted – networks, expertise, client learning, impression management, workloads and business models, and the professional development of consultants all make their way into the discussion of the analysis of my findings in the substantive chapters of this thesis.
 
-<!-- page 51 -->
+<!-- page 52 -->
 
 Kvale, (2007: 16) stresses that the interview is a conversation between two people.
 
@@ -1416,7 +889,7 @@ In the introduction to the thesis (Preamble, Chapter One) I described how my pro
 
 I perceive these two roles in terms of community (belonging) and affinity (values). Both roles position me as 'outsider' to the community of management consultancy. As a student I am also outsider to the community of established international business and management academics. As a result, my experiences in entering 'the field', both academically and in terms of gaining access to and conducting interviews with management consultants were hesitant and humble, at the same time as the 'outsider' status gained me advantages in the interview process. I asked naïve and unassuming questions; in research terms I was still not sure what issues and topics would emerge as significant to the research and I (still) didn't have a tight theoretical question to address. Consultants responded in detail, both because I made no assumptions in my questions about knowing anything about management consulting and because there was no risk of the consultants patronising me. Consultants also responded openly - not necessarily guarded about what they
 
-<!-- page 52 -->
+<!-- page 53 -->
 
 said. I did not belong to their professional community and would not be patronised by their accounts, and neither was I positioned to reveal it to others. My position as student prompted curiosity about why I was interested in this topic and seemed to stimulate a level of engagement – a level of interest outside their normal experiences. And, none of the consultants had previously been asked about their work – in the GCC or in higher education – which both confirmed the value of my project in the position of student and reflected my experiences with access. As a higher education professional academic-administrator I am an insider within both the academic community and the community of these working in the GCC. There is evidence in the interview interactions that consultants recognised my position as member of these communities and also that they took positions on / positioned these communities with respect to their professional position: "Well you'll know this about academics and universities here" …" or, "This will be very familiar to you in the job that you've had". The positions and positioning led to an ease of conversation, but that same ease presented the danger of 'symbolic convergence' – the "development of a rhetorical community that produces a shared narrative: (Cousin, 2010: 15). Luckily however there is evidence that consultants were not able to position me in terms of my affinities – the values I share with those in the higher education community who worry about the reasons and outcomes of management consultancy work in higher education. This meant that some of the assumptions that consultants were making about the academic community they saw me as a member of were not lost to me within a 'symbolic convergence'. Although I didn't show it in interview, I disagree with the reasons why "UK universities have really woken up to the fact that they need to treat students like customers" and I remember a slight negative reaction when I learnt that "we advise [the sector] when it comes to the perspectives of the private sector in particular- I don't think they really understand the perspective of the private sector".
 
@@ -1428,7 +901,7 @@ I return to the interviewing process to examine for evidence of further examples
 
 "I'm no fan, but private education has a significant role to play here. It has a big role to play in Saudi Arabia in terms of capacity and quality. And that's something that- I think coming from the UK the immediate knee-jerk reaction is that it's wrong. Profit making in education is wrong. Coming over here it was a bit of a surprise to see it thriving as it does. And I've worked with them all, and I've built financial models for the schools and I've seen the profit margins. OK I don't like it, but the net impact is a positive one. … We don't take a moral stance on it. We can't take a moral stance on it. Our role is not to have a view on what's right or wrong except for when it's 'what's the best solution'".
 
-<!-- page 53 -->
+<!-- page 54 -->
 
 "We do quite a bit of work in the region with large employers that want to set up their own educational institution. It's what they call Corporate Universities. And it should be a bad thing, it should be a bad thing [laugh]. But it's not a bad thing because the universities are bad. If the universities were doing a good job it would be a bad idea but unfortunately it's not such a bad idea because they are desperate for people, and they are desperate for people that have the competencies that they need to be successful in their workplace."
 
@@ -1442,7 +915,7 @@ I have noted that an emerging literature in the study of the GPSF identifies tha
 
 "*It is a truism that people do not shop in the same way in all countries; the concept of the * *contract does not directly translate across cultures. In fact, many IBCs are located in places *
 
-<!-- page 54 -->
+<!-- page 55 -->
 
 *where deals are done with haggling and a handshake, not bidding and contracts. For * *example, one interview participant at an international branch campus in the Middle East * *talked about a particularly frustrating information technology (IT) purchase*" (Lane, 2011b: 12).
 
@@ -1462,9 +935,9 @@ This brief reflexive account demonstrates the directed nature of 'induction' and
 
 I considered my work as a researcher to involve a "set of interpretative, material practices that make the world visible" (Denzin and Lincoln, 2005: 3). I have used my data to generate material for assembly and examination, to construct and present an account of the 'real' (Silverman 2001). I approached this task in the production of notes, interviews, conversations, charts and diagrams, photographs, and reflections which I have interpreted and interrogated for meaning, and arranged this meaning in codes, categories, or themes (Creswell, 2012) to form my argument. It is this
 
-^6^ Which is theologically disputed, and factually incorrect - as a simple internet search on 'Gulf' and 'Saluki' will reveal.
+> ^6^ Which is theologically disputed, and factually incorrect - as a simple internet search on 'Gulf' and 'Saluki' will reveal.
 
-<!-- page 55 -->
+<!-- page 56 -->
 
 creative, constructive process that makes my research is highly political – I am not describing but enacting the world (Law and Urry, 2004: 390).
 
@@ -1482,7 +955,7 @@ The study pays close attention to talk and text, through conducting interviews a
 
 Bringing these different perspectives together has generated a greater breadth and depth of treatment that would have arisen from a less complex approach. The process I have engaged in is often referred to as 'triangulation', but it is not a quest aiming to find a consistent story and rejecting interpretations that are contradictory or inconsistent across the data (Patton, 2002). I have sought rich data to analyse in detail, bringing contrasts and contradictions to the surface for examination. This is an approach to research that "acknowledges the multiplicity of possible
 
-<!-- page 56 -->
+<!-- page 57 -->
 
 meaning, the complexities of social practices, and that any attempt to claim a complete or exhaustive understanding of the phenomena under investigation is unsustainable" (Alvesson and Kärreman, 2000a:147).
 
@@ -1494,53 +967,44 @@ The next section of this chapter sets out how I have applied these epistemologic
 
 In order to address the research question, I sought data that could address the following issues:
 
-1) To seek evidence of how management consultants articulate their knowledge and expertise in the higher education sector, and how this is communicated to clients.
-
-2) To access data that showed how management consultants attract clients and the methods that they use to identify, analyse and resolve client problems.
-
-3) To identify how knowledge and expertise in the higher education sector was generated in the context of a client project, the range of sources drawn on and their origin, and the role played by clients.
-
-4) To generate client perspectives on these same issues.
-
-5) To understand the significance and challenges of management consultancy work within higher education contexts and within the GCC context
-
-6) To gather opinions on the outcomes and impacts of these engagements.
+- 1) To seek evidence of how management consultants articulate their knowledge and expertise in the higher education sector, and how this is communicated to clients.
+- 2) To access data that showed how management consultants attract clients and the methods that they use to identify, analyse and resolve client problems.
+- 3) To identify how knowledge and expertise in the higher education sector was generated in the context of a client project, the range of sources drawn on and their origin, and the role played by clients.
+- 4) To generate client perspectives on these same issues.
+- 5) To understand the significance and challenges of management consultancy work within higher education contexts and within the GCC context
+- 6) To gather opinions on the outcomes and impacts of these engagements.
 
 Document analysis and interviews were identified as relevant means of achieving these objectives. Data collection proceeded in two initial phases:
 
-1) Desk-based study, as explained below.
-
-2) On-site interview research with management consultants whose experience included a GCC higher education portfolio and with clients in the higher education sector. During the interview process participants gave me access to further documents. In what follows in this chapter, the process of gaining access, the interview schedules, the interviews achieved, and the unexpected consequences (impact) of the interviews follow the explanation of the desk-based study.
+- 1) Desk-based study, as explained below.
+- 2) On-site interview research with management consultants whose experience included a GCC higher education portfolio and with clients in the higher education sector. During the interview process participants gave me access to further documents. In what follows in this chapter, the process of gaining access, the interview schedules, the interviews achieved, and the unexpected consequences (impact) of the interviews follow the explanation of the desk-based study.
 
 ## *Desk-based study*
 
 The desk-based study proceeded against two aims.
 
-1) The first aim was practical: to identify management consultancies active in the GCC so that I could approach the firms and solicit participation of individual consultants. I studied resources available on the internet to identify the following questions: a. Which of the large management consultancies are active in the education sector in the GCC?b. Where is the centre of activity the central office?c. Who are the key people in the central offices?
+- 1) The first aim was practical: to identify management consultancies active in the GCC so that I could approach the firms and solicit participation of individual consultants. I studied resources available on the internet to identify the following questions: a. Which of the large management consultancies are active in the education sector in the GCC?b. Where is the centre of activity the central office?c. Who are the key people in the central offices?
 
-<!-- page 57 -->
+<!-- page 58 -->
 
 2) The second aim of the desk-based study was to locate resources made available in the public domain by management consultancies that addressed higher education. Following the findings of the literature review I understood these documents to be important strategies used by management consultancies to insert themselves in the market. In this search I was not only focused on material relating to the GCC. The interest was to establish an understanding of management consultancy's understanding of higher education in general: how the sector and its issues are conceptualised, what knowledge and expertise is offered and how it is warranted. I also wanted to compare and contrast resources relating to the GCC and resources related to the 'anglosphere' higher education sectors.
 
 In practice the process I followed to fulfil the first aim of the desk based was not straightforward because there are many differences in the construction of the websites of the large management consultancy firms. The differences hinge on the extent to which the websites are centralised, constructed to project the global reach and unity of the firm, or whether the websites disaggregate the firm in various geographical scales. For example, the BCG and McKinsey homepages are centralised, and they drive all content, contact and search facilities. In contrast, KPMG has a homepage that is simply linked to the homepages of national based member firms and these drive the content of the website. The BCG and McKinsey approach actually make it quite difficult to search on a specific geographical area of firm activity; the services provided by the firm are listed by industry and people rather than place. Furthermore, there are different approaches to labelling and locating the GCC, and some confusion of what is the 'Middle East'. For example, the *pwc* website presents the structure of the firm as organised by distributed 'member offices' which are listed by country, and each country has a further portal; some of these are in languages other than English^7^ . The global site also groups these member offices into 'territories': Africa, Americas, Asia/Asia Pacific, Eurasia, Europe, and the Middle East. The Middle East is the only 'territory' to have a website dedicated to it. It is only available in English and serves the nations of Bahrain, Egypt, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Oman; Qatar; Saudi Arabia, the United Arab Emirates, and the West Bank and Gaza. In the territorial portal, the Middle East is further divided into the GCC and MENA. Ernst and Young's global website describes the structure of the firm as composed of an Executive and 28 regions grouped under four 'geographical areas'^8^ which group countries together unevenly in terms of size, and without evident logic:
 
-Americas;
-
-Europe, Middle East, India and Africa (EMEIA);
-
-Asia-Pacific; and
-
-Japan^9^ .
+- Americas;
+- Europe, Middle East, India and Africa (EMEIA);
+- Asia-Pacific; and
+- Japan^9^ .
 
 Websites also differ in terms of how the knowledge and expertise of the firm is represented. Knowledge and expertise are presented as resources possessed by the global firm as a unit, as resources possessed by the consultants employed by the global firm, or as an asset reflecting the client/project base accumulated by the global firm. Alternatively, knowledge and expertise are presented as the personal possession of identified individuals in national offices.
 
-^7^ https://www.pwc.com/gx/en/about/office-locations.html [Accessed 8th August 2018]
+> ^7^ [https://www.pwc.com/gx/en/about/office-locations.html](https://www.pwc.com/gx/en/about/office-locations.html) [Accessed 8th August 2018]
 
-^8^ https://www.ey.com/en_gl/locations
+> ^8^ [https://www.ey.com/en_gl/locations](https://www.ey.com/en_gl/locations)
 
-^9^ https://www.ey.com/em/en/home
+> ^9^ [https://www.ey.com/em/en/home](https://www.ey.com/em/en/home)
 
-<!-- page 58 -->
+<!-- page 59 -->
 
 All websites (whether driven centrally or devolved) list 'industries' and 'services' with the former denoting a sector and the latter different types of work, e.g. advisory or tax. Higher education, as a sector, is often difficult to locate. Where 'education' is listed as an industry, higher education is sometimes a subsection. Where the industries are broader, e.g. 'social', 'public' or 'government' the subsection is normally simply 'education'.
 
@@ -1556,7 +1020,7 @@ A sample universe is defined via inclusion and exclusion criteria. In this study
 
 The size of the sample in this study reflects issues of access. It is known that access to professional service firms in general is highly problematic (Karjalainen et al 2015) but gaining access to management consultancies is known to be particularly difficult (Sturdy et al., 2009). As Kipping (1999, p. 194) notes, these organizations "are extremely secretive, preserve few internal documents, and divulge even less". Thus, researchers are advised to consider access as continuous process (Karjalainen et al 2015). Coherent with this, I had to use a range of approaches and adopted a 'snowball' sampling strategy (Biernacki and Waldorf, 1981), which is a form of convenience sampling (Saunders et al, 2012). The process relies on the contact network of participants and others who offer connections.
 
-<!-- page 59 -->
+<!-- page 60 -->
 
 Data-collection took place between January 8th and February 6th, 2018 in the United Arab Emirates. It was followed by three interviews conducted at a distance by Skype and telephone.
 
@@ -1568,13 +1032,10 @@ I write to ask if you would be willing to participate in an academic research pr
 
 I would be interested to talk with you about your work in the GCC context, and the public/education sector. Specifically, I would like to explore the following themes:
 
-how your experience and knowledge has developed in the region with respect to industries that have social/government relevance (e.g. education); how organisations have developed their own expertise and market position.
-
-what are the typical issues faced by clients (whether individuals, institutions, regulatory agencies/government)
-
-how your work with clients has evolved and is sustained. It is of particular interest to me to know how problems and solutions are identified within this professional and client relationship.
-
-finally, I would like to make a geographical assessment of the sources of expertise brought to bear in the GCC public/education sector; where the expertise, models etc. derive, where the people are from, and where networks connect.
+- how your experience and knowledge has developed in the region with respect to industries that have social/government relevance (e.g. education); how organisations have developed their own expertise and market position.
+- what are the typical issues faced by clients (whether individuals, institutions, regulatory agencies/government)
+- how your work with clients has evolved and is sustained. It is of particular interest to me to know how problems and solutions are identified within this professional and client relationship.
+- finally, I would like to make a geographical assessment of the sources of expertise brought to bear in the GCC public/education sector; where the expertise, models etc. derive, where the people are from, and where networks connect.
 
 I should also be grateful if I could obtain publications, reports, or other relevant documents that might further illustrate the above.
 
@@ -1584,9 +1045,9 @@ I guarantee that the research is conducted for academic purposes only. Furthermo
 
 I have substantial work experience in the higher education sector both in the UK and internationally (Singapore, UAE). You can view my (more brief) LinkedIn profile
 
-<!-- page 60 -->
+<!-- page 61 -->
 
-https://www.linkedin.com/in/drracheljohnson/ . I am currently on sabbatical, resident in Quebec.
+[https://www.linkedin.com/in/drracheljohnson/](https://www.linkedin.com/in/drracheljohnson/) . I am currently on sabbatical, resident in Quebec.
 
 I will be in the UAE from 2nd January – 7 th February 2018 for the purposes of data collection.
 
@@ -1604,25 +1065,21 @@ Interviews were conducted in an open-ended manner. A guide to the interview was 
 
 ## Questions to Consultants
 
-i. Individual a. Background (education, previous work roles, previous geographical contexts, current role)b. Development of expertise in current role: experiences that have built understanding of UAE/GCC context and the education sector.
+- i. Individual a. Background (education, previous work roles, previous geographical contexts, current role)b. Development of expertise in current role: experiences that have built understanding of UAE/GCC context and the education sector.
+- ii. Work experience with clients a. Typical clients (e.g. individuals, organisations, government agencies, government, investors)b. How clients are identified; how the consultant/firm positions itself to attract clientsc. How are problems identified and understood; what resources are drawn on (by consultant, by firm, in networks).d. How are solutions derived, presented, negotiated with clients?e. How work with clients evolves and is sustained?
 
-ii. Work experience with clients a. Typical clients (e.g. individuals, organisations, government agencies, government, investors)b. How clients are identified; how the consultant/firm positions itself to attract clientsc. How are problems identified and understood; what resources are drawn on (by consultant, by firm, in networks).d. How are solutions derived, presented, negotiated with clients?e. How work with clients evolves and is sustained?
+<!-- page 62 -->
 
-<!-- page 61 -->
-
-f. Are there specific demands of working with public sector/education organisations/issues?
-
-g. Are there specific demands of working in the UAE/GCC context?
+- f. Are there specific demands of working with public sector/education organisations/issues?
+- g. Are there specific demands of working in the UAE/GCC context?
 
 ## iii. Networks built/used
 
 When working with clients, and when building firm expertise, to what extent and how are the following significant?
 
-a. Transnational networks dynamic of knowledge transfer and negotiation across countries/cultures; resources brought to bear in the UAE/GCC from outside the region – both as present in people, and as formalised models and practices.
-
-b. Professional networks with professional associations
-
-c. Governance networks interactions with the influencers in the GCC/UAE.
+- a. Transnational networks dynamic of knowledge transfer and negotiation across countries/cultures; resources brought to bear in the UAE/GCC from outside the region – both as present in people, and as formalised models and practices.
+- b. Professional networks with professional associations
+- c. Governance networks interactions with the influencers in the GCC/UAE.
 
 ## iv. Geography
 
@@ -1630,33 +1087,26 @@ It became apparent that consultants are generally working on a regional basis. T
 
 ## Questions to Higher Education Leaders
 
-i. Why would universities here draw on external individuals or organisations?
-
-ii. What problems typically require the input of consultants?
-
-iii. What is the significance of working with the big generic firms rather than individuals? (What do they bring to the table? What value do they add to the interaction/solution?
-
-iv. Who are the range of consultants you have worked with where are they from?
-
-v. What was the nature of the interaction (e.g. collaborative, directive, leading, analytical)
-
-vi. What steps do consultancies take to understand universities, the GCC sector?
-
-vii. What resources have consultants brought models, templates, examples from elsewhere?
-
-viii. What was the impact of the consultancy (e.g. capacity building, changed people, programme of work)
+- i. Why would universities here draw on external individuals or organisations?
+- ii. What problems typically require the input of consultants?
+- iii. What is the significance of working with the big generic firms rather than individuals? (What do they bring to the table? What value do they add to the interaction/solution?
+- iv. Who are the range of consultants you have worked with where are they from?
+- v. What was the nature of the interaction (e.g. collaborative, directive, leading, analytical)
+- vi. What steps do consultancies take to understand universities, the GCC sector?
+- vii. What resources have consultants brought models, templates, examples from elsewhere?
+- viii. What was the impact of the consultancy (e.g. capacity building, changed people, programme of work)
 
 ## *Interviews Conducted *
 
 I conducted eleven in-depth interviews with consultants. Two were self-employed and one was Director of a specialist Higher Education consulting firm operating regionally in the GCC. Eight were from the Big Four Management Consultancy / Accountancy firms and the 'Strategy Houses' active in the region; all the Big Four and one Strategy House are reflected in the sample accessed. Three of these eight had recently left their positions in the big firms to set up their own firm or build new practices in existing mid-sized firms. I conducted a further five in-depth interviews with individuals who had been clients of large management consultancy firms. One of these was currently a regulator for a Ministry of Higher Education and previously been a university president. Three had also worked as consultants with three of the Big Four. One of the five continued to work
 
-<!-- page 62 -->
+<!-- page 63 -->
 
 for one of the Big Four as a Subject Matter Expert (performance management) in the GCC whilst simultaneously working as deputy to the CEO of a Ministry of Education. This participant was the only Emirati I interviewed. The others were from the UK (5), USA (1), Canada (1), India (2), Netherlands (1), Germany (2), Australia (1), Lebanon (1), Jordan (1). Twelve were male and four were female.
 
 Three interviews were conducted by phone (one conference call from Quebec through the Big Four firm's Canada/Toronto call centre to Riyadh, Saudi Arabia), two at the consultants' own expense from India to the UAE. Two interviews were conducted by Skype from Canada to the UK.
 
-<!-- page 63 -->
+<!-- page 64 -->
 
 ## **CHAPTER FIVE**
 
@@ -1678,7 +1128,7 @@ Bricolage involves abduction, a combination of inductive and deductive reasoning
 
 Yet induction and deduction are never so clear cut. Inductive readings of the data are informed by the existing sensibilities of the researcher, such as her prior understanding of the literature. This is inevitable given that the research has been constructed and justified on the basis of extant literature and theoretical interests. Furthermore, deduction involves subjective interpretations and purposeful manipulations to implement the analysis against theory. Therefore, during the abductive reasoning processes the researcher must maintain a reflexive awareness. Finlay (2002:210) provides a definition of reflexivity that is broad enough to encompass the multiple ways in which reflexivity is understood and deployed in research. It is "the project of examining
 
-<!-- page 64 -->
+<!-- page 65 -->
 
 how the researcher and intersubjective elements impinge on, and even transform, research". The objective is to monitor and evaluate the research process "in an effort to enhance the trustworthiness, transparency and accountability" of the research (p. 211). She advises that researchers should identify their own perspective on reflexivity and avoid falling into "the mire of the infinite regress of excessive self analysis and deconstructions at the expense of focusing on the research participants and developing understanding" (Finlay, 2002: 212). Moreover, the reflexive account is not given in order that the researcher's actions can subtracted from the results; the researcher remains an active part of the meanings and explanations rendered in the analysis process. Here I explain how ideas emerged and working hypotheses developed during the analysis process (Coffey and Atkinson, 1996) and some of the reasoning behind the approaches used in analysis and analytic thought processes.
 
@@ -1692,9 +1142,9 @@ The sound quality of some the interviews conducted by telephone or in noisy loca
 
 Photographs of the interview location were also included in the transcripts, such as those shown below. Invariably the large firms' offices were in the heart of the city and business centres reflecting "the importance of a reputation of professionalism, sustained, in particular at the larger firms, by a strong brand" (Kipping, 2011: 534) and the role in this of 'tangible symbols', such as 'distinctive locations' and 'distinctive buildings' (Alvesson and Robertson, 2006: 212).
 
-<!-- page 65 -->
+<!-- page 66 -->
 
-![TH.R08 fig07](../figures/TH/TH.R08_fig07.jpg)
+![TH.R08 fig06](../figures/TH/TH.R08_fig06.jpg)
 
 ## *Use of the Transcripts in the Discussion of the Findings*
 
@@ -1710,7 +1160,7 @@ The full quotes also support Silverman's call to demonstrate the responsive inte
 
 According to Charmaz (1995), the labelling process highlights aspects of the interview to the researcher and holds them still. This then enables the researcher to pay attention to selected text. Accordingly, the analysis began with a close reading of the text of each interview to identify the substantive issues raised in discussion. This is an inductive process that resulted in marking chunks of text with a label that identified the substantive issue. Practically, the chunks of text
 
-<!-- page 66 -->
+<!-- page 67 -->
 
 were either initially paraphrased or simply copied and pasted into the first column of a table. The re-descriptive label was entered alongside in a second column. Each entry into the table was referenced to the line number in the transcript to indicate the start of the discussion of each issue. This enabled text to be retrieved. At times it was necessary to apply several re-descriptive labels to the same section of text because several substantive issues were present. At this initial stage, the re-descriptions were internally referenced to each interview – meaning that the re-descriptive labels were developed independently of the contents of a different interview.
 
@@ -1727,11 +1177,11 @@ The result of the two parts of *Stage one* - the selection and re-description of
 
 | 359 | "and whether they have the capability and capacity to | Capacity building - PC |
 | --- | --- | --- |
-|   | interrogate the operational implications of a highly desirable strategy and cost-effective way to make it work. Because otherwise it just becomes shelf-ware, it just becomes decoration." | Clients need to become more expert in use of consultants – Consultant expert relative to |
+|  | interrogate the operational implications of a highly desirable strategy and cost-effective way to make it work. Because otherwise it just becomes shelf-ware, it just becomes decoration." | Clients need to become more expert in use of consultants – Consultant expert relative to |
 
-<!-- page 67 -->
+<!-- page 68 -->
 
-|   |   | client in terms of implementation PC |
+|  |  | client in terms of implementation PC |
 | --- | --- | --- |
 | 494 | Knowledge transfer has to be managed by the client: "Because often in contracting, particularly on larger projects, you hear about, "We want the knowledge transfer. We always want the knowledge transfer". So, we used to say, "OK, how many people do you want to put on our team? And what sort of basis are they there on". And in some cases, we got some very good people where the knowledge transfer took place" | Third space Requirement for active client. Knowledge transfer effective if client is 'subaltern' Client responsibility for implementation failure – where knowledge transfer fails. |
 
@@ -1743,13 +1193,12 @@ A further two columns were added to the table for each interview: a letter ident
 
 ## *Stage two, part two*
 
-i) Across all interviews, a total of thirteen themes were generated. A numerical indicator was given to each theme: 1. Brand2. Market for consultancy3. Expertise4. Business model of the firm5. Needs of the higher education sector6. Networks7. Knowledge generation8. Private sector9. Outsourcing10. Capacity11. Client relationships12. Contextualisation
+- i) Across all interviews, a total of thirteen themes were generated. A numerical indicator was given to each theme: 1. Brand2. Market for consultancy3. Expertise4. Business model of the firm5. Needs of the higher education sector6. Networks7. Knowledge generation8. Private sector9. Outsourcing10. Capacity11. Client relationships12. Contextualisation
 
-<!-- page 68 -->
+<!-- page 69 -->
 
-13. Other influences on the higher education sector
-
-ii) Two further columns were inserted to the right in the table. Then, a secondary analysis of these re-descriptive labels within each theme identified a maximum of two other themes that each re-descriptive label also related to, or 'sub-themes'. These were also indexed numerically.
+- 13. Other influences on the higher education sector
+- ii) Two further columns were inserted to the right in the table. Then, a secondary analysis of these re-descriptive labels within each theme identified a maximum of two other themes that each re-descriptive label also related to, or 'sub-themes'. These were also indexed numerically.
 
 ## *Stage three*
 
@@ -1757,27 +1206,27 @@ Next the labels relating to each of the themes were grouped from all interview t
 
 An example of the outcome is as follows. This deals with theme 1 and subtheme expertise (3).
 
-| 2 | C | Big Four consultancies are not education experts | 1 | 3 |   |
+| 2 | C | Big Four consultancies are not education experts | 1 | 3 |  |
 | --- | --- | --- | --- | --- | --- |
-| 2 | D | Value of expertise correlated to brand | 1 | 3 |   |
-| 3 | F | Clients purchase expertise credentials | 1 | 3 |   |
-| 9 | F | Clients purchase expertise credentials | 1 | 3 |   |
-| 23 | G | Legitimacy claims for expertise – contingent on brand value / image | 1 | 3 |   |
-| 16 | J | Value of expertise lies in brand | 1 | 3 |   |
-| 55 | L | Value of expertise is in the credibility the brand affords the client | 1 | 3 |   |
+| 2 | D | Value of expertise correlated to brand | 1 | 3 |  |
+| 3 | F | Clients purchase expertise credentials | 1 | 3 |  |
+| 9 | F | Clients purchase expertise credentials | 1 | 3 |  |
+| 23 | G | Legitimacy claims for expertise – contingent on brand value / image | 1 | 3 |  |
+| 16 | J | Value of expertise lies in brand | 1 | 3 |  |
+| 55 | L | Value of expertise is in the credibility the brand affords the client | 1 | 3 |  |
 | 40 | F | Myth of consultant expertise | 1 | 3 | 2 |
-|   |   | Clients purchase expertise credentials – brand value |   |   |   |
+|  |  | Clients purchase expertise credentials – brand value |  |  |  |
 | 14 | G | Value in global reach | 1 | 3 | 4 |
-|   |   | Network in expertise |   |   |   |
-|   |   | Market value increases with educational expertise and ability to |   |   |   |
-|   |   | contextualise |   |   |   |
+|  |  | Network in expertise |  |  |  |
+|  |  | Market value increases with educational expertise and ability to |  |  |  |
+|  |  | contextualise |  |  |  |
 | 66 | H | Expertise contingent on the client base | 1 | 3 | 2 |
-|   |   | Value of expertise increased by branding |   |   |   |
-|   |   | Market increased by branding previous experience |   |   |   |
+|  |  | Value of expertise increased by branding |  |  |  |
+|  |  | Market increased by branding previous experience |  |  |  |
 | 54 | F | Clients buy expert credentials | 1 | 3 | 5 |
 | 30 | H | Value of expertise contingent on brand of firm | 1 | 3 | 5 |
 
-<!-- page 69 -->
+<!-- page 70 -->
 
 | 42 | F | Expertise is in global reach Networking in expertise – buying power of size and brand value | 1 | 3 | 6 |
 | --- | --- | --- | --- | --- | --- |
@@ -1790,25 +1239,19 @@ An example of the outcome is as follows. This deals with theme 1 and subtheme ex
 
 All text labelled '**PC**' or '**Third space**' was brought together in a single document. The original text (or paraphrased text) was again sorted into 'themes' in a manner similar to stage one of the detailed analysis described above. This process resulted in the production of seven further themes.
 
-1. PC Bringing in external ideas
-
-2. PC Deficit analysis of the context of the consultancy contract
-
-3. PC International knowledge networks
-
-4. PC Market building
-
-5. PC Shaping influence of consultancy
-
-6. PC 'Socialise the solution' contextualisation
-
-7. Third space: Active client and capacity building
+- 1. PC Bringing in external ideas
+- 2. PC Deficit analysis of the context of the consultancy contract
+- 3. PC International knowledge networks
+- 4. PC Market building
+- 5. PC Shaping influence of consultancy
+- 6. PC 'Socialise the solution' contextualisation
+- 7. Third space: Active client and capacity building
 
 The analysis to this point had primarily focused on the substance and content of the interview conversations. It had resulted in a set of themes representing my interpretations of the issues raised in the discussion. The 'conceptual leap' required is to make collective sense of these interpretations via a continuing interrogation of the analysis.
 
 The continuing interrogation returned me to the research question and theoretical framework to assess how the themes were relevant to the question of how (strategies and mechanisms) large management consultancy firms are inserting themselves in the higher education sector of the GCC, and the significance of power as means of understanding the strategies and mechanisms. As an inductive process I used the existing literature on management consultancy to read the themes and the data contained by them, connecting the themes with issues that other researchers have raised as significant – as presented in the literature review. As a deductive process I used the theoretical framework of power to read the themes and the data contained by them in terms of
 
-<!-- page 70 -->
+<!-- page 71 -->
 
 the presence of power, in different forms, in different spaces, and on different levels. The appraisal of the data analysis against the theoretical framework resulted in a prioritisation of the themes. It also gave rise to a structure for analytical discussion of the themes – a discussion that also incorporates and is enriched by the literature on management consultancy relevant to those themes.
 
@@ -1824,19 +1267,14 @@ Critical discourse is interested in the examination of discursive properties of 
 
 In terms of practical techniques, Rapley (2007: 121) recommends attention to:
 
-How an argument, idea or concept is developed
+- How an argument, idea or concept is developed
+- What is not said the silences, gaps or omissions
+- The rhetorical work of the text: structure, organisation, and acts of persuasion of its own authority
+- The range of sources of knowledge and evidence, and discourses drawn on (and excluded)
+- The assumptions made in the text
+- The historical trajectory of what is now taken for granted: "ideas, practices and identities that emerge, transform, mutate and become relatively stable".
 
-What is not said the silences, gaps or omissions
-
-The rhetorical work of the text: structure, organisation, and acts of persuasion of its own authority
-
-The range of sources of knowledge and evidence, and discourses drawn on (and excluded)
-
-The assumptions made in the text
-
-The historical trajectory of what is now taken for granted: "ideas, practices and identities that emerge, transform, mutate and become relatively stable".
-
-<!-- page 71 -->
+<!-- page 72 -->
 
 I made the assumption that the resources were produced with intent. I assumed that the text was carefully considered and purposive and its analysis would reveal intentions and motives. These assumptions are supported by discussion in the literature that highlights how persuasion and impression management is at the core of management consultancy (Alvesson, 1993; Clark and Salaman, 1998) and that the expertise of management consultancy needs to be performed to and recognised by others (Greenwood et al, 2005; Treem, 2016). Building reputation around innovative knowledge is crucial for competitive advantage (Heusinkveld and Benders, 2002) and the identification of problems and their solution key to the creation of niches and generating demand by clients who are persuaded they sit in that niche (Seabrooke, 2014). In this manner the resources can be evaluated as mechanisms that offer 'certainty within uncertainty' (Sturdy, 1997 – process; Alvesson, 2011).
 
@@ -1850,7 +1288,7 @@ One example from each set of resources demonstrate the above approach to analysi
 
 The next five chapters of the thesis present the results of the data analysis processes and relate these to the research objective of identifying the strategies and mechanisms used by large management consultancies to insert themselves in the higher education sector of the GCC.
 
-<!-- page 72 -->
+<!-- page 73 -->
 
 The first of the five chapters provides a political economy analysis of the GCC as a context in terms of themes relevant to the research: the postcolonial heritage of the GCC nations, the relationship between monarchical rule and transnational governance; the higher education sectors of the six GCC nations; management consultancy in the GCC over time; and, the large management consultancy firms active in the region.
 
@@ -1864,11 +1302,11 @@ The third of the four chapters refers to the data to identify client-focused str
 
 The final of the four chapters concludes discussion of the data analysis by considering the outcomes of the insertion of the large management consultancy firms in the GCC higher education
 
-<!-- page 73 -->
+<!-- page 74 -->
 
 sector. The resources and interview accounts provide evidence to suggest that management consultants are active in promoting the interests of private sector capital and ownership in the higher education sector and influencing policy agendas and instruments to facilitate the private sector. Firm perspectives on the problems and solutions of the sector are characteristic of a neoliberal agenda, broadly put. This is very clear when project work involves policy work with governments, private investors and private providers, but it is also evident in how agendas for the public sector are defined. In terms of the *powercube* we see how invisible, hidden, and visible forms of power serve to transform the GCC higher education space from a nationally bounded sector focused on national needs to a sector that is exposed to the globally circulating discourse and mechanisms of neoliberalism.
 
-<!-- page 74 -->
+<!-- page 75 -->
 
 ## **CHAPTER SIX**
 
@@ -1886,11 +1324,11 @@ Martin (2014: 71 – 72)^10^ charts the colonial history of the Gulf region as b
 
 "*The starting point of most of the contemporary socio-political issues of the AGS is the * *British colonial legacy in the Gulf. [For nearly 150 years up to military withdrawal in 1968 * *and formal withdrawal in 1971] Britain was the sole power, and unilaterally tampered with * *the social and political realities in the region. It changed rulers, imposed artificial borders, * *prevented change, and basically preserved the existing tribal order. Many of the socio**political dilemmas created by Britain continue to exist well into the twenty-first century. *
 
-^10^ http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.630881 [Accessed 27th July]
+> ^10^ [http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.630881](http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.630881) [Accessed 27th July]
 
-^11^ http://eprints.lse.ac.uk/55523/ [Accessed 26th July 2018]
+> ^11^ [http://eprints.lse.ac.uk/55523/](http://eprints.lse.ac.uk/55523/) [Accessed 26th July 2018]
 
-<!-- page 75 -->
+<!-- page 76 -->
 
 *They decisively influence issues of change and continuity, political reform, and stagnation * *and the various developmental options confronting the AGS*."
 
@@ -1902,11 +1340,11 @@ GCC nations maintain political systems of authoritarian rule; they are all monar
 
 Within political science a variety of theories have developed offering explanations of the persistence of authoritarian rule in the GCC, with many linking the absence of democratic pressures to the continued wealth provided by oil. This understanding, or rentier-state theory, proposes that the wealth provided by externally derived revenues (international oil sales) allows the continuation of non-democratic political regimes so long as the wealth is distributed to the population without crisis or taxation (Martín, 2014). Martín's thesis argues that despite this settlement the Gulf states are in a process of transition towards liberalisation as a result of "state maturity, globalisation, development policies, population and employment pressures" (p.33). She argues that the Arab Spring demonstrated "the forces for change that were bubbling below, and at times above, the surface of Arab politics" (p.32). The explanation for change includes state failure and financial crisis, but also by the effects of a capitalist system dependent on global dynamics, and the 'US hegemon'. Her thesis concerns the role of higher education in stimulating pressures
 
-^12^ https://object.cato.org/sites/cato.org/files/pubs/pdf/pa046.pdf [Accessed 6th September 2018]
+> ^12^ [https://object.cato.org/sites/cato.org/files/pubs/pdf/pa046.pdf](https://object.cato.org/sites/cato.org/files/pubs/pdf/pa046.pdf) [Accessed 6th September 2018]
 
-^13^ https://www.e-ir.info/2014/03/07/geopolitics-or-delusions-the-dilemmas-of-american-policy-in-thepersian-gulf/ [Accessed 6 th September 2018]
+> ^13^ [https://www.e-ir.info/2014/03/07/geopolitics-or-delusions-the-dilemmas-of-american-policy-in-the](https://www.e-ir.info/2014/03/07/geopolitics-or-delusions-the-dilemmas-of-american-policy-in-the-persian-gulf/)[persian-gulf/](https://www.e-ir.info/2014/03/07/geopolitics-or-delusions-the-dilemmas-of-american-policy-in-the-persian-gulf/) [Accessed 6 th September 2018]
 
-<!-- page 76 -->
+<!-- page 77 -->
 
 for democratic political participation. She sees rentier-state theory as inadequate because it does not account for the significance to change of transnational institutions and international exposure. Martín argues that pressures for change result from both economic globalisation and 'agents of political socialization' such as education, information technology, and interaction with foreign populations domestically and abroad. This thesis is supported by Berti and Guzansky (2015: 47) who note that "societies across the region are increasingly better educated, more connected both between each other and globally" with the monarchies becoming aware that "citizens are political actors rather than passive subjects".
 
@@ -1918,13 +1356,13 @@ These studies explain how authoritarian regimes persist by adaptation. In the co
 
 The following overview of the context of higher education in the GCC nations evidences rapidly growing higher education sectors. The account draws mainly on a report provided for private equity investors by Alpen Capital (Alpen, 2016^14^). The choice of this single source is somewhat forced by the fact that that complete statistical accounts are not available on either national or regional levels and different sources tend to contradict each other or prove incompatible because of differences in the criteria, concepts and measures used. For example, the UAE Emirate of Dubai categorises universities by their type of licence^15^ whereas the UAE Emirate of Abu Dhabi categories universities by type of ownership^16^ .
 
-^14^ All page numbers refer to this document unless another reference is stated.
+> ^14^ All page numbers refer to this document unless another reference is stated.
 
-^15^ https://www.khda.gov.ae/CMS/WebParts/TextEditor/Documents/LandscapePEEnglish.pdf [Accessed 8th November 2018]
+> ^15^ [https://www.khda.gov.ae/CMS/WebParts/TextEditor/Documents/LandscapePEEnglish.pdf](https://www.khda.gov.ae/CMS/WebParts/TextEditor/Documents/LandscapePEEnglish.pdf) [Accessed 8th November 2018]
 
-^16^ https://www.adek.abudhabi.ae/en/Students/Pages/List-of-Higher-Education-Institution.aspx [Accessed 8th November 2018]
+> ^16^ [https://www.adek.abudhabi.ae/en/Students/Pages/List-of-Higher-Education-Institution.aspx](https://www.adek.abudhabi.ae/en/Students/Pages/List-of-Higher-Education-Institution.aspx) [Accessed 8th November 2018]
 
-<!-- page 77 -->
+<!-- page 78 -->
 
 ## *Expenditure*
 
@@ -1956,7 +1394,7 @@ The UAE and Qatar have established international universities and seek to attrac
 
 **Saudi Arabia**: In the period 2009 – 2014 the GER doubled and is now the highest in the GCC, above that of the UK, and equivalent to that experienced by Germany in 2013. Government expenditure in the vocational and technical training sector grew by 41% in the period 2009 – 2014 to US$6.1 billion (p.17). The government is building three new universities, several college campuses, 67 technical colleges and 100 'colleges of excellence' (p.34). However, a *pwc* summary of the education system in the Kingdom (*pwc*, 2017:1) suggests that the private sector will take advantage of future development:
 
-<!-- page 78 -->
+<!-- page 79 -->
 
 "*The initial education related objectives laid out in Vision 2030 challenge all elements of * *the system to improve on historical performance and prepare the country's workforce for a * *diversified and knowledge-**based economy. How will the Kingdom's providers, regulators * *and funders respond? Can an environment be created that will attract the private sector, * *seen as being key to funding capacity and raising quality*?"
 
@@ -1968,21 +1406,17 @@ The UAE and Qatar have established international universities and seek to attrac
 
 **Qatar**: In Qatar enrollment in higher education doubled in the period 2009 – 2014 but remains the lowest in the GCC at 15.8% (p.26). However, the government aims to increase this to at least 30% for men and 56% for women by:
 
-providing education opportunities to students who are not able to secure admission to universities (p.26);
-
-the expansion of the Qatar Foundation campus;
-
-the restructuring of the Qatar University;
-
-establishing a new community college; and
-
-announcing additional vocational and technical education streams (p.40).
+- providing education opportunities to students who are not able to secure admission to universities (p.26);
+- the expansion of the Qatar Foundation campus;
+- the restructuring of the Qatar University;
+- establishing a new community college; and
+- announcing additional vocational and technical education streams (p.40).
 
 **Bahrain**: Enrollment in Bahraini higher education has grown since 2009 and this is attributed to accelerated government reforms of the sector. The National Higher Education Strategy (2014- 2024) "*focuses on improving the quality of education, aligning the skills to address the gap* *between higher education and the job market, enhancing linkages between higher education and * *vocational education, providing smart education, developing entrepreneurial capabilities, and * *making the country a regional hub of private higher education*" (p.31).
 
 The themes offered by this overview are the uneven characteristics of the region, with differences between the six nations attributed to the starting point and rate of social, economic, and political development after being established as nations. Common themes are rapid expansion in provision and enrolment, public investment, the use of the private sector, and political motivations based on assumptions about the role of higher education in economic growth and the transition from oilbased revenues to revenues generated by a corporate, private-sector 'knowledge economy'.
 
-<!-- page 79 -->
+<!-- page 80 -->
 
 ## **The Scale and Impact of Management Consultancy** **in** **the GCC Context**
 
@@ -1994,19 +1428,19 @@ Despite the concentration of revenue generating activity in five nations [US, Ca
 
 The above figures relate to the totality of the management consultancy industry present in the GCC – small, medium and large firms active in all industry sectors. The next section presents the
 
-^17^ For example,: https://www.ey.com/em/en/newsroom/news-releases/17-september-2013-ey-completes-90-years-in-the-middle-east-and-north-africa-region [Accessed 20th July 2018]
+> ^17^ For example,:[ https://www.ey.com/em/en/newsroom/news-releases/17-september-2013-ey-completes-](https://www.ey.com/em/en/newsroom/news-releases/17-september-2013-ey-completes-90-years-in-the-middle-east-and-north-africa-region)[90-years-in-the-middle-east-and-north-africa-region](https://www.ey.com/em/en/newsroom/news-releases/17-september-2013-ey-completes-90-years-in-the-middle-east-and-north-africa-region) [Accessed 20th July 2018]
 
-^18^ https://www2.deloitte.com/iq/en/pages/about-deloitte/articles/about-deloitte-middleeast.html [Accessed 20th July 2018]
+> ^18^ [https://www2.deloitte.com/iq/en/pages/about-deloitte/articles/about-deloitte-middleeast.html](https://www2.deloitte.com/iq/en/pages/about-deloitte/articles/about-deloitte-middleeast.html) [Accessed 20th July 2018]
 
-^19^ https://www.pwc.com/m1/en/about-us.html [Accessed 20th July 2018]
+> ^19^ [https://www.pwc.com/m1/en/about-us.html](https://www.pwc.com/m1/en/about-us.html) [Accessed 20th July 2018]
 
-^20^ https://www.mckinsey.com/middle-east [Accessed 20th July 2018]
+> ^20^ [https://www.mckinsey.com/middle-east](https://www.mckinsey.com/middle-east) [Accessed 20th July 2018]
 
-^21^ Global revenues in 2015 were US $126 billion https://www.statista.com/statistics/466460/globalmanagement-consulting-market-size-by-sector/ [Accessed 24th July 2018]
+> ^21^ Global revenues in 2015 were US $126 billion[ https://www.statista.com/statistics/466460/global](https://www.statista.com/statistics/466460/global-management-consulting-market-size-by-sector/)[management-consulting-market-size-by-sector/](https://www.statista.com/statistics/466460/global-management-consulting-market-size-by-sector/) [Accessed 24th July 2018]
 
-^22^ https://www.consultancy-me.com/news/122/management-consulting-market-of-gcc-grows-9-to-27 billion [Accessed July 20th 2018].
+> ^22^ [https://www.consultancy-me.com/news/122/management-consulting-market-of-gcc-grows-9-to-27](https://www.consultancy-me.com/news/122/management-consulting-market-of-gcc-grows-9-to-27-billion) [billion](https://www.consultancy-me.com/news/122/management-consulting-market-of-gcc-grows-9-to-27-billion) [Accessed July 20th 2018].
 
-<!-- page 80 -->
+<!-- page 81 -->
 
 findings of the desk-based research which sought to identify which of the *large* management consultancy firms are active in the GCC *higher education sector*.
 
@@ -2022,35 +1456,29 @@ The Middle East portal presents its knowledge and expertise as a function of the
 
 The firm's work in the Middle East is highlighted and yet disaggregated from the 'global' by effect of its juxtaposition. This then also forces a contrast between the 'Middle East' and what is described as 'global' with the implication that the latter is constructed as superior to the former.
 
-*'**We work with clients across the region and internationally to create world-class P-12, * *higher education, vocational, and research inst**itutions from strategy through execution'. *
-
-*'We understand the challenges facing education systems in the Middle East* *and we * *recognise the clear characteristics of some of the world's most successful systems.'*
+- *'**We work with clients across the region and internationally to create world-class P-12, * *higher education, vocational, and research inst**itutions from strategy through execution'. *
+- *'We understand the challenges facing education systems in the Middle East* *and we * *recognise the clear characteristics of some of the world's most successful systems.'*
 
 The expertise that *pwc* possesses is presented as an accumulation of local experience supported by the 'global' sphere of work at the 'forefront'. The services offered extend to functions typical of government ministries, senior academic and professional executive officers within universities, and academic researchers in the field of education:
 
 *In response to the unique needs of our region and at the forefront of global trends, we have * *developed areas of deep expertise including:*
 
-*Policy reform and strategy, quality improvement and fee regulation*
+- *Policy reform and strategy, quality improvement and fee regulation*
+- *Strategic planning and implementation for new education institutions and professional * *training academies*
+- *Market entry and expansion strategy for nurseries, schools, colleges and universities,*
 
-*Strategic planning and implementation for new education institutions and professional * *training academies*
+> ^23^ [https://www.pwc.com/m1/en/industries/education.html](https://www.pwc.com/m1/en/industries/education.html) [Accessed 8th August, 2018]
 
-*Market entry and expansion strategy for nurseries, schools, colleges and universities,*
+> ^24^ [https://www.pwc.co.uk/industries/government-public-sector.html](https://www.pwc.co.uk/industries/government-public-sector.html) [Accessed 8th August, 2018]
 
-^23^ https://www.pwc.com/m1/en/industries/education.html [Accessed 8th August, 2018]
+> ^25^ [https://www.pwc.com/gx/en/industries/government-public-services.html](https://www.pwc.com/gx/en/industries/government-public-services.html) [Accessed 8th August, 2018]
 
-^24^ https://www.pwc.co.uk/industries/government-public-sector.html [Accessed 8th August, 2018]
+<!-- page 82 -->
 
-^25^ https://www.pwc.com/gx/en/industries/government-public-services.html [Accessed 8th August, 2018]
-
-<!-- page 81 -->
-
-Education institution transformation, efficiency and digitization
-
-Gender specific, early learning and special education needs
-
-Curriculum design, education technology, programme accreditation, innovation and entrepreneurship
-
-In-depth research on education sector issues such as labour market readiness and national curriculum reform
+- Education institution transformation, efficiency and digitization
+- Gender specific, early learning and special education needs
+- Curriculum design, education technology, programme accreditation, innovation and entrepreneurship
+- In-depth research on education sector issues such as labour market readiness and national curriculum reform
 
 The 'Middle East Region' portal provides resources addressing or addressed to the constituent GCC countries collectively. Some of these documents are more pointedly directed at the GCC. The website provides several resources for or about the higher education sector that are authored within the Middle East and other countries – most frequently the UK<sup>26</sup> or the US<sup>27</sup>.
 
@@ -2062,21 +1490,21 @@ Deloitte also maintains a site dedicated to the 'Deloitte University' which offe
 
 None of the national websites for Deloitte in each of the GCC nations lists education as an industry or as an industry subsection. However, they do contain education related resources (briefings, reports)<sup>32</sup> and some of these are tailored to the GCC or specific GCC nations. Education is also
 
-^&^lt;sup>26</sup> https://www.pwc.co.uk/consulting/assets/documents/align-pwc-higher-education.pdf [Accessed 8th August 2018]
+> ^&^lt;sup>26</sup> https://www.pwc.co.uk/consulting/assets/documents/align-pwc-higher-education.pdf [Accessed 8th August 2018]
 
-^&^lt;sup>27</sup> <a href="https://www.pwc.com/us/en/publications/data-science-and-analytics-skills.html">https://www.pwc.com/us/en/publications/data-science-and-analytics-skills.html</a> [Accessed 8th August 2018]
+> ^&^lt;sup>27</sup> <a href="https://www.pwc.com/us/en/publications/data-science-and-analytics-skills.html">https://www.pwc.com/us/en/publications/data-science-and-analytics-skills.html</a> [Accessed 8th August 2018]
 
-^&^lt;sup>28</sup> https://www2.deloitte.com/global/en.html?icid=site_selector_global [Accessed 22<sup>nd</sup> October 2017]
+> ^&^lt;sup>28</sup> https://www2.deloitte.com/global/en.html?icid=site_selector_global [Accessed 22<sup>nd</sup> October 2017]
 
-^&^lt;sup>29</sup> https://www2.deloitte.com/za/en/industries/public-sector/civil-government.html?icid=top_civil-government [Accessed 8<sup>th</sup> August, 2018]
+> ^&^lt;sup>29</sup> https://www2.deloitte.com/za/en/industries/public-sector/civil-government.html?icid=top_civil-government [Accessed 8<sup>th</sup> August, 2018]
 
-^&^lt;sup>30</sup> https://www2.deloitte.com/uk/en/pages/careers/articles/transforming-student-experience-northumbria-university.html [Accessed 8th August, 2018]
+> ^&^lt;sup>30</sup> https://www2.deloitte.com/uk/en/pages/careers/articles/transforming-student-experience-northumbria-university.html [Accessed 8th August, 2018]
 
-^&^lt;sup>31</sup> https://www2.deloitte.com/us/en/pages/about-deloitte/articles/deloitte-university-leadership-center.html# [Accessed 9<sup>th</sup> August, 2018]
+> ^&^lt;sup>31</sup> https://www2.deloitte.com/us/en/pages/about-deloitte/articles/deloitte-university-leadership-center.html# [Accessed 9<sup>th</sup> August, 2018]
 
-^&^lt;sup>32</sup> https://www2.deloitte.com/sa/en/pages/public-sector/topics/education.html?icid=nav2_education# [Accessed 22<sup>nd</sup> October, 2017
+> ^&^lt;sup>32</sup> https://www2.deloitte.com/sa/en/pages/public-sector/topics/education.html?icid=nav2_education# [Accessed 22<sup>nd</sup> October, 2017
 
-<!-- page 82 -->
+<!-- page 83 -->
 
 specifically mentioned in the UAE website for Deloitte, with the UAE described as 'a core practice within our Middle East region'.
 
@@ -2086,17 +1514,12 @@ KPMG has a global site that links to the office locations of KPMG in the world. 
 
 The GCC nations are grouped within the 'Asia region' and the domain hub for each is written in English. KPMG is present in each of the six GCC nations as a privately and nationally incorporated company, except for KPMG Oman, which is registered in the UAE. Three operate as partnerships.
 
-*KPMG Fakhro, a Bahrain partnership *
-
-*KPMG Safi Al-Mutawa and Partners, a Kuwait partnership *
-
-*Oman: KPMG LLP and KPMG Lower Gulf Limited, registered in the UAE *
-
-*KPMG, Qatar Branch is registered with the Ministry of Economy and Commerce, State of * *Qatar and KPMG LLC, a limited liability company registered with Qatar Financial Centre * *Authority (QFCA), State of Qatar *
-
-*Saudi Arabia: KPMG Al Fozan & Partners Certified Public Accountants*
-
-*UAE: KPMG Lower Gulf Limited, registered in the UAE *
+- *KPMG Fakhro, a Bahrain partnership *
+- *KPMG Safi Al-Mutawa and Partners, a Kuwait partnership *
+- *Oman: KPMG LLP and KPMG Lower Gulf Limited, registered in the UAE *
+- *KPMG, Qatar Branch is registered with the Ministry of Economy and Commerce, State of * *Qatar and KPMG LLC, a limited liability company registered with Qatar Financial Centre * *Authority (QFCA), State of Qatar *
+- *Saudi Arabia: KPMG Al Fozan & Partners Certified Public Accountants*
+- *UAE: KPMG Lower Gulf Limited, registered in the UAE *
 
 Education is not listed as an industry in KPMG's global site, and neither is it a subsection of the Government and Public Services industry. Education is listed as a sector in the Infrastructure, Government and Healthcare 'industry' in the UK domain hub, as an industry in the Australian hub, as a sector in the Government and Public Sector industry of the Canadian hub, but it is not listed within the US hub.
 
@@ -2104,11 +1527,11 @@ Education is listed as an industry in the hubs for the UAE and Oman. The GCC hub
 
 "*we deliver the strategic and infrastructure components which support new and highly * *dynamic business models in schools, colleges and universities. Our vision is to become * *'architects of the knowledge economy', delivering sustained competitive advantage to our * *clients. Our approach is simple: to enable our clients to transform their enterprises using a * *delivery model that integrates and inter-relates a seamless stream of solutions*" (op cit).
 
-^ ^ ^33^ https://home.kpmg.com/xx/en/home/misc/site-selector.html [Accessed 9th August, 2018]
+> ^ ^ ^33^ [https://home.kpmg.com/xx/en/home/misc/site-selector.html](https://home.kpmg.com/xx/en/home/misc/site-selector.html) [Accessed 9th August, 2018]
 
-^34^ https://home.kpmg.com/ae/en/home/industries/education.html [Accessed 22nd October 2017]
+> ^34^ [https://home.kpmg.com/ae/en/home/industries/education.html](https://home.kpmg.com/ae/en/home/industries/education.html) [Accessed 22nd October 2017]
 
-<!-- page 83 -->
+<!-- page 84 -->
 
 ## *The Boston Consulting Group*
 
@@ -2132,17 +1555,17 @@ In the UAE McKinsey has offices in Abu Dhabi and Dubai. In Abu Dhabi, McKinsey w
 
 "*McKinsey has grown with the city, and today we have a major office in the Dubai * *International Financial Centre. We work closely with many of the leading institutions * *driving Dubai's growth, in the public sector and across industries such as financial services, * *retail, infrastructure, real estate, and family-owned business*."^39^
 
-^35^ https://www.bcg.com/ [Accessed 10th August, 2018]
+> ^35^ [https://www.bcg.com/](https://www.bcg.com/) [Accessed 10th August, 2018]
 
-^36^ https://www.bcg.com/industries/education/experts.aspx
+> ^36^ [https://www.bcg.com/industries/education/experts.aspx](https://www.bcg.com/industries/education/experts.aspx)
 
-^37^ https://www.mckinsey.com/middle-east/our-work
+> ^37^ [https://www.mckinsey.com/middle-east/our-work](https://www.mckinsey.com/middle-east/our-work)
 
-^38^ https://www.mckinsey.com/middle-east/abu-dhabi
+> ^38^ [https://www.mckinsey.com/middle-east/abu-dhabi](https://www.mckinsey.com/middle-east/abu-dhabi)
 
-^39^ https://www.mckinsey.com/middle-east/dubai
+> ^39^ [https://www.mckinsey.com/middle-east/dubai](https://www.mckinsey.com/middle-east/dubai)
 
-<!-- page 84 -->
+<!-- page 85 -->
 
 Links to 'industries' on the Middle East site route to the central global portal. In the global portal education is listed as a sector within the Public Sector industry, and information about McKinsey's work in higher education is available there:
 
@@ -2158,15 +1581,15 @@ I also considered other large firms such as AON and Accenture. However, these we
 
 Across the large firms we can see many differences in global firm organisation, the positioning of the (higher) education sector as an 'industry', and the size of the education related operation in the GCC. In the international organisation, management, and business literature the internal organisational structure, process, and strategy of the firm is of primary interest and there is a 'lively discussion' of how this relates to expansion, effectiveness, and efficiency (Boussebaa and Faulconbridge, 2018). In this study I am not focused on the internal organisation, process, and strategy of the firm. My focus is on identifying the characteristics and dynamics of the mechanisms and strategies of market entry.** **However, it was likely that consultants and clients will themselves refer to the ways in which their work is contingent on the organisational framework and the issues raised were considered in the analysis of the characteristics and
 
-^40^ https://www.mckinsey.com/industries/social-sector/how-we-help-clients/education
+> ^40^ [https://www.mckinsey.com/industries/social-sector/how-we-help-clients/education](https://www.mckinsey.com/industries/social-sector/how-we-help-clients/education)
 
-^41^ https://www.ey.com/em/en/industries/government---public-sector/ey-how-will-the-gcc-close-the-skillsgap [Accessed 13th August, 2018]
+> ^41^ [https://www.ey.com/em/en/industries/government---public-sector/ey-how-will-the-gcc-close-the-skills](https://www.ey.com/em/en/industries/government---public-sector/ey-how-will-the-gcc-close-the-skills-gap)[gap](https://www.ey.com/em/en/industries/government---public-sector/ey-how-will-the-gcc-close-the-skills-gap) [Accessed 13th August, 2018]
 
-^42^ https://www.ey.com/Publication/vwLUAssets/ey-learning-to-succeed/$FILE/ey-learning-to-succeed.pdf [Accessed 13th August, 2018]
+> ^42^ [https://www.ey.com/Publication/vwLUAssets/ey-learning-to-succeed/$FILE/ey-learning-to-succeed.pdf](https://www.ey.com/Publication/vwLUAssets/ey-learning-to-succeed/$FILE/ey-learning-to-succeed.pdf) [Accessed 13th August, 2018]
 
-^43^ https://www.parthenon.ey.com/po/en/expertise/education#whatwedo [Accessed 13th August 2018]
+> ^43^ [https://www.parthenon.ey.com/po/en/expertise/education#whatwedo](https://www.parthenon.ey.com/po/en/expertise/education#whatwedo) [Accessed 13th August 2018]
 
-<!-- page 85 -->
+<!-- page 86 -->
 
 dynamics of the mechanisms and strategies, the context in which they work and how, and the consequences of this work.
 
@@ -2176,7 +1599,7 @@ This chapter has given an account of the political economy of the GCC region. Th
 
 The next chapter focuses on the resources produced by the large management consultancy firms for and about the higher education sector. These were identified in the above review of the involvement of the large firms in the higher education sector. They offer some insight into the connection between the firms and the political, economic, and social reform agendas of the GCC nations.
 
-<!-- page 86 -->
+<!-- page 87 -->
 
 ## **CHAPTER SEVEN**
 
@@ -2196,7 +1619,7 @@ The three-dimensional *powercube* is an analytical tool that enables us to learn
 
 First, in terms of the *powercube* power operates in spaces that are constructed by humans and range from those formally authorised and closed to public participation, to spaces where participation is selective, to spaces that are generated through improvisation and open participation. Second, these spaces interact with a vertical that links and therefore scales everyday routines in local places to global macro forces and vice versa. Third, the power that operates in
 
-<!-- page 87 -->
+<!-- page 88 -->
 
 the different spaces exists in different form, it may be visible, more hidden, or 'invisible' (Gaventa, 2006; 2011; Gaventa and Pettit, 2011).
 
@@ -2208,7 +1631,7 @@ The perspectives offered by the *powercube* and the literature of management con
 
 So, it is essential to study how a discursive space is created and by whom. It is essential to see where the ideas derive, and where/how they are applied. It is essential to study the ideas circulated and deliberated (Gaventa, 2011), to identify the 'rules of formation' or logics that "regulate what can be talked about, how to talk about it, and who is authorised to talk … and regulate the relational identities of the social actors, their conception of the world, and their range of appropriate actions" (Torfing, 2009: 112; Clegg and Haugaard, 2009). It is necessary to explore the language used by prominent actors and in the media for the assumptions that are evident, for the categories made and what they include and exclude, and for the arguments that are repeated (Hathaway 2016) because "managing the mind of others is essentially a function of text and talk" (van Dijk, 1993: 254).
 
-<!-- page 88 -->
+<!-- page 89 -->
 
 In what follows a comparison is drawn between the discursive construct of the resources produced for or about the 'anglosphere' higher education sector and the discursive construct of the resources produced for or about the GCC higher education sector. Discussion focuses on the different effects that these two sets of constructions have.
 
@@ -2224,7 +1647,7 @@ The language used to describe this context is replete with metaphors of calamity
 
 The contextualisation uses a logic that rests on stereotypes and opposes them to produce the conclusion that universities must change. 'Typical' university organisation and culture is claimed to be outmoded; universities need to act in new ways to secure organisational survival. For example, "*Not everyone will win in this new environment and the way in which some institutions * *actually deliver education and research in the future will have to change radically. Universities * *have a stark decision **–* *make the right choice, embrace the new opportunities and succeed or make * *the wrong choice and get left behind*" (*pwc* 218:2). The change proposed is consistent with practices associated with the broad terms of a neoliberal agenda (Dale and Robertson, 2007): they must become sensitive to markets, compete for reputation and resources, become economically
 
-<!-- page 89 -->
+<!-- page 90 -->
 
 efficient, and develop greater business and financial acumen. For example, "*It's not about a * *citizen. It's not about a student. It's about a customer. … In the business world, customer s**ervice is * *a prized commodity, one that directly impacts the bottom line. The same can now be seen in * *education, as universities realise that if students stay with an institution longer, such loyalty builds * *a barrier to competition, meaning greater consumption and increased sales.*" (KPMG, 2017: website).
 
@@ -2236,15 +1659,11 @@ This can be read in examples from each of the major firms which are presented in
 
 ## **Key**
 
-Context of change and challenge (highlighted in **red**)
-
-drama (highlighted in **black bold**)
-
-stereotypes (highlighted in **purple**)
-
-Imperatives and neoliberal ideas (highlighted in **green**)
-
-optimistic future (highlighted in **blue**)
+- Context of change and challenge (highlighted in **red**)
+- drama (highlighted in **black bold**)
+- stereotypes (highlighted in **purple**)
+- Imperatives and neoliberal ideas (highlighted in **green**)
+- optimistic future (highlighted in **blue**)
 
 ## Deloitte (2011)
 
@@ -2252,7 +1671,7 @@ Higher education institutions are **in the midst of a** **perfect storm**. Gover
 
 The **danger of making decisions in the dark**. University and college administrations **tend to be ** **creatures of habit**. That means **processes, once established, often** **follow historic arcs**, **rather ** **than paving new ground**. This is especially true as institutions **grapple with the challenge of ** **setting strategic priorities**. In the area of budgeting, for instance, **decisions are often made ** **democratically** as **opposed to strategically**. … High degrees of **organisational fragmentation **
 
-<!-- page 90 -->
+<!-- page 91 -->
 
 **and decentralisation** also **prevent various departments from** **working together towards ** **common goals** or **to realise improved operational efficiencies.** **Historically, many higher ** **education institutions have demonstrated a strong proclivity towards promoting leading ** **academics to leadership roles** **rather than identifying (potentially private sector) candidates ** **whose business acumen can help institutions enhance their performance agendas, attract ** **leading researchers and evolve to meet changing student expectations**.
 
@@ -2266,7 +1685,7 @@ The resources produced for and about the GCC higher education sector also constr
 
 As with the resources produced for the 'anglosphere', the logic also works in opposition, to propose that change is necessary. The language used to describe the context provides the rhetorical drama of urgency and speed of change. "*MGI is publishing this report on Saudi Arabia * *at a time of change in the Kingdom. After a surge in prosperity over the past decade, the economy * *is at a transition point. We see a real opportunity for the Kingdom to inject new dynamism into the * *economy through a productivity-* *and investment-led transformation that could help ensure future * *growth, employment, and prosperity for all Saudis*" (McKinsey Global Institute, 2015: 9)The change required is explained using concepts / mechanisms broadly associated with a neoliberal agenda
 
-<!-- page 91 -->
+<!-- page 92 -->
 
 (Dale and Robertson, 2007) "*The private education market in the Middle East is the fastest * *growing in the world. … All those interested in the growth of the sector are now looking to the Gulf * *and many are exploring the new opportunities*" (EY, 2013: website). However, for the GCC the change required speaks less of organisational stability than it does of the role of the higher education sector in a grander context of social, political, and economic reform and national stability. The change required implicates the private sector in the reform. For example,
 
@@ -2278,17 +1697,12 @@ Two examples of how the features of the text work together is shown next.
 
 ## **Key**
 
-Context under-capacity, cultural idiosyncrasies (highlighted in **red**)
-
-Context oppositions and comparisons (underlined)
-
-Drama (**black bold**)
-
-Reform and development agenda (**purple**)
-
-Neoliberal ideas (highlighted in **green**)
-
-Solutions / support (highlighted in **blue**)
+- Context under-capacity, cultural idiosyncrasies (highlighted in **red**)
+- Context oppositions and comparisons (underlined)
+- Drama (**black bold**)
+- Reform and development agenda (**purple**)
+- Neoliberal ideas (highlighted in **green**)
+- Solutions / support (highlighted in **blue**)
 
 ## Deloitte (2013a)
 
@@ -2296,7 +1710,7 @@ Deloitte has just released a new whitepaper titled 'Education – Middle East Pu
 
 The Deloitte whitepaper **provides recommendations** on **skills-based** **education reform** to support the moves underway in GCC countries **aiming to develop** world-class education to help meet the skills challenge.
 
-<!-- page 92 -->
+<!-- page 93 -->
 
 ## EY (2017)
 
@@ -2312,7 +1726,7 @@ The resources provide evidence of their authorship and the sources of knowledge 
 
 Consultancies collaborate with representative associations of, or opinion leaders in the higher education sector. The relevant text is underlined.
 
-<!-- page 93 -->
+<!-- page 94 -->
 
 ## EY-Parthenon (2018)
 
@@ -2340,11 +1754,11 @@ Our ongoing dialogue with educators, as well as our experience helping top priva
 
 This report, produced by Deloitte Canada in consultation with Deloitte education practitioners from around the world, … provides some essential strategies that institutions should consider as they seek to address their challenges as well as some fresh thinking on key institutional drivers. Drawn from the professional experience of Deloitte practitioners from both inside and outside the industry, these steps may not only help colleges and universities survive current economic hardships, but also reinvent themselves to meet the educational needs of the future.
 
-^44^ https://wonkhe.com/ [Accessed 29th August 2018]
+> ^44^ [https://wonkhe.com/](https://wonkhe.com/) [Accessed 29th August 2018]
 
-^45^ www.hespa.ac.uk [Accessed 29th August 2018]
+> ^45^ [www.hespa.ac.uk](http://www.hespa.ac.uk/) [Accessed 29th August 2018]
 
-<!-- page 94 -->
+<!-- page 95 -->
 
 The examples listed above refer to organisations or individuals based in the 'anglosphere', which is perhaps reasonable given the location of their subject and audience (UK, North America, Australia). However, as we will see in the following extract from Deloitte, when proposing that resources draw on expertise from around 'the world' it is important to note that the referent parts of this 'world' that the fifteen different Deloitte practitioners represent are the United States (5), Canada (5), UK (1), Australia, (1), South Africa (1), and India (1) – listed below in order of their appearance in the resource. This is a very incomplete globe, and one dominated by 'anglosphere' contexts: only three practitioners (underlined) are external to the 'anglosphere' and one of these is western.
 
@@ -2360,7 +1774,7 @@ Our global centres of excellence focus on the student experience, technology tra
 
 The global-local oscillation is also present in the next extract. This resource additionally asserts that the firm's work across the region has a coordinating effect for the education system as a whole. That is, coherence is brought across a broad client base and a wide range of issues because the services are rendered by a single – globally connected/regionally based – firm.
 
-<!-- page 95 -->
+<!-- page 96 -->
 
 ## EY Education Australia (website)
 
@@ -2372,11 +1786,9 @@ The oscillation between the 'global' and the local also functions in the opposit
 
 ## **Key**
 
-Global/local (underlined)
-
-Transnational expansion (**bold**)
-
-Binary separation (*italics*)
+- Global/local (underlined)
+- Transnational expansion (**bold**)
+- Binary separation (*italics*)
 
 ## KPMG (2012)
 
@@ -2390,7 +1802,7 @@ We have **supported the transnational expansion of institutions** in both *the d
 
 Moreover, the nature of the problems dealt with in these 'two worlds' differs. The following Deloitte resource (also quoted above) shows how the knowledge and expertise developed in 'anglosphere' contexts relates to strategic policy questions of funding, participation rates, and employability 'anglosphere' contexts. However, in the Middle East, client issues are vaguely stated and remedial in nature.
 
-<!-- page 96 -->
+<!-- page 97 -->
 
 ## Deloitte (2016)
 
@@ -2416,7 +1828,7 @@ The firm expertise and experience in the GCC are made clear via statements of th
 
 For more than half a century, McKinsey has helped visionary leaders in business and government across the Middle East unlock growth and development, build regional and global champions in major industries, and nurture the talents of a new generation. We started serving clients in Saudi Arabia in 1957 and have had a dedicated focus there since 2000. We also have locations in Abu Dhabi, Cairo, Doha, Dubai, Manama, and Karachi. Currently, 400 consultants and 100 support staff are based in these locations. Many McKinsey consultants based in other parts of the world also serve our Middle East clients. All our work is underpinned by our deep
 
-<!-- page 97 -->
+<!-- page 98 -->
 
 local roots, our firm's global reach, and our unrivalled investment in creating and developing knowledge.
 
@@ -2430,9 +1842,8 @@ Also central to these value claims is the public and ranked reputation of the cl
 
 ## **Key**
 
-Centre (**bold**)
-
-Centre of activity (underlined)
+- Centre (**bold**)
+- Centre of activity (underlined)
 
 ## *pwc* Middle East Education Sector Capability Statement (2016)
 
@@ -2442,13 +1853,11 @@ In the quote above, Altbach himself discursively organises 'world class' to equa
 
 ## **Key**
 
-Global local (**bold**)
+- Global local (**bold**)
+- World class (underlined)
+- Middle East (*italics*)
 
-World class (underlined)
-
-Middle East (*italics*)
-
-<!-- page 98 -->
+<!-- page 99 -->
 
 ## *pwc* Middle East Education Sector Capability Statement (2016)
 
@@ -2468,35 +1877,23 @@ This centre-periphery relationship, or the 'global' ('anglosphere') – local os
 
 ## 'Thought Leadership':
 
-Building digital trust in higher education (Sweden)
+- Building digital trust in higher education (Sweden)
+- Skilled for the future: simplifying the UK skills system
+- Leveraging technology in education (US)
+- Perspectives in Higher Education 2014 (US)
+- Middle East & North Africa Talent Competitiveness Index 2015 (South Africa)
+- Education Matters Fifth Edition (Canada)
+- The 2018 University- making the right choices, making it happen (UK)
+- Adapt to Survive (US)
+- 18th Annual Global CEO Survey: A marketplace without boundaries? (US)
+- HE Matters Spring 2015 (UK)
+- Cities of Opportunity (Russia)
 
-Skilled for the future: simplifying the UK skills system
+<!-- page 100 -->
 
-Leveraging technology in education (US)
-
-Perspectives in Higher Education 2014 (US)
-
-Middle East & North Africa Talent Competitiveness Index 2015 (South Africa)
-
-Education Matters Fifth Edition (Canada)
-
-The 2018 University- making the right choices, making it happen (UK)
-
-Adapt to Survive (US)
-
-18th Annual Global CEO Survey: A marketplace without boundaries? (US)
-
-HE Matters Spring 2015 (UK)
-
-Cities of Opportunity (Russia)
-
-<!-- page 99 -->
-
-Putting a value on early childhood education and care in Australia
-
-Pearl Initiative: Women's Careers in the GCC (GCC)
-
-Enabling job creation in the Arab world a survey on behalf of the Arab Thought Foundation
+- Putting a value on early childhood education and care in Australia
+- Pearl Initiative: Women's Careers in the GCC (GCC)
+- Enabling job creation in the Arab world a survey on behalf of the Arab Thought Foundation
 
 Similarly, to present the knowledge and expertise of the firm in the education sector in general, the following resource presents five case studies of its work. Of these, two are drawn from the UK, one from the USA and only two from the GCC. Further examples used to illustrate the discussion refer to client work outside the GCC, predominantly US, UK, or Europe (underlined). This may be because the firm lacks other examples, or it suggests that profiling such work may attract clients in the GCC.
 
@@ -2520,7 +1917,7 @@ The global ('anglosphere') – local dynamic is also expressed in the roles and 
 
 [The Middle East Education Partner] has over 20 years of consulting experience focused on sector expansion and reform, strategic planning, governance, performance improvement and partnering models. She has worked extensively in the education and healthcare sectors, with both public and private institutions. Her experience spans the US, Europe and most of the GCC markets. [She] is supported by an outstanding delivery team of education sector specialist consultants and a network of senior international academic experts in higher education, vocational education, schools and children's services.
 
-<!-- page 100 -->
+<!-- page 101 -->
 
 ## **Conclusion**
 
@@ -2536,11 +1933,11 @@ This conclusion takes us back to a prominent contribution to the literature on m
 
 What is also evident in the analysis presented in this chapter is that the 'issue distinction' progressed by a 'linked ecology' is highly generic in origin and homogenizing in effect. It is a discourse that advocates solutions drawn from experiences of client work in different contexts within the centres of higher education but these solutions are not discussed in terms of their varied or collective origin. Furthermore, the GCC or 'Middle East' is discussed in general terms, neither disaggregated by country nor differentiated in terms of contextual variety. What results is a homogenous panacea of solutions that are assumed applicable to a homogenised context. This
 
-<!-- page 101 -->
+<!-- page 102 -->
 
 reminds us of the 'perplexing mix of overreach and under-specification' (Venugopal, 2015: 165) involved in the 'master category' of neoliberalism. It "eschew[s] the diversities, variances and individuation apparent in any sociality through the deployment of categorical labels" (Westwood and Jack, 2007:494). It is an example of the export of "the new professional gospel in the global periphery" (Frenkel and Shenhav, 2012: 512) which relies for effect on the discursive construct of 'othering' and the intent to shape the periphery in the interests of the centre.
 
-<!-- page 102 -->
+<!-- page 103 -->
 
 ## **CHAPTER EIGHT**
 
@@ -2556,17 +1953,15 @@ The chapter is structured as follows. First, with reference to publicly availabl
 
 In the academic literature, the relationship between higher education and the management consultancy industry has been assessed in five ways. First, to argue that the management consultancy industry grew symbiotically with the growth in number of Business Schools and MBA graduates. Second, to describe how the cycle of the production of management knowledge positions the Business School as producer and tester of new management knowledge, academic 'gurus' as the popularisation of that knowledge, and management consultancies as entities that commodify the knowledge. Third, to suggest that academic 'gurus' compete with management consultants as source of legitimate management knowledge and that management consultancies co-opt academics from Business Schools and take on features of the university as means to lend credential to their own management knowledge. They co-opt university actors and form relationships with prominent academic centres, recreating inside themselves innovation and theorisation functions, and establishing 'knowledge centres'. (These arguments are found in
 
-<!-- page 103 -->
+<!-- page 104 -->
 
 Engwall, 2012; Engwall and Kipping, 2004; and, Suddaby and Greenwood, 2001). Fourth, large management consultancy firms provide training and socialise consultants in terms of identity and norms of practice (Anderson-Gough et al, 2006). They infiltrate professional associations on a transnational scale (Boussebaa and Faulconbridge, 2018). In these ways they play an increasing part in the regulation of the production of producers and the regulation of their practice (Faulconbridge and Muzio, 2011) and are emerging as leading experts in business matters (Kipping and Clark, 2012). Fifth, the literature also raises concerns about the conflict between business interests of the firms and the 'due diligence' typically observed by academic institutions in the production of knowledge and expertise: the public service function, the ethical orientation, and methodological probity and testing (Engwall, 2015; Suddaby and Greenwood, 2001).
 
 The current section uses these perspectives in readings of resources produced by large management consultancy firms, public media concerning management consultancy in higher education, and interview accounts of practice. The argument around them is structured in the following sequence:
 
-*Co-option: structures, image/identity* *and collaboration*
-
-*Internalisation: education and professional training functions*
-
-*Internalisation: research functions*
+- *Co-option: structures, image/identity* *and collaboration*
+- *Internalisation: education and professional training functions*
+- *Internalisation: research functions*
 
 The subsequent section addresses 'due diligence'.
 
@@ -2584,9 +1979,9 @@ Jeffrey J. Selingo has written about higher education for two decades. Named one
 
 ABOUT DELOITTE'S CENTER FOR HIGHER EDUCATION EXCELLENCE
 
-^ ^ ^46^ As further example of these relationships, see the Deloitte report "The Future of Public Higher Education" published on 23rd October 2018. http://www.c21u.gatech.edu/news/613149 [Accessed 16th November 2018]
+> ^ ^ ^46^ As further example of these relationships, see the Deloitte report "The Future of Public Higher Education" published on 23rd October 2018. [http://www.c21u.gatech.edu/news/613149](http://www.c21u.gatech.edu/news/613149) [Accessed 16th November 2018]
 
-<!-- page 104 -->
+<!-- page 105 -->
 
 Deloitte's Center for Higher Education Excellence **produces ground-breaking research** to help colleges
 
@@ -2610,11 +2005,11 @@ At KPMG, we acknowledge that the cornerstone of our success is our staff's conti
 
 These university-like structures that develop and disseminate knowledge and expertise are emerging in the GCC (**text bold**)
 
-^47^ https://www2.deloitte.com/us/en/pages/about-deloitte/articles/establishing-excellence-thoughtleadership.html [Accessed 9th August, 2018]
+> ^47^ [https://www2.deloitte.com/us/en/pages/about-deloitte/articles/establishing-excellence-thought](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/establishing-excellence-thought-leadership.html)[leadership.html](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/establishing-excellence-thought-leadership.html) [Accessed 9th August, 2018]
 
-^48^ https://home.kpmg.com/my/en/home/careers/whykpmg/learningdevelopement.html [Accessed 1st December 2018]
+> ^48^ [https://home.kpmg.com/my/en/home/careers/whykpmg/learningdevelopement.html](https://home.kpmg.com/my/en/home/careers/whykpmg/learningdevelopement.html) [Accessed 1st December 2018]
 
-<!-- page 105 -->
+<!-- page 106 -->
 
 **The Middle East Public Sector Institute "MEPSI" **was established in 2010, as a **comprehensive ** **Centre of Excellence for Thought Leadership and a Learning and Development Institute** dedicated to human capital performance improvement in the Middle East region … established to partner with government entities, public organisations, and public private partnerships **to ** **equip **their cadre with business, professional, and technical skills necessary to cope with the evolving changes.
 
@@ -2636,7 +2031,7 @@ Collaboration in public events generates media coverage that further disseminate
 
 **ROBERT LYTLE, managing director of EY-Parthenon, **shed some light on *how Ernst & Young (EY) * *has contributed towards the Vision 2030 and National Transformation Program (NTP) 2020* in the country … during a wide-ranging interview with Saudi Gazette. Here are the excerpts:
 
-<!-- page 106 -->
+<!-- page 107 -->
 
 Saudi Gazette: So, can you shed some light, like in terms of youth development and the women empowerment happening in this part of the world? Also, the reason you have come to Riyadh and what you spoke in today's event?
 
@@ -2650,7 +2045,7 @@ Definitions of 'academic norms' are slippery, but include notions of values, eth
 
 The terms of these debates are taken up in the following sections with attention to the literature's attention to the tension between 'disinterestedness' and the market orientation in teaching and research, the privatisation of public goods, and trustworthiness. The significance of the following discussion to the above literature is that in the context of the internalisation of the university by management consultancy firms – in the interest of seeking the image of academic warrant – the development and dissemination of knowledge and expertise takes place external to the university. The critical questions are whether, within the external context, the academic norms are upheld, and if that matters. These questions form the discussion in the remainder of the chapter.
 
-<!-- page 107 -->
+<!-- page 108 -->
 
 ## *Education and Professional Training* *Functions*
 
@@ -2672,7 +2067,7 @@ The next interview account of work in the GCC details how the large management c
 
 *Yes. In several ways actually. We ourselves have our own Academy**. … So we don't**-* *we * *can't grant degrees, we're not a degree granting institution. … We'r**e in the business of * *education ourselves from the professional certification. But also we do quite a bit of work * *in the region with large employers that want to set up their own educational institution. * *It's what they call Corporate Universities**. And it should be a bad thing, it should be a bad * *thing [laugh]. But it's not a bad thing because the universities are bad. … And so, we do a * *number of these … we tend to have to have quite a broad range of learning pathways. So * *ultimately there probably is a Bachelors or a Masters or a Postgraduate Diploma in there,* *usually in partnership with a proper university that does know what they're doing. But we * *also find ourselves adding in quite a number of professional certifications as well* *because * *those qualifications plug important project management and leadership skills gaps that * *employers need. So we sort of throw those in the mix as well. And when we do that we * *work with the professional associations to get them involved in the program**me design … *
 
-<!-- page 108 -->
+<!-- page 109 -->
 
 *And we are their exclusive provider of Arabic content in the Middle East.* (Consultant K, Big Four)
 
@@ -2694,7 +2089,7 @@ KPMG's 2015—2016 Higher Education Industry Outlook Survey reflects the viewpoi
 
 Governments in the Gulf Cooperation Council (GCC) have spent significantly more funds on education over the past two decades, yet student performance continues to lag behind global peers, and unemployment among graduates continues to grow. A large part of the problem is the mismatch between the skills being taught in schools and the skills needed in the workplace. Reforms are necessary to harness the potential of this large generation of young people. To help bridge this gap, Booz & Company recently commissioned a survey that gathered the views of over 1,300 students from Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates (UAE).
 
-<!-- page 109 -->
+<!-- page 110 -->
 
 The following report is originally a PhD thesis. EY commissioned the author to re-write it in partnership with consultants in the firm. The firm can then claim it as knowledge proprietary to the firm:
 
@@ -2722,7 +2117,7 @@ One consultant discussed research generated in a US context and claimed its appl
 
 *Rachel: Does that feed into how you work with universities and the advice you would * *give them?*
 
-<!-- page 110 -->
+<!-- page 111 -->
 
 *Yes, it does. I mean so [that research report] is of great interest* *to all of our university * *clients**.* *Because their goal is to-* *well at least half their goal is to graduate the workforce of * *the future. To train the workforce of the future. They have to train people to be able to * *meet employers' expectations**-* *that's how th**ey measure their success, graduate * *employability, or at least one of their main measures of success. … **So that one was done * *because [the firm's] mission is to build confidence in society. … So 'confidence' gets to the * *governance, compliance, risk **–* *manage all of that stuff.* *So society senses it is confident * *and not an anxious place. And we focus on solving important problems. So we do a lot of * *work related to these sort of social reforms, social development, policy related issues **–* *research into that. So, we did a piece of work in my team a couple of years ago on barriers * *to women [in a GCC nation] joining the workforce. That we actually did some primary * *research on, and we had 2000 participants in a survey, a phone survey. **…* *it* *was partly to * *help and understand the mindset of these women. And secondly it was to help Government * *understand if there is anything we can do, what is it, what are some of the interventions?* (Consultant M, Big Four)
 
@@ -2734,7 +2129,7 @@ In the context of commercial motives, research generated by management consultan
 
 So, we can see how the research work undertaken by the large management consultancies is market oriented: it seeks markets and contracts, revenue and profit. The research work encroaches the role of the university – and other research organisations – as producer and tester of new knowledge about management and social problems and their resolution. The research work is the privatisation of public *goods*, in the sense that the 'knowledge' becomes rivalrous proprietary knowledge that is exclusive to the buyer. It is also private provision for the '*public * *good*' that is conditional on payment and profit, a return on investment.
 
-<!-- page 111 -->
+<!-- page 112 -->
 
 The critical step is to examine the 'trustworthiness' of the knowledge, or its 'due diligence'.
 
@@ -2754,7 +2149,7 @@ In the interview accounts of project work in the GCC higher education sector con
 
 *I think that you have to provide a lot more evidence with academics**.* *You can't go in with * *two PowerPoint slides and say, "We think you should**-* *You**'ve got problem X and we think *
 
-<!-- page 112 -->
+<!-- page 113 -->
 
 *you should do Y". You can do that with some clients in other sectors but in academia you * *can't. You have to go in and say, "You've got problem X, here's proof you've got problem X. * *Here's solution A, B, C, D, E, F, G … We think Y". **So, you have to provide a lot more of an * *evidence base with academics. And I think just recognise that that's how they think. How * *they can be convinced.* (Consultant M, Big Four)
 
@@ -2776,7 +2171,7 @@ Yet consultants gave accounts of how the business model of the firm and its prof
 
 Second, the firm itself is not investing in hiring or developing consultants with expertise in higher education owing to the small size of the education market relative to other sectors the firm is active in:
 
-<!-- page 113 -->
+<!-- page 114 -->
 
 *Let's say, in financial services where both BCG and McKinsey and all the consultancies of * *this world, have worked for 34 years. They have 20, 30, 50 researchers sitting across the * *globe who are at PhD level expertise, and who know everything about everything. ... That * *doesn't exist in education, at all.*
 
@@ -2800,7 +2195,7 @@ However, it was often pointed out that the use of these experts is limited given
 
 *There are a number of companies who provide experts, with expertise in a specific area. * *…You call these people, you say, "I need someone who can talk about the development of *
 
-<!-- page 114 -->
+<!-- page 115 -->
 
 *vocational education in Saudi in public-private partnership in the last five years, find me * *someone". And they get you someone. Usually very good … and you pay them 1000 dollars * *an hour. **So, you try not to do that that often because it's very expensive.* (Consultant F, Ex-Strategy House)
 
@@ -2826,7 +2221,7 @@ We believe there are four initiatives — all requiring collaboration between co
 
 The process of codification, abstraction, and commodification suggests clarity in the context of uncertainty and complexity and presents the firm as a source of practical solutions, but it results in
 
-<!-- page 115 -->
+<!-- page 116 -->
 
 decontextualized and generalised prescriptions. Furthermore, resources focused on the GCC context often refer to research conducted 'globally' (underlined) without identifying the parts of the world in which data was collected. This decontextualization diminishes the significance to the research of the time and place of the study and implies the assumption that the time and place of the GCC is not significant. An example of this follows:
 
@@ -2852,9 +2247,9 @@ Close examination of the credibility of the research base reveals methodological
 | --- | --- |
 | According to our analysis, some 800 institutions face critical strategic challenges because of their inefficiencies or their small size We found that colleges emerged from the previous era in one of four strategic positions. 1. Strong niche 2. Large and thriving 3. Small and at risk 4. Large and languishing | Analysis method unspecified, data sources unspecified. Outcomes overly generalised as a simplified analytical template. |
 
-<!-- page 116 -->
+<!-- page 117 -->
 
-|   |   |
+|  |  |
 | --- | --- |
 | There is a set of risk factors* that are fairly predictive of whether a college faces the challenges that require it to consider collaboration for survival. *"Learning from Closed Institutions: Indicators of Risk for Small Private Colleges and Universities," Vanderbilt University, 2013. | Desk based research that identifies a single academic report. The report is chosen because it provides an analytic template of eight risk factors. |
 | Figure 1: Percentage of universities exhibiting risk factors for closing by institution size, 2013; four-year, private not-for-profit and public institutions** ** U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, Integrated Postsecondary Education Data Systems (IPEDS), http://nces.ed.gov/ipeds [accessed April 2015]. | Desk based research involving the use of publicly available statistics self-reported by universities to the US DoE. |
@@ -2863,9 +2258,9 @@ Close examination of the credibility of the research base reveals methodological
 | If survival is your strategy, surprisingly, finding a suitable partner is not the biggest obstacle to collaboration, according to a survey Parthenon-EY conducted of 38 institutional leaders. | Survey of a relatively small survey sample, without explanation of its objectives, questions, or analysis nor their relation to the conclusion. |
 | Case study #1 Our interviews with various constituencies involved in higher education mergers uncovered that financial considerations alone should not drive initial discussions about an affiliation. | 'Case studies' (undefined) based on unspecified number of unidentified individuals |
 
-<!-- page 117 -->
+<!-- page 118 -->
 
-| Case study #2 Such was the case when the Monterey Institute of International Studies approached Middlebury College about a possible affiliation in 2005. |   |
+| Case study #2 Such was the case when the Monterey Institute of International Studies approached Middlebury College about a possible affiliation in 2005. |  |
 | --- | --- |
 | Our conversations with campus leaders at a wide range of institutions suggest a three-step process to consider as you weigh options for partnerships. 1. Identify areas for collaboration 2. Structure potential partnership opportunities 3. Sustain the benefits of a partnership | An unspecified number of 'conversations' at an unspecified number of institutions generate a simplified analytical template. |
 
@@ -2873,40 +2268,40 @@ Vague specification, thin data, and unverifiable sources of evidence are also ev
 
 ## Deloitte (2013b)
 
-|   |   |   |
+|  |  |  |
 | --- | --- | --- |
 |  | A senior civil servant explains | Local unnamed sources |
-|  | A Doha Bank executive points out |   |
-|  | As one regional education expert explains |   |
-|  | says one GCC education expert |   |
-|  | a GCC education expert says |   |
-|  | according to the Dubai Knowledge and Human |   |
-|   | Development Authority |   |
+|  | A Doha Bank executive points out |  |
+|  | As one regional education expert explains |  |
+|  | says one GCC education expert |  |
+|  | a GCC education expert says |  |
+|  | according to the Dubai Knowledge and Human |  |
+|  | Development Authority |  |
 |  | In comments that could apply in many parts of the GCC, | Second hand reports; the first |
-|   | Prof. Stephan Schubert of INSEAD's Abu Dhabi campus was | author did not know he had been |
-|   | reported by the BBC as pointing out | quoted and he told me, 'oh that's |
+|  | Prof. Stephan Schubert of INSEAD's Abu Dhabi campus was | author did not know he had been |
+|  | reported by the BBC as pointing out | quoted and he told me, 'oh that's |
 |  | Andy Hargreaves, professor of education at Boston College | so old'. |
-|   | in the United States, told Abu Dhabi Education Council |   |
-|   | (ADEC) Transforming Education Summit in 2012 |   |
-|  | says Tom Vander Ark, CEO of Open Education Solutions |   |
+|  | in the United States, told Abu Dhabi Education Council |  |
+|  | (ADEC) Transforming Education Summit in 2012 |  |
+|  | says Tom Vander Ark, CEO of Open Education Solutions |  |
 |  | Richard Barrett, Deloitte's Middle East Education and Skills | Consultant opinion |
-|   | Consulting Lead, points out |   |
-|  | Mohammed Dabeer Rasul writes in the Deloitte paper |   |
-|   | "Mind the Gap" |   |
+|  | Consulting Lead, points out |  |
+|  | Mohammed Dabeer Rasul writes in the Deloitte paper |  |
+|  | "Mind the Gap" |  |
 |  | according to the Deloitte paper Disruptive Innovation | Consultant reports from outside |
-|   |   | the GCC |
+|  |  | the GCC |
 |  | However, the Financial Times reports | Unreferenced written reports |
-|  | according to data from the World Bank |   |
+|  | according to data from the World Bank |  |
 |  | Stephen P. Heyneman in "The Quality of Education in the | Referenced written reports, of |
-|   | Middle East and North Africa" (International Journal of | which the first is not dated. On |
-|   | Educational Development) points out | investigation it turned out to be |
+|  | Middle East and North Africa" (International Journal of | which the first is not dated. On |
+|  | Educational Development) points out | investigation it turned out to be |
 |  | According to Alpen Capital's GCC Education Industry study | old (1997) |
-|   | (2010) |   |
+|  | (2010) |  |
 |  | Anecdotal evidence indicates | No warrant |
-|  | Governments in the Gulf recognize |   |
-|   |   |   |
+|  | Governments in the Gulf recognize |  |
+|  |  |  |
 
-<!-- page 118 -->
+<!-- page 119 -->
 
 Yet despite the methodological weaknesses, the resources are used to make confident and broad claims to influence key decision makers. For example, the above Deloitte report is used to "*suggest and reinforce what governments and stakeholders might do to support national missions * *and ensure educational systems are equipping … students with skills that enable them to build * *successful, diversified, and knowledge-based economies that address the skills challenge facing the * *region*" (Deloitte, 2013b).
 
@@ -2928,7 +2323,7 @@ The value of the brand name is that it can be used to justify action and to defe
 
 *This also the reason why some of them want the big brand names: on the one* *hand you * *can say, "We worked with McKinsey"**.* *But on the other hand, if something goes wrong you * *can always blame it on the consultants. Especially if you hire the biggest brand names you * *can very easily say, "But we hired the best and still it didn't work* *so really it's not our * *fault"**. *(Consultant D, Private Practice)
 
-<!-- page 119 -->
+<!-- page 120 -->
 
 Moreover, form can be as important as content; the packaging and presentation of the knowledge and expertise is an important signal of value. A smart looking, well written report issued by a Big Four firm can be used as a tool of persuasion to impress others:
 
@@ -2946,7 +2341,7 @@ Consultants in the Big Four and Strategy Houses discussed knowledge and expertis
 
 *I could put a request for information* *out into our global network, into 122 countries, and * *get feedback within hours, often within minutes* *from people who had done this, who * *would send me details of the projects that we'd done so we could learn* *about* *some of the * *issues. And if necessary of course, and I've done this, we could fly people in**. So the client * *would say to me, "Well this sounds very interesting", and I would say, "Well to be honest, I *
 
-<!-- page 120 -->
+<!-- page 121 -->
 
 *don't know much about this but we can bring 'such and such' in from the USA. We can * *bring somebody in from the UK to come and talk to you about it"**.* (Consultant J, Big Four)
 
@@ -2968,7 +2363,7 @@ There is then a tension between having a large network with global reach and dev
 
 *I think what clients should be doing, particularly* *on some of the larger projects is looking * *for the Big Four firms to put together the sort of if you like consortia together* *with the * *niche consultancies*. (Consultant J, Big Four)
 
-<!-- page 121 -->
+<!-- page 122 -->
 
 The relationship between the niche consultancies and the large firms was mentioned by a consultant from a 'niche' firm. The niche firm draws on the resources available across the global reach of the big consultancies, whilst the advantage of the niche firm lies in their contextualised expertise.
 
@@ -2988,7 +2383,7 @@ Nevertheless, consortia would bring together different forms of knowledge and ex
 
 This chapter has argued that by creating structures in the image of academia and by collaborating and associating with academic institutions and academics, the large management consultancy
 
-<!-- page 122 -->
+<!-- page 123 -->
 
 firms cultivate an academic identity and imply academic warrant for their knowledge and expertise. In terms of the *powercube* claims to knowledge and expertise are a form of invisible power that is backed up by visible, resource-based power. These are strategies and mechanisms that serve to claim a role for management consultancy firms in what is the 'discursively created space' (problems and solutions) of higher education in the GCC. The 'anglosphere'-centric sources of knowledge and expertise drawn on serve to scale the orientation of the work in the GCC higher education sector externally and serve to incorporate the external in practice.
 
@@ -3000,13 +2395,13 @@ Third, the academic warrant is found wanting in terms of the trustworthiness of 
 
 I have suggested that in the higher education sector of the GCC clients use substitute criteria to evaluate the warrant of the knowledge and expertise of the firms. The substitute criteria are brand identity of size and global reach – the resources of knowledge management systems and human capital. Under this analysis the documents containing research take on a symbolic value in
 
-<!-- page 123 -->
+<!-- page 124 -->
 
 communicating brand identity. However, clients and to some extent consultants, saw that it is necessary to balance the resource of global reach with the ability to contextualise knowledge and expertise in terms of the GCC and the specifics of the higher education sector. So, there is a contradiction in the proposition of the firm and the needs of the sector. The resources drawn on by the firm (offices, knowledge bases, SMEs) are 'anglosphere' oriented and contextualisation work is constrained by the business model. The wealth of the firm and the profit motive leaves something missing.
 
 All of this suggests that higher education clients should be more critical in their evaluation of the knowledge base and expertise of the large consultancy firms and more specific in requiring collaborations between the large firms with large resource base and the niche firms with expertise grounded in a contextualised and specialist understanding of the GCC higher education sector.
 
-<!-- page 124 -->
+<!-- page 125 -->
 
 ## **CHAPTER NINE: REQUESTS FOR PROPOSALS**
 
@@ -3024,7 +2419,7 @@ The macro processes of creating and claiming a space occur simultaneously with t
 
 The chapter proceeds as follows. First, it draws on the *powercube* to offer a theoretical explanation of power in the situated, fine-grained process (strategies and mechanisms) of market development. Here I 'freeze' the market development process around the 'request for proposal' (RFP) and explain the RFP as a material expression of that process. The strategies and mechanisms that constitute the process of market development are discussed in the remaining sections of the chapter. So, second, I argue that the decision to create, and claim a role in GCC higher education is motivated by revenue. I show further that the market is determined by the sources of revenue and that the work of consultants from the large firms is directed by these sources. Third, I discuss how networks and social capital are central to market development; these stimulate the
 
-<!-- page 125 -->
+<!-- page 126 -->
 
 perception of need and lead on to the definition and commercial expression of need in the RFP. Fourth, I examine consultants' experiences of working with clients on the specification of RFPs, contracting around the RFP, and meeting the terms of the RFP. The analysis argues that in the GCC context the roles and collaboration of client and consultant need to be made explicit, and balance of power negotiated continuously. In conclusion I assess the analysis and its findings in terms of the *powercube.*
 
@@ -3040,7 +2435,7 @@ In Gaventa's terms (2011: 421), the RFP is a "hybrid" invited space that engages
 
 Second, the RFP is an arena for the operation of 'hidden power'. In Gaventa's terms (2006: 29), hidden power is the ability to set the agenda: certain powerful people and institutions maintain their influence by controlling who gets to the decision-making table and what gets on the agenda. Hidden power 'mobilises bias or rules of the game' and 'limits alternatives' (Gaventa, 2007: 217; Hathaway, 2016). So, in the moment of the RFP the client highlights some needs over others and selects one service provider and not another. In the moment of response to the RFP the service provider likewise makes choices around the definition of the problem and its ideal solution. Further, once one response to the RFP has been selected and one firm contracted, the client and service provider proceed to expand on the RFP. They develop, direct and detail new perspectives on 'the problem', they select/deselect the stages and sequencing of how the issue will be addressed. This involves making choices to include or exclude specific individuals, teams, departments and organisations on the part of both client and consultancy firm, and to include or exclude certain data sets, methods and tools. It also involves negotiation with and persuasion of the client:
 
-<!-- page 126 -->
+<!-- page 127 -->
 
 *It is a facilitation for the client. Our clients have a day job, they have to run their * *universities or schools or whatever they have. We will do all of the groundwork for them, * *we will do a lot of the thinking for them as well, but … we try and make sure they think that * *they've come up with t**he solution**. … **So, everything that they need to arrive at that * *decision is what we will do in the background with and for them.* (Consultant H, Big Four)
 
@@ -3060,7 +2455,7 @@ Firm investment of resource in targeting, framing, creating and claiming a role 
 
 My interview accounts suggest that the firms took political and strategic decisions to expand into the GCC education sector following the identification of potential revenue streams. The GCC is
 
-<!-- page 127 -->
+<!-- page 128 -->
 
 described as a major emerging market, and revenue from education is a large part of that emerging market.
 
@@ -3080,7 +2475,7 @@ Decisions to expand resulted in mergers with and acquisitions of specialist firm
 
 *And education for [the medium sized firm] was one of its biggest sectors of expertise. * *Literally 40% of the work that [the medium sized firm] did globally was in the education * *sector and **we'd like to believe that [Big Four] acquired [the medium sized firm]* *for that * *expertise*. (Consultant A, Big Four)
 
-<!-- page 128 -->
+<!-- page 129 -->
 
 Alternatively, it was suggested that the development of consultancy in the education sector of the GCC aimed at gaining revenue *indirectly*. The education sector is the entry point to other forms of resource and other sources of revenue:
 
@@ -3098,7 +2493,7 @@ Consultants offered various explanations for their personal move into a career i
 
 *There was a strategic decision made to link the two Middle East and the UK firm* *in order * *for them to work more closely together about sharing expertise and knowledge. … **I built a * *business case and a clear rationale around each of the countries. What the size of the * *education market was, what the size of the revenues might be, what the sort of issues * *were. I got the UK to get behind the idea.* *I spent a year working alongside the guys in the * *Middle East building up the market. And then I was asked to sort of move over here. * (Consultant J, Big Four)
 
-<!-- page 129 -->
+<!-- page 130 -->
 
 Consultant F had a background in academic and research administration in Europe prior to joining the firm and had worked in the GCC in a start-up capacity across the public sector before identifying an education niche within a project held by the firm:
 
@@ -3116,7 +2511,7 @@ During the period since 2008, opportunities to develop a market in educational c
 
 *Our core focus initially for clients used to be investors, mostly private equity funds who * *were interested in investing in the education space and they did not have any adviser who *
 
-<!-- page 130 -->
+<!-- page 131 -->
 
 *could help them in this work* *and that's how [Big Four] started becoming more and more * *known in the sector across Asia including the Middle East.* *(*Consultant A, Big Four)
 
@@ -3142,7 +2537,7 @@ These difficulties include the exacting nature of the client in the context of a
 
 *I think clients here in the region are sophisticated purchases of consultancy services. * *They've been doing it an awful lot. And that means they're quite canny bu**yers at times. So, * *they're saying, "Look I'm going to test you. I want you to give me more than I'm asking * *you. I'm looking for the extra mile". "What can you tell me that I didn't already know?"** * *Because I'm assuming that I'm buying your services not just* *to answer the question that *
 
-<!-- page 131 -->
+<!-- page 132 -->
 
 *I'm asking, but to give me something else. What else can you offer?"* (Consultant K, Big Four)
 
@@ -3164,7 +2559,7 @@ In his theorisation of power, Gaventa (2003) argues that localities are constitu
 
 The network and networking are highly significant aspects of the micro strategies of individual consultants' work and it is social capital theory that provides the foundation for analysis. Within this body of theory, the network is conceptualised as a system of social relations in which action is
 
-<!-- page 132 -->
+<!-- page 133 -->
 
 embedded and on which it is contingent (Granovetter, 1985). The network is a social structure of nodes – organisations, people, groups – joined by a variety of relationships (Tasselli et al, 2015) and built by members' strategic brokering of knowledge and interactions around needs for knowledge and expertise (Burt, 2000; Diez-Vial and Matero Sanchez, 2014, Gulati, 1998). Social capital derives from the structure of a network and its assets. The assets are trust and trustworthiness, obligations and expectations, identity and identification (Nahapiet and Ghoshal, 1998). It is crucial that the firm has the capacity both to facilitate networking and to absorb the assets accruing from it (Burt, 2000; Naphiet and Ghoshal, 1998). This allows consultants to cultivate personalised contact networks of clients, engage in face-to-face communication, and make themselves available continuously as advisers. This builds social capital for the purposes of securing clients, contracts, and future work (Broshak, 2015). Social capital is then a source of power.
 
@@ -3180,7 +2575,7 @@ The ability to network was identified as an essential skill for a consultant, ec
 
 *The person who was appointed at [Strategy House] has the advantage of speaking Arabic * *and is very good at networking. So, they built this education practice around [that person].* (Consultant F, Ex-Strategy House)
 
-<!-- page 133 -->
+<!-- page 134 -->
 
 The networks built by consultants are not only focused on forming connections with clients. Networking efforts includes building connections *between clients*.
 
@@ -3200,7 +2595,7 @@ Therefore, it is necessary to invest in the firm infrastructure so that consulta
 
 However, such investment is a strategic commercial decision; it is expensive and raises questions around performance metrics. This then returns us to the discussion of the macro politics of the global firm. The deployment of resources (offices, human capital) is necessary to achieve the objective of gaining revenue. However, the deployment of resources adequate to understanding "*the way in which these places operate*" and meeting the needs of clients in local context is contingent on, and potentially restricted by, the profit seeking motive of the firm: "*the Big Four * *run on various metrics -* *things like profitability targets on pieces of work*" (Consultant J, Big Four). And as I have evidenced in Chapter Six, the large management consultancy firms in the GCC have responded to these issues differently in terms of organisational structure and size.
 
-<!-- page 134 -->
+<!-- page 135 -->
 
 ## *Trust Networks and Networked Reputation*
 
@@ -3216,7 +2611,7 @@ The next 'niche' Consultant had recognised that it was possible to build reputat
 
 So, based on these accounts, consultants in 'niche' firms explain their networking activity as an exercise seeking trust and relationships and in terms of a deep understanding of how the social fabric of the GCC functions. They also seek to project a primary interest in the benefit to the client and the sector. Consultants in the large firms refer to the importance of client satisfaction, rather
 
-<!-- page 135 -->
+<!-- page 136 -->
 
 than benefit. Client satisfaction develops the networked reputation of the firm. So, although it is "*important to solve problems rather than prolong them*" (Consultant K, Big Four) *perceptions *of benefit are paramount. They are important because client satisfaction leads to referrals to future business:
 
@@ -3234,7 +2629,7 @@ This section has discussed how consultants in both the large and niche managemen
 
 This section examines consultants' experiences of working with the clients and potential clients who are included in their networks. This is work that generates the RFP. The RFP is an 'invited space' that is developed into a contract. The contract forms around a project proposal which, in execution, forms a larger 'invited space'. The RFP is then a central mechanism in the process of
 
-<!-- page 136 -->
+<!-- page 137 -->
 
 the development of the market. The focus of the section is how client requirements are expressed throughout this process.
 
@@ -3258,7 +2653,7 @@ Alternatively, "*some of the bigger Ministries, [laugh], will often hire consult
 
 *Very often we are in situations where the client already knows they want to work with us * *on a specific topic, but they don't know how to formulate the request for proposals. **So, we * *write the request for proposals for them**. **So, you're fixing the request for proposals and * *you're fixing the likelihood of getting the job. *(Consultant F, Ex-Strategy House)
 
-<!-- page 137 -->
+<!-- page 138 -->
 
 This ostensibly leaves a great deal of power in the hands of the appointed firm. And, the absence of participation by the client in detailed specification of their requirements risks that the client may not benefit as they had anticipated because the consultant is left to infer client needs. For the consultant, power is experienced as uncertainty about client requirements and motivations; the outsourcing of the RFP itself may reflect a desire to outsource the problem and solution:
 
@@ -3278,7 +2673,7 @@ Consultants needed to negotiate clients' choices in order to set feasible expect
 
 The RFP thus marks a moment where the balance of power between consultant and client is at stake.
 
-<!-- page 138 -->
+<!-- page 139 -->
 
 ## *Capacity, Collaboration* *and Control*
 
@@ -3302,7 +2697,7 @@ However, this is problematic because the client-consultant relationship becomes 
 
 Therefore, it is crucial that project specification is carefully defined at the outset and this means the consultant must involve themselves in extensive prior negotiation with clients. Collaboration in a balanced relationship is crucial to the effectiveness of negotiations around the project
 
-<!-- page 139 -->
+<!-- page 140 -->
 
 specifications, around options during the execution process ("*socialising solutions*", Consultant A, Big Four) and in concluding the project. However, as we have seen, project specification and client collaboration are poor:
 
@@ -3318,7 +2713,7 @@ The network is a mechanism of market development and networking is a strategy. T
 
 Networking is a strategy of market development that aims to attract the client into forming a contract that results in a paid programme of work. The RFP is a material expression of these finegrained, situated processes of market development. Using the framework of the *powercube*, the RFP has been conceptualised as an 'invited' and 'hybrid' space in which 'hidden' forms of power operate. Hidden power is the ability to set the agenda, terms of reference, and membership of the management consultancy project. Within contracted programmes of work the invited space expands because of negotiated choices to include other people, often external to the GCC.
 
-<!-- page 140 -->
+<!-- page 141 -->
 
 However, the epithet 'hidden' is insufficient in explaining the idiosyncrasies and complexities of the power relationship between the client and consultant. In practice the 'hidden' processes of developing and executing contracts around the RFP are ridden with complexity and contradiction. Both the consultant and client have influence on defining, contracting, executing, and concluding the project. However, their roles are not clear cut. Clients find it difficult to explicate needs, and consultants must infer them. Consultants require clients to collaborate and take decisions but at the extremes, clients do not undertake this role or do so autocratically. For consultants, a major complication arises when there is insufficient attention paid by the client to their own role and to the negotiation and collaboration required in the specification and contracting process. The epithet 'hidden power' identifies what needs to be made explicit.
 
@@ -3330,7 +2725,7 @@ Effective consultancy in the higher education sector of the GCC is evidently tim
 
 *I don't think there is much written that analyses in any differentiated way about the * *realities of consulting in the Middle East, and the realities of consulting in Europe and * *North America which is where most of the tradition is. And the way in which consultant * *firms organise themselves in the Middle East is still very much geared to the European and * *North American consultant model and metrics, which in some cases aren't necessarily * *quite appropriate in the Middle East, I would say.* (Consultant J, Big Four)
 
-<!-- page 141 -->
+<!-- page 142 -->
 
 ## **CHAPTER TEN**
 
@@ -3344,7 +2739,7 @@ The foregoing chapters have identified strategies and mechanisms that large mana
 
 The chapter proceeds as follows. First, I recap on discussion of neoliberalism in the context of governance and show what this study has found out about the mechanisms and strategies used by the large management consultancy firms and their connection to ideas broadly associated with neoliberalism. Second, I use the *powercube* to appraise neoliberalism as a hegemonic form of power, and illustrate this appraisal using interview accounts of client work. Third, I show how neoliberalism discourse functions within the resources produced for and about the GCC higher education sector and I show through analysis of interview accounts the implication of management consultancy firms in the development of the private sector in higher education. Fourth, I use interview accounts to explain how client work in the public sector also responds to and enables neoliberal assumptions of the governance agenda. The chapter concludes that the large management consultancy firms draw on a homogeneous logic of neoliberalism that derives from norms and rules of the centre of higher education. This becomes a discursive logic used to describe and appraise the GCC higher education sector. We therefore learn about the problems of the GCC in terms of what it is not – the *Saidian* process of 'othering'. We also learn of proposed transformative practices that are not discussed in terms of their relevance and applicability to context but nevertheless seek to shape that context in terms of the norms and rules of the centre.
 
-<!-- page 142 -->
+<!-- page 143 -->
 
 ## **Neoliberalism and the Market for Management Consultancy in the Higher Education Sector of** **the GCC**
 
@@ -3354,7 +2749,7 @@ In this study the types of discursive and agenda-setting mechanisms identified b
 
 In addition, we have seen that when consultancy in the higher education sector is developed as a market, client projects reflect needs only if needs are supported by revenue streams. That is, the market – client projects – does not express the total needs of the higher education sector because a distinction should be made between having needs, having a need to buy management consultancy services, and being able to buy services. We have also seen how the service provided is contingent on the business model and revenue/profit seeking motivations of the firm. So from these perspectives, the 'need' of the higher education sector for management consultancy services is contingent on the rules of private markets.
 
-<!-- page 143 -->
+<!-- page 144 -->
 
 This chapter takes up the theme of neoliberalism in its broader senses to examine what is common in the cognitive assumptions that inform client projects. That is, it returns to the issue raised in Chapter Seven about how the ideas and discourse of the resources produced by large management consultancy frame clients' problems and their solution in terms that draw on broad neoliberal ideas about how to recognise and realise the funding, provision, delivery and regulation of higher education. These common assumptions provide the logic and motivation for client projects. For firms these assumptions provide **a mechanism of market development **and within client projects they become **an outcome of that market**.
 
@@ -3372,7 +2767,7 @@ First, broadly conceived, neoliberalism is expressed in ideas, shapes values and
 
 *In the beginning you could have built anything, and someone would have shown up. But * *now the competition is such that you have to be a bit better which means you have to start * *demonstrating your competitive advantage and there are standards and good practice * *here, and you need to start putting them in place. The universities are still quite creaky on * *what they're doing and how they are doing it. They've realised that because they're no * *longer being funded to the hilt for just anything* *they're going to have to demonstrate **a bit * *more quality, a bit more reach in their research and this kind of stuff that matters. And you * *can't do it without a focus on governance, a focus on quality. And that's why we get * *brought in a lot. *(Consultant K, Big Four)
 
-<!-- page 144 -->
+<!-- page 145 -->
 
 Second, ideas associated with neoliberalism inform choices, and shapes agendas such that some issues are not voiced, and some voices are suppressed. In the negotiations around needs and solutions, a set of common assumptions justify a 'hidden' form of power. This next consultant describes the practices of 'other institutions around the world' as 'benchmarks' and refers to them when seeking to influence the mindset of the leadership of GCC universities. They are a tool of persuasion and reassurance around the necessity to manage the 'university from a business perspective', to align with the practices of 'corporate organisations', to treat students like 'customers':
 
@@ -3388,11 +2783,11 @@ And, when enshrined in Government policy, as regulations, or in formal rules suc
 
 *If we go to the policy objectives in [GCC nation] number one agenda is to run a partnership * *between the public and private sectors. So, this is for me what is key out of what is * *happening in advisory here**. … And another domain in higher education advisory is to * *transform higher education in [GCC nation] from government-based education that is * *funded by the government to not-for-profit, self-funded.* (Consultant Q, Big Four)
 
-https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm [Accessed 25th October, 2018]
+[https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm](https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm) [Accessed 25th October, 2018]
 
-^49^ GCC nations in the WTO: Bahrain and Kuwait 1st Jan 1995, Qatar 13th Jan 1996, UAE 10th April 1996, Oman 9 th November 2000, Saudi Arabia 11th December 2005.
+> ^49^ GCC nations in the WTO: Bahrain and Kuwait 1st Jan 1995, Qatar 13th Jan 1996, UAE 10th April 1996, Oman 9 th November 2000, Saudi Arabia 11th December 2005.
 
-<!-- page 145 -->
+<!-- page 146 -->
 
 Moreover, interview accounts suggest that not only are the large management consultancy firms operating in many different 'invited spaces' (client projects) of the higher education sector of the GCC, they are also working at a scale that includes other international organisations:
 
@@ -3410,7 +2805,7 @@ The *powercube* enables us to identify how neoliberalism has effect in different
 
 Evidence of the nature of the cognitive assumptions is shown next.
 
-<!-- page 146 -->
+<!-- page 147 -->
 
 ## **Temporality, Teleology,** **and Tone: Private Investment and Economic Benefit**
 
@@ -3430,7 +2825,7 @@ An educated and skilled population is vital for sustained economic and social gr
 
 GCC education reforms are critical to **ensure that the skills taught in schools** **match those ** **needed in the workplace, to reduce youth unemployment, and to position graduates to ** **succeed in tomorrow's more open and competitive economic environment**. These reforms are **long overdue; they must begin now** if the region is to position itself for a more diversified economic **future** in which knowledge and creativity will play central roles.
 
-<!-- page 147 -->
+<!-- page 148 -->
 
 Robertson, (2017: 297) offers an additional perspective on this discourse. She draws on sociological theory of capitalism to articulate the micro-processes of producing new cognitive orientations that visualise education as a market. So, "modern capitalist societies see the future as open and uncertain as well as a storehouse of possibilities for future innovation and investment. This in turn means investing in efforts to manage the future, as well as how to exploit the future". She argues that these efforts include the crafting of narratives in which the future is "framed by theories of development, risk and calculation, or technological progress", and is mediated through sophisticated presentation of statistics and discursive means of excluding alternative possible explanations of the future. Robertson argues that thus formatted, the yet unknown future becomes "a prize worth fighting for by investors". So, we can see that in the above accounts the teleology – the purposeful action – is temporally rapid reform to serve a positive future.
 
@@ -3452,7 +2847,7 @@ Rising demand for education in the GCC is driving an investment boom in the sect
 
 The GCC education sector is already attracting investors from around the world. To capitalize on this opportunity, buyers will have to identify opportunities in market segments that feature
 
-<!-- page 148 -->
+<!-- page 149 -->
 
 favourable combinations of curriculum, price point and geography—and tap into the right value creation levers after their deals close.
 
@@ -3472,7 +2867,7 @@ Work with private equity investors also served to generate further work with the
 
 *I mean, we would work a lot with the investor and we would end up working with the * *investee company for a much longer duration on more strategic issues**.* *We worked with * *the investment body set up by [GCC nation] to promote global education in [the nation]. * *The first project was to identify opportunities for the investor, and that then migrated to * *having actually worked a lot with the [international branch campus] that was invested in. *
 
-<!-- page 149 -->
+<!-- page 150 -->
 
 *You know as any consulting firm as an adviser we always hoped that most of the work * *comes from the operators and policy makers themselves rather than the investment * *community because with operators and regulators you tend to establish longer term * *relationships and its more strategic in nature, more long-term in nature.* (Consultant B, Big Four)
 
@@ -3488,7 +2883,7 @@ However, the large management consultancies firms have been working across both 
 
 In this section the focus is on the disciplinary power of neoliberalism in the public sector, and the logic that gives it direction, form, and content. Dale and Robertson (2007) argue that the disciplinary power of neoliberalism rests in the assumption that its rules – of recognition and realisation – have authority. Robertson (2010) argues that within neoliberal agendas, competition provides a set of rules that command authority. She argues that in the governance of higher education, three forms of competition are in evidence. First, New Public Management, which inscribes values of business – rivalry, frugality, risk, choice, value for money, entrepreneurship – as means of driving efficiency. Second, comparative competition, in which context education becomes a tradable service-commodity and knowledge provides an economic advantage. Third, competitive comparison, in which rankings produce status hierarchies and these motivate 'improvement' measured against relative position in terms of the criteria used. What follows is a brief analysis of the websites of the major public universities in the GCC to show how the themes under each concept of competition permeate the sense of purpose that the universities now serve. Indeed, an historical comparison demonstrates the *directedness *of purpose: a shift from a public role as serving society to organisations with *'missions'* as instruments of economic advancement. To illustrate I use examples from Saudi Arabia (the oldest university) and Bahrain (the newest revision).
 
-<!-- page 150 -->
+<!-- page 151 -->
 
 All of the GCC nations developed higher education through the initial establishment of public national universities. The Universities were founded to contribute to national development. Although this continues to be their purpose, the nature of the contribution has changed over time. The oldest university, King Saud University, Saudi Arabia was established by Royal Decree in 1957 to:
 
@@ -3508,27 +2903,22 @@ Similarly, the University of Bahrain was established in 1986 to "aim at serving 
 
 ## *Strategic Pillars:*
 
-*World-Class Learning and Teaching*
+- *World-Class Learning and Teaching*
+- *Leading Edge Human Capital*
+- *Research with National and Regional Impact*
 
-*Leading Edge Human Capital*
+> ^50^ [http://www.ksu.edu.sa/en/about-ksu.html](http://www.ksu.edu.sa/en/about-ksu.html) [Accessed 23rd October 2018]
 
-*Research with National and Regional Impact*
+> ^51^ [http://www.uob.edu.bh/en/images/About_UOB/UoB_Establishment_Decrees.pdf](http://www.uob.edu.bh/en/images/About_UOB/UoB_Establishment_Decrees.pdf) [Accessed 23rd October 2018]
 
-^50^ http://www.ksu.edu.sa/en/about-ksu.html [Accessed 23rd October 2018]
+> ^52^ [http://www.uob.edu.bh/en/images/About_UOB/Strategy_EN16Sep2018.pdf](http://www.uob.edu.bh/en/images/About_UOB/Strategy_EN16Sep2018.pdf) [Accessed 23rd October 2018]
 
-^51^ http://www.uob.edu.bh/en/images/About_UOB/UoB_Establishment_Decrees.pdf [Accessed 23rd October 2018]
+<!-- page 152 -->
 
-^52^ http://www.uob.edu.bh/en/images/About_UOB/Strategy_EN16Sep2018.pdf [Accessed 23rd October 2018]
-
-<!-- page 151 -->
-
-*Dynamic, Innovative and Entrepreneurial Environment*
-
-*Local Engagement and International Reputation*
-
-*Bahrain's Economic Diversification and Growth*
-
-*A Transformative Environment*
+- *Dynamic, Innovative and Entrepreneurial Environment*
+- *Local Engagement and International Reputation*
+- *Bahrain's Economic Diversification and Growth*
+- *A Transformative Environment*
 
 In both these accounts, the concepts and agendas that fall out of New Public Management, comparative competition, and competitive comparison feature markedly.
 
@@ -3548,7 +2938,7 @@ However, it is in the work with individual universities that we can see very cle
 
 First, in terms of New Public Management, the following Consultant describes work on 'generic business problems' as the bread and butter of the large management consultancy firms:
 
-<!-- page 152 -->
+<!-- page 153 -->
 
 *The larger firms consult on what are essential generic business problems**. You know, 'How * *do we develop the strategy?**', 'How do we become more efficient?', 'How do we become * *more effective about what we do?' *(Consultant J, Big Four)
 
@@ -3574,7 +2964,7 @@ Second, we see clients hiring management consultants to advise in the context of
 
 And this next consultant interprets a client's request for advice on whether to offer a new curriculum in terms of its competitiveness and attractiveness in the market, with competitiveness
 
-<!-- page 153 -->
+<!-- page 154 -->
 
 and attractiveness set in the context of position relative to other providers, and relative to the needs of industry and employers:
 
@@ -3596,13 +2986,13 @@ The management consultancy work implements the globally circulating common assum
 
 Whilst the neither the nation or state is de-emphasised as site or actor in the governance of higher education, the work of the large management consultancy firms serves to 'open' and 'scale' governance on a global dimension at the level of ideas and norms, and at the level of actors and
 
-<!-- page 154 -->
+<!-- page 155 -->
 
 mechanisms. Thus, the role of higher education is to serve the economic interests of nations competing in an international knowledge economy, and its governance includes international private investors and owners, international private sector operators, and regulation of the private and public sector through market mechanisms. These mechanisms are the hallmark of neoliberalism expressed as New Public Management, comparative competition, and competitive comparison.
 
 Neoliberalism is ideological and instrumental. It is also transformative, in opening the space of the 'national' higher education sectors of the GCC nations to incorporate global agendas and actors. Through its ideological, instrumental, and transformative functions neoliberalism becomes a hegemonic form of power. In their work in the GCC higher education sector the large management consultancy firms influence the terms of governance, and these terms are informed by globally circulating common assumptions about the role of neoliberalism.
 
-<!-- page 155 -->
+<!-- page 156 -->
 
 ## **CHAPTER 11**
 
@@ -3620,7 +3010,7 @@ However, the agenda and rationale around this question was established by bringi
 
 In the context of education, governance is concerned with setting hard and soft rules around the funding, provision/delivery, ownership, and regulation of education. The literature argues that the rules governing what we recognise as normal and effective forms of funding, provision/delivery, ownership, and regulation are permeated by common assumptions around the role of neoliberalism. The argument in the literature of the GPSF is that the firms seek to construct the infrastructure advantageous to their corporate interests – they seek to build global capitalist systems, to establish the knowledge 'economy', and to support agendas that favour market-based solutions and the role of the private sector. We therefore have a theoretical link between the two literatures – in terms of governance in the context of globalization, and the dominance of broadly neoliberal ideas. The contribution of this study is to move beyond theoretical proposition around these issues to providing some detail of how this works, why, and with what outcomes. Following the literature, I have studied the work of the large management consultancy firms in the higher education sector of the GCC in detail. I have done so in terms of their politics and interests and their purposes, processes, practices and outcomes. And, I have examined questions of what mechanisms work, in what ways, for whom and under what circumstances.
 
-<!-- page 156 -->
+<!-- page 157 -->
 
 A second set of connections form around the mutual concern with the lack of attention to power or an insufficiently complex conceptualisation of power. In this context we see claims to knowledge and expertise as power strategies aimed at gaining influence in governance – shaping the rules by which we recognise and realise social and economic affairs. The production of knowledge, gaining position to claim expertise, and gaining control of 'cognitive' agendas are considered power strategies and key means of influence.
 
@@ -3632,17 +3022,13 @@ These connections provided the scope and rationale for the research question. Th
 
 In order to identify and understand the strategies and mechanisms used by large management consultancy firms to insert themselves in the GCC higher education sector we needed to ask:
 
-What are the characteristics and dynamics the of the mechanisms and strategies?
+- What are the characteristics and dynamics the of the mechanisms and strategies?
+- What are the politics and interests at stake?
+- What is contingent or conditional, what is gained or lost when these strategies and mechanisms are employed?
+- What are the outcomes and the consequences of this work in terms of transnational governance, the implementation of ideas and practices associated with neoliberalism, and our understanding of the role, organisation and function of the university?
+- To what extent is a power-sensitive theoretical framework useful in understanding these strategies and mechanisms?
 
-What are the politics and interests at stake?
-
-What is contingent or conditional, what is gained or lost when these strategies and mechanisms are employed?
-
-What are the outcomes and the consequences of this work in terms of transnational governance, the implementation of ideas and practices associated with neoliberalism, and our understanding of the role, organisation and function of the university?
-
-To what extent is a power-sensitive theoretical framework useful in understanding these strategies and mechanisms?
-
-<!-- page 157 -->
+<!-- page 158 -->
 
 How are historical centre-periphery relations reflected in the work of large management consultancy firms in the higher education sector of the GCC?
 
@@ -3658,7 +3044,7 @@ a) Invisible power is used to frame the higher education sector and create it di
 
 'Anglosphere' models are described as 'global' and used to refract/compare the GCC. The result of this is that the GCC is seen as lacking in contrast to the 'anglosphere' and excluded from the 'global'. The 'anglosphere' is both the centre of management consultancy activity, and the centre of academic power. Thus, the knowledge and
 
-<!-- page 158 -->
+<!-- page 159 -->
 
 expertise of management consultancy and of higher education is channelled on a transnational vertical from the centre to the periphery.
 
@@ -3676,7 +3062,7 @@ d) Within client projects firms draw on the ideological, disciplinary and consti
 
 The work of management consultancy embeds a homogenous, globally circulating logic of neoliberalism within national boundaries and subjects the component parts of the higher education system to the discipline of its norms, forms and orders. Whilst the neither the nation or state is de-emphasised as site or actor in the governance of higher education, the work of the large management consultancy firms serves to 'open' and 'scale' governance on a global dimension at the level of ideas and norms, and at the level of actors and mechanisms.
 
-<!-- page 159 -->
+<!-- page 160 -->
 
 ## **Detailed Summary** **of Findings**
 
@@ -3688,7 +3074,7 @@ The 'linked ecology' is dominated by members of the 'anglosphere', and circulate
 
 In the following chapter I argued that there are two key strategies used by the large management consultancies to claim a role for themselves in the 'space' that they have constructed with the resources. The first is to generate knowledge about the higher education sector and the second is to adopt characteristics of universities. By creating structures in the image of academia and by collaborating and associating with academic institutions and academics, the large management consultancy firms cultivate an academic identity and imply academic warrant for their knowledge and expertise. The large management consultancy firms thus position themselves to claim an expert role within the 'needs' of the higher education sector. In this way they claim credential for their propositions about the optimal organisation, operation, and outcomes of higher education. And, not only are the firms thus positioned to colonise the higher education sector they have also internalised the teaching functions of universities by beginning to educate and give credential to professionals.
 
-<!-- page 160 -->
+<!-- page 161 -->
 
 I suggested that the knowledge production process is limited, constrained by the business model of the firm. When examining for 'due diligence' using criteria developed from the breadth of ideas grouped under the term 'academic norms' we can identify several weaknesses. The 'anglosphere' centric sources of input are a bias and serve to scale the orientation of the work in the GCC higher education sector externally and to incorporate the external in practice. The knowledge production is not 'disinterested' because it is market oriented, seeking future revenue for the firm. It is the privatisation of public goods and private provision for the public good. The 'public' is served where it has the money to pay. Finally, the academic warrant is found wanting in terms of the methodological trustworthiness of the knowledge and expertise generated and proposed.
 
@@ -3702,7 +3088,7 @@ The final chapter argued that a common set of assumptions are evident in the acc
 
 The work of the large management consultancy firms serves to 'open' and 'scale' governance on a global dimension at the level of ideas and norms, and at the level of actors and mechanisms. Neoliberalism is ideological and instrumental. It is also transformative, in opening the space of the 'national' higher education sectors of the GCC nations to incorporate global agendas such as neoliberalism and the actors who promote and implement its terms.
 
-<!-- page 161 -->
+<!-- page 162 -->
 
 ## **Summary of Key Scholarly Contributions**
 
@@ -3726,7 +3112,7 @@ First, we have seen that lack of collaboration and negotiation on the part of th
 
 The power of the large management consultancy firms lies in the social capital of the firm on a corporate basis (globally networked knowledge management systems and human capital), the social capital of the consultant in situ, and brand identity. However, without investment on the part of the client or investment in the client (capacity building) by the consultant, these forms of power result in 'shelf-ware'. So, clarification of the client's role and arrangements for client learning and development should be achieved at the outset.
 
-<!-- page 162 -->
+<!-- page 163 -->
 
 "*Until the last minute of the project they want the consultant to do **everything. They don't * *want to learn, they don't put the effort to learn. If I am to tell you anything, I don't see any * *knowledge transfer within any project that I have been working in in 18 years. We need * *some investment from the client side to shadow the consultant*" (Consultant Q, Big Four).
 
@@ -3742,7 +3128,7 @@ It follows then that fourth, the large management consultancy firms need to addr
 
 In pursuit of revenues in the GCC context the large management consultancy firms have begun to provide professional education. This erodes the university's function in forming professional curricula and awarding credentials. Fundamentally this means that the large management consultancy firms gain influence in setting the terms of professionalism in their own interests, and the traditional role of universities and professional associations in providing external scrutiny and accountability is eroded. These issues are noted in the academic literature, although discussion has not examined this phenomenon in the GCC context, where the large management consultancy firms have justified their activity in terms of the failings of the existing universities and have also been active in setting up 'corporate' universities for a variety of other trade and industry sectors.
 
-<!-- page 163 -->
+<!-- page 164 -->
 
 Overall, the management consultancy work in both professional education and in research and consultancy on the organisation, functioning, and purpose of higher education constitutes the privatisation of public goods and private provision for the public good. The 'public' is served if it has the money to pay.
 
@@ -3756,7 +3142,7 @@ Different methodologies might be useful too. For example, a longitudinal case st
 
 Finally, given the proposition of the power of large management consultancy firms as actors within the governance of education in the context of globalization and the finding that their work in the GCC context encounters some major limitations, it would be necessary to explore in more detail the impact of work with clients of different type. For example, it may be that the impact is clearer and more distinct when clients are governments wanting to write strategy and policy or when clients are private investors seeking purchase in higher education as a market. Impact may be less clear when the client is a large university seeking broad change and capacity building because universities are known for their complexity and resistance to change in general.
 
-<!-- page 164 -->
+<!-- page 165 -->
 
 ## **BIBLIOGRAPHY**
 
@@ -3794,7 +3180,7 @@ Atkinson, P. and Silverman, D. (1997) Kundera's Immortality: The Interview Socie
 
 Avakian, S. and Clark, T. (Eds.) The International Library of Critical Writings on Business and Management: Management Consulting. Cheltenham: Edward Elgar.
 
-<!-- page 165 -->
+<!-- page 166 -->
 
 Ball, S. J. (2009) Privatising education, privatising education policy, privatising educational research: network governance and the 'competition state'. Journal of Education Policy (24)1, pp. 83 - 99.
 
@@ -3830,7 +3216,7 @@ Boussebaa, M. and Morgan, G. (2014) Pushing the frontiers of critical internatio
 
 Boussebaa, M., and Faulconbridge, J. (2016) The work of global professional service firms. In, Wilkinson, A., Hislop, D., Coupland, C. (2016) Perspectives on Contemporary Professional Work Challenges and Experiences. Cheltenham: Edward Elgar.
 
-<!-- page 166 -->
+<!-- page 167 -->
 
 Boussebaa, M., Morgan, G., and Sturdy, A. (2012) Constructing Global Firms? National, Transnational and Neocolonial Effects in International Management Consultancies. Organization Studies (33)4 pp. 465 – 486.
 
@@ -3868,7 +3254,7 @@ Charmaz, K. (1995) Grounded Theory; in Smith, J. and Harre, R. (Eds) Rethinking 
 
 Cho, J. and Trent, A. Validity in qualitative research revisited. Qualitative Research (6)3, pp.319– 340.
 
-<!-- page 167 -->
+<!-- page 168 -->
 
 Chio, V. C. M. and Banerjee, S. B. (2009) Towards an anthropology of globalization. In, Banerjee, S. B., Chio, V. C. M, and Mir, R (Eds.) Organizations, Markets and Imperial Formations: Towards an Anthropology of Globalization. Cheltenham: Edward-Elgar.
 
@@ -3906,7 +3292,7 @@ Díez-Vial, I. and and Montoro-Sánchez, Á. (2014) Social capital as a driver o
 
 Djelic, M.-L. and Sahlin-Andersson, K. (Eds.) (2006) Transnational governance Cambridge: Cambridge University Press.
 
-<!-- page 168 -->
+<!-- page 169 -->
 
 Ehteshami, A., and Wright, S. (2007). Political change in the Arab oil monarchies: from liberalization to enfranchisement. International affairs (83)5, pp. 913-932.
 
@@ -3946,7 +3332,7 @@ Fincham, R. and Clark, T. (2002) Management Consultancy: Issues, Perspectives, a
 
 Fincham, R. Mohe, M., and Seidl, D. (2013) Management Consulting and Uncertainty: Mapping the Territory. International Studies of Management and Organisation (43)3, pp. 3 - 10.
 
-<!-- page 169 -->
+<!-- page 170 -->
 
 Fincham, R., Clark, T., Handley, K. and Sturdy, A. (2008) Configuring expert knowledge: the consultant as sector specialist. Journal of Organizational Behavior (29) pp. 1145–1160.
 
@@ -3986,7 +3372,7 @@ Garrett, R. (2002). International branch campuses: Scale and significance. Londo
 
 Gaventa, J. (1980) Power and Powerlessness: Quiescence and Rebellion in an Appalachian Valley. Urbana: University of Illinois Press.
 
-<!-- page 170 -->
+<!-- page 171 -->
 
 Gaventa, J. (2006) Finding the Spaces for Change: A Power Analysis, in Eyben, R., Harris, C. and Pettit, J. (Eds.) Exploring Power for Change. IDS Bulletin 37 (6), Brighton: Institute of Development Studies, pp. 23–33.
 
@@ -4024,7 +3410,7 @@ Healey, N. (2014) When is an International Branch Campus? International Higher E
 
 Healey, N. (2015) Towards a risk-based typology for transnational education. Higher Education (69), pp. 1 – 18.
 
-<!-- page 171 -->
+<!-- page 172 -->
 
 Healey, N., Michael, L. (2014 and Towards a New Framework for Analysing Transnational Education. Higher Education Policy (28)3, pp. 369-391
 
@@ -4060,7 +3446,7 @@ Kim and Zhu (2010) Universities as Firms: The Case of US Overseas Programs. In C
 
 Kipping, M. and Clark, T. (2012) Researching Management Consulting: An Introduction to the Handbook. In Clark, T. and Kipping, M. (Eds) The Oxford Handbook of Management Consulting. Oxford: Oxford University Press.
 
-<!-- page 172 -->
+<!-- page 173 -->
 
 Kipping, M. and Saint Martin, D. (2005) Between Regulation, Promotion and Consumption: Government and Management Consultancy in Britain. Business History (47)3, pp. 449 - 465.
 
@@ -4102,7 +3488,7 @@ Lauder, H., Young, M., Daniels, H., Balarin, M. and Lowe, J. (2012) Introduction
 
 Law, J. and Urry, J. (2004) Enacting the social. Economy and Society (33)3, pp. 390–410.
 
-<!-- page 173 -->
+<!-- page 174 -->
 
 Lawton, W., and Katsomitros, A. (2012). International branch campuses: Data and developments. London: The Observatory on Borderless Higher Education.
 
@@ -4144,7 +3530,7 @@ McGrath, S. and Gu, Q. (2015) Economic Globalisation, Skill Formation and Develo
 
 McKenna, S. (2011) A critical analysis of North American business leaders' neocolonial discourse: global fears and local consequences. Organization (18)3, pp. 387 – 405.
 
-<!-- page 174 -->
+<!-- page 175 -->
 
 Merleau-Ponty, M. (1962). The Phenomenology of Perception. London: Routledge.
 
@@ -4180,7 +3566,7 @@ Naidoo, V. (2009) Transnational Higher Education: A Stock Take of Current Activi
 
 Nikolova, N., and Devinney, T. The Nature of Client–Consultant Interaction: A Critical Review. In, Clark, T. and Kipping, M. (Eds.) The Oxford Handbook of Management Consulting. Oxford: Oxford University Press.
 
-<!-- page 175 -->
+<!-- page 176 -->
 
 Nixon, J. (2001) 'Not without dust and heat': The moral bases of the 'new' academic professionalism. British Journal of Educational Studies 49(2), pp. 173-186.
 
@@ -4220,7 +3606,7 @@ Reed, M.I. (2012) Masters of the Universe: Power and Elites in Organization Stud
 
 Reihlen, M. and Nikolova, N. (2010) Knowledge production in consulting teams. Scandinavian Journal of Management (26), pp. 279 - 289.
 
-<!-- page 176 -->
+<!-- page 177 -->
 
 Robertson, S. L. (2003) WTO/GATS and the global education services industry. Globalisation, Societies and Education (1)3, pp. 259-266.
 
@@ -4254,7 +3640,7 @@ Scott, W. R. (2008) Lords of the Dance: Professionals as Institutional Agents. O
 
 Seabrooke, L. (2014) Epistemic arbitrage: Transnational professional knowledge in action. Journal of Professions and Organization (1), pp. 1 – 16.
 
-<!-- page 177 -->
+<!-- page 178 -->
 
 Seabrooke, L. and Tsingou, E. (2014) Professional emergence on transnational issues: Linked ecologies on demographic change. Journal of Professions and Organization (2) pp.1–18.
 
@@ -4274,7 +3660,7 @@ Somaya, D. and Mawdsley, J. (2015) Strategy and Strategic Alignment in Professio
 
 Spence, C., Zhu, J., Endo, T., and Matsubara, S. (2017) Money, honour and duty: Global professional service firms in comparative perspective. Accounting, Organizations and Society pp. 1- 16.
 
-Stanfield, D. A. (2014) International Branch Campuses: Motivation, Strategy, and Structure. Unpublished thesis: Boston College. [Last accessed 1st July 2016 https://dlib.bc.edu/islandora/object/bc-ir:103560/datastream/PDF/view].
+Stanfield, D. A. (2014) International Branch Campuses: Motivation, Strategy, and Structure. Unpublished thesis: Boston College. [Last accessed 1st July 2016 [https://dlib.bc.edu/islandora/object/bc-ir:103560/datastream/PDF/view]](https://dlib.bc.edu/islandora/object/bc-ir:103560/datastream/PDF/view).
 
 Starbuck, W. H. (1992) Learning by Knowledge-Intensive Firms. Journal of Management Studies (29)6, pp. 713 - 740.
 
@@ -4292,7 +3678,7 @@ Sturdy, A. (2004) The Adoption of Management Ideas and Practices: Theoretical Pe
 
 Sturdy, A. (2011) Consultancy's Consequences? A Critical Assessment of Management Consultancy's Impact on Management. British Journal of Management (22), pp. 517 - 530.
 
-<!-- page 178 -->
+<!-- page 179 -->
 
 Sturdy, A. (2012) The Future Research Agenda. The Oxford Handbook of Management Consulting. Oxford: Oxford University Press.
 
@@ -4330,7 +3716,7 @@ Verger and Robertson (2012) The GATS game-changer: International trade regulatio
 
 von Nordenflycht, A. (2010). What is a Professional Service Firm? Towards a Theory and Taxonomy of Knowledge-Intensive Firms. Academy of Management Review 35(1), pp. 155–174.
 
-<!-- page 179 -->
+<!-- page 180 -->
 
 Walsham, G. (1993) Interpreting information systems in organizations. Chichester, NH: Wiley.
 
@@ -4352,44 +3738,44 @@ Westwood, R. I. and Jack, G. (2007) Manifesto for a post-colonial international 
 
 Zald, M. N., & Lounsbury, M. (2010). The wizards of Oz: Towards an institutional approach to elites, expertise and command posts. Organization Studies (31) pp. 963–996.
 
-<!-- page 180 -->
+<!-- page 181 -->
 
 ## **APPENDIX ONE: Management Consultancy Resources Used**
 
 ## **Anglosphere**
 
-|   |   |   |
+|  |  |  |
 | --- | --- | --- |
 | Accenture | High Performance in Higher Education | https://www.accenture.com/ca-en/service-high-performance-higher |
-|   | (2014) | education [accessed 10th June 2018] |
+|  | (2014) | education [accessed 10th June 2018] |
 | AON | Higher Education We Understand Your Risks | http://www.aon.com/industry-expertise/higher-education-risk |
-|   | (2015) | management.jsp [Accessed 10th June 2018] |
+|  | (2015) | management.jsp [Accessed 10th June 2018] |
 | Boston Consultancy | Five Trends to Watch in Higher Education | https://www.bcg.com/publications/2014/public-sector-five-trends |
 | Group | (2014) | watch-higher-education.aspx [accessed 20th June 2018] |
-|   |   |   |
+|  |  |  |
 | Deloitte | Success by design: Improving outcomes in | https://www2.deloitte.com/insights/us/en/industry/public |
-|   | American higher education (2017a) | sector/improving-student-success-in-higher-education.html [Accessed |
-|   |   | 20th June 2018] |
+|  | American higher education (2017a) | sector/improving-student-success-in-higher-education.html [Accessed |
+|  |  | 20th June 2018] |
 | Deloitte | Making the Grade: A study of the top 10 | https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/Publi |
-|   | issues facing higher education institutions | cSector/2011_makign_the_grade_deloitte_ireland.pdf [Accessed 10th |
-|   | (2011) | June 2018] |
-|   |   |   |
+|  | issues facing higher education institutions | cSector/2011_makign_the_grade_deloitte_ireland.pdf [Accessed 10th |
+|  | (2011) | June 2018] |
+|  |  |  |
 | Deloitte | Pathways to the University Presidency: The | https://www2.deloitte.com/content/dam/insights/us/articles/3861_Pat |
-|   | Future of Higher Education Leadership | hways-to-the-university-presidency/DUP_Pathways-to-the-university |
-|   | (2017b) | presidency.pdf [Accessed 10th June 2018] |
+|  | Future of Higher Education Leadership | hways-to-the-university-presidency/DUP_Pathways-to-the-university |
+|  | (2017b) | presidency.pdf [Accessed 10th June 2018] |
 | Deloitte | Taking the Reins as a Business School Dean | https://www2.deloitte.com/insights/us/en/topics/talent/taking-the |
-|   | (2013) | reins-as-a-business-school-dean.html [Accessed 10th June 2018] |
+|  | (2013) | reins-as-a-business-school-dean.html [Accessed 10th June 2018] |
 | Deloitte | The lifetime learner: A journey through the | https://www2.deloitte.com/insights/us/en/industry/public |
-|   | future of postsecondary education (2014a) | sector/future-of-online-learning.html [Accessed 10th June 2018] |
+|  | future of postsecondary education (2014a) | sector/future-of-online-learning.html [Accessed 10th June 2018] |
 | Deloitte | University Relations (website) | https://www2.deloitte.com/us/en/pages/about-deloitte/articles/about |
-|   |   | 10th June 2018] deloitte-university-relations.html# [Accessed |
+|  |  | 10th June 2018] deloitte-university-relations.html# [Accessed |
 | Deloitte | Deloitte University (website) | https://www2.deloitte.com/us/en/pages/about |
-|   |   | deloitte/topics/deloitte-university.html [Accessed 10th June 2018] |
+|  |  | deloitte/topics/deloitte-university.html [Accessed 10th June 2018] |
 | Deloitte | Mind the (Skills) Gap (2012) | [Accessed 10th June 2017] https://hbr.org/2012/09/mind-the-skills-gap |
 | Deloitte | Reimagining higher education (2014b) | https://www2.deloitte.com/insights/us/en/industry/public |
-|   |   | sector/reimagining-higher-education.html [Accessed 10th June 2018] |
+|  |  | sector/reimagining-higher-education.html [Accessed 10th June 2018] |
 
-<!-- page 181 -->
+<!-- page 182 -->
 
 | Deloitte | Deloitte US Five essential principles for improving college student success (website) | https://www2.deloitte.com/us/en/pages/public-sector/articles/five principles-for-improving-student-outcomes.html [Accessed 10th June 2018] |
 | --- | --- | --- |
@@ -4405,41 +3791,41 @@ Zald, M. N., & Lounsbury, M. (2010). The wizards of Oz: Towards an institutional
 | EY Parthenon | For-Profits Eye the British Market (2011) | https://wonkhe.com/blogs/for-profits-eye-the-british-market/ [Accessed 10th June 2018] |
 | EY Parthenon | Strategy, events and the rocky road ahead (2018) | https://wonkhe.com/blogs/strategy-events-and-the-rocky-road-ahead/ [Accessed 10th June 2018] |
 
-<!-- page 182 -->
+<!-- page 183 -->
 
 | 25. EY Parthenon | Strength in Numbers (2016) | http://cdn.ey.com/parthenon/pdf/perspectives/P-EY_Strength-in |
 | --- | --- | --- |
-|   |   | Numbers-Collaboration-Strategies_Paper_Final_082016.pdf [Accessed |
-|   |   | 11th June 2018] |
-| 26. |   |   |
+|  |  | Numbers-Collaboration-Strategies_Paper_Final_082016.pdf [Accessed |
+|  |  | 11th June 2018] |
+| 26. |  |  |
 | EY Parthenon | The Differentiated University (no date) | https://www.ey.com/Publication/vwLUAssets/The-differentiated |
-|   |   | university/$FILE/The-differentiated-university.pdf [Accessed 11th June 2018] |
+|  |  | university/$FILE/The-differentiated-university.pdf [Accessed 11th June 2018] |
 | 27. KPMG | Extending the Campus (2012) | https://assets.kpmg.com/content/dam/kpmg/pdf/2012/10/expansion |
-|   |   | [Accessed 10th June 2018] higher-education-v2.pdf |
+|  |  | [Accessed 10th June 2018] higher-education-v2.pdf |
 | KPMG | Embracing innovation (2016) | https://assets.kpmg.com/content/dam/kpmg/br/pdf/2017/08/he |
-|   |   | outlook-2016.pdf [Accessed 19th June 2018] |
+|  |  | outlook-2016.pdf [Accessed 19th June 2018] |
 | KPMG | It's not all about borrowing: redefining the | https://wonkhe.com/blogs/its-not-all-about-borrowing-redefining-the |
-|   | way universities think about financing | way-universities-think-about-financing-strategy/ [Accessed 11th June |
-|   | strategy (2018) | 2018] |
+|  | way universities think about financing | way-universities-think-about-financing-strategy/ [Accessed 11th June |
+|  | strategy (2018) | 2018] |
 | KPMG | Universities to the rescue: harnessing | https://wonkhe.com/blogs/universities-to-the-rescue-harnessing |
 | 30. | institutions' superpowers (2017) | [Accessed 11th June 2018] institutions-superpowers/ |
 | 31. KPMG | Wonkhe and KPMG announce a new | https://wonkhe.com/wonkhe-and-kpmg/ [Accessed 11th June 2018] |
-|   | collaboration (2017) |   |
+|  | collaboration (2017) |  |
 | KPMG Australia | An Enterprise Approach to Higher Education | https://home.kpmg.com/au/en/home/insights/2017/08/enterprise |
-|   | (2016) | approach-to-education.html [Accessed 11th June 2018] |
+|  | (2016) | approach-to-education.html [Accessed 11th June 2018] |
 | McKinsey | Rethinking 101: A new agenda for university | https://assets.mckinsey.com/industries/social-sector/our |
-|   | and higher education system leaders? (2012) | insights/rethinking-101-a-new-agenda-for-university-and-higher |
-|   |   | education-system-leaders [Accessed 11th June 2018] |
+|  | and higher education system leaders? (2012) | insights/rethinking-101-a-new-agenda-for-university-and-higher |
+|  |  | education-system-leaders [Accessed 11th June 2018] |
 | pwc | The 2018 university Making the right | https://www.pwc.co.za/en/assets/pdf/2018-university-making-the |
-|   | choices, making it happen (2018a) | right-choices-making-it-happen.pdf [Accessed 11th June 2018] |
+|  | choices, making it happen (2018a) | right-choices-making-it-happen.pdf [Accessed 11th June 2018] |
 | pwc | HE Matters: Internationalisation (2017) | https://www.pwc.co.uk/government-public-sector/education/he |
-|   |   | matters/documents/he-matters-autumn-2017-internationalisation.pdf |
-|   |   | [Accessed 11th June 2018] |
+|  |  | matters/documents/he-matters-autumn-2017-internationalisation.pdf |
+|  |  | [Accessed 11th June 2018] |
 | 36. pwc | HE Matters: Strategy for Universities (2018c) | https://www.pwc.co.uk/government-public-sector/education/he |
-|   |   | matters/documents/he-matters-summer-2018-strategy.pdf [Accessed |
-|   |   | 11th June 2018] |
+|  |  | matters/documents/he-matters-summer-2018-strategy.pdf [Accessed |
+|  |  | 11th June 2018] |
 
-<!-- page 183 -->
+<!-- page 184 -->
 
 | 37. pwc | Tech trends in global higher education (2018d) | https://wonkhe.com/blogs/tech-trends-in-global-higher-education/ [accessed 11th June 2018] |
 | --- | --- | --- |
@@ -4451,130 +3837,114 @@ Zald, M. N., & Lounsbury, M. (2010). The wizards of Oz: Towards an institutional
 
 | Deloitte | Educational reform is an economic and | https://www.albawaba.com/business/pr/deloitte-536869 [Accessed 11th |
 | --- | --- | --- |
-|   | social challenge for GCC governments | June 2018] |
-|   | (2013a) |   |
+|  | social challenge for GCC governments | June 2018] |
+|  | (2013a) |  |
 | Deloitte | Middle East Public Sector National | https://www2.deloitte.com/xe/en/pages/public-sector/articles/me-ps |
-|   | necessities: Education (2013b) | national-necessities.html [Accessed 11th June 2018] |
+|  | necessities: Education (2013b) | national-necessities.html [Accessed 11th June 2018] |
 | Deloitte | Defeating the Downturn—Are | https://www.forbesmiddleeast.com/en/defeating-the-downturn-are |
-|   | Universities Fighting Fit? (2016) | universities-fighting-fit/ [Accessed 11th June 2018] |
+|  | Universities Fighting Fit? (2016) | universities-fighting-fit/ [Accessed 11th June 2018] |
 | Deloitte | Defining the future (2015) | https://www.forbesmiddleeast.com/en/defining-the-future/ [Accessed |
-|   |   | 11th June 2018] |
+|  |  | 11th June 2018] |
 | Deloitte | Entrepreneurship In Saudi Arabia (2015a) | https://www.forbesmiddleeast.com/en/entrepreneurship-in-saudi-arabia/ |
-|   |   | [Accessed 11th June 2018] |
-|   |   |   |
+|  |  | [Accessed 11th June 2018] |
+|  |  |  |
 | Deloitte | Quality Education and Career | https://www.forbesmiddleeast.com/en/quality-education-and-career |
-|   | Opportunities Are Top Priorities For | [Accessed 11th June opportunities-are-top-priorities-for-university-students/ |
-|   | University Students (2013c) | 2018] |
+|  | Opportunities Are Top Priorities For | [Accessed 11th June opportunities-are-top-priorities-for-university-students/ |
+|  | University Students (2013c) | 2018] |
 | Deloitte | Challenges and solutions for Middle East | https://www2.deloitte.com/xe/en/pages/energy-and |
-|   | Energy & Resources: Deployment of | resources/articles/me-energy-resources-whitepaper1-2015.html [Accessed |
-|   | Nationals in the Post-Oil Era (2015b) | 11th June 2018] |
+|  | Energy & Resources: Deployment of | resources/articles/me-energy-resources-whitepaper1-2015.html [Accessed |
+|  | Nationals in the Post-Oil Era (2015b) | 11th June 2018] |
 
-<!-- page 184 -->
+<!-- page 185 -->
 
 | Deloitte | School's out, now what? (2014) | https://www2.deloitte.com/ae/en/pages/about |
 | --- | --- | --- |
-|   |   | deloitte/articles/deloittemepov13/mepov13-schoolsoutnowwhat.html |
-|   |   | [Accessed 11th June 2018] |
+|  |  | deloitte/articles/deloittemepov13/mepov13-schoolsoutnowwhat.html |
+|  |  | [Accessed 11th June 2018] |
 | EY | How will the GCC close the skills gap? | http://www.ey.com/em/en/industries/governmentpublic-sector/ey-how |
-|   | (2015) | will-the-gcc-close-the-skills-gap [Accessed 11th June 2018] |
+|  | (2015) | will-the-gcc-close-the-skills-gap [Accessed 11th June 2018] |
 | EY | Learning to Succeed: Leadership, | http://www.ey.com/Publication/vwLUAssets/ey-learning-to |
-|   | education and the knowledge economy in | succeed/$FILE/ey-learning-to-succeed.pdf [accessed 11th June 2018] |
-|   | the Middle East (2016) |   |
+|  | education and the knowledge economy in | succeed/$FILE/ey-learning-to-succeed.pdf [accessed 11th June 2018] |
+|  | the Middle East (2016) |  |
 | EY | Autonomous Universities Saudi Arabia | https://www.msn.com/en-ae/news/other/autonomous-universities-in-line |
-|   | (2018) | with-vision-2030-lytle/ar-AAvOXUR [Accessed 11th June 2018] |
+|  | (2018) | with-vision-2030-lytle/ar-AAvOXUR [Accessed 11th June 2018] |
 | Parthenon | Investing For Growth: Navigating | http://cdn.ey.com/parthenon/pdf/perspectives/4.4.8-Investing-for-growth |
-|   | Successful and Sustainable Investments in | GCC-1-disclaimer.pdf [Accessed 11th June 2018] |
-|   | Education in GCC Region (2012) |   |
+|  | Successful and Sustainable Investments in | GCC-1-disclaimer.pdf [Accessed 11th June 2018] |
+|  | Education in GCC Region (2012) |  |
 | EY-Parthenon | Aggressive Investment Fuelling Growth In | https://www.forbesmiddleeast.com/en/aggressive-investment-fuelling |
-|   | GCC Private Education Sector (2013) | [Accessed 11th June 2018] growth-in-gcc-private-education-sector/ |
+|  | GCC Private Education Sector (2013) | [Accessed 11th June 2018] growth-in-gcc-private-education-sector/ |
 | EY-Parthenon | BLUE SKIES: New thinking about the | www.pearsonblueskies.com |
-|   | future of higher education: A collection of |   |
-|   | short articles by leading commentators |   |
-|   | (2014) |   |
+|  | future of higher education: A collection of |  |
+|  | short articles by leading commentators |  |
+|  | (2014) |  |
 | EY-Parthenon | Driving Grades, Driving Growth: How | http://cdn.ey.com/parthenon/pdf/perspectives/Parthenon |
-|   | Private Capital in Education is Increasing | EY_WISE_Research_Report.pdf [Accessed 11th June 2018] |
-|   | Access, Inspiring Innovation and |   |
-|   | Improving Outcomes. World Innovation |   |
-|   | Summit for Education: An Initiative of the |   |
-|   | Qatar Foundation (2015) |   |
+|  | Private Capital in Education is Increasing | EY_WISE_Research_Report.pdf [Accessed 11th June 2018] |
+|  | Access, Inspiring Innovation and |  |
+|  | Improving Outcomes. World Innovation |  |
+|  | Summit for Education: An Initiative of the |  |
+|  | Qatar Foundation (2015) |  |
 | McKinsey | Vision 2030 Saudi Arabia | https://www.brookings.edu/blog/markaz/2016/05/11/saudi-arabias |
-|   |   | [Accessed 11th June 2018] mckinsey-reshuffle/ |
+|  |  | [Accessed 11th June 2018] mckinsey-reshuffle/ |
 | McKinsey | Drivers of Student Performance: Middle | https://www.mckinsey.com/industries/social-sector/our-insights/drivers-of |
-|   | East and North Africa Insights | student-performance-insights-from-the-middle-east-and-north-africa |
-|   | Education (2017) | [Accessed 11th June 2018] |
+|  | East and North Africa Insights | student-performance-insights-from-the-middle-east-and-north-africa |
+|  | Education (2017) | [Accessed 11th June 2018] |
 
-<!-- page 185 -->
+<!-- page 186 -->
 
 | McKinsey | Saudi Arabia Beyond Oil: The Investment | https://www.mckinsey.com/featured-insights/employment-and |
 | --- | --- | --- |
 | (Global Institute) | and Productivity Transformation (2015) | growth/moving-saudi-arabias-economy-beyond-oil [Accessed 11th June |
-|   |   | 2018] |
+|  |  | 2018] |
 | pwc | Understanding the GCC Education Sector | https://www.pwc.com/m1/en/industries/education/education-country |
-|   | - a country by country guide: Saudi Arabia | profile-ksa.html [Accessed 11th June 2018] |
-|   | (2017a) |   |
+|  | - a country by country guide: Saudi Arabia | profile-ksa.html [Accessed 11th June 2018] |
+|  | (2017a) |  |
 | pwc | pwc Middle East Education sector | https://www.pwc.com/m1/en/industries/education/publications/education |
-|   | capability statement (2016) | sector-capability-statement-me-2016.pdf [Accessed 11th June 2018] |
+|  | capability statement (2016) | sector-capability-statement-me-2016.pdf [Accessed 11th June 2018] |
 | pwc | Business schools must respond to the | https://www.forbesmiddleeast.com/en/business-schools-must-respond |
-|   | changing world of business skills | [Accessed 11th June 2018] changing-skills/ |
+|  | changing world of business skills | [Accessed 11th June 2018] changing-skills/ |
 | pwc | Success In GCC Education Requires Savvy | https://www.forbesmiddleeast.com/en/success-in-gcc-education-requires |
-|   | Deal-Making And Execution (2017b) | savvy-deal-making-and-execution/ [Accessed 11th June 2018] |
-| pwc | Listening to students' voices Putting | https://www.strategyand.pwc.com/media/file/Listening-to-students |
-|   | students at the heart of education reform | voices.pdf [Accessed 11th June 2018] Originally |
-|   | in the GCC (2013) | Company. |
+|  | Deal-Making And Execution (2017b) | savvy-deal-making-and-execution/ [Accessed 11th June 2018] |
+| pwc Strategy& | Listening to students' voices Putting | https://www.strategyand.pwc.com/media/file/Listening-to-students |
+|  | students at the heart of education reform | voices.pdf [Accessed 11th June 2018] Originally published by Booz & |
+|  | in the GCC (2013) | Company. |
 
-<!-- page 186 -->
+<!-- page 187 -->
 
 ## **APPENDIX TWO: EXAMPLE OF CRITICAL DISCOURSE ANALYSIS** **METHOD**
 
 ## Key:
 
-Purple = claim (problem, solution)
-
-Blue = warrant/reference
-
-Green = references to specific geographical places or 'global'.
-
-Red = Production of the 'other' through contrasts
-
-Red = Specific characteristics of the 'other'
+- Purple = claim (problem, solution)
+- Blue = warrant/reference
+- Green = references to specific geographical places or 'global'.
+- Red = Production of the 'other' through contrasts
+- Red = Specific characteristics of the 'other'
 
 *Deloitte. Making the grade 2011: A study of the top 10 issues facing higher education institutions*
 
 "Higher education institutions are in the midst of a **perfect storm**. Government funding is declining, market conditions have reduced the value of endowments, private backing is on the wane and costs are going up. Yet, these combined challenges create a unique opportunity for transformation. Educational institutions willing to think laterally can position themselves to outperform into the future" Louise Upton, Principal and Canadian Higher Education Lead, Deloitte Canada [Also excepts from:]
 
-Mark Price, Principal, Deloitte United States
-
-Troy Kay, Senior Manager, Deloitte Canada
-
-Rod Barrass, Manager, Deloitte Canada
-
-Arsh Maini, Senior Consultant, Deloitte India
-
-Michael Jabour, Director, Deloitte Australia
-
-Michael Pentland, Associate Partner, Deloitte Canada
-
-Peter Present, Executive Lead, Deloitte South Africa
-
-Julie Mercer, Associate Partner, Deloitte UK
+- Mark Price, Principal, Deloitte United States
+- Troy Kay, Senior Manager, Deloitte Canada
+- Rod Barrass, Manager, Deloitte Canada
+- Arsh Maini, Senior Consultant, Deloitte India
+- Michael Jabour, Director, Deloitte Australia
+- Michael Pentland, Associate Partner, Deloitte Canada
+- Peter Present, Executive Lead, Deloitte South Africa
+- Julie Mercer, Associate Partner, Deloitte UK
 
 [1] Shaping the problem
 
-issue distinction: construction of market need
+- issue distinction: construction of market need
+- Dramatization: crisis, challenge
+- Metaphor: multiple forces, devastating consequences^53^
+- Logic: financial stability; competition
+- [2] Shaping the solution
+- fresh thought, strategy
 
-Dramatization: crisis, challenge
+> ^53^ After the publication of a book and release of a movie, both titled "The Perfect Storm," … a reference to "a perfect storm" is understood to embody the story of a fishing boat lost in a terrible storm, in which multiple forces converged in a singular event to produce devastating consequences that could not have been foreseen or prevented. Nothing could have been done to prevent the damage, and no one is to blame. (McCrehan Parker, 2012: 323)
 
-Metaphor: multiple forces, devastating consequences^53^
-
-Logic: financial stability; competition
-
-[2] Shaping the solution
-
-fresh thought, strategy
-
-^53^ After the publication of a book and release of a movie, both titled "The Perfect Storm," … a reference to "a perfect storm" is understood to embody the story of a fishing boat lost in a terrible storm, in which multiple forces converged in a singular event to produce devastating consequences that could not have been foreseen or prevented. Nothing could have been done to prevent the damage, and no one is to blame. (McCrehan Parker, 2012: 323)
-
-<!-- page 187 -->
+<!-- page 188 -->
 
 ## - Christina Dorfhuber, Principal, Deloitte United States
 
@@ -4582,29 +3952,21 @@ In today's uncertain global economy, the continuing acknowledgment that educatio
 
 ## [1] Shaping the problem
 
-issue distinction: market need
-
-Dramatization: uncertainty, challenge
-
-generating knowledge
-
-Logic market; economic
+- issue distinction: market need
+- Dramatization: uncertainty, challenge
+- generating knowledge
+- Logic market; economic
 
 Internalisation of the functions of the university
 
 Contextualisation - global
 
-[2] Shaping expertise
-
-expertise as global network
-
-embodied expertise
-
-expertise as 'outsider'
-
-Expertise matches problem (fresh thinking)
-
-warrant: sector experience; professionalism as a discursive resource
+- [2] Shaping expertise
+- expertise as global network
+- embodied expertise
+- expertise as 'outsider'
+- Expertise matches problem (fresh thinking)
+- warrant: sector experience; professionalism as a discursive resource
 
 'Around the world' = Canada [4], US [2], UK [1], South Africa [1], and India [1].
 
@@ -4616,13 +3978,10 @@ Some North American institutions consider establishing low-cost campuses and dev
 
 ## [1] Shaping the problem
 
-Dramatization: competition
-
-Logic: market
-
-Metaphor: rivalry
-
-Contextualisation: global competition Other - positioning the client in to categories by
+- Dramatization: competition
+- Logic: market
+- Metaphor: rivalry
+- Contextualisation: global competition Other - positioning the client in to categories by
 
 comparisons. India the only non-Western context.
 
@@ -4636,7 +3995,7 @@ Context – 'globalisation' as an economic opportunity taking advantage of 'deve
 
 [2] shaping the expertise
 
-<!-- page 188 -->
+<!-- page 189 -->
 
 | like the Shanghai Rankings. Even where globalisation is a viable option, it is imperative to lay the strategic foundation | - warrant is rhetorical |
 | --- | --- |
@@ -4645,35 +4004,9 @@ Context – 'globalisation' as an economic opportunity taking advantage of 'deve
 | To succeed into the future, institutions must invest in data mining, financial analysis and IT systems that can help them identify optimal service delivery models and ensure they align to student needs. They must rationalise redundant programs, evaluate the continued relevance of costly ones and ensure their curricula keep pace with market changes. They must look for ways to enhance their core competencies and outsource the rest – which includes considering the merits of shared services and the consolidation of programs, departments and even institutions. Only in this way can they balance financial and academic priorities. | [1] Shaping the problem - in terms of products (expertise) that the MC can offer Logic – market, economic, efficiency Contextualisation – organisational competition and 'survival' |
 | Moving at the speed of cyberspace Technology upgrades are needed across the board. Managing a sprawling campus is akin to managing a small city. While stakeholders across the campus all have different needs, they expect access to equivalent levels of service. In many cases, | [1] shaping the problem - unwarranted or implied expertise; used to contrast with stereotypes (taken for granted common sense) |
 
-<!-- page 189 -->
-
-| back-office systems used to manage student information, finance and human | Metaphor – used to exaggerate or highlight high |
-| --- | --- |
-| resources are woefully outdated, hampering organisational ability to streamline the | stakes |
-| student enrolment process, realise cost efficiencies or hire new or visiting staff. | Rhetoric – use of contrasts |
-| In this new world order, asset optimisation is becoming increasingly critical. To | [1] Shaping the problem |
-| reduce infrastructure costs, some institutions are now partnering with the private sector to build and/or operate shared facilities | metaphor of dramatic change54 reinforced by use of - 'danger' |
-|   | Logic – market, private sector, efficiency |
-| Similarly, according to the Manpower Demonstration Research Corporation, unlike | Contextualisation: |
-| college degrees, career academies and vocational schools tend to boost student earnings by 11%. This may explain some of the challenges being experienced by | Logic – market; change |
-| countries like India that lack a focus on vocational training. With over one billion | [2] Shaping expertise |
-| citizens, India has the second largest higher education system in the world. | - Warrant – labour market research |
-| However, the country has exceptionally limited access to people trained in critical vocations. Aside from creating a significant workforce gap, this educational omission may be contributing to the country's outsized illiteracy rate, which hovers in the | India as underdeveloped – gap, omission. |
-| range of 35% This means higher education institutions must take steps to design |   |
-| programs that align with marketplace demands and employer needs. … "Despite the merits of a world-class liberal arts education, there is a danger in supporting a |   |
-| curriculum that is too theoretical. |   |
-| Funding constraints and cost containment are not the only legacies of the global | [1] Shaping the problem |
-| financial crisis. In the wake of the international market meltdown, governments | - financial markets, regulation, causes warfare and |
-| around the world have been stepping up industry oversight by flexing their | imposition |
-| regulatory muscles. In many cases, the education sector has been caught in the | - metaphors: crisis, meltdown, muscles, crossfire, |
-| crossfire. In the U.S., for instance, where funding accountability has become a | rallying cry |
-| rallying cry some market-funded institutions are under scrutiny |   |
-| That said, there are certain best practices organisations should consider as they | [2] Shaping the solution |
-| prepare for the future. Responding to industry challenges While variations exist, | - commodified knowledge (best practices and 'four' key drivers |
-
-^54^ Politicians have used the term "new world order" to refer to a new period of history characterised by a dramatic change in world political thought and in the balance of power e.g. after WWII (Churchill), post Cold War (G.H.W. Bush) and by H.G. Wells to express the need for technocratic government, international cooperation and peace.
-
 <!-- page 190 -->
+
+<!-- page 191 -->
 
 there are essentially four key driv**e**rs of educational institution value that colleges and universities can manipulate to improve their performance.
 
@@ -4693,27 +4026,20 @@ This **white paper** draws on research and experience from Deloitte's Education 
 
 Beyond the GCC, several nations are using more diversified methods and producing learners with a broader range of skills and attitudes. GCC approaches too often mean that local schools produce students without the wider range of skills, experience and motivation needed to get a job in the modern world
 
-[1] Shaping the problem
-
-Dramatization: change, challenge, lack of speed/capacity
-
-logic: developmental; modernization pressures Presentation of Middle East
-
-lacking capacity, under skilled generalisation Warrant - internalisation of the functions of the university and of government
-
-[2] Shaping expertise
-
-organisational knowledge
-
-embodied knowledge
-
-sector knowledge
+- [1] Shaping the problem
+- Dramatization: change, challenge, lack of speed/capacity
+- logic: developmental; modernization pressures Presentation of Middle East
+- lacking capacity, under skilled generalisation Warrant - internalisation of the functions of the university and of government
+- [2] Shaping expertise
+- organisational knowledge
+- embodied knowledge
+- sector knowledge
 
 Unspecified references from outside the GCC to contrast with the GCC
 
 Metaphor – White Paper = public sector policy propositions; colonization of space
 
-<!-- page 191 -->
+<!-- page 192 -->
 
 | A senior civil servant explains that the misalignment between education and the needs of business is due to the swift growth of the oil-rich GCC countries, which meant that the government did not have time to plan for the needs of its future economy through the education system: "Here, the development boom happened in a very rapid manner and it was not expected at that time. Additionally, there was no projection of what would be required, and even if there had been a projection, the change was faster than what the education system could have kept up with. | [1] Shaping the problem Warrant – opinion of a civil servant Logic – developmental, economic [5] Presentation of the GCC - denigrating, underdeveloped and unprepared |
 | --- | --- |
@@ -4723,11 +4049,11 @@ Metaphor – White Paper = public sector policy propositions; colonization of sp
 | Richard Barrett, Deloitte's Middle East Education and Skills Consulting Lead, points out: "Good careers advice can have a positive and motivating effect on young people. Too often, career advice standards vary across the region and students get an incomplete view of the wealth of progression opportunities open to them." | [1] Shaping the problem - underdeveloped Warrant - embodied expertise (consultant is an ex further education leader) - organisational expertise |
 | Enrolment rates for tertiary education are particularly low for men. A lower number of young males have been entering higher education than women, according to data from the World Bank. With fewer job opportunities for women, they tend to | [1] Shaping the problem Comparison of women against men produces a problem |
 
-<!-- page 192 -->
+<!-- page 193 -->
 
 continue in education for longer. In Dubai, for example, some 75% of those enrolled in public universities are women while only 25% are men, according to the Dubai Knowledge and Human Development Authority. … In order to benefit from this investment, it is important that graduates are encouraged into the labor market so that society can benefit from their skills. Attitudes to female employment have improved in this regard, but in some cases there is still room for progress. - Warrant: World Bank; Government Ministry Presentation of GCC - denigration of culture (improved attitudes towards a western norm) In comments that could apply in many parts of the GCC, Prof. Stephan Schubert of INSEAD's Abu Dhabi campus was reported by the BBC as pointing out that "the whole educational system - the values, the traditional values which are transmitted through school, should probably put more emphasis on the notion of achievement, hard work, labor, earning what you get." He added: "I think to some extent, the wealth of this country that is based on oil which has enabled the growth and building the nation is also probably an obstacle because money doesn't always seem to be a problem - which can then easily distort expectations of young school leavers." [1] Shaping the problem - Warrant – this professor had no idea Deloitte had used his quote to the BBC which was an opinion and not based on research. This is co-option of academics without due diligence / ethic - generalises from the UAE to the region as a whole Contextualisation of the GCC as rentier state problematic "If students are going to succeed, they need to not only understand their own language and culture, they need to be able to communicate effectively in English," says one GCC education expert. "Some see that as an intrusion of their culture by insisting that the language of instruction is English. But the fact is that most of the research that is available is in English, most of the information available on the web is in English, so it becomes a vital skill and a **matter of survival**." Sometimes, resistance to curriculum change is driven by fears that these changes will reduce the status of Arabic and traditional cultural values. It is therefore crucial that policy-makers ensure that these values are safeguarded in the modernization process. Apps and social media developments using Arabic that are already underway have an important role in this process. [1] Shaping the problem - Warrant is an unidentified 'expert' - Contextualisation is that culture and language is a problem; 'modernization' is away from the culture - Metaphor = urgent, existential GCC countries can take advantage of the capability, resources and expertise of globally top-ranked universities by encouraging them to open branches in the Middle East, as has been done in Abu Dhabi with the opening of the Paris-Sorbonne Shaping the solution - Contextualisation of GCC as in need of Western resources
 
-<!-- page 193 -->
+<!-- page 194 -->
 
 | University and New York University, and in Qatar with the world-class universities that make up the Education City development. This should attract those students who are unable, or do not wish to, travel overseas to study. | - culture as a problem |
 | --- | --- |
@@ -4736,7 +4062,7 @@ continue in education for longer. In Dubai, for example, some 75% of those enrol
 | Conclusion The countries that make up the GCC are far from uniform in size, resources and approach to education. A 'one size fits all' approach to the diverse education debate that is currently underway will not work. In recognizing this reality, our paper has attempted to indicate some of the common threads that run through the fabric of education reform in the region. Their exact impact and importance will vary from country to country. We suggest only that they be considered by policy-makers and practitioners as a set of lenses for viewing their | [1] Shaping the problem - generalisation despite acknowledged diversity - colonization of the space [2] Shaping the expertise - internalisation of the function of government |
 | own developmental journey. | Contextualisation: GCC as region requiring development |
 
-<!-- page 194 -->
+<!-- page 195 -->
 
 | Global Case Studies Education reform remains a pressing issue, not only in the Middle East, but in every part of the world. When economies transform from an industrial or carbon-based economy to a knowledge-based economy, educational systems need to adjust swiftly to avoid a misalignment between skills and demand. Many GCC countries are already in the process of implementing reforms with the aim of giving a world class education to their citizens, providing a workforce that will fulfil the needs of their economy, and creating centers of excellence in research and training. | Metaphor: journey [1] Shaping the problem - References are outside the GCC; Global presented as outside the GCC - Metaphor: Global as 'world class' |
 | --- | --- |
@@ -4744,7 +4070,7 @@ continue in education for longer. In Dubai, for example, some 75% of those enrol
 | Effective teacher training, functional skills in the UK Up to four million adults in the UK have reading and writing skills below those of an 11 year-old. In 2009, Deloitte was commissioned to deliver the Functional Skills Support Programme (FSSP). The aim of the program, which covered all English colleges, independent training | [2] Shaping the expertise - Reference non-GCC - Expertise in client base |
 | organizations and some schools, was to prepare teachers, lecturers and managers to provide the new qualification. | Contextualisation - Comparison implicit that GCC requires similar expertise. |
 
-<!-- page 195 -->
+<!-- page 196 -->
 
 Improving standards through peer review, Support for Excellence in the UK - Deloitte led the program from August 2007, developing a delivery model that would engage a high number of providers and coordinate them into peer review and development groups
 
@@ -4756,15 +4082,12 @@ About Deloitte & Touche (M.E.) Deloitte & Touche (M.E.) is a member firm of Delo
 
 ## [2] Shaping expertise
 
-Professionalism as a discursive resource
+- Professionalism as a discursive resource
+- Internalisation of the purpose of the university: rhetorical claim to public service ethic / public interest; training
+- expertise in client experience in the region
+- reinforcement of reputation by repetition of prizes and recognition
 
-Internalisation of the purpose of the university: rhetorical claim to public service ethic / public interest; training
-
-expertise in client experience in the region
-
-reinforcement of reputation by repetition of prizes and recognition
-
-<!-- page 196 -->
+<!-- page 197 -->
 
 ## **APPENDIX THREE: CRITICAL DISCOURSE ANALYSIS ****–** **EVIDENCE FOR CHAPTER SEVEN**
 
@@ -4774,15 +4097,11 @@ reinforcement of reputation by repetition of prizes and recognition
 
 ## **Key**
 
-Context of change and challenge (highlighted in **red**)
-
-drama (highlighted in **black bold**)
-
-stereotypes (highlighted in **purple**)
-
-imperatives and business concepts (highlighted in **green**)
-
-optimistic future (highlighted in **blue**)
+- Context of change and challenge (highlighted in **red**)
+- drama (highlighted in **black bold**)
+- stereotypes (highlighted in **purple**)
+- imperatives and business concepts (highlighted in **green**)
+- optimistic future (highlighted in **blue**)
 
 ## EY-Parthenon (2016)
 
@@ -4798,7 +4117,7 @@ At times, they are viewed as **businesses, generating revenues, incurring expens
 
 **All around the world**, the higher education sector is facing both **increased pressure** and **new ** **opportunities**. In part, this **market shift** is related to the influence of a number of **external ** **forces such as globalization, the financial crisis**, the developing middle class and **changing** student expectations. **Internal forces** are also becoming stronger: **technology is driving **
 
-<!-- page 197 -->
+<!-- page 198 -->
 
 **massive change, costs** **are increasing** and **greater focus is being placed on delivering ** **operational efficiency**.
 
@@ -4806,15 +4125,11 @@ At times, they are viewed as **businesses, generating revenues, incurring expens
 
 We have identified **five long-term trends** that are creating the most **risk**—and **opportunity**—for leaders. Each of the following trends **demands that colleges and universities respond** with as much **creativity and innovation** as they can **muster**. Ultimately, the **transformation** under way will not only ensure their **survival** but also **fuel their growth**.
 
-**Revenue **from key sources is **continuing to fall**, putting many institutions at **severe ** **financial risk**.
-
-**Demands are rising** for a greater **return on investment** in higher education.
-
-**Greater transparency about student outcomes** is **becoming the norm**.
-
-New **business and delivery models** are gaining traction.
-
-The **globalization** of education is **accelerating**.
+- **Revenue **from key sources is **continuing to fall**, putting many institutions at **severe ** **financial risk**.
+- **Demands are rising** for a greater **return on investment** in higher education.
+- **Greater transparency about student outcomes** is **becoming the norm**.
+- New **business and delivery models** are gaining traction.
+- The **globalization** of education is **accelerating**.
 
 Higher education in the U.S. faces **peril and promise**. **Rising pressures** are **driving **universities and colleges to **transform** themselves, so they can **remain in business**. The array of **pressing ** **challenges** requires education leaders to **act with** **unprecedented strategic clarity and vision** in order to **seize the opportunities that lie ahead**.
 
@@ -4828,19 +4143,14 @@ Higher education in the U.S. faces **peril and promise**. **Rising pressures** a
 
 ## **Key**
 
-Context under-capacity, cultural idiosyncrasies (highlighted in **red**)
+- Context under-capacity, cultural idiosyncrasies (highlighted in **red**)
+- Context oppositions and comparisons (underlined)
+- Drama (**black bold**)
+- Reform and development agenda (**purple**)
+- Business concepts (highlighted in **green**)
+- Solutions / support (highlighted in **blue**)
 
-Context oppositions and comparisons (underlined)
-
-Drama (**black bold**)
-
-Reform and development agenda (**purple**)
-
-Business concepts (highlighted in **green**)
-
-Solutions / support (highlighted in **blue**)
-
-<!-- page 198 -->
+<!-- page 199 -->
 
 ## Deloitte (2013a) (a media article referring to Deloitte 2013b below)
 
@@ -4868,7 +4178,7 @@ Modern schools, colleges and universities are being built with **increased inves
 
 **RNJ NOTE: Labelled red* *because this is a cultural generalisation (a feminist perspective * *would also argue that issues affecting women are being used to explain a problem with men)*
 
-<!-- page 199 -->
+<!-- page 200 -->
 
 "the whole educational system - **the values, the traditional values** which are transmitted through school, **should probably put more emphasis** on the **notion of achievement, hard work, ** **labor, earning what you get.**"* He added: "I think to some extent, **the wealth of this country ** **that is based on oil** which has **enabled the growth and building the nation** **is also probably an ** **obstacle because money doesn't always seem to be a problem** - which can then easily distort expectations of young school leavers."
 
@@ -4892,7 +4202,7 @@ Education today accounts for about 25 percent of government spending*, and about
 
 ***This* *is probably also apparent in France and Germany*
 
-<!-- page 200 -->
+<!-- page 201 -->
 
 *The only comparison made is to use France and Germany as* *positive* *benchmarks*
 
@@ -4908,7 +4218,7 @@ The current nature of **policy review and strategic overhaul** in Saudi Arabia m
 
 Governments in the Gulf Cooperation Council (GCC) have spent significantly more funds on education over the past two decades, **yet student performance continues to lag behind** global peers, and **unemployment among graduates continues to grow**. A large part of **the problem is** **the mismatch between the** **skills being taught in schools and the skills needed in the ** **workplace**. **Reforms are necessary to harness the potential of this large generation of young ** **people**
 
-<!-- page 201 -->
+<!-- page 202 -->
 
 ## **APPENDIX FOUR: CHECKLISTS AND CATEGORIZATIONS**
 
@@ -4960,16 +4270,12 @@ Below is a basic approach that outlines **six key steps **that an institution ca
 
 Our ongoing dialogue with educators, as well as our experience helping top private-sector organizations navigate similar storms in their sectors, convinces us that **six major thematic ** **areas** now deserve fresh scrutiny.
 
-<!-- page 202 -->
+<!-- page 203 -->
 
 ## Parthenon EY (no date)
 
 The segmentation analysis by The Parthenon Group lays out **three critical stops** on the muchneeded roadmap for institutions to succeed:
 
-1. Understand the Segments
-
-2. Develop Targeted Programs and Services
-
-3. Refine Recruitment Strategy
-
-<!-- page 203 -->
+- 1. Understand the Segments
+- 2. Develop Targeted Programs and Services
+- 3. Refine Recruitment Strategy

@@ -12,7 +12,7 @@ Award date: 2019
 
 Awarding institution: University of Bath
 
-Link to publication
+[Link to publication](https://researchportal.bath.ac.uk/en/studentTheses/d96d6a08-369c-4ff1-9aff-bcaea55e8c18)
 
 ## **Alternative formats**
 
@@ -26,15 +26,14 @@ If you consider content within Bath's Research Portal to be in breach of UK law,
 
 Download date: 11. Oct. 2025
 
-<!-- page 1 -->
+<!-- page 2 -->
 
 ![TH.R09 fig02](../figures/TH/TH.R09_fig02.jpg)
 
-Citation for published version: Sughnani, N 2019, 'The Transnational Higher Education Model in Dubai: Motivations, Challenges and Benefits', Doctor of Business Administration (DBA), University of Bath.
-
-Publication date: 2019
-
-Link to publication
+Citation for published version:
+Sughnani, N 2019, 'The Transnational Higher Education Model in Dubai: Motivations, Challenges and Benefits',
+Doctor of Business Administration (DBA), University of Bath.Publication date:
+2019Link to publication
 
 ## **University of Bath**
 
@@ -48,7 +47,7 @@ If you believe that this document breaches copyright please contact us providing
 
 Download date: 25. Mar. 2019
 
-<!-- page 2 -->
+<!-- page 3 -->
 
 ## **The Transnational Higher Education Model in ** **Dubai: Motivations, Challenges and Benefits **
 
@@ -64,409 +63,72 @@ Signed:
 
 Nitesh Khemchand Sughnani September 2018
 
-<!-- page 3 -->
-
 <!-- page 4 -->
-
-## Table of Contents
-
-A
-
-cknov
-
-wledgments
-
-/
-
-A
-
-bstrac
-
-et
-
-8
-
-G
-
-lossaı
-
-ry of Abbreviations
-
-1.
-
-Cha
-
-apter 1: Overview of Study
-
-12
-
-1.1
-
-Introduction
-
-1.2
-
-Dubai as a setting for the study
-
-14
-
-1.3
-
-Objectives of the study
-
-16
-
-1.4
-
-Research Inquiry
-
-17
-
-1.5
-
-Thesis Summary
-
-17
-
-2.
-
-Cha
-
-apter 2: Research Context
-
-19
-
-2.1
-
-Introduction to Dubai
-
-19
-
-2.2
-
-Higher Education in Dubai
-
-20
-
-2.3
-
-International Branch Campuses in Dubai
-
-**2**3
-
-2.4
-
-Regulation and Quality Assurance
-
-3.
-
-Cha
-
-apter 3: Literature Review
-
-31
-
-3.1
-
-Transnational Higher Education
-
-33
-
-3.2
-
-Rationales for Internationalization
-
-47
-
-3.3
-
-Regulatory Approaches in Transnational Education
-
-3.4
-
-Quality Assurance of Transnational Education
-
-3.5
-
-Effects of Transnational Education
-
-3.6
-
-Summary of Literature Review:
-
-64
-
-3.7
-
-Theoretical Framework:
-
-4.
-
-Cha
-
-apter 4: Methods and Methodology
-
-71
-
-4.1
-
-Introduction
-
-4.2
-
-Research Strategy
-
-4.3
-
-Research Design
-
-4.4
-
-Data Collection Methods
-
-4.5
-
-Sample Selection:
-
-4.6
-
-Data Analysis
-
-4.7
-
-Role of the Researcher:
-
-4.8
-
-Validity and Reliability
-
-_
-
-4.9
-
-Ethical Considerations
-
-5.
-
-apter 5: Findings – Government Planners
-
-5.1
-
-Regulatory Enablers
-
-5.2
-
-Motivations for a Transnational Model of Higher Education
-
-5.3
-
-Challenges faced by Government authorities in implementing the model
-
-5.4
-
-Benefits
-
-_
-
-5.5
-
-Future Outlook
-
-apter 6: Findings – Higher Education Providers
-
-6.1
-
-Motivations for International Higher Education Providers to set up in Dubai:
-
-138
 
 <!-- page 5 -->
 
-6.2 Challenges faced by International Higher Education Providers in Dubai:157
+## Table of Contents
 
-6.3
-
-Benefits and Achievements realized by International Higher Education Providers in
-
-Dubai: 176
-
-6.4
-
-Future Outlook 183
-
-7. Chapter 7: Discussion and Recommendations
-
-185
-
-7.1
-
-Regulatory Enablers, Motivations, Challenges and Benefits185
-
-7.2
-
-Summary of the Dubai Higher Education Model:198
-
-7.3
-
-Recommendations:203
-
-7.4
-
-Relevance and Contribution to the Literature209
-
-7.5
-
-Limitations and areas for further Research211
-
-7.6
-
-Conclusion 212
-
-7.7
-
-Personal Reflections214
-
-8.
-
-References
-
-216
-
-9.
-
-Appendices
-
-226
-
-9.1
-
-Interview Schedule – Stakeholder Group A226
-
-9.2
-
-Interview Schedule – Stakeholder Group B229
+Acknovwledgments /Abstracet 8Glossaıry of Abbreviations1.Chaapter 1: Overview of Study 121.1Introduction1.2Dubai as a setting for the study141.3Objectives of the study161.4Research Inquiry171.5Thesis Summary172.Chaapter 2: Research Context 192.1Introduction to Dubai192.2Higher Education in Dubai202.3International Branch Campuses in Dubai**2**32.4Regulation and Quality Assurance3.Chaapter 3: Literature Review 313.1Transnational Higher Education333.2Rationales for Internationalization473.3Regulatory Approaches in Transnational Education3.4Quality Assurance of Transnational Education3.5Effects of Transnational Education3.6Summary of Literature Review:643.7Theoretical Framework:4.Chaapter 4: Methods and Methodology 714.1Introduction4.2Research Strategy4.3Research Design4.4Data Collection Methods4.5Sample Selection:4.6Data Analysis4.7Role of the Researcher:4.8Validity and Reliability_4.9Ethical Considerations5.apter 5: Findings – Government Planners5.1Regulatory Enablers5.2Motivations for a Transnational Model of Higher Education5.3Challenges faced by Government authorities in implementing the model5.4Benefits_5.5Future Outlookapter 6: Findings – Higher Education Providers6.1Motivations for International Higher Education Providers to set up in Dubai:138
 
 <!-- page 6 -->
 
-## List of Figures
-
-Table Number
-
-Page
-
-Number
-
-Figure 2.1 Different Categories of Higher Education Institutions in Dubai.
-
-21
-
-Figure 2.2 Academic Programmes in Dubai by Level and Field of Study.
-
-22
-
-Figure 2.3 Total Student Enrolment in Dubai 2008-2014.
-
-23
-
-Figure 2.4 Number of Higher Education Institutions in Dubai and Location.
-
-24
-
-Figure 2.5 Number of Degrees Available in Dubai at International Universities.
-
-26
-
-Figure 2.6 Students Enrolled in Dubai by Category of Institution.
-
-26
-
-Figure 2.7 Location of Study of Emirati Students.
-
-27
-
-Figure 3.1 Models of Internationalization in Higher Education.
-
-37
-
-Figure 3.2 Main Forms of Transnational Education.
-
-42
-
-Figure 3.3 Rationales for Internationalization.
-
-48
-
-Figure 3.4 Regulatory Models of Transnational Education.
-
-55
-
-Figure 3.5 Conceptual Framework.
-
-69
-
-Figure 4.1 Pre-determined Codes from Conceptual Framework for First Level of Coding.
-
-86
+6.2 Challenges faced by International Higher Education Providers in Dubai:1576.3Benefits and Achievements realized by International Higher Education Providers inDubai:
+1766.4Future Outlook
+1837. Chapter 7: Discussion and Recommendations
+1857.1Regulatory Enablers, Motivations, Challenges and Benefits1857.2Summary of the
+Dubai Higher Education Model:1987.3Recommendations:2037.4Relevance and Contribution to the Literature2097.5Limitations and areas for further
+Research2117.6Conclusion
+2127.7Personal Reflections2148.References2169.Appendices
+2269.1Interview Schedule –
+Stakeholder Group A2269.2Interview Schedule –
+Stakeholder Group B229
 
 <!-- page 7 -->
 
-## List of Tables
+## List of Figures
 
-Table Number
-
-Page
-
-Number
-
-Table 3.1 Summary of Literature Review Chapter.
-
-33
-
-Table 3.2 Level of Importance for Rationale of Stakeholder Groups.
-
-50
-
-Table 4.1 Representation within Stakeholder Group A – 'Government Planners' and number of participants.
-
-82
-
-Table 4.2 Representation within Stakeholder Group B – 'International Education Planners' and distinctive characteristics.
-
-84
-
-Table 4.3 Number of participants from each institution in Stakeholder Group B – 'International Education Planners'
-
-85
-
-Table 4.4 Illustration of Findings.
-
-87
-
-Table 5.1 Summary of Motivations for Stakeholder Group A – Government Planners.
-
-103
-
-Table 5.2 Summary of Challenges for Stakeholder Group A – Government Planners.
-
-113
-
-Table 5.3 Summary of Benefits for Stakeholder Group A – Government Planners.
-
-128
-
-Table 6.1 Summary of Motivations for Stakeholder Group B – International Providers.
-
-138
-
-Table 6.2 Summary of Challenges for Stakeholder Group B – International Providers.
-
-157
-
-Table 6.3 Summary of Benefits for Stakeholder Group B – International Providers.
-
-177
+Table NumberPageNumberFigure 2.1
+Different Categories of Higher Education Institutions in
+Dubai.21Figure 2.2
+Academic Programmes in Dubai by Level and Field of
+Study.22Figure 2.3 Total Student Enrolment in Dubai 2008-2014.23Figure 2.4
+Number of Higher Education Institutions in Dubai
+and
+Location.24Figure 2.5
+Number of Degrees Available in Dubai at International
+Universities.26Figure 2.6
+Students Enrolled in Dubai by Category of Institution.26Figure 2.7
+Location of Study of Emirati Students.27Figure 3.1
+Models of Internationalization in Higher Education.37Figure 3.2
+Main Forms of Transnational Education.42Figure 3.3
+Rationales for Internationalization.48Figure 3.4
+Regulatory Models of Transnational Education.55Figure 3.5 Conceptual Framework.69Figure 4.1 Pre-determined Codes from Conceptual Framework for
+First
+Level of Coding.86
 
 <!-- page 8 -->
+
+## List of Tables
+
+Table NumberPageNumberTable 3.1 Summary of Literature Review Chapter.33Table 3.2
+Level of Importance for Rationale of Stakeholder Groups.50Table 4.1 Representation within Stakeholder Group A –
+'Government
+Planners' and number of participants.82Table 4.2 Representation within Stakeholder Group B –
+'International
+Education Planners' and distinctive characteristics.84Table 4.3 Number of participants from each institution in Stakeholder
+Group B –
+'International Education Planners'85Table 4.4 Illustration of Findings.87Table 5.1 Summary of Motivations for Stakeholder Group A –
+Government Planners.103Table 5.2 Summary of Challenges for Stakeholder Group A –
+Government Planners.113Table 5.3 Summary of Benefits for Stakeholder Group A –
+Government
+Planners.128Table 6.1 Summary of Motivations for Stakeholder Group B –
+International Providers.138Table 6.2 Summary of Challenges for Stakeholder Group B –
+International Providers.157Table 6.3 Summary of Benefits for Stakeholder Group B –
+International
+Providers.177
+
+<!-- page 9 -->
 
 ## Acknowledgments
 
@@ -480,7 +142,7 @@ I have many individuals to thank within the higher education sector. I am very a
 
 I would not have been able to complete this thesis without the love and support of my family. I started the DBA programme in May 2013, just a few weeks after our wedding. My most special thanks go to Dimple for the many ways in which she has supported me through the programme, especially so in the last year as we eagerly awaited the birth of our first child. I would like to dedicate this thesis to Dimple and our newborn daughter Kiara, who was a great source of encouragement in completing this thesis.
 
-<!-- page 9 -->
+<!-- page 10 -->
 
 ## Abstract
 
@@ -492,13 +154,13 @@ Although there is emerging literature on transnational education, international 
 
 The findings present the differences in motivations, challenges and benefits between the two stakeholder groups and also discuss the similarities and differences with existing literature. Many of these differences presented are due to the maturity of branch
 
-<!-- page 10 -->
+<!-- page 11 -->
 
 campuses and this model in general, which have resulted in a new set of challenges compared to those faced in initial years of development.
 
 These include the need to move from a teaching model to one that also encourages research, the need to create a better student experience and to increase collaboration between campuses and industry. The findings also identify key challenges for the Dubai model going forward, provides recommendations for its future development and suggests areas for further research. This study contributes to the literature on transnational education, more specifically towards the motivations, challenges and benefits of international branch campuses, and on the Dubai transnational higher education model.
 
-<!-- page 11 -->
+<!-- page 12 -->
 
 ## Glossary of Abbreviations
 
@@ -528,7 +190,7 @@ These include the need to move from a teaching model to one that also encourages
 | RAK | Ras Al Khaima |
 | TEQSA | Tertiary Education Quality and Standards Agency |
 
-<!-- page 12 -->
+<!-- page 13 -->
 
 | TNE | Transnational Education |
 | --- | --- |
@@ -537,7 +199,7 @@ These include the need to move from a teaching model to one that also encourages
 | UQAIB | University Quality Assurance International Board |
 | WTO | World Trade Organization |
 
-<!-- page 13 -->
+<!-- page 14 -->
 
 ## 1. Chapter 1: Overview of Study
 
@@ -549,7 +211,7 @@ Liberalization of trade through international initiatives such as the General Ag
 
 Each of these countries have used different approaches of cross border higher education. In Hong Kong, the approach has been to establish joint programmes between local and international institutions with over 1,000 such programmes accounted for in 2010 (Knight, 2011; Mok and Yu, 2011). In Malaysia, a more planned and strategic approach was adopted in 1991 through the 'Wawasan 2020' (Vision 2020), with a vision to improve quality, enhance research and increase internationalization activities (Mok and Yu, 2011). Malaysia hosts several international campuses and has established two major zones for higher education, Educity in Iskandar and the Kuala Lumpur Education City in Kuala Lumpur. Singapore's vision for higher education was to establish itself as the 'Boston of the East' in order to be a leading knowledge hub for innovation and creativity. Through various initiatives including the 'global schoolhouse' and the 'Singapore
 
-<!-- page 14 -->
+<!-- page 15 -->
 
 education' plan, Singapore has attracted foreign investment and talent to promote growth in higher education, especially in the area of research and development (Gribble and McBurnie, 2007). There have been similar developments in the Middle East in countries like Qatar and the United Arab Emirates
 
@@ -559,7 +221,7 @@ The higher education system in Dubai comprises three categories of institutions,
 
 There are two free zones dedicated to higher education and various other free zones that host international campuses. Although free zones have existed for many years, the dedicated use of free zones for the purpose of higher education was first adopted in Dubai. The use of free zones provided various financial and regulatory benefits to incoming providers and helped kick start Dubai's journey towards becoming an education hub. In order to support and grow this model, Dubai has had to create fit-forpurpose regulatory systems, investment opportunities and quality assurance systems that promote transnational higher education. The higher education system has also been driven forward by large numbers of institutions from many countries that have
 
-<!-- page 15 -->
+<!-- page 16 -->
 
 established campuses in Dubai and through contributions of various other stakeholder groups including students, investors and employers.
 
@@ -573,7 +235,7 @@ This study will explore the transnational model of higher education adopted in D
 
 Dubai has undergone rapid growth in several sectors including shipping, logistics, aviation and tourism as part of a planned diversification of the economy, which was previously reliant on oil revenues. In order to do this Dubai planned and built several free zones, which provided the necessary infrastructure and regulatory environment to help attract foreign investment. Growth in these sectors resulted in a large influx of expatriates resulting in a unique demographic whereby less than 10% of the population constitutes local Emiratis or UAE nationals. The remaining 90% of the population are made up of foreign expatriates coming mainly from South East Asia and neighboring Arab countries (UAE Interact, 2011).
 
-<!-- page 16 -->
+<!-- page 17 -->
 
 The growth of the expatriate population, as well as expansion of the economy, resulted in an increased demand for higher education. The federal institutions funded through the federal government mainly served UAE national students, while local institutions were limited in number and offered a narrow range of academic specializations. In order to meet this growing demand for higher education and to serve the market with a skilled workforce, Dubai established a dedicated free zone for higher education and started recruiting foreign institutions to set up campuses and offer international qualifications in Dubai. Given the rapid pace of development, the growth of the economy in various sectors, the massive influx of expatriate workforce, there was an immediate need to create better access to higher education, and this could only be achieved through an import model. The expatriate population was also interested in enrolling and studying for foreign qualifications as the UAE was in the very early stages of development.
 
@@ -581,7 +243,7 @@ Although various countries and cities have adopted approaches of cross border ed
 
 Dubai was an early adopter of the free zone concept, which has now been emulated by other countries, including Malta, Qatar, and Malaysia. Free zones have emerged even within the UAE in other emirates including Ajman, Sharjah and Ras Al Khaima (RAK). The Dubai higher education sector has relied heavily on transnational education through international branch campuses for the growth and development of higher education and has had to develop the necessary strategic and regulatory conditions to sustain such an approach. Dubai currently hosts the largest number of branch campuses in the world in a single location (Lawton and Katsomitros, 2012). All these factors make Dubai an appropriate and interesting setting for this study.
 
-<!-- page 17 -->
+<!-- page 18 -->
 
 ## **1.3Objectives of the study**
 
@@ -591,7 +253,7 @@ This study will explore the enablers, motivations, challenges and benefits assoc
 
 As an active participant in the Dubai higher education sector for the last ten years, I have had the opportunity to participate directly in the planning, development and implementation of this particular approach to higher education in Dubai. I hope an indepth exploration into the enablers, motivations, challenges and benefits of this model will make a contribution to the literature on transnational education in the context of Dubai. The findings may also be useful to other countries or cities looking at adopting a similar approach to developing higher education, as well as to providers who are interested in establishing branch campuses. More importantly I hope that the findings will provide recommendations that will help develop and shape the future higher education strategy for Dubai.
 
-<!-- page 18 -->
+<!-- page 19 -->
 
 ## **1.4Research Inquiry **
 
@@ -605,7 +267,7 @@ The second chapter is titled 'research context.' This chapter provides an introd
 
 The third chapter is the 'literature review' and will explore key concepts, theories and frameworks in the existing literature relevant to this study. This will include exploring the impact of internationalization on higher education. The literature review will also analyze existing theories on rationales or motivations for internationalization in higher education. It will also explore the various models of internationalization, including the definitions, concepts and forms of 'cross border higher education' or 'transnational education' including 'international branch campuses'. Finally, the literature review
 
-<!-- page 19 -->
+<!-- page 20 -->
 
 chapter will also look at existing regulatory models for transnational higher education approaches. Using existing theories and models, the literature review will help me develop a conceptual framework that will help guide this study and help achieve the research objectives.
 
@@ -615,7 +277,7 @@ The fifth and sixth chapters presents the 'research findings'. These two chapter
 
 The seventh and final chapter is the 'discussions and recommendations and conclusions' chapter. This chapter provides a descriptive analysis of the major themes identified through the data collection process and analysis in relation to the research questions of the study. It will include a summary of the key findings and my final recommendations. Finally this chapter will also include my personal reflections on the journey of the DBA programme and writing this thesis.
 
-<!-- page 20 -->
+<!-- page 21 -->
 
 ## 2. Chapter 2: Research Context
 
@@ -629,7 +291,7 @@ After Jabel Ali, the free zone concept was expanded to other sectors to promote 
 
 By building these free zones, Dubai provided the infrastructure and regulatory conditions, which enabled multi-national organizations to easily set up businesses in Dubai. The free
 
-<!-- page 21 -->
+<!-- page 22 -->
 
 zones offered various facilities including ready office spaces on rental schemes, which helped reduce the capital expenses involved in setting up a new business. The free zones also offered various common facilities such as parking spaces, food courts, retail outlets and banking services, which could be shared by all business partners in that zone.
 
@@ -641,31 +303,28 @@ With rapid growth in several industries and sectors, there was a need to support
 
 The UAE has three federal institutions, Zayed University, the Higher Colleges of Technology (HCT) and United Arab Emirates University (UAEU), which have campuses across the country including in Dubai. These institutions were established by federal decree and fall under the purview of the Ministry of Education (previously the Ministry of Higher Education). They offer a diverse range of programmes for Emirati students and are funded annually by the federal government. Emirati students can attend the federal universities without any cost. Dubai has allocated land and built facilities to host a campus of Zayed University in addition to two HCT campuses, one for Dubai Men's College and the other for Dubai Women's College.
 
-<!-- page 22 -->
+<!-- page 23 -->
 
 Apart from the federal institutions, the higher education landscape also consists of two other categories of institutions. The first are local institutions, which are either government funded or privately owned. These local institutions offer programmes that are locally accredited by the MOE and result in a local UAE qualification. The third category is the international institutions or international branch campuses. These are branches of foreign institutions that have set up in Dubai and a few other Emirates and offer students international qualifications. All the international institutions are privately owned and are funded by the parent campus or through a local investor. The international campuses vary in size and programme offering ranging from a few institutions that specialize in a single programme to others that offer a full range of undergraduate, postgraduate and doctoral level programmes.
 
 Dubai has a total of 56 higher education institutions with approximately 60,000 students enrolled in higher education (KHDA, 2014). The 56 institutions are classified into three categories which were described earlier, federal institutions, local institutions and international institutions. As seen in Figure 2.1 below, there are 27 local institutions and 26 international institutions along with the 3 federal institutions that make up the current total of 56 higher education institutions in Dubai. By 2017, the number of institutions increased to 63 (KHDA, 2017).
 
 ![TH.R09 fig03](../figures/TH/TH.R09_fig03.jpg)
+*Figure 2.1: Different Categories of Higher Education Institutions in Dubai. (KHDA, 2014)*
 
-> Figure 2.1: Different Categories of Higher Education Institutions in Dubai. (KHDA, 2014)
-
-<!-- page 23 -->
+<!-- page 24 -->
 
 There are a total of 543 academic programmes registered across the 56 higher education institutions in Dubai. 48% of these programmes are at Bachelor's degree level, 38% at Master's degree level and the remaining made up by foundation courses, diploma level and Doctorate level education. A large majority of the programmes are in the business and management discipline. However, there has been recent growth in other disciplines including media and design, law, engineering and information technology. Figure 2.2 demonstrates the programme mix by level and discipline, which clearly shows the large concentration of business programmes closely followed by programmes in information technology, media and engineering.
 
 ![TH.R09 fig04](../figures/TH/TH.R09_fig04.jpg)
-
-> Figure 2.2: Academic Programmes in Dubai by Level and Field of Study. (KHDA, 2014)
+*Figure 2.2: Academic Programmes in Dubai by Level and Field of Study. (KHDA, 2014)*
 
 There are a total of approximately 60,000 students studying at the 56 higher education institutions in Dubai. The overall enrollment in Dubai has grown steadily since 2008 at an average growth rate of 10% per year (KHDA, 2014) even during the economic slowdown between 2008 and 2010. The average enrollment per institution tends to vary as some institutions offer only one or two specialized programmes. Most institutions, however, have over 300 students while there are 13 institutions that have more than 2,000 students enrolled (KHDA 2014). Figure 2.3 below shows the steady growth in student enrollment numbers in Dubai from 2008 to 2014.
 
-<!-- page 24 -->
+<!-- page 25 -->
 
 ![TH.R09 fig05](../figures/TH/TH.R09_fig05.jpg)
-
-> Figure 2.3: Total Student Enrolment in Dubai 2008-2014. (KHDA, 2014).
+*Figure 2.3: Total Student Enrolment in Dubai 2008-2014. (KHDA, 2014).*
 
 ## **2.3** **International Branch Campuses in Dubai**
 
@@ -675,17 +334,16 @@ In 2003, Dubai took a major step in addressing the growing higher education need
 
 With the establishment of DKV in 2003, Dubai opened up the higher education sector to foreign providers. DKV started to attract international campuses to set up within the free zone. The laws of the free zone exempt these institutions from federal licensure and accreditation requirements and allowed them to offer international qualifications to students in Dubai. Higher Education institutions from various countries started to setup in DKV including from India, United Kingdom, Australia, and USA. In the first year, eight foreign institutions were established in KV, some of which were already present in the country in territories outside the free zone (KHDA, 2014).
 
-<!-- page 25 -->
+<!-- page 26 -->
 
 In 2007, Dubai established a second free zone dedicated to higher education, Dubai International Academic City (DIAC) to meet growing demand for space from higher education institutions. DIAC was built with ready facilities available on rent and also allowed institutions the option of leasing land and building their own facilities. In addition to DKV and DIAC, higher education institutions have also established in six other free zones including in DIC, DMC, DHCC, DIFC, Dubai Silicon Oasis (DSO), and Jumeirah Lake Towers (JLT). There has been a rapid expansion of higher education institutions in Dubai's free zones since 2003. There were 33 higher education institutions by 2014, located within free zones, which is a significant increase from the eight institutions that first established in 2003 (KHDA, 2014). In 2017, KHDA reported a total of 39 institutions in the free zones with just over 30,000 students (KHDA, 2017). Figure 2.4 demonstrates the distribution of higher education institutions in Dubai by location, which shows that there are more institutions located in free zones than outside the free zones.
 
 ![TH.R09 fig06](../figures/TH/TH.R09_fig06.jpg)
-
-> Figure 2.4: Number of Higher Education Institutions in Dubai by Location. (KHDA, 2014).
+*Figure 2.4: Number of Higher Education Institutions in Dubai by Location. (KHDA, 2014).*
 
 Once Dubai started allowing international campuses to operate in the country, other emirates including Abu Dhabi and Ras Al Khaima also opened up the sector to international institutions. Abu Dhabi, the capital of the UAE, invested several millions to
 
-<!-- page 26 -->
+<!-- page 27 -->
 
 bring the New York University and the Sorbonne University to the UAE (Fox and Shamsi, 2014). Ras Al Khaima followed in the footsteps of Dubai and set up a dedicated free zone for higher education called the Ras Al Khaima Education Zone and hosts several international institutions including the University of Bolton from the UK and the Vatel International Business School from France (RAKEZ, 2016). In 2012, the Observatory for Borderless Higher Education reported that the UAE is host to the largest number of international campuses in a single country. Dubai hosts the large majority of these institutions and has the highest number of international branch campuses in a single city based on the OBHE report (Lawton and Katsomitros, 2012).
 
@@ -693,27 +351,24 @@ The international branch campuses have made an important contribution to the gro
 
 The international branch campuses have also contributed towards a more diversified programme mix by offering a wide range of programme specializations. The international branch campuses are helping address the educational needs of a diversifying economy. The international institutions have added programmes in various disciplines including tourism and hospitality, architecture and construction, media and design and engineering (Fox and Shamsi, 2014; KHDA, 2014). Figure 2.5 shows the contribution of the international campuses in the diversification of degrees offered in Dubai.
 
-<!-- page 27 -->
+<!-- page 28 -->
 
 ![TH.R09 fig07](../figures/TH/TH.R09_fig07.jpg)
-
-> Figure 2.5: Number of Degrees Available in Dubai at International Universities. (KHDA, 2014)
+*Figure 2.5: Number of Degrees Available in Dubai at International Universities. (KHDA, 2014)*
 
 There are a total of 24,389 students enrolled at the international branch campuses in Dubai as of 2014, which makes up 41% of the total higher education enrollment in Dubai (KHDA 2014). This also represents a 19% growth from student enrollment in 2013 (KHDA, 2014). Figure 2.6 shows the distribution of students between federal institutions, local institutions and international institutions. This shows there are there are slightly more students enrolled in local institutions compared to the international institutions.
 
 ![TH.R09 fig08](../figures/TH/TH.R09_fig08.jpg)
+*Figure 2.6: Students Enrolled in Dubai by Category of Institution. (KHDA, 2014)*
 
-> Figure 2.6: Students Enrolled in Dubai by Category of Institution. (KHDA, 2014)
-
-<!-- page 28 -->
+<!-- page 29 -->
 
 The nationality mix at the international campuses is quite diverse with large major representation of students from neighboring Gulf countries as well as from other countries including India, Pakistan, Iran, and Nigeria (KHDA, 2014).
 
 Only five percent (1,200 students) of the Emirati higher education populations are enrolled at international institutions (KHDA, 2014). The majority of Emirati students attend local institutions and federal institutions. Figure 2.7 shows the breakdown of Emirati students by gender and by the various categories of institutions. This clearly shows the very few Emirati students who are attending the international institutions.
 
 ![TH.R09 fig09](../figures/TH/TH.R09_fig09.jpg)
-
-> Figure 2.7: Location of Study of Emirati Students. November 2014 (KHDA, 2014)
+*Figure 2.7: Location of Study of Emirati Students. November 2014 (KHDA, 2014)*
 
 ## **2.4Regulation** **and Quality Assurance**
 
@@ -721,7 +376,7 @@ All federal and local institutions in the UAE including in Dubai are licensed by
 
 Once the free zones were established, international institutions offering foreign qualifications were exempt from federal regulation by virtue of establishment in a free
 
-<!-- page 29 -->
+<!-- page 30 -->
 
 zone. Prior to 2003, institutions were not allowed to offer foreign qualifications and the few international institutions that existed in the country were also subject to licensure and accreditation from the federal bodies. The free zone authorities were responsible for recruitment of the international campuses and had oversight over these institutions.
 
@@ -733,7 +388,7 @@ In 2008, the KHDA established a new quality assurance process for higher educati
 
 UQAIB was specifically designed to meet the needs of higher education institutions in the free zones, which are largely the international institutions. Using a validation model,
 
-<!-- page 30 -->
+<!-- page 31 -->
 
 UQAIB ensures the academic standard of institutions in Dubai is comparable to that of the home campus of the institution. UQAIB was created to quality assure the international institutions in the free zones which, were exempt from any federal regulation. The UQAIB approach allows foreign higher education providers to offer international qualifications through the branch campus model (UQAIB 2014).
 
@@ -743,11 +398,11 @@ With the success achieved in attracting institutions and students to DKV and DIA
 
 Through the free zones Dubai has established a transnational higher education system to serve social and economic needs. There has been steady growth in the number of institutions, students and programmes. This raises interesting questions in regards to why this particular approach was selected as opposed to a more traditional higher education system and why institutions decided to set up these campuses in Dubai. A decade has passed since the first free zone was established for higher education and therefore, is a good opportunity to review the key challenges that were faced by these campuses, as well as the achievements of the free zone model.
 
-<!-- page 31 -->
+<!-- page 32 -->
 
 In the next chapter, I will explore the impact of globalization and internationalization in higher education and look at existing theories, models and frameworks on the concept of cross border or transnational higher education.
 
-<!-- page 32 -->
+<!-- page 33 -->
 
 ## 3. Chapter 3: Literature Review
 
@@ -761,7 +416,7 @@ The first section will introduce the topic of transnational education, discuss i
 
 In the second section of this chapter, I will review the key rationales or motivations for internationalization and expansion of transnational education and show why these
 
-<!-- page 33 -->
+<!-- page 34 -->
 
 motivations are different among the two stakeholder groups selected for this study. This will help address the first objective of the study and allow me to identify the key reasons why governments and providers choose to engage in TNE activity. By doing so, I will be able to develop a conceptual framework that I will use to identify the rationales for both stakeholder groups in the Dubai context.
 
@@ -773,40 +428,25 @@ The table below provides a summary of the topics that I will review to address t
 
 | 3.1 | Transnational Higher Education | -Internationalization in higher education |
 | --- | --- | --- |
-|   |   | -Models of internationalization |
-|   |   | -Transnational education |
-|   |   | -Forms of transnational education |
-|   |   | -International branch campuses |
+|  |  | -Models of internationalization |
+|  |  | -Transnational education |
+|  |  | -Forms of transnational education |
+|  |  | -International branch campuses |
 | 3.2 | Rationales for Transnational | -Rationales for internationalization |
 
-<!-- page 34 -->
-
-|   | Higher Education | -Rationales among different stakeholder |
-| --- | --- | --- |
-|   |   | groups |
-|   |   | -Rationales in the Dubai context |
-| 3.3 | Regulatory Approaches in | -Regulatory models of transnational education |
-|   | Transnational Education |   |
-| 3.4 | Quality Assurance of | -Quality assurance approaches in |
-|   | Transnational Higher Education | transnational education |
-| 3.5 | 'Effects' of TNE models | -Challenges associated with transnational |
-|   |   | education |
-|   |   | -Benefits of transnational education |
-|   |   | -Challenges and benefits in the Dubai context |
-
-> Table 3.1 Summary of Literature Review Chapter
+<!-- page 35 -->
 
 ## **3.1 Transnational Higher Education **
 
 Transnational higher education or cross-border higher education is the core concept that is being explored in this study. It is important to review the growth of internationalization activities in higher education and the resulting impact on transnational education.
 
-## 3.1.1 Internationalization in Higher Education
+### 3.1.1 Internationalization in Higher Education
 
 'Internationalization' is a now a common term in higher education, often used by decision makers to refer to particular strategies that have been adopted by institutions 'as an answer or solution to globalization trends' (Peters and Britez, 2010). These strategies are usually driven by social, economic, political and financial objectives (Van Damme, 2001; Wilkins and Huisman, 2001).
 
 Jane Knight (1993, p21), defines internationalization as 'the process of integrating an international/intercultural dimension into the teaching, research and service functions of an institution." Internationalization opens up various opportunities for institutions such
 
-<!-- page 35 -->
+<!-- page 36 -->
 
 as curriculum development, quality enhancement and research through partnership and collaboration (Van Damme, 2001) but has also created new challenges of funding, access, mobility and quality (Smith, 2010).
 
@@ -814,27 +454,25 @@ Internationalization has two major dimensions, the first is domestic or 'at home
 
 The forces of globalization and liberalization have impacted internationalization in higher education (Lane and Kinser, 2011; Stella and Woodhouse, 2008). Global organizations including the World Trade Organization (WTO), the Organization for Economic Cooperation and Development (OECD), the World Bank (WB) and others have encouraged the internationalization of higher education and the adoption of neo-liberal educational reforms to help countries increase competitiveness and push for economic development (Jiang, 2008). The WTO and its General Agreement for Trade and Services (GATS) have played a major role in reducing barriers for the promotion of trade of goods and services. The classification of education under GATS enabled various countries to adopt policies encouraging internationalization activities in higher education (Lane and Kinser 2004). GATS categorizes educational services in four modes:
 
-1. Cross-border supply: provision of educational services through distance education or online education.
+- 1. Cross-border supply: provision of educational services through distance education or online education.
+- 2. Consumption abroad: student travelling from one country to another to pursue education
 
-2. Consumption abroad: student travelling from one country to another to pursue education
+<!-- page 37 -->
 
-<!-- page 36 -->
-
-3. Commercial presence: institution setting up to provide services in another country (example branch campuses)
-
-4. Presence of natural persons: an individual (professional) travelling to another country to provide educational services
+- 3. Commercial presence: institution setting up to provide services in another country (example branch campuses)
+- 4. Presence of natural persons: an individual (professional) travelling to another country to provide educational services
 
 Various other theories also underpin the growth of internationalization in higher education. The concept of the 'knowledge society' proposed by Drucker in the 1970's and the role of 'human capital' are foundations for modern day economic development (Mansur, Kogid and Madais, 2010). The early works of Schultz (1960) and Becker (1964) on human capital, stressed the need for educational development of people and not just capital or technological investment.
 
 According to Becker (1964), education helped develop knowledge and skills of people. The transition from industrial and agricultural economies to knowledge based economies have led to ever growing demand for skilled and educated individuals (Diaconescu, 2009). Drucker (2001), noted that mobility would be the essence of the new knowledge society, and that knowledge would be the key resource. Technology has enabled the mobility of knowledge and is one of the key drivers of internationalization in higher education.
 
-## 3.1.2 Models of Internationalization in Higher Education
+### 3.1.2 Models of Internationalization in Higher Education
 
 There are several models used to describe internationalization in higher education. Some models depict both the 'home' and 'abroad' dimensions of internationalization while others focus on only one dimension.
 
 In a review of the literature of various contributors, Qiang (2003) describes internationalization through four main approaches: the 'activity' approach refers to activities around student/faculty exchanges, curriculum sharing and development, and international students. These activities represented the term 'international education' in the 1970s and 1980s; the 'competency' approach refers to development of knowledge and skills among students, staff and faculty; the 'ethos' approach, is concerned with creating
 
-<!-- page 37 -->
+<!-- page 38 -->
 
 a culture or environment that supports international perspectives; and the 'process' approach, refers to the infusion of international/intercultural values into educational activities.
 
@@ -842,19 +480,15 @@ Stella (2006) describes internationalization activities in three forms based on 
 
 De Meyer et al. (2004), depicts internationalization from an institutional perspective through four models. The first model is referred to the 'import model'. This refers to import of knowledge, students, faculty, etc., into the central campus and is the most traditional form of internationalization. The second model is the 'partnership model', where one institution partners with another institution. This represents joint-programmes, exchange of faculty or students, or research collaboration. The third model is one where the main institution adopts a strategy to go abroad and is referred to as the 'export model'. The final model involves collaboration between multiple institutions, and is referred to as the 'network model'. The models are depicted in Figure 3.1 below:
 
-<!-- page 38 -->
-
-![TH.R09 fig10](../figures/TH/TH.R09_fig10.jpg)
-
-> Figure 3.1. Models of Internationalization in Higher Education. Source: De Meyer et al. (2004, p. 108).
+<!-- page 39 -->
 
 Each of these definitions explore different attributes of internationalization with a focus on who or what moves across borders and how they move across borders for the purpose of knowledge sharing and development.
 
 Internationalization activities have gained momentum and developed rapidly over the years and research has identified three main phases to track these developments (Knight 2011; Karram, 2012). People mobility is widely considered as the first phase/generation of internationalization in higher education. Students have been moving for the purpose of education for more than a century (Knight, 2011). The second generation of internationalization is concerned with provider mobility across borders (Altbach, 2012) and this includes branch campuses, joint programmes and franchise agreements. Knight (2011), identified higher education hubs as the third generation of internationalization, where governments are actively involved in attracting foreign institutions and students by offering various incentives.
 
-<!-- page 39 -->
+<!-- page 40 -->
 
-## 3.1.3 Transnational Education
+### 3.1.3 Transnational Education
 
 Transnational education (TNE) is one of the areas of higher education that has witnessed very significant growth over the last two decades. TNE is considered as one of the forms of internationalization of higher education institutions (Stella and Woodhouse, 2008).
 
@@ -864,7 +498,7 @@ The most commonly used definition is coined by UNESCO and OECD in the developmen
 
 The various definitions demonstrate the evolution of internationalization in higher education from students crossing borders to a more complex movement of institutions, programmes and people moving across borders (Stella and Woodhouse 2008). As seen in the UNESCO/OECD definition, the term TNE is often used interchangeably with the term 'cross-border higher education' (OECD, 2007; Knight 2007). Cross-Border Higher Education (CBHE) is defined by the OECD as "the movement of people, programmes,
 
-<!-- page 40 -->
+<!-- page 41 -->
 
 providers, curricula, projects, research and services in tertiary (or higher) education across national jurisdictional borders" (OECD, 2007, p24). TNE is also often used interchangeably with other terms including 'offshore education' and 'borderless education' (Stella and Woodhouse, 2008).
 
@@ -874,7 +508,7 @@ One of the main features of TNE is students are able to obtain a foreign qualifi
 
 According to Stella (2005), there are four sets of views on TNE as a form of internationalization. These range from those of skeptical academics to those of the trade promoters, interested in the commercialization of higher education. The first view is of those that support public policies promoting internationalization in higher education, such as international government authorities that consider TNE as a tool for increasing competitiveness and building capacity. Secondly, there are academics, which believe that education is not a tradable commodity and that TNE will always have a revenuegeneration motive. Thirdly, we have the views of trade enthusiasts who believe that commercialization of higher education is unavoidable and that it is up to countries to benefit from these new opportunities. Finally, we have the views of those that do not
 
-<!-- page 41 -->
+<!-- page 42 -->
 
 believe the impact of TNE is significant due to the low volume of programme or institutional mobility.
 
@@ -884,11 +518,11 @@ From a host country perspective, TNE represents a significant proportion of the 
 
 The growth of TNE in both sending and receiving countries make it an important phenomena in international higher education. A significant amount of research tends to focus on TNE from the perspective of the sending countries, but more research has emerged in the last decade focusing on the receiving countries of TNE, especially in
 
-<!-- page 42 -->
+<!-- page 43 -->
 
 Asian countries such as Singapore, Malaysia, Hong Kong and China and some of the Gulf countries including the United Arab Emirates and Qatar.
 
-## 3.1.4 Forms of transnational education
+### 3.1.4 Forms of transnational education
 
 There are several forms in which transnational education is offered. Knight (2003b) divides TNE activities into four different models depending on movement of people or resources across borders. The first model is based on the movement of 'people' including students, faculty, and other professionals for the purpose of teaching, consultancy or research activities. The second model is based on the 'provider' whereby an institution establishes either a physical or virtual presence in another country. The third model is related to 'programmes' where programmes are offered across borders through a partnership arrangement between local and foreign providers. Finally, the fourth model refers to 'services' and involves various collaborative projects and services in higher education such as research, professional training, and curriculum development.
 
@@ -898,7 +532,7 @@ The UNESCO/OCED guidelines include two forms of transnational arrangements. Coll
 
 Knight and McNamara (2016) also distinguish different types of TNE activities through two approaches. The first is 'independent TNE provision' which, refers to a provider
 
-<!-- page 43 -->
+<!-- page 44 -->
 
 having primary responsibility for 'the design, delivery and external quality assurance' that they offer in another country. The second is 'collaborate TNE provision', where there is collaboration between a foreign provider and a local provider for 'the design delivery and/or quality assurance' of programmes offered.
 
@@ -906,15 +540,14 @@ A significant proportion of TNE activity is carried out through 'collaborative a
 
 The most common form of 'non-collaborative' TNE activity is a branch campus. This involves a physical presence by a foreign institution in the host country where they either fully or partially own the campus in the host country. In a branch campus, there is greater involvement of the overseas institution to support the face-to-face delivery of programmes (McBurnie and Ziguras, 2011). A list of the common forms of transnational education can be seen in Figure 3.2 below:
 
-![TH.R09 fig11](../figures/TH/TH.R09_fig11.jpg)
+![TH.R09 fig10](../figures/TH/TH.R09_fig10.jpg)
+*Figure 3.2: Main Forms of Transnational Education. Source: British Council (2014) It is important to note countries may or may not allow certain forms of TNE activity. In Australia, distance education is not included under approved TNE activities. While, in the*
 
-> Figure 3.2: Main Forms of Transnational Education. Source: British Council (2014) It is important to note countries may or may not allow certain forms of TNE activity. In Australia, distance education is not included under approved TNE activities. While, in the
-
-<!-- page 44 -->
+<!-- page 45 -->
 
 United Arab Emirates, online education providers are not fully recognized. Germany does not include joint degrees under TNE classification (British Council, 2014). In the Dubai context, the majority of TNE activity occurs through non-collaborative form, especially through international branch campuses.
 
-## 3.1.5 International Branch Campuses:
+### 3.1.5 International Branch Campuses:
 
 International Branch Campuses (IBC's) are one of the forms of transnational higher education described earlier. It involves an institution setting up a physical presence and offering their programmes in a foreign jurisdiction. Students, from local or regional countries, are usually taught through a face-to-face mode in either rented or owned facilities, in programmes that are similar to those offered in the home campus, resulting in a qualification from the foreign university (Wilkins, 2010).
 
@@ -922,7 +555,7 @@ The literature presents various definitions of an international branch campus. J
 
 The Observatory for Borderless Higher Education (OBHE) defines an international branch campus as "a higher education institution located in another country from the institution which either originated it or operates it, with some physical presence in the host country, and which awards at least one degree in the host country accredited in the country of the originating institution" (Lawton and Katsomitros, 2012, p3). This definition has been updated in 2016 to "an entity that is owned, at least in part, by a foreign higher education provider; operated in the name of the foreign education
 
-<!-- page 45 -->
+<!-- page 46 -->
 
 provider; and provides and entire academic programme, substantially on site, leading to a degree awarded by the foreign higher education provider" (Garret et.al, 2016, p6).
 
@@ -932,7 +565,7 @@ Branch campuses are often considered to be a recent phenomenon, but literature s
 
 Since the early 2000s there has been a steady growth in the number of branch campuses especially in developing countries in South-East Asia and the Middle East. The number of reported IBCs doubled from 82 in 2006 to 162 to 2009 (McBurnie and Ziguras, 2011). In 2015, the total number of IBC's were reported at 249, a growth of 26% since 2010 where 198 IBC's were accounted for (Garrett et al., 2016). Nearly 180,000 students are currently estimated to be enrolled at IBCs internationally (Garrett et al., 2016).
 
-<!-- page 46 -->
+<!-- page 47 -->
 
 International branch campuses originate from 33 different countries. The top five sending countries are the United States, the United Kingdom, Russia, France and Australia. According to Naidoo (2009), the USA, Australia and the UK are considered heavy exporters or education. Many new countries have engaged in sending campuses abroad since 2012 including Belgium, Estonia, Japan, South Korea, Turkey and Taiwan (Garrett et al., 2016). When it comes to host countries, IBCs are currently present in 76 countries, with China hosting the largest number of campuses (32), followed by United Arab Emirates (31), Singapore (12), Malaysia (12) and Qatar (11). Since 2011, various new countries have become host countries including Ghana, India, Finland, Saudi Arabia and Egypt (Garrett et al., 2016). Dubai announced 3 new branch campuses in 2017, taking their total to 34, and making them the largest host city of international branch campuses (KHDA, 2017).
 
@@ -942,15 +575,12 @@ The OBHE distinguishes IBCs using different characteristics (Garrett et al., 201
 
 1. Number of degree programmes – IBCs are classified based on the number of programmes they offer as either small (1-5 programmes), medium (6-9 programmes) or large (20+ programmes).
 
-<!-- page 47 -->
+<!-- page 48 -->
 
-2. Highest degree awarded IBCs can be classified depending on the level of degrees awarded (Bachelors, Masters or Doctoral).
-
-3. Age of the IBC IBCs can be classified depending on the age of the branch institution. These are divided into four groups, IBCs that are less than 2 years old, 2-5 years old, 6-10 years old and 10+ years old.
-
-4. Research activity Classification based on the level of research conducted at the branch campus, ranging from no research, to limited research, moderate research or substantial research activity.
-
-5. Enrollment size IBCs can be distinguished based on the total student enrollment at the branch. These are divided into four groups based on the total enrollment of an IBC; enrollment of under 250, enrollment in the range of 250-999, enrollment in the range of 1,000-4,999 and enrollment over 5,000.
+- 2. Highest degree awarded IBCs can be classified depending on the level of degrees awarded (Bachelors, Masters or Doctoral).
+- 3. Age of the IBC IBCs can be classified depending on the age of the branch institution. These are divided into four groups, IBCs that are less than 2 years old, 2-5 years old, 6-10 years old and 10+ years old.
+- 4. Research activity Classification based on the level of research conducted at the branch campus, ranging from no research, to limited research, moderate research or substantial research activity.
+- 5. Enrollment size IBCs can be distinguished based on the total student enrollment at the branch. These are divided into four groups based on the total enrollment of an IBC; enrollment of under 250, enrollment in the range of 250-999, enrollment in the range of 1,000-4,999 and enrollment over 5,000.
 
 Based on these characteristics, a breakdown of data of the 249 IBCs internationally shows that there are 136 small IBCs, 94 medium IBCs and 19 large IBCs. Smaller IBCs tend to have lower enrollment, with nearly 80% of smaller institutions having an enrollment of less than 1,000 students. On the other hand, 60% of large IBC's have enrollment of over 1000 students, with 23% of large IBCs having over 5,000 students enrolled (Garrett et al., 2016).
 
@@ -958,81 +588,45 @@ An analysis of the age of IBCs show even distribution across all three size cate
 
 There are different ownership or investment models among international branch campuses. There are some IBCs fully funded by their parent institution, while others involve a local investor or partner that takes financial responsibility for the branch campus. The ownership models usually depend on the regulations within the host
 
-<!-- page 48 -->
+<!-- page 49 -->
 
 country. For example, when campuses first established in Malaysia, they were required to have 51% ownership by a local Malaysian, while in Dubai, campuses set up in free trade zones were allowed to have complete ownership (Lane, 2011). Regardless of the investment model involved, in most countries, branch campuses are considered to be part of the private sector (Lane, 2011). Lane and Kinser (2011) have identified four main models of ownership in international branch campuses:
 
-1. Wholly Owned In such cases the 'legal entity that controls the IBC is exclusively controlled by the foreign education provider'. This can be done either through their own capital or by setting up subsidiary organizations based on the regulations in the host country. The key benefits of such a model is the home institution has full control over the branch campus including all buildings and facilities. However it is also the most expensive model and has the highest level of risk involved.
-
-2. Joint Venture This occurs when 'two or more entities create a new legal entity to operate the IBC'. In such arrangements, both parties will remain legally separate but will share ownership and legal responsibilities of the new entity. The foreign provider will normally be responsible for the academic operations and the local partner will usually provide infrastructure and administrative support. There is a lower level of financial risk involved for the parent institution, however, such ventures can become difficult especially if differences arise between the two parties.
-
-3. Strategic Alliance This is a model that falls between the wholly owned and the joint venture. It occurs 'when two or more entities enter in a partnership to accomplish a goal, but do not establish a new entity and remain legally separate'.
-
-4. Government Partners In several countries, the host government either provides facilities or subsidizes costs of facilities for the incoming campus. The foreign university usually has full control over the academic aspects of the campus.
+- 1. Wholly Owned In such cases the 'legal entity that controls the IBC is exclusively controlled by the foreign education provider'. This can be done either through their own capital or by setting up subsidiary organizations based on the regulations in the host country. The key benefits of such a model is the home institution has full control over the branch campus including all buildings and facilities. However it is also the most expensive model and has the highest level of risk involved.
+- 2. Joint Venture This occurs when 'two or more entities create a new legal entity to operate the IBC'. In such arrangements, both parties will remain legally separate but will share ownership and legal responsibilities of the new entity. The foreign provider will normally be responsible for the academic operations and the local partner will usually provide infrastructure and administrative support. There is a lower level of financial risk involved for the parent institution, however, such ventures can become difficult especially if differences arise between the two parties.
+- 3. Strategic Alliance This is a model that falls between the wholly owned and the joint venture. It occurs 'when two or more entities enter in a partnership to accomplish a goal, but do not establish a new entity and remain legally separate'.
+- 4. Government Partners In several countries, the host government either provides facilities or subsidizes costs of facilities for the incoming campus. The foreign university usually has full control over the academic aspects of the campus.
 
 ## **3.2 Rationales for Internationalization **
 
 There are different rationales for internationalization or use of transnational approaches to higher education. There are various theoretical models that describe these rationales
 
-<!-- page 49 -->
+<!-- page 50 -->
 
 and also highlight the importance of the differences in rationales between various stakeholder groups.
 
-## 3.2.1 Models describing rationale for internationalization in higher education
+### 3.2.1 Models describing rationale for internationalization in higher education
 
 Aigner et al (1992) listed three main factors for internationalization: safeguarding international security, ensuring economic competitiveness and developing intercultural understanding. Scott (1992), identified seven key factors for internationalization in higher education. These included economic competitiveness, influence of trade, national security, increasing diversity in society and promotion of peace between countries. Davies (1992) emphasized that internationalization is 'closely linked to financial reduction, the rise of academic entrepreneurialism and genuine philosophical commitment to cross-cultural perspectives in the advancement and dissemination of knowledge' (p.177).
 
 In 1997, Knight introduced four groups of rationales for internationalization in higher education. The 'political' rationale refers to the potential impact of internationalization on foreign policy and in promoting safety and security among countries. The 'economic' rationale has two main aspects, one to improve the economic competitiveness of a country and the second is the generation of revenue. The 'academic rationale' is to improve the quality of education and achieve international standards. And finally, the 'cultural' rationale is concerned with increasing diversity and preservation of culture. Knight's (1997) rationales for internationalization are summarized in the figure below.
 
-![TH.R09 fig12](../figures/TH/TH.R09_fig12.jpg)
+![TH.R09 fig11](../figures/TH/TH.R09_fig11.jpg)
+*Figure 3.3: Rationales for Internationalization. Adapted from Knight (1997).*
 
-> Figure 3.3: Rationales for Internationalization. Adapted from Knight (1997).
-
-<!-- page 50 -->
+<!-- page 51 -->
 
 The importance of the economic rationale for internationalization in higher education is increasingly evident. The economic contribution of higher education has made it an important instrument for improving national competitiveness and a valuable sector (Chan, 2011). From an academic perspective, TNE activities can improve a country's higher education offering, allow collaboration in research and improve cultural and social understanding (Stella and Woodhouse, 2008). Development of the domestic higher education sector is a long-term process and through internationalization governments have been able to expand access and increase capacity more rapidly (Lane and Kinser, 2011). Internationalization activities have also enabled more choices for students, healthier competition among providers, and motivation for domestic institutions to innovate (Stella and Woodhouse, 2008).
 
-## 3.2.2 Rationales among Different Stakeholder Groups
+### 3.2.2 Rationales among Different Stakeholder Groups
 
 It is important to note that rationales for internationalization whether economic, political, academic or cultural, also differ between different stakeholders groups.
 
 Qiang (2003), identifies three major stakeholder groups that play a role in internationalization of higher education: the 'Government Sector' referring to all government entities directly involved in education such as education departments and agencies, as well as other government units interested in the development of education such as foreign affairs, trade, and science and development.; the 'Education Sector' referring to all providers, students, teachers, researchers, administrators and professional associations; and the 'Private Sector' referring to private higher education providers as well as other trade and service organizations. According to Qiang (2003), each stakeholder places different levels of importance on each rationale group (as defined by Knight 1997) and proposed that each stakeholder group ranks the rationales for higher education differently. Qiang's framework which includes an adaptation of Knight's rationales (1997) is presented in the chart below:
 
-<!-- page 51 -->
-
-| Group Group |   |
-| --- | --- |
-|   |   |
-| Political: |   |
-| - Promote national security and peace |   |
-| among nations |   |
-| Preserve and promote national culture - |   |
-| and identity |   |
-| Economic: |   |
-| Enhance economic, scientific and - |   |
-| technological competitiveness |   |
-| Promote marketing/income generation - |   |
-| from educational products and services |   |
-| Academic: |   |
-| Achieve international standards in - |   |
-| teaching and research |   |
-| Ensure that research addresses - |   |
-| international and national issues |   |
-| Address global interdependence - |   |
-| through scholarship and research |   |
-| Prepare graduates to be national and - |   |
-| international citizens |   |
-| Cultural and Social: |   |
-| - Recognize and support cultural and |   |
-| ethnic diversity |   |
-| - Contribute to individual social and |   |
-| professional development |   |
-| Enhance intercultural relations and - |   |
-| understanding |   |
-
-> Table 3.2: Level of Importance for Rationale of Stakeholder Groups. Source: Qiang (2003)
-
 <!-- page 52 -->
+
+<!-- page 53 -->
 
 A review of the literature shows governments in host countries use TNE and other internationalization activities to develop their own higher education sector for various purposes: to increase access in order to meet demand that is not met through local provision and to reduce the outflow of students; to diversify the range of programmes, to build capacity and meet strategic objectives; and to increase competitiveness of local institutions (Chan, 2011; British Council, 2014; Lane and Kinser, 2011). Lane (2011) proposes that transnational education and especially IBCs offer something unique, they allow governments to provide access to segments of the population that may not have had sufficient access to higher education before and also encourage the delivery of different programmes and or pedagogy.
 
@@ -1042,11 +636,11 @@ The main importers of higher education are mainly developing middle-income count
 
 The rationales for an institution can be divided into four various categories. The first is internationalization of the home campus. Having a transnational collaboration in another
 
-<!-- page 53 -->
+<!-- page 54 -->
 
 country forces the home country to internationalize its academic offering and administrative systems by creating opportunities for faculty and research development. The second is economic, transnational activities can generate additional revenue either through student enrollment or through subsidies and private investment. The third is enhancement of status or reputation. Having overseas collaborations or branch institutions may enhance the reputation of the home institution. Ranking systems often consider the global nature of institutions (Lane and Kinser, 2013; Garrett et al., 2016).
 
-## 3.2.3 Rationales and benefits from a United Arab Emirates perspective:
+### 3.2.3 Rationales and benefits from a United Arab Emirates perspective:
 
 Literature on the UAE higher education system or the Dubai transnational higher education model is limited. A couple of studies that were carried out provide details on some of the motivations for adopting a TNE model in the UAE and Dubai.
 
@@ -1054,7 +648,7 @@ According to the literature, the direct economic impact of higher education thro
 
 From an academic perspective, the UAE is also interested in the development, modernization and diversification of the national higher education system, which is another rationale for rapid TNE development (British Council, 2014). IBCs in Dubai, are able to offer a broader range of programmes compared to what is available through the
 
-<!-- page 54 -->
+<!-- page 55 -->
 
 federal or private higher education system. Also having IBCs from different systems, helps cater to different communities of expatriates, whether they are looking for a familiar system or a different type of education (Lane, 2014). The presence of highly ranked and respected institutions also helps individual emirates build a reputation as an education hub (British Council, 2014).
 
@@ -1066,42 +660,35 @@ In order to address various challenges related to TNE, it is important that the 
 
 Various countries have developed regulatory frameworks to help ensure the quality of incoming TNE institutions and programmes. Countries including Hong Kong, Singapore and Malaysia implemented entry requirements and regulations for transnational provision. These include licensing or registration requirements; periodic reporting requirements; a process for assessment of the provider's conduct and a system of receiving and addressing public complaints (McBurnie and Ziguras, 2011). Some countries have developed specific regulations and entry requirements around language, rankings, course structure and duration, specialized local courses, ownership, etc., around TNE provision (McBurnie and Ziguras 2001; Verbik and Jokivirta 2005a).
 
-<!-- page 55 -->
+<!-- page 56 -->
 
-## 3.3.1 Regulatory Models
+### 3.3.1 Regulatory Models
 
 Based on a study of the regulatory systems in over 50 countries, Verbik and Jokivirta (2005), identified six different approaches to the regulation of TNE. These range from host countries having no regulations for TNE to systems that liberal policies on TNE provision or are completely restrictive towards any foreign higher education. Evidence suggests a push-and-pull relationship between TNE regulations and TNE activities. It is often seen that after TNE activity reaches a significant mass, it tends to attract greater attention and regulatory action from governments (British Council, 2014). A summary of the six approaches to regulation of transnational education is provided in the table below:
 
 | No Regulations | No regulation of foreign provision can operate without |
 | --- | --- |
-|   | permission of host country. Examples: France, Malta, Mexico |
+|  | permission of host country. Examples: France, Malta, Mexico |
 | Liberal | Foreign provision is permitted if minimum requirements are |
-|   | met. Examples: Bahrain, New Zealand, Switzerland |
+|  | met. Examples: Bahrain, New Zealand, Switzerland |
 | Moderately | Host country involved in licensing and/or accreditation of |
 | Liberal | foreign providers. Foreign institutions must gain formal |
-|   | permission from the host country before it commences |
-|   | operations. Examples: Australia, China, Singapore |
+|  | permission from the host country before it commences |
+|  | operations. Examples: Australia, China, Singapore |
 | Transitional – | Countries moving towards increased regulation including |
-| from liberal to compulsory registration and/or accreditation for foreign |   |
-| more restrictive institutions. Example – India |   |
+| from liberal to compulsory registration and/or accreditation for foreign |  |
+| more restrictive institutions. Example – India |  |
 | Transitional – | Countries aimed at reducing regulatory restrictions through |
 | from restrictive | measures to encourage foreign provision. Example – South |
 | to more liberal | Korea, Japan |
 | Very | There are strict requirements for any foreign provision. Only |
 | Restrictive | institutions and programmes accredited in the host country are |
-|   | permitted. Franchises are not allowed. Examples – South |
-|   | Africa, Abu Dhabi (in the UAE) |
+|  | permitted. Franchises are not allowed. Examples – South |
+|  | Africa, Abu Dhabi (in the UAE) |
 | Virtually | Countries do not recognize qualifications obtained through |
 | Impossible | transnational provision. Examples – Greece |
 
-<!-- page 56 -->
-
-| Emerging | Model in which foreign providers are encouraged to adopt a |
-| --- | --- |
-| Capacity | development-based model through long term commitment, |
-| Building Model | supporting local systems. No example cited. |
-
-> Figure 3.4. Regulatory Models of Transnational Education. Adapted from Verbik and Jokirita (2005).
+<!-- page 57 -->
 
 In 2014, the British Council developed the 'TNE Opportunities Matrix', a framework to identify countries having the most favorable regulatory systems and processes towards transnational education. The study involved 25 countries and included a review of national policies and regulations, as well as factors impacting demand for TNE in these countries. Using ten different indicators, the study placed the 25 countries in one of five 'opportunity groups'. Only six countries were identified to have either 'above average' or 'well above average' systems favorable to TNE (British Council, 2014).
 
@@ -1109,31 +696,26 @@ The UAE and Malaysia which were categorized under the 'well above average' group
 
 Four indicators were used to rate the policy environment of a host country (British Council 2014):
 
-1. TNE strategy evidence of a strategy, incentives for providers, dedicated education body responsible for TNE activity.
+- 1. TNE strategy evidence of a strategy, incentives for providers, dedicated education body responsible for TNE activity.
+- 2. Establishment of TNE operations regulations for foreign providers/programmes, clarity of regulations and visas/support for student/faculty mobility
 
-2. Establishment of TNE operations regulations for foreign providers/programmes, clarity of regulations and visas/support for student/faculty mobility
+<!-- page 58 -->
 
-<!-- page 57 -->
-
-3. Quality assurance and accreditation quality assurance policies for TNE, international collaboration in quality assurance
-
-4. Recognition of TNE TNE code of practice, recognition of qualifications.
+- 3. Quality assurance and accreditation quality assurance policies for TNE, international collaboration in quality assurance
+- 4. Recognition of TNE TNE code of practice, recognition of qualifications.
 
 McBurnie and Ziguras (2011) have identified a four-phase developmental model of transnational higher education systems by studying the development of regulatory frameworks in Singapore, Hong Kong and Malaysia. According to them each of these countries followed a similar pattern of development of TNE in their education systems:
 
-1. A shortage of relevant and high quality study opportunities in the local system resulted in outflow of students.
-
-2. The capacity of the local system is developed through a combination of public and private investment and through the development of regulatory, licensing and quality assurance processes permitting TNE activities.
-
-3. With growth of local capacity, the focus shifts from creating access and opportunity to building the quality and reputation of the local system. More stringent regulations help squeeze out poor quality institutions and partnership arrangements.
-
-4. Government strategy shifts towards development of a hub in order to attract students from neighboring countries. Governments may also be interested in exporting education.
+- 1. A shortage of relevant and high quality study opportunities in the local system resulted in outflow of students.
+- 2. The capacity of the local system is developed through a combination of public and private investment and through the development of regulatory, licensing and quality assurance processes permitting TNE activities.
+- 3. With growth of local capacity, the focus shifts from creating access and opportunity to building the quality and reputation of the local system. More stringent regulations help squeeze out poor quality institutions and partnership arrangements.
+- 4. Government strategy shifts towards development of a hub in order to attract students from neighboring countries. Governments may also be interested in exporting education.
 
 ## **3.4 Quality Assurance of Transnational Education **
 
 One of the biggest debates around transnational education is on the issue of quality. The quality assurance of TNE is a significant challenge for both host countries and sending countries and poses a major risk to students in the host country, as well as to the reputation of the provider and the sending countries higher education system (Knight and McNamara, 2016). The tension between academic and commercial expectations lead to the risk of lower academic standards and poor quality (McBurnie, 2008). According to Smith (2010), poor academic standards and quality could have a negative impact both financially and in terms of reputation for exporting countries. The question of
 
-<!-- page 58 -->
+<!-- page 59 -->
 
 equivalence between home and branch campuses is also a critical aspect in understanding transnational quality assurance (Smith, 2010).
 
@@ -1143,7 +725,7 @@ Sending countries which tend to have more established and robust systems of qual
 
 The growth of TNE has resulted in the need for increased collaboration between quality assurance agencies. One of the main methods of collaboration is through international quality assurance networks. In addition to one global network, the International Network
 
-<!-- page 59 -->
+<!-- page 60 -->
 
 for Quality Assurance Agencies in Higher Education (INQAAHE), other regional networks are also active in promoting co-operation and collaboration between agencies. There are over ten regional networks representing different regions including Asia, Europe, Africa, Europe, and the Arab world among others (British Council, 2014).
 
@@ -1153,13 +735,12 @@ The accountability and responsibility for the quality of IBCs can be quite compl
 
 1. Regulated as a local institution – Many governments require that an IBC meet all the requirements that would be expected of a local institution. This may include
 
-<!-- page 60 -->
+<!-- page 61 -->
 
 requirements around curriculum, governance and admission criteria. The United States and the federal system in the United Arab Emirates are examples under this category.
 
-2. Regulated as a quasi-local institution In such cases, the local government makes adjustments to local regulations in order to account for the nature of IBCs. In Malaysia, institutions go through the local requirements but also need to be approved by the home country.
-
-3. Regulated as a foreign institution This involves host countries creating new regulatory systems for IBC's with the key motive being to ensure comparability between the branch and the home programme. Dubai is a good example having established a purpose built quality assurance system for IBCs.
+- 2. Regulated as a quasi-local institution In such cases, the local government makes adjustments to local regulations in order to account for the nature of IBCs. In Malaysia, institutions go through the local requirements but also need to be approved by the home country.
+- 3. Regulated as a foreign institution This involves host countries creating new regulatory systems for IBC's with the key motive being to ensure comparability between the branch and the home programme. Dubai is a good example having established a purpose built quality assurance system for IBCs.
 
 In addition to meeting host country requirements, in some instances, IBC's are expected to meet home country requirements as well. In the UK, all domestic reviews by the QAA also include the providers TNE activities. Some of the US regional accreditors, also include accreditation visits to branch campuses (Garrett et al., 2016).
 
@@ -1169,11 +750,11 @@ Despite increasing efforts to ensure the quality of transnational activities thr
 
 Transnational education systems have various challenges, but also have several benefits, again, varying from one stakeholder to another.
 
-## 3.5.1 Challenges associated with transnational education
+### 3.5.1 Challenges associated with transnational education
 
 There are several changes with transnational approach to higher education. There are issues around recognition of qualifications; availability of subsides for foreign
 
-<!-- page 61 -->
+<!-- page 62 -->
 
 institutions, restrictions on curriculum and faculty, contribution towards national objectives and various others (Robertson et al, 2002).
 
@@ -1183,7 +764,7 @@ Another challenge associated with the growth of profit or market driven provider
 
 The most significant issue though is around regulation and quality of TNE provision. A British Council study of national regulations towards TNE in 25 countries, found that almost half the countries reviewed did not have a ministerial department with responsibility for TNE (British Council, 2014). There is a concern that TNE may be of 'poor quality, using poorly-structured, outdated curriculum material without pedagogical support' (McBurnie and Ziguras, 2011). Several surveys conducted by the Asia Pacific Quality Network (APQN) show that only a handful of countries had mechanisms in place for quality assurance of imported higher education.
 
-<!-- page 62 -->
+<!-- page 63 -->
 
 These surveys indicated that 'national frameworks for quality assurance of higher education are not very well developed' (Stella and Woodhouse, 2008). However, another study that focusses on countries actively involved in TNE, indicate many of these countries do have some form of TNE quality assurance requirements. These requirements may include the need for registration or licensure in the host country; need for accreditation from the home country; or in some instances additional accreditation requirements in the host country (British Council, 2014).
 
@@ -1193,7 +774,7 @@ One of the biggest challenges is in managing resources and allocating staff and 
 
 Another important challenge that has an impact on all stakeholders including students, providers and host country agencies is the recognition of qualifications (British Council, 2014). Although TNE is rapidly growing, it is still a small part within a larger higher
 
-<!-- page 63 -->
+<!-- page 64 -->
 
 education sector. The concept of 'achieving a foreign qualification without leaving the home country' is one that is unfamiliar with employers.
 
@@ -1203,17 +784,17 @@ Social and cultural challenges are also discussed from the perspective of provid
 
 Lane (2011) discusses the importance of a branch campus leader's role in understanding the differences in the local conditions and adapting policies and processes to best meet local conditions. It is also important that staff is given training and made aware of potential limitations and challenges they may face in the local context (Hill and Thabet, 2017). Hughes (2011) noted tensions between expatriate managers from the home and local staff, which can be attributed to different management styles by foreign managers and the national culture (Eldrigde and Cranston, 2009). Operating in a new environment requires understanding of local practices. Lane (2011) also provides various examples,
 
-<!-- page 64 -->
+<!-- page 65 -->
 
 such as the differences in approaches between students in the Middle East, who tend to make very late decisions, compared to students in America who begin planning for college a few years in advance. It is also important for an institution to establish its branding and awareness in the local market rather than rely on its home reputation.
 
 Cultural impact and differences also need to be considered. Research on the teaching aspect shows faculty members at branch campuses can face various issues when teaching students of a different cultural background (Bodycott and Walker, 2000). The challenge also applies to local faculties who are hired, but may not be familiar with regulations and procedures of the home university (Healey, 2015). There is also an impact on the overall student experience, as there are certain religious and cultural expectations that need to be adhered to, such as on the requirement for separate dorm rooms for men and women or the change in work timings and conditions during the holy month of Ramadan, practiced in the Arab world (Lane, 2011). Dealing with such issues and understanding local conditions takes time and cannot be managed by the home institution, but instead requires changes in polices at the branch.
 
-## 3.5.2 Benefits of transnational education
+### 3.5.2 Benefits of transnational education
 
 The perceived benefits of transnational education for a host country can be divided into five main categories. Potential 'academic' benefits include better access for students, diversification of programmes, professional development of local faculty and exposure to new quality assurance policies and processes. 'Economic' benefits may include revenue through TNE enrollment, increased trade activity through education services and decreased outflow of students and currency (British Council, 2014). In addition to meeting demand of higher education, TNE can also create new demand and help a country attract foreign students (Lane, 2011). According to Wilkins (2017), TNE can help a host country fulfill its labor market needs, address shortages in the sector and help in the transition towards knowledge based economies.
 
-<!-- page 65 -->
+<!-- page 66 -->
 
 TNE also has some potential 'human resource development' benefits including building a skilled workforce, reducing brain drain and benefiting from brain gain. 'Social/Cultural' benefits include exposure to different cultures through contact with students and faculty from other countries. Finally, there is also a reputational or 'status' benefit for a host country that has high ranked foreign providers (British Council, 2014). Importing high quality and reputable IBCs for example can increase the overall reputation of national higher education system in the country (Lane, 2011).
 
@@ -1227,7 +808,7 @@ In an increasingly globalized world, higher education is considered as a catalys
 
 Internationalization is seen to have two main dimensions, the first referring to activities at home and the other referring to internationalization abroad. While some forms of
 
-<!-- page 66 -->
+<!-- page 67 -->
 
 internationalization have existed for a long time, such as 'people mobility', others including 'programme' and 'institutional' mobility are more recent forms. The concentration of providers in several city states has also led to the emergence of education hubs, described as the third generation of internationalization in higher education.
 
@@ -1237,7 +818,7 @@ There are different rationales for internationalization in higher education and 
 
 The emergency of transnational education have resulted in the development of various regulatory models. There are six different regulatory models identified in the literature with countries having more experience in dealing with TNE known to have more mature systems. Another area of development is the quality assurance of TNE, with growing number of regional, international and focused networks of agencies being formed to collaboratively tackle this particular issue.
 
-<!-- page 67 -->
+<!-- page 68 -->
 
 Despite a growing body of literature on transnational education and international branch campuses, there is still 'limited information about the creation, operation and regulation of IBC's' (Lane, 2011). Some of the questions posed in recent literature include, 'how will the regulation of IBC's evolve?' and 'How will IBC's affect the future development of private higher education in the host nations'? There are also questions asked about whether regulatory developments will continue to follow some of the trends seen in studies in more developed countries. In 2010, Wilkins, pointed out that the concept of the education hub in countries like the UAE is an unproven model and that they were in the early stages of their evolution. According to him, many questions remained about whether campuses would diversify their programme offering, and whether they would be required to adapt programmes to meet local and cultural contexts? This gap in the literature is especially evident in the geographical context of Dubai, which is considered a significant user of TNE systems.
 
@@ -1245,19 +826,15 @@ Dubai has adopted a unique approach in higher education with a heavy reliance on
 
 The literature provided an overview on various topics that are relevant to this study, including the various models for internationalization, rationales for internationalization, the definition and forms of transnational education, the concept of international branch campuses, challenges and benefits associated with branch campuses and regulatory approaches in transnational education. It has also helped in the identification of gaps related to the transnational model of higher education in Dubai.
 
-<!-- page 68 -->
+<!-- page 69 -->
 
 In order to address the gaps identified in the literature and to satisfy the objectives of the study, I have developed the following research questions:
 
-1. What were the regulatory enablers and systems implemented for the growth and development of this model in Dubai?
-
-2. What were the key rationales for developing the higher education sector through the use of a transnational education approach?
-
-3. What were the main factors that attracted international higher education providers to set up in Dubai?
-
-4. What are the main challenges associated with this model for the government and for the higher education providers?
-
-5. What are some of the benefits that been realized over the last decade for the host country and for the incoming providers?
+- 1. What were the regulatory enablers and systems implemented for the growth and development of this model in Dubai?
+- 2. What were the key rationales for developing the higher education sector through the use of a transnational education approach?
+- 3. What were the main factors that attracted international higher education providers to set up in Dubai?
+- 4. What are the main challenges associated with this model for the government and for the higher education providers?
+- 5. What are some of the benefits that been realized over the last decade for the host country and for the incoming providers?
 
 I hope the findings will add to the current literature in the context of Dubai through an indepth study of the rationales, challenges and benefits of using a transnational system of higher education in Dubai.
 
@@ -1267,7 +844,7 @@ In order to address the research questions, it is important to have a theoretica
 
 The impact of globalization in higher education has been seen through a greater emphasis on internationalization. Organizations such as the WTO, World Bank and OCED and inclusion of education in GATS have led to educational reforms and a drive towards increasing competitiveness and economic development (Jiang, 2008; Lane and Kinser,
 
-<!-- page 69 -->
+<!-- page 70 -->
 
 2011; Stella and Woodhouse, 2008; Lane and Kinser, 2004). Internationalization in higher education has manifested into two broad categories, home-based activities (internationalization at home) or overseas activities (internationalization aboard) (Stella, 2006). Branch campuses and other forms of transnational education are examples of overseas activities (Maringe and Gibbs, 2009). There are different views on TNE as a form of internationalization. Stella (2006) commented on these different views among stakeholders, ranging from academics that are skeptical about the motivations of TNE, to governments and trade enthusiasts that wish to cease the opportunities of internationalization in higher education for capacity development.
 
@@ -1275,32 +852,21 @@ Internationalization has seen a shift from the early forms of 'people mobility' 
 
 A combination of Knight and Qiang's work offered a good theoretical framework for this study. It provided a good structure to review and analyze the key motivations for internationalization in the Dubai context and the need to compare this across different stakeholder groups. Knight's model provides a more balanced view across different categories of rationales compared to some of the earlier models by including political, cultural, academic and economic rationales for internationalization.
 
-<!-- page 70 -->
+<!-- page 71 -->
 
 Using this model as a base, I decided to add challenges and benefits to this framework and created an adapted model of their work as the theoretical framework for this study. This allowed me to explore motivations, challenges and benefits in the Dubai context and compare them across various stakeholder groups. One of the reasons for doing this is that the current literature on challenges and benefits for branch campuses are generally focused on the development stages or initial years of branch campuses and are usually presented as theories. In order to capture the Dubai context better, I also included regulatory factors by combing it under the 'political' category and covered cultural factors under the 'social' category.
 
 This adapted model as presented in the Figure 3.5 below was used as the conceptual framework to study rationales, challenges and benefits of a transnational model in the Dubai context from the perspective of two major stakeholder groups: government planners and international higher education providers.
 
-| Stakeholder | Motivations | Challenges | Benefits |
-| --- | --- | --- | --- |
-| Group A or B |   |   |   |
-| Academic |   |   |   |
-| Social |   |   |   |
-| Political |   |   |   |
-| Economic |   |   |   |
-| Other |   |   |   |
-
-> Figure 3.5 – Conceptual Framework, adapted from Knight's rationales (1997) and Qiang's framework (2003)
-
 The study is also guided by work carried out by the Observatory for Borderless Higher Education (OBHE) in defining an international branch campus and identifying various characteristics of international branch campuses. This was used to identify a suitable sample for this study to ensure the sample fairly represented the broad diversity of institutions present in Dubai.
 
-<!-- page 71 -->
+<!-- page 72 -->
 
 This study also identifies the key regulatory policies and process that was established in Dubai to support the growth of the transnational higher education system. These findings were assessed against Verbik and Jokivirta's model and against key indicators of TNE frameworks identified by the British Council (2014). This study discusses the phases in the development of the Dubai model over the last ten years and was compared to the four-phases of TNE development identified by McBurnie and Ziguras (2011). This is used to determine the similarities and differences in Dubai's evolution as an education hub compared to current literature on transnational higher education.
 
 Guided by this conceptual framework, I hope the research helps me achieve the objectives of the study and answers the research questions that have been identified. I hope the study will add to the limited body of literature on the development of transnational higher education model in the context of Dubai and also to current research on the rationales, challenges, benefits and regulatory approaches for transnational education.
 
-<!-- page 72 -->
+<!-- page 73 -->
 
 ## 4. Chapter 4: Methods and Methodology
 
@@ -1308,15 +874,11 @@ Guided by this conceptual framework, I hope the research helps me achieve the ob
 
 This chapter looks at the research design and methods adopted for the empirical phase of this study to help answer the research questions of the study:
 
-1. What were the regulatory enablers and systems implemented for the growth and development of this model in Dubai?
-
-2. What were the key rationales for developing the higher education sector through the use of a transnational education approach?
-
-3. What were the main factors that attracted international higher education providers to set up in Dubai?
-
-4. What are the main challenges associated with this model for the government and for the higher education providers?
-
-5. What are some of the benefits which were realized over the last decade for the host country and for the incoming providers?
+- 1. What were the regulatory enablers and systems implemented for the growth and development of this model in Dubai?
+- 2. What were the key rationales for developing the higher education sector through the use of a transnational education approach?
+- 3. What were the main factors that attracted international higher education providers to set up in Dubai?
+- 4. What are the main challenges associated with this model for the government and for the higher education providers?
+- 5. What are some of the benefits which were realized over the last decade for the host country and for the incoming providers?
 
 In order to answer these research questions, a research strategy is adopted which is explained in the next section. In order to carry out this study, it is important to have a research design and also to decide the best methods to collect data; analyze data and present the findings. This chapter providers details on all of these decisions and also identifies the steps taken to ensure data validity and other ethical considerations.
 
@@ -1324,7 +886,7 @@ In order to answer these research questions, a research strategy is adopted whic
 
 The main focus of this research is the transnational model of higher education in Dubai. The purpose of this study is to explore the motivations, the enablers and the effects (challenges and benefits) of this approach to higher education in Dubai from the perspective of two stakeholder groups, the government planners and the international higher education providers.
 
-<!-- page 73 -->
+<!-- page 74 -->
 
 There are various stakeholder groups that have a significant impact on higher education in the Dubai context, including the local government, regulatory body, free zone authorities, providers, students, investors and employers. I decided to combine all of the government stakeholders into one group and this group represents the government planners, the regulators and free zone authorities. In order to address the research questions in relation to why Dubai adopted this approach, the enablers for its development and the effects in the form of challenges and benefits, it was important to include the government stakeholder group.
 
@@ -1336,7 +898,7 @@ Another group that I considered was employers. With reference to employers, the 
 
 The final group that I considered including was students. However, the inclusion of students would have required significant changes to the research design and data collection methods and would also have unduly expanded the scope of the study beyond a manageable size. Hence, I decided to focus on two stakeholder groups for this study, government planners and international higher education providers.
 
-<!-- page 74 -->
+<!-- page 75 -->
 
 There are various philosophical considerations in determining the research approach, design and methodology. The ontological consideration, which is defined as 'theory of the nature of reality' has two main positions; subjectivism and objectivism. The first considers reality as a product of social interactions and the latter, considers reality as external to individuals (Delanty and Strydom, 2003; Neuman, 2003; Cohen et al., 2011; Tuli, 2010). Epistemology on the other hand refers to the 'theory of knowledge' or methods of inquiry into the nature of reality. Epistemology also offers two broad positions; a positivist position where results are governed by laws of cause and effect; and an interpretivist position where reality is a construct of social interactions (Hitchcock and Hughes, 1989; Cohen et. al, 2011; Bryman, 2012; Mertens, 2010).
 
@@ -1344,7 +906,7 @@ Ontological positions generally lead to epistemological positions, which influen
 
 There are three broad approaches for carrying out research studies, qualitative, quantitative and mixed methods. The selection of a particular research approach are
 
-<!-- page 75 -->
+<!-- page 76 -->
 
 usually based on the research problem being addressed, the personal experiences of the researcher and the audience for the study (Creswell, 2014).
 
@@ -1358,7 +920,7 @@ Through this study I am hoping to gain a better understanding of a specific situ
 
 Once a broad research strategy has been selected, it is important to decide the research design for the study. Cresswell (2014) identifies five different qualitative approaches: narrative research, grounded theory, ethnography, phenomenology and case study research. A case study design is used for this study, with Dubai constituting a single case of a state model or approach to higher education.
 
-<!-- page 76 -->
+<!-- page 77 -->
 
 Case study design are used in many fields where the researcher is interested in developing an in-depth analysis of a case, which is usually a programme, event, activity process or one or more individuals (Stake 1995; Yin, 2009). A case study can be defined in many ways. Simons (2009, p.11) describes a case as an "in-depth exploration from multiple perspectives of the complexity and uniqueness of a particular project, policy, institution, programme or system in a real life context." The case serves as the main unit of analysis in a case study.
 
@@ -1366,7 +928,7 @@ There are different types of case studies. According to Yin (1994) and Cohen et 
 
 There are various advantages and weaknesses of using case study design. Case studies are considered to be very 'strong in reality' and can often help create knowledge, inform practice or provide insights into other cases (Simon, 2009; Adelman et al., 1980). Case studies are also considered as a 'step to action' whereby they are carried out in a world of action and also contribute to it (Adelman et al., 1980). Case studies however may suffer from researcher bias, may be personal and subjective and its results may not be generalizable (Nibset and Watt, 1984).
 
-<!-- page 77 -->
+<!-- page 78 -->
 
 Yin (2012) suggests that a case study approach is most suited in cases where the researcher aims to answer 'how' and 'why' questions; has little control over behavioral events; and is investigating a situation or phenomena within its real life context.
 
@@ -1376,7 +938,7 @@ Dubai one of the most active systems internationally that uses a transnational m
 
 Given this study focusses on a particular phenomenon occurring within a specific geographical context and aims to identify 'why' this approach was adopted, 'how' it was enabled and 'what' its effects were, a case study approach is considered the most suitable approach. Although most typical case studies focus on an institution (case) or a group of institutions (cases), this case study focuses on the system or model of higher education in Dubai and the some of the major stakeholder groups that participate in the sector. Such a
 
-<!-- page 78 -->
+<!-- page 79 -->
 
 study is normally considered a single case design, since the study is not comparing the Dubai model to another model and its objective is to have an in-depth understanding of the Dubai model and the related motivations, challenges and benefits.
 
@@ -1390,9 +952,9 @@ Yin (2003) recommends that case study research should include 'multiple sources 
 
 For this study I carried out a series of semi-structured interviews with participants from two stakeholder groups and carried out a documentary analysis of relevant reports that are available. In order to answer the research questions, I needed to better understand the perspectives, experiences and thoughts of participants in the higher education sector in Dubai. These were best explored through semi-structured interviews as it enabled me to draw out responses through open ended questions. The documentary reviews were also important to identify background information prior to the interviews.
 
-<!-- page 79 -->
+<!-- page 80 -->
 
-## 4.4.1 Documentary Analysis:
+### 4.4.1 Documentary Analysis:
 
 In order to build a context for the case and to review historical and background information, a documentary analysis was carried out. Documentary analysis is also considered a useful method to prepare for interviews (Simons, 2009).
 
@@ -1400,7 +962,7 @@ For stakeholder group A, government representatives, the documentary analysis in
 
 These documents were very useful as they provided a historical perspective as to why Dubai choose this approach to higher education. The higher education guide provided current data on the landscape of institutions in Dubai, including number of institutions, growth in terms of enrollment and also laid out the differences between the three systems that operate in the country; federal, local and international. The self-study highlighted some of the early challenges that were faced in relation to regulatory systems and quality assurance processes and discussed the evolution of the regulatory model in Dubai. And finally the external review report provided a neutral third party review of the Dubai TNE
 
-<!-- page 80 -->
+<!-- page 81 -->
 
 model and indicated areas for development. All these were helpful as background information prior to developing the interview schedules.
 
@@ -1408,11 +970,11 @@ For stakeholder group B, the international higher education providers, the docum
 
 The institutional strategic plans provided limited information on the branch institution but were very helpful in understanding the overarching internationalization policies of the various institutions. It also provided details on the mission, vision and objectives of these institutions and gave me an indication on the international aspirations of some of these institutions. Access to these documents was not difficult, as they were all publicly available on the university websites. One institution had not yet published their most recent strategic document, but made it available, as it was expected to be released within a few days of the interview date.
 
-## 4.4.2 Semi-structured interviews:
+### 4.4.2 Semi-structured interviews:
 
 The study also included semi-structured interviews with representatives of organizations in both stakeholder groups. A sample was selected from each group based on certain characteristics which are described in the next section of this chapter. Semi-structured
 
-<!-- page 81 -->
+<!-- page 82 -->
 
 interviews are flexible in nature and give interviewers a better understanding of how participants think about certain situations by allowing them to probe these issues during the interview process (Yin, 2003; Simons, 2009). Prior to starting the research collection the preferred option was to conduct all the interviews face-to-face and one-to-one. However, this was not possible in the case of one respondent as he was not in the country and therefore, the interview was conducted via telephone call.
 
@@ -1422,7 +984,7 @@ The questions for stakeholder group A focused on the motivations for the governm
 
 An introductory letter was sent to all participants explaining the purpose of the research and seeking their permission to participate in the interviews. A copy of the interview schedules was also given to the participants in advance of the interviews to allow them to prepare for the interview. After a pilot or test interview was conducted with one participant from each stakeholder group, minor modifications were made to the schedules to streamline the process for subsequent interviews. All interviews were recorded with an audio device and supplemented by notes. Prior permission was obtained from the participants to record the interviews and all participants agreed to the interviews being
 
-<!-- page 82 -->
+<!-- page 83 -->
 
 recorded. Once the interviews were completed the audio recordings were transcribed. Notes taken during the interviews were used in case the transcriptions from the audio recordings were not clear.
 
@@ -1436,26 +998,15 @@ In order to address this issue, a sample of each stakeholder group was determine
 
 For the first stakeholder group, 'government planners', organizations were selected to cover three main participant groups, the education authority that is responsible for regulation, licensing and quality assurance of higher education in Dubai's free zones (the model that is being studied); the free zone authority, responsible for the growth and development of two free zones in Dubai dedicated to higher education; and finally one
 
-<!-- page 83 -->
+<!-- page 84 -->
 
 higher education consultant was selected from a government agency responsible for policy development in higher education. The consultant also had previous experience working at an international branch campus in Dubai and so was able to reflect on both the government and provider perspectives.
 
 These three groups covered individuals that are or have been involved in the policy development, planning and implementation of policies and practices within the higher education sector in Dubai and had the necessary historical knowledge to answer the questions identified for this study. All the participants that were interviewed hold senior management positions at their respective organizations. In order to anonymize the responses, the participants are, referred to as 'GOVT' and a number from '1 to 7'. For example, 'GOVT 1'. A summary of the participant breakdown for stakeholder group A is provided below:
 
-| Stakeholder Group A – Government | Number of Interviews |
-| --- | --- |
-| Planners |   |
-| Government Educational Authority | 4 participants |
-| Free Zone Authority | 2 participant |
-| Educational Consultant at Government | 1 participants |
-| Policy Development Institution |   |
-| Total | 7 participants |
-
-> Table 4.1 – Representation within Stakeholder Group A – 'Government Planners' and number of participants.
-
 For the second stakeholder group, 'international higher education providers' various considerations were taken into account to determine the most appropriate sample. The different characteristics of international campuses have previously been described in the literature review in Section 1.1.5. These characteristics were considered in selecting a representative sample for this study. The sample was selected based on the characteristics described in the literature including size of the institution (small, medium, large); level of degrees awarded (Bachelor, Masters, PhD); and enrollment size). Two other factors were
 
-<!-- page 84 -->
+<!-- page 85 -->
 
 also taken into account, the location of the home institution, in order to cover the diversity of institutions that operate in Dubai and also the type of faculty model to ensure that a range of models was included (local faculty and home faculty). For the purpose of anonymity, the institutions will be referred to with a code rather than their name, 'INST' A to H. Example 'INST A'.
 
@@ -1465,29 +1016,13 @@ With reference to enrollment, institutions from three of the four enrollment gro
 
 | Institution | Size | Home | Enrollment | Level of | Faculty |
 | --- | --- | --- | --- | --- | --- |
-|   |   | Country |   | Degree | Model |
+|  |  | Country |  | Degree | Model |
 | INST A | Large | United | Group 3 | B/M | Local |
-| (Middlesex) |   | Kingdom |   |   |   |
+| (Middlesex) |  | Kingdom |  |  |  |
 | INST B | Medium | Iran | Group 2 | B/M/D | Local |
-| (IAU) |   |   |   |   |   |
+| (IAU) |  |  |  |  |  |
 
-<!-- page 85 -->
-
-| INST C | Large | India | Group 3 | B/M | Local |
-| --- | --- | --- | --- | --- | --- |
-| (Amity) |   |   |   |   |   |
-| INST D | Large | India | Group 3 | B/M/D | Local |
-| Manipal) |   |   |   |   |   |
-| INST E | Small | Australia | Group 2 | B/M | Global |
-| (SP Jain) |   |   |   |   |   |
-| INST F | Small | Austria | Group 1 | B/M | Local + |
-| (Modul) |   |   |   |   | Home |
-| INST G | Large | United | Group 3 | B/M/D | Local |
-| (HW) |   | Kingdom |   |   |   |
-| INST H | Medium | United | Group 1 | M | Home |
-| (City) |   | Kingdom |   |   |   |
-
-> Table 4.2 – Representation within Stakeholder Group B – 'International Education Planners' and distinctive characteristics.
+<!-- page 86 -->
 
 The number of interviews conducted at each institution from stakeholder group B, were decided based on the size of the institution. Two representatives from each of the 'large' institutions were interviewed, while 1 representative from 'small' or 'medium' institutions was interviewed. The participants interviewed are either 'Campus Directors', 'Local Academic Head's' or senior management staff and have been involved in the growth and development of the local campuses in Dubai and were therefore considered appropriate and in a position to provide responses addressed the research questions of the study. The number of participants for each institution in stakeholder group B are listed in the table below:
 
@@ -1498,16 +1033,7 @@ The number of interviews conducted at each institution from stakeholder group B,
 | INST C | 2 |
 | INST D | 2 |
 
-<!-- page 86 -->
-
-| INST E | 1 |
-| --- | --- |
-| INST F | 1 |
-| INST G | 2 |
-| INST H | 1 |
-| Total | 12 participants |
-
-> Table 4.3 – Number of participants from each institution in Stakeholder Group B – 'International Education Planners'
+<!-- page 87 -->
 
 Thus a total of 19 participants were interviewed across the two stakeholder groups for the purpose of this study with the intention of understanding their perspectives and experiences in relation to the research questions. The names of the organizations and the individuals are anonymized in the data presentation for confidentiality.
 
@@ -1517,7 +1043,7 @@ Once the data was collected, I carried out the process of data review and analys
 
 There are different processes for data analysis documented in the literature. According to Miles and Huberman (1994), data need to be analyzed systematically through four steps; data reduction, display, conclusion and verification. Patton (1987) suggests data first needs to be organized, categorized and then classified into major themes. In studies, where the researcher is not testing a hypothesis but is instead interested in better understanding a situation, an inductive approach to data analysis is suitable (Jebreen,
 
-<!-- page 87 -->
+<!-- page 88 -->
 
 2012). Inductive data analysis helps with in linking findings from raw data to the research objectives (Thomas, 2006).
 
@@ -1525,29 +1051,16 @@ In order to systematically manage and process the volume of data, the raw data w
 
 Using a descriptive approach, the coding was carried out in two stages for this study. A first cycle of coding was conducted using a pre-determined list of codes derived from the conceptual framework and the research questions. This process is referred to as deductive coding (Miles et al., 2014). The data collected through semi-structured interviews with both sets of stakeholders and through the documentary analysis were coded using three categories or master-codes and a common set of sub-codes under each master-code. The pre-determined list of codes are included in the table below:
 
-![TH.R09 fig13](../figures/TH/TH.R09_fig13.jpg)
-
-> Figure 4.1 – Pre-determined codes from conceptual framework for first level of coding
+![TH.R09 fig12](../figures/TH/TH.R09_fig12.jpg)
+*Figure 4.1 – Pre-determined codes from conceptual framework for first level of coding*
 
 A second cycle of coding also referred to as pattern coding (Miles et al., 2014) was used to group information within each of the sub-codes. This process helped in drawing out
 
-<!-- page 88 -->
+<!-- page 89 -->
 
 commonalities, differences, and themes within each sub-code. An inductive coding approach was used during this second cycle, whereby descriptive codes were developed and used to identify themes within each sub-code category.
 
 Once all the data was coded using the coding framework described above, the data was summarized in a table for each category to present findings from participants of both stakeholder groups in a systematic manner. This exercise will assist me in comparing themes between respondents between different institutions within each stakeholder group, as well as between the two stakeholder groups for the findings chapter. An illustration is provided below:
-
-| Motivations (Category 1) |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- |
-| Respondent | Academic | Social | Economic | Political | Other |
-|   | (Sub-code 1) | (Sub-code | (Sub-code 3) | (Sub-code 4) | (Sub |
-|   |   | 2) |   |   | code 5) |
-| INST A |   |   |   |   |   |
-| INST B |   |   |   |   |   |
-| GOVT 1 |   |   |   |   |   |
-| GOVT 2 |   |   |   |   |   |
-
-> Table 4.4 – Illustration of Findings
 
 The findings will be presented in the following chapters and will be divided into two sections as each stakeholder group represents one section of the Dubai case. The final chapter will include discussion and comparative assessment between the themes identified across the two stakeholder groups and will also present recommendations and potential areas for further research.
 
@@ -1555,7 +1068,7 @@ The findings will be presented in the following chapters and will be divided int
 
 I am an active participant in the Dubai higher education sector and work for the government regulatory authority responsible for the development of international higher
 
-<!-- page 89 -->
+<!-- page 90 -->
 
 education in Dubai. My current role is Director of Quality Assurance and I am responsible for the quality assurance process for all international campuses located in Dubai's free zones. Such a position is usually considered as of one an 'insider researcher' (Adler and Adler, 1994).
 
@@ -1565,7 +1078,7 @@ For this particular study, I have a unique position of having been involved in t
 
 It is important to reflect on the impact of my role as an insider researcher and a research practitioner. According to Malterud, "a researcher's background and position will affect what they choose to investigate, the angle of investigation, the methods judged most adequate for this purpose, the findings considered most appropriate, and the framing and communication of conclusions" (Malterud, 2001, p. 483-484). Schon states that a researcher practitioner is able to "generate both a new understanding of the phenomenon being studied and a change in the situation" (Schon, 1983 p.68). For example, a researcher practitioner can prepare interview schedules with a greater understanding and knowledge of the system (Coy, 2006). However, a balance needs to be maintained between the research perspective and the practitioner perspective, so that the research is both set in reality and offers a broader picture rather than being limited to the immediate
 
-<!-- page 90 -->
+<!-- page 91 -->
 
 area of interest of the practitioner. Flyod and Arthur (2010), talk about the 'level of insiderness' and that working at the same organization as other participants does not necessarily mean a shared response or experience.
 
@@ -1575,7 +1088,7 @@ According to Floyd and Arthur (2010), the internal aspects of ethical engagement
 
 In order to address any limitations of being a researcher practitioner, the scope of the study and the theoretical framework used for this study are clearly defined. My area of specialization in my professional role is limited to the quality assurance of international campuses. This study goes beyond the quality assurance issue and explores the transnational model of higher education as a whole and covers the motivations, enablers, challenges and benefits of the system. I am also protected by the governance structures
 
-<!-- page 91 -->
+<!-- page 92 -->
 
 within my organization whereby an independent Board makes the quality assurance decisions, where I do not have any voting rights.
 
@@ -1585,7 +1098,7 @@ The data was collected and reviewed through an adapted theoretical framework usi
 
 In my own case, given my close involvement with the branch campus model, I do have a positive bias towards transnational education. In order to address this, I decided to report the findings not just from the government perspective but also to include views from the perspective of institutions as well. I also felt it was important to include the challenges and problems with this model, rather than just focus on the positives or benefits. It is important to highlight the challenges as these can act as lessons for the future to make
 
-<!-- page 92 -->
+<!-- page 93 -->
 
 recommendations to improve the model. My aim through this study is to collect and report findings in an ethical and neutral manner.
 
@@ -1595,7 +1108,7 @@ I also had concerns about the provider stakeholder group and how they would resp
 
 Similar to the government group, I found through the interview process that the vast majority of participants were very open and honest in discussing their views. There was one exception where one of the participants seemed to be very complementary about the regulatory body that I work for, however; the interview was nonetheless helpful in bringing out some important issues. The participants were vocal in discussing challenges they have faced, especially in regard to the politically sensitive issue around recognition of degrees by the federal government. They also discussed various academic challenges,
 
-<!-- page 93 -->
+<!-- page 94 -->
 
 such as the difficulty in recruiting appropriate faculty, the lack of research among branch campuses and issues related to visas for students.
 
@@ -1609,7 +1122,7 @@ In qualitative research, validity is concerned with depth and scope of data, the
 
 The key issue with qualitative data is 'trustworthiness' (O'Connor, 2002). For this study, data was collected through documentary analysis and interviews. Wherever
 
-<!-- page 94 -->
+<!-- page 95 -->
 
 applicable and possible, more than one individual at each institution was interviewed. This applied to six institutions across the two stakeholder groups to enable triangulation of responses. This process helps improve credibility. In order to ensure dependability, transcripts were shared with participants and the analysis will be strengthened by use of verbatim data or quotes from participants wherever applicable. Triangulation was also achieved through the review of documentary evidence for each stakeholder group.
 
@@ -1621,7 +1134,7 @@ Various measures have been taken to ensure confidentiality by anonymizing names 
 
 My aim as a researcher is to ensure integrity of research and ethical compliance with expected standards without causing any harm to institutions or individuals involved.
 
-<!-- page 95 -->
+<!-- page 96 -->
 
 ## 5. Chapter 5: Findings – Government Planners
 
@@ -1635,7 +1148,7 @@ The first stakeholder group included in this study are the 'government planners'
 
 In order to address the research questions and following the conceptual framework for this study, the interview schedules for this stakeholder group were focused on four areas:
 
-<!-- page 96 -->
+<!-- page 97 -->
 
 regulatory enablers, motivations for adopting a transnational model of higher education, challenges faced in the development of the model and the benefits or achievements that have been attained since the inception of this model. The interview participants were also asked to provide their thoughts and comments on the future challenges facing the Dubai higher education sector and the measures that need to be undertaken to ensure continued growth and development.
 
@@ -1647,11 +1160,11 @@ In order to address the first research question of this study, 'what were the re
 
 The Dubai higher education system is built on a dual model that involves federal higher education institutions serving the local population and international institutions serving the expatriate population. The focus of this study is on the international campuses, which were attracted to set up and offer academic programmes in free zones across Dubai. Four major themes were identified from the interviews conducted and the documentary evidence reviewed:
 
-## 5.1.1 Role of the Free Zones
+### 5.1.1 Role of the Free Zones
 
 The development and use of free trade economic zones for the purpose of higher education is considered the most important enabler of the Dubai higher education model.
 
-<!-- page 97 -->
+<!-- page 98 -->
 
 GOVT 1 explains that the 'free zone strategy is the core of it because if we didn't have the free zones for higher education we really could not have implemented this strategy'.
 
@@ -1661,7 +1174,7 @@ The development of the free zones jumpstarted the economic diversification strat
 
 The development of free zones was essentially the development of hard infrastructure. GOVT 3 explains the need for both hard and soft infrastructure. 'The hard infrastructure was not available in Dubai. In order to set up a University 'you had to go and build a campus or take existing buildings and refit' them (GOVT 3). Dubai decided to focus on building hard infrastructure and facilities which, would make it easier to attract institutions from aboard as the need for heavy capital investment was reduced. This was done by building 'common infrastructure that campuses could all use at a low cost and achieving savings through economies of scale such as common food courts, facilities and sports' (GOVT 3). This created an incubation environment for the universities to start
 
-<!-- page 98 -->
+<!-- page 99 -->
 
 with and grow gradually. This made it attractive for international providers and also helped with their financial sustainability as they were not required to start with large investments (GOVT 6). Many other cities and countries were investing directly by funding high ranked universities to set up international campuses, however Dubai opted for a more sustainable approach by reducing the capital outlay required for an institution to come in through the free zones (GOVT 1).
 
@@ -1669,11 +1182,11 @@ By building Dubai Knowledge Park (DKP), previously Dubai Knowledge Village, Duba
 
 All seven respondents were very confident that in the absence of the free zones, the higher education sector would not have developed the way it has over the last decade. GOVT 1 believed that while there may have been some growth, Dubai 'would not have had this thriving higher education sector that you have today'.
 
-## 5.1.2 Investor Model
+### 5.1.2 Investor Model
 
 Federal regulations prevented full ownership of businesses in the UAE and required all companies to have a local partner owning 51% of shares in the business. This requirement changed with the establishment of the free zones. 'The free zones were created to attract foreign investors' (GOVT 4). It allowed institutions full ownership and the ability to repatriate funds without the need of a local partner (GOVT 4). The UQAIB self-study document reviewed states that the free zones 'were established as geographically specific locations in which foreign investors could establish local operations free from local regulations and taxes (UQAIB self-study, 2017).
 
-<!-- page 99 -->
+<!-- page 100 -->
 
 Once the free zones were set up and the barriers for foreign direct investment reduced, the next step was to have different investment options for universities that were interested in setting up in Dubai. Most higher education institutions that were thinking of coming to Dubai 'were publicly funded in their own countries and would therefore need a private investor to establish abroad as they could not use taxpayer money' for this purpose (GOVT 7). This made it important for Dubai to attract the institutions with different investment models. The ability to lease space from the free zones and access common facilities also reduced the financial requirements of setting up a campus.
 
@@ -1683,9 +1196,9 @@ As the Dubai higher education market has evolved, the competitiveness of the sec
 
 It is important to note several institutions that initially started with investors have decided to take full control of the financial responsibilities by buying out the investor. This has especially occurred once the Dubai campus has reached a certain size and maturity (GOVT 7).
 
-<!-- page 100 -->
+<!-- page 101 -->
 
-## 5.1.3 Regulatory Systems
+### 5.1.3 Regulatory Systems
 
 The establishment of the free zones provided ready infrastructure and also made it easier for foreign companies to do business in Dubai. However, it was also important to have a supportive academic regulatory system in place within the free zones.
 
@@ -1693,11 +1206,11 @@ There was a need for a stringent regulatory system as initially the free zone au
 
 Two important milestones in relation to the development of regulatory systems were the establishment of the KHDA in 2007 and the release of Executive Council Resolution 2011 (GOVT 1). KHDA was established as the education regulator for the Emirate of Dubai and was tasked with the responsibility of 'regulation and quality assurance of all higher education institutions located in the free zones' (Higher Education Guide, 2017). 'The development of a quality higher education system is a strategic priority for Dubai' with an emphasis on building Dubai as a higher education hub (Higher Education Guide, 2017). The other important milestone was the legislative approval through Resolution 21 (2011), which gave KHDA the formal authority to regulate all the free zone institutions. With the existence of KHDA, 'you had a government agency starting to establish the quality systems required and later with the government resolution there was a legal structure for the model' (GOVT 1).
 
-<!-- page 101 -->
+<!-- page 102 -->
 
 It was important for the KHDA regulations to be fit for the purpose of international institutions. The initial regulatory requirements in the free zones were set up in such a way that they offered flexibility especially in relation to the governance structure of the higher education institution, which was very rigid in the federal system of approval. 'There was no specific requirement on the board or the programme structure' through the free zone regulatory approach (GOVT 4) and therefore, it was more flexible for foreign universities.
 
-## 5.1.4 Quality Assurance
+### 5.1.4 Quality Assurance
 
 According to the UQAIB self-study document, 'the commercial success of such a model depended upon high quality higher education provision'. It was important to separate quality assurance from the free zone leasing responsibilities. It was equally important to ensure international campuses provided the same quality of education as they would in the home country to protect student's interests and Dubai's reputation.
 
@@ -1705,11 +1218,11 @@ Various models were studied including a typical international approach of local 
 
 Therefore, a board was set up, the University Quality Assurance International Board (UQAIB) and a fit-for-purpose model was developed for Dubai called the 'Equivalency Validation' model for quality assurance. This model placed reliance on the home agency, but also required evidence that quality assurance systems were being applied transnationally at the branch (UQAIB self-study, 2017). 'The UQAIB model is underpinned by the intention to preserve the integrity of the educational offering as delivered in the home campus while still providing an assurance of the quality of provision at the branch campus' (UQAIB External Review, 2017). Having an established and reliable quality assurance system was also important to attract the right caliber of higher education institutions. For most institutions, 'their number one agenda is the
 
-<!-- page 102 -->
+<!-- page 103 -->
 
 quality of education' and so by establishing UQAIB, Dubai was able to demonstrate they have high standards for the universities in the free zones (GOVT 6).
 
-## 5.1.5 Reflections
+### 5.1.5 Reflections
 
 The drive towards economic diversification, the growing higher education needs of the expatriate community and the restrictions of federal law on international campuses led to the idea of dedicating free zones for higher education. The establishment of Knowledge Village and later Dubai International Academic City marked the beginning of the transnational higher education journey in Dubai. Respondents referred to this as the hard infrastructure which, took away the financial risk involved in setting up branch campuses as institutions were now able to come to Dubai and lease ready facilities without significant financial investment.
 
@@ -1719,7 +1232,7 @@ The role of the investors was critical as the providers that wanted to come to D
 
 Once the free zones were established, a large number of providers came to Dubai and set up campuses. At this time the free zone authority played the dual role of regulator and commercial landlord. The free zones were starting to gain a negative reputation
 
-<!-- page 103 -->
+<!-- page 104 -->
 
 internationally as the barriers for entry were low and questions were being raised about the quality of institutions in the free zones and more generally about branch campuses. This prompted the need for separation of roles and responsibilities, and the need for increased regulation and quality assurance.
 
@@ -1731,22 +1244,9 @@ The KHDA established a fit-for-purpose quality assurance system called the Unive
 
 The second research question of the study is 'what were the key rationales for developing the higher education sector through the use of a transnational education approach?' In order to address this particular research question, respondents were queried about the motivations and rationales that led to a transnational model for higher education in Dubai. The responses are organized based on common themes identified as either academic, social, economic, political or other. A summary of findings are presented in the table below:
 
-<!-- page 104 -->
+<!-- page 105 -->
 
-|   | Motivations – Stakeholder Group A |   |   |   |
-| --- | --- | --- | --- | --- |
-| Academic | Economic | Political/ | Social | Other |
-| Motivations | Motivations | Regulatory | Motivations | Motivations |
-|   |   | Motivations |   |   |
-| 1. High Quality | 1. Diversification of | 1. International | 1. Building Capacity | N/A |
-| Institutions | the Economy | Circumstances | and Access |   |
-| 2. Diversification | 2. Dubai as an | 2. Federal | 2. Skilled Workforce |   |
-| of Programmes | Education Hub | Regulations |   |   |
-|   |   |   | 3. Cultural Factors |   |
-
-> Table 5.1 – Summary of Motivations for Stakeholder Group A – Government Planners
-
-## 5.2.1 Academic Factors:
+### 5.2.1 Academic Factors:
 
 ## *High Quality Institutions *
 
@@ -1756,7 +1256,7 @@ There were also reputational and developmental benefits of bringing in high qual
 
 The UAE already had three federal campuses. However, these institutions only served a small section of the population (UAE nationals) given the unique demographical situation
 
-<!-- page 105 -->
+<!-- page 106 -->
 
 in the country. It was therefore important to have a right mix of institutions to serve the expat population. Given the rapid pace of development, it would have taken much longer to try and grow local or national institutions and therefore it was important to attract high quality international institutions to help meet the access need and to bring some reputational value to the higher education sector in Dubai. It is always difficult to attract the top ranked institutions, as the reputational risk involved for such institutions is very high, they are reluctant to set up branch campuses, unless there is significant funding available. The Dubai model focused on investment in infrastructure rather than directly into attracting campuses and therefore, the recruitment strategy in Dubai was to bring in institutions of high quality that were willing and interested in setting up an international campus.
 
@@ -1768,11 +1268,11 @@ The growth of the economy prompted the need for different types of talent and ex
 
 It would have been difficult to develop such expertise within the country in a short period of time and the only way to address this need was through international campuses. This enabled Dubai to recruit institutions based on the type of programmes they specialized in and align the programme areas with Dubai's strategic priorities. There were two clear motivations, 'to bring in the expertise from the foreign universities and to encourage them to bring programmes which would be useful to the local economy' (GOVT 7). International campuses were able to bring in programmes in new areas such as
 
-<!-- page 106 -->
+<!-- page 107 -->
 
 engineering, media, law and design and bring with them experienced faculty, curriculum and offer these programmes immediately without significant waiting periods.
 
-## 5.2.2 Economic Factors:
+### 5.2.2 Economic Factors:
 
 ## *Diversification of the Economy*
 
@@ -1782,7 +1282,7 @@ Even though the Jabel Ali free zone was established in the 1980s, the diversific
 
 As a developing city, it was also important to have an established higher education system. 'It adds to the ability to continue to attract investment and makes it more of a stable and attractive social and economic environment and as a place to live and raise families' (GOVT 5). An established and quality higher education system would complement and support the growth of businesses taking place in other sectors.
 
-<!-- page 107 -->
+<!-- page 108 -->
 
 The diversification of the economy can be considered as one of the main drivers for the Dubai model. The expansion of various sectors such as media, finance and aviation, resulted in the attraction of expatriates into the country and created the need for better options in higher education and a broader range of programmes. With the growth in new sectors, educational providers were able to expand their programme offering into new areas, including engineering, media, tourism and law. It also resulted in the increase in the number of Master's programmes as expatriates coming to Dubai for employment opportunities, also started looking at options for further education. Master's level programmes now represent nearly 40% of the total offering in the free zones based on data reported in the context chapter.
 
@@ -1794,7 +1294,7 @@ There is a definite economic under pinning to the effort of expanding private hi
 
 The free zone higher education model was set up in such a way that incoming institutions were not given any government incentives and were instead supported through ready infrastructure. The government generates revenue through the lease of space to these institutions but does not benefit directly from institutional revenues. The real economic contribution takes place through related expenditure such as student and faculty housing, living costs, contribution to the economy etc. (GOVT 4). Creating higher education
 
-<!-- page 108 -->
+<!-- page 109 -->
 
 opportunities through this model was a 'win-win' for Dubai 'as it brought it people (faculty, students) who were spending money in the country but also creating an educated workforce for the future' (GOVT 5).
 
@@ -1802,7 +1302,7 @@ The economic expectations from higher education by the government is to enable g
 
 The objective for Dubai to be an education hub follows similar ambitions in other sectors such as logistics, aviation, finance, health and tourism. The goals in higher education have evolved over time from increasing access and opportunity in the early days, to ensuring quality of provision towards the more recent goal of becoming an education hub for the region. All these have occurred through a series of planned strategic and regulatory actions over time and even though this was not clearly documented in some of the early strategic documents, this has been an ambition of the Dubai government based on the views of participants in this study.
 
-## 5.2.3 Political and Regulatory Factors:
+### 5.2.3 Political and Regulatory Factors:
 
 ## *Federal Regulations*
 
@@ -1810,7 +1310,7 @@ The objective for Dubai to be an education hub follows similar ambitions in othe
 
 However, the federal accreditation system and regulations were developed for national institutions rather than international institutions. The federal system did not support or encourage the branch campus model. When the free zones were first established institutions that were accredited federally 'had to give up their rights to issue a degree
 
-<!-- page 109 -->
+<!-- page 110 -->
 
 from the home campus, so the model was not developed to cater to an international branch campus' (GOVT 7). Expatriate students were interested in obtaining an international qualification rather than a local qualification (GOVT 7). Dubai needed a system that would support and encourage international higher education and the only possibility was through the free zone model. The free zones created the infrastructure that was needed and also made it easier and more attractive for foreign providers to come and establish campuses in Dubai. It also removed the requirement to comply with local accreditation as international campuses could bring their international accreditation and quality assurance approvals with them to start teaching in Dubai. While this was not a direct rationale or motivation, it was an important factor in the development of the Dubai transnational model.
 
@@ -1820,9 +1320,9 @@ Dubai had already developed a strong schooling system to support expatriate fami
 
 Traditionally a lot of students from the UAE would finish high school and look for higher education opportunities in the traditional Western markets including the USA, Australia and the UK. However, after 2001 and incidents in the USA it became more difficult for students in the Arab region to go abroad as 'there was extra scrutiny on students from this region' and many students were not able to travel to some of these traditional higher education destinations (GOVT 2). This along with changes in student visa regulations in countries such as the UK and Australia made it more difficult for students based in the UAE to travel aboard. This put additional pressure on the higher education system locally as some students had limited opportunities both within the country and outside.
 
-<!-- page 110 -->
+<!-- page 111 -->
 
-## 5.2.4 Social Factors:
+### 5.2.4 Social Factors:
 
 ## *Building Capacity and Access to Higher Education*
 
@@ -1834,7 +1334,7 @@ Expat students were also interested in obtaining international qualifications as
 
 In order to address growing demand for higher education, Dubai had to come up with a quick solution to increase capacity and access and it did so 'by turning to the private sector' (GOVT 5). Dubai had already done this with the school sector, they relied on the private sector to provide access to schools as the government schools only catered to limited number of expatriate students (GOVT 5). The private schools offered a wide range of curriculums to cater to the diverse expat population.
 
-<!-- page 111 -->
+<!-- page 112 -->
 
 The free zones presented a quicker solution for the growth of higher education, with ready infrastructure and flexible regulatory conditions, it was easier for universities to come in as the timeframes to start operations in the free zones were much quicker than setting up in federal territory (GOVT 4).
 
@@ -1846,7 +1346,7 @@ Due to limited options in higher education especially for the expatriate student
 
 In the journey towards building a knowledge economy it is important to have an educated workforce. 'Dubai was thinking about diversifying the economy and to do that you need various options for the UAE nationals and opportunities for the expatriates as well' (GOVT 5). While there were economic objectives to the model, there were also very important social objectives, 'Dubai understood the need for the development of the individual, they understood the core objective of higher education' (GOVT 5).
 
-<!-- page 112 -->
+<!-- page 113 -->
 
 It was important to have sufficient opportunities for the workforce that was coming to Dubai for employment purposes. This workforce needed options 'to enhance their skills while they were in Dubai so they could contribute to the growth of Dubai and also grow as individuals' (GOVT 4).
 
@@ -1862,7 +1362,7 @@ For many Asian and Arab families, there is a preference to keep their children c
 
 While there are a broad range of motivating factors that led to the free zone model of higher education in Dubai, the key drivers were social and economic factors. Due to the diversification of the economy, there was a large influx of international companies and expatriate families. These two factors created a need for higher education opportunities as the expats were not well served through the federal education system and also created the need for a skilled workforce.
 
-<!-- page 113 -->
+<!-- page 114 -->
 
 All this had to be done in a very short period of time and would not have been possible by building universities within the country or even by importing institutions with the current federal regulations as they did not support international campuses. The academic motivations to bring in quality institutions and diversify the programme offering were also important but came in later once the model was already established. This model also addressed some other challenges, including cultural and political factors that were described earlier, but these were not key motivations to actually set up the model.
 
@@ -1870,34 +1370,28 @@ All this had to be done in a very short period of time and would not have been p
 
 The fourth research question of the study is 'what are the main challenges associated with this model both for the government as well as the higher education providers?' In order to address this particular research question, respondents were asked questions about the various academic, economic, social and political challenges the government faced in the development of this model. A summary of findings are presented in the table below:
 
-|   | Challenges – Stakeholder Group A |   |   |   |
+|  | Challenges – Stakeholder Group A |  |  |  |
 | --- | --- | --- | --- | --- |
 | Academic | Economic | Political/ | Social Challenges | Other Challenges |
-| Challenges | Challenges | Regulatory |   |   |
-|   |   | Challenges |   |   |
+| Challenges | Challenges | Regulatory |  |  |
+|  |  | Challenges |  |  |
 | 1. Attracting | 1. Funding | 1. Dual System | 1. Student Experience | 1. Diversity of |
-| Institutions |   |   |   | Systems |
-| 2. Localization of |   | 2. Recognition of | 2. Negative | 2. Collaboration |
-| Programmes |   | Awards | Perceptions |   |
-| 3. Research |   |   |   | 3. Public |
-|   |   |   |   | Transparency |
-| 4. Recruiting |   |   |   |   |
-| Faculty |   |   |   |   |
-| 5. Academic |   |   |   |   |
-| Freedom |   |   |   |   |
-| 6. Quality |   |   |   |   |
-| Assurance |   |   |   |   |
-| 7. Programme |   |   |   |   |
+| Institutions |  |  |  | Systems |
+| 2. Localization of |  | 2. Recognition of | 2. Negative | 2. Collaboration |
+| Programmes |  | Awards | Perceptions |  |
+| 3. Research |  |  |  | 3. Public |
+|  |  |  |  | Transparency |
+| 4. Recruiting |  |  |  |  |
+| Faculty |  |  |  |  |
+| 5. Academic |  |  |  |  |
+| Freedom |  |  |  |  |
+| 6. Quality |  |  |  |  |
+| Assurance |  |  |  |  |
+| 7. Programme |  |  |  |  |
 
-<!-- page 114 -->
+<!-- page 115 -->
 
-| Diversity |   |   |
-| --- | --- | --- |
-|   |   |   |
-
-> Table 5.2 – Summary of Challenges for Stakeholder Group A – Government Planners
-
-## 5.3.1 Academic Challenges:
+### 5.3.1 Academic Challenges:
 
 ## *Attracting Institutions*
 
@@ -1907,7 +1401,7 @@ The absence of clear regulatory systems and policies also made it difficult to a
 
 Another hurdle in attracting good quality institutions was the lack of direct financial incentives from the government. Although Dubai had invested in the infrastructure, there was no direct funding in the institutions. 'Dubai was very much an unknown quantity and therefore there was a risk and reward issue for institutions in deciding whether to establish in Dubai' (GOVT 4). Many other educational destinations were investing significant amounts in funding highly ranked institutions to set up branch campuses in their countries, however this was not the case in the Dubai context.
 
-<!-- page 115 -->
+<!-- page 116 -->
 
 This was clearly an issue faced during the establishment of the free zones, as Dubai was still a developing city, and most people were unfamiliar with Dubai. This was accompanied by a general negative perception about the quality of branch campuses. However, over time, with the implementation of appropriate regulation and quality assurance arrangements, Dubai has been able to attract highly ranked institutions and establish itself as an education hub in the Arab world. Dubai was able to achieve this without directly investing in the campuses, which is the case in many other destinations such as Abu Dhabi and Qatar.
 
@@ -1919,7 +1413,7 @@ The initial requirements in the free zones required institutions 'to offer the s
 
 From an institutional perspective, there was an interest to contextualize curriculum, and make it more relevant for students. Students have an expectation when they are studying in a certain country or region that the curriculum or projects would be locally based (GOVT 7). This is especially important in some programme disciplines, such as finance or law where there is a need to make the content locally relevant (GOVT 7).
 
-<!-- page 116 -->
+<!-- page 117 -->
 
 However according to respondents, this has become less of a challenge as the government has started to allow contextualization of programmes for cultural and local needs to ensure programmes are relevant to the local market. This was done to ensure that students who were getting international awards were also able to also benefit from local knowledge (GOVT 7). It has also enabled the introduction of programmes where curriculum changes are required due to cultural or religious sensitivities of the region (GOVT 1).
 
@@ -1931,7 +1425,7 @@ There were various challenges for the development of research among universities
 
 One of the common challenges with research is funding. In most countries there are public universities who obtain research funding from the government. However in Dubai, 'all of these institutions were from the private sector so there was a question as to where will research funding come from'? (GOVT 3). A lot of campuses coming in also had local investors interested in return on their investments and therefore, and were not keen on establishing research programmes 'as these required heavy investments and resulted in lower returns' (GOVT 2). The federal government does fund research activities, but access to these funds were limited to federal campuses (GOVT 5).
 
-<!-- page 117 -->
+<!-- page 118 -->
 
 The lack of a national plan for research in the UAE is another challenge according to participants from the government stakeholder group. The approach to research in the UAE is considered to be very ad-hoc and depends on government initiatives which, tend to change from time to time. 'There is a general consensus that Dubai would like more research' however, most of the campuses are fairly new. 'Dubai has only recently started approving PhD programmes and this is the first step to growing research capacity', by having more research programmes, students and funding (GOVT 5).
 
@@ -1941,7 +1435,7 @@ The issue of research is an emerging challenge attributed to the maturity of var
 
 The second issue is around investment, as most of the campuses in Dubai are privately funded and there are investors who have commercial interests. However, with maturity of campuses and stability with enrollment, there is a clear shift towards creating a strong research environment to remain relevant, competitive and contribute to local needs. The issue of funding still remains, but institutions are finding ways to either tap into resources available at home or through collaboration with local industry. The government is also doing its best to promote research by encouraging doctoral programmes in the last few years.
 
-<!-- page 118 -->
+<!-- page 119 -->
 
 ## *Recruitment of Faculty *
 
@@ -1953,7 +1447,7 @@ Another issue with academic staff and faculty members were student expectations.
 
 The issue of academic freedom is often discussed as a challenge in the context of Dubai and more generally in relation to transnational education. According to one of the respondents who has worked in both the federal system and the local Dubai system, 'the issue of academic freedom is important but has not emerged in the UAE as a number one driver' (GOVT 5). 'There have been some instances where faculty members either federally or locally may have said or done things that were contrary to national interest or character, but by and large there haven't been too many issues' (GOVT 5).
 
-<!-- page 119 -->
+<!-- page 120 -->
 
 'If academic freedom were the only driver, universities would not be going to China or coming to the Middle East, no universities will be going anywhere until they had full Western free speech policies on academic freedom' (GOVT 5). According to this respondent, one of the reasons universities go abroad is for international engagement. The respondent also felt that it was the role of higher education is to make wider contributions and promote social stability by working with students, faculty, governments and engaging with them. So while academic freedom is a minor challenge it has not been disruptive to the overall development of higher education because the UAE is seen as a progressive and forward looking country. It hasn't stopped progress 'which is evident from the fact that there are institutions from over a dozen countries and students from over a hundred countries studying in Dubai, where they are able to express their views and research on issues that are important to them' (GOVT 5).
 
@@ -1963,7 +1457,7 @@ This was brought up in the government stakeholder group, as it is something they
 
 There have been various challenges around quality assurance over the last 12 years as the Dubai higher education model has developed. In the early days, the lack of any quality assurance was a significant challenge. 'It discouraged some universities from coming to Dubai' (GOVT 1). The free zone authority was responsible for the recruitment of campuses, however they were not a regulator and were 'really a provider of facilities and issuers of commercial licenses' and therefore institutions were selected largely on commercial licensing requirements rather than academic requirements. 'While universities had the primary responsibility for quality, many of them were establishing a branch for the first time, so they were also in a process of learning and experimentation'
 
-<!-- page 120 -->
+<!-- page 121 -->
 
 (GOVT 1). There is a clear realization now that quality assurance is really important for the reputation of Dubai and perhaps should have been implemented from the beginning, 'If the government would have created KHDA or something like it much earlier it would have been better for Dubai' (GOVT 5).
 
@@ -1973,7 +1467,7 @@ Once KHDA was established and the quality assurance systems were developed, Duba
 
 UQAIB as a quality assurance body has also had various challenges in working with institutions that don't have any transnational quality assurance either internally or externally. One such example has been around the moderation expectation, where institutions are required to compare student performance and retention between the branch and the home campus. For many institutions moderation was a new concept and so UQAIB had to work with institutions and educate them on the process and requirements of moderation. There are other areas as well within the current UQAIB process that have proved challenging to implement. In order to address such difficult issues 'good practice guides are being develop to assist institutions on how to approach
 
-<!-- page 121 -->
+<!-- page 122 -->
 
 moderation or external review without imposing a single approach for all' (UQAIB selfstudy, 2017).
 
@@ -1987,7 +1481,7 @@ One of the motivations to set up the free zone model was to get access to a broa
 
 There was an economic consideration to this challenge from the perspective of the free zones. The free zones were interested in leasing space and recruiting universities to Dubai. It was difficult for the free zones to tell institutions what programmes they should offer, as there were certain programmes in management and information technology that
 
-<!-- page 122 -->
+<!-- page 123 -->
 
 were considered as 'cash cow' programmes and brought in the revenue for institutions. Also, if institutions were asked to focus only on niche programmes 'they would end up with low student enrollments and hence the programmes would not be financially viable' (GOVT 2).
 
@@ -1997,9 +1491,9 @@ With the implementation of a regulatory framework, the regulator is able to work
 
 My own view around programme diversification is that market demand plays an important role in what institutions offer. The government has a role to encourage institutions to bring new programmes that meet the strategic priorities of the country, however, in order for the programmes to be suitable both from an academic and financial perspective, there needs to be sufficient demand. In order to achieve this, providers need to help create market awareness among students and work closely with employers in closing the gap.
 
-<!-- page 123 -->
+<!-- page 124 -->
 
-## 5.3.2 Economic Challenges:
+### 5.3.2 Economic Challenges:
 
 ## *Funding*
 
@@ -2007,7 +1501,7 @@ Dubai adopted a different approach to various other places by investing in infra
 
 A few issues did come up in other areas that have economic implications and are related to funding of higher education. These include the lack of funding available for research, which limits the development of academic research, the lack of direct investment in recruiting institutions which, made it difficult to attract high quality institutions and the private investment model which, has a greater emphasis on return on investment rather than serving government objectives (GOVT 1; GOVT 2).
 
-## 5.3.3 Political and Regulatory Challenges:
+### 5.3.3 Political and Regulatory Challenges:
 
 ## *Dual System *
 
@@ -2017,7 +1511,7 @@ Even though the free zone model was created to complement the federal system, th
 
 free zones and this created confusion in the market (GOVT 5).
 
-<!-- page 124 -->
+<!-- page 125 -->
 
 regulations between the federal and state level' (GOVT 1). It was also confusing for new universities that were interested in setting up in Dubai, to understand the different systems and decide which one was a better fit for them (GOVT 1).
 
@@ -2031,19 +1525,19 @@ One of the major constraints remaining to date is the lack of recognition of qua
 
 This lack of attestation has created various issues. Graduates from free zones universities face the possibility of their degrees not being recognized by federal authorities and cannot seek employment in public sector organizations outside of Dubai. They are sometimes also prevented from pursuing further education at an institution that has local accreditation (GOVT 6). It has also 'resulted in continuous public suspicion of the attractiveness of a qualification from free zone institutions (UQAIB self-study, 2017).
 
-<!-- page 125 -->
+<!-- page 126 -->
 
 The recognition issue also has an impact on international student recruitment as some countries use the federal Ministry's list of approved higher education institutions in the UAE to determine acceptance and validity of foreign institutions and therefore, the branch campuses in Dubai's free zones may not be listed (GOVT 5). Dubai passed its own legislation to approve all degrees from the free zones in 2011. However, this is limited to the emirate of Dubai and does not extend federally. So a major challenge has been to communicate and educate the public about the acceptance and recognition of awards as they are the same degrees that are offered in the home country of the institution and are recognized internationally (GOVT 7).
 
 Although a significant challenge the lack of recognition has not impacted the growth of higher education in Dubai's free zones especially since the local Dubai legislation approving degrees in the Emirate was passed in 2011. In fact, the statistics show the free zones have been growing at a faster rate than local institutions outside the free zones (GOVT 1).
 
-## 5.3.4 Social Challenges:
+### 5.3.4 Social Challenges:
 
 ## *Student Experience*
 
 In order to be a successful hub one of the important requirements is to cater for student life and provide appropriate facilities (GOVT 5). This has been a challenge as some infrastructure has not been fully developed, including housing and transportation (GOVT 1). There is also the need to create opportunities for students to work, so they can gain experience and cover their tuition costs (GOVT 5). Some campuses have addressed this by building their own facilities and by offering career support and internship opportunities. However, these facilities are not yet fully developed. There is also a question as to who should be responsible for the development of such infrastructure, the government or the private sector (GOVT 7). If Dubai wishes to be a successful education hub there is a need for it to be more student centered.
 
-<!-- page 126 -->
+<!-- page 127 -->
 
 The government has taken some initiatives to improve access to the free zones. This has been done through better public transport arrangements such as the local metro services, which now serve Knowledge Village. There have also been recent changes in the visa regulations, which allow students part time employment and other regulations that offer longer-term visas for students. The free zones which, host all of the branch campuses also need to play a role in improving recreational and housing facilities for students.
 
@@ -2051,7 +1545,7 @@ The government has taken some initiatives to improve access to the free zones. T
 
 Dubai also had to deal with negative perceptions internationally in relation to the free zone model for higher education and the concept of branch campuses. 'There were a lot of doubts about the sustainability of the model in the early days' (GOVT 1). There were also concerns among students and parents about branch campuses. 'They had questions like, will our degrees get recognized worldwide, or will we be able to get jobs?' (GOVT 2). Some of these negative perceptions have been addressed through the success in institutional numbers and student growth, however there continues to remain some doubt about the quality of branch campuses in general.
 
-## 5.3.5 Other Challenges:
+### 5.3.5 Other Challenges:
 
 ## *Diversity of Systems *
 
@@ -2059,7 +1553,7 @@ Hosting institutions from over ten different countries and systems creates a uni
 
 There is also a challenge in dealing with institutions or programmes where there are limited or no quality assurance systems and processes in the home country. Such scenarios are a big challenge for the UQAIB process 'because there is nothing concrete to
 
-<!-- page 127 -->
+<!-- page 128 -->
 
 which to compare the branch programme' (UQAIB External Review, 2017). UQAIB has had to create the provision for branch and programme audits to deal with legacy issues where there is little or no quality assurance in the home system (UQAIB External Review, 2017). This has been a unique challenge for Dubai in both the school sector and the higher education sector and has required the systems and processes to be flexible in order to accommodate institutions from so many different systems.
 
@@ -2073,19 +1567,19 @@ One of the early objectives of the free zone concept, which resulted in campuses
 
 There is increasing pressure internationally for quality assurance agencies to make processes and information on results easily available to the public. There is not sufficient information released to the public on Dubai free zone universities. This has been a
 
-<!-- page 128 -->
+<!-- page 129 -->
 
 challenge due to a number of reasons. One of these challenges is around the nature of UQAIB as an advisory body to the regulator due to which it does not have the authority to make public decisions. Another concern in regards to release of information such as the length of quality assurance approval could be seen as 'an implicit ranking of quality' and may be misleading to the public (UQAIB External Review, 2017).
 
 The regulator has done a better job in the schooling sector with public reporting and transparency as compared to higher education. The reason for this is that the school review system is an inspection model with standards each school is required to meet. So schools can be assessed against these standards and results are published accordingly. In higher education, a validation model is used, whereby institutions either fulfill expectations or not and therefore, detailed reports are not available. At the time of carrying out this study, the regulator was considering a new mechanism to have more information available publically on higher education provision in the free zones.
 
-## 5.3.6 Summary:
+### 5.3.6 Summary:
 
 They key challenges reported by government officials were academic and political or regulatory challenges. There were some social factors, including the need to improve student facilities and also public availability of highlighted reports. However, the important challenges tend to be around academic and regulatory issues.
 
 Some of these academic challenges such as attracting quality campuses, localization of programme content and recruiting faculty members were early challenges faced at the time when the free zone concept first emerged. There are other challenges such as programme diversity, quality assurance and research which are continuing issues. Maintaining quality for a diverse range of providers, some without any previous experience of accreditation and quality assurance, remains a problem. Programme diversity is a continuing dilemma between the economic viability of an institution and the future needs of the local economy and while some progress has been made, it remains a
 
-<!-- page 129 -->
+<!-- page 130 -->
 
 challenge for the government to encourage institutions to offer a diverse range of programmes.
 
@@ -2095,22 +1589,11 @@ The political and regulatory challenges, especially due to the existence of two 
 
 The fifth research question of the study is 'what are some of the benefits that been realized over the last decade for the host country and for the incoming providers?' In order to address this particular research question, respondents were asked questions about the various academic, economic, social and political benefits and achievements for Dubai as a host country. A summary of findings are presented in the table below:
 
-| Benefits – Stakeholder Group A |   |   |   |   |
-| --- | --- | --- | --- | --- |
-| Academic Benefits | Economic | Political/ | Social Benefits | Other |
-|   | Benefits | Regulatory |   | Benefits |
-|   |   | Benefits |   |   |
-| 1. Reputation as a | 1. Contribution | 1. Well Developed | 1. Graduates for the | N/A |
-| Quality Education Hub | to the Economy | Regulatory Process | Economy |   |
-| 2. Quality Assurance |   |   | 2. Cultural Exchange |   |
-
-> Table 5.3 – Summary of Benefits for Stakeholder Group A – Government Planners
-
-## 5.4.1 Academic Benefits/Achievements:
+### 5.4.1 Academic Benefits/Achievements:
 
 ## *Reputation as an Education Hub *
 
-<!-- page 130 -->
+<!-- page 131 -->
 
 Despite the various initial challenges with negative perceptions in the international community, Dubai has built a strong reputation as an education hub in the region over the last decade. Dubai has developed as a city in various sectors and higher education has been one area where there has been a lot of progress (GOVT 2).
 
@@ -2122,7 +1605,7 @@ The growing reputation of Dubai as an education hub is helping attract better qu
 
 Dubai has been able to quickly establish itself as an attractive market for higher education and has now become more selective in approving new institutions. This has been achieved through new gate-keeping requirements and through robust systems for regulation and quality assurance. Institutions that are coming to Dubai want to be around
 
-<!-- page 131 -->
+<!-- page 132 -->
 
 other high quality institutions and would not risk their own reputation by entering a market that has questionable providers.
 
@@ -2134,13 +1617,13 @@ Over the years the model has been enhanced in many ways based on experiences in 
 
 UQAIB's international engagements and partnerships with other agencies such as in the UK and Australia has acted as additional validation for the Dubai quality assurance model. 'Dubai has been able to take a leading effort in the establishment of QBBG' to bring together the major sending and receiving countries of campuses so they can collaborate, share information and work together for the improvement of quality
 
-<!-- page 132 -->
+<!-- page 133 -->
 
 assurance and the mobility of students (GOVT 4). 'The joint reviews conducted with the Quality Assurance Agency (QAA) for all British institutions in Dubai and having those reports published demonstrated that the system actually works and gave extra confidence to institutions and students' (GOVT 1).
 
 Another indicator of success has been the sustainability of the model which 'is reflected in the fact that the UQAIB is on its third board and has operated successfully for eight years' (UQAIB External Review, 2017). The model is also widely accepted internationally and is well documented in 'the international scholarly literature on quality assurance' (UQAIB External Review, 2017).
 
-## 5.4.2 Economic Benefits/Achievements:
+### 5.4.2 Economic Benefits/Achievements:
 
 ## *Contribution to the Economy *
 
@@ -2150,9 +1633,9 @@ Dubai has been able to attract 'a sizable number of international institutions o
 
 Another area where contributions have been made are in the diversification of programmes. Although there are still challenges with programme diversity, there has been a lot of progress with more institutions offering niche programmes that directly serve areas of strategic importance to the Dubai government (GOVT 7).
 
-<!-- page 133 -->
+<!-- page 134 -->
 
-## 5.4.3 Political and Regulatory Benefits/Achievements:
+### 5.4.3 Political and Regulatory Benefits/Achievements:
 
 ## *Well Developed Regulatory Process*
 
@@ -2164,11 +1647,11 @@ There are various areas where the regulatory systems have improved. One of these
 
 An important milestone was the establishment of Executive Council Resolution 21 (2011) as it legitimized the model and also the acceptance of degrees from the free zone institutions (GOVT 1). The government has also introduced new student visa schemes which allow students to work part time while they study in Dubai. This is seen as another initiative to help grow the sector as most international students are keen to gain some experience while they study and also supplement their educational costs (GOVT 7).
 
-<!-- page 134 -->
+<!-- page 135 -->
 
 In the early stages of development, the regulatory body would often look at its counterparts in Asia, such as Singapore and Hong Kong, as a model to develop its own processes and systems. However, Dubai has rapidly arrived at a level where its own processes and systems are considered of a very high standard and Dubai is now able to share its own experiences and methods internationally.
 
-## 5.4.4 Social Benefits/Achievements:
+### 5.4.4 Social Benefits/Achievements:
 
 ## *Graduates to the Economy *
 
@@ -2178,9 +1661,9 @@ The number of graduates that are coming out of the higher education system has i
 
 One of the benefits of Dubai's diverse model in higher education is the opportunities institutions have had to engage with the local community and culture. 'Universities would not have had the chance to learn about the region, the culture, the environment'. The universities and their students act as ambassadors for Dubai and the UAE. Dubai has institutions from twelve countries and students from over a hundred countries and this creates goodwill for Dubai. There are also the academic staff and researchers who come and go and add value through their experiences in their teaching and research activities (GOVT 1).
 
-<!-- page 135 -->
+<!-- page 136 -->
 
-## 5.4.5 Summary
+### 5.4.5 Summary
 
 The benefits attained from a transnational higher education model in Dubai were seen in all four areas. There were clear academic benefits with Dubai gaining reputation as an education hub that hosts high quality institutions. A lot of progress has also been made on the regulatory side, with established requirements for new entrants and a robust quality assurance system that has evolved and developed over time. There have also been important economic contributions with the growth of the sector and increasing number of institutions and international students and social contributions through increased number of graduates going into the workforce and contributing to the Dubai economy.
 
@@ -2190,13 +1673,13 @@ The current literature on benefits from TNE models and branch campuses tends to 
 
 One of the questions that was put forward to participants during the semi-structured interviews was about the future outlook of Dubai as an education sector. Respondents were asked to share their thoughts on anticipated issues and areas for improvement. The key findings from the responses were as follows:
 
-## 5.5.1 Expansion of the Sector
+### 5.5.1 Expansion of the Sector
 
 The Dubai higher education sector has reached a particular size so the next challenge is to find ways to grow the sector further. There are various aspects to this challenge around institutional growth, student numbers, and new regulatory models.
 
 In terms of institutional growth, the key question is 'how many institutions do you allow in and what rules you put in place to ensure that universities that come in are able to contribute, succeed and sustain themselves? (GOVT 1). 'It will be important to determine the types of institutions and programmes that Dubai needs' (GOVT 4). It is also important to consider the competitive conditions of the market, for example, Dubai
 
-<!-- page 136 -->
+<!-- page 137 -->
 
 already has several British institutions, and 'so is there room to add another one without creating a disadvantage for the current UK providers'? (GOVT 2). With the EXPO 2020 on the horizon, it is expected that there will be more interest from institutions to come and set up in Dubai (GOVT 4).
 
@@ -2206,25 +1689,25 @@ Another important question is how do you shape the regulatory systems for the ne
 
 It is also very important to resolve the issues between the federal system and the state system, 'are we going to achieve the mutual recognition of qualifications?' as this has been lingering for many years now (GOVT 1).
 
-## 5.5.2 Research and Collaboration
+### 5.5.2 Research and Collaboration
 
 An important area needing to be addressed is research in higher education. There is a need in Dubai to build a stronger research culture and environment within the higher education sector. With institutions that are relatively young and PhD programmes that have only recently started along with the challenge of research funding, this is perhaps one of the biggest challenges for the near future (GOVT 5).
 
 Although there has been some collaboration recently between the campuses through the establishment of the Research Steering Committee (RSC), there is a need for greater
 
-<!-- page 137 -->
+<!-- page 138 -->
 
 collaboration. 'As a government agency, we need to play the role of a facilitator and create forums where issues are discussed' to encourage greater collaboration' (GOVT 7).
 
 Apart from institutional collaboration, there is also a need for collaboration between universities and industry which is common in more established systems. 'There are some very wealthy corporations in the UAE in hospitality, energy, logistics, finance', however, 'the culture you see in other parts of the world where industry and academia collaborate does not exist in Dubai at the moment' (GOVT 5). It could be a great source of investment especially since most of the free zone universities are private and have limited access to resources from the home campuses (GOVT 5). There is also potential for private universities in the free zones to collaborate with the federal universities which have access to resources and funding (GOVT 5). With the EXPO 2020 on the horizon and its theme 'connecting minds and creating the future', there is an opportunity for institutions to build their research capacity and create new partnerships (GOVT 5).
 
-## 5.5.3 Student Needs
+### 5.5.3 Student Needs
 
 An area that needs to be worked on and improved is the student experience. 'Dubai needs to think better about how to attract students from the region and the world to come and study' (GOVT 5). There needs to be further work done to improve student facilities such as housing, entertainment, transport and financial aid. 'For the student it is much more than the academic degree' (GOVT 5).
 
 To be a successful hub, the right infrastructure is required which, supports student lifestyles and gives them appropriate access to services, accommodation, sports, etc., and this is more of a challenge compared to attracting quality institutions (GOVT 4). This is especially important to attract more international students (GOVT 6).
 
-<!-- page 138 -->
+<!-- page 139 -->
 
 ## 6. Chapter 6: Findings – Higher Education Providers
 
@@ -2236,7 +1719,7 @@ Eight institutions were selected based on various characteristics identified in 
 
 For anonymity, the names of the respondents and institutions will not be disclosed. The institutions will be referred to as institution 'INST A', ' INST B', 'INST C', ' INST D', '
 
-<!-- page 139 -->
+<!-- page 140 -->
 
 INST E', 'INST F', 'INST G' and 'INST H'. For those institutions where two interviews were conducted, the findings including any direct quotations from a respondent will be noted as either 'R1' (respondent 1) or 'R2' (respondent 2) from that particular institution. Example, 'INST A, R1'.
 
@@ -2244,28 +1727,7 @@ INST E', 'INST F', 'INST G' and 'INST H'. For those institutions where two inter
 
 The third research question of the study is 'What were the main factors that attracted a large number of international providers to set up in Dubai?' In order to address this particular research question, respondents were asked questions about the motivations and rationales that led their institutions to set up a campus in Dubai. The responses were organized based on common themes identified as either academic, social, economic, political or other. A summary of findings are presented in the table below:
 
-|   | Motivations – Stakeholder Group B |   |   |   |
-| --- | --- | --- | --- | --- |
-| Academic | Economic | Political/ | Social | Other |
-| Motivations | Motivations | Regulatory | Motivations | Motivations |
-|   |   | Motivations |   |   |
-| 1.Internationalization | 1. Emphasis on | 1. Free zones and | 1. Global Citizens | 1.Attractiveness |
-| Strategy of the Parent | Sustainability | Ease of Doing |   | of Dubai and |
-| Institution |   | Business |   | Geographical |
-|   |   |   |   | Location |
-| 2. Academic Control | 2. Student | 2. Regulatory | 2. Cultural Impact | 2. Opportunity |
-|   | Enrollment and | Conditions |   |   |
-|   | Access |   |   |   |
-| 3.Internationalization | 3. Ready | 3. Safety and | 3. Meeting Local |   |
-| of Curriculum | Infrastructure and | Security | Needs |   |
-|   | Low Capital |   |   |   |
-|   | Investment |   |   |   |
-| 4. Student and | 4. Investor Model |   |   |   |
-| Faculty Mobility |   |   |   |   |
-
-> Table 6.1 – Summary of Motivations for Stakeholder Group B – International Providers
-
-<!-- page 140 -->
+<!-- page 141 -->
 
 ## 6. 1. 1 Academic Factors:
 
@@ -2279,7 +1741,7 @@ INST H discussed the need to reach out to other parts of the world through teach
 
 For INST G, internationalization is completely embedded within the university strategy and is core to nature of the university and that this was achieved through a range of collaborative partnerships, lots of international students on campus and a significant transnational education provision. Various internationalization efforts have resulted in a more formal strategy and ambition to 'provide a truly global education' (INST G, R1; INST G Strategic Plan, 2013). INST G also aims to take advantage of its international campuses and worldwide learning partnerships to extend research opportunities (INST G, Strategic Plan, 2013).
 
-<!-- page 141 -->
+<!-- page 142 -->
 
 INST A which, has a range of international partners and also has campuses in Dubai, Mauritius and Malta (INST A, Strategic Plan, 2017) discussed the opening of the Dubai campus as a natural progression for the institution as they were already attracting a large number of students internationally. They also mentioned their aim to have a greater international presence was one of the factors that led to the establishment of the campus in Dubai (INST 1, R1).
 
@@ -2291,7 +1753,7 @@ It was clear from the interviews that the internationalization objectives of the
 
 Another factor that came up was the ability to have greater academic control through branch campuses including control of the student experience in the internationalization process as compared to other partnership arrangements, such as franchises or collaborative programmes. For institutions already engaging in partnerships and collaborations, the idea of a branch campus, meant greater control over the academic
 
-<!-- page 142 -->
+<!-- page 143 -->
 
 provision and student experiences and was thus an attractive factor of the branch campus concept (INST G, R2). The student experience is a high priority for INST A and is listed as one of three strategic priorities in their strategic plan, to 'create a vibrant student experience that promotes wellbeing and builds a sense of belonging and commitment' (INST, Strategic Plan, 2017).
 
@@ -2303,7 +1765,7 @@ Many institutions were already engaging in other forms of transnational educatio
 
 The opportunity to use an international campus to help with internationalization of curriculum was also discussed. According to respondent 1 of INST A, having an international campus also helps in curriculum development or internationalization of curriculum as it creates the opportunity for faculty members at overseas campuses to make curriculum changes based on their international experiences. One example provided by respondent 1 of INST A was in relation to a Master's programme in International Tourism whereby the faculty members from Dubai were able to suggest modifications to the curriculum and assessment methods of the programme based on lessons from the Dubai tourism sector as they felt that those were 'current and relevant'.
 
-<!-- page 143 -->
+<!-- page 144 -->
 
 Respondent 2, from the same institution also confirmed that internationalization of programmes was a significant motivation to set up the Dubai campus (INST A, R2).
 
@@ -2317,7 +1779,7 @@ Having multiple campuses also allows for student movement and other research and
 
 INST C believes that having multiple campuses both domestically and internationally 'will encourage student movement and expand learning opportunities by spending time on different campuses by learning about the culture and local environment' (INST C, R2). Rotation between campuses allows students to interact with their peers at the home institution, but also gives them access to state of the art facilities and laboratories and encourages collaboration between the campuses (INST D, R1).
 
-<!-- page 144 -->
+<!-- page 145 -->
 
 Another opportunity that a branch campus presents is the ability to attract international faculty, especially in a place like Dubai that is home to so many nationalities. INST A, uses a model where all faculty are locally based rather than flying in faculty from the home institution. They do, however, create the opportunities for these locally based faculty to engage with faculty at the home campus and vice-versa (INST A, R2).
 
@@ -2325,7 +1787,7 @@ One institution (INST G) indicated that although mobility is important, 'it wasn
 
 There is increasing growth in student mobility, both in terms of international students coming to Dubai for the purpose of higher education and also movement of students between campuses of an institution. Many institutions now have multiple campuses and due to the comparability of programmes, admissions standards, teaching and learning processes, the transferability of students between campus locations is a growing phenomenon. The ability to rotate between campuses is giving both students and faculty the opportunity to engage with new cultures, business environments and is resulting in a global learning experience.
 
-## 6.1.2 Economic Factors:
+### 6.1.2 Economic Factors:
 
 ## *Emphasis on Economic Sustainability*
 
@@ -2333,7 +1795,7 @@ In discussing the key economic factors for setting up a campus in Dubai, financi
 
 INST B, reinforces the idea that the Dubai campus was not established to generate revenue for the home campus but rather the focus has been on making the Dubai campus
 
-<!-- page 145 -->
+<!-- page 146 -->
 
 self-sustainable (INST B). INST G which operates as a charity in the home country is not required to be profit making. However, they do use a business-like approach, that is not driven by financial objectives but rather to create and sustain a high quality academic offering (INST G). 'Having a business-like approach, growing student numbers and increasing revenue, allow institutions to invest in providing higher quality central services to students' (INST G, R2).
 
@@ -2343,7 +1805,7 @@ The branch campus model also plays a role in economic risk management. Responden
 
 While economic sustainability is clearly important for all institutions, it is also important that the branch campus does not become a loss-making venture for the parent institution (INST H). It was very clear through the interview process that the emphasis was not on revenue generation or profits for the parent institution, but rather on creating a model that would be sustainable in the long run.
 
-<!-- page 146 -->
+<!-- page 147 -->
 
 ## *Student Enrollment and Access *
 
@@ -2355,7 +1817,7 @@ However for other campuses, a Dubai campus, presented the opportunity to attract
 
 Various factors were discussed in relation to student recruitment, the first being the presence of a large expatriate population with limited higher education opportunities in Dubai and the country; and the second was an established private school system. According to INST A, 'there was a market which could be tapped as at the time there was only one Australian university which was prominent and a couple of Indian universities and so there was a huge gap for a UK higher education provider'. The opportunity for a
 
-<!-- page 147 -->
+<!-- page 148 -->
 
 UK institution was also made more attractive due to the large number of UK curriculum schools already present in Dubai and a strong affinity between Arab and Indian students towards British education systems (INST G, R1).
 
@@ -2369,7 +1831,7 @@ There were several views in relation to increasing access. For some providers, s
 
 Dubai's investment in infrastructure through the development of free zones was cited as one of the most important reasons that attracted international providers. The opportunity to lease facilities rather than having to build or invest capital in infrastructure was seen as a very attractive feature of Dubai.
 
-<!-- page 148 -->
+<!-- page 149 -->
 
 This allowed institutions, many of which operate in the public domain in the home country, to use the free zones as incubators, to test the market before expanding operations (INST C, R2). It was also important that incoming institutions could 'see and feel' all of the ready infrastructure as this created additional confidence at the parent institution to take the risk of establishing in Dubai, which was an emerging market at the time (INST A, R2).
 
@@ -2379,7 +1841,7 @@ INST G, another prominent UK provider, emphasized that without the availability 
 
 This was an important factor for campuses to establish to Dubai. The availability of ready facilities not only removed the capital requirement, but also gave institutions confidence about the opportunities for higher education in Dubai. Without the free zones the higher education sector would not have developed as rapidly as it has. It would have been difficult to attract foreign campuses, as the capital investment required would be much higher.
 
-<!-- page 149 -->
+<!-- page 150 -->
 
 ## *Investor Model *
 
@@ -2391,9 +1853,9 @@ Some institutions attributed the very existence of the Dubai campus to approache
 
 The investors played a really important role, especially in the early stages of development of the higher education sector in Dubai. The local investor was able to take care of the operational issues on the ground and also absorb the financial risk involved, which allowed the educational partner to focus on academic matters. Over time, several institutions have bought out their investors to get more control of their operations. Some institutions continue to have investors, but with limited responsibilities.
 
-<!-- page 150 -->
+<!-- page 151 -->
 
-## 6.1.3 Political/Regulatory Factors
+### 6.1.3 Political/Regulatory Factors
 
 ## *Free zones and Ease of Doing Business *
 
@@ -2405,7 +1867,7 @@ For INST E, which was looking at various options such as Malaysia, South Africa 
 
 Dubai was competing with other developing Asian countries to attract providers and the ease of doing business was an important factor. The time needed to get regulatory approvals in Dubai was much quicker than in other jurisdictions. This accompanied by the ease of investment and repatriation of funds, and ready availability of space in the free zones made it an attractive destination to consider.
 
-<!-- page 151 -->
+<!-- page 152 -->
 
 ## *Regulatory Conditions*
 
@@ -2417,7 +1879,7 @@ The role played by the academic regulator was also discussed as a key selling po
 
 The emphasis on promoting high quality was also considered a motivating factor for new institutions. The regulator in Dubai 'plays an absolutely crucial role in maintaining standards, maintaining quality and in attracting high-level institutions' (INST H). INST G recalled the early visits of the UQAIB and noted that the Dubai regulator is 'leading the way in terms of what a modern progressive framework for the quality assurance of international higher education' should be. The process of quality assurance in Dubai compliments the home country quality assurance and accreditation reduces the burden on institutions and the need to seek re-accreditation. This allows the campus to make rapid progression and add new programmes based on market needs rather than accreditation cycles (INST C, R2).
 
-<!-- page 152 -->
+<!-- page 153 -->
 
 The provider groups also brought up the importance of the regulatory environment and the quality assurance systems. A common frustration for many providers that work in other jurisdictions has to deal with multiple regulatory and quality assurance requirements. Dubai developed a system that was complimentary to the home quality assurance system and this avoided duplication of efforts. Respondents found the Dubai model robust and felt that it was also a lighter touch compared to requirements in other jurisdictions.
 
@@ -2425,13 +1887,13 @@ The provider groups also brought up the importance of the regulatory environment
 
 Another important consideration is safety and security. The UAE is considered a very safe country and Dubai a very safe city and this is important especially given other political situations in the region. 'Dubai offers a safe and stable environment in a generally turbulent region' (INST H). Safety and security are important for faculty and staff as well as to attract students who come from all over the world (INST G, R2). Despite being located in region in the world that is often associated with conflict and political unrest, the UAE has established itself as a safe country with an excellent track record for safety and security. This was important for providers as it ensured longevity of their plans.
 
-## 6.1.4 Social Factors:
+### 6.1.4 Social Factors:
 
 ## *Global Citizens:*
 
 The need for a global approach to preparing graduates with the right skills to be global citizens was also discussed. INST E, which follows a global campus approach with campuses in multiple locations, talked about the need for higher education to be global, just as businesses are global and the need for institutions to produce graduates with global intelligence. 'This is achieved by ensuring students are exposed to local, cultural, business, political and economic environment of the country that they spend time in as part of their education process' (INST E). Internationalization of curriculum, which is one of the benefits of having a branch campus also helps in preparing graduates for a global work force (INST A).
 
-<!-- page 153 -->
+<!-- page 154 -->
 
 INST E was also keen to ensure that students have a global learning experience both inside and outside the classroom environment. This is achieved through 'cultural emersion' of students as they rotate between campuses through cultural visits, use of guest lecturers and locally themed projects and group work. Such efforts help prepare students to be global citizens (INST E).
 
@@ -2449,7 +1911,7 @@ Many providers were setting up their first campus abroad and so there were vario
 
 Making a contribution to the host country's objectives and meeting local needs is another motivation among many campuses. Having a set of programmes that are relevant to the
 
-<!-- page 154 -->
+<!-- page 155 -->
 
 local and regional market to create meaningful career opportunities for students is vital. Respondent 1 from INST C discussed the importance of carrying out research to identify the programmes already being offered and identifying gaps based on what the national priorities and strategies including the Dubai Strategic Plan and the UAE Vision objectives. This led them to introduce programmes that are not offered by immediate competitors, but that also serve the objectives of the country. 'Having a set of programmes that are aligned to Dubai's strategic objectives also makes good business sense' (INST C). INST A, tries to align their academic offering with the four pillars of Dubai including retail, finance, logistics and tourism, as they consider it important part of their mission to serve the needs of the host country (INST A, R1).
 
@@ -2459,13 +1921,13 @@ Another significant contribution to local society is through producing graduates
 
 Other ways of contributing to local community are by supporting government initiatives and through student volunteering. Students from INST A are active participants in various United Nations efforts in Dubai and also to other entities such as the Emirates Environmental Group. Students have been encouraged to support important causes such as breast cancer awareness or diabetes awareness and increase interaction with
 
-<!-- page 155 -->
+<!-- page 156 -->
 
 community through a special student charity club (INST A, R1). Similarly INST C has also tied up with the local AlJalila Foundation to make an active contribution to society (INST C, R2).
 
 Although this has been expressed as a motivation, it has taken time for institutions to have a direct impact on local community and to meet Dubai's strategic priorities. Initially institutions had to focus on programmes that had high market demand and were not able to offer a diverse range of programmes. However, over time institutions have been able to diversify and contribute towards Dubai's needs. Even partnerships, volunteering efforts and collaboration with industry have taken time to materialize, as institutions have had to build networks and connections in the local market.
 
-## 6.1.5 Other Factors:
+### 6.1.5 Other Factors:
 
 ## *Attractiveness of Dubai and Geographical Location*
 
@@ -2475,7 +1937,7 @@ A few respondents mentioned Dubai's geographical positioning and its connectivit
 
 INST D decided to have a Dubai campus and target Indian expatriates in all the Arab countries. It enables an institution to attract students from regional Arab countries such as Oman and Saudi Arabia as well as from the African market including Nigeria and South
 
-<!-- page 156 -->
+<!-- page 157 -->
 
 Africa (INST D, R1). For INST D, one of their strategic priorities for the branch campus is 'to attract more foreign students to give the campus a more international feel' (INST D, Strategic Plan, 2018). INST H also talked about the diversity of the population in the UAE and that this made it easier for an international provider to operate in the country.
 
@@ -2487,9 +1949,9 @@ The identification of an opportunity in an emerging higher education market was 
 
 For some institutions, the opportunity to address a gap in the market and the role played by private investors played in helping them do so, were quite important. Dubai was relatively unknown and there was a high level of risk associated with setting up a branch campus. Many providers would not have come to Dubai if they weren't presented with these opportunities, according to the respondents.
 
-<!-- page 157 -->
+<!-- page 158 -->
 
-## 6.1.6 Summary:
+### 6.1.6 Summary:
 
 As seen in the section above there are some important academic motivations which prompted many of the institutions included in the sample to set up campuses in Dubai. Some institutions were already engaged in various forms of international partnerships and collaborations and a having a branch was a natural progression while for a few others were driven by mission and vision to have a global presence with campuses in many cities internationally. For both sets of institutions having more control over academic aspects as well as the student experience was also highlighted as an important factor. An international campus also helps with curriculum development and mobility of students and staff.
 
@@ -2499,37 +1961,17 @@ The most important factors however were the opportunity that was created by Duba
 
 Institutions were also interested in the various social opportunities, to promote their programmes in a new country, engage with community and contribute towards global development by producing skilled graduates were also considered important reasons for setting up a campus in Dubai.
 
-<!-- page 158 -->
+<!-- page 159 -->
 
 ## **6.2** **Challenges faced by International Higher Education Providers in Dubai:**
 
 The fourth research question of the study is 'What are the main challenges associated with this model for higher education providers?' In order to address this particular research question, respondents were asked questions about the various academic, economic, social and political challenges they faced in establishing and running an international campus in Dubai. A summary of findings are presented in the table below:
 
-|   | Challenges – Stakeholder Group B |   |   |   |
-| --- | --- | --- | --- | --- |
-| Academic | Economic | Political/ | Social | Other |
-| Challenges | Challenges | Regulatory | Challenges | Challenges |
-|   |   | Challenges |   |   |
-| 1. Recruitment of | 1. Competition | 1. Recognition of | 1. Adapting to local | 1. Market |
-| Faculty |   | Qualifications | culture and | Perceptions |
-|   |   |   | traditions |   |
-| 2. Localization of | 2. Funding | 2. Regulatory and | 2. Student | 2. Relationship |
-| Curriculum |   | Quality Assurance | Experience | with the Home |
-|   |   | Requirements |   | Institution |
-| 3. Research Activity |   | 3. Visas for |   | 3. Employment |
-|   |   | students |   | Opportunities for |
-|   |   |   |   | Graduates |
-| 4. Admission |   | 4. Regional and |   |   |
-| Criteria |   | International |   |   |
-|   |   | Issues |   |   |
-
-> Table 6.2 – Summary of Challenges for Stakeholder Group B – International Providers 6.2.1 Academic Challenges:
-
 ## *Recruitment* *of Faculty *
 
 Recruitment of qualified faculty to teach in Dubai was brought up by various institutions as a significant challenge. The recruitment of staff was especially difficult in the early days when the higher education sector in Dubai was just starting to develop and people were not aware of the branch campuses in the local and regional markets. Most providers started with a fly-in-fly out faculty model and gradually moved towards recruiting faculty
 
-<!-- page 159 -->
+<!-- page 160 -->
 
 to be based in the Dubai campus. However, some post-graduate institutions continue to maintain the fly-in-fly-out model where all faculty members come from the home institution and teach in a block mode in Dubai.
 
@@ -2541,7 +1983,7 @@ INST H, which has always used the fly-in-fly-out model, mentioned that it was a 
 
 The major challenges for recruiting faculty internationally and locally were attributed to three main reasons, economic factors, research activity and high turnover. Two respondents brought up the economic challenges for recruiting high quality faculty. INST H discussed the high costs of relocating faculty from the UK or other countries as being a
 
-<!-- page 160 -->
+<!-- page 161 -->
 
 challenge while respondent 1 from INST A talked about the differences in benefits and packages as not being attractive enough to motivate faculty to relocate to Dubai. INST D who have a goal of rotating 10% of their home faculty to their overseas campuses every year, discussed the economic and social difficulties of relocating faculty members with families due to higher costs of schooling education in Dubai (INST D, Strategic Plan, 2017).
 
@@ -2551,7 +1993,7 @@ One of the reasons for this is the high teaching loads in the Dubai market compa
 
 Finally, high turnover of teaching staff was another challenge that was cited. INST A, provided one example whereby 18 teaching and academic support staff were recruited from a competitor located in the same free zone at one time (INST A, R1). INST F also discussed the difficulties faced due to faculty members frequently changing employers and expressed that this caused inconsistencies for students in the learning process as faculty members would change from one semester to another. This was mainly attributed
 
-<!-- page 161 -->
+<!-- page 162 -->
 
 to short-term contracts that can be awarded to faculty members due to visa regulations in the country.
 
@@ -2565,7 +2007,7 @@ The ability to contextualize or localize curriculum to meet local market needs c
 
 INST A provided examples whereby there was a need to change the type of assessment in an MBA programme as the assessment from the home campus would not be relevant in the Dubai market as 'it involved visiting a local council and evaluating gender diversity' (INST A, R1). Another area that was a challenge was with specific modules, such as Law or Finance, whereby it was not relevant for Dubai based students to be studying
 
-<!-- page 162 -->
+<!-- page 163 -->
 
 curriculum that is based on the home country, but it would be more appropriate to have Sharia Law or Islamic Finance at the branch (INST F).
 
@@ -2577,7 +2019,7 @@ There was a general consensus that over time with ease in regulations in Dubai, 
 
 This is another challenge, which was more prominent in the initial years of the model. The government was keen for providers to bring programmes and content that was offered with little customization in order to ensure quality. However, institutions were keen on localization of content to ensure that programmes were relevant for students in the local market. Over time, the regulatory body has addressed this by encouraging localization of content and has also allowed institutions to offer specific programmes in Dubai that meet local needs and are not run at the parent institution.
 
-<!-- page 163 -->
+<!-- page 164 -->
 
 ## *Research Activity*
 
@@ -2591,7 +2033,7 @@ Another challenge brought up was the patenting process in Dubai. INST C, felt th
 
 According to INST H, funding is only one of the challenges and that 'this was a vicious cycle because for research to thrive you must have a vibrant research culture, and funding
 
-<!-- page 164 -->
+<!-- page 165 -->
 
 is part of that of course, but you need a critical mass, you need a network of researchers, you need the research conferences, etc.' and that it was a long process to establish a rich research culture. The recent addition of PhD programmes at several institutions in Dubai is seen as a good platform to develop sustained research activity (INST C, R1).
 
@@ -2605,11 +2047,11 @@ A second challenge in relation to admissions is that students in Dubai come from
 
 This is a unique challenge for Dubai due to the diversity in the schooling system with a large number of curriculums offered. Although a challenge, it is considered as an area where best practice was developed in Dubai and transferred back to the home institutions. Campuses in Dubai were able to develop knowledge and practices in relation to
 
-<!-- page 165 -->
+<!-- page 166 -->
 
 equivalency of entry requirements across various school systems and transfer this expertise to the home institution.
 
-## 6.2.2 Economic Challenges:
+### 6.2.2 Economic Challenges:
 
 ## *Competition and Student Recruitment*
 
@@ -2621,7 +2063,7 @@ INST A also expressed concern about the number of new entrants allowed in the ma
 
 Student recruitment is an economic challenge. In the early days the challenge was due to limited awareness in the market about higher education opportunities and now the challenge is due to increase in competition as there are many institutions competing for
 
-<!-- page 166 -->
+<!-- page 167 -->
 
 the same pool of students (INST G, R1). Respondent 2 from INST D, which was one of the early entrants discussed the difficulty to maintain growth rates with the increase in the number of providers.
 
@@ -2633,7 +2075,7 @@ While competition is increasing challenging, it is also considered a good situat
 
 Although institutions felt that healthy competition was good for the market and offered students and parents many opportunities, there were some growing concerns about the number of new providers being approved on a yearly basis. The participants asked questions as to how many more campuses the government would allow and what the impact of this increase of new providers on student recruitment. The approach in Dubai in other sectors is to allow the market to dictate demand and supply. Despite recent changes to the gate-keeping requirements in the education sector, which raise entry barriers, there was some concern expressed about the number of new providers approved.
 
-<!-- page 167 -->
+<!-- page 168 -->
 
 ## *Funding*
 
@@ -2647,9 +2089,9 @@ Two areas where the institutions would like some government support is access to
 
 It was interesting to note that institutions preferred the self-funding approach rather than investment from Government's as they felt this was more sustainable and put the onus of growth and development on themselves rather than being dependent on someone else for funding.
 
-<!-- page 168 -->
+<!-- page 169 -->
 
-## 6.2.3 Political and Regulatory Challenges:
+### 6.2.3 Political and Regulatory Challenges:
 
 ## *Recognition of Qualifications*
 
@@ -2661,7 +2103,7 @@ Efforts by the local Government to ensure acceptance of degrees through legislat
 
 Although it is raised as one of the most significant issues, the impact has largely been on UAE nationals rather than the expatriate population, who are the main participants at
 
-<!-- page 169 -->
+<!-- page 170 -->
 
 branch campuses. With the passing of Resolution 21, all degrees from the free zones were recognized by Law in the Emirate of Dubai. Since these are not Dubai qualifications and are awards from the home campus, they are recognized everywhere in the world that accepts degrees from the home country and in Dubai. The only place where they are not recognized is in the public sector of the remaining six Emirates in the UAE. Expatriate students are more interested in the foreign award rather than the local attestation, so the UAE national group feels the impact, as they are not able to enroll at branch campuses. Nonetheless, institutions were still keen for this to be resolved as it does create confusion in the market and raises questions as to why the federal government does not recognize degrees from the branch campuses in the free zones.
 
@@ -2673,7 +2115,7 @@ The general view among campuses was that any effort towards improving quality wa
 
 Some institutions did face some challenges in meeting local quality assurance and regulatory requirements only because these were not commonly practiced in the home country. INST B, which comes from a country that does not have an external quality assurance body, discussed the challenge of having to create such a system in Dubai. Respondent 1 from INST D mentioned the need to convince the home campus to make
 
-<!-- page 170 -->
+<!-- page 171 -->
 
 certain changes in assessment systems to meet local requirements in Dubai, but did point out that once the new system was established in Dubai, it was also implemented at the home institution as they saw value in having such a system. Two other minor challenges were also brought up, the first is in relation to the limited opportunities for providers to submit new programme applications to the regulator, currently twice a year (INST C, R1); and the second was the length of period of approval for new institutions and programmes, which is currently one year (INST F).
 
@@ -2683,7 +2125,7 @@ Institutions from certain countries explained that the regulatory barriers in th
 
 INST E, which also had its origin in India, explained they have had various issues with the regulatory requirements in the home country. This has required them to go through a long process of shifting their base to Australia due to a nomenclature issue with their programme according to Indian regulations. As an institute, they were not allowed to offer a Master's programme and were restricted by Indian regulations to the nomenclature of postgraduate diploma. Since the postgraduate diploma was not a popular named award in Dubai and in other countries where INST E operates, they decided to set up a new campus in Australia and make that their designated home.
 
-<!-- page 171 -->
+<!-- page 172 -->
 
 Dubai has moved very quickly from being a market with limited or no regulations to one that has a very robust set of regulations specifically developed for transnational education. Providers viewed this as a positive step. Some providers expressed more concern with the home country regulatory requirements rather than with those in the host country.
 
@@ -2697,7 +2139,7 @@ Respondent 2 from INST G was, however, satisfied with the student visa process a
 
 The 'Earn while you Learn' initiative that was launched by the Government, allowing students on a student visa to take up part time work opportunities was welcomed by institutions who agree that it is important to give students the opportunity to work part time and offset some of their educational expenses, as this was considered common in other parts of the world (INST F). More recently the government has introduced special
 
-<!-- page 172 -->
+<!-- page 173 -->
 
 long-term visas for students to replace the annual visa system. They have also created a special visa for high performing students in order to retain and attract talent. These moves are seen as positive by the sector as it will help with student recruitment both within the UAE and abroad.
 
@@ -2707,7 +2149,7 @@ There were minor concerns expressed by one institution about reluctance by some 
 
 Changes in regional economic policies also have an impact on Dubai, which in turn impacts the higher education sector as well (INST C, R2). Other situations like the current political scenario with Qatar and the Gulf countries, or changes in regulations in Nigeria can also have an impact on recruitment of international students (INST A, R1).
 
-## 6.2.4 Social Challenges:
+### 6.2.4 Social Challenges:
 
 ## *Adapting to Local Culture and Traditions*
 
@@ -2715,7 +2157,7 @@ It is important for institutions to abide by local laws, customs and traditions.
 
 One example was highlighted wherein local cultural norms had an impact on certain programmes. Respondent 1 from INST A referred to a political science programme where some of the books used at the home campus were not permitted in the country.
 
-<!-- page 173 -->
+<!-- page 174 -->
 
 However, this was considered a minor challenge, as they were able to source alternative books in line with the social and cultural aspects of the country.
 
@@ -2731,7 +2173,7 @@ The lack of various facilities for students is a continuing challenge according 
 
 Although there plenty of general accommodation available, this is not suitable for students as these tend to be more expensive and also operate on standard 12 month contracts which, are not feasible for students (INST G, R2). 'If Dubai wants to be a successful education hub, it is important that there are subsidies available for student
 
-<!-- page 174 -->
+<!-- page 175 -->
 
 housing' as currently the cost of living for students is much higher compared to other hubs such as Malaysia (INST F).
 
@@ -2741,13 +2183,13 @@ In order to deal with such issues many institutions have moved from purpose buil
 
 As Dubai moves towards being an education hub for the region and wishes to attract more international students, this is one area it needs to improve. Many providers have now moved out of shared facilities into purpose built campuses with accommodation, sporting and recreational facilities for students. However, there are still gaps in the provision for those that are in rent free zone buildings. The free zone authorities need to play a role in improving the overall experience in Knowledge Village and Academic City.
 
-## 6.2.5 Other Challenges:
+### 6.2.5 Other Challenges:
 
 ## *Market Perceptions*
 
 The perception of the branch campus model is one all institutions need to deal with. A lot of people that are not familiar with branch campuses or have never been to one often having a negative perception about the quality offered at a branch institution. INST H mentioned there was lot of skepticism about the Dubai higher education sector and it was often called a 'shopping mall for higher education'. There were questions about the quality of the degrees and whether a branch can operate at the same standard as the home
 
-<!-- page 175 -->
+<!-- page 176 -->
 
 which made was challenging in the early days. Sometimes there are negative perceptions among staff at the parent institution as well which need to be managed (INST A, R1).
 
@@ -2761,19 +2203,19 @@ INST D has also established a process that ensures representation of the branch 
 
 Over time, institutions have been able to build strong relationships with the home campus. While there has always been oversight by the parent institution, the level of involvement has increased as the branch campuses have expanded. Senior leadership at branch level is more involved within the home campus governance structures are able to represent the branch to share challenges and best practices with the home institution.
 
-<!-- page 176 -->
+<!-- page 177 -->
 
 ## *Employment Opportunities for Graduates*
 
 One institution mentioned employment opportunities for graduates are limited, especially in areas such as engineering and technology. Students are attracted to Dubai for various reasons, and one of these is to seek employment after graduation, however, 'since the Dubai market is largely dominated by service organizations, rather than technology or manufacturing firms, graduates in certain subject areas find it difficult to get jobs'. This is a challenge for institutions trying to offer a diverse range of programmes (INST D, R2).
 
-## 6.2.6 Summary:
+### 6.2.6 Summary:
 
 A wide range of challenges were discussed across the four categories. In terms of academic challenges, many of them were prompted by local conditions and regulations. Institutions discussed the challenge of attracting and recruiting quality faculty due to the newness of the Dubai higher education sector as well as due to limited research opportunities. Research was not a priority as campuses were new and focusing on the teaching and learning process. Funding for research was also not easily available. Institutions also faced challenges with localization of curriculum which was restricted by the regulatory requirements and admission challenges due to the diversity of school systems and the quality of high school leavers many of whom were not prepared for higher education.
 
 Institutions felt that as the sector has grown, competition and the ability to recruit students has posed an economic challenge as there are many providers offering similar programmes and have called for the regulatory bodies to be more selective in approving new institutions. Institutions did not feel the lack of direct funding in higher education was a challenge and would rather have support through research funding and scholarships for UAE nationals. Some social factors were also discussed such as the limited availability of student housing and other facilities and the challenge of adapting to local culture.
 
-<!-- page 177 -->
+<!-- page 178 -->
 
 Apart from the academic challenges which were quite serious, there are continuing regulatory issues which institutions face. The most critical of these is the lack of recognition of degrees by the federal government which was limiting the possibility to recruit UAE national students and also causing problems for students from certain countries. Some institutions also struggle to meet the regulatory and quality assurance requirements as they are not familiar with some processes and don't have similar systems in their home countries. Regulatory pressures and requirements in the home country were more stringent in some cases than local regulatory challenges. Some universities also faced issues in obtaining student visas for certain nationality groups and called for longer term visas to help attract international students to come to Dubai for higher education and employment opportunities.
 
@@ -2783,24 +2225,15 @@ The fifth research question of the study is 'what are some of the benefits that 
 
 Institutions were also asked to identify their institutions most important achievements since establishing their branch in Dubai. The responses were quite varied, some institutions talked about growth and expansion in Dubai, others discussed the satisfaction levels of their students, the contribution of graduates to the economy and one institution also mentioned its growing alumni body as a key achievement. A summary of findings are presented in the table below:
 
-| Benefits – Stakeholder Group B |   |   |   |   |
+| Benefits – Stakeholder Group B |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Academic Benefits | Economic | Political/ | Social Benefits | Other |
-|   | Benefits | Regulatory |   | Benefits |
-|   |   | Benefits |   |   |
+|  | Benefits | Regulatory |  | Benefits |
+|  |  | Benefits |  |  |
 
-<!-- page 178 -->
+<!-- page 179 -->
 
-| 1. Internationalization | 1. Growth and | N/A | 1. Alumni | N/A |
-| --- | --- | --- | --- | --- |
-|   | Expansion |   |   |   |
-| 2. Best Practices |   |   | 2. Engagement with Local |   |
-|   |   |   | Industry |   |
-|   |   |   | 3. Diversity |   |
-
-> Table 6.3 – Summary of Benefits for Stakeholder Group B – International Providers
-
-## 6.3.1 Academic Benefits:
+### 6.3.1 Academic Benefits:
 
 ## *Internationalization *
 
@@ -2812,7 +2245,7 @@ INST G provided an example of a Master's programme in Construction Management wh
 
 Two key benefits in relation to internationalization of students were highlighted by various respondents. The first is the opportunity for student exchange, students at a branch in Dubai are able to transfer to the home campus and vice-versa and this has helped diversify the student body (INST A, R1; INST D, R1). INST G have launched an
 
-<!-- page 179 -->
+<!-- page 180 -->
 
 initiative called 'go global' whereby students can transfer between any of their three international campuses (INST G, R1). This creates 'a unique opportunity for students to study in different locations' and 'students are able to take advantage of the fact that the different campuses offer the same programmes, similar teaching and learning methods and approaches to education' (INST G, R1).
 
@@ -2826,7 +2259,7 @@ Institutions were able to share various examples of internationalization activit
 
 Operating in an international environment with many campuses from different countries has also brought about the opportunity to improve systems and processes by adopting best practices from other institutions and also taking some of these changes back to the parent institution.
 
-<!-- page 180 -->
+<!-- page 181 -->
 
 Respondent 1 from INST A, talked about the exchange of ideas and best practices between the home and branch has improved over time. 'Initially when the campus was new, the home would send instructions which the branch followed'. However over time, 'there is now a stronger relationship' and so for example, 'in the past if changes to a programme had to be made, they would be done at the home and sent to the branch'. However now, 'the home is happy to consult with faculty members at the branch and ask for their feedback before changes are made'. The executive management at the home 'insists that that the branch campus views should be taken into account because they have seen the contributions made by the branch campuses.
 
@@ -2836,11 +2269,11 @@ INST G also mentioned that the experiences learnt from the Dubai campus were the
 
 The change in dynamics in the relationships between home and branch, the ability to learn from other institutions within Dubai, and the transferability of some of these best
 
-<!-- page 181 -->
+<!-- page 182 -->
 
 practices to the home is all benefits not commonly discussed in the literature. These are benefits that have been realized from operating branch campuses for many years. Providers have also been able to learn from their experiences in Dubai as they have set up other campuses internationally.
 
-## 6.3.2 Economic Benefits:
+### 6.3.2 Economic Benefits:
 
 ## *Growth and Expansion*
 
@@ -2852,15 +2285,15 @@ For some institutions, Dubai was the first international campus location. INST E
 
 Institutions also discussed how expansion and growth in Dubai has had a positive impact on the branding of the university. Respondent 2 from INST C pointed out their rapid
 
-<!-- page 182 -->
+<!-- page 183 -->
 
 expansion in Dubai from two floors that were leased to building their own campus facilities has had a very positive impact on the brand of the university, which in turn has helped increase student enrollment. INST D also mentioned the value added by the Dubai campus to the institutions branding and reputation (INST D, R1).
 
-## 6.3.3 Political and Regulatory Benefits:
+### 6.3.3 Political and Regulatory Benefits:
 
 There were no political/regulatory benefits or achievements identified through the data collection and analysis.
 
-## 6.3.4 Social Benefits:
+### 6.3.4 Social Benefits:
 
 ## *Alumni*
 
@@ -2874,7 +2307,7 @@ The benefits of branch campuses to the host country are often questioned. The in
 
 Another benefit of having a branch campus is the opportunity to engage with local industry and community. INST D provided an example of a collaborative relationship
 
-<!-- page 183 -->
+<!-- page 184 -->
 
 they have with Nissan who set up laboratories on their campus. According to respondent 1 from INST D, 'such collaborations benefit everyone including students, faculty, the company and the university'.
 
@@ -2886,11 +2319,11 @@ Partnerships with local industries have only started to emerge. As institutions 
 
 One campus mentioned the access to a multinational and diverse population was an important benefit realized through the branch campus in Dubai. Respondent 2 from INST C, felt that this opportunity to attract students and faculty from so many nationalities was really important as it created a true international campus and also created ambassadors for them in different countries and markets.
 
-## 6.3.5 Summary:
+### 6.3.5 Summary:
 
 The Dubai higher education system, especially the free zone model, has been around for 12 years now and most institutions in the free zones are less than ten years old. Despite that, a few benefits and achievements were highlighted. Institutions felt that having a presence in Dubai has helped with their internationalization objectives. The Dubai branch has provided opportunities to internationalize curriculum and enable student mobility through exchange programmes and recruitment efforts in international markets. By competing in a diverse higher education market, institutions have also benefited by adopting best practices from the local market and transmitting these back to the parent institution.
 
-<!-- page 184 -->
+<!-- page 185 -->
 
 Institutions were satisfied with their growth in Dubai with some exceeding initial expectations and others able to learn from the Dubai experience and implement it at other international locations. Finally, there were also various social benefits highlighted including the growth of alumni groups in the region and the opportunity to engage with the local industry and community.
 
@@ -2898,31 +2331,31 @@ Institutions were satisfied with their growth in Dubai with some exceeding initi
 
 Institutions were also asked to share their thoughts about the future outlook of the sector in Dubai and discuss areas where improvements need to be made. The key findings from these questions were as follows:
 
-## 6.4.1 Building a Dubai Brand
+### 6.4.1 Building a Dubai Brand
 
 The Dubai higher education sector will continue to grow because Dubai offers 'security, stability, growth opportunities and lifestyle choices'. Despite this there are still negative perceptions about Dubai which need to be addressed 'in a more educated manner' (INST E). 'The EXPO 2020 will create another platform to showcase Dubai and the higher education opportunities to the world with large numbers of visitors expected' (INST E).
 
 According to respondent 1 from INST A, the next step for Dubai is to build a brand similar to the British Council or Study Malaysia to create more awareness about higher education opportunities available in Dubai. 'Dubai has a lot to offer in terms of higher education as well as post education employment opportunities and there needs to be a concentrated effort to share this at an international level'.
 
-## 6.4.2 Collaboration between Campuses
+### 6.4.2 Collaboration between Campuses
 
 One area that needs improvement is the collaboration and interaction between campuses. Given the competitive nature of the Dubai market there has not been enough collaboration. One potential area for collaboration is through research. Institutions from different countries and backgrounds can come together to carry out joint research activities, which will benefit the local society (INST B).
 
-<!-- page 185 -->
+<!-- page 186 -->
 
 Respondent 1 from INST C, talked about the new Research Steering Committee (RSC) that is aiming to increase research collaboration between campuses by creating a common platform to discuss ideas and research opportunities. According to INST E, one way to encourage collaborative research is if the government makes research grants available to private institutions.
 
-## 6.4.3 Research
+### 6.4.3 Research
 
 Research is discussed in the previous topic as an area for potential collaboration between campuses. It also came up as one of the important areas where further attention is required. According to respondent 2 from INST G, it is important to identify how a research culture and environment will be built in Dubai. 'There are important questions as to how campuses will fund research, how research will be structured in order to develop a credible and relevant research environment'. All institutions want to be noted for the quality of their research and not just their teaching and so it is important for universities in Dubai to create a research culture (INST E).
 
-## 6.4.4 Resolving the Federal Recognition Issue
+### 6.4.4 Resolving the Federal Recognition Issue
 
 Several institutions felt that in order to attract more students especially UAE national students, it is important for the local and federal government to reach an agreement on the issue of recognition of qualifications. This was raised by all four larger campuses (INST A; INST C; INST D; INST G).
 
 The next and final chapter of this study will include a discussion on the findings, including any commonalities or major differences in the motivations, challenges and benefits between the two stakeholder groups. An analysis of the findings will also be done against the theories in the literature. The chapter will also present a summarized set of observations on the Dubai higher education sector along with recommendations for the future development of the sector.
 
-<!-- page 186 -->
+<!-- page 187 -->
 
 ## 7. Chapter 7: Discussion and Recommendations
 
@@ -2934,9 +2367,9 @@ In this chapter, the findings are discussed further and an analysis is carried o
 
 In the first part of this chapter an analysis of the findings are presented comparing the key topics identified under regulatory enablers, motivations, challenges and benefits associated with the Dubai model.
 
-<!-- page 187 -->
+<!-- page 188 -->
 
-## 7.1.1 Regulatory Enablers
+### 7.1.1 Regulatory Enablers
 
 In order to address the first research question of this study, the government stakeholder group was asked to explain the key enablers put into place to support a transnational higher education system. Four major themes were identified and presented in the findings chapter. These were the role of the free zones; investment models, regulatory systems and quality assurance mechanisms. This research question was only relevant for the government stakeholder group as it related to government policies and initiatives. Although this topic was not discussed with the provider stakeholder group, three of the four themes identified here were considered as important motivating factors by providers. Institutions felt the free zone concept, the regulatory conditions and the investor models were critical factors in attracting them to set up campuses in Dubai which, confirm the importance of these themes as key enablers of the TNE model in Dubai.
 
@@ -2944,13 +2377,13 @@ One of the areas discussed in the literature review was around models of regulat
 
 If Dubai had to be placed in one of the seven categories identified by Verbik and Jokivirta (2005), the best fit would probably be under the 'moderately liberal' category. However, despite a liberal and welcoming approach to transnational education, Dubai has also implemented policies to enable greater control through regulatory processes and quality assurance requirements. The quality assurance systems were developed to regulate institutions as foreign providers rather than local providers and focuses on comparability between the branch in Dubai and the institutions parent campus in the home country. This falls under the third category of the OBHE (2016) models for quality assurance of IBCs.
 
-<!-- page 188 -->
+<!-- page 189 -->
 
 Another concept that holds true in the Dubai context is the push-and-pull relationship between TNE regulations and TNE activities as described in the British Council report on TNE in 2014. The report suggests that increase in TNE activity results in greater government regulation. This is evident in the Dubai journey, with the introduction of regulations and quality assurance at a later stage, once there was growth in the number of providers.
 
 The British Council (2014) also rated countries based on the policy environment of the host country used four indicators to do so; TNE strategy, establishment of TNE operations; quality assurance and accreditation; and recognition of TNE. In the Dubai context, while there is no explicit strategy for TNE, there are clearly established systems and polices for TNE provision. Dubai also has the appropriate regulations and support structure to grow TNE and has a quality assurance system designed for TNE providers. The only area where it does not rate well in terms of the four indicators is with recognition. While there is an emerging recognition of Dubai as an education hub, and local approval of degrees, there is the continuing issue of federal recognition and approval which are discussed later in this chapter.
 
-## 7.1.2 Motivations
+### 7.1.2 Motivations
 
 In order to address the second and third research questions of the study, the motivations or rationales for setting up such a model in Dubai and the reasons providers chose to set up a campus in Dubai were explored among both stakeholder groups.
 
@@ -2958,7 +2391,7 @@ A review of the findings of the two stakeholder groups show that there were diff
 
 For the government, the findings show that there was a vision to diversify the economy which was done by attracting foreign investment through the creation of free zones. The growth of the economy resulted in an influx of expatriates which, resulted in a social
 
-<!-- page 189 -->
+<!-- page 190 -->
 
 need to provide access to higher education. In order to address this the free zone model was extended to higher education and Dubai started to invite foreign providers to set up campuses in order to create a skilled workforce for the economy. The success of the free zones expanded the scope and created the new economic ambition of establishing Dubai as an education hub. There were academic and social motivations as well. Dubai wanted to have a diversified programme offering which could be addressed more easily addressed through an import model rather than building capacity within the country and also hoped to address the need for building a skilled workforce for the economy through higher education. The government representatives also discussed the need to have more opportunities to avoid brain drain and increase female participation in higher education. The findings of the government stakeholder group show the economic and social motivations were of much greater importance and were the core drivers of the Dubai TNE approach.
 
@@ -2966,7 +2399,7 @@ The rationales explained by the government group are consistent with those indic
 
 There are however some rationales that are unique in the Dubai context. The first of these was the political or regulatory need to create the free zones. Because the federal regulations were not supportive of the branch campus, the free zones approach had previously been used to make it easier for foreign businesses and the same concept was applied to higher education. Another main area of difference is the purpose for which a TNE approach was used. In other countries that have used TNE systems, the literature indicates that this is done to support the national education system, build capacity and provide further opportunity to the local population.
 
-<!-- page 190 -->
+<!-- page 191 -->
 
 In the Dubai context, the model was needed to address an unmet need in the education sector, to serve the large and growing expat population. Although the branch campuses were not limited to expat students, they were primarily targeted at them. The UAE nationals were already well served through the federal system because the country is represented by over 90% expat population, this becomes a unique difference. The third area where there is a difference to other systems is in relation to investment. In many countries, the government or public sector tends to invest in TNE through direct funding or the provision of incentives. The Dubai concept was entirely different, as it was completely funded through private investment. The only investment coming from the government was the development of infrastructure in the free zones, which itself had an economic objective as the free zones leased space to the incoming providers.
 
@@ -2976,7 +2409,7 @@ For most institutions included in the study, internationalization is an importan
 
 The importance of economic and regulatory rationales were also discussed. From an economic perspective, institutions discussed the opportunity to reach out to new student markets and expand enrollment as an important rationale for internationalization. This
 
-<!-- page 191 -->
+<!-- page 192 -->
 
 was normally done when there was limited room for expansion at the home campus or if there was a unique opportunity to expand enrollment by accessing new markets as in the case of Dubai. The availability of ready space through the free zones which reduced the initial capital requirements and the private investment model made Dubai a low risk model for expansion. The regulatory systems were also very attractive as the free zones made it easier for foreign companies to establish themselves in Dubai and the academic regulations were designed with TNE provider making it an easier and faster process.
 
@@ -2984,9 +2417,9 @@ A comparison of the economic and regulatory rationales to current literature sho
 
 Providers also highlighted various social factors such as the need to create global citizens, and to engage with other cultures and communities which are well documented in current research including Knight's (1997) rationales for internationalization. Finally various providers also mentioned the attractiveness of Dubai as a safe and progressive city as a reason to choose Dubai compared to other options that may have been available.
 
-<!-- page 192 -->
+<!-- page 193 -->
 
-## 7.1.3 Challenges
+### 7.1.3 Challenges
 
 The fourth question of the study is around challenges faced by both stakeholder groups in relation to the Dubai TNE model. The findings show there was a greater emphasis on academic challenges and regulatory challenges as compared to economic or social challenges.
 
@@ -2994,7 +2427,7 @@ There were lots of similarities in the academic challenges between the two group
 
 There were three academic challenges that were discussed by both stakeholder groups. The first was the difficulty to localize programmes and curriculum. From the governments perspective they were interested in quality control and therefore, had regulations in place that limited localization of content and restricted programme offering to what was available at the home institution. However for providers, they felt the need to localize their programmes to make it more relevant for students and address social and economic issues in the local context. The providers did state this was one of the initial challenges and with new regulations, more localization has been permitted by the regulatory bodies. The issue of curriculum localization is a challenge that has been identified in previous research (McBurnie & Ziguras, 2011)
 
-<!-- page 193 -->
+<!-- page 194 -->
 
 The second challenge discussed by both groups was the difficulty to recruit and attract faculty to Dubai. Although this is really a provider challenge it was also brought up by the government representatives. There were various reasons that made it difficult for campuses to recruit faculty. One was the reasons was the newness of the model, higher education was only starting to develop in Dubai and there wasn't a pool of highly qualified faculty available in the country. The institutions in Dubai were also new and were not well known in the region. This made it difficult to recruit faculty and institutions had to rely on a fly-in-fly out model or had to relocate faculty members form the home institution, which also was a difficult process as there were other economic and social considerations.
 
@@ -3002,7 +2435,7 @@ Another reason that was discussed by both groups was the lack of research activi
 
 The third common challenge discussed was quality assurance. The government stakeholders discussed both the initial challenges due to the lack of any quality assurance as well as the challenges once a quality assurance system was established. Since the quality systems came after many campuses were established there was a need to address legacy cases and also the challenge of working with institutions that had no previous experience with quality systems. The providers stressed on the need for external quality assurance but discussed the difficulty of meeting both home and host country quality
 
-<!-- page 194 -->
+<!-- page 195 -->
 
 assurance requirements. Various authors have previously discussed the issue of quality assurance with branch campuses (McBurnie & Ziguras, 2011; Stella and Woodhouse, 2008; British Council, 2014).
 
@@ -3014,7 +2447,7 @@ An academic challenge that was unique to the provider group was in relation to a
 
 Various studies have been carried out about the quality of schooling education in the Arab world, however, since the main target for branch campuses in Dubai are expatriate
 
-<!-- page 195 -->
+<!-- page 196 -->
 
 students, this is not a major concern. There are nearly seventeen different school curriculums being offered requiring campuses to have appropriate processes to assess qualifications from different systems and determine equivalency to their own admission standards.
 
@@ -3026,7 +2459,7 @@ The provider group also discussed issues with visas for students from certain na
 
 Although there were some economic and social challenges discussed, these were not as significant as the academic or regulatory issues. From an economic point of view,
 
-<!-- page 196 -->
+<!-- page 197 -->
 
 funding was brought up by both groups, mainly in relation to lack of funding for research which has previously been discussed. According to research available, the lack of subsidies from governments for TNE is often a challenge (Robertson et al., 2002). However, this was not seen as an issue in Dubai. Providers felt it was better not to have financial support from the government as it allowed them to create a sustainable financial model where they could build scale gradually.
 
@@ -3036,7 +2469,7 @@ The cultural or social issues that the host country has to deal with are not wid
 
 However, with growth in student numbers and maturity of institutions, there seems to be a shift in the student expectations of a branch campus. Earlier it was about getting access to a programme without having to leave Dubai, but now there is a demand for better
 
-<!-- page 197 -->
+<!-- page 198 -->
 
 facilities, and a more complete student experience. There was one more cultural challenge that was briefly discussed and related to the involvement of students in governance and quality assurance. This is currently not commonly practiced in the UAE or the Gulf region. International campuses in Dubai, may be required to do this based on the expectations of the home regulator. There was no mention of student involvement in external quality assurance from the government stakeholder group either.
 
@@ -3044,11 +2477,11 @@ There were four other challenges that were brought up by the both stakeholder gr
 
 According to government representatives, Dubai presents a unique opportunity for institutions from different countries to collaborate with one another especially since they are located in close proximity to each other. However, there was little collaboration seen so far. And the fourth challenge mentioned was the lack of public transparency. All of these are can be classified as challenges that have emerged with the growth and maturity of the TNE model and are therefore, not commonly seen in previous research on branch campuses.
 
-## 7.1.4 Benefits
+### 7.1.4 Benefits
 
 The fifth question of the research study was to identify the benefits or achievements for both stakeholder groups from the TNE model of higher education. Like with the motivations, the benefits realized by each stakeholder group are quite different. The achievements are also spread across evenly across the four categories.
 
-<!-- page 198 -->
+<!-- page 199 -->
 
 From an academic perspective the government group highlighted the emerging reputation of Dubai as an education hub as one of the key achievements. As the host to the largest number of intentional campuses globally, Dubai has built a reputation and is able to attract higher quality institutions and more international students. The quality assurance systems have also helped in building reputation. The literature (British Council, 2014; Lane, 2011) points to a 'status' benefit for host countries by attracting high quality institutions and also to growing demand from international students (Wilkins, 2017), both of which are evident in the Dubai case.
 
@@ -3058,7 +2491,7 @@ From a provider perspective, the key academic achievement was meeting the intern
 
 The social and cultural benefits discussed in the study are also important. The contributions made by providers to the local community through the diversification of programmes and the number of graduates entering the workforce demonstrates the impact of branch campuses in the host country.
 
-<!-- page 199 -->
+<!-- page 200 -->
 
 Providers also discussed how their experience in operating a branch campus in Dubai was helping with growth and expansion and changing the dynamics in the relationship with the home institution. It was helping them build alumni networks in the region and better engage with local industry. Through Dubai they were also benefiting from the diversity in the education system. Institutions felt that by operating in such a diverse environment, they were able to benefit from best practices from other institutions many of which were also seen to have an impact at the home institution. These are some very practical benefits that have resulted from the growing maturity of institutions. The literature tends to highlight perceived and short-term benefits of TNE, but these are benefits realized after operating for many years.
 
@@ -3074,7 +2507,7 @@ The journey of transnational higher education system within the free zones had s
 
 Through the free zones Dubai provided the hard infrastructure, enabling institutions to come and set up in Dubai, without having to invest significantly. The free zone concept
 
-<!-- page 200 -->
+<!-- page 201 -->
 
 allowed institutions to start small, test the market but also gave them opportunities to expand and grow based on their own ambition. The free zones also gave institutions confidence as they were able to see the ready physical infrastructure. Various institutions discussed their transition from an incubation phase in the free zones to standalone campus facilities.
 
@@ -3088,7 +2521,7 @@ The UAE government has invested significantly in higher education but only in th
 
 As expressed in the findings, even with the establishment of the free zones and the regulatory environment to support the import of higher education, this was not sufficient to attract universities to come and set up in Dubai. Dubai was still an emerging economy and not known for its higher education sector. The role of the investors was critical as they made it possible for institutions that would not have been able to invest funds directly outside of their home country to think about establishing an international campus in Dubai. Even though both stakeholder groups expressed some challenges with the investor model, especially in the separation of investment and academic related matters,
 
-<!-- page 201 -->
+<!-- page 202 -->
 
 the role of the investors has been critical in the establishment of many campuses in Dubai.
 
@@ -3104,7 +2537,7 @@ One of the most important elements are the branch campuses or providers themselv
 
 Dubai has been able encourage branch campuses of different models. It allowed institutions to either start small or big, it allowed them options with the investments, to have a partner or to invest directly, and it also offered growth options. This enabled Dubai to attract institutions from different countries providing many options and serving various segments of the markets. There are institutions of various sizes, offering diverse
 
-<!-- page 202 -->
+<!-- page 203 -->
 
 range of programmes, at multiple price points, which has created a very diverse higher education sector.
 
@@ -3118,7 +2551,7 @@ Their first phase refers to a shortage of relevant and high quality opportunitie
 
 This is entirely consistent in the Dubai context where there was a combination of public investment through hard infrastructure and private investment through direct investment in educational provision supported by regulatory and quality systems. The third phase refers to building the quality and reputation of the local system. This is again very consistent with the Dubai journey as the quality systems were improved through separation of leasing responsibilities and academic control and the establishment of a dedicated authority for education regulation.
 
-<!-- page 203 -->
+<!-- page 204 -->
 
 The final phase refers to a shift towards the development of a hub and the possibility to export education, which has also clearly happened in the Dubai case. Despite a similar trend towards development it is the approach that was different. Using free zones and private investment to attract international providers to offer higher education for economic and social purposes was unique.
 
@@ -3130,89 +2563,89 @@ The findings indicate a clear difference between the challenges in the early sta
 
 A change is also noted in the way branch campuses are viewed and managed. The findings show greater involvement of branch campus leadership in the governance structures of the home institution, better student representation at the branch level and also a transfer of best practices from branch to home.
 
-<!-- page 204 -->
+<!-- page 205 -->
 
 ## **7.3** **Recommendations:**
 
 The Dubai higher education sector has grown significantly and the free zone model is largely regarded as a successful model. It has attracted a wide range of providers, including some very high ranked international institutions, it has addressed the access issue for the expatriate population and has also started to bring in international students for purposes of educational tourism, and it has diversified the programme offering to meet strategic needs of the Dubai economy. However, there are some new and continuing challenges which will need to be addressed including competition, student recruitment, innovation, research, mutual recognition among others. Based on this study, the following are my key recommendations of areas needing to be addressed for the continued development of the Dubai higher education sector.
 
-## 7.3.1 New Models
+### 7.3.1 New Models
 
 The branch campus model has always had critics according to Wilkins (2017), there are stakeholders that are opposed to the commodification of higher education, while there are others that have concerns about how branch campuses operate. There are questions about the motivations for institutions, especially around the economic side (Wilkins, 2017), concerns about whether they have a positive impact on the host country and also questions about whether a branch campus can replicate the same quality standards of the parent institution. The Dubai model, has proved that branch campuses can work, that they can be aligned to the host countries objectives and that they can be quality assured through appropriate systems. However, Dubai already has the largest concentration of international campuses compared to any other place in the world, so there is a question about how many more can be allowed. After all, Dubai is not yet a very large market for higher education and already has a large number of providers.
 
 Another area which creates the need for alternative models is that not all international institutions have the resources or ambition to establish a branch campus. Although many institutions have opted for this model, many others have stayed away from branch campuses and have instead focused on other forms of transnational education such as partnerships or online education. Dubai has so far restricted international provision to the
 
-<!-- page 205 -->
+<!-- page 206 -->
 
 branch model and it would be very timely to establish new regulations that encourage other forms of provision including online, joint programmes, and research collaborations.
 
-## 7.3.2 Dubai Brand
+### 7.3.2 Dubai Brand
 
 Dubai already considers itself as a higher education hub. They have invested in the infrastructure, have attracted institutions to come in, developed a supportive regulatory environment and have created some awareness in international markets. However, one of the weaknesses of the Dubai sector is the lack of information available and the absence of government support to help promote Dubai as an education destination.
 
 Most of the competing education hubs such as Singapore, Malaysia and other more traditional education destinations such as Australia and the UK have concentrated efforts by government funded entities to promote educational opportunities in their respective countries. They have web applications allowing international students to learn more about the country, assess higher education options, understand visa requirements, and get basic logistical information. At the moment students in Dubai have to rely on individual websites of the universities. Having a central portal for information and a brand such a 'Study Dubai' will also allow institutions to jointly participate in international recruitment fairs and present Dubai as a destination for higher education.
 
-## 7.3.3 Targeted Growth
+### 7.3.3 Targeted Growth
 
 Despite growth in the sector in the form of institutions, programmes and students, there is a concern about the growing competitiveness of the market. With increasing number of institutions and programmes, institutions will have to think innovatively about the programmes they offer, their tuition prices and also their student recruitment strategies. The government also needs to think about how many more institutions to bring in and what programmes to allow.
 
 There is need for a more structured approach to recruitment of new providers and addition of new programmes. The government needs to carry out a capacity study to evaluate current options and also determine future needs based on the strategic areas of
 
-<!-- page 206 -->
+<!-- page 207 -->
 
 development for Dubai. This will assist in decision making around how many more campuses or programmes to approve and in what disciplines that would fill a gap in the market.
 
-## 7.3.4 Student Facilities
+### 7.3.4 Student Facilities
 
 When the free zones were first established they were designed to cater to all student needs including housing, social activities, entertainment and sports. While Dubai and the various institutions that have invested money in the free zones has done well in some areas, there are other areas that are still lacking. Transport remains an issue for students travelling to Academic City. Student housing has not been fully addressed, some institutions offer housing on campus or make other arrangements for students but there need to be more options within or close to the free zones where students can live at affordable prices. Another area is food, entertainment and sporting facilities.
 
 Again, these are restricted to facilities provided by individual campuses. The free zone model would certainly benefit from having more student centered facilities as this will help attract more international students and create a better environment within the zones. Dubai also needs to work on a student provisions including discounts and offers for transport, dining and entertainment.
 
-## 7.3.5 Research
+### 7.3.5 Research
 
 Both groups of stakeholders talked about the need to improve research capacity as a challenge that needs to be addressed. It is important to remember the Dubai higher education sector is a very young sector, most institutions are less than ten years old, and the regulatory systems are less than a decade old as well. Most of the institutions were also brought it with private investment and therefore have economic targets. The development of a research culture takes time and requires resources. Although research is starting to emerge there continue to remain various obstacles, the most critical of which is funding. There is no national or state research fund the institutions can tap into, the only option is to seek funding through industry collaboration.
 
-<!-- page 207 -->
+<!-- page 208 -->
 
 In order to make this happen the government could play the role of a facilitator and help connect institutions with large local corporations. In most developed countries there are growing links between government, universities and industry and Dubai would certainly benefit from better links between these three groups. Another area where the regulators can get involved is by identifying and communicate research priorities by working with various government bodies, this will help institutions establish relevant and clear research objectives which can have a direct impact on the local community. If Dubai wishes to establish itself as a successful international hub, it will be important to have a richer research environment, to attract better faculty, quality institutions and to add to the student experience.
 
-## 7.3.6 Recognition of Qualifications
+### 7.3.6 Recognition of Qualifications
 
 The lack of recognition of qualifications from free zone institutions by the federal system continues to be a significant challenge and is one that needs resolution to really enhance growth prospects for the sector. A solution to the recognition issue would open the doors for UAE nationals to enroll in the branch institutions, have access to a broader range of programmes and enroll in foreign institutions that are off high quality. It will also enable the branch institutions to tap into local and federal scholarship schemes for UAE nationals and create a segment for student recruitment. The resolution of this issue also has an impact on students from many other countries, especially the Gulf countries and other markets that use the Ministry list in the UAE as the formal list of institutions from which degrees will be recognized. This will open up opportunities for students in these markets to look at Dubai for their higher education needs.
 
 The federal recognition of branch campuses will also enable co-operation between the free zone institutions and local institutions. At the moment, due to lack of mutual recognition students are not able to move from a local to an international or vice versa. This has also created issues for graduates who cannot move between systems. It also has an impact on the reputation of Dubai, although it hasn't prevented growth, it creates a negative image when the federal system does not recognize campuses within the country.
 
-<!-- page 208 -->
+<!-- page 209 -->
 
 It creates a perception of poor quality and raises question marks about the free zone model.
 
 A potential solution to this problem is by recognition through a qualifications framework. This was not discussed by either of the stakeholder groups but is seen as in the literature as a common mechanism to resolve the issue of degree recognition. The UAE does have a National Qualifications Authority and a framework called QFEmirates but this was not referred to by any of the respondents. There are examples in other jurisdictions where such frameworks are used successfully to recognize international qualifications.
 
-## 7.3.7 Opportunities for UAE Nationals
+### 7.3.7 Opportunities for UAE Nationals
 
 As discussed earlier, there are two prevalent systems in Dubai, one primarily for the UAE nationals and one for the expat population. Despite growth in the private sector, in terms of institutions and programmes, very few UAE nationals are enrolling at the international campuses. One of the reasons for this is the lack of recognition. This is preventing UAE nationals the opportunity to access a broader range of programmes and an international higher education degree. The government and institutions need to do more to encourage UAE nationals to enroll at international programmes.
 
 This can be done through provision of scholarships and also through concentrated information sharing sessions with public and private schools to create greater awareness among national students about the expanded higher education opportunities (outside of the federal institutions). Another way to achieve this is by encouraging collaboration between the federal institutions and the international campuses. This can be done through student exchange schemes, joint academic programmes or research collaborations.
 
-## 7.3.8 Strategy for Higher Education
+### 7.3.8 Strategy for Higher Education
 
 Currently there is no publicly available strategy for higher education. The federal government has recently put out a UAE strategy for higher education but there is no similar document available at the emirate level in Dubai. It is important for Dubai to
 
-<!-- page 209 -->
+<!-- page 210 -->
 
 develop and communicate its strategy for the growth of higher education, as this will provide guidance to both existing providers and new providers and clearly identify higher education priorities of Dubai. It would be helpful if the strategy is aligned with the federal goals wherever possible as this would clear some of the confusion that is caused due to the dual system of regulation. Other hubs such as Malaysia and Singapore have very clear strategy documents that lay out the objectives and provide clarity to all stakeholders involved.
 
 There has been a recent drive in Dubai towards innovation, tolerance, happiness and wellbeing. These are seen throughout various government initiatives and strategic plans both at the Federal level and at the Emirate level. These objectives need to be translated into expectations for the sector and should shape the strategy for higher education in Dubai.
 
-## 7.3.9 Collaboration between Universities
+### 7.3.9 Collaboration between Universities
 
 Dubai has created a unique situation where they have campuses from so many different countries. As these campuses grow and become mature there is a need to encourage collaboration between these campuses. There is a potential for institutions to share resources, exchange students and faculty and work together on research or community development initiatives. Any collaboration between these Universities will benefit the country.
 
-## 7.3.10 Increased focus on the Branch
+### 7.3.10 Increased focus on the Branch
 
 One of the surprising elements in carrying out the research was to find that none of the institutions had publicly available strategies that are specific to the branch. Some institutions had overall strategies which made reference to international campuses. Many of these international campuses are now over ten years old and it would be helpful for them to either have their own priorities written out or to have a stronger reference in the home strategy. As institutions continue to grow, with some expanding into several jurisdictions, it is important for them to have appropriate strategic direction so that there
 
-<!-- page 210 -->
+<!-- page 211 -->
 
 is clarity in terms of the governance, academic and operational aspects of the branch campus as well as with the expectations from the home.
 
@@ -3224,7 +2657,7 @@ The use of a free zone model to attract international campuses funded entirely t
 
 In reviewing all the motivations, challenges and benefits, we see while there are some similarities to the previous findings, there are also various unique situations specific to the Dubai context. While the motivations to increase access, diversity programme offering, producing skilled graduates are cited in previous research (Lane, 2011; Chan, 2011; Lane and Kinser, 2011), there are other motivations such as the political and regulatory rationales that are unique to the Dubai context and add to the knowledge about motivations for institutions and host countries to engage in TNE. With respect to providers, one of the reasons that is often reported as a motivation for institutions to set up abroad is to provide a new revenue stream or generating profits (Wilkins and Huisman, 2011; Altbach, 2007), the study showed that providers were more interested in creating a sustainable operation in Dubai and that academic factors such as internationalization and mobility were more important than economic factors.
 
-<!-- page 211 -->
+<!-- page 212 -->
 
 In reviewing the challenges, many of the challenges identified by both stakeholder groups such as reputational risks, recruitment of faculty, quality assurance, and localization of curriculum are consistent with previous findings (McBurnie and Ziguras, 2011; Lane, 2011). However the study identifies new challenges which, can be attributed to growth and maturity of branch campuses and the expansion of the transnational model of higher education. The challenge discussed by both stakeholder groups in this study around the need to improve research activity is one such example. Other challenges such as improving student facilities and experience, increasing collaboration between branch campuses in one host city, dealing with multiple school curriculums, strengthening relationships between home and branch structures are new phenomenon that have not been previously explored. These are all emerging challenges of the education hub. The regulatory challenges that were identified are common to the Dubai context and even though the recognition issues of transnational education are well known (British Council, 2014; Knight and McNamara, 2016), the circumstances in Dubai are slightly different and provide insight into regulatory challenges in a country with multiple regulatory systems.
 
@@ -3232,7 +2665,7 @@ The benefits highlighted through this study for both stakeholder groups are also
 
 While the context is unique and is enabled by various factors, it does provide some lessons that can generally benefit both stakeholder groups. While it may be difficult to replicate the entire model in another jurisdiction, as there are several components that make up the Dubai model, including the free zones, the regulatory model, investment from the private sector, lessons can be drawn from some of the components individually. There are experiences around the regulatory and gatekeeping systems, such as the need to separate commercial and academic interests that could be beneficial to other jurisdictions interested in using a TNE approach. The quality assurance systems in Dubai which focus on the validation and comparability of home and branch quality is unique and has been
 
-<!-- page 212 -->
+<!-- page 213 -->
 
 developed over time can benefit other governments or agencies that are looking to develop quality assurance systems for transnational education. It also provides lessons for new providers intending to set up branch campuses in Dubai or in other locations internationally as they can draw on some of the challenges providers face in setting up branch campuses, which have been discussed in this study.
 
@@ -3246,7 +2679,7 @@ The role of the researcher also creates a potential limitation. For participants
 
 The study prompts the need for further research in TNE models. The perspective of students which were left out of this particular study, is one such area where further
 
-<!-- page 213 -->
+<!-- page 214 -->
 
 research would add value. To better understand the rationales for students to enroll in TNE or to assess the challenges and benefits for students is an area that has not been explored in detail.
 
@@ -3260,7 +2693,7 @@ It is quite evident that despite the lack of a central higher education strategy
 
 The initial objectives of the model were met, to provide access to the expat population, to grow the higher education sector quickly, to increase the range of programmes offered, to meet the growing workforce needs of the economy and to emphasize on the quality of
 
-<!-- page 214 -->
+<!-- page 215 -->
 
 institutions. The ambition has now transitioned from access and quality to that of being a hub, to attract students from the region and beyond to come, study and live in Dubai.
 
@@ -3272,7 +2705,7 @@ However, with a new objective of being a higher education hub, Dubai will need t
 
 From the supply side, Dubai needs to consider how to keep the sector sustainable through planned recruitment of new institutions and programmes, research funding, and
 
-<!-- page 215 -->
+<!-- page 216 -->
 
 regulatory improvements. And to address growing competition, Dubai needs to also grow demand by creating awareness in international markets, providing more information to students, and creating a better student experience.
 
@@ -3284,7 +2717,7 @@ In my own role, I had the chance to contribute towards the growth of the model a
 
 This motivated me to research the Dubai model as I felt there was story that needed to be shared. There are existing pockets of literature that discuss higher education in Dubai, however, not many explore Dubai in detail and very few are published by individuals who have worked in the Dubai sector. I was keen to share the views of different stakeholder groups including the government, providers and students. However for practical purposes, I had to exclude the student group, as this would significantly change the methodology and process of the study.
 
-<!-- page 216 -->
+<!-- page 217 -->
 
 The DBA provided a suitable platform for me to further explore an area I was interested and curious about. The residential sessions offered an opportunity to learn from and share experiences with peers and build a strong professional network in the higher education sector. My cohort had representation from many countries including South Africa, Lebanon, Germany, Hungary, France and the UK among others.
 
@@ -3294,7 +2727,7 @@ The journey of writing the thesis has been an excellent learning process. As I s
 
 I was also able to better appreciate the various policies and systems that were adopted in the Dubai context and gain a better understanding from the institutional perspective, which I had not had before. Overall the DBA and the process of carrying out this study, has helped me both personally and professionally. And I hope I will be able to use this experience and the recommendations from this study to make further contributions to the development of higher education in Dubai and internationally.
 
-<!-- page 217 -->
+<!-- page 218 -->
 
 ## 8. References
 
@@ -3322,7 +2755,7 @@ Bodycott, P., and A. Walker. 2000. "Teaching Abroad: Lessons Learned about Inter
 
 Bryman, A. (2008) *Social research methods*. 3rd Edition, Oxford University Press., New York.
 
-<!-- page 218 -->
+<!-- page 219 -->
 
 Bryman A, (2012) *Social Research Methods *4th ed. Oxford: Oxford University Press.
 
@@ -3354,7 +2787,7 @@ De Meyer, A, P Harker, and G Hawawini. *The Globalization of Business Education*
 
 Drake, P. 2010. *Grasping at methodological understanding: A cautionary tale from * *insider research*. International Journal of Research & Method in Education 33, no. 1: 85 – 99.
 
-<!-- page 219 -->
+<!-- page 220 -->
 
 Drucker, F.P. *The Next Society, *the Economist, 1 November 2001.
 
@@ -3382,7 +2815,7 @@ Gribble, C., and McBurnie, G. (2007, summer). Problems with Singapore's global s
 
 *Higher Education Guide.* (2017). [online] Dubai: Knowledge and Human Development Authority. Available at: http://www.khda.gov.ae [Accessed 10 Jul. 2017].
 
-<!-- page 220 -->
+<!-- page 221 -->
 
 Healey, N. (2015b), "Managing international branch campuses: what do we know?", *Higher Education Quarterly*, Vol. 69 No. 4, pp. 386-409.
 
@@ -3410,35 +2843,23 @@ Knight, J. 2003. 'GATS, trade and higher education: perspective 2003—where are
 
 Knight, J. (2006). Internationalization of higher education: *New directions, new * *challenges, the 2005 IAU* *global survey report.* Paris: International Association of Universities.
 
-<!-- page 221 -->
-
-Knight, J. (2007). Internationalization: concepts, complexities and challenges. In James. J.F. Forest, and P. G. Altbach (Eds.), *International Handbook of Higher Education* (pp. 207-27). Dordrecht, Netherlands: Springer.
-
-Knight, J. (2011). Education Hubs: A Fad, a Brand, an Innovation? *Journal of Studies in * *International Education*, 15(3), 221-240.
-
-Knight, J. and McNamara, J. (2016). *Transnational Education: A Classification * *Framework and Data Collection Guidelines for International Programme and Provider * *Mobility (IPPM).* Federal Ministry of Education and Research.
-
-Lane, J.E. (2010). Joint Ventures in Cross-Border Higher Education: International Branch Campuses in Malaysia. In D.W. Chapman and R. Sakamoto' (eds). *Cross Border * *Partnerships in Higher Education: Strategies and Issues.* New York: Routledge Publishing. pp. 67-92.
-
-Lane, J. E. (2011), Global expansion of international branch campuses: Managerial and leadership challenges. *New Directions for Higher Education*, 2011: 5–17. Doi: 10.1002/he.440
-
-Lane, J. E. and Kinser, K. (2011). The cross-border education policy context: Educational hubs, trade liberalization, and national sovereignty. *New Directions for Higher * *Education*, 2011: 79–85.
-
-Lane, J.E., Farrugia, C.A., and Kinser, K. (2014). Managing international branch campuses. In M. Magnan, M. Soderqvist, H. van Liempd, and F. Wittmann (Eds.), *EAIA * *Handbook on Internationalization*.
-
-Lawton, W. and Katsomitros, A. (2012). *International branch campuses: data and * *developments*. [OBHE. Available at: http://www.obhe.ac.uk/documents/view_details?id=894 [Accessed 14 Jul. 2017].
-
-LeCompte, M.D., and J.J. Schensul. *Analyzing and* *Interpreting Ethnographic Data.* California: Walnut Creek, 1997. Print.
-
-Levy, D. A., 2006, the unanticipated explosion: Private higher education's global surge. *Comparative Education Review*, 50(2), pp. 217–240.
-
-Malterud, K. 2001. "Qualitative research: Standards, challenges and guidelines." The Lancet. 358: pp. 483-488.
-
-Mansur, K., Kogid, M. and Madais, S. J. (2010). Human Capital Investment: Literature Review Analysis and a Study Case among Kadazan-Dusun of Pulutan Village, Menggatal, Kota Kinabalu, Sabah, Malaysia, *The Social Sciences* 5(3), pp. 264-269.
-
-Maringe, F., & Gibbs, P. (2009). *Marketing higher education: Theory and practice*. Maidenhead: Open University Press/McGraw-Hill Education.
-
 <!-- page 222 -->
+
+- Knight, J. (2007). Internationalization: concepts, complexities and challenges. In James. J.F. Forest, and P. G. Altbach (Eds.), *International Handbook of Higher Education* (pp. 207-27). Dordrecht, Netherlands: Springer.
+- Knight, J. (2011). Education Hubs: A Fad, a Brand, an Innovation? *Journal of Studies in * *International Education*, 15(3), 221-240.
+- Knight, J. and McNamara, J. (2016). *Transnational Education: A Classification * *Framework and Data Collection Guidelines for International Programme and Provider * *Mobility (IPPM).* Federal Ministry of Education and Research.
+- Lane, J.E. (2010). Joint Ventures in Cross-Border Higher Education: International Branch Campuses in Malaysia. In D.W. Chapman and R. Sakamoto' (eds). *Cross Border * *Partnerships in Higher Education: Strategies and Issues.* New York: Routledge Publishing. pp. 67-92.
+- Lane, J. E. (2011), Global expansion of international branch campuses: Managerial and leadership challenges. *New Directions for Higher Education*, 2011: 5–17. Doi: 10.1002/he.440
+- Lane, J. E. and Kinser, K. (2011). The cross-border education policy context: Educational hubs, trade liberalization, and national sovereignty. *New Directions for Higher * *Education*, 2011: 79–85.
+- Lane, J.E., Farrugia, C.A., and Kinser, K. (2014). Managing international branch campuses. In M. Magnan, M. Soderqvist, H. van Liempd, and F. Wittmann (Eds.), *EAIA * *Handbook on Internationalization*.
+- Lawton, W. and Katsomitros, A. (2012). *International branch campuses: data and * *developments*. [OBHE. Available at: http://www.obhe.ac.uk/documents/view_details?id=894 [Accessed 14 Jul. 2017].
+- LeCompte, M.D., and J.J. Schensul. *Analyzing and* *Interpreting Ethnographic Data.* California: Walnut Creek, 1997. Print.
+- Levy, D. A., 2006, the unanticipated explosion: Private higher education's global surge. *Comparative Education Review*, 50(2), pp. 217–240.
+- Malterud, K. 2001. "Qualitative research: Standards, challenges and guidelines." The Lancet. 358: pp. 483-488.
+- Mansur, K., Kogid, M. and Madais, S. J. (2010). Human Capital Investment: Literature Review Analysis and a Study Case among Kadazan-Dusun of Pulutan Village, Menggatal, Kota Kinabalu, Sabah, Malaysia, *The Social Sciences* 5(3), pp. 264-269.
+- Maringe, F., & Gibbs, P. (2009). *Marketing higher education: Theory and practice*. Maidenhead: Open University Press/McGraw-Hill Education.
+
+<!-- page 223 -->
 
 McBurnie, G., 2008. Quality assurance for transnational education – International, national and institutional approaches.
 
@@ -3464,7 +2885,7 @@ Naidoo, R. (2007), *Higher Education as a Global Commodity: The Perils and Promi
 
 Naidoo, V. (2009). Transnational higher education – A stock take of current activity. *Journal of Studies in International Education 13, *no. 3: 310-30.
 
-<!-- page 223 -->
+<!-- page 224 -->
 
 Neuman, W. L. (2003). *Social Research Methods: Qualitative and Quantitative * *Approaches *(5th ed.). Boston: Allyn and Bacon.
 
@@ -3496,7 +2917,7 @@ Scott, R.A. (1992). *Campus Developments in Response to the Challenges* *of * *I
 
 Smith, K, 2010. Assuring quality in transnational higher education: a matter of collaboration or control? *Studies in Higher Education*, 35:7, 793-806.
 
-<!-- page 224 -->
+<!-- page 225 -->
 
 Simons, Helen. (2009) *Case Study Research in* *Practice*. London: SAGE Publications, 2009. Print.
 
@@ -3526,7 +2947,7 @@ Universities UK International (2016). *The Scale of UK Transnational Higher Educ
 
 Unluer, S, 2012. 'Being an Insider Researcher While Conducting Case Study Research'. *The Qualitative Report* 17 (2012): 1-14. Print.
 
-<!-- page 225 -->
+<!-- page 226 -->
 
 Ulin, P. R., Robinson, E. T. and Tolley E. E. (2004). *Qualitative Methods in Public * *Health: A Field Guide for Applied Research*. San Francisco: Jossey-Bass.
 
@@ -3554,13 +2975,13 @@ Yin, R K, 1994. *Case Study Research: Design and* *Methods*. London: Sage, 1994.
 
 Yin, R. K, 2003. *Applications of Case Study Research*. 2nd ed. London: Sage, 2003. Print.
 
-<!-- page 226 -->
+<!-- page 227 -->
 
 Yin, R. K. 2009. Case Study Research: Design and Methods (fourth edition). Thousand Oaks, CA: Sage.
 
 Yin, R.K. (2012). *Applications of case study research*. Los Angeles, CA: SAGE 2012. Print.
 
-<!-- page 227 -->
+<!-- page 228 -->
 
 ## 9. Appendices
 
@@ -3568,21 +2989,7 @@ Yin, R.K. (2012). *Applications of case study research*. Los Angeles, CA: SAGE 2
 
 ## Interview Schedule – Stakeholder Group a (Government Planners)
 
-Institution:
-
-[Type your name]
-
-Location:
-
-Name:
-
-[Type a class name]
-
-Date:
-
-Position:
-
-[Type a period name]
+Institution:[Type your name]Location:Name:[Type a class name]Date:Position:[Type a period name]
 
 This interview is component of a research study being undertaken on the topic "Motivations, Challenges and Benefits of the Dubai transnational model of Higher Education". The purpose of my thesis is to explore the impact of Dubai's transnational model of higher education from the perspective of two stakeholder groups, higher education providers, and government planners. All names (interviewees and institutions) will be anonymized in the thesis.
 
@@ -3590,105 +2997,71 @@ Thank you for your participation.
 
 ## **Part I: Introduction **
 
-1) Brief description of the role and activities of the organization.
-
-2) Brief description of your role. How long have you been at this organization?
+- 1) Brief description of the role and activities of the organization.
+- 2) Brief description of your role. How long have you been at this organization?
 
 ## **Part II: Motivations for developing the transnational (branch campus) model in ** **Dubai**
 
-3) Why did Dubai choose to develop its higher education sector through a transnational model as opposed to a more traditional approach of building its own Universities?
+- 3) Why did Dubai choose to develop its higher education sector through a transnational model as opposed to a more traditional approach of building its own Universities?
+- 4) Was this part of a boarder strategy for higher education development by the Dubai Government?
+- 5) What were the economic expectations of the model (revenue, attracting international students)?
+- 6) Some of the motivations that are usually linked to TNE models include increasing competitiveness, building capacity and the diversification of programmes? Were these also applicable here in Dubai?
 
-4) Was this part of a boarder strategy for higher education development by the Dubai Government?
+<!-- page 229 -->
 
-5) What were the economic expectations of the model (revenue, attracting international students)?
-
-6) Some of the motivations that are usually linked to TNE models include increasing competitiveness, building capacity and the diversification of programmes? Were these also applicable here in Dubai?
-
-<!-- page 228 -->
-
-7) Existing research suggests that increasing access and building a skilled workforce were the key motivators in Dubai's development of an international higher education sector. Do you agree with this and could you please explain this further?
-
-8) Dubai is now referred to as a higher education hub. Was this part of the strategy all along or is this a consequence of the growth of the sector?
-
-9) What is the role and purpose of building free zones for higher education?
-
-10) How has the strategy and the objectives evolved since its inception in 2003?
+- 7) Existing research suggests that increasing access and building a skilled workforce were the key motivators in Dubai's development of an international higher education sector. Do you agree with this and could you please explain this further?
+- 8) Dubai is now referred to as a higher education hub. Was this part of the strategy all along or is this a consequence of the growth of the sector?
+- 9) What is the role and purpose of building free zones for higher education?
+- 10) How has the strategy and the objectives evolved since its inception in 2003?
 
 ## **Part III: Challenges** **associated with a TNE model of higher education **
 
 ## 11) Political/Regulatory:
 
-a. What were the key challenges in setting up a regulatory and legal system to support the development of TNE in Dubai?
-
-b. How does the Dubai model fit in with federal approach to higher education?
-
-c. One of the challenges highlighted in the literature, is the impact on national development, as most TNE providers tend to focus on delivering courses that are market driven rather than national policy driven. How is this relevant in the Dubai context?
+- a. What were the key challenges in setting up a regulatory and legal system to support the development of TNE in Dubai?
+- b. How does the Dubai model fit in with federal approach to higher education?
+- c. One of the challenges highlighted in the literature, is the impact on national development, as most TNE providers tend to focus on delivering courses that are market driven rather than national policy driven. How is this relevant in the Dubai context?
 
 ## 12) Academic:
 
-a. What were the main challenges in attracting higher education institutions to set up campuses in Dubai?
-
-b. One of the main challenges associated with TNE systems is quality. Were there any concerns about the quality of institutions that were setting up in Dubai?
-
-c. Has the implementation of the UQAIB model for quality assurance helped in ensuring comparative quality of a branch to its home institution?
+- a. What were the main challenges in attracting higher education institutions to set up campuses in Dubai?
+- b. One of the main challenges associated with TNE systems is quality. Were there any concerns about the quality of institutions that were setting up in Dubai?
+- c. Has the implementation of the UQAIB model for quality assurance helped in ensuring comparative quality of a branch to its home institution?
 
 ## 13) Economic Challenges:
 
-a. What were the different models developed to attract investment in higher education?
-
-b. Dubai built free zones with ready infrastructure what role do you think this has played in reducing economic burden for international institutions?
-
-c. Several countries provide support to foreign institutions however this is not common in the Dubai model. Is there a reason for this?
+- a. What were the different models developed to attract investment in higher education?
+- b. Dubai built free zones with ready infrastructure what role do you think this has played in reducing economic burden for international institutions?
+- c. Several countries provide support to foreign institutions however this is not common in the Dubai model. Is there a reason for this?
 
 ## 14) Social and Cultural Challenges:
 
-a. Are institutions expected to modify their curriculum and programme offering to meet local and cultural expectations?
+- a. Are institutions expected to modify their curriculum and programme offering to meet local and cultural expectations?
+- b. What measures have the government taken to help incoming institutions and students to understand the local context?
 
-b. What measures have the government taken to help incoming institutions and students to understand the local context?
-
-<!-- page 229 -->
+<!-- page 230 -->
 
 ## **Part IV: Benefits**
 
-15) What are they key achievements of the Dubai transnational model since its inception?
-
-16) How has this model contributed towards the development of Dubai and the attainment of its strategic objectives?
-
-17) Has the Dubai TNE model grown and developed in line with expectations that was set out originally?
-
-18) Have any regulatory processes and systems been enhanced or developed over the last decade to make the model more efficient and effective?
+- 15) What are they key achievements of the Dubai transnational model since its inception?
+- 16) How has this model contributed towards the development of Dubai and the attainment of its strategic objectives?
+- 17) Has the Dubai TNE model grown and developed in line with expectations that was set out originally?
+- 18) Have any regulatory processes and systems been enhanced or developed over the last decade to make the model more efficient and effective?
 
 ## **Part V: Looking Ahead**
 
-19) Are there any improvements that can be made to the current model in Dubai in terms of legislation, policies and processes?
+- 19) Are there any improvements that can be made to the current model in Dubai in terms of legislation, policies and processes?
+- 20) With a changing higher education landscape, what do you think are some of the challenges that will arise in the future of transnational education?
+- 21) Having described some of the benefits earlier, do you anticipate that this model of transnational education involving branch campuses will continue to grow and develop?
+- 22) If you had the opportunity to start over, is there anything the government would have done differently?
 
-20) With a changing higher education landscape, what do you think are some of the challenges that will arise in the future of transnational education?
-
-21) Having described some of the benefits earlier, do you anticipate that this model of transnational education involving branch campuses will continue to grow and develop?
-
-22) If you had the opportunity to start over, is there anything the government would have done differently?
-
-<!-- page 230 -->
+<!-- page 231 -->
 
 ## **9.2** **Interview Schedule –** **Stakeholder Group B**
 
 ## Interview **Schedule –** **Stakeholder Group B (Higher ** **Education Providers)**
 
-Institution:
-
-[Type your name]
-
-Location:
-
-Name:
-
-[Type a class name]
-
-Date:
-
-Position:
-
-[Type a period name]
+Institution:[Type your name]Location:Name:[Type a class name]Date:Position:[Type a period name]
 
 This interview is component of a research study being undertaken on the topic "Motivations, Challenges and Benefits of the Dubai transnational model of Higher Education". The purpose of my thesis is to explore the impact of Dubai's transnational model of higher education from the perspective of two stakeholder groups, higher education providers, and government planners. All names (interviewees and institutions) will be anonymized in the thesis.
 
@@ -3696,84 +3069,63 @@ Thank you for your participation.
 
 ## **Part I: Introduction **
 
-1) When was the branch established in Dubai and does the institution operate other branches in different jurisdictions?
-
-2) Brief description of your role. How long have you been at this institution?
+- 1) When was the branch established in Dubai and does the institution operate other branches in different jurisdictions?
+- 2) Brief description of your role. How long have you been at this institution?
 
 ## **Part II: Motivations for establishing a campus in Dubai**
 
-3) Was the establishment of a campus in Dubai part of a broader internationalization strategy of the institution? (Are there any publicly available documents that can be shared that express the institutions strategy?)
+- 3) Was the establishment of a campus in Dubai part of a broader internationalization strategy of the institution? (Are there any publicly available documents that can be shared that express the institutions strategy?)
+- 4) What other forms of TNE activity does the institution engage in?
+- 5) Why was Dubai selected over other countries as a location for setting up a campus? Was any market research carried out before a decision was made to set up a campus in Dubai? If yes, what were the key findings?
+- 6) Did the free zones and availability of ready infrastructure play an important role in selecting Dubai as a destination for a campus?
 
-4) What other forms of TNE activity does the institution engage in?
+<!-- page 232 -->
 
-5) Why was Dubai selected over other countries as a location for setting up a campus? Was any market research carried out before a decision was made to set up a campus in Dubai? If yes, what were the key findings?
-
-6) Did the free zones and availability of ready infrastructure play an important role in selecting Dubai as a destination for a campus?
-
-<!-- page 231 -->
-
-7) What were the main academic motivations for establishing a branch campus in Dubai with reference to internationalization of curriculum and faculty, research development and student mobility?
-
-8) Were there any economic objectives for the Dubai campus? Literature suggests that the economic rationale is the most significant for institutions, would you agree with this statement?
-
-9) How does the campus contribute towards Dubai's strategic objectives and national policy agenda?
+- 7) What were the main academic motivations for establishing a branch campus in Dubai with reference to internationalization of curriculum and faculty, research development and student mobility?
+- 8) Were there any economic objectives for the Dubai campus? Literature suggests that the economic rationale is the most significant for institutions, would you agree with this statement?
+- 9) How does the campus contribute towards Dubai's strategic objectives and national policy agenda?
 
 ## **Part III: Challenges** **associated with establishing and running a campus in Dubai**
 
 ## 10) Political/Regulatory:
 
-a. Were there any legislative challenges in establishing and running a branch in Dubai?
-
-b. Were there any regulatory barriers in the host country to set up a campus?
-
-c. Were the local legislation and regulatory processes for setting up a campus readily available, clear and easy to understand?
+- a. Were there any legislative challenges in establishing and running a branch in Dubai?
+- b. Were there any regulatory barriers in the host country to set up a campus?
+- c. Were the local legislation and regulatory processes for setting up a campus readily available, clear and easy to understand?
 
 ## 11) Academic Challenges:
 
-a. Were there any issues in the attraction and recruitment of faculty for the Dubai campus? Are any faculty from the home campus involved?
-
-b. Are there any issues around admission criteria for students at the branch?
-
-c. How is research activity managed at the branch? Are there research funds available? What are they major challenges around development of research?
+- a. Were there any issues in the attraction and recruitment of faculty for the Dubai campus? Are any faculty from the home campus involved?
+- b. Are there any issues around admission criteria for students at the branch?
+- c. How is research activity managed at the branch? Are there research funds available? What are they major challenges around development of research?
 
 ## 12) Economic Challenges:
 
-a. If the institution is self-funded, please describe any economic challenges involved in the set-up of the Dubai campus or if the institution has a local-partner, please describe any economic challenges involved in establishment with a local partner.
-
-b. Given that there is no economic support from the Government like in some other countries, is that a challenge for campuses?
-
-c. With a large number of institutions in Dubai offering similar programmes, does the competitive environment make it difficult to economically sustain a campus in Dubai?
+- a. If the institution is self-funded, please describe any economic challenges involved in the set-up of the Dubai campus or if the institution has a local-partner, please describe any economic challenges involved in establishment with a local partner.
+- b. Given that there is no economic support from the Government like in some other countries, is that a challenge for campuses?
+- c. With a large number of institutions in Dubai offering similar programmes, does the competitive environment make it difficult to economically sustain a campus in Dubai?
 
 ## 13) Social and Cultural Challenges:
 
-a. Did the institution have to adapt any of its policies and processes to meet social and cultural expectations?
-
-b. How is curriculum customized to meet the social and cultural context of the host country? Were there any difficulties in this process?
+- a. Did the institution have to adapt any of its policies and processes to meet social and cultural expectations?
+- b. How is curriculum customized to meet the social and cultural context of the host country? Were there any difficulties in this process?
 
 c.
 
-<!-- page 232 -->
+<!-- page 233 -->
 
 14) Are there any other significant challenges were faced by the institution?
 
 ## **Part IV: Benefits**
 
-15) What are they key achievements of the Dubai campus since its establishment?
-
-16) Has the Dubai campus grown and developed in line with expectations of the economic model that was set out originally?
-
-17) How has the campus in Dubai contributed towards the internationalization of faculty, curriculum and research at home?
-
-18) Have any processes of the home campus been enhanced or developed through the experience of running an international campus?
+- 15) What are they key achievements of the Dubai campus since its establishment?
+- 16) Has the Dubai campus grown and developed in line with expectations of the economic model that was set out originally?
+- 17) How has the campus in Dubai contributed towards the internationalization of faculty, curriculum and research at home?
+- 18) Have any processes of the home campus been enhanced or developed through the experience of running an international campus?
 
 ## **Part V: Looking Ahead**
 
-19) Are there any improvements that can be made to the current model in Dubai in terms of legislation, policies and processes?
-
-20) With a changing higher education landscape, what do you think are some of the challenges that will arise in the future for international branch campuses?
-
-21) Having described some of the benefits earlier, do you anticipate that this model of transnational education involving branch campuses will continue to grow and develop?
-
-22) If you had the opportunity to start over, is there anything you would have done differently?
-
-<!-- page 233 -->
+- 19) Are there any improvements that can be made to the current model in Dubai in terms of legislation, policies and processes?
+- 20) With a changing higher education landscape, what do you think are some of the challenges that will arise in the future for international branch campuses?
+- 21) Having described some of the benefits earlier, do you anticipate that this model of transnational education involving branch campuses will continue to grow and develop?
+- 22) If you had the opportunity to start over, is there anything you would have done differently?

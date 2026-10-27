@@ -14,7 +14,7 @@ Award date: 2024
 
 Awarding institution: University of Bath
 
-Link to publication
+[Link to publication](https://researchportal.bath.ac.uk/en/studentTheses/f5069504-c234-434c-8d22-ca787753e846)
 
 ## **Alternative formats**
 
@@ -28,7 +28,7 @@ If you consider content within Bath's Research Portal to be in breach of UK law,
 
 Download date: 11. Oct. 2025
 
-<!-- page 1 -->
+<!-- page 2 -->
 
 ## INCOME DIVERSIFICATION AND FINANCIAL SUSTAINABILITY IN ENGLISH UNIVERSITIES: THE ROLE OF INTERNATIONAL AND REMOTE METROPOLITAN BRANCH CAMPUSES
 
@@ -44,7 +44,7 @@ School of Management
 
 February 2024
 
-<!-- page 2 -->
+<!-- page 3 -->
 
 ## COPYRIGHT
 
@@ -64,429 +64,34 @@ I am the author of this thesis, and the work described therein was carried out b
 
 Candidate's signature… ……………
 
-<!-- page 3 -->
+<!-- page 4 -->
 
 ## Table of Contents
 
-List of Figures
-
-4
-
-List of Abbreviations
-
-5
-
-Acknowledgements
-
-7
-
-Abstract
-
-8
-
-Chapter One: Introduction
-
-9
-
-1.1
-
-Higher Education: a financially sustainable model?
-
-9
-
-1.2
-
-An emerging challenge for English universities
-
-10
-
-1.3
-
-Personal motivations
-
-11
-
-1.4
-
-Aims and research questions
-
-12
-
-1.5
-
-Structure of the thesis
-
-12
-
-1.6
-
-Key definitions
-
-14
-
-Chapter Two: Context
-
-17
-
-2.1
-
-The growth and marketisation of English HE
-
-17
-
-2.2
-
-The English University sector: a financial snapshot
-
-19
-
-2.3
-
-Income diversification: the options open to universities
-
-21
-
-2.4
-
-Spatial diversification and the growth of IBCs and RMBCs
-
-24
-
-Chapter Three: Literature Review
-
-28
-
-3.1
-
-The neoliberalisation, marketisation and internationalisation of HE
-
-28
-
-3.2
-
-Financial sustainability within HE
-
-28
-
-3.3
-
-Income diversification
-
-31
-
-3.4
-
-International branch campuses
-
-37
-
-3.5
-
-The growth in remote metropolitan branch campuses
-
-38
-
-3.6
-
-Theoretical framework: Resource Dependency Theory
-
-40
-
-3.7
-
-Theoretical framework: the Resource Based View
-
-41
-
-3.8
-
-Gaps in the literature
-
-42
-
-Chapter Four: Methodology
-
-43
-
-4.1
-
-Overview and research philosophy
-
-43
-
-4.2
-
-Overarching methodology: the alternative format
-
-44
-
-4.3
-
-Methodology employed within research papers
-
-45
-
-4.4
-
-Validity, reliability and limitations
-
-47
-
-4.5
-
-Ethical considerations
-
-49
-
-Chapter Five: How and why have higher education tuition fee policies evolved in England since 1997? A critical discourse analysis of Dearing, Browne and Auger.
-
-50
-
-5.1
-
-Background
-
-50
-
-5.2
-
-Synopsis of method and findings
-
-50
-
-5.3
-
-Contribution to thesis
-
-51
-
-5.4
-
-Full paper as published
-
-51
-
-<!-- page 4 -->
-
-Chapter Six: Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England.
-
-75
-
-6.1
-
-Background
-
-75
-
-6.2
-
-Synopsis of method and findings
-
-75
-
-6.3
-
-Contribution to thesis
-
-76
-
-6.4
-
-Full paper as published
-
-76
-
-Chapter Seven: What are the common factors underlying successful international branch campuses? Toward a conceptual decision-making framework for UK
-
-95
-
-universities.
-
-7.1
-
-Background
-
-95
-
-7.2
-
-Synopsis of method and findings
-
-95
-
-7.3
-
-Contribution to thesis
-
-96
-
-7.4
-
-Full paper as published
-
-96
-
-Chapter Eight: The rise of the Remote Metropolitan Branch Campus – definitions, motivations and models.
-
-114
-
-8.1
-
-Background
-
-114
-
-8.2
-
-Synopsis of method and findings
-
-114
-
-8.3
-
-Contribution to thesis
-
-115
-
-8.4
-
-Full paper as revised and resubmitted
-
-115
-
-Chapter Nine: Discussion
-
-146
-
-9.1
-
-Discussion structure
-
-146
-
-9.2
-
-Contemporary financial challenges within English universities
-
-146
-
-9.3
-
-Institutional responses
-
-149
-
-9.4
-
-The role of a branch campus, an external perspective
-
-153
-
-9.5
-
-The role of a branch campus, an internal perspective
-
-158
-
-9.6
-
-Determinants of successful spatial diversification
-
-162
-
-9.7
-
-Summary of Discussion section
-
-165
-
-Chapter Ten: Conclusions
-
-166
-
-10.1
-
-Summary of findings
-
-166
-
-10.2
-
-Theoretical contribution
-
-169
-
-10.3
-
-Professional contribution
-
-169
-
-10.4
-
-Limitations and qualifications
-
-170
-
-10.5
-
-Proposals for future research
-
-171
-
-10.6
-
-Closing personal reflections
-
-171
-
-References
-
-172
-
-Appendices
-
-196
-
-Co-author letters
-
-196
-
-Statements of Authorship
-
-199
-
-Interview questions related to Chapter Eight
-
-204
-
-Participant
-
-information related to Chapter Eight
-
-205
+List of Figures4List of Abbreviations5Acknowledgements7Abstract8Chapter One: Introduction91.1Higher Education: a financially sustainable model?91.2An emerging challenge for English universities101.3Personal motivations111.4Aims and research questions121.5Structure of the thesis121.6Key definitions14Chapter Two: Context172.1The growth and marketisation of English HE172.2The English University sector: a financial snapshot192.3Income diversification: the options open to universities212.4Spatial diversification and the growth of IBCs and RMBCs24Chapter Three: Literature Review283.1The neoliberalisation, marketisation and internationalisation of HE283.2Financial sustainability within HE283.3Income diversification313.4International branch campuses373.5The growth in remote metropolitan branch campuses383.6Theoretical framework: Resource Dependency Theory403.7Theoretical framework: the Resource Based View413.8Gaps in the literature42Chapter Four: Methodology434.1Overview and research philosophy434.2Overarching methodology: the alternative format444.3Methodology employed within research papers454.4Validity, reliability and limitations474.5Ethical considerations49Chapter Five: How and why have higher education tuition fee policies evolved in
+England since 1997? A critical discourse analysis of Dearing, Browne and Auger.505.1Background505.2Synopsis of method and findings505.3Contribution to thesis515.4Full paper as published51
 
 <!-- page 5 -->
 
-## List of Figures
-
-Figure 1: English University Income (£bn)
-
-Figure 2: English University Expenditure (£bn)
-
-Figure 3: Surplus or deficit (% of income) for English universities in 2016/17 and 2021/22
-
-Figure 4: Examples of income diversification options open to English HE
-
-Figure 5: English university-led IBCs (2023)
-
-Figure 6: English university-led RMBCs (2023)
-
-Figure 7: Combined analytical framework
-
-Figure 8: The determinants of successful diversification through IBCs and RMBCs
+Chapter Six: Financial sustainability in a marketised and partially autonomous
+environment: the case of small new public universities in England.756.1Background756.2Synopsis of method and findings756.3Contribution to thesis766.4Full paper as published76Chapter Seven: What are the common factors underlying successful international
+branch campuses? Toward a conceptual decision-making framework for UK95universities.7.1Background957.2Synopsis of method and findings957.3Contribution to thesis967.4Full paper as published96Chapter Eight: The rise of the Remote Metropolitan Branch Campus –
+definitions, motivations and models.1148.1Background1148.2Synopsis of method and findings1148.3Contribution to thesis1158.4Full paper as revised and resubmitted115Chapter Nine: Discussion1469.1Discussion structure1469.2Contemporary financial challenges within English universities1469.3Institutional responses1499.4The role of a branch campus, an external perspective1539.5The role of a branch campus, an internal perspective1589.6Determinants of successful spatial diversification1629.7Summary of Discussion section165Chapter Ten: Conclusions16610.1Summary of findings16610.2Theoretical contribution16910.3Professional contribution16910.4Limitations and qualifications17010.5Proposals for future research17110.6Closing personal reflections171References172Appendices196Co-author letters196Statements of Authorship199Interview questions related to Chapter Eight204Participantinformation related to Chapter Eight205
 
 <!-- page 6 -->
+
+## List of Figures
+
+- Figure 1: English University Income (£bn)
+- Figure 2: English University Expenditure (£bn)
+- Figure 3: Surplus or deficit (% of income) for English universities in 2016/17 and 2021/22
+- Figure 4: Examples of income diversification options open to English HE
+- Figure 5: English university-led IBCs (2023)
+- Figure 6: English university-led RMBCs (2023)
+- Figure 7: Combined analytical framework
+- Figure 8: The determinants of successful diversification through IBCs and RMBCs
+
+<!-- page 7 -->
 
 ## List of Abbreviations
 
@@ -548,7 +153,7 @@ Quality Assurance Agency for Higher Education (QAA)
 
 Remote Metropolitan Branch Campus (RMBC)
 
-<!-- page 7 -->
+<!-- page 8 -->
 
 Research Excellence Framework (REF)
 
@@ -580,7 +185,7 @@ Universities Superannuation Scheme (USS)
 
 Universities UK (UUK)
 
-<!-- page 8 -->
+<!-- page 9 -->
 
 ## Acknowledgements
 
@@ -596,7 +201,7 @@ Third, I would like to acknowledge the backing I have had from my own institutio
 
 Finally, and most importantly, I would not have been able to complete this Doctorate without the love and support of my wife Sarah. She has kept me going through long weekends of reading, thinking and writing and helped me keep a perspective. It is to her that this thesis is dedicated.
 
-<!-- page 9 -->
+<!-- page 10 -->
 
 ## Abstract
 
@@ -606,7 +211,7 @@ Using an alternative format, and based on four original papers published (or awa
 
 Acknowledging that branch campuses can be expensive to establish and operate, and have failed in the past, I present a new theoretical model synthesising the environmental and organisational characteristics, and project factors, necessary to devise and implement a venture of this type. These include sufficient autonomy, strong leadership, management, and communication, a strategic orientation, cultural awareness, proactive stakeholder management and effective resource planning.
 
-<!-- page 10 -->
+<!-- page 11 -->
 
 ## Chapter One: Introduction
 
@@ -618,7 +223,7 @@ For many years this increasingly global, innovative and competitive sector has t
 
 In this thesis I examine the case of the English HE sector. I will present four peer-reviewed papers to assess the financial pressures being placed on English universities, and discuss current and future responses, with a particular focus on the emergence of spatial diversification
 
-<!-- page 11 -->
+<!-- page 12 -->
 
 in the form of International Branch Campuses (IBCs) and Remote Metropolitan Branch Campuses (RMBCs). As well as other forms of Transnational Education (TNE), both have become increasingly popular and financially important in the first quarter of the twenty-first century. I utilise a framework that combines Resource Dependency Theory (RDT), which acknowledges that institutions are dependent on their environments and suggests revenue diversification as an approach to minimise the reliance on any single group of external actors, and the Resource Based View (RBV), which argues that organisational performance is principally a function of its unique resources and capabilities (Pfeffer and Salancik, 1978, 2003: Barney, 1991; Froelich, 1999).
 
@@ -628,7 +233,7 @@ By most measures, HE in England is one of the nation's great success stories. Ac
 
 The past three decades have seen high levels of growth in the English HE sector, with both the number of students and number of universities more than doubling since 1992. Yet from a financial perspective, it could be argued that the sector has started a period of decline. Home undergraduate fees have been largely fixed for ten years, with political resistance to increasingly shifting the burden from taxpayers to students, representing a real terms fall of 29% between 2013 and 2023, which since the end of the Covid pandemic in 2021 has been accelerated by high inflation in the costs borne by institutions and their students (Fazakerley, 2023). The inflow of international students, for several years the primary source of financial security for many English universities, is now at risk, with the UK Government imposing restrictions on postgraduates' dependents from January 2024 as part of a wider set of measures to reduce overall levels of immigration (DfE, 2023a). Most recently, in July 2023, further Government announcements indicated that student number controls for some courses deemed
 
-<!-- page 12 -->
+<!-- page 13 -->
 
 not to provide value for money will return to English HE, whilst tuition fee caps for foundationlevel programmes will be reduced from 2025. In parallel, the sector has experienced industrial unrest and an increased level of scrutiny, reporting and regulation, placing more managerial and administrative pressure on universities of all shapes and sizes. To illustrate these pressures on finances, in 2021-22, 70% of English universities, as defined in this thesis, made an annual financial deficit, compared to only 18% in 2016-17 (HESA, 2023c).
 
@@ -638,7 +243,7 @@ In response to these challenges, English universities continue to innovate and d
 
 My personal motivations for basing this thesis around financial sustainability, income diversification and geographical innovation lie in my background and role. As the Chief Operating Officer at a medium sized English university, I have been tasked with driving growth and improving the financial sustainability of my institution so have sought to remain at the forefront of understanding, interpreting and developing responses to internal and external financial and related challenges, spanning changing student preferences and demographics, government policies, micro and macro-economic conditions and competitive forces. I have led responses including reorganising the university's resources, repositioning our academic portfolio, establishing an RMBC and most recently exploring a possible IBC and other options for sustainable TNE. I also have a longstanding interest in the role of economic geography in HE, likely driven by my degrees at undergraduate and postgraduate level and my previous career working in economic development consulting in the UK and around the world. I have chosen to focus this thesis on branch campuses as, for some time, I have considered both IBCs and RMBCs as a model that universities could adopt to tackle their financial sustainability challenges in a long term, strategic way. I acknowledge that other forms of TNE continue to be more popular, as discussed later, but discuss in Hickey and Davies (2022) [Chapter Seven]
 
-<!-- page 13 -->
+<!-- page 14 -->
 
 how branch campuses could be considered to represent a true positional good that offer many strategic benefits relating to institutional control, reputation, research and partnership building, in addition to sustainable financial returns.
 
@@ -658,7 +263,7 @@ RQ2: How are universities responding, and how is this changing?
 
 RQ3: What evidence exists to suggest that branch campuses, both at home and abroad, support institutional financial sustainability?
 
-<!-- page 14 -->
+<!-- page 15 -->
 
 RQ4: Under what conditions do branch campuses appear be successful?
 
@@ -674,7 +279,7 @@ Chapters Five, Six, Seven and Eight provide the original published versions of f
 
 Chapter Nine discusses the findings and conclusions of each of my published papers - together with existing empirical data and literature as presented in Chapters Two and Three - to address the above four research questions and present a synthesised theoretical model. Finally, Chapter Ten summarises my findings, distils their theoretical and professional contributions, highlights
 
-<!-- page 15 -->
+<!-- page 16 -->
 
 their limitations and makes proposals for future research into the themes explored in this document. I also make some personal reflections in this concluding chapter.
 
@@ -688,7 +293,7 @@ Therefore, instead of adopting the OfS definition of 'provider', this thesis pos
 
 ## Financial Sustainability
 
-<!-- page 16 -->
+<!-- page 17 -->
 
 There are numerous definitions for financial sustainability in the public sector in general - and in HE in particular - as discussed extensively by Lucianelli and Citro (2017). I take a definition for financial sustainability from the OfS which states that a university is sustainable if it first, has the necessary financial resources to fully deliver its advertised courses, and second, continues to comply with all conditions of its registration (OfS, 2022b). This aligns to an independent definition from the university-led Financial Sustainability Strategy Group (FSSG), which indicate that financial sustainability requires:
 
@@ -704,7 +309,7 @@ Some definitions of financial sustainability explicitly include a requirement fo
 
 Over the past two decades, several articles have been committed to discussing the difficulties of defining an IBC, include those arguing the importance or otherwise of legal structures,
 
-<!-- page 17 -->
+<!-- page 18 -->
 
 branding, curriculum oversight, regulatory control and other factors (Lawton and Katsomitros, 2012; Lane and Kinser, 2013; Kinser and Lane, 2012; Knight 2016; 2020). The thesis takes its definition from the Cross-Border Education Research Team (C-BERT), hosted at the State University of New York Albany and Pennsylvania State University, which provides a contemporary global data source on IBCs. It describes an IBC as:
 
@@ -718,7 +323,7 @@ Whilst the number of secondary campuses being created domestically across severa
 
 This working definition, which was developed using similar principles as those by C-BERT to develop the most popular IBC definition, considers branding, proximity to the primary campus and financial ownership as the key characteristics of an RMBC.
 
-<!-- page 18 -->
+<!-- page 19 -->
 
 ## Chapter Two: Context
 
@@ -728,7 +333,7 @@ Over the past three decades, English HE has changed radically and arguably as mu
 
 In response to evidence of underfunding of HE over the previous two decades which was impacting the international competitiveness of the sector, including significant budget cuts under the Thatcher Government (Shattock, 1999), and following Dearing (1997), undergraduate tuition fees were reintroduced into the English system in 1998. Initially set as up-front fees of £1,000 per year, and supported by loans, they were increased to £3,000 per annum from 2006, in parallel with a new financial support system where loans would only be repayable when a graduate's salary reached £15,000. Subsequently, the Browne Review in 2010 indirectly led to an increased annual fee cap of £9,000 per annum, which whilst only expected to be set by a small number of select universities in exceptional circumstances, quickly became the norm by 2013 (Browne, 2010; Sugden and Forfar, 2011). These tuition fee changes, together with relaxed and largely removed student number controls, contributed significantly to rapid growth in the scale and breadth of HE in England, with many more universities being created between 2005 and 2015, including several former colleges with teacher training foundations as well as some private sector providers (Temple, 2015). Apart from an inflation-based rise to £9,250 in 2015, and despite recommendations for reductions in Augar (2019), tuition fees have since remained fixed and will remain at this level until at least 2024/25 (DfE, 2022a). Following delays, further announcements on HE reform in England were announced in 2023, including moves to restrict overseas postgraduate students from
 
-<!-- page 19 -->
+<!-- page 20 -->
 
 bringing dependents with them for the duration of their study from January 2024; a reduction in the fee cap for many Foundation Years (which provide entry points to full degrees at many universities) from £9,250 to £5,570; and plans to restrict university provision which is judged to be offering poor employment prospects and long-term economic returns (DfE, 2023a; 2023b).
 
@@ -736,7 +341,7 @@ Massification, diversification and increased participation means that the HE sec
 
 Whilst the regulation of English universities could be considered liberal compared to other global systems where significant state funding remains, significant conditions of registration requirements via the OfS (2022b) exist. Under these requirements, each English university must support fair access and progression through an adequately funded Access and Participation Plan (APP), with the next plans due to be submitted in 2024, to take effect in 2025/26 (OfS, 2023b). Most recently the OfS has published minimum requirements around student continuation and completion rates, degree outcomes and consistency between students with different characteristics, and graduate employment, with a focus on progression to professional jobs and postgraduate study. These are known collectively as 'Condition B3' with severe penalties for universities that fail to maintain these (OfS, 2022b). Universities are also constantly measured and compared by the OfS and by students, with Research Excellence, Teaching Excellence and Knowledge Exchange Frameworks (REF, TEF and KEF) measuring a form of 'quality', and the annual National Student Survey publishing student feedback. League tables, at a domestic and international level, are published annually and have become important within the sector as another form of differentiation in a competitive market.
 
-<!-- page 20 -->
+<!-- page 21 -->
 
 ## 2.2 The English University sector: a financial snapshot
 
@@ -746,7 +351,7 @@ The quality and depth of financial data in the English HE sector is considerable
 
 OfS (2023c) reported that small and medium sized providers (mean surplus 2.8%-3.2%) had returned the lowest average surplus in 2021/22, whilst specialist creative (9.4% surplus) and those specialising in Level 4 and 5 provision (22.8% surplus) had returned the strongest financial metric by this measure. The latter also stand out as those with the highest growth outlook and lowest levels of borrowing. It is because of these sectoral differences in the OfS report that I consider it to be of only limited value when assessing the financial prospects of universities as I have defined them. The OfS annual report mainly brings all providers of HE together into its aggregate analysis, which masks some of the trends specific to universities, as
 
-<!-- page 21 -->
+<!-- page 22 -->
 
 opposed to other providers of HE. It does, however, provide an important source of consolidated future projections for the sector, which is not available elsewhere.
 
@@ -757,8 +362,7 @@ In order to understand the financial position facing English universities, in mo
 Expenditure across English universities, including pension adjustments, was £40.6bn in 2021/22, up 42% from 2016/17 (£28.5bn). Figure 2 shows how the composition of spend has changed over this period, illustrating that staff costs - including salaries and pension costs/adjustments - have been the main driver of the increase. Staff costs have increased from 55% of total spend in 2016/17 to 61% in 2021/22.
 
 ![TH.R06 fig02](../figures/TH/TH.R06_fig02.jpg)
-
-> Figure 1: English University Income (£bn) Figure 2: English University Expenditure (£bn)
+*Figure 1: English University Income (£bn) Figure 2: English University Expenditure (£bn)*
 
 ![TH.R06 fig03](../figures/TH/TH.R06_fig03.jpg)
 
@@ -766,9 +370,9 @@ Source: Author based on HESA (2023e)
 
 In 2016/17, the cumulative position of English universities was a £1.1bn (3.7%) surplus, dropping to a £3.4bn (-9.1%) deficit in 2021/22. This masks significant variation between universities, as illustrated in Figure 3. This shows that the proportion of universities reporting an annual deficit, after pension cost adjustments, has increased from 18% in 2016/17 to 70% in 2021/22. OfS (2023c). It suggests that even more universities are expecting to return a deficit in 2022/23 and that the number reporting three consecutive years of deficit will also increase.
 
-<!-- page 22 -->
+<!-- page 23 -->
 
-> Figure 3: Surplus or deficit (% of income) for English universities in 2016/17 and 2021/22
+*Figure 3: Surplus or deficit (% of income) for English universities in 2016/17 and 2021/22*
 
 Source: Author based on HESA (2023c; 2023e)
 
@@ -778,15 +382,7 @@ There is evidence that increasing financial pressure within this sector is being
 
 Income diversification is not a new concept within many English universities. Between 2016/17 and 2021/22, the proportion of total income associated with home tuition fees has reduced from 35.0% to 28.6% and the proportion associated with all tuition fees has reduced from 51.2% to 48.5% (HESA, 2023e). The diversification options open to English universities are, however, limited. Taking a traditional English university, these options can be divided into four broad categories using an Ansoff Matrix (Ansoff, 1957), as shown in Figure 4.
 
-<!-- page 23 -->
-
-> Figure 4: Examples of income diversification options open to English HE
-
-|   |   | Products | / Services |
-| --- | --- | --- | --- |
-|   |   | Existing | New |
-| kets | Existing | Market penetration Campus based home and international UG and PG student growth Existing academic research Student residential income Catering and other campus revenues | Product development New programmes at UG and PG level New research Commercial investments Part time programmes (e.g. degree apprenticeships) |
-| Markets | New | Market development Domestic partnerships International partnerships Transnational education (franchising, validation) New domestic campuses New international campuses | Online and hybrid degrees Short courses Executive education Transnational education (dual and joint degrees) |
+<!-- page 24 -->
 
 Source: Author
 
@@ -794,7 +390,7 @@ As discussed in section 2.1, increased market penetration through massification 
 
 Whilst research income rarely generates a financial surplus when taken in isolation, and is unlikely to be a solution to diversifying and de-risking the income profile of a university, it remains significant within English HE, totalling £4.6bn in 2021/22. It has, however, fallen as a proportion of all income since 2016/17 (from 15.3% to 11.3%), partially because of the UK's withdrawal from the European Union and the funding and collaboration opportunities that this brought (Highman et al, 2023). Some of this proportional fall may be offset by the UK's return to Horizon Europe from January 2024 (European Commission, 2023).
 
-<!-- page 24 -->
+<!-- page 25 -->
 
 A longstanding route for generating long-terms return is investment in commercial activities; notably the provision of student accommodation, catering and associated services on campus and facilities to third parties. There is little evidence, however, that this represents a growing revenue stream. In 2016/17 it generated 17.7% of university income (£1.83bn), falling to 16.0% in 2021/22 (£1.76bn) although this may have been impacted by cost-of-living support provided to students. Income from student residences in particular presents a challenge, with significant levels of initial investment required. Rising real terms building costs together with high costs of borrowing mean that the payback period on residential investment is now often greater than thirty years and not attractive. Also, tightening university finances means that new accommodation, where viable, is now often delivered either exclusively by the private sector or via a form of Joint Venture (JV), neither of which would provide significant additional income for a university (Valentine and Hanmer, 2023).
 
@@ -802,9 +398,9 @@ New products and/or markets, therefore, appear to be important for English unive
 
 In addition to the surge in international students studying at English universities over the past two decades, there has also been an increase in TNE. TNE or cross-border education - including degree franchising (sometimes known as twinning), double or joint degrees, articulation agreements and distance learning - has grown significantly over the past thirty years (Knight, 2007). Some of this activity would make existing products (i.e. degree programmes) available in new markets, whilst other activities might include the development of new courses. The number of English HE TNE students increased by 42% between 2017/18 and 2021/22^1^ to
 
-^1^ Excluding Oxford Brookes University, whilst has accounted for over a third of all TNE students but which changed its reporting practices in 2019/20.
+> ^1^ Excluding Oxford Brookes University, whilst has accounted for over a third of all TNE students but which changed its reporting practices in 2019/20.
 
-<!-- page 25 -->
+<!-- page 26 -->
 
 431,000 with - in order of size - China, Malaysia, Sri Lanka, Singapore and Egypt being the five most dominant host countries accounting for 40% of all students (UUK, 2023a). According to UUK (2023a), 40.9% of these students were registered on collaborative provision such as franchised or dual degrees, 27.6% studied through distance learning, and 24.7% were formally registered at a partner provider, including validated programmes. Significantly, a recent study has evidenced that there is a positive correlation between TNE and successful international student mobility, suggesting that the former supports the latter (Tsiligiris, 2014; Tsiligiris and Ilieva, 2022).
 
@@ -816,38 +412,17 @@ A sub-set of TNE - a growing yet small proportion of the market as discussed abo
 
 IBCs have existed since the 1930s, but not until the 1980s and 1990s were they established in any significant numbers (Verbik and Merkley, 2006). From the early 1980s onwards, and with a firm "North to South" asymmetrical bias, several English-speaking US, UK and Australian institutions began to create overseas campuses in rapidly developing economies, particularly the United Arab Emirates (UAE), China, Malaysia and Singapore (Marginson, 2006). This pattern, however, is beginning to shift, with more universities based in emerging HE systems
 
-<!-- page 26 -->
+<!-- page 27 -->
 
 such as Russia, China and India beginning to open IBCs outside of their home country (Wilkins and Juusola, 2018). IBC numbers continue to increase each year: from 82 globally in 2006, to 200 in 2011, 230 in 2016, 305 in 2020 and 333 as of March 2023 (Verbik and Merkley, 2006; Lawton and Katsomitros, 2012; Wilkins, 2016; C-BERT, 2020; 2023).
 
 Of the 333 IBCs around the world in early 2023, 43 were established by UK universities, and of these 33 were attached to English institutions (detailed in Figure 5). Several English universities run multiple IBCs, including the University of Manchester (four), Universities of Lancaster, Middlesex and Central Lancashire (three each), and the Universities of Coventry, Kent and Nottingham (two each). In total there are 21 English universities that lead one or more IBC. The most popular receiving countries for an English university-led IBC are China and the United Arab Emirates (with six each) and Malaysia with five (C-BERT, 2023).
 
-> Figure 5: English university-led IBCs (2023)
-
-| University | Location of IBC(s) | University | Location of IBC(s) |
-| --- | --- | --- | --- |
-| University of Bolton | UAE | London Business School | UAE |
-| University of Bradford | UAE | University of Manchester | Brazil, China, |
-|   |   |   | Singapore, UAE |
-| University of Central | China, Cyprus, | Middlesex University | Malta*, Mauritius, UAE |
-| Lancashire | Mauritius |   |   |
-| City, University of London | UAE | Newcastle University | Malaysia |
-| Coventry University | Egypt, Poland | University of | China, Malaysia |
-|   |   | Nottingham |   |
-| University of Hertfordshire | Egypt | University of Reading | Malaysia |
-| University of Kent | Belgium, France | University of Sheffield | Greece |
-| Lancaster University | Germany, Ghana, | University of | Malaysia |
-|   | Pakistan | Southampton |   |
-| University of Leeds | China | University of Surrey | China |
-| Liverpool University | China | University of | Uzbekistan |
-|   |   | Westminster |   |
-| University of London | France |   | *Closing in 2023 |
-
 Source: Author based on C-BERT (2023)
 
 Whilst full data on IBCs is patchy and inconsistent, UUK International estimates that across UK-led IBCs (which also includes those operated by Scottish, Welsh and Northern Irish universities like the University of Glasgow, Herriot Watt University and Queens University Belfast), there were 67,750 students and 6,700 staff members in 2022/23, studying on around 600 programmes (UUKI, 2023). The largest English IBCs by student enrolment were Xi'an Jiaotong Liverpool University in China, with over 13,000 students, University of Nottingham, with over 11,000 students across campuses in China and Malaysia and Middlesex University with over 4,000 students in Dubai, Mauritius, and Malta (Healey, 2015; Bennell, 2019).
 
-<!-- page 27 -->
+<!-- page 28 -->
 
 As discussed by Verbik and Merkley (2006) and Lane and Kinser (2013), a range of operating models exist for IBCs. Historically and globally, self-funded IBCs dominated, but by 2012, 28% were wholly owned by the home institution, 22% developed in partnership with the host government, and 20% created in partnership with the private sector (Lane and Kinser, 2013). UUKI (2023) suggests that a third of the UK-led IBCs are wholly owned by the home university, with the remainder funded via some form of explicit partnership arrangement.
 
@@ -859,25 +434,13 @@ The leading examples of RMBCs can currently be found in the same nations that le
 
 English universities have been active in the creation of RMBCs for the past two decades. A full list of the 10 current RMBCs led by English universities, drawing on work conducted by Nigel Healey and myself, is shown in Figure 6. Of the 18 RMBCs have been created in London since 1999, 13 have been established by institutions from elsewhere in England, three of which have subsequently closed (Kleibert, 2021).
 
-<!-- page 28 -->
-
-> Figure 6: English university-led RMBCs (2023*)
-
-| University | Location of IBC(s) | University | Location of IBC(s) |
-| --- | --- | --- | --- |
-| Anglia Ruskin University | East India (London) | Staffordshire University | Stratford (London) |
-| Coventry University | Spitalfields (London), Dagenham (London) | University of Sunderland | Canary Wharf (London) |
-| University of Cumbria | Canary Wharf (London) | University of Warwick | London Bridge (London) |
-| Loughborough University | Stratford (London) | York St John University | East India (London) |
-| Northumbria University | Spitalfields (London) |   |   |
-
-^*^New London RMBCs: Teesside Univ. (2023), Nottingham Trent Univ. (2023), Portsmouth Univ. (2024) and Sheffield Hallam Univ. (2025) Source: adapted from Hickey and Healey (2024)
+<!-- page 29 -->
 
 The eclectic mix of English institutions that have established RMBCs is striking, as they span Russell Group members, large post-92 universities, and smaller providers. The research we undertook in Hickey and Healey (2024) [Chapter Eight] suggests that in 2023 there are at least 30,000 students studying at all UK-RMBCs in London, of which approximately 25,000 are at English RMBCs. The best comparator in the literature suggests that there were around 8,500 students studying in all RMBCs in London in 2014 (QAA, 2014), indicating that despite some closures - which may have been directly or indirectly linked to international student visa policy - growth has been rapid. This trend looks set to continue with four new London RMBCs schedule to open between 2023 and 2025, led by Teesside University, Nottingham Trent University, the University of Portsmouth and Sheffield Hallam University (Here East, 2023; Sacco, 2022; BBC, 2021; BBC, 2022). The dominant disciplines of study in London's current and proposed new RMBCs are business management and computing, and whilst many focus on attracting international students, others have either a home market bias or mixed approach. Coventry University's outpost in Dagenham offers a significantly broader subject mix and an additional focus on foundation programmes. From a geographical perspective, there has been some clear clustering of London RMBCs in East London, which appears to be driven by space availability and cost as well as proximity to affordable student accommodation.
 
 In addition to the RMBCs in London, there also exists several 'Study Centres' – private sector operations co-branded with public universities and offering franchised or validated programmes. These include Solent University's association with QA Higher Education, and the now closed Study Group Centre in association with the University of Huddersfield. These are not considered RMBCs for the purposes of this thesis but provide important context when considering the alternatives open to universities in income diversification.
 
-<!-- page 29 -->
+<!-- page 30 -->
 
 ## Chapter Three: Literature Review
 
@@ -893,7 +456,7 @@ Stating that the internationalisation of the HE sector is purely a function of n
 
 Johnstone (1986) and Johnstone and Shroff-Mehta (2003) argue that traditionally the costs of HE has been shared by five parties: government; the parents or extended families of students via tuition fees or other charges; students (also through tuition fees, financed through part-time
 
-<!-- page 30 -->
+<!-- page 31 -->
 
 earning and/or borrowing); donors (from endowments or gifts); and institutional entrepreneurship through innovation. In a European-based study, Estermann and Pruvot (2011) simplified this mix of funding sources to a) public funding via grants for teaching and research and competitively earned funding for additional research; b) private funding through tuition fees; and finally, c) other private funding including research and education-related contracts, philanthropic donations, consultancy and other activities.
 
@@ -903,7 +466,7 @@ Challenges: reduced public funding, rising costs and greater competition
 
 Global literature on strains on public funding can be traced back to Albrecht and Ziderman (1992) who highlighted the risks of relying on the public sector for income and first flagged the need for universities to avoid income dependence on any one source, and to Johnstone (2002) who discusses the global pressure to increase student numbers without proportional financial support from public sources. Due to the introduction of tuition fees in many nations, and global financial pressures at the end of the first decade of the 21st century, McCaffery (2010) found that the share of total income to universities provided by the public sector as a proportion of total budget has declined 'virtually everywhere'. Others suggest that a declining level of funding per student and as a proportion of institutional income had become almost universal (Johnstone, 2002; Liu, 2007; Webb, 2015). In a study of OECD countries, Salmi (2009) attributes the underfunding of systems to uncontrolled expansion. Jongbloed and Vossensteyn (2016) also looked at OECD countries, but identify the two most important trends negatively impacting income as: first an increased presence of cost sharing; and second a strong move towards performance-based funding. Bogt and Scapens (2012) elaborate on the latter, observing a shift to tighter budgetary control and a move to "rational" management with the aim to improve efficiency, effectiveness and accountability. Other national empirical studies in countries as diverse as Australia, Slovakia, Vietnam and Malaysia have evidenced the
 
-<!-- page 31 -->
+<!-- page 32 -->
 
 financial strains being created within HE due to pressures on the level of public sector support (Irvine and Ryan, 2019; Chebhen et al, 2020; Le at al, 2021; Mohd Said et al, 2023).
 
@@ -913,7 +476,7 @@ There is parallel discussion in the literature around the rising costs of delive
 
 Much has been written over recent years on the financial challenges facing English universities, including pressures around capped tuition fees, lost collaboration opportunities post-Brexit, macro-economic conditions, student expectations and retention, industrial disputes and pressure on staff costs and increased regulatory burden (Moran and Powell, 2018; Emerge Education/JISC, 2021; Adams, 2022). Some of the recent data emerging from Brexit and collapse of European financial support, mainly for research but also for student support, is particularly stark. EU funding for UK HE rose from €38m million in 1995 to a peak of €1,026m in 2013 and was €667 million euros prior to the end of the Brexit transition period in 2020. In 2022 it had fallen to €21 million euros (Foster et al, 2023). The challenges of an uneven sector are highlighted by Scott and Callender (2017) who discuss how research funding in the UK has tended to focus on a small number of elite universities, and Baltaru et al (2022), who suggest that UK university rankings exacerbate, rather than alleviate, resource inequalities between elite and non-elite universities. Because research funding has such a low (in extremis, negative) contribution to overheads, it unlikely to create the opportunity to subsidise teaching, and indeed the reverse is often the case, one issue with the loss of European research monies is that many universities have been forced to double down on student recruitment to sustain their research
 
-<!-- page 32 -->
+<!-- page 33 -->
 
 base. This may be ameliorated by the UK's return to Horizon Europe from January 2024, but the contribution to overheads from research income will remain limited.
 
@@ -927,7 +490,7 @@ Whilst the view that a diversified funding base enhances and protects autonomy d
 
 As the mechanisms for funding HE have changed, the focus of the post-Clark literature on financial sustainability has evolved. As discussed earlier, the theme of diminishing public funding - often to make up financial shortfalls in the face of massification - as a key driver of diversification is clear, albeit more recently focused on the European perspective (Albrecht and Ziderman, 1992; Johnstone, 2002; Shattock, 2010; Teixeira et al, 2014). In the US, there is an
 
-<!-- page 33 -->
+<!-- page 34 -->
 
 equivalent debate, but the focus is more on reduced dependence on tuition fees, reflecting the way that HE has historically been funded. Tuition fees have regularly risen faster than inflation, creating affordability and accessibility challenges and impacting the sector's ability to maintain student levels (Hearn, 2003; Alstete, 2014; Webb, 2015; Rivera, 2023). There is a small but growing established literature, however, suggesting that universities have a broader understanding of the importance of a varied set of income streams beyond simply filling holes in public or tuition fee funding, including a desire to secure income that can be used more flexibly (Shattock, 2010).
 
@@ -939,7 +502,7 @@ In a survey of university Vice Chancellors in the UK (Boxall and Woodgates 2018)
 
 The breadth of income diversification open to universities has been neatly summarised into three categories of initiatives in the literature (Koryakina, 2018). The first are instructional initiatives, such as international students, foreign campuses, distance education, non-degree
 
-<!-- page 34 -->
+<!-- page 35 -->
 
 programmes, professional postgraduate programmes. The second are research initiatives including technology transfer, commercial exploitation of knowledge, university-industry linkages, and the triple helix of university-industry-government linkages (Etzkowitz and Leidersdorf, 2000), spin off and start-up companies, and science parks (Clark, 1998). The final category links to philanthropy which includes alumni management, and funding via other individuals, corporations, and foundations (Johnstone, 2005). Much of the literature on income diversification references the concept of the entrepreneurial university, first coined in the early 1980's to refer to the role of universities in patenting and partnering with the private sector (Etzkowitz, 1983), but more recently to the notion that institutions can create opportunities and take risks (Kirby, 2002) and be ultra-competitive across diverse markets (Guerrero-Cano et al, 2012). Whilst this thesis does not focus on entrepreneurism in general, some of the literature around, for example, diversified financial base (Clark, 1998; 2004) and university adaption (Sporn, 1998; 2001) provide interesting context.
 
@@ -947,7 +510,7 @@ programmes, professional postgraduate programmes. The second are research initia
 
 The literature on the conditions for successful income diversification provides helpful models for examining branch campuses later in this thesis. It can be divided into two categories: first, those discussing the external - usually national - landscape required; and second, commentary on institutional factors such as autonomy. Important measures of autonomy have been defined as: the ability to accumulate reserves; to set and adjust fees; to borrow to invest; to invest to generate financial returns; to issue shares and bonds; and to own land and buildings (Koryakina, 2018). Externally, much of the literature focuses on the importance of autonomy from government, with many commentators suggesting that it an essential prerequisite for income diversification (Estermann and Nokkala, 2009; Estermann and Pruvot, 2014; Chirica and Puscas, 2018). In addition to the ability to decide how, where, and when to invest, Williams (2006) concludes that if a university if not able to retain the external income it generates, it possesses little or no economic incentive to seek to supplement its core public allocation. In assessing a range of universities in several European countries, Estermann and Pruvot (2011) examine organisational, financial, staffing and academic dimensions of autonomy, finding that financial autonomy - specifically the ability to allocate resources - is most highly correlated with the capacity of universities to attract income from additional funding sources. The freedom to recruit staff and set the salary levels of staff was also positively linked to the degree of income diversification.
 
-<!-- page 35 -->
+<!-- page 36 -->
 
 The level and nature of central government or 'core' funding is a second area of discussion. The literature suggests that in this regard, there is an optimum position which encourages successful income diversification. Too much assured income, at a level considered adequate in relation to university needs and aspirations, generates little motivation to innovate and seek new sources of income (Williams, 2006). Too little central income, however, restricts the ability of a university to invest and reinvest in ventures to diversify income streams (Williams, 2006; Shattock, 2010; Estermann and Pruvot, 2014). In an extension to this debate, Estermann and Pruvot (2011) also discuss the nature and modality of public funding and how it is incentivised. Funding that is administratively burdensome, they suggest, can be detrimental for diversification activities. They also discuss the way that funding is allocated, suggesting that central funding by outcome (e.g. number of graduates or graduate jobs) leads to universities with more propensity to diversify that funding by cost (e.g. numbers of staff or cost of facilities).
 
@@ -955,7 +518,7 @@ At an organisational level, the literature points towards leadership, financial 
 
 Taylor (2013) and Shattock (2010) emphasise the importance of good financial management as a prerequisite for diversification as it provides stability, allows for considered investment as well and facilitates accountability and sound governance. In this respect, new income streams require "the kind of application and attention that would be necessary in running a business" (Taylor, 2013: 62). Management should monitor income and expenditure on a quarterly basis (Shattock, 2010) and understand its ability to cover liabilities (Sazanov et al, 2015). Linked to general financial management is the importance of strategic planning for universities seeking to diversify (Estermann and Pruvot, 2014; Chirica and Puscas, 2018), including a preparedness to deploy intellectual and physical resources for new uses (Alstete, 2014) and integrate the pursuit of new funding streams into the institutional strategy and mission (Motion and Beney, 2011). Some authors, including Teixeira et al (2014) examining the Portuguese system, suggest
 
-<!-- page 36 -->
+<!-- page 37 -->
 
 that there is close alignment between the fundamental mission of a university and its propensity for successful revenue diversification.
 
@@ -967,7 +530,7 @@ Less easy to define, but undoubtedly seen as essential by many scholars, is the 
 
 The literature on HE income diversification is not universally positive, with criticism from a range of sources. Slaughter and Leslie (1997), Johnstone (2002), Namalefe (2014) and Koryakina (2018) argue that diversification risks damaging institutional cohesion, blurs priorities and can be a distraction from core business. Bok (2003: 233) is particularly disparaging on diversification and in particular "the efforts to sell the work of universities for a profit", using American college sports as an example. Some take this argument further, suggesting that the entrepreneurial paradigm is a threat to academic integrity, and that it could fundamentally alter the character of a university by shifting it towards a corporate structure (Marginson and Considine, 2000). Whilst there are no empirical results demonstrating that this is the case, equally there is little evidence to suggest that income diversification improves the quality of teaching (Zhou, 2001).
 
-<!-- page 37 -->
+<!-- page 38 -->
 
 Johnstone (2002) and Liu (2007) highlight the tensions and divisions that can occur between faculties and functions in the quest for diversification. This has been attributed to a general resistance to change; perceived conflicts between income related endeavours and scholarly pursuits; or philosophical challenges around the open sharing of knowledge and debate, particularly when this may carry a commercial value (Bok, 2003; Ginsberg, 2011). There is debate in the literature concerning the genuine size and scale of the income diversification opportunity and whether it is really worth it. Anderson (1990) flags the risk that commercial ventures can lose money, divert management time and introduce difficult value judgements when universities priorities extend to profit-making. Teixiera and Koryakina (2013) and Taylor (2013) suggest that the rhetoric around funding diversification seldom lives up to the reality, arguing that universities seeking new sources of funding for the first time will see the levels raised as trivial compared to core funding. Geiger (2004) and Teixeria et al (2014) suggest that diversification can work but is normally limited to a small number of universities in each country.
 
@@ -975,7 +538,7 @@ According to several authors, the most significant challenge is that the conditi
 
 The unintended consequences of income diversification activities is another area of discussion. Johnstone (2002) highlights that successful financial innovation could lead to public funders believing that universities can obtain enough revenue to take care of themselves, thus leading to a central funding cut. Buckland (2009) suggests that it can often be difficult for universities to calculate whether diversification initiatives are contributing towards financial sustainability or drawing on it, and whether commercial opportunities offer better or inferior return on investment that traditional research.
 
-<!-- page 38 -->
+<!-- page 39 -->
 
 ## 3.4 International branch campuses
 
@@ -983,7 +546,7 @@ The literature on IBCs is rooted in theory related to the internationalisation o
 
 Subsets of the literature are focused on a range of themes. Delivery mechanisms for achieving an IBC are discussed by Verbik and Merkley (2006), Lane and Kinser (2013) and - in the context of domestic partnerships - Education Hubs and Knowledge and Innovation Hubs by Knight (2010; 2011; 2014; 2020). Institutional motivations for establishing an IBC have been explored across other literature, be they financial (Bennell and Pearce, 2003; Marginson, 2006; Middlehurst, 2013), opportunistic in relation to regulation (Lane 2011), reputational (Naidoo, 2006; Wilkins and Huisman, 2012) or as means to support global research (Garrett and Verbik, 2004) or talent retention (Healey, 2021). The perspective of the host country is also debated, including the role that relaxed regulations and increased incentives play (Naidoo, 2006) and in many cases the preference for IBCs over other forms of TNE to avoid 'brain drain' (McBurnie and Ziguras, 2007; Healey, 2008; Lien, 2008).
 
-<!-- page 39 -->
+<!-- page 40 -->
 
 IBCs have also been criticised. Some commentators express concerns around university motivations and particularly the move from capacity building to perceived profiteering, with a view from several established academics in the field that they are symptoms of the commercialisation and commodification of HE (Marginson, 2006; Knight, 2012; 2013). Altbach and Knight (2007) are critical of the power asymmetry, or neocolonialism, between the sending university, normally located in the 'global north' and the host country in the developing world, and the impact IBCs have on cultural dilution (Knight 2012; 2013). Other concerns, which are important when considering financial sustainability and diversification, relate to teaching quality and staff retention (Altbach, 2011; Chapman et al, 2014; Healey, 2020), and the level of facilities and value for money for students (Altbach 2010; 2011) although both have been challenged by others (Heffernan et al, 2010; Marginson, 2011; Wilkins and Balakrishnan, 2013; Wilkins and Juusola, 2018). Management considerations are also prominent in literature with some researchers flagging issues within IBCs of culture-clash (Neri and Wilkins, 2019), managing the stakeholder expectations (Healey 2020; Wilkins, 2020) and making decisions (Healey, 2016).
 
@@ -993,7 +556,7 @@ In a UK context, good quality quantitative and case-study based analysis on IBC 
 
 The literature on RMBCs is still developing, reflecting the infancy of this concept and until recently the lack of any single definition. Altbach (2012), in discussing Northeastern University's new RMBCs in North Carolina and Washington State, draws comparisons with the IBC debate around institutional motivations, the use of home-based faculty, the value of a 'branch' degree and consistency in accreditation. He expresses concerns over institutional choices and motivations, suggesting that investment to exploit underserved markets came at the expense of the home campus. Addie et al (2015), in examining the growth of RMBCs in Canada, describe motivations including the extension of institutional brands and outreach into
 
-<!-- page 40 -->
+<!-- page 41 -->
 
 new communities and non-traditional students, but are equally sceptical about their long-term economic and social value.
 
@@ -1003,7 +566,7 @@ Brooks and Waters (2018), building on QAA (2014) and drawing on Madge et al (201
 
 Until Nigel Healey and I completed the article in Chapter Eight, the most recent piece on RMBCs came from Kleibert (2021), who provides a valuable economic geographer's perspective on their growth and a comparison with IBCs. She used interviews with senior leaders within universities to analyse the motivations for expanding spatially. She argues that both versions of a new campus present territorial fixes through access to new markets, including international students, and symbolic fixes in reputational gains, including association with the city of London. Of interest is her assertion that a London RMBC may actually be a
 
-<!-- page 41 -->
+<!-- page 42 -->
 
 viable alternative to, or steppingstone towards, an IBC, especially for universities located in more remote parts of the UK, which are not often considered by international students.
 
@@ -1013,7 +576,7 @@ Developed by Jeffrey Pfeffer and Gerald Salancik in 1978, and subsequently updat
 
 There are several relevant examples of RDT being used in an HE setting. One of the first, and most cited, uses of RDT in HE was undertaken by Tolbert (1985) who identified external resource dependency amongst public and private universities in the USA. Analyses of decisionmaking to maximise income have also been conducted using RDT, which demonstrate that in many cases revenue diversification has trumped historic mission in terms of the criteria used to make management decisions (Jaquette, 2013; Salazar; 2019). Fowles (2014) used RDT to investigate the relationship between a reliance on tuition fees and investment in educational activities, finding a close correlation - a pattern that has also been found in other territories (e.g. Kholmuminov et al, 2019). Some studies have used RDT to explicitly explore the link between revenue diversification, autonomy and financial sustainability. Webb (2015) has perhaps undertaken the most comprehensive study to date, assessing the impact of revenue
 
-<!-- page 42 -->
+<!-- page 43 -->
 
 diversification on overall revenue at private universities in the states. He found that revenuediverse institutions maintained a higher level of financial performance during the 2010s economic downturn than those reliant on tuition fees. Whatley and Castiello‑Gutiérrez (2022) use RDT to suggest that the need for international student was recruitment was more likely to shift online teaching back to in-person tuition, post COVID-19, in US for-profit universities than in public institutions. In the Malaysian context, Jaafer et al (2023) found that revenue diversification has a strong relationship with financial stability, measured by return on assets. In Finland, Kohtamaki (2022) found that public university leaders seek financial autonomy, through new income streams, for financial reasons to enable investment in research and teaching.
 
@@ -1023,7 +586,7 @@ In the UK, Greenwood and Tao (2017) found that RDT explains why the quality of f
 
 Unlike broader models such as Dunning's eclectic paradigm which considers ownership, location and internalisation advantages, the RBV of organisational strategy theorises that organisations maintain a competitive advantage principally through possessing a set of valuable resources (Dunning, 1979; Barney, 1991). This suggests that organisations compete also in socalled factor markets, which can be generic or specific to that organisation, and will vary in their importance and contribution to the overall competitive advantage (Barney, 1986; Peteraf, 1993). RBV identifies four characteristics of these resources – value, rareness, imitability, and substitutability - which provides a useful analytical framework from a strategic perspective, as discussed in Chapter Four. In the context of HE, the semi-permanent "bundle of resources" (or "strategic assets" as coined by Barney) on which universities attempt to outperform their competitors, is potentially vast (Barney and Arikan, 2001). Some resources, such as academic or professional services staff, may be mobile or fluid, whilst others, such and land and buildings, may be less so (Fugazzotto, 2010). Others such as culture, brand, intellectual property or reputation may be less tangible than people or premises (Galbreath, 2005). In this respect, universities, and other organisations, are competing on many fronts simultaneously,
 
-<!-- page 43 -->
+<!-- page 44 -->
 
 and whilst, as suggested by Williamson (1991) the RBV is internal in its focus, this competition means it also has an external orientation.
 
@@ -1033,7 +596,7 @@ The RBV has been applied largely to the corporate sector, and its use in the con
 
 This Chapter has demonstrated that there is a rich depth of academic literature exploring the financial sustainability challenges facing HE, and the role, prospects and necessary conditions for income diversification. It has also shown that there are suitable theoretical frameworks for analysing the attempts by universities to diversify and de-risk their revenue base, and that these have already been applied successfully in a range of contexts. The gaps that this thesis is seeking to address relate to the contemporary position in England, in a post-pandemic, resource constrained environment. There exists a gap in the application of RDT and RBV to the specific diversification strategies of IBCs and RMBCs, thus offering application of existing theories to new phenomena and the potential adaptation and elaboration of these theories in relation to HE research. The way that this thesis contributes to the literature is further discussed in section 4.4.
 
-<!-- page 44 -->
+<!-- page 45 -->
 
 ## Chapter Four: Methodology
 
@@ -1043,7 +606,7 @@ This thesis, consisting of the four constituent papers and the supporting narrat
 
 The overall approach to the thesis, therefore, aligns to a relativist (or interpretive) paradigm. Interpretivism allows for multiple views and perspectives of phenomena (Greener, 2008). It allows the thesis to take into consideration social context (Orlikowski and Baroudi, 1991) and human complexity (Kaplan and Maxwell, 1994). In Hickey (2024) [Chapter Five], I adopted an approach based on critical discourse (Fairclough 1989; 1995), whilst Hickey and Davies (2022) [Chapter Seven] draws principally on literature commenting on the success or failure of IBCs partly using financial metrics, but more importantly based on the opinion and lived experiences of those planning, managing or engaging with these new ventures. In Hickey (2023) [Chapter Six], I make no attempt to objectively specify the challenges facing small English universities, but rather use a resource dependency framework, based on Pfeffer and Salancik (1978; 2003), and the experiences of ten institutions to explore multiple realities and viewpoints. In Hickey and Healey (2024) [Chapter Eight], we draw on the views, perceptions and experiences of campus Directors in London, to position the concept of an RMBC in the context of income diversification and financial sustainability, again fitting a relativist approach. As is the case for Hickey and Davies (2022), Hickey and Healey (2024) takes a largely qualitative view on financial sustainably, given the lack of reliable, transparent commercial
 
-<!-- page 45 -->
+<!-- page 46 -->
 
 data on the performance of branch campuses. In this article, we seek a detailed assessment of financial sustainability largely on our analysis of the reported views of senior managers interviewed, using an 'insider researcher' methodology (Healey, 2017).
 
@@ -1061,14 +624,13 @@ Stressing the importance of diversification, the RDT model outlines three main f
 
 In the RBV, Barney (1991; 106) posits that any organisational resource which provides a source of sustained competitive advantage needs to be: "valuable", in that it exploits opportunities and/or neutralises threats; "rare", in that it is not widely available to competitors; "imperfectly imitable", in that it cannot be copied; and "insubstitutable", in that alternatives cannot be found that are valuable but neither rare nor imperfectly imitable. In Chapter Nine, these tests of
 
-<!-- page 46 -->
+<!-- page 47 -->
 
 competitive advantage are applied to the English HE market, and specifically evaluated in the context of the strategic considerations in developing branch campuses.
 
 Sections 9.2 and 9.3 consider the challenges and responses of English universities through external and internal lenses, drawing on RDT and the RBV. Figure 7 summarises how RDT and the RBV have been brought together into a combined analytical framework that allows for an integrated analysis of the potential of both IBCs and RMBCs (in sections 9.4 and 9.5).
 
-> Figure 7: Combined analytical framework
-
+*Figure 7: Combined analytical framework*
 ![TH.R06 fig04](../figures/TH/TH.R06_fig04.jpg)
 
 Source: Author based on Pfeffer and Salancik (1978, 2003) and Barney (1991)
@@ -1079,7 +641,7 @@ The different approaches adopted within the constituent academic papers and the 
 
 In Hickey (2024) [Chapter Five], I use Critical Discourse Analysis to examine three vast and detailed policy documents based on a method pioneered by Fairclough (1989; 1995), tied to
 
-<!-- page 47 -->
+<!-- page 48 -->
 
 three interrelated dimensions of discourse: the object of the analysis; the processes by which the object is produced and received; and the socio-historical conditions that govern these processes. Guided by Mullet (2018), it required a text analysis (description), a process analysis (interpretation) and a social analysis (explanation) of the policy documents under review.
 
@@ -1089,7 +651,7 @@ In Hickey and Davies (2022) [Chapter Seven] we analyse existing literature - sup
 
 In the fourth and final paper, Hickey and Healey (2024) [Chapter Eight], we aimed to define an RMBC for the first time, and sought to understand why universities establish them, discussing their future prospects. To a define an RMBC, we drew comparisons with those who have attempted to define IBCs including Lawton and Katsomitros (2012), Knight and McNamara (2015), and principally C-BERT (2023). As discussed earlier, London has become a focus for domestic university expansion over the past decade, and the single case study of London was used to understand the motivations for establishing RMBCs and their future prospects. Acknowledging that financial data on the commercial performance of RMBCs is not publicly available, this mixed-method study combines quantitative analysis to assess the growth in the number and scale of RMBCs in London with ten semi-structured interviews with RMBC Directors. We used an 'insider researcher' qualitative methodology (Healey, 2017), made possible by the seniority and knowledge of the sector of Professor Nigel Healey and myself. Interview transcriptions were transcribed and coded, and key themes identified and
 
-<!-- page 48 -->
+<!-- page 49 -->
 
 supplemented by content analysis from university strategies; annual reports; London RMBC websites and other publications. The use of semi-structured interviews supported the collation of a rich dataset, despite a relatively modest sample size (Braun and Clarke, 2013).
 
@@ -1105,7 +667,7 @@ Steps have been taken to maximise the extent to which the papers in Chapters Fiv
 
 It is acknowledged that the four papers that will form the 'findings' element of this alternative format thesis are not, in isolation, sufficient to answer the research questions proposed in
 
-<!-- page 49 -->
+<!-- page 50 -->
 
 section 2. To address this, Chapter Nine is used to discuss the four papers against the literature presented earlier to fill some of the key gaps, referencing my analytical framework drawn from RDT and the RBV. In discussing RQ1 and RQ2, I provide an updated view on the financial performance of the sector, policy changes since the publication of my papers and latest sector discourse, to enhance the reliability of my findings. I also discuss how financial challenges and responses vary across different types of university within England. In addressing RQ3 and RQ4, I focus on analysing the establishment of IBCs and RMBCs, and consider these in the context of other forms of revenue diversification, including other forms of transnational education and domestic partnerships.
 
@@ -1117,7 +679,7 @@ Each of the published papers in Chapters Five to Eight include commentary on the
 
 I acknowledge that this thesis has been authored by someone working at a senior level in an English university who is trying to grapple with some of the financial challenges that will be explored, and already taking an active approach to geographical diversification. This creates an inherent bias, which is acknowledged with the use of the interpretivism paradigm within the research. I have been aware of this bias from the outset and sought to minimise its by ensuring
 
-<!-- page 50 -->
+<!-- page 51 -->
 
 that established literature has informed my research themes and that findings are subsequently relating back to this and supporting theory. In each of the papers (Chapters Five to Eight), findings and discussion has clearly been signposted to the data collected, be that literature, secondary statistics or interviewee responses.
 
@@ -1125,7 +687,7 @@ that established literature has informed my research themes and that findings ar
 
 Measures taken to address ethical considerations are described in the published papers that form part of the thesis. In Hickey (2023) [Chapter Six] and Hickey and Healey (2024) [Chapter Eight], for example, the names of the universities, and campuses, that formed the samples were removed prior to submission for publication. In the latter, the interview feedback was also anonymised, with no findings attributed to specific Directors. Appendix D contains the participant information sheet provided to interviewees, alongside a consent form, in advance. The research for the latter involved an RMBC Director who works for my own institution, so to retain full impartiality the paper co-author led that interview. Formal ethical approval has been secured in line with the University's regulations (University of Bath, 2016).
 
-<!-- page 51 -->
+<!-- page 52 -->
 
 ## Chapter Five: How and why have higher education tuition fee policies evolved in England since 1997? A critical discourse analysis of Dearing, Browne and Auger.
 
@@ -1139,7 +701,7 @@ In this paper, I aim to understand the drivers of tuition fee policy changes in 
 
 I conclude that the three policy papers analysed reflect a change in the way that tuition fees, and potentially wider HE policies are developed and communicated, with close ties to the political narrative of the day, the neoliberalisation of the sector, the cost-sharing agenda and external economic pressures. I suggest that CDA is a helpful tool in understanding the tuition
 
-<!-- page 52 -->
+<!-- page 53 -->
 
 fee evolution discussed in section 2.1, but that other key policy literature and their environments could be included to build on the analysis presented.
 
@@ -1151,7 +713,7 @@ This paper contributes to the overall argument outlined in Chapters Nine and Ten
 
 See pages 54 to 76.
 
-<!-- page 53 -->
+<!-- page 54 -->
 
 ![TH.R06 fig05](../figures/TH/TH.R06_fig05.jpg)
 
@@ -1185,7 +747,7 @@ Nearly three years after its publication, the UK Government published its respon
 
 Rob Hickey, York Business School, York St John University, Lord Mayors Walk, York YO31 7EX, UK. Email: r.hickey@yorksj.ac.uk
 
-<!-- page 54 -->
+<!-- page 55 -->
 
 ## Theoretical context
 
@@ -1199,7 +761,7 @@ The attraction of using CDA here is that it reflects the complexity of the polic
 
 At the time of the Education Act (1962) and associated Robbins Report (1963) there were 216,000 full time and 117,000 part time students in the UK (Bill, 1998). The Act exempted the majority of home full time students from fees, with means-testing continuing until 1977, and introduced means-tested maintenance grants and improved social security (Andrews, 2021; Callender, 2006). Aside from a period of stagnation in the 1970s, this system saw HE participation grow steadily from a starting point of 5% in the early 1960s through to the late 1980s (Andrews, 2021). Participation rates in the UK hit 30% by 1996, as the number of universities continued to grow, but despite the introduction of income-contingent student loans in the 1990s, public funding of the sector almost halved on a per student basis during the 1979–1997 Conservative Governments (Greenaway and Haynes, 2003). No major review took place until a National Committee of Inquiry into HE was established in February 1996. Led by Sir Ron Dearing, this committee reported to the new Labour Government in Summer 1997, recommending flat rate tuition fees be introduced, with means-testing for fee loans on a deferred, income-contingent repayment basis. The Teaching and Higher Education Act (1998) followed the publication of the
 
-<!-- page 55 -->
+<!-- page 56 -->
 
 Dearing Report, announcing up-front fees of £1000 per year and contrary to recommendations, the abolition of the means-tested grant.
 
@@ -1215,7 +777,7 @@ Fulfilling a 2004 commitment, Business Secretary Peter Mandelson launched a furt
 
 The National Committee of Inquiry into Higher Education was commissioned by Conservative Education Secretary Gillian Shepherd in 1996. By the time it reported on 23 July 1997, a new Labour Government had been elected. The report contained 93 recommendations including a series on how HE in the UK should be funded. In the context of an aim to create a 'World Class' HE system, the report concludes that the costs
 
-<!-- page 56 -->
+<!-- page 57 -->
 
 of such a system would exceed the level of funding for the sector, and the authors were unconvinced that this gap could be bridged via university efficiency measures alone. It placed the funding gap at £350m in 1998–99 and a further £565m in 1999–2000 (BBC, 1997). It proposed a compact between society, students and families, employers and universities whereby each plays its part and the costs of HE is more fairly allocated to those that benefit from it. For the first time, it linked participation in HE and higher employment rates, salaries and private and public rates of return of 11–14% and 7–9%, respectively. It also reinforced the view that participation in HE did not reflect the socio-economic composition of the population.
 
@@ -1225,7 +787,7 @@ With 14 individual volumes, five annexes, six explanatory appendices, and dozens
 
 The Report is directional: there are significantly more recommendations than in either subsequent report, less dense use of the term 'how' and higher use of 'enable' than the two other reports suggesting an outcome rather than operations orientated approach. Conversely the Dearing Report uses 'manage' and 'management' far more than subsequent reviews, where 'govern' or 'governance' is used significantly more. Scott (1998) criticises the Dearing document in this respect, suggesting that many recommendations are made individually, but together place greater bureaucratic burden on universities, and that despite the mass of detail, on some subjects it is near operational (e.g. in- formation technology, course structures) and in others vague (e.g. virtual universities, institutional organisation). The term 'structure' is used 169 times in the Dearing Report but rarely in subsequent reports, whilst 'international' or 'overseas' was used over 200 times, decreasing in Browne and Augar. It is interesting to see a higher use of 'contribute' or 'contribution' but lower use of 'fees' and 'loans' than in later documents, suggesting that neoliberal economics in HE was perhaps in its infancy. The awareness of inequality in access to education is reflected in high density of 'participate' and 'participation' which then become less used in Browne and Augar. 'Research' is used over 1000 times within the Dearing Report, and this density drops dramatically in subsequent works, perhaps illustrating that Dearing had a broader focus and considered HE from a range of perspectives. 'Research' is used almost as much as 'teaching' and 'learning' combined in the Dearing Report, whilst the other reports use 'teaching' and 'learning' 4–7 times more densely. Shattock (1999) commented that the title of the document 'HE in a learning society' is rarely discussed or mentioned.
 
-<!-- page 57 -->
+<!-- page 58 -->
 
 ## Process analysis
 
@@ -1241,7 +803,7 @@ The social context around Dearing is dominated by politics. New Labour came to p
 
 The rationale for a root and branch review of HE in the UK was well documented following funding cuts within HE under the Conservative Government between 1979 and 1997, where institutional income had not kept up with operating costs and public policy had oscillated between contracting the number of students and increasing them (Crace and Shepherd, 2007). This context meant the Dearing Report had
 
-<!-- page 58 -->
+<!-- page 59 -->
 
 support from the sector, and the recommendations were welcomed, as acknowledged later by Dearing himself (Hattersley, 2009). There were dissenting voices, however, with concern that Dearing surrendered the principles that HE should be available to those that can benefit not those who can pay (Scott, 1998), that tuition fees would deter poorer students from going to university, and that universities were no better off because none of the fees were collected directly (Toyne, 1998).
 
@@ -1255,7 +817,7 @@ The Browne Review, or specifically the Independent Review of Higher Education an
 
 There is a stark contrast between the document produced by Browne and the earlier Dearing Report. At 31,000 words, 64 pages, and supported by colourful graphics, the document feels more user-friendly and digestible to a far wider audience. As in Dearing the words 'Funding', 'Education', 'Universities' and 'Students' are heavily used (Appendix A), but 'Research' is largely absent. The categorisation of coded phrases suggests a strong directing and framing tone, a focus on student and institutional considerations and increased use of financial and economic language, compared to Dearing (1997). There is linguistic evidence that Browne is more market-based and neoliberal in its tone, compared to Dearing. There is higher density of terms like 'income', 'cost' and 'fees', whilst frequent use of 'access' and 'accessibility' reflects the ongoing importance of widening engagement with HE. Thompson and Bethradnia (2011) suggest that the language used by Browne is underpinned by a philosophy of relying increasingly on competition between universities, increasing choice for students and diversifying institutions, which would then determine the level of fees and lead to greater social equity and mobility. The term 'we' is used approximately half as densely as in either the earlier Dearing and later Augar documents, but 'they' or 'them' is used more. This indicates a more directional than personal ownership narrative. In particular, the use of the term 'we
 
-<!-- page 59 -->
+<!-- page 60 -->
 
 believe' features only seven times in Browne, versus 149 times in Dearing. The higher density of the terms 'who', 'what' and 'when' suggests a more prescriptive and practical approach. Perhaps most interestingly, 'student' or 'students' is used over twice as densely in Browne as in the Dearing or Augar documents, and 'social' or 'society' used far less, providing good grounds to suggest that the principle focus of the document were intended or considering HE.
 
@@ -1275,7 +837,7 @@ The economic, political, and social context within the UK was significantly diff
 
 The politics of education policy were complex at the time of Browne with the new Coalition partners entering an administration with opposing viewpoints. The Conservative manifesto (2010, 17) was noncommittal saying that they would 'consider carefully the results of Browne's review into the future of
 
-<!-- page 60 -->
+<!-- page 61 -->
 
 funding so that we can unlock the potential of universities and transform the economy'. Some of the accompanying narrative though, left no ambiguity, including a speech from future Education Secretary Michael Gove suggesting that 'someone who is working as a postman should not subsidise those who go on to become millionaires' (Shepherd and Stratton, 2010). The Liberal Democrats had made a commitment to 'scrap unfair tuition fees for all students taking their first degree' (Liberal Democrat Manifesto 2010, 39) with all but one of the subsequently elected MPs signing a highly visible pledge (NUS, 2010). Tuition fees became a challenging subject in the process of forming the Coalition Agreement, with difficult wording being agreed including that 'If the response of the Government to Lord Browne's report is one that Liberal Democrats cannot accept then arrangements will be made to enable Liberal Democrat MPs to abstain from any vote' (HM Government, 2010, 32). In strong contrast to the Party's starting position months earlier, new Liberal Democrat Business Secretary, Vince Cable geared up for the outcomes of Browne in his speech, A New Era for Universities, outlining that the UK is a 'tangibly a poorer country now that two years ago with a 6% loss of income', that 'we don't know much about the marginal costs and benefits of HE participation' and that a model is needed that balances 'funding for HE in England that combines less public support and more private investment from those who benefit from it most' (Cable, 2010). Even though some of the main recommendations were rejected, including the proposals for uncapped fee levels being replaced with a ceiling price, many Liberal Democrat MPs (e.g. Leech, 2010) remained unhappy (Ashton, 2010; Quinn et al., 2011). Several years later, interviews with some of the main actors suggest that Cable, and party leader Nick Clegg, did not consider tuition fees a priority, believing that most voters would think it a reasonable price to pay for stable Government (Butler, 2020).
 
@@ -1285,7 +847,7 @@ Within HE, the Higher Education Policy Institute (HEPI) (2009) report Changing L
 
 Press opinion on the publication of Browne (2010) did not follow the normal left-right split often seen in the UK. On its announcement, the Guardian declared that 'Labour has been seduced into sentimental, sloppy thinking
 
-<!-- page 61 -->
+<!-- page 62 -->
 
 that defends the interests of the affluent, not the poor' Wilby (2010). Charles Moore (2011), writing in the Daily Telegraph suggested that loans were being presented as a tax on the rich to pay for social mobility. Kate Devlin (2010), for the same newspaper, highlighted the huge debt placed on medical students, suggesting that it would become unmanageable for low income families.
 
@@ -1301,7 +863,7 @@ At 86,000 words over 216 pages, Augar is a larger and more detailed report than 
 
 Philip Augar, a former equities broker, was asked by Theresa May to chair an independent panel, comprising of five experts in HE and FE, to author the report in 2018. This has been seen as contentious by some, with an expert panel having replaced committees as the main method of advising Government on policy (Parry, 2019), but supported by others, highlighting the experience of those involved (Hillman, 2019). The aim of the report was to create a 'joined up post-18 education system supported by a funding
 
-<!-- page 62 -->
+<!-- page 63 -->
 
 system that worked for students and taxpayers' (Hubble and Bolton, 2019b, 5). A call for evidence ran in Spring 2018 to seek student, university and public views and collect evidence. This elicited 375 responses which were summarised in parallel to the main report. In addition, 330 meetings were held with experts and sector representatives in fields relevant to the remit of the review. Superficially, this level of primary data collection appears slimmer than for Browne, and significantly less than for Dearing. It should be noted, however, that the level of data available within HE by this point was significantly larger, with, for example, the National Student Survey (NSS) and Destination of Leavers from Higher Education (DLHE) data now being used.
 
@@ -1313,7 +875,7 @@ The political environment had shifted by the time of the Augar Review. The UK vo
 
 The narrative around low-quality courses emerges for the first time in Augar, having been absent in Dearing and Browne, but was criticised for using earnings to define value (Ahlburg, 2019). In a significant shift from the earlier reviews, the Labour party, under Jeremy Corbyn, were now wedded to a completely different university funding model, with no fees, and treated Augar in a partisan manner (Hillman, 2019). Much of the social discourse at the time of the publication of the Review has been summarised by the author. In the House of Lords, Augar talked about giving students a fair deal after 'windfall' years and that universities in financial trouble are
 
-<!-- page 63 -->
+<!-- page 64 -->
 
 guilty of 'bad management' (Walker, 2019b). More recently he has said that English HE is at a 'turning point' and about to move 'from the age of 50 per cent to the age of everyone' at an event held by the Lifelong Education Commission (Morgan, 2021). These illustrate the change in narrative between Browne and Augar from a focus on higher fees payable by those who benefit, to lower fees for courses that do not provide strong outcomes, and a focus on more efficient universities. It has also been commented that the Augar Review was unduly biased by the wider political narrative around 'levelling up' (Morgan, 2021). The cost of unpaid loans also emerges significantly in the discourse around Augar, and it is clear from the announcements made in 2022 around debt arrangements that this has been a key consideration (DfE, 2022).
 
@@ -1325,7 +887,7 @@ Four interrelated themes summarising how discourse may have influenced policy ev
 
 Second, is the increasing discourse around the marketisation of HE and the trend towards sector neoliberalisation. The language from Dearing to Browne to Augar demonstrates a change from a focus on 'funding' and 'research' to 'fees' and 'access' to 'loans' and 'outcomes', with an increasing emphasis on competition between universities and students as consumers. Each of the three reviews have become more student orientated, in terms of the language, length, use of graphics and case studies, and overall narrative.
 
-<!-- page 64 -->
+<!-- page 65 -->
 
 The introduction of fees in this context was justified by Dearing partially to boost sector competitiveness in a competitive global market. Browne recommended fee increases, supported by positivity from within HE, with a stated goal to create a marketised system (Riddell, 2016), in parallel with a widening participation agenda, using evidence that higher fees do not materially impact participation levels and diversity but does drive capacity and student earnings. These findings have since been shown to be justified by Wilkins et al. (2013), Wakeling and Jefferies (2013) and Ainsworth et al. (2016). Browne also recommended far more autonomy for fee setting from universities, to boost competition (with a view that this would improve quality) and allow institutions to differentiate their degrees through price. The latter theory has been somewhat disproven, however, with almost all universities simultaneously moving the maximum fee cap when it was increased to £3000 and then £9000 in a manner that has been compared with a cartel, and amongst a fear that a lower-than-cap cost would be associated with an inferior quality (Riddell, 2016). A proposed reduction in fees by Augar, focused on Government as the decision maker and portraying universities as actors of varying quality and efficiency, uses the value for money argument on the part of students, emphasising the employment outcomes of HE and how they differ across programmes, institutions and between genders (Britton et al., 2016). Unsurprisingly, it has been the last of the three reviews that has led to the most negative discourse within the sector.
 
@@ -1335,7 +897,7 @@ Fourth, the economic context, within the sector and the country, has clearly bee
 
 There are other trends worth noting. Over the period of the three reviews, it there has been a reduction in the size of the overseeing committee or panel, the level of consultation undertaken, and the scale and breadth of materials collected to inform their production. Whilst this has been criticised by some as noted above, it is difficult to make any firm conclusions as to why this has been the case, other than perhaps the general move
 
-<!-- page 65 -->
+<!-- page 66 -->
 
 towards thinking about the student as a consumer and the need to simplify policy and broaden its reach. This merits further research.
 
@@ -1373,7 +935,7 @@ Ashton E (2010) Cable: university fees will be capped. The Independent, 25 Octob
 
 Augar P (2019) Review of Post-18 Education and Funding, Her Majesty's Stationery Office. New Zealand: Crown
 
-<!-- page 66 -->
+<!-- page 67 -->
 
 copyright.
 
@@ -1409,7 +971,7 @@ Carasso H and Gunn A (2015) Fees, fairness and the national scholarship programm
 
 Chevaillier T and Eicher J-C (2002) 'Higher education funding: a decade of changes',. Higher Education in Europe 27(1–2): 89–98.
 
-<!-- page 67 -->
+<!-- page 68 -->
 
 Conlon G and Halterback M (2019) Assessing the impact of the Augar review. Universities UK. www. universitiesuk.ac.uk/sites/default/files/field/downloads/2021-07/impact-auger-review-independent- assessment.pdf. (accessed 18 November 2021).
 
@@ -1445,7 +1007,7 @@ Hillman N (2016) The Coalition's higher education reforms in England. Oxford Rev
 
 Hillman N (2019) The Augar review could be a watershed moment. Times Higher Education, 30 May 2019.
 
-<!-- page 68 -->
+<!-- page 69 -->
 
 Hubble S and Bolton P (2019a) Higher education tuition fees in England, House of commons library briefing paper, 8151. UK: House of Commons.
 
@@ -1487,7 +1049,7 @@ Parry G (1999) Education research and policy making in higher education: the cas
 
 Parry G (2019) Argument, Evidence and Continuity in the Augar Report. Oxford, England: University of Oxford podcast. podcasts.ox.ac.uk/argument-evidence-and-continuity-auger-report (accessed on 28 November 2021).
 
-<!-- page 69 -->
+<!-- page 70 -->
 
 Paton G (2009) Tuition fees review lacks independence. The Telegraph, 9 November 2009. Porter A (2020) Ten Years on: The Politics behind the 2010 Tuition Fee Reforms. Wilton, CT: HEPI. www.hepi.ac.uk/2020/12/09/tenyears-on-the-politics-behind-the-2010-tuition-fee-reforms/(accessed on 18 November 2021).
 
@@ -1527,7 +1089,7 @@ Wakeling P and Jefferies K (2013) The effect of tuition fees on student mobility
 
 Walker G (2019a) Does Augar Present 'evidence-Based Policy', or 'policy-Based Evidence'? Wilton, CT: HEPI. www.hepi.ac.uk/2019/07/15/does-augar-present-evidence-based-policy-or-policy-based- evidence/(accessed on 18 November 2021).
 
-<!-- page 70 -->
+<!-- page 71 -->
 
 Walker G (2019b) Augar's perception of a golden age reveals his short-sightedness. Times Higher Education, 26 June 2019.
 
@@ -1545,45 +1107,17 @@ R and Meyer M (eds), Methods for Critical Discourse Analysis. London: Sage.
 
 Rob Hickey is Chief Operating Officer at York St John University. His research includes work on the funding and financial sustainability of universities, and strategies to diversify income. He holds degrees from Lancaster University, the London School of Economics and the University of Leeds, and is currently seeking a doctorate from the University of Bath.
 
-<!-- page 71 -->
-
-> Appendix A Document coding
-
-|   |   | Dearing | g (1997) |   | Brown | ne (2010) | Augar | (2019) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| egment Text/Phrase | Category | Frequ | Frequency 1000 v | ency per words | Freque | Frequency per ency 1000 words | Freque | Frequency per ency 1000 words |
-| We | CI | 1843 | 9.7 |   | 149 | 4.9 | 701 | 8.1 |
-| They, them | C4 | 714 | 3.8 |   | 206 | 6.7 | 328 | 3.8 |
-| We recommend | CI, C4 | 220 | 1.2 |   | 9 | 0.3 | 26 | 0.3 |
-| We believe | CI | 149 | 8.0 |   | 7 | 0.2 | 67 | 0.8 |
-| We consider | CI | 66 | 0.3 | _ |   | 0.0 | 19 | 0.2 |
-| We expect | CI | 19 | 0.1 |   | 3 | 0.1 | 11 | 0.1 |
-| We recognise | C1, C2, C3 | 31 | 0.2 |   | 5 | 0.2 | 17 | 0.2 |
-| We understand | C1, C2, C3 | 11 | 0.1 | _ |   | 0.0 | 7 | 0.1 |
-| We argue | CI | 5 | 0.0 | _ |   | 0.0 | _ | 0.0 |
-| Who | C4 | 284 | 1.5 |   | 102 | 3.3 | 199 | 2.3 |
-| Why | C4, C12 | 15 | 0.1 |   | 2 | 0.1 | 14 | 0.2 |
-| What | C4 | 116 | 0.6 |   | 36 | 1.2 | 73 | 0.8 |
-| When | C4 | 100 | 0.5 |   | 32 | 1.0 | 52 | 0.6 |
-| How | C4, CII | 165 | 0.9 |   | 69 | 2.3 | 244 | 2.8 |
-| Evidence | C3 | 206 | 1.1 |   | 42 | 1.4 | 109 | 1.3 |
-| Data | C3 | 48 | 0.3 |   | 11 | 0.4 | 268 | 3.1 |
-| Trend(s) | C3 | 31 | 0.2 |   | 6 | 0.2 | 12 | 0.1 |
-| Resource(s) | C6, C8, C10 | 148 | 0.8 |   | 13 | 0.4 | 51 | 0.6 |
-| Fund(ing) | C6, C8, C10 | 1390 | 7.3 |   | 212 | 6.9 | 512 | 5.9 |
-| Income | C6, C8, C10 | 256 | 1.4 |   | 123 | 4.0 | 179 | 2.1 |
-| Spend(ing), expenditure | C6, C8, C10 | 208 | 1.1 |   | 34 | 1.1 | 81 | 0.9 |
-| Cost(s) | C6, C8, C10 | 477 | 2.5 |   | 188 | 6.2 | 287 | 3.3 |
+<!-- page 72 -->
 
 (continued)
 
 Policy Futures in Education 22 (1))
 
-<!-- page 72 -->
+<!-- page 73 -->
 
 ## (continued)
 
-|   |   |   | Dearing (1997) | Browne | (2010) | Augar | (2019) |
+|  |  |  | Dearing (1997) | Browne | (2010) | Augar | (2019) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Segment Text/Phrase | Categor | ту | Frequency per Frequency 1000 words | Frequen | Frequency per cy 1000 words | Freque | Frequency per ency 1000 words |
 | Fee(s) | C6, C7 | 186 | 1.0 | 95 | 3.1 | 280 | 3.2 |
@@ -1613,18 +1147,18 @@ Policy Futures in Education 22 (1))
 
 (continued)
 
-<!-- page 73 -->
+<!-- page 74 -->
 
-|   |   | Dearing ( | (1997) | Browne | (2010) | Augar | (2019) |
+|  |  | Dearing ( | (1997) | Browne | (2010) | Augar | (2019) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| egment Text/Phrase | Category |   | Frequency per 1000 words | Frequen | Frequency per cy 1000 words | Frequ | Frequency per ency 1000 words |
+| egment Text/Phrase | Category |  | Frequency per 1000 words | Frequen | Frequency per cy 1000 words | Frequ | Frequency per ency 1000 words |
 | Past | C3, C4 | 31 | 0.2 | 5 | 0.2 | 17 | 0.2 |
 | Government | C4, C5 | 345 | 1.8 | 106 | 3.5 | 456 | 5.3 |
 | Institution(s), University(ies), Provider(s), HEI | C4, C5, C8 | 2048 | 10.8 | 345 | 11.3 | 781 | 9.0 |
 | Student(s) | C4, C5, C7 | 1615 | 8.5 | 662 | 21.7 | 950 | 11.0 |
 | Employer(s), Firm(s), Business(es) | C4, C5, C6, C110 | 357 | 1.9 | 43 | 1.4 | 169 | 2.0 |
 | Compete, Competitive(ness), Competition | C6, C10 | 123 | 0.6 | 48 | 1.6 | 51 | 0.6 |
-| Distinctive | C6 | 64 | 0.3 — |   | 0.0 | 27 | 0.3 |
+| Distinctive | C6 | 64 | 0.3 — |  | 0.0 | 27 | 0.3 |
 | Sustainable | C6, C9 | 9 | 0.0 | 18 | 0.6 | 7 | 0.1 |
 | Economy/economic | C6, C10 | 376 | 2.0 | 54 | 1.8 | 211 | 2.4 |
 | Social, Society | C9 | 294 | 1.6 | 10 | 0.3 | 119 | 1.4 |
@@ -1640,19 +1174,19 @@ Policy Futures in Education 22 (1))
 | Discourage(s) | C4, C14 | 35 | 0.2 | 1 | 0.0 | 2 | 0.0 |
 | Reform | C4, C14 | 9 | 0.0 | 13 | 0.4 | 18 | 0.2 |
 | Prevent | C4, C14 | П | 0.1 | 7 | 0.2 | 4 | 0.0 |
-| Cease | C4, C14 | 4 | 0.0 — |   | 0.0 | 2 | 0.0 |
+| Cease | C4, C14 | 4 | 0.0 — |  | 0.0 | 2 | 0.0 |
 | Manage(ment) | CII | 226 | 1.2 | 7 | 0.2 | 25 | 0.3 |
 | Govern(ance) | CI2 | 535 | 2.8 | 112 | 3.7 | 472 | 5.5 |
 | Structure | CI2 | 169 | 0.9 | 1 | 0.0 | 37 | 0.4 |
 | Control | C4, C11 | 32 | 0.2 | 10 | 0.3 | 18 | 0.2 |
 
-<!-- page 74 -->
+<!-- page 75 -->
 
 ## (continued)
 
-|   |   | Deari | ng (1**997**) | Brow | ne (2010) | Augar | (2019) |
+|  |  | Deari | ng (1**997**) | Brow | ne (2010) | Augar | (2019) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Segment Text/Phrase | Category | Freque | Frequency per ency 1000 words |   | Frequency per ency 1000 words | Frequ | Frequency per ency 1000 words |
+| Segment Text/Phrase | Category | Freque | Frequency per ency 1000 words |  | Frequency per ency 1000 words | Frequ | Frequency per ency 1000 words |
 | International, overseas | C5 | 209 | 1.1 | 26 | 0.9 | 39 | 0.5 |
 | United Kingdom, UK, Britain, GB | C5 | 444 | 2.3 | 62 | 2.0 | 515 | 6.0 |
 | England, English | C5 | 185 | 1.0 | 22 | 0.7 | 283 | 3.3 |
@@ -1660,7 +1194,7 @@ Policy Futures in Education 22 (1))
 | Wales, Welsh | C5 | 175 | 0.9 | 1 | 0.0 | 13 | 0.2 |
 | Northern Ireland | C5 | 193 | 1.0 — | - | 0.0 | 4 | 0.0 |
 
-<!-- page 75 -->
+<!-- page 76 -->
 
 ## Category labels
 
@@ -1681,7 +1215,7 @@ Policy Futures in Education 22 (1))
 | C13 | Positive, proactive |
 | C14 | Negative, reactive |
 
-<!-- page 76 -->
+<!-- page 77 -->
 
 ## Chapter Six: Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England
 
@@ -1695,7 +1229,7 @@ In this paper, I critically analyse the financial sustainability challenges bein
 
 In bringing evidence together, I discuss the vulnerabilities within small institutions and the risks around continued resource rationalisation and new employment models. I also explore the dynamics between programme and partner proliferation and financial benefits in a fixed home undergraduate environment, where more courses and students may not necessarily mean increased income or larger surpluses. In discussing income diversification, I highlight the opportunities being grasped by the sampled universities, particularly orientated towards increases in international students and the formation of new partnerships, but also describe
 
-<!-- page 77 -->
+<!-- page 78 -->
 
 some of the challenges this presents in a competitive market where other institutions possess more resources.
 
@@ -1709,7 +1243,7 @@ This paper contributes to the overall argument outlined in Chapters Nine and Ten
 
 See pages 79 to 96.
 
-<!-- page 78 -->
+<!-- page 79 -->
 
 ![TH.R06 fig08](../figures/TH/TH.R06_fig08.jpg)
 
@@ -1743,7 +1277,7 @@ CONTACT Rob Hickey r.hickey@yorksj.ac.uk York Business School, York St John Univ
 
 © 2023 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group. This is an Open Access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
 
-<!-- page 79 -->
+<!-- page 80 -->
 
 ![TH.R06 fig11](../figures/TH/TH.R06_fig11.jpg)
 
@@ -1763,7 +1297,7 @@ An enabler of the increase in participation in English HE has been the changes m
 
 The extent of change in the HE environment means its analysis requires a strong framework recognising significant roles played, and influence generated, by external policy makers on universities (Slaughter & Leslie, 1997). Whilst political theories help us under-
 
-<!-- page 80 -->
+<!-- page 81 -->
 
 ![TH.R06 fig12](../figures/TH/TH.R06_fig12.jpg)
 
@@ -1781,17 +1315,15 @@ First, a financial typology for a 'small public university' is established and m
 
 Commentators have discussed the stratification and classification of English HE, and the roles played by each type of institution, be that into quality tiers, through league tables, via mission groups or another means (Boliver, 2015). Rather than adopt an existing
 
-<!-- page 81 -->
+<!-- page 82 -->
 
 ![TH.R06 fig13](../figures/TH/TH.R06_fig13.jpg)
 
 cluster, this paper uses three criteria to define a 'small new public university' in England:
 
-It achieved full university status, via the Privy Council, between 2000 and 2015;
-
-It was home to between 4,000 and 10,000 students, as at the end of the 2020/21 academic year; and
-
-As holder of a Teaching Excellence Framework (TEF) award, it is eligible to charge home undergraduate tuition fees of £9,250 per annum.
+- It achieved full university status, via the Privy Council, between 2000 and 2015;
+- It was home to between 4,000 and 10,000 students, as at the end of the 2020/21 academic year; and
+- As holder of a Teaching Excellence Framework (TEF) award, it is eligible to charge home undergraduate tuition fees of £9,250 per annum.
 
 Ten universities meet these criteria. This tight definition enables the development of a reliable financial typology, acknowledging that larger, smaller, newer, older or private universities could have a dramatically different income and expenditure mix. Whilst the identity of these institutions is anonymised, four are based in the north of England, three in the southwest, three in the southeast. Their annual income in 2020–21 ranged from £46 m to £84 m. The homogeneity of this sample is not limited to their size and age. These universities all attract a high proportion of students from areas of educational disadvantage, eight are located in small cities or towns rather than large metropolitan areas and nine have their origins in teacher training. An examination of their subject mix reveals that all 10 institutions have an arts and social science bias to their academic offering, although most have started to diversify.
 
@@ -1799,43 +1331,11 @@ Ten universities meet these criteria. This tight definition enables the developm
 
 Table 1 shows that in terms of financial health, as defined by Pagano and Moore (1985) and Woelful (1987), these small institutions have a consistently weaker performance than the sector. Over the past five years, financial surpluses have been lower than the wider sector average, and two of the universities reported a financial loss every year since 2016/17. Liquidity, which in this case is a measure of the number of days from the financial year end a university could operate based on its cash reserves and short-term investments, aligned closely with the sector until 2019/20, and varies significantly between the individual institutions. However, it was nearly 20 days below the sector average in 2020/21 at a time when all universities sought to protect their sustainability, through prudent financial planning, during the pandemic (Office for Students [OfS], 2022a). The days ratio of total net assets to total expenditure averaged 401 in the sample in 2020/21 (with a range of 193 to 810) against a sector mean of 419. This suggests that there is no discernible difference in the proportional level of assets held by the sampled universities versus the sector in general.
 
-> Table 1. Current financial health of sampled universities.
-
-| Reported surplus (% of income) | Minimum Maximum | 2016/17 −8.8% | 2017/18 −12.0% | 2018/19 −8.1% | 2019/20 | 2020/21 |
-| --- | --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   | −12.4% | −12.1% |
-|   |   | 11.4% | 9.9% | 4.8% | 7.4% | 10.9% |
-|   | Mean | 2.9% | 1.2% | -0.6% | 0.1% | 1.2% |
-|   | Sector | 3.7% | 3.1% | 3.9% | 2.0% | 4.7% |
-| Liquidity (days) | Minimum | 44 | 32 | 36 | 72 | 98 |
-|   | Maximum | 228 | 208 | 200 | 231 | 293 |
-|   | Mean | 116 | 130 | 115 | 139 | 149 |
-|   | Sector | 143 | 144 | 125 | 137 | 168 |
-
 Source: Author, based on HESA (2022a), OfS (2022a) and institutional Financial Reports.
 
-<!-- page 82 -->
+<!-- page 83 -->
 
 ![TH.R06 fig14](../figures/TH/TH.R06_fig14.jpg)
-
-> **Table 2.** Sample universities income and expenditure (2020/21).
-
-|   | Home |   | Funding |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|   | tuition | International | body | Research and | Accommodation |   |   |
-| INCOME | fees | fees | grants | other grants | and catering | Other income |   |
-| Minimum | 68.7% | 0.2% | 4.2% | 0.2% | 0.5% | 1.1% |   |
-| Maximum | 88.4% | 10.2% | 10.0% | 2.5% | 10.9% | 9.5% |   |
-| Mean | 76.5% | 4.6% | 6.8% | 1.0% | 6.2% | 4.9% |   |
-| Sector | 38.8% | 16.3% | 11.0% | 15.4% |   | 18.5% |   |
-|   |   | Social |   |   |   | Interest and |   |
-|   | Staff | security | Staff | Other |   | financing | Other |
-| EXPENDITU | REsalaries | costs | pension s | operating costs | Depreciation | costs | costs |
-| Minimum | 35.8% | 6.8% | 9.3% | 20.8% | 5.6% | 0.8% | 0.0% |
-| Maximum | 53.7% | 10.9% | 15.6% | 44.2% | 8.6% | 4.0% | 2.0% |
-| Mean | 43.6% | 9.6% | 12.8% | 29.3% | 7.2% | 2.3% | 0.6% |
-| Sector | 41.4% | 5.9% | 8.0% | 36.2% | 6.7% | 1.8% |   |
 
 Source: Author, based on HESA (2022c, 2022d) and institutional Financial Reports.
 
@@ -1849,7 +1349,7 @@ Home undergraduate tuition fees are the largest source of income for the sampled
 
 While outlining the tuition fee freeze, the government also announced consultations on the introduction of Student Number Controls, Minimum Eligibility Requirements, and reduced
 
-<!-- page 83 -->
+<!-- page 84 -->
 
 ![TH.R06 fig15](../figures/TH/TH.R06_fig15.jpg)
 
@@ -1863,7 +1363,7 @@ Staff salaries dominate spending in the sampled universities (for the past five 
 
 For staff, the JNCHES framework provides transparency, comparability and fairness, and has supported work towards equal pay (UCEA, 2003). For smaller universities, how- ever, whilst a single national pay scale helps avoid equal pay cases; simplifies pay administration; improves retention; harmonises working hours; and if managed correctly, supports good employee relations, it also limits the extent to which individual institutions can differentiate themselves. For example, limited autonomy exists to retain their best resources, attract higher performers (especially in a competitive market) and respond to income challenges. In financial terms, it means smaller universities in England pay a similar level of salaries as larger sector peers, despite not necessarily being able to sustainably afford this. In some institutions, a response may be to employ fewer staff. Headcount across the 10 sampled institutions decreased by 480 between 2016 and 2021, but the cost of staff salaries during this period grew by £18.4 m.
 
-<!-- page 84 -->
+<!-- page 85 -->
 
 ![TH.R06 fig16](../figures/TH/TH.R06_fig16.jpg)
 
@@ -1883,11 +1383,11 @@ The Consumer Price Index has increased dramatically in the UK. It reached 10.7% 
 
 Table 3. Pension costs as a proportion of income, for sampled universities.
 
-<!-- page 85 -->
+<!-- page 86 -->
 
 ![TH.R06 fig17](../figures/TH/TH.R06_fig17.jpg)
 
-|   | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 |
+|  | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 |
 | --- | --- | --- | --- | --- | --- |
 | Minimum | 6.7% | 7.0% | 6.9% | 8.6% | 9.4% |
 | Maximum | 10.8% | 11.2% | 12.2% | 14.9% | 15.1% |
@@ -1905,7 +1405,7 @@ The RDT model proposes two sets of adaptive and strategic organisational respons
 
 Adaptation to fit with the environment
 
-<!-- page 86 -->
+<!-- page 87 -->
 
 ![TH.R06 fig18](../figures/TH/TH.R06_fig18.jpg)
 
@@ -1919,7 +1419,7 @@ Even where new subsidiaries have not yet been created, smaller English universit
 
 There have also been changes to workforce size in the sampled universities. In 2016/17, the 10 universities employed a total of 9,845 members of staff, and by 2019/20 this had reduced to 9,365 (down 5%), despite the number of students attending these institutions rising by 4% during that period. This has led to the ratio between students and academic staff at these institutions rising from 12.3 to 14.1, even taking into consideration varying interpretation of HESA data requirements, significantly higher than the sector, which has
 
-<!-- page 87 -->
+<!-- page 88 -->
 
 ![TH.R06 fig19](../figures/TH/TH.R06_fig19.jpg)
 
@@ -1935,21 +1435,11 @@ Smaller universities in England have, in general, experienced a period of growth
 
 So far, this growth trajectory has not yet driven a proportional increase in income, nor as previously shown in Table 1, financial surplus. Income across the sample has increased by an average of 7% in the period 2016–21, suggesting that income per student has fallen. Despite this, growth aspiration continues, with Corporate or University Strategies in five of
 
-<!-- page 88 -->
+<!-- page 89 -->
 
 ![TH.R06 fig20](../figures/TH/TH.R06_fig20.jpg)
 
 the 10 institutions including quantified student growth targets for the next decade. Some of these are modest, with one targeting 9,300 students by 2030, and another 10,000 by 2026. Others though, are more ambitious: one university is seeking to grow by 65% in 10 years, and another is aiming to reach 15,000 by 2030.
-
-> Table 4. Student population growth amongst sampled universities.
-
-|   | Student Headcount (FTE) |   |   |   |   |   |
-| --- | --- | --- | --- | --- | --- | --- |
-| University | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2016–21 change |
-| Minimum | 3,625 | 3,365 | 3,415 | 4,985 | 4,693 |   |
-| Maximum | 8,635 | 8,490 | 8,255 | 8,450 | 9,821 |   |
-| Mean | 6,393 | 6,329 | 6,350 | 6,659 | 7,092 | 12.2% |
-| Sector | 1,951,075 | 1,983,480 | 2,015,110 | 2,076,465 | 2,257,580 | 15.7% |
 
 Source: HESA (2022f).
 
@@ -1957,7 +1447,7 @@ Part of the growth agenda has been an increased international presence, where th
 
 There are signs that smaller universities are beginning to innovate in terms of domestic partnerships, opening new markets segments. In 2022, one of the in-scope institutions announced a partnership with a large Russell Group university to open a new graduate entry medical school in 2025, especially designed to meet the needs of the local region. Elsewhere, one university accredits all research degrees delivered by a smaller HE provider and, since 2018, one of the sample has delivered a Foundation Coaching and Development degree with a Premier League football club. All 10 sampled universities work with both further education and independent domestic HE providers to some extent. As a leader in creative subjects, one university has over the past decade created 12 domestic partners
 
-<!-- page 89 -->
+<!-- page 90 -->
 
 ![TH.R06 fig21](../figures/TH/TH.R06_fig21.jpg)
 
@@ -1971,7 +1461,7 @@ The impact of organisational adaptation may mean universities in the sample incr
 
 In terms of environment alteration, the efforts of sampled institutions to exploit scale economies through growth has to date led to an increased number of academic programmes on offer and a gentle move away from their roots in arts and social sciences. This has had the short-term impact of a modest increase in student numbers, but there may be concerns at individual institutions that the range of new courses that can be introduced and delivered efficiently, within a fixed undergraduate fee environment, is being diminished. As discussed earlier, the evidence so far suggests that student number growth has not been accompanied by a proportional increase in income levels, raising concerns around the ability of institutions to grow efficiently. The time needed to bring new programmes to market – with design, approval and marketing periods – is also a challenge in this context, as is the teach-out period for those deemed unviable. Diversifying course offerings towards segments and markets where more institutional autonomy exists, and with it higher margins, mean that these universities may look very different in the future. Historically, the sample universities have largely served local markets at undergraduate level, becoming key local anchors visibly at the forefront of widening access to HE. As financial tensions increase, there is a risk that this expensive and resource-intensive activity becomes no longer affordable. Furthermore, future financial sustainability challenges may mean institutions seek to recruit from further afield domestically, where at present
 
-<!-- page 90 -->
+<!-- page 91 -->
 
 ![TH.R06 fig22](../figures/TH/TH.R06_fig22.jpg)
 
@@ -1979,7 +1469,7 @@ demographics are favourable with more people of student age in the system throug
 
 Sector level dynamics are also likely to impact individual institutions. Whilst many of the sample are seeking to grow and diversify, create new partnerships and exploit new markets, so are other players including larger and more established universities moving into some of the lower-tariff markets typically occupied by the sampled institutions. Whilst more collaboration and partnership building may support overall financial sustain- ability, it could be argued that this could lead to a different form of dependency and in a sense reduce institutional autonomy. Sector-wide financial performance was deemed 'reasonable' by the OfS for 2020/21, but in the same report, the regulator expects the rise in costs to exceed the rise in income in the short-term (OfS, 2022a). These external environmental changes may accelerate some of the responses already discussed, such as shared service models and the medical facility collaboration discussed earlier. They could also, however, lead to more fundamental changes in the sector such as asset refinancing or stripping, institutional failure, or vertical or horizontal integration. Whilst Hunt and Boliver (2020) comment that the closure of public HE institutions in the UK is almost unknown in comparison to more recently founded for-profit organisations, the National Audit Office (2022) stated the proportion of HE providers with an in-year deficit increased from 5% in 2015/16, to 32% in 2019/20. Perhaps more likely than failure is consolidation, with more universities merging vertically with FE, as has been seen at several locations over the past two decades, or horizontally with each other, akin to Victoria University of Manchester and UMIST forming the University of Manchester in 2004. Another potential interesting future scenario would be the development of new public-private hybrid models resulting from mergers or acquisitions between not-forprofit and for-profit institutions, which have the potential of bringing a new form of HE to
 
-<!-- page 91 -->
+<!-- page 92 -->
 
 ![TH.R06 fig23](../figures/TH/TH.R06_fig23.jpg)
 
@@ -1993,7 +1483,7 @@ Whilst the outlook for the future is unclear, with ongoing turbulence in nationa
 
 This paper has examined, in detail, just a small proportion of English HE, in a post-Brexit, post-Covid-19 environment, largely based on secondary data. The income and expenditure profile of older and larger institutions will differ from those sampled, meaning their exposure to external environmental factors also varies, creating new financial sustainability challenges. The conclusions of this paper are, therefore, limited to the profile of the institutions sampled, but the methodology employed could be applied to other typologies. Indeed, it would be interesting to examine what is common to all universities and what is due to being smaller and newer. A further question to consider is whether financial pressures on the sector in England are now such that
 
-<!-- page 92 -->
+<!-- page 93 -->
 
 ![TH.R06 fig24](../figures/TH/TH.R06_fig24.jpg)
 
@@ -2035,7 +1525,7 @@ Browne, J. (2010). Securing a sustainable future for higher education. Her Majes
 
 Dearing, R. E. (1997). The dearing report. The national committee of enquiry into higher education. HM
 
-<!-- page 93 -->
+<!-- page 94 -->
 
 ![TH.R06 fig25](../figures/TH/TH.R06_fig25.jpg)
 
@@ -2079,7 +1569,7 @@ HESA. (2022f). Who's studying in HE? Retrieved March 17, 2022, from https://www.
 
 HESA. (2022g). Who's working in HE? Retrieved March 17, 2022, from https://www.hesa.ac.uk/dataand-analysis/staff/working-in-he
 
-<!-- page 94 -->
+<!-- page 95 -->
 
 ![TH.R06 fig26](../figures/TH/TH.R06_fig26.jpg)
 
@@ -2117,7 +1607,7 @@ Powell, K. K., & Rey, M. P. (2015). Exploring a resource dependency perspective 
 
 Rapanta, C., Botturi, L., Goodyear, P., Guàrdia, L., & Koole, M. (2020). Online university teaching during and after the COVID-19 crisis: Refocusing teacher presence and learning activity. Postdigital Science & Education, 2(7), 923–945. https://doi.org/10.1007/s42438-020-00155-y
 
-<!-- page 95 -->
+<!-- page 96 -->
 
 ![TH.R06 fig27](../figures/TH/TH.R06_fig27.jpg)
 
@@ -2151,7 +1641,7 @@ Williams, G. L. (1995). The 'marketization' of higher education: Reforms and pot
 
 Woelful, C. J. (1987). Financial statement analysis for colleges and universities. Journal of Education Finance, 13(1), 86–98. https://www.jstor.org/stable/40703586/datasets/consumerpriceinflation
 
-<!-- page 96 -->
+<!-- page 97 -->
 
 ## Chapter Seven: What are the common factors underlying successful international branch campuses? Toward a conceptual decision-making framework for UK universities.
 
@@ -2167,7 +1657,7 @@ In this paper, we systematically review literature and data compiled and publish
 
 We suggest that whilst there are several reasons why universities establish IBCs - including international profile, reputation, curriculum enhancement and research opportunities - the dominant rationale is financial profit via a diversified income stream, either directly through students overseas or by boosting the interest in the home campus. Drawing on evidence in the literature and through case studies, we discuss the trend towards a power rebalance between sending and host countries, as the latter develop. We note that many IBC failures in recent
 
-<!-- page 97 -->
+<!-- page 98 -->
 
 times have been caused by poor business planning, little host market knowledge and unrealistic financial returns and time horizons.
 
@@ -2181,7 +1671,7 @@ This paper contributes to the overall argument outlined in Chapters Nine and Ten
 
 See pages 99 to 115.
 
-<!-- page 98 -->
+<!-- page 99 -->
 
 ![TH.R06 fig28](../figures/TH/TH.R06_fig28.jpg)
 
@@ -2213,7 +1703,7 @@ CONTACT Rob Hickey r.hickey@yorksj.ac.uk York Business School, York St John Univ
 
 © 2022 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group This is an Open Access article distributed under the terms of the Creative Commons Attribution-Non Commercial-No Derivatives License (http:// creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
 
-<!-- page 99 -->
+<!-- page 100 -->
 
 ![TH.R06 fig31](../figures/TH/TH.R06_fig31.jpg)
 
@@ -2225,7 +1715,7 @@ This paper aims to identify key characteristics of successful IBCs and establish
 
 This review draws upon the findings of Kosmutzky and Putty (2016) who undertook an earlier systematic review of the TNE literature. They noted a shortage in quantitative empirical studies to that point, which reflects the quality of data available (Altbach 2007; Naidoo 2009). Whilst data in relation to the size and performance of IBCs is limited at a global level, it is a compulsory com- ponent of Higher Education Statistics Agency (HESA) information gathering in the UK. These data, together with published case studies of UK
 
-<!-- page 100 -->
+<!-- page 101 -->
 
 ![TH.R06 fig32](../figures/TH/TH.R06_fig32.jpg)
 
@@ -2241,7 +1731,7 @@ Bennell (2019a) suggests that IBCs can also be a platform to recruit additional 
 
 In addition to the direct financial incentives, the literature discusses a range of sources of indirect utility. Some suggest that IBCs have been developed on the belief that they improve the international profile and brand of a university (Naidoo 2006; Wilkins and Huisman 2012), helping to attract the top scholars and other talent (Knight 2007a; Healey 2021) and that international engagements will improve the quality of the home campus and its teaching curriculum (Becker 2009; Lane 2011a; Healey 2021). Others point to student and faculty research opportunities and in particular, the opportunity that IBCs provide in tackling global challenges that cannot be addressed purely from a single location (Garrett and Verbik 2004; Knight 2007a). In an empirical study on university motivations for creating IBCs, Knight (2007a) found that wider student and staff development, including enhanced intercultural skills and knowledge capacity, were significant drivers. Outside of a neo-liberal framework, reasons cited for IBCs include the desire to contribute towards capacity building in countries and less developed HE sectors (Verbik and Merkley 2006; Knight 2011).
 
-<!-- page 101 -->
+<!-- page 102 -->
 
 ![TH.R06 fig33](../figures/TH/TH.R06_fig33.jpg)
 
@@ -2255,7 +1745,7 @@ The earlier phases of the HE internationalisation – including the increased mo
 
 Numerous country-specific multidimensional examples of the benefits of single or clustered IBCs can be found in Lane (2010) on Dubai, Lane (2011b) covering Malaysia and Dubai, and Timol (2020), discussing Mauritius. Common across these are the host country motivations to retain talent, create choice, capacity build within the local system and drive new demand, including attracting international students of their own.
 
-<!-- page 102 -->
+<!-- page 103 -->
 
 ![TH.R06 fig34](../figures/TH/TH.R06_fig34.jpg)
 
@@ -2267,7 +1757,7 @@ Despite a strong growth in the number of IBCs since the 1990s, there has been de
 
 Also prominent in the literature are concerns over the quality of teaching and ability to retain faculty (Altbach 2011; Chapman et al. 2014; Healey 2020) or willingness to adapt the curricula to different learning styles and cultures (Hoare 2013). Altbach (2010, 2011) is critical of the facilities provided by IBCs, suggesting that they rarely resemble the home campus and are not comparable in the quality or range of academic or social facilities. Several authors have challenged this viewpoint, with both Heffernan and Poole (2005) and Marginson (2011) reporting that many IBCs in East Asia and Singapore have established learning styles that balance local cultures and the values of the home university. Wilkins and Balakrishnan (2013) found that levels of student satisfaction at UAE IBCs were generally high, with key factors determining satisfaction being the quality of lecturers, avail- ability of resources and effective use of technology, and Wilkins and Juusola (2018) claim that most IBCs are of acceptable quality due to increasing competition and regulatory demands.
 
-<!-- page 103 -->
+<!-- page 104 -->
 
 ![TH.R06 fig35](../figures/TH/TH.R06_fig35.jpg)
 
@@ -2281,7 +1771,7 @@ Healey (2020) identifies challenges for IBC operators in relation to working wit
 
 The level of financial returns generated by UK IBCs is undoubtedly a cause for failure and instability. Bennell (2019b) reports that of the 11 UK Institutions that provided financial data in a 2015/16 HESA survey, the median revenue/student was £5378 and the profit/student ranged from −£400 to £1200. This suggests mixed levels of business planning. An example of this and much criticised approach to IBC development is the
 
-<!-- page 104 -->
+<!-- page 105 -->
 
 ![TH.R06 fig36](../figures/TH/TH.R06_fig36.jpg)
 
@@ -2293,7 +1783,7 @@ Of the 45 UK-led IBCs that were open at the end of 2020, the largest and most es
 
 Many of the recent successes at Nottingham Ningbo may well have been informed by institutional experience learned at UNM. Launched in 2000, only two years after Monash University created the first ever IBC in Malaysia, UMN is the oldest UK-led IBC (Mok 2008). In its early years, UMN faced quality and retention issues around staffing with many seconded from the UK, and, according to Hill and Thabet (2018), it has taken time to create a campus experience that is comparable to the home institution. Twenty years later the faculty is stable and increasingly local, and there is a strong focus on student
 
-<!-- page 105 -->
+<!-- page 106 -->
 
 ![TH.R06 fig37](../figures/TH/TH.R06_fig37.jpg)
 
@@ -2307,7 +1797,7 @@ The choice of host country may be important to the success of an IBC. Mauritius 
 
 A decision to establish an IBC is typically taken in a UK university by its Vice-Chancellor (VC) and Executive Team, with endorsement from the Governing Body and/or Senate. Some decisions may form part of a wider university/internationalisation strategy, whilst others may be based on the per- sonal bias or belief of the leader, and sometimes ventures may be opportunistic or led by a host country invitation. Figure 1 proposes a framework of key success factors based on the above literature review, that could be used to help make an informed and balanced decision. This includes 15 dimensions along which an IBC can be formed, broadly grouped in strategic, leadership, academic, financial, and operational themes, which incorporate both host country and home institution fac- tors. A higher chance
 
-<!-- page 106 -->
+<!-- page 107 -->
 
 ![TH.R06 fig38](../figures/TH/TH.R06_fig38.jpg)
 
@@ -2318,14 +1808,13 @@ of IBC success is associated with those that sit to the right of these continuum
 Case studies of UK-based home universities suggest a link between the success of an IBC and its integration with the institutional strategy of the sending university. The presence of IBCs has been a prominent feature of both the University of Nottingham and HWU's strategies, indicating that the mission and vision of the branch and the home campus are aligned, and supported by
 
 ![TH.R06 fig39](../figures/TH/TH.R06_fig39.jpg)
-
-> Figure 1. A success framework for establishing an IBC. Source: Author.
+*Figure 1. A success framework for establishing an IBC. Source: Author.*
 
 senior leaders. These IBCs are not perceived as different, at the organisational periphery or of lesser importance than the home campus (Lane 2011a). It also helps to eliminate the possible friction identified by Lim (2008) between the home campus and IBC.
 
 The literature indicates that the stronger a sending university's understanding of the political and regulatory environment of IBC host countries, the less susceptible the venture is to risk and failure (Healey 2018). IBC leaders need to be aware of the fragility of the local environment and of any political fluidity within the HE sector. They should also appreciate that different countries have radically different trade and quality assurance regulations (Lane 2010; Shams and Huisman 2012). This variation in conditions suggests that a university embarking on an IBC project needs to reject a one-size-fits-all approach and adopt a caseby-case analysis of the receiving market, and be clear when there is a divergence between home and host system regulations. Connections, cooperation, and the ability to create
 
-<!-- page 107 -->
+<!-- page 108 -->
 
 ![TH.R06 fig40](../figures/TH/TH.R06_fig40.jpg)
 
@@ -2341,7 +1830,7 @@ Universities with IBC aspirations need senior leaders who can balance home and h
 
 University leaders also need to take a positive approach to managing the stakeholders associated with an IBC. Sustainable relationships with the host government, regulators, local businesses, students, staff, parents and other universities have been evident in the successful examples discussed in this paper. Neri and Wilkins (2019) discuss the difficulties of striking a balance between the some- times-divergent needs of various stakeholder groups whilst Acquaah (2007) outlines the importance of networking and social relationships in emerging economies. Heffernan and Poole (2004) discuss some effective tactics, including the development of communication plans, strategies to develop trust and openness, and the acknowledgement that accepted business practices are likely to vary between the sending and host country. As has been seen at XJLU, this engagement can become formalised, with representation from local stakeholders in the IBC governance regime. Borgos (2016)
 
-<!-- page 108 -->
+<!-- page 109 -->
 
 ![TH.R06 fig41](../figures/TH/TH.R06_fig41.jpg)
 
@@ -2357,7 +1846,7 @@ There is emerging evidence to suggest that teaching and learning should not be t
 
 Common in the literature is the view that IBCs offer no guarantees of an income windfall for the home institution and – even where success has been identified – require significant financial and organisational investment. Some UK-led IBCs have closed only a couple of years after opening, suggesting that realistic financial return horizons were not established from the outset, and were not tracked or monitored proactively (Healey 2015; Garrett
 
-<!-- page 109 -->
+<!-- page 110 -->
 
 ![TH.R06 fig42](../figures/TH/TH.R06_fig42.jpg)
 
@@ -2373,7 +1862,7 @@ The balance between a reliance on a home campus to provide administration and su
 
 The number of IBCs around the world continues to grow, reaching new territories and markets. Evidence from the last twenty years of IBC creation, success – and in some cases closure – suggests that university leaders need to be certain that an IBC fits with their institutional strategy and that they have the experience and knowledge of host markets
 
-<!-- page 110 -->
+<!-- page 111 -->
 
 ![TH.R06 fig43](../figures/TH/TH.R06_fig43.jpg)
 
@@ -2409,7 +1898,7 @@ Bothwell, E., 2017. "Branch Campus Leaders Told to be 'More Patient' to Taste Su
 
 Bothwell, E. 2018. "Aberystwyth University's Mauritius Campus Loses £1 Million." Times Higher
 
-<!-- page 111 -->
+<!-- page 112 -->
 
 ![TH.R06 fig44](../figures/TH/TH.R06_fig44.jpg)
 
@@ -2467,7 +1956,7 @@ Hoare, L. 2013. "Swimming in the Deep End: Transnational Teaching as Culture Lea
 
 Kinser, K., and J. Lane. 2012. "Foreign Outposts of Colleges and Universities." International Higher Education
 
-<!-- page 112 -->
+<!-- page 113 -->
 
 ![TH.R06 fig45](../figures/TH/TH.R06_fig45.jpg)
 
@@ -2527,7 +2016,7 @@ Marginson, S. 2006. "Dynamics of National and Global Competition in Higher Educa
 
 Marginson, S. 2007. "The Public/Private Divide in Higher Education: A Global Revision." Higher Education 53
 
-<!-- page 113 -->
+<!-- page 114 -->
 
 ![TH.R06 fig46](../figures/TH/TH.R06_fig46.jpg)
 
@@ -2579,7 +2068,7 @@ Tierney, W. G., and M. Lanford. 2014. "An Investigation of the Impact of Interna
 
 UCU. 2014. "Empire Built on Sand UCLan's Great Overseas Gamble." UCU Briefing, February 2014. https://www. ucu.org.uk/media/6156/Briefing-Empire-built-on-sand—UCLans-great-overseas-ganble-Feb-
 
-<!-- page 114 -->
+<!-- page 115 -->
 
 ![TH.R06 fig47](../figures/TH/TH.R06_fig47.jpg)
 
@@ -2609,7 +2098,7 @@ Ziguras, C. 2008. "The Cultural Politics of Transnational Education: Ideological
 
 Ziguras, C., and G. McBurnie. 2011. "Transnational Higher Education in the Asia-Pacific Region: From Distance Education to the Branch Campus." Higher Education Dynamics 36: 105–122.
 
-<!-- page 115 -->
+<!-- page 116 -->
 
 ## Chapter Eight: The rise of the Remote Metropolitan Branch Campus – definitions, motivations and models
 
@@ -2625,7 +2114,7 @@ In this paper we tackle the relatively immature subject of RMBCs. We initially d
 
 Feedback from RMBC Directors suggests that commercial revenues - whilst important and linked to reaching new markets and exploiting London's draw - are one of several rationales for establishing RMBCs, which also include legacy happenstance and overseas profile raising.
 
-<!-- page 116 -->
+<!-- page 117 -->
 
 The data also reveals that there are several operating models, including wholly-integrated and controlled RMBCs; those operating as subsidiary companies; and JVs with private sector partners. The last two of these offer flexibility around the terms on which staff are employed by comparison with those in the 'home' campus, which is being utilised by several RMBCs. The international student market is clearly important to many RMBCs, whilst others mix overseas and domestic students and some focus on the latter - albeit with student cohorts including large numbers of UK residents of non-UK origin, mature students, those with family responsibilities and students with other characteristics considered atypical in the wider HE market. There is evidence that the teaching models in operation have been tailored to the students' need to work whilst studying: compressed timetabling, block teaching and flexible entry points are common across RMBCs. The course portfolios are similar between institutions, being focused towards the market demand for employability, entrepreneurship and immersive experiences, with business management and computing the dominant disciplines.
 
@@ -2639,7 +2128,7 @@ This paper contributes to the overall argument outlined in Chapters Nine and Ten
 
 See pages 118 to 147.
 
-<!-- page 117 -->
+<!-- page 118 -->
 
 The rise of the Remote Metropolitan Branch Campus – definitions, motivations and
 
@@ -2685,13 +2174,13 @@ and business engagement, but that in some cases the repositioning of an RMBC has
 
 116
 
-<!-- page 118 -->
+<!-- page 119 -->
 
 strategically reactive in response to external changes in its operating environment. Whilst there is evidence for a range of organisational models amongst London-based RMBCs, there are key commonalities around the students attracted, the programmes offered and approaches to teaching and learning. RMBCs in London are growing and thriving, but face challenges from market entrants and uncertain future UK Government policy.
 
 Keywords: domestic branch campus, satellite campus, international branch campus, UK universities, university finances, international students, market entry
 
-<!-- page 119 -->
+<!-- page 120 -->
 
 ## Introduction
 
@@ -2703,7 +2192,7 @@ The emergence of RMBCs over the past 25 years has coincided with the latter stag
 
 These forces, together with a reduction in the level of public funding for universities in countries such as the UK, has coincided with a sequence of geographical diversifications in HE. The first of these, prominent in the 1990s, was the trend for universities to recruit students from overseas. Whilst internationally-mobile students continue to be hugely important to UK higher education institutions (HEIs), the second trend - acknowledging that many are unable or unwilling to travel long distances to learn for financial or cultural reasons - has been the rise of transnational education (TNE) (Healey, 2015).
 
-<!-- page 120 -->
+<!-- page 121 -->
 
 TNE has taken many forms, including offering courses by distance learning and universities subcontracting the delivery of their qualifications to local partners via franchising or validation models (McBurnie and Ziguras, 2007; Burgess and Berquist, 2012; Knight, 2016). It has also included the creation of IBCs: 'bricks and mortar' premises partly or wholly owned by a 'home' university in an overseas territory, serving a local or regional market using a myriad of models (Verbik and Merkley, 2006; Lane and Kinser, 2013). The Cross-Border Education Research Team (C-BERT) estimated that 333 IBCs were operating in March 2023 (C-BERT, 2023).
 
@@ -2713,7 +2202,7 @@ It could now be argued that a third, more recent, manifestation of neoliberalisa
 
 In seeking to arrive at a working definition of an RMBC, this paper distinguishes them from generic domestic satellite campuses and draws comparisons with previous definitions of IBCs. To understand the motivations behind the creation of an RMBC and explore the models employed and challenges encountered, the authors selected London as a geographical case study owing to the high number of RMBCs that have been created there in recent years. An 'insider researcher' qualitative methodology (Healey, 2017) was adopted, based on the seniority and knowledge of the sector of the two researchers and the strength of their networks. Semi-structured interviews were held with ten of London's 13 RMBC Directors (Interviewees A-J). The interviews were transcribed and coded, to identify key themes in relation to institutional rationale and aims; operating models; programme offerings; target markets; pedagogical approaches; and wider opportunities and risks. This dataset was supplemented by content analysis of university strategies; annual reports; London RMBC websites and other publications such as staffing adverts and job descriptions to gain further insights.
 
-<!-- page 121 -->
+<!-- page 122 -->
 
 This paper explores what our analysis reveals about why RMBCs are becoming more common and under what conditions they appear to prosper. In seeking to look towards the future, the paper discusses the influencing factors behind RMBC development and how these divide between internal factors, such as financial imperatives, reputational ambitions or home-campus limitations, and external factors, such as international student mobility and preference, educational agglomeration and system autonomy.
 
@@ -2723,7 +2212,7 @@ There is a significant depth of literature on IBCs, estimated by Hickey & Davies
 
 In the UK, the Quality Assurance Agency for Higher Education (QAA) published a first thematic enquiry into the London campuses of UK universities in 2014 (QAA, 2014). Based on an assessment of public information and a survey of recently emerging RMBCs, but without using a clear and consistent definition, this report paints a mainly positive picture of the RMBC
 
-<!-- page 122 -->
+<!-- page 123 -->
 
 trend. It suggests that RMBCs appeared to be generally well planned by universities, and where a joint venture with the private sector was the preferred route, suitable contingency plans were in place.
 
@@ -2733,7 +2222,7 @@ Brooks and Waters (2018), building on QAA (2014) and drawing on Madge et al (201
 
 Most recently, Kleibert (2021) has provided a valuable economic geographer's perspective on the growth of both IBCs and RMBCs, with a specific focus on the latter in London. She used interviews with senior leaders within universities to analyse the motivations for expanding spatially, arguing that both IBCs and RMBCs present 'territorial fixes' through access to new markets – predominantly international students – and 'symbolic fixes' in reputational gains, including association with London. Another interesting observation is her assertion that a
 
-<!-- page 123 -->
+<!-- page 124 -->
 
 London RMBC may actually be a viable alternative to – or steppingstone towards – an IBC, especially for universities located in more remote parts of the UK, which are not often considered by international students.
 
@@ -2743,7 +2232,7 @@ Whilst the generic term Satellite Campus has been used to encompass new physical
 
 Using similar logic to arrive at a definition of an RMBC requires the consideration of four key factors: geography; ownership; brand; and function. It is also important to differentiate an RMBC from a general domestic 'satellite campus', of which it is a subset. There are many universities that have been created by merging legacy colleges and institutions – each with their own campus – with examples in the UK including the University of the Highlands and Islands,
 
-<!-- page 124 -->
+<!-- page 125 -->
 
 University for the Creative Arts and University of South Wales. Others have grown by establishing or acquiring campuses in the same region as their home campus, such as Nottingham Trent University's branch campus in Brackenhurst, Exeter University's outposts in Truro and Penryn or the joint campus opened in Medway between Canterbury Christ Church University, the Universities of Kent and Greenwich. We have not considered to these examples to be congruent with the RMBC concept; they are satellite campuses, but are geographically proximate serving the same local or regional markets.
 
@@ -2753,7 +2242,7 @@ Our proposed definition of an RMBC is, therefore:
 
 a teaching facility that is established or acquired in a strategic metropolitan location which is geographically remote from – but in the same country as – the home campus of the higher education provider; that is owned or leased, at least in part, by that provider;
 
-<!-- page 125 -->
+<!-- page 126 -->
 
 is operated in the name of that provider; and that offers academic programmes, substantially on site, leading to a degree awarded by that provider.
 
@@ -2763,7 +2252,7 @@ This working definition provides a tractable framework for analysing RMBCs, with
 
 London, which has been a hub of RMBC activity in recent years, is the geographical focus of this study. London hosted 507,000 HE students in 2021/22, who were registered at over 20 public universities (including RMBCs and constituent institutions of the University of
 
-<!-- page 126 -->
+<!-- page 127 -->
 
 London), a similar number of specialist publicly-funded institutes and colleges, and dozens of alternative – and in many cases small – providers (HESA, 2023).
 
@@ -2775,7 +2264,7 @@ As shown in Tables 1 and 2, an eclectic mix of English institutions have establi
 
 Whilst no recent publicly-available data exist, interviews conducted for this paper suggests that there were at least 30,000 students attending RMBCs in London as of spring 2023. This represents around 6% of London's HE student population (HESA, 2023) and is a large increase compared with the 8,500 RMBC students in the city in 2014 (QAA, 2014). In addition to the 18 RMBCs that have existed at some stage since 2007, several additional 'London Centres' –
 
-<!-- page 127 -->
+<!-- page 128 -->
 
 co-branded with UK universities, offering franchised or validated programmes and sometimes branding themselves as 'branch campuses' – have also operated. These include Ulster University and Solent University ventures in association with QA Higher Education, and the now closed Study Group centre in association with the University of Huddersfield. That these are sometimes referred to as branch campuses by researchers, students and the organisations themselves can be misleading.
 
@@ -2785,54 +2274,15 @@ There are some patterns of geographical agglomeration of London RMBCs. Most noti
 
 Based on trends concerning space being rented by regional universities in London, the pace of RMBC establishment is increasing (Prynn, 2023). Table 3 summarises the four new London RMBCs that have been announced but are yet to open. In late 2023, Teesside University will open a London campus offering undergraduate and postgraduate programmes in digital technologies and enterprise at the Olympic Park, close to the RMBCs of Loughborough University and Staffordshire University (Here East, 2023). Also in late 2023, Nottingham Trent
 
-<!-- page 128 -->
+<!-- page 129 -->
 
 University is planning to open a campus in Whitechapel focused on creative education aligned to eSports (Sacco, 2022). Looking further ahead two universities plan to open campuses in parts of London some distance from current clusters. The University of Portsmouth is planning to open an RMBC in Waltham Forest, northeast London, in 2024 (BBC, 2021), and Sheffield Hallam will establish a campus in Brent Cross, northwest London, in 2025, with an aim to reach 5,000 students there by 2030 (SHU, 2023).
 
-<!-- page 129 -->
-
-> Table 1: London RMBCs in 2023
-
-| University1 | Current Location | Established | Approx. students | UG | PG | Dominant disciplines |
-| --- | --- | --- | --- | --- | --- | --- |
-| Anglia Ruskin University | Farringdon, EC1N, East India, E14 | 2007 | 8,500 | YES | YES | Business, Law, Health |
-| Coventry University | Spitalfields, E1 | 2009 | 5,000 | YES | YES | Business |
-| Coventry University | Dagenham, IG11 | 2017 | Unknown | YES | NO | Business, Law, Health, Computing |
-| University of Cumbria | Canary Wharf, E14 | 20072 | 500 | YES | YES | Education, Business, Health |
-| Glasgow Caledonian University | Shoreditch, E1 | 2010 | 1,500 | NO | YES | Business, Health |
-| Loughborough University | Stratford, E15 | 2015 | 800 | NO | YES | Business, Design, Computing |
-| Northumbria University | Spitalfields, E1 | 2014 | 6,000 | YES | YES | Business, Computing |
-| Staffordshire University | Stratford, E15 | 2019 | 430 | YES | YES | Computing |
-| University of Sunderland | Canary Wharf, E14 | 2012 | 4,700 | YES | YES | Business, Health |
-| University of Wales, Trinity St David | Kennington, SW9 | 2012 | Unknown | YES | YES | Business, Computing |
-| University of Warwick | London Bridge, SE1 | 2015 | <250 | NO | YES | Business |
-| University of West of Scotland | East India, E14 | 2016 | 4,000 | YES | YES | Business, Computing |
-| York St John University | East India, E14 | 2018 | 2,200 | NO | YES | Business, Computing |
-
-^1^ In addition, some HEIs, such as Ulster University, Solent University and the University of Northampton operate London Centres with third parties.
-
-| University3 | Opened | Closed | University | Planned Opening |
-| --- | --- | --- | --- | --- |
-| University of East Anglia | 2010 | 2014 | Nottingham Trent University | 2023 |
-| University of Liverpool | 2013 | 2020 | Portsmouth University | 2024 |
-| Newcastle University | 2015 | 2022 | Sheffield Hallam University | 2025 |
-| University of South Wales | 2014 | 2015 | Teesside University | 2023 |
-| Wrexham Glyndŵr University | 2011 | 2018 |   |   |
-
-^3^The University of Huddersfield has also ceased its partnership with Study Group. Sources: BBC (2021; 2022), Sacco (2022), Here East (2023). Sources: UUK (2014), Addison (2019), Kleibert (2021), Newcastle University (2022).
-
-> Table 2: Closed London RMBCs Table 3: Announced London RMBCs
-
-| University | Planned Opening |
-| --- | --- |
-| Nottingham Trent University | 2023 |
-| Portsmouth University | 2024 |
-| Sheffield Hallam University | 2025 |
-| Teesside University | 2023 |
-
-^2^The University of Cumbria gained university status in 2007, but its campus in London has been in operation, led by legacy institutions, since 1973. Sources: Authors, based on interviews and university websites
-
 <!-- page 130 -->
+
+> ^2^The University of Cumbria gained university status in 2007, but its campus in London has been in operation, led by legacy institutions, since 1973. Sources: Authors, based on interviews and university websites
+
+<!-- page 131 -->
 
 ## Motivations and models: the views of London RMBC Directors
 
@@ -2844,7 +2294,7 @@ However, several of the interviewees acknowledged that increasing financial reve
 
 Almost as prominent as income generation is the role that an RMBC can play in building a university's profile overseas. Seven interviewees – including directors of large and highly ranked institutions domestically – suggested that a London base can, and in some cases already has, enhanced the international reputation of the home university. As one interviewee explained, the London campus was established to enhance the reputation of the university
 
-<!-- page 131 -->
+<!-- page 132 -->
 
 because it was 'unknown overseas despite a high ranking nationally' (Interviewee I). A variation on this theme, relevant in two specific cases, are examples of universities that had strong international reputations prior to setting up in London, but were sited in geographical locations that are perceived as unattractive to international students. In these cases, the association with London is seen as important in breaking down negative perceptions of home campus locations: 'we wanted to be seen and heard in an international centre for higher education' (Interviewee D).
 
@@ -2852,7 +2302,7 @@ The contrast between the regional economies of London and the home locations of 
 
 Less prominent in the narrative around motivations – but relevant to their viability and prospects for survival – are perceptions that RMBCs were the personal projects of senior members of university leadership teams. Three of the interviewees believed that the original move to London was, in part or in its entirety, a 'vanity' project that lacked strong and coherent rationale (Interviewees B, H and J). Two of three interviewees conceded, however, that notwithstanding the lack of a clear business plan, the RMBCs had allowed the university to carry out small, controlled 'experiments' with the lessons being used to understand how the wider institution could improve; for example, one noted that the RMBC provided the opportunity to 'pilot interesting courses and explore new ways of working to deliver these effectively and efficiently' (Interviewee F).
 
-<!-- page 132 -->
+<!-- page 133 -->
 
 ## Organisational models
 
@@ -2862,7 +2312,7 @@ The second model is where the RMBC is a wholly-owned subsidiary of the home univ
 
 In the third model the 'home' university has created a joint venture with an external organisation to establish and operate an RMBC. Adopted by three of the sample – and often formed with a private sector provider of marketing, student recruitment and pathway services – this is also the approach sometimes used where the RMBC has evolved from a legacy partnership. This is also overwhelmingly the dominant organisational form of IBCs, where a joint venture is either required by the host government (e.g. China) or chosen by the home university to share costs and acquire local capability.
 
-<!-- page 133 -->
+<!-- page 134 -->
 
 In addition to variations in the legal model chosen, the approach to governance varies across the ten RMBCs in the sample. The most common overall model is one of a high degree of autonomy but, in general – and in many cases following initial 'animosity' or 'suspicion' – in a positive relationship with the home campus, whereby 'respect remains important' (Interviewee G). In almost every case, the London-based staff members are either directly or indirectly managed by the Director, who reports into the parent university organisation at a senior level.
 
@@ -2872,7 +2322,7 @@ The degree of curriculum, pedogeological and research influence or control from 
 
 The interview findings challenge the notion of homogeneity in the UK markets for student recruitment suggested by the QAA report in 2014, suggesting that there are at least three models in operation (QAA, 2014). The first, apparent in six of the sampled RMBCs, is a clear focus on the international student market, principally at postgraduate level, but also in some cases at
 
-<!-- page 134 -->
+<!-- page 135 -->
 
 undergraduate level. For example, one interviewee stated that London was a 'chance to attract a high calibre international student' (Interviewee D). Some made a firm case against focusing on domestic students, with one interviewee noting that 'there are enough institutions offering places to home students' (Interviewee B), whilst another agued there was 'simply too much competition for home students' (Interviewee H). Whilst the source of international students varies between the sample institutions, their main markets have transitioned from China in the early years of London RMBCs to a dominance by India and other parts of South Asia – and to a lesser extent West Africa – over the past five years. Almost all the RMBCs use agent networks to recruit these students, whilst in some cases recruitment is led by a partner organisation.
 
@@ -2880,7 +2330,7 @@ The second student recruitment model – a focus for two of the RMBCs across und
 
 The third approach to student recruitment blends home and international students learning sideby-side in broadly similar numbers. Whilst currently only two RMBCs have this balance, most of the interviewees highlighted the importance of aiming for a mixed model in the longer term, to allow their institutions to remain agile and shift between target student markets in response
 
-<!-- page 135 -->
+<!-- page 136 -->
 
 to changing government policy. Interviewee F neatly summarised this by highlighting the importance of 'following market trends' and 'diversifying to mitigate external risks'.
 
@@ -2892,7 +2342,7 @@ There was a strong level of consistency between the interviewees as to why stude
 
 As summarised in Table 1, the range of programmes provided by London RMBCs is clustered around business, computing and a small number of related subjects. Several interviewees cited Master of Business Administration (MBA) courses as core to their postgraduate programme offering, whilst others described how their portfolio has grown from a generic set of courses into related but more specialist degrees. Eight of the Directors interviewed stressed the importance of market testing and responding quickly to local demand in the process of
 
-<!-- page 136 -->
+<!-- page 137 -->
 
 developing and modifying course offerings, with one claiming that at their RMBC 'programmes can be developed and validated in three months' (Interviewee D). Two of the campuses have full autonomy over their academic portfolio. In five RMBCs, academic teams are entirely separate from the home academic structure and enjoy a strong level of influence over the programmes they offer – but central approval is needed – whilst at three, academic teams across campuses are integrated and the RMBC has little autonomy in curriculum matters.
 
@@ -2900,7 +2350,7 @@ Despite these different models for developing the curriculum, the programmes off
 
 In seven of our sample, there is a strong emphasis on teaching, as well as what one interviewee labelled 'teaching scholarship' (Interviewee F), whilst more traditional research and knowledge exchange activities are present but are still developing. The three Directors that consider their campuses more advanced in terms of research all highlighted the importance of links with academics in the home campus, as well as colleagues at other London universities.
 
-<!-- page 137 -->
+<!-- page 138 -->
 
 Many of the interviewees cited the student experience as both a major priority and significant risk, with some mentioning the context of OfS B3 conditions around retention, progression and outcomes (OfS, 2022). To be able to cater for working and commuting students, concentrated block teaching has been adopted at six RMBCs. The dominant model is of intensive face-toface teaching two days per week, which is being actively considered by two others in our sample. One Director emphasised that not only was this attractive from a pedogeological perspective, but it 'supported good attendance and allowed students to learn in a way that works for them' (Interviewee C).
 
@@ -2912,7 +2362,7 @@ There is a good level of consistency in the physical resources reported by inter
 
 Two employment models are being used for permanent staff. Those campuses that remain legally integrated with the home campus retain the same staff terms and conditions between locations, save for a London weighting and different designated place of work. Those that have been created as wholly owned subsidiaries or as part of joint ventures utilise the ability to vary
 
-<!-- page 138 -->
+<!-- page 139 -->
 
 London staff terms and conditions, including in some cases different levels of salary, pension arrangements and working hours. One interviewee (Interviewee C) remarked that "we only want teachers who love teaching. We pay well but we require high teaching performance".
 
@@ -2924,7 +2374,7 @@ The opportunity for demand absorption, and the financial benefits that it could 
 
 In parallel, the general population of London increased by 7.4% between 2011 and 2021 (6.3% nationally), but parts of East London such as Tower Hamlets (22.1%) and Newham (14.0%), have seen more dramatic rises (ONS, 2021), increasing demand from local students. This has
 
-<!-- page 139 -->
+<!-- page 140 -->
 
 contributed to the impressive levels of growth of some London RMBCs, with student numbers more than trebling since 2014 (QAA, 2014) and, as previously discussed, is leading to several new market entrants. The extent to which increasing demand will continue – and the impacts that evolving Government policy, particularly in relation to international students, will have – remains to be seen.
 
@@ -2932,7 +2382,7 @@ Whilst financial imperatives appear universally important and some campuses have
 
 Similarly, it is difficult to quantify the strength of institutional business links and the benefits that this has brought to London-based RMBCs. Several interviewees claimed to be outperforming their home campuses in relation to student employability, and that this may be linked to industry exposure and bespoke employment related programme features, but disaggregated public data on this metric is not available. A more intangible rationale, relating to London being a test-bed for new ideas and ways of working, was expressed by some of the RMBC Directors. It is notable that four of the universities that have created RMBCs had subsequently gone on to establish IBCs across three different continents. The interviews were inconclusive in ascribing causality to this pattern, with some considering that the initial London project had played a role and others unsure; it would be instructive to explore this issue in more detail to understand whether an RMBC is a viable route to an IBC, as suggested by Kleibert (2021).
 
-<!-- page 140 -->
+<!-- page 141 -->
 
 Visiting ten of London's RMBCs reveals that they are diverse and distinctive in their character and culture. From an organisational perspective, three different models are in use: those that are legally integrated and part of the home university; those that are wholly owned subsidiaries but separate legal entities; and those that are owned jointly with a partner. The latter two models have allowed RMBCs to tailor employment models to fit their needs in London, whilst implementing teaching and support models that align with the needs and expectations of their students.
 
@@ -2940,7 +2390,7 @@ Nevertheless, our research does not suggest that those RMBCs created as separate
 
 Aside from organisational models, it is possible to draw a broad picture of the typical London RMBC, which is applicable to most of our sample. This 'typical' RMBC would be situated in east London, or the eastern fringe of Central London, and would see a target market of international and/or mature, working local students, engaged at postgraduate, and sometimes undergraduate level. These students would be seeking degrees in business management, computing and related disciplines, and their courses would include a high degree of business engagement and experiential learning. There would be high numbers of students in their cohort, but they would learn in small groups. They may have started learning at the RMBC at various times in the year, and in many cases would learn in blocks of several weeks based on attending in person perhaps two or three, often consecutive, days per week. This would allow them to live in relatively affordable parts of London and the Southeast, work part time and accommodate other responsibilities such as caring for children.
 
-<!-- page 141 -->
+<!-- page 142 -->
 
 Such students may have chosen an RMBC over a more traditional university experience because of the courses on offer, the personal nature of the campus and university experience, the fact that the learning style or format meets their needs, or, in come cases, simply because they wanted to study in London, and the RMBC was recommended by an agent.
 
@@ -2954,7 +2404,7 @@ For their part, RMBC Directors are clearly becoming organised and sharing knowle
 
 This paper has explored the relatively new phenomenon of the RMBC. Reaching a working definition has made it possible to distinguish new attempts at domestic geographical diversification from legacy regional multicampus arrangements and from domestic
 
-<!-- page 142 -->
+<!-- page 143 -->
 
 partnerships and coalitions. The growth of RMBCs in the UK, and specifically in London, warrants particular attention. It reveals that universities see RMBCs as another option for income diversification and financial sustainability, establishing physical sites in locations that are popular destinations for students, but that they are also a vehicle to improve institutional reputation, create valuable links with business and commerce and test new ways of delivering HE.
 
@@ -2962,7 +2412,7 @@ It also reveals a vibrant and growing sub-sector of the UK HE system with specif
 
 This paper has been limited in its scope. It has sought only to define an RMBC, differentiating it from other domestic satellite campuses, and explore, using one location, the motivations for their establishment and the models employed. The extent to which the conclusions reached are generalisable to other locations would warrant further research, as would the reasons for RMBC failure and success, and the way this relates to general success factors within HE. It is possible that the transferability of the themes identified in London to other, global centres such as New York, Tokyo or Dubai may depend on several factors including their local student markets, their relative appeal to international students compared to regional universities in those territories, and their ability to boost the reputation of these regional universities. Whilst this paper has touched on organisational, student, teaching and resourcing models, more indepth research on these would be of value, especially in the context of the other options
 
-<!-- page 143 -->
+<!-- page 144 -->
 
 available to universities to diversify. In this respect, more work comparing RMBCs with, for example, IBCs would be valuable.
 
@@ -2984,7 +2434,7 @@ Brooks, R. & Waters, J., 2018. Signalling the 'Multi-Local' University? The Plac
 
 Burgess, P. & Berquist, B., 2012. Cross-border delivery: programs, programs, and providers. In Deardorff, D., de Wit, H., Heyl, J. and Adams, T. (eds.) The SAGE handbook of international higher education. London: SAGE, pp. 325-342.
 
-<!-- page 144 -->
+<!-- page 145 -->
 
 Cross-Border Education Research Team (2023, March). C-BERT International Campus Listing. [Data originally collected by Kevin Kinser and Jason E. Lane]. Available: http://cbert.org/resources-data/intl-campus/. Oxford, OH: Author.
 
@@ -3010,7 +2460,7 @@ Kleibert, J., 2021. Geographies of Marketization in Higher Education: Branch Cam
 
 Knight, J., 2016. Transnational Education Remodelled: Toward a Common TNE Framework and Definitions. Journal of Studies in International Education, 20(1), pp. 34–47.
 
-<!-- page 145 -->
+<!-- page 146 -->
 
 Knight, J., 2020. The internationalization of higher education scrutinized: international program and provider mobility. Sociologias, 22, pp. 176-199.
 
@@ -3036,7 +2486,7 @@ OfS, 2022. OfS sets new expectations for student outcomes [online]. Available fr
 
 Parker, G., Wallis, W., Staton, B., & Strauss, D. UK plans curbs on visas for overseas students' family members. Financial Times, 10 May 2023 [online]. Available from https://www.ft.com/content/bb687cc0-5743-48f4-b751-edac3cfdeeb8.
 
-<!-- page 146 -->
+<!-- page 147 -->
 
 Prynn, J., 2023. Regional Universities rush to grab space in London. The Evening Standard, 23 February 2023 [online]. Available from https://www.standard.co.uk/business/regionaluniversities-rush-to-grab-space-in-london-sheffield-hallam-b1062314.html.
 
@@ -3056,7 +2506,7 @@ Verbik, L., & Merkley., C. 2006. The international branch campus—Models and tr
 
 Wilkins, S., & Rumbley, L., 2018. What an International Branch Campus Is, and Is Not: A Revised Definition. International Higher Education, 2(93), pp. 12–14.
 
-<!-- page 147 -->
+<!-- page 148 -->
 
 ## Chapter Nine: Discussion
 
@@ -3072,7 +2522,7 @@ Fundamentally, the externally-imposed move to cost sharing within English HE - w
 
 At the point of domestic undergraduate fee increase to £9,000 in 2013, income per student was higher in England than in much of the rest of the OECD, accelerating growth in the sector. In Hickey (2024) [Chapter Five] and Hickey (2023) [Chapter Six], together with the forecasts in OfS (2023c), I argue that it is the freezing of tuition fee caps - in effect reducing them in real terms for a decade - that is presenting the sector with the single greatest contemporary financial challenge. In Hickey (2023) [Chapter Six] I estimate that the initial £9,000 fee in 2012/13 would be worth the equivalent of £6,959 by 2024/25. The link between politics and tuition fee policy setting I identify in Hickey (2024) [Chapter Five] suggests that fee levels are now 'stuck in limbo': falling in real terms each year but unlikely to be increased by this or any new Government through fear of unpopularity. At the time of writing none of the main political
 
-<!-- page 148 -->
+<!-- page 149 -->
 
 parties have declared any long-term plans in relation to tuition fee caps, nor any associated policy direction around funding the HE sector in England.
 
@@ -3082,7 +2532,7 @@ A combination of the importance of domestic fees, their external control by Gove
 
 With home undergraduate fees under pressure, many English universities have looked to international student growth, where fee levels can be set by individual institutions, for revenue. As I report in Chapter Two and in Hickey (2023) [Chapter Six], international student fees already represent 22% of English HE income, growing rapidly even in smaller and less prestigious institutions, increasing dependency on this resource (HESA, 2023e). This growth, however, is partially reliant on UK Government decisions, creating another external dependency - albeit not one as central to operations as fixed domestic tuition fees. The policy outlined in Chapter Two, to change visa rules to restrict the dependents of international taught postgraduates accompanying them when travelling to study at English universities, presents a risk possibly akin to the changes in post-study work entitlements made and then reversed in the 2010s (DfE, 2023a). It is not yet known what the impact will be on the level of demand for postgraduate courses, which make up 64% of the international student market, especially from some strong and growing markets such as India and Nigeria, where societal drivers mean that students are more likely to bring dependents than other large markets such as China (Graham, 2023). In addition to the direct financial impact, the extent to which this policy will damage the international reputation of English HE, a valuable resource as defined in RBV, is not known. As I discuss in Hickey (2023) [Chapter Six], there could be further destabilising impacts of this change, with larger and higher-ranking universities mitigating the impact of lost international students by seeking larger domestic intakes, at the expense of rest of the sector.
 
-<!-- page 149 -->
+<!-- page 150 -->
 
 The other significant political challenge for many English universities has been the UK's exit from the European Union, and the impact this has had on European student mobility and on access to research funding and collaborations (Highman et al, 2023). As discussed in Chapter Two, UK universities saw their income from the EU and is programmes and partners reduce by 98% between its high in 2013 and 2022 (Foster et al, 2023), although a re-entry into Horizon Europe from January 2024 may address some of this in the future. Whilst much of the income lost over the past few years relates to research or to the Erasmus+ exchange programme, which in isolation offer little potential to address financial sustainability gaps, the need to subsidise priority research and student exchange activities from student fees has contributed to a medium-term hole in the finances of many universities.
 
@@ -3092,7 +2542,7 @@ The dramatic deterioration of the global and national economies over recent year
 
 Together with a relatively buoyant domestic employment market, weak medium-term macroeconomic issues may also be impacting student retention. As discussed in section 2.3, universities are providing support to students to mitigate higher accommodation, food and transport costs, but in late 2022, an increasing number of students were considering suspending their studies or moving back to the family home (ONS, 2022). A prolonged period of weaker student continuation would have an immediate and severe impact on the sector's financial position.
 
-<!-- page 150 -->
+<!-- page 151 -->
 
 Internal challenges: legacy structures, cultures and reporting requirements
 
@@ -3106,7 +2556,7 @@ Internal response: growing student population (market penetration)
 
 As I discuss in Chapter Two and in Hickey (2023) [Chapter Six], the principal response by English universities to the tightening financial conditions in recent years has been to grow their student populations, which I classify in the 'market penetration' box in Figure 4. There are three elements to this: a growth in domestic student numbers; an increase in the size of international student intakes; and an increase in fee levels to those international students. This could be considered organisational adaptation under the RDT model, as universities seek to change their shape to accommodate their environment (Pfeffer and Salancik, 2003), and, as
 
-<!-- page 151 -->
+<!-- page 152 -->
 
 discussed in Chapter Three, evidence exists that accelerated student recruitment has been used elsewhere to reduce resource dependency (Jaquette, 2013; Salazar, 2019).
 
@@ -3116,7 +2566,7 @@ External response: broadening the academic offering (product development)
 
 Many of the new programmes developed by English universities at undergraduate and postgraduate level have driven some of the domestic and international student growth discussed above. This could be considered as an attempt to alter the sector environment under RDT (Pfeffer and Salancik, 2003) as explored by Webb (2019). I provide examples in Hickey (2023) [Chapter Six] of where sampled institutions have deviated away from their historic strengths in search of popular offerings such as psychology, business management, computing and health related subjects. Some of the additional academic products that have been developed by English universities in response to Government policy. The growth in the provision of degree level apprenticeships, as I discuss in Chapter Two and in Hickey (2023) [Chapter Six], has been a feature of the last decade across the sector, with over 100,000 students enrolled on these programmes (DfE, 2022b). According to the detail presented in Chapter Two, they have not, however, yet become dominant in the market nor are likely to become a material source of
 
-<!-- page 152 -->
+<!-- page 153 -->
 
 financial surplus going forward, given generally lower income per student caps than conventional degrees and onerous administrative requirements.
 
@@ -3126,7 +2576,7 @@ External response: market innovation through partnerships and TNE (market develo
 
 In another example of an attempt to alter the environment (Pfeffer and Salancik, 2003), English universities have been active in seeking new markets, as illustrated in the narrative presented in Chapter Two and the evidence from sampled universities in Hickey (2023) [Chapter Six]. Domestic partnerships with FE providers and with the private sector are commonplace across institutions, reaching students from different backgrounds in different parts of the country, and expanding the portfolio of programmes available. Some domestic partnerships also include establishing RMBCs - as well as study centres in major cities - as we discuss in detail in Hickey and Healey (2024) [Chapter Eight] and sections 9.4 and 9.5. In parallel there has been a growth
 
-<!-- page 153 -->
+<!-- page 154 -->
 
 in the number of students studying entirely online, as discussed in section 2.3 (HESA, 2023d). The pressure on the costs of student accommodation and other costs of living, together with the need for students to work whilst studying may further increase the demand for remote and hybrid programmes. In addition to helping students gain their degrees without accumulating as much debt, efficient delivery may enable universities to generate a surplus from home students despite the fixed cap on fees.
 
@@ -3136,7 +2586,7 @@ TNE continues to be a further source of new market innovation for English univer
 
 In Hickey (2023) [Chapter Six] I detail some of the ways that universities are seeking to transform to become more commercially resilient, or as is termed within RDT, adapting to fit with their environment (Pfeffer and Salancik, 2003). Through the perspective of the RBV, these internal responses would be seen as a way to become both more effective, and to deploy resources more effectively (Barney, 1991). Some institutions have established subsidiaries to employ staff on different terms; have created new pension schemes including Defined
 
-<!-- page 154 -->
+<!-- page 155 -->
 
 Contribution alternatives to expensive DB plans; are utilising non-standard contracts and more flexible short-term staffing and have closed non-profitable programmes. There is some evidence that the headcount controls I evidence across the sample in Hickey (2023) [Chapter Six] is reflected across the sector. HESA (2023a) indicates the number of academic staff employed across English HE increased by 12% to 194,000 between 2016/17 and 2021/22, at the same time as a 20% increase in total students. This would suggest that the sector student to staff ratio (SSR) has increased from 13.7:1 to 14.7:1 during this time. As discussed earlier in section 9.2, barriers to improve the operating efficiency within English HE remain, with successive rounds of disruptive industrial action providing barriers to changing operating and pension models, and ongoing pressure to maintain the student experience in a competitive environment.
 
@@ -3148,7 +2598,7 @@ Whilst direct cost reduction is very much being pursued by English universities,
 
 As discussed in section 4.2 and shown in Figure 7, an external perspective based on RDT is now applied to analyse the prospects of branch campuses in contributing towards income diversification and financial sustainability (Pfeffer and Salancik, 1978; 2003). The dimensions of RDT have been distilled to the consideration of resource acquisition, resource management and adaptability.
 
-<!-- page 155 -->
+<!-- page 156 -->
 
 ## Resource acquisition
 
@@ -3156,7 +2606,7 @@ As we discuss in Hickey and Davies (2022) [Chapter Seven] - supporting Middlehur
 
 There are many similarities between IBCs and RMBCs in terms of their ability to secure new resources. As we discuss in Hickey and Healey (2024) [Chapter Eight], securing access to a group of students that would otherwise not be attracted to the home campus is a crucial reason why regional universities in England establish RMBCs in London; evidence suggests that over 30,000 such students are currently enrolled. These could be international students who want to
 
-<!-- page 156 -->
+<!-- page 157 -->
 
 study in London rather than in another city or town in England; domestic students who live in the London area; or more specifically students that are permanently resident in England but who may have been born overseas. In Hickey and Healey (2024) [Chapter Eight] we argue that these groups are growing: the first based on general global demand and the skew of demand towards global centres like London, and the second and third because the young population of much of the city is growing at a higher rate than other parts of England (Brooks and Waters, 2018; Kleibert, 2021). To a certain extent, therefore, the RMBCs established in London are absorbing latent demand, which draws parallels with the creation of IBCs in countries where domestic systems are undersized or underdeveloped. The RMBCs we studied in Hickey and Healey (2024) [Chapter Eight] also teach using different models and via different timetables, to traditional London-based competitors, which again attracts atypical students, who may need to work or have caring or other responsibilities.
 
@@ -3164,7 +2614,7 @@ study in London rather than in another city or town in England; domestic student
 
 The extent to which IBCs and RMBCs reduce - or as Pfeffer and Salancik (1978) RDT term 'loosen' - dependence on existing resources varies based on which resources are being considered. In terms of the source of fee income, it would be fair to say that some, but not all, of the students that attend IBCs would not otherwise be enrolled at home university. Providing there is no overlap with existing TNE provision and with product and cost differentiation from degrees delivered at the home campus, IBCs operate in a largely new market for most English universities so their tuition fee income could be considered as additive. As discussed in Hickey and Davies (2022) [Chapter Seven], the control that an IBC provides, as opposed to other forms of TNE, is one of the likely reasons why they are becoming increasingly popular (Verbik and Merkley, 2006; Healey, 2008). This control extends to setting fee levels, and for selecting, establishing, and assuring academic programmes. In this respect, English universities are operating predominantly as private universities in overseas territories which addresses many of the political influences and power imbalances they experience when operating in their home market which I discuss in Hickey (2024) [Chapter Five] and Hickey (2023) [Chapter Six]. They are free to set tuition fee levels, are not bound by UK visa restrictions, and can establish resourcing, pay and rewards systems without external interference. Equally, the nature of their dependencies changes. Any IBC will need to be established in line with the regulations of the host country, which may be more or less stringent than those of the UK, and equally open to political fluctuation (Healey, 2020). There may be legal and cultural considerations that will
 
-<!-- page 157 -->
+<!-- page 158 -->
 
 influence who delivers academic programmes and the home university may have to cede control over aspects of operating practices. Similarly, the ongoing sustainability of an IBC may be severely dependent on the relationship with the existing system and Government, so it needs to remain relevant and beneficial for the host nation. This would be considered a risk particularly in nations where domestic systems are growing rapidly such as China and parts of the Middle East. The model adopted for establishing the IBC will also influence the resource dependency dynamics. If, as is common, the new campus is set up as part of a JV, then the views and requirements of the partner(s) will become a key consideration and possible dependency, perhaps leading to joint or decentralised decision making and governance.
 
@@ -3172,7 +2622,7 @@ The impact that RMBCs have on reducing existing resource dependencies and addres
 
 RMBC do not, however, address two key existing constraints and challenges outlined in section 9.2. First, the domestic undergraduate students they attract are still subject to the capped tuition fees which are the causes much of the financial distress across the sector (Hickey, 2023 [Chapter Six]), and second, their international students are still exposed to the same processes, policies and political instability as those studying at their main campuses. In addition, some of the same existing dependencies with JV partners discussed above in relation to IBCs also apply to RMBCs, and the significant reliance on travelling international students at some campuses also exacerbates an existing dependency on global recruitment agents. If many RMBCs - as well as hundreds of universities across the country and beyond - are seeking to secure a proportion of a finite number of overseas students, that places significant power in the hands of these agents.
 
-<!-- page 158 -->
+<!-- page 159 -->
 
 ## Adaptability
 
@@ -3182,7 +2632,7 @@ In Hickey and Davies (2022) [Chapter Seven] we demonstrate that IBCs can be adap
 
 However, both IBCs and RMBCs could be considered less adaptable than other options for income diversification, notably other forms of TNE or domestic partnerships. Both require
 
-<!-- page 159 -->
+<!-- page 160 -->
 
 significant initial and ongoing expenditure, plus a tailored curriculum and set of trained staff, either locally sourced or provided by the home institution. The financial challenges across the sector discussed previously mean that such investment could be different and perceived as high risk. Due to the need for physical campus accommodation and associated infrastructure, exit costs are likely to be high and penalty periods lengthy. The fragility of the IBC and RMBC business models is also evident in the lack of breadth in the programmes on offer, with business and computer science-related degrees dominating. The ease of switching to entirely new disciplines of study is currently unproven. In both Hickey and Davies (2022) [Chapter Seven] and Hickey and Healey (2024) [Chapter Eight] we discuss examples of failed campuses, the lessons of which have been fed in section 9.6.
 
@@ -3196,7 +2646,7 @@ The internal perspective of the prospects of branch campuses in contributing tow
 
 The first dimension of the RBV, if applied to IBCs and RMBCs, would pose the question as to whether they could be a source of value that could create a source of sustained competitive advantage for an English University, addressing the regulative, normative and cultural cognitive challenges discussed in Chapter Three (Phillips et al, 2009). The financial potential of both is discussed in sections 9.3 and 9,4 and not repeated here, but I conclude that establishing a successful branch campus, at home or overseas, has the potential to generate economic returns to the extent that they can subsidise home campuses (Bennell and Pearce, 2003; Marginson; 2006; Middlehurst, 2013). In a scenario where home fees are loss-making and traditional international student recruitment is under threat from competition and Government policy, as I discuss in Hickey (2023) [Chapter Six], such a subsidy would represent the ability to continue to invest in staff and the student experience and provides a differentiator over rivals.
 
-<!-- page 160 -->
+<!-- page 161 -->
 
 In Hickey and Davies (2022) [Chapter Seven] and Hickey and Healey (2024) [Chapter Eight] we discuss many of the significant non-financial and indirect sources of a value that branch campuses can deliver. In the case of IBCs, the literature we consider in Hickey and Davies (2022) [Chapter Seven] suggests that these include boosting the attractiveness of the home campus for international students; the ability to deliver truly global research; career opportunities for staff; a better-informed teaching curriculum and the ability to influence the development of an overseas HE system (Garrett and Verbik, 2004; Healey, 2011). RMBCs also provide an opportunity to build profile and reputation, putting a university 'on the map' with a new set of prospective students (Naidoo, 2006; Wilkins and Huisman, 2012). Furthermore, in an environment like London, they create the potential to market a regional university to a huge new local business community, creating employment and research links with the home campus.
 
@@ -3208,7 +2658,7 @@ Within the RDT framework in figure 7, it is in the areas of rarity and imitabili
 
 Chapter Two outlines the growth of IBCs globally, from 82 in 2006 to 333 in March 2023 (Verbik and Merkley, 2006; C-BERT, 2023). This has been mirrored by the number of English universities entering the IBC market across many different territories. Despite this growth, it is not a frictionless process. As we argue in Hickey and Davies (2022) [Chapter Seven], evidence
 
-<!-- page 161 -->
+<!-- page 162 -->
 
 of successful IBCs would suggest that a growing and vibrant market is required and a strong relationship with a host government needs to be nurtured. Some markets, such as Malaysia and the UAE, are already home to dozens of IBCs and are in danger of becoming saturated. In addition some IBCs, such as the large campuses run by the Universities of Liverpool and Nottingham in China, have offered the opportunity for these institutions to reflect their home campus identities overseas, which cannot easily be copied (Feng, 2013).
 
@@ -3220,13 +2670,13 @@ In summary, therefore, branch campuses are no longer rare, and are certainly sus
 
 To understand whether there are viable alternatives for income diversification, as defined by Estermann and Pruvot (2011), that are rare and cannot be copied, it is helpful to return to the options summarised in Figure 4 and discussed further in section 9.3 and in the examples in
 
-<!-- page 162 -->
+<!-- page 163 -->
 
 Hickey 2023 [Chapter Six]. Measures to improve market penetration, and thus increase the scale of home and international student levels, are neither rare nor free from imitation, as both have become ultra-competitive and marketised in England and around the world. The ability to differentiate home undergraduate degrees is likely to be limited for reasons I outline in Hickey (2024) [Chapter Five]. A strategy based purely on traditional growth, therefore, continues to be high-risk and is not a suitable substitute for either an IBC or an RMBC. Product development, however, in the form of new degree programmes, new research projects and innovative commercial investment and collaborative does, in principle at least, offer an alternative that can be distinctive. The issue here is scale and - given the maturity of the English system and the breadth of products available to students and partners - opportunities exist in this space that provide a material impact on financial sustainability, as reflected in the income mix discussion in Chapter Two (HESA, 2023e).
 
 It is in market development and diversification, therefore, that the most viable substitutes for IBCs and RMBCs exist. The most obvious are other forms of domestic and international partnerships, and in particular TNE. Hickey (2023) [Chapter Six] discusses how a subset of English universities have embraced these, in some cases entering into dozens of domestic and international collaborations. Domestic partnerships, including validating programmes delivered by FE colleges and private sector providers, have been popular within the English system for decades, providing a steady if often unspectacular source of income. As previously discussed, TNE led by English universities has grown dramatically during the twenty first century, with 431,000 students learning at partners in 2021/22 (UUK, 2023a). As we discuss in Hickey and Davies (2022) [Chapter Seven], collaborative provision other than IBCs can be less expensive to establish and manage, is highly scalable and offers the opportunity to spread risk over several geographies. However, they typically involve a high level of dependency on the partner, offer less brand protection, weaker control of quality and sometimes encourage opportunistic behaviour by the third party (Mazzarol, 2003; Ziguras and McBurnie, 2011; Healey, 2020). Given the scale of domestic partnerships and TNE activities, few if any could be considered valid substitutes for IBCs or RMBCs as defined by the RBV, and arguably offer a low level of competitive advantage for the home institution beyond direct revenue generation. It should be noted that IBCs and RMBCs are clearly substitutes of each other and, at present, only one English university (Coventry University) has both an IBC overseas and an RMBC in London. This is understandable given that both represent a significant institutional undertaking.
 
-<!-- page 163 -->
+<!-- page 164 -->
 
 The binary choice between and an IBC or an RMBC has not been considered in this thesis, but is potentially an interesting question to consider in future research.
 
@@ -3236,13 +2686,12 @@ The binary choice between and an IBC or an RMBC has not been considered in this 
 
 The literature discussed in Chapter Three, our findings in Hickey and Davies (2022) [Chapter Seven] and Hickey and Healey (2024) [Chapter Eight] and the discussion in section 9.5 suggest that horizontal, spatial diversification in the form of an IBC or an RMBC can - in some cases contribute towards a more diverse income profile, and can support financial sustainability. As shown in Figure 8, I propose that several factors combine to drive the success of a branch campus. The first set concerns the operating environment: essentially the context and governance regime in which the university operates. The second set are organisational capabilities, or simply what a university 'has'. These are operational features of a university that would provide the right bedrock on which to develop a branch campus. The third set, project success factors, are features of the way that an institution goes about establishing an IBC or RMBC, or what it 'does'.
 
-> Figure 8: The determinants of successful income diversification through IBCs and RMBCs
-
+*Figure 8: The determinants of successful income diversification through IBCs and RMBCs*
 ![TH.R06 fig48](../figures/TH/TH.R06_fig48.jpg)
 
 Source: Author
 
-<!-- page 164 -->
+<!-- page 165 -->
 
 The components of the model in Figure 8 are now discussed in more detail.
 
@@ -3258,7 +2707,7 @@ Some of the features from existing literature we reinforce in Hickey and Davies 
 
 Some of the operational success factors we identify in Hickey and Davies (2022) [Chapter Seven] and Hickey and Healey (2024) [Chapter Eight] transcend both the creation of IBCs and RMBCs. These endeavours should be entered into with long term, realistic financial plans, and a focus not purely on generating a financial return but of securing other benefits related to, for example reputation and profile, or research capability. As part of this process, alternative
 
-<!-- page 165 -->
+<!-- page 166 -->
 
 international and/or domestic partnering options should have been considered and a full assessment of the current and likely future market in the options for new campus location, including the level of student demand, should have been completed. Similarly, the various commercial models for establishing either an IBC or RMBC should have been considered, and a model selected that reflects the home institution's risk profile (Lane and Kinser, 2013). As discussed in both papers, many of the more successful IBCs and RMBCs are closely integrated with the overarching strategy of the university, and have been developed following thorough internal consultation with staff, students and other stakeholders and extensive external engagement with partners and stakeholders in new geographies.
 
@@ -3266,13 +2715,13 @@ Those success factors specific to the creation of IBCs include a detailed unders
 
 Given that the domestic market remains competitive and constrained, many of the success factors specific to RMBCs in England relate to the need to retain flexibility and agility. Hickey and Healey (2024) [Chapter Eight] suggests that the more successful RMBCs in London have created a personal, flexible, teaching approach that works for students, have shown that they can be agile enough to introduce programmes quickly to meet market demand, and are open to switching between a domestic and international student focus. Whilst operational independence appears important to IBCs, there is a much finer balance to tread for RMBCs, largely driven by the practicalities of being in the same country as the main campus. The most successful RMBCs draw on the home campus where it can add value, around for example the provision of some professional services such as registry, HR, finance, IT and estates management, but self-deliver some of the services that add value to students and staff such as wellbeing support, business placements and academic development.
 
-<!-- page 166 -->
+<!-- page 167 -->
 
 ## 9.7 Summary of Discussion section
 
 This section has discussed the external challenges of a fixed home undergraduate fee cap, challenging international visa policy and unpredictable macro-economic conditions together with some of the legacy structural, cultural and regulatory issues facing English universities as they seek financial sustainability. Using RDT and the RBV, it has drawn on theoretical frameworks to assess and analyse the responses being made by universities, from growing the size of student bases and diversifying the academic offer through to partnering domestically and overseas, exploring new markets and reducing the cost base via new operating models and efficiency programmes. Similarly, both theories have then been used as a basis for assessing the potential value of IBCs and RMDCs from both the external and internal perspective, highlighting the potential to secure new resources, reduce dependence on existing revenue streams and create markets that do not currently exist. It has also highlighted their potential as a source of institutional competitive advantage, but struck a cautionary note in relation of imitation and substitution, given relatively low barriers to entry. Finally, and drawing on the lessons from the entirety of this thesis, a model articulating the conditions required for successful spatial diversification has been presented, highlighting the importance of strong environmental conditions, organisational capabilities and decisions in relation to project implementation.
 
-<!-- page 167 -->
+<!-- page 168 -->
 
 ## Chapter Ten: Conclusions
 
@@ -3288,7 +2737,7 @@ This thesis has discussed some concerning financial trends within English HE. Th
 
 My findings indicate that most of the cost issues facing English HE may be short term, whilst those relating to income are more systemic. Cost pressures across the sector are largely a function of a weak macro-economic climate, and like every other part of the economy, universities have been forced to address some of their legacy cultures and structure, rationalise their organisations and generate efficiencies. They have been drawn towards growing disciplines such as psychology, business and computing, and to a lesser extent to Government backed models such as degree apprenticeships, but have also closed academic programmes that are no longer financially viable. New, more efficient, and flexible approaches of delivering degrees, such as online or hybrid models, are emerging. Some innovation around cost sharing
 
-<!-- page 168 -->
+<!-- page 169 -->
 
 and collaboration across the sector has started, but wholesale shared services, mergers and institutional failures are still to materialise.
 
@@ -3300,7 +2749,7 @@ Due to the financial pressures on core sources of income, I have demonstrated th
 
 From an external perspective and using a framework based on the RDT model, I posit that both types of branch campus have the potential to reduce the level of dependence on existing forms of income. Both provide the mechanism to diversify, and are provided "using different resources, supplying different markets and facing different competition" (Pfeffer and Salancik, 2003: 109). IBCs reach new and growing markets and negate the impact of external controls on tuition fees and international visa restrictions. RMBCs, which remain a relatively new model, allow a university to exploit the global appeal of a city like London and also cater for a growing local population, providing a contrasting option to a home campus in regional England. In both respects, they provide the opportunity to become export hubs for international students, relieving the pressure on the home campus, as well as attracting cohorts from their locality. Both also allow a university to establish a campus that is flexible, adaptable, and orientated towards the students they accommodate, relatively unhindered by some of the legacy cultural challenges that have slowed the pace of university modernisation, be they in relation
 
-<!-- page 169 -->
+<!-- page 170 -->
 
 to when and how students are taught, how staff are employed, decisions are made or services are provided. They can be designed and established to be effective and efficient from the first day of operation. Internally, using a framework based on the RBV, my findings have suggested how the value of branch campuses can be measured directly, through the ability to subsidise loss-making activities at the base campus and indirectly as a strategic resource, through their role in improving a university's reputation, research capacity, curriculum, and stakeholder engagement. In many respects they can be a source of "sustained competitive advantage" as discussed by Barney (1991:105). They are, however, becoming increasingly common, open to imitation, and by no means offer the only available option to diversify revenue. On the basis of my findings I would contend, however, that other options for resource diversification, such as domestic partnerships and other forms of TNE are no rarer or distinctive.
 
@@ -3310,7 +2759,7 @@ There have already been many examples of failed English university branch campus
 
 Much of this thesis has discussed how branch campuses have the potential to diversify the of income for a university, and reduce the level of dependence on existing sources and external controls. The use of RDT however, has helped conceptualise a new set of dependencies that they create. IBCs are located in overseas territories, implying that their existence is partly dependent on the policies and regulations in those countries. Both IBCs and RMBCs are frequently established with JV partners, which creates a commercial dependency, but in many
 
-<!-- page 170 -->
+<!-- page 171 -->
 
 cases one which also influences operational options and decisions. The success of these ventures also depends on how well such dependencies are managed.
 
@@ -3328,7 +2777,7 @@ The rapid changes to the economic and political environment in English HE and th
 
 I hope that this thesis has accurately articulated these challenges and the responses being considered across the sector. It should provide value in decision makers when considering if and how to diversify revenue streams, and specifically whether an IBC or an RMBC is a viable option. The framework presented in Figure 8 (section 9.6), which draws on a broad depth of
 
-<!-- page 171 -->
+<!-- page 172 -->
 
 literature, Hickey and Davies (2022) [Chapter Seven] and Hickey and Healey (2024) [Chapter Eight] provides a useful starting point for those considering spatial diversification, both in terms of the general environmental characteristics and organisational capabilities required, and project specific success factors around the creation of an IBC or RMBC.
 
@@ -3344,7 +2793,7 @@ The papers that form Chapters Five to Eight also carry limitations. The CDA in H
 
 The entirety of this thesis is focused on the English context. Although, as discussed by McCaffery (2010) and others, many of the financial challenges facing universities across the
 
-<!-- page 172 -->
+<!-- page 173 -->
 
 world is similar, the specific funding model in England is unique, particularly the challenges relating to fixed tuition fee caps and Government visa policy. The organisational capabilities of English universities are also specific to this context. For these reasons, whilst I would contend that my discussion of the usefulness of branch campuses in reaching financial sustainability are interesting across several countries, the generalisability and transferability of my findings to other HE systems must be considered in the HE contexts of other nations.
 
@@ -3356,7 +2805,7 @@ There is scope for a host of additional research in some of the themes covered b
 
 An alternative format thesis was not something that I planned for at the start of my DBA journey, but having completed it and been successful in seeing three papers published, with one pending, I am immensely proud of what I have achieved in the last four years. It is worrying time for the HE system in England, with many universities struggling financially and operating in a difficult political and regulatory environment. Having rebounded from underfunding and new competition in the past, however, I have faith in the innovative and inspirational people that work across the sector. Together, I hope and believe that novel solutions will be found, and the sector will continue as one of the strongest in the world, with an English degree continuing to be passport to a great career and a happy life. If the findings of this thesis contribute to this, even in a small way, then it will have been well worth it.
 
-<!-- page 173 -->
+<!-- page 174 -->
 
 ## References
 
@@ -3380,7 +2829,7 @@ Altbach, P., 2011. Is There a Future for Branch Campuses? International higher e
 
 Altbach, P., 2012. A New Twist – In-Country Branch Campuses. Inside Higher Education, 25 March 2012 [online]. Available from: https://www.insidehighered.com/blogs/worldview/philip-altbach-new-twist%E2%80%94-country-branchcampuses#:~:text=Philip%20Altbach%3A%20A%20New%20Twist%E2%80%94%20In-Country%20Branch%20Campuses,element%20in%20the%20increasing%20commercializati on%20of%20higher%20education. [accessed 4 February 2023]
 
-<!-- page 174 -->
+<!-- page 175 -->
 
 Altbach, P., and Knight, J., 2007. The Internationalization of Higher Education: Motivations and Realities. Journal of Studies in International Education, 11, pp. 290-304.
 
@@ -3406,7 +2855,7 @@ Barney, J., and Arika, A., 2001. The resource-based view: Origins and implicatio
 
 BBC, 2021. University of Portsmouth plans new campus in London. 13 September 2021 [online]. Available from https://www.bbc.co.uk/news/uk-england-hampshire-58543260. [Accessed 14 April 2023]
 
-<!-- page 175 -->
+<!-- page 176 -->
 
 BBC, 2022. Sheffield Hallam University to open new campus in London. 9 November 2022 [online]. Available from https://www.bbc.co.uk/news/uk-england-south-yorkshire-63545066 [Accessed 14 April 2023]
 
@@ -3432,7 +2881,7 @@ Braun, V. and Clarke, V., 2013. Successful Qualitative Research: A Practical Gui
 
 British Council, 2015. UK Universities Top Destination for Nobel winners. British Council 6 October 2015 [online]. Available from: https://www.britishcouncil.org/contact/press/ukuniversities-top-destination-nobel-
 
-<!-- page 176 -->
+<!-- page 177 -->
 
 winners#:~:text=The%20UK%20university%20that%20has,School%20of%20Economics%2 0(five). [Accessed 18 July 2023].
 
@@ -3458,7 +2907,7 @@ Chirica, O., and Puscas, B., 2018. The diversification of income sources in the 
 
 Clark, B., 1998. Creating entrepreneurial universities: Organisational pathways of transformation. Guildford: IAU Pergamon/Elsevier.
 
-<!-- page 177 -->
+<!-- page 178 -->
 
 Clark, B., 2003. Sustaining change in universities: continuities in case studies and concepts. Tertiary Education and Management 9, pp. 99–116.
 
@@ -3482,7 +2931,7 @@ Department for Education, 2022b. Apprenticeships and traineeships. 22 December 2
 
 Department for Education, 2023a. Changes to student visa route will reduce net migration [online]. Available from: https://www.gov.uk/government/news/changes-to-student-visaroute-will-reduce-net-migration. [Accessed 16 September 2023].
 
-<!-- page 178 -->
+<!-- page 179 -->
 
 Department for Education, 2023b. Higher Education Policy Statement and Reform: Government consultation response. London: His Majesty's Stationery Office.
 
@@ -3506,7 +2955,7 @@ Etzkowitz, H., and Leidersdorf., 2000. The dynamics of innovation: from National
 
 European Commission, 2023. United Kingdom joins Horizon Europe programme. European Commission, 4 December 2023 [online]. Available from:
 
-<!-- page 179 -->
+<!-- page 180 -->
 
 https://ec.europa.eu/commission/presscorner/detail/en/IP_23_6327 [Accessed 5 January 2024].
 
@@ -3530,7 +2979,7 @@ Froelich, K., 1999. Diversification of revenue strategies: evolving resource dep
 
 Financial Sustainability Strategy Group, 2019. Understanding the impact of income crossflows on financial sustainability in the UK higher education sector. Office for Students [online]. Available from: https://www.officeforstudents.org.uk/media/2afa9afa-063c-4327- 88d3-c2350b10f8d6/fssg-understanding-income-cross-flows.pdf. [Accessed 10 December 2022].
 
-<!-- page 180 -->
+<!-- page 181 -->
 
 Fugazzotto, S., 2010. Physical Space and the Resource-Based View of the College. Innovative Higher Education 35, pp. 245-259.
 
@@ -3558,7 +3007,7 @@ Guerrero-Cano, M. and Urbano, D., 2012. The development of an entrepreneurial un
 
 Hanfling, O., 1997. Logical Positivism. In S. Shanker (ed.) Routledge History of Philosophy. London: Routledge. pp. 193-214.
 
-<!-- page 181 -->
+<!-- page 182 -->
 
 Harvey, D., 2005. A Brief History of Neoliberalism. Oxford: Oxford University Press.
 
@@ -3584,7 +3033,7 @@ Her Majesty's Government, 1962. Education Act [online] Available from www.legisl
 
 Her Majesty's Government, 1992. Further and Higher Education Act [online] Available from https://www.legislation.gov.uk/ukpga/1992/13/contents. [Accessed 15 December 2022].
 
-<!-- page 182 -->
+<!-- page 183 -->
 
 Here East, 2023. Teesside University launches new London campus at Here East. February 2023 [online]. Available from: https://hereeast.com/news/teesside-university-launches-newlondon-campus-here-east/ [Accessed 14 April 2023].
 
@@ -3606,7 +3055,7 @@ Hickey, R., and Davies, D., 2022. The common factors underlying successful inter
 
 Hickey, R., and Healey, N., 2024. The rise of the Remote Metropolitan Branch Campus – definitions, motivations and models. Unpublished manuscript.
 
-<!-- page 183 -->
+<!-- page 184 -->
 
 Highman, L., Marginson, S., and Papatsiba, V., 2023. Higher education and research: multiple negative effects and no new opportunities after Brexit. Contemporary Social Science, 18 (2), pp. 216-234.
 
@@ -3628,7 +3077,7 @@ Hodge, M. M., and Piccolo, R. F., 2005. Funding source, board involvement techni
 
 Immis, Y., 2023. UK's Dependent Visa Dilemma for International Students in 2024-2025. 2 September 2023 [online]. Available from: https://www.yanaimmis.com/blog/uks-dependentvisa-dilemma-for-international-students-in-2024-2025. [Accessed 10 October 2023].
 
-<!-- page 184 -->
+<!-- page 185 -->
 
 Irvine, H. J., and Ryan, C. M., 2019. The financial health of Australian universities: Policy implications in a changing environment. Accounting, Auditing & Accountability Journal, 32 (5), pp. 1500-1531,
 
@@ -3650,7 +3099,7 @@ Johnstone, D., and Shroff-Mehta, P., 2003. Higher education finance and accessib
 
 Jongbloed, B., and Vossensteyn, H., 2016. University funding and student funding: International comparisons. Oxford Review of Economic Policy, 32(4), pp. 576-595.
 
-<!-- page 185 -->
+<!-- page 186 -->
 
 Kaplan B. and Maxwell J. A., 1994. Qualitative research methods for evaluating computer information systems. In J. G. Anderson & C. E. Aydin (Eds.), Evaluating health care information systems: Methods and applications. Thousand Oaks, CA: Sage, pp. 45–68.
 
@@ -3680,7 +3129,7 @@ Knight, J., 2014. International Education Hubs: Collaboration for Competitivenes
 
 Knight, J., 2015. International Universities: Misunderstandings and Emerging Models? Journal of Studies in International Education, 19(2), pp. 107–121.
 
-<!-- page 186 -->
+<!-- page 187 -->
 
 Knight, J., 2016. Transnational Education Remodelled: Toward a Common TNE Framework and Definitions. Journal of Studies in International Education, 20(1), pp. 34–47.
 
@@ -3704,7 +3153,7 @@ Kosmutzky, A. and Putty, R., 2016. Transcending Borders and Traversing Boundarie
 
 Lane, J.E., 2011. Global expansion of international branch campuses: Managerial and leadership challenges. New directions for higher education, 155, pp. 5-17.
 
-<!-- page 187 -->
+<!-- page 188 -->
 
 Lane, J.E., and Kinser, K., 2013. Five Models of International Branch Campus Ownership. International higher education, 70, pp. 9-11.
 
@@ -3728,7 +3177,7 @@ Lynch, R., and Baines, P., 2004. Strategy development in UK higher education: To
 
 Madge, C., Raghuram, P. and Noxolo, P., 2015. Conceptualizing international education: From international student to international study. Progress in Human Geography, 39, pp. 681–701.
 
-<!-- page 188 -->
+<!-- page 189 -->
 
 Maisuria, A. and Cole, M., 2017. The neoliberalization of higher education in England: An alternative is possible. Policy Futures in Education, 15(5), pp. 602–619.
 
@@ -3756,7 +3205,7 @@ Middlehurst, R., 2013. Shifting Patterns of International Higher Education: Ebb 
 
 Mohd Said, J., Mamat, S., Ahmad, N., and Borhan, A., 2023. Financial health of the Malaysian public universities: whither the way forward? Journal of Higher Education Policy and Management, 45 (4), pp. 442-457.
 
-<!-- page 189 -->
+<!-- page 190 -->
 
 Molesworth, M., Nixon, E., and Scullion, R., 2011. Having, being and higher education: the marketisation of the university and the transformation of the student into consumer. Teaching in Higher Education, 14 (3), pp. 277-287.
 
@@ -3782,7 +3231,7 @@ Office for National Statistics, 2022. Cost of living and higher education studen
 
 https://www.ons.gov.uk/peoplepopulationandcommunity/educationandchildcare/bulletins/cos toflivingandhighereducationstudentsengland/24octoberto7november2022. [Accessed 20 August 2023].
 
-<!-- page 190 -->
+<!-- page 191 -->
 
 Office for Students, 2021. Financial sustainability of higher education providers in England. 25 June 2021 [online]. Available from: https://www.officeforstudents.org.uk/media/19efb6a1- 2c54-4643-a8d4-1616cdd0bdff/financial-sustainability-of-higher-education-providers-inengland-2021.pdf. [Accessed 17 June 2023].
 
@@ -3802,7 +3251,7 @@ Orlikowski W. and Baroudi J., 1991. Studying information technology in organizat
 
 Patnaik, S., Munjal, S., Varma, A., and Sinha, S., 2022. Extending the resource-based view through the lens of the institution-based view: A longitudinal case study of an Indian higher educational institution. Journal of Business Research, 147, pp. 124-141.
 
-<!-- page 191 -->
+<!-- page 192 -->
 
 Peteraf, M., 1993. The cornerstones of competitive advantage: A resource‐based view. Strategic Management Journal, 14(3), pp. 179-191.
 
@@ -3828,7 +3277,7 @@ Rivera, H., 2023. College tuition inflation: How the cost of college has risen o
 
 Robbins, L., 1963. Higher education: Report of the committee appointed by the Prime Minister under the chairmanship of Lord Robbins, 1961–63. London: HM Stationery Office.
 
-<!-- page 192 -->
+<!-- page 193 -->
 
 Roff, A., 2021. Student Finance in England from 2012 to 2020: From fiscal illusion to graduate contribution? HEPI Debate Paper 25. London: HEPI.
 
@@ -3852,7 +3301,7 @@ Scott, P., 1998. Massification, Internationalization and Globalization. In P. Sc
 
 Scott, P., and Callender, C., 2017. United Kingdom: From binary to confusion. In P. Altbach, L. Reisberg, and H. de Wit (Eds.), Responding to massification: Differentiation in postsecondary education worldwide (pp. 141-152). Rotterdam, Netherlands: Sense Publishers
 
-<!-- page 193 -->
+<!-- page 194 -->
 
 Shattock, M., 1999. The Impact of the Dearing Report on UK Higher Education. Higher Education Management, 11 (1), pp. 7-17.
 
@@ -3878,7 +3327,7 @@ Teixeira, P., and Koryakina, T., 2013. Funding reforms and revenue diversificati
 
 Teixeira, P., Rocha, V., Biscaia, R., and Cardoso, M., 2014. Revenue diversification in public higher education: Comparing the university and polytechnic sectors. Public Administration Review, 74 (3), pp. 398-412.
 
-<!-- page 194 -->
+<!-- page 195 -->
 
 Temple, P., 2015. What has the Coalition Government done for higher education? London Review of Education, 13 (2), pp 174-178.
 
@@ -3898,7 +3347,7 @@ University Reviews, 2023b. List of Universities in Sydney, Australia [online]. A
 
 UUK, 2023a. The scale of UK transnational education. UUK, 8 June 2023 [Online]. Available from: https://www.universitiesuk.ac.uk/universities-uk-international/insights-andpublications/uuki-insights/scale-uk-transnationaleducation#:~:text=UK%20degrees%20were%20delivered%20in,the%20Middle%20East%20 and%20Africa. [Accessed 16 July 2023].
 
-<!-- page 195 -->
+<!-- page 196 -->
 
 UUK, 2023b. Sustainable university funding. UUK, Sept 2023 [Online]. Available from: https://www.universitiesuk.ac.uk/sites/default/files/uploads/Reports/Sustainable-universityfunding.pdf. [Accessed 10 October 2023].
 
@@ -3924,7 +3373,7 @@ Wilkins, S. and Balakrishnan, M.S., 2013. Assessing student satisfaction in tran
 
 Wilkins, S., and Huisman, J., 2012. The international branch campus as transnational strategy in higher education. Higher Education, 64(5), pp. 627–645.
 
-<!-- page 196 -->
+<!-- page 197 -->
 
 Wilkins, S. and Juusola, K., 2018. The benefits & drawbacks of transnational higher education: Myths and realities. Australian Universities' Review, 60(2), pp. 68-76.
 
@@ -3942,11 +3391,11 @@ Ziderman, A., and Albrecht, D., 1995. Financing universities in developing count
 
 Ziguras, C., and G. McBurnie. 2011. Transnational Higher Education in the Asia-Pacific Region: From Distance Education to the Branch Campus. Higher Education Dynamics, 36, pp. 105–122.
 
-<!-- page 197 -->
+<!-- page 198 -->
 
 ## Appendix A: Co-Author letters
 
-<!-- page 198 -->
+<!-- page 199 -->
 
 ![TH.R06 fig49](../figures/TH/TH.R06_fig49.jpg)
 
@@ -3970,7 +3419,7 @@ Dr Dan Davies
 
 Director of Higher Education Management Programmes
 
-<!-- page 199 -->
+<!-- page 200 -->
 
 ![TH.R06 fig50](../figures/TH/TH.R06_fig50.jpg)
 
@@ -3990,251 +3439,114 @@ I am happy to be contacted about by contribution to this paper, should any clari
 
 Yours faithfully
 
-![TH.R06 fig51](../figures/TH/TH.R06_fig51.jpg)
-
-> Prof. Nigel Healey
-
 Vice President, Global and Community Engagement
-
-<!-- page 200 -->
-
-## Appendix B: Statements of Authorship
 
 <!-- page 201 -->
 
-This declaration concerns the article entitled:
-
-How and why have higher education tuition fee policies evolved in England since 1997?
-
-Publication status
-
-(tick one)
-
-Draft manuscript
-
-Submitted In review Accepted
-
-d Pu
-
-ublished X
-
-Publication details (reference)
-
-Hickey, R., 2024. How and why have higher education tuition fee policies evolved in England since 1997? A critical discourse analysis of Dearing, Browne and Augar. *Policy Futures in Education* 22 (1), pp. 108-129.
-
-Copyright status (
-
-tick the appropriate statement)
-
-The material has been published with a CC-BY license X The publisher has granted permission to replicate the material included here
-
-Candidate's contribution to the paper (provide details, and also indicate as a percentage)
-
-The candidate executed the Formulation of ideas (100%) Design of methodology (100%) Experimental work (100%) Presentation of data in journal format (100%)
-
-Statement from Candidate
-
-This paper reports on original research I conducted during the period of my Higher Degree by Research candidature.
-
-Signed (typed signature)
-
-R. Hickey
-
-Date
-
-4.1.2024
+## Appendix B: Statements of Authorship
 
 <!-- page 202 -->
 
-This declaration concerns the article entitled:
+This declaration concerns the article entitled:How and why have higher education tuition fee policies evolved in England since 1997?Publication status(tick one)Draft manuscriptSubmitted In review Acceptedd Puublished XPublication
+details
+(reference)Hickey, R., 2024. How and why have higher education tuition fee policies evolved in England since 1997? A critical discourse analysis of Dearing, Browne and Augar. *Policy Futures in Education* 22 (1), pp. 108-129.Copyright status (tick the appropriate statement)The material has been published with a CC-BY license X
 
-Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England.
+The publisher has granted permission to replicate the material included hereCandidate's
+contribution to
+the paper
+(provide details,
+and also indicate
+as a percentage)The candidate executed the
 
-Publication status
+Formulation of ideas (100%)
 
-(tick one)
+Design of methodology (100%)
 
-Draft manuscript
+Experimental work (100%)
 
-Submitted In review Accepted Published X
-
-Publication details (reference)
-
-Hickey, R., 2023. Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England. *Oxford Review of Education* (ahead of print).
-
-Copyright status (
-
-tick the appropriate statement)
-
-has been published X The publisher has granted permission to replicate the material included here
-
-Candidate's contribution to the paper (provide details, and also indicate as a percentage)
-
-The candidate executed the Formulation of ideas (100%) Design of methodology (100%) Experimental work (100%) Presentation of data in journal format (100%)
-
-Statement from Candidate
-
-This paper reports on original research I conducted during the period of my Higher Degree by Research candidature.
-
-Signed (typed signature)
-
-R. Hickey 4.1.2024
+Presentation of data in journal format (100%)Statement from CandidateThis paper reports on original research I conducted during the period of my Higher Degree by Research candidature.Signed
+(typed signature)R. HickeyDate4.1.2024
 
 <!-- page 203 -->
 
-This declaration concerns the article entitled:
+This declaration concerns the article entitled:Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England.Publication status(tick one)Draft manuscriptSubmitted In review Accepted Published XPublication
+details
+(reference)Hickey, R., 2023. Financial sustainability in a marketised and partially autonomous environment: the case of small new public universities in England. *Oxford Review of Education* (ahead of print).Copyright status (tick the appropriate statement)has been published X The publisher has granted permission to replicate the material included hereCandidate's contribution to the paper (provide details, and also indicate as a percentage)The candidate executed the
 
-The common factors underlying successful international branch campuses: towards a conceptual decision-making framework.
+Formulation of ideas (100%)
 
-Publication statu
+Design of methodology (100%)
 
-s (tick one)
+Experimental work (100%)
 
-Draft manuscript
-
-Submitted In review Accept
-
-ted
-
-Published X
-
-Publication details (reference)
-
-Hickey, R., and Davies, D., 2022. The common factors underlying successful international branch campuses: towards a conceptual decision-making framework. *Globalisation*, *Societies and Education* (ahead of print).
-
-Copyright status
-
-(tick the appropriate statement)
-
-The material has been published with a CC-BY license The publisher has granted permission to replicate the material included here
-
-Candidate's contribution to the paper (provide details, and also indicate as a percentage)
-
-The candidate predominantly executed the Formulation of ideas (90%) Design of methodology (100%) Experimental work (90%) Presentation of data in journal format (80%)
-
-Statement from Candidate
-
-This paper reports on original research I conducted during the period of my Higher Degree by Research candidature.
-
-Signed (typed signature)
-
-R. Hickey
-
-Date
-
-4.1.2024
+Presentation of data in journal format (100%)Statement from
+CandidateThis paper reports on original research I conducted during the period of my Higher Degree by Research candidature.Signed
+(typed signature)R. Hickey 4.1.2024
 
 <!-- page 204 -->
 
-This declarat
+This declaration concerns the article entitled:The common factors underlying successful international branch campuses: towards a conceptual decision-making framework.Publication status (tick one)Draft
+manuscriptSubmitted In review AccepttedPublished XPublication
+details
+(reference)Hickey, R., and Davies, D., 2022. The common factors underlying successful international branch campuses: towards a conceptual decision-making framework. *Globalisation*, *Societies and Education* (ahead of print).Copyright status(tick the appropriate statement)The material has been published with a CC-BY license
 
-This declaration concerns the article entitled:
+The publisher has granted permission to replicate the material included hereCandidate's contribution to the paper (provide details, and also indicate as a percentage)The candidate predominantly executed the
 
-The rise of the Remote Metropolitan Branch Campus – definitions, motivations and models
+Formulation of ideas (90%)
 
-Publication status
+Design of methodology (100%)
 
-(tick one)
+Experimental work (90%)
 
-Draft manuscript
-
-Submitted In review X Accepted
-
-l Pu
-
-ublished
-
-Publication details (reference)
-
-Pending final decision.
-
-Copyright status (
-
-tick the appropriate statement)
-
-The material has been published with a CC-BY license X The publisher has granted permission to replicate the material included here
-
-Candidate's contribution to the paper
-
-The candidate predominantly executed the
-
-(provide details, and also indicate
-
-Formulation of ideas (80%)
-
-as a percentage)
-
-Design of methodology (90%) Experimental work (80%)
-
-• 0 /
-
-Presentation of data in journal format (80%)
-
-Statement from
-
-This paper reports on original research I conducted during the period of my Higher
-
-Candidate
-
-Degree by Research candidature.
-
-Signed (typed signature)
-
-R. Hickey
-
-Date
-
-4.1.2024
+Presentation of data in journal format (80%)Statement from
+CandidateThis paper reports on original research I conducted during the period of my Higher Degree by Research candidature.Signed
+(typed
+signature)R. HickeyDate4.1.2024
 
 <!-- page 205 -->
+
+This declaratThis declaration concerns the article entitled:The rise of the Remote Metropolitan Branch Campus – definitions, motivations and modelsPublication status(tick one)Draft manuscriptSubmitted In review X Acceptedl PuublishedPublication details (reference)Pending final decision.Copyright status (tick the appropriate statement)The material has been published with a CC-BY license X
+
+The publisher has granted permission to replicate the material included hereCandidate's contribution to the paperThe candidate predominantly executed the(provide details, and also indicateFormulation of ideas (80%)as a percentage)Design of methodology (90%)
+Experimental work (80%)• 0 /Presentation of data in journal format (80%)Statement fromThis paper reports on original research I conducted during the period of my HigherCandidateDegree by Research candidature.Signed (typed signature)R. HickeyDate4.1.2024
+
+<!-- page 206 -->
 
 ## Appendix C: Interview questions related to Chapter Eight
 
 ## Theme 1: Background & Motivations
 
-1. Can you please outline your role here and for how long you have been the Director at the London Campus?
-
-2. Can you please provide an overview of the operation here in London?
-
-3. Why did the University establish a London Campus? What were the main aims here when the decision was made?
-
-4. Did you consider any alternatives to a London base when you looked to establish here?
-
-5. Having decided on a campus here, what models did you look at? For example, did you considering partnering, franchising or anything other than creating your own campus?
-
-6. How did you decide what portfolio to deliver from London? And what about your target market? What evidence did you draw on?
-
-7. How did you decide on your location in London?
+- 1. Can you please outline your role here and for how long you have been the Director at the London Campus?
+- 2. Can you please provide an overview of the operation here in London?
+- 3. Why did the University establish a London Campus? What were the main aims here when the decision was made?
+- 4. Did you consider any alternatives to a London base when you looked to establish here?
+- 5. Having decided on a campus here, what models did you look at? For example, did you considering partnering, franchising or anything other than creating your own campus?
+- 6. How did you decide what portfolio to deliver from London? And what about your target market? What evidence did you draw on?
+- 7. How did you decide on your location in London?
 
 ## Theme 2: Performance
 
-8. Does the size and shape of your campus match your original aspiration?
-
-9. Has anything about your portfolio and target market changed and why?
-
-10. What have been your greatest achievements so far in London?
-
-11. And what are your main challenges and concerns?
+- 8. Does the size and shape of your campus match your original aspiration?
+- 9. Has anything about your portfolio and target market changed and why?
+- 10. What have been your greatest achievements so far in London?
+- 11. And what are your main challenges and concerns?
 
 ## Theme 3: Students
 
-12. Where do your students come from? Why do you they come to study here? What are your main selling points?
-
-13. How do you reach potential students?
-
-14. Who do you think your competitors are? How do you compete?
+- 12. Where do your students come from? Why do you they come to study here? What are your main selling points?
+- 13. How do you reach potential students?
+- 14. Who do you think your competitors are? How do you compete?
 
 ## Theme 4: Organisation
 
-15. What is the relationship between the home campus and the London campus like? Would you describe the campus as self-contained, or do you rely on the main campus for services and support?
-
-16. How does your business model differ from that employed in your home campus?
+- 15. What is the relationship between the home campus and the London campus like? Would you describe the campus as self-contained, or do you rely on the main campus for services and support?
+- 16. How does your business model differ from that employed in your home campus?
 
 ## Theme 5: The future
 
 17. What is the plan for the future of the London campus? Is there any aspiration for further growth or diversification?
 
-<!-- page 206 -->
+<!-- page 207 -->
 
 ## Appendix D: Participant information related to Chapter Eight
 
@@ -4264,7 +3576,7 @@ There is no obligation to take part but the authors are incredibly grateful that
 
 A one-hour, recorded and semi-structured interview. Permission to record this interview will be requested prior to the start of the session.
 
-<!-- page 207 -->
+<!-- page 208 -->
 
 ## 5. What are the possible benefits of taking part?
 
@@ -4299,5 +3611,3 @@ The University of Bath privacy notice can be found here: https://www.bath.ac.uk/
 ## 12. What happens if there is a problem?
 
 If you have a concern about any aspect of the project you should ask to speak to the researchers who will do their best to answer any questions. If they are unable to resolve your concern, or you wish to make a complaint regarding the project, please contact the Chair of SSREC at ssrec@bath.ac.uk.
-
-<!-- page 208 -->
