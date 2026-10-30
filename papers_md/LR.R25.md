@@ -1,0 +1,87 @@
+<!-- LR.R25 | source: papers_json/LR.R25/ -->
+
+![LR.R25 fig01](../figures/LR/LR.R25_fig01.jpg)
+
+## **Educational** **Review**
+
+![LR.R25 fig02](../figures/LR/LR.R25_fig02.jpg)
+
+**ISSN: 0013-1911 (Print) 1465-3397 (Online) Journal homepage:****[ www.tandfonline.com/journals/cedr20](https://www.tandfonline.com/journals/cedr20?src=pdf)**
+
+## **The** **evaluation** **game:** **how** **publication** **metrics** **shape scholarly communication**
+
+**by** **Emanuel** **Kulczycki,** **Cambridge** **University** **Press,** **2023,** **pp.** **viii+228** **pp.,** **£29.99** **(hardback,** **paperback** **and** **e-book),** **ISBN-10:** **1009351192,** **ISBN-13:** **978-1009351195, Online ISBN:9781009351218.**
+
+## **Huw Morris**
+
+**To** **cite** **this** **article:** Huw Morris (2024) The evaluation game: how publication metrics shape scholarly communication, Educational Review, 76:6, 1746-1748, DOI: [10.1080/00131911.2023.2264663](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/00131911.2023.2264663)
+
+**To** **link** **to** **this** **article:** [https://doi.org/10.1080/00131911.2023.2264663](https://doi.org/10.1080/00131911.2023.2264663)
+
+![LR.R25 fig03](../figures/LR/LR.R25_fig03.jpg)
+
+<!-- page 2 -->
+
+with insights into education in both countries. Analysing 681 articles, published between 1975-2019 in the journal Comparative Education (CE-J), Chapter 10 examines scholarship in Japanese comparative education in the context of research trends in English-language journals. This is an interesting contribution in terms of our understanding of global academic publication in CIE.
+
+Teacher education is a critical context for initiating and mobilising positive change in education internationally. Comparing teacher education in England and the United States, Chapter 11 explores how we can best support teachers to embrace innovation and lead change in education, in particular highlighting the potential of university-based internship approaches. Chapter 12 outlines the educational importance of integrating the Arts within STEM, to engage girls in critical thinking; this contribution illustrates the power of a pedagogical model that combines STEM with the visual arts (technology and film). Chapter 13 discusses low-fee private schools (LFPS) in Hyderabad, India, and how adopting the dialectic method can help to identify emergent issues, contradictions and possibilities in analysis of schooling set amidst local and global aspirations and tensions. Chapter 14 undertakes a valuable analysis of International Large-Scale Assessments (ILSA), and the authors demonstrate the need for systematic, methodological critique and inquiry into the assessment and measurement methods employed by ILSA, which exert significant influence on international educational agendas and policymaking. Chapter 15 concludes the book with a call to comparative educators and leaders, to work with social and political partners and organisations, and continue to build the infrastructures and collaborations that can help democracy and education to flourish.
+
+In sum, the editors and authors are to be commended for bringing this ambitious and essential monograph to publication, especially in the shadow of the COVID-19 global pandemic.
+
+The book references Marco Cuevas-Hewitt's "futurology of the present", a powerful idea that moves us away from the notion of a monolithic future, towards an opening up of myriad, possible future alternatives. This book certainly achieves a similar futurology for all interested in comparative and international education as social justice, as through their rich diversity of insights, discussions and perspectives, the authors and editors offer us guidance, and indeed inspiration, towards more socially-just educational futures.
+
+Tony Hall
+
+Professor of Education, School of Education and Director of Educational Design Research for Designing Futures, University of Galway, Ireland; General Editor, Irish Educational Studies @Editor_IES
+
+[tony.hall@universityofgalway.ie](mailto:tony.hall@universityofgalway.ie) [http://orcid.org/0000-0001-6576-9687](http://orcid.org/0000-0001-6576-9687)
+
+© 2023 Tony Hall
+
+https://doi.org/10.1080/00131911.2023.2260686
+
+![LR.R25 fig04](../figures/LR/LR.R25_fig04.jpg)
+
+## The evaluation game: how publication metrics shape scholarly communication,
+
+by Emanuel Kulczycki, Cambridge University Press, 2023, pp. viii+228 pp., £29.99 (hardback, paperback and e-book), ISBN-10: 1009351192, ISBN-13: 978-1009351195, Online ISBN:9781009351218.
+
+Emanuel Kulczycki's excellent new book begins with the uncontentious assessment that scientific research communication is organised, financed, governed and evaluated through
+
+<!-- page 3 -->
+
+publication. As he goes on to assert, the steadily increasing focus on publication as a measure of activity and achievement in academia has led to a highly competitive academic environment that rewards researchers for high-volume publication, preferably in high-impact journals. This in turn creates and sustains a culture of "publish or perish" (p. i). Few will dispute these observations, and many will have developed an acute awareness of the mechanics of publication metrics, institutional performance management systems and government-sponsored research evaluation arrangements. However, what may be less well understood, and where this book adds significant and original insight, is the history of these regimes in different parts of the world and the form of current practices.
+
+As the author demonstrates, the earliest examples of research evaluation can be traced back to Imperial Russia and to the reform movement begun by Tsar Peter the Great. The arrangements he sponsored, with the aim of promoting science and modernising Russia, led to the requirement in the mid-eighteenth century that Russian academics produce an annual research plan followed by an annual progress report. By the mid-nineteenth century these requirements extended to university academics producing one publication every year, a practice that continued throughout the Soviet era. This then led to designation of official journals and a requirement for a copy of each paper to be lodged with central authorities.
+
+Emanuel Kulczycki is a Polish academic who has worked as policy adviser to the Polish Ministry of Science and Higher Education, as well as previously chairing the European Network for Research Evaluation in the Social Sciences and Humanities. He is therefore well placed to comment on the history of research evaluation regimes in the Soviet Union, Russia, post-socialist Eastern Europe and elsewhere. As he deftly demonstrates, a key difference in evaluation regimes is the extent to which they seek to regulate the aims of research at the beginning (ex-ante) or to assess the results at the end (ex-post facto).
+
+Drawing on examples from Australia, China, Norway, Poland, Russia and the United Kingdom, the book also reveals variations in the ways in which research evaluation regimes have been subject to metricisation through the adoption of journal impact factors and individual citation scores. There have also been differences in the economisation of research activity through the linking of publication metrics to economic rewards for individual researchers, institutions, editors, publishers or policy makers. The introduction of a research evaluation regime is not the end of the story, as examples in the book reveal these systems will be adopted, adapted, adulterated, avoided or abandoned in different ways by those playing what the author calls "the evaluation game" (p. 143).
+
+The catalogue of evaluation games documented in this book provides a cautionary tale about the pathologies of performance management systems. From the purchase of authorship to the falsification of data, and from predatory journals to other questionable academic practices, this book demonstrates the effects of Campbell's Law. That law states that the more any quantitative social indicator is used for social decision-making, the more it will distort the social processes it is intended to monitor. The book also shines a light on how the decisions that are made about which journals are included in indexes, like the Web of Science and Scopus, privilege researchers in Anglophone countries and elite institutions. This process amplifies the pre-existing Matthew Effect whereby "the rich get richer and those that have good (in bibliometric terms) track records get more rewards and grants which allow them to produce more papers, thereby generating further incentives" (p. 133).
+
+For Kulczycki the metricisation and economisation of academic science demonstrates the impact of New Public Management and the playing out of the World Systems Theory of capitalism. Through these forces he sees evidence of neoliberal national research evaluation systems replacing or supplementing socialist models. Reflecting on my own experiences of working with research evaluation in a mix of university and policy settings, I feel this
+
+<!-- page 4 -->
+
+![LR.R25 fig05](../figures/LR/LR.R25_fig05.jpg)
+
+account provides a powerful synthesis of much of what has been said in this field in recent years, but I am not sure it provides the whole story.
+
+For me at the core of neoliberalism is a belief in the importance of markets. Markets in goods, services, information and people, enabled through legal regulation, which places money at the heart of exchanges. I see some of this promoted in the research evaluation regimes that this book documents, but I cannot see it in the involvement of other organisations in the purchasing of academic research publications. Although firms pay for research and this funding is monitored in individual, institutional and national research evaluation regimes, it is rarely a primary focus for these systems of research evaluation and, where it is purchased, the results are often not published. What I see instead is an increasing desire by governments to direct academic research activity ex ante in pursuit of economic and social goals.
+
+Kulczycki's book elegantly demonstrates the continuity and spread of attempts by national governments, academic institutions and publishers to construct evaluation regimes to regulate the research work of academics. These approaches are inherently planned systems, whether they seek to define the ends to which academic work is directed or measure its outputs. How private companies and other non-government purchasers evaluate research is less clear. It would be great to see the ways in which these other forms of evaluation operate commented on in the author's next book on this topic. For now, the current title provides an excellent overview of the operation of state, academic institution and publisher-led systems of research publication evaluation.
+
+Huw Morris Institute of Education, UCL's Faculty of Education and Society, London [Huw.morris@ucl.ac.uk](mailto:Huw.morris@ucl.ac.uk)
+
+© 2023 Huw Morris https://doi.org/10.1080/00131911.2023.2264663
+
+![LR.R25 fig06](../figures/LR/LR.R25_fig06.jpg)
+
+## Second Language Literacy Pedagogy: A Sociocultural Theory Perspective,
+
+by Kimberly Buescher Urbanski, Channel View Publications, Bristol, 2023, 184 pp., £89.95 (hardback), ISBN: 9781800417601
+
+The notion of "sufficient proficiency" has commonly been applied in second language (L2) reading research as a criterion to assess whether L2 learners are able to use their first language (L1) ability in L2 reading (Daller & Ongun, 2018; Feinauer et al., 2017). According to the author of Second Language Literacy Pedagogy: Sociocultural Theory Perspective, teachers often believe that learners cannot read authentic texts until they have acquired "enough" L2 knowledge (p. 1), due to the complexity involved in reading texts. However, Urbanski argues that even students who have been judged as having "sufficient" L2 ability are generally unaware of the strategies required to comprehend texts in their first language (p. 4). It therefore seems important to determine how to convert learners' L1 reading knowledge into L2 reading proficiency. Against this backdrop, this book offers a comprehensive framework for a novel pedagogy in L2 literacy to help readers understand and operationalise the concepts and processes involved in reading, comprehending, and analysing texts.
+
+This book aims to offer a blueprint for a new approach to teaching second language literacy and to showcase the outcomes of applying this method in various settings, highlighting its

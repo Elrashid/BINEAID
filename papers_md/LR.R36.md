@@ -1,0 +1,511 @@
+<!-- LR.R36 | source: papers_json/LR.R36/ -->
+
+![LR.R36 fig01](../figures/LR/LR.R36_fig01.jpg)
+
+## **Investigating shifts in publication patterns after launching ** **scientometric evaluation at Egyptian universities: an analysis ** **of submitted research for promotion**
+
+**Mona Farouk Ali****[1](http://orcid.org/0000-0002-2928-6669)**
+
+Received: 8 August 2024 / Accepted: 31 January 2025 / Published online: 17 March 2025 © The Author(s) 2025
+
+## **Abstract**
+
+Scientometric research has proven that citation-based research evaluation systems infuence researchers' practices, providing the starting point for the present study. The objective of this study is to monitor the changes in the publication patterns of promotion candidates in Egyptian universities following the implementation of new promotion regulations by the Supreme Council of Universities. These regulations rely mainly on scientometric evaluation, which encourages international publication in the journals indexed in the Web of Science and Scopus. The requisite data were extracted from 23,153 scientometric reports issued for the promotion applicants (2017–2022), encompassing 160,840 papers submitted to 131 scientifc committees in all subject areas. The study adopted a linear regression model with an interaction term between the examined patterns and years. The fndings revealed a positive response to the incentives of the regulations. There were substantial increases in international publications vs. local ones, publications in the Q1 and Q2 journals vs. other rankings, English publications vs. other languages, and articles vs. other document types. These preliminary results could beneft policy-makers and higher education leaders as they design research evaluation systems and enhance the culture of metrics in Egypt and other Arab and developing countries.
+
+**Keywords** Research evaluation · Scientometric evaluation · International publication · Local publication · Academic promotion · The Supreme Council of Universities · Egypt
+
+## **Introduction**
+
+Nations strive to strengthen their academic standing and exposure by promoting higher education and scientifc research (HE&SR) outcomes. To accomplish this, research evaluation systems (RESs), including promotion and tenure and funding practices, have recently stimulated academics to generate high-quality international publications. These attempts have positively changed publication patterns in several countries (Abramo &
+
+> ^*^ Mona Farouk Ali MONA_MOHAMED@arts.helwan.edu.eg
+
+<!-- page 2 -->
+
+D'Angelo, [2021;](#page-34-0) Bloch & Schneider, [2016](#page-34-1); Inglesi-Lotz & Pouris, [2011](#page-35-0); Ingwersen & Larsen, [2014;](#page-35-1) Kudaibergenova et al., [2022](#page-35-2); Mathies et al., [2020;](#page-35-3) Matveeva & Ferligoj, [2020](#page-35-4)). The RESs have primarily utilised scientometric evaluation based on international citation databases, including the Web of Science (WoS) and Scopus, which provide several indicators, such as the journal impact factor JIF and CiteScore. These systems may also use local databases. Despite their relatively recent adoption as an evaluative technique, metrics have been widely applied (Demetrescu et al., [2020](#page-34-2); Deutz et al., [2021;](#page-34-3) Oswald,[ 2007;](#page-35-5) Reymert, [2021](#page-36-0)). This is due to the increasing need for the audit of public funds allocated to research, the necessity to manage the research strategies of HR&SR institutions, and the growing provision of immediate "big data" on research usage (de Rijcke et al., [2016;](#page-34-4) Wilsdon, [2015)](#page-36-1). It has been recommended that metrics are essential to evaluation exercises, as they complement the peer-review procedure with objective, easy, and reliable data that help justify the experts' judgements, thereby increasing the explicitness and transparency of evaluations and decreasing the potential for bias in decision-making (Ball & Tunger, [2006](#page-34-5); Deutz et al., [2021;](#page-34-3) Hammarfelt & Rushforth, [2017](#page-34-6); Moed,[ 2017)](#page-35-6).
+
+In Egypt, the HE&SR sector experienced substantial reforms due to political transformations when two successive popular revolutions occurred in January 2011 and June 2013. These changes promoted the alignment of RESs with global trends, the most important of which is scientometric evaluation, which has been applied to promotion applicants from Egyptian universities afliated with the Supreme Council of Universities (SCU), a governing authority under the supervision of the Ministry of HE&SR. Since late 2016, this evaluation has become a requirement stipulated in the academic promotion regulations issued by the SCU. Candidates for professorships or associate professorships must acquire a scientometric report via a new government service presented by the Digital Libraries Unit at the SCU for faculty and scientifc committees for promotion. The report classifes local and international channels in which the papers of candidates are published. Since 2019, the promotion regulations have included a mandatory standard list of points that scientifc committees use to grade international journals according to their classifcation in the scientometric reports, as elaborated later. Formerly, each committee determined journal points using its own criteria, potentially leading to bias and a lack of uniformity.
+
+In this context, scientometric evaluation is a unifed tool that ensures objectivity and integrity and reduces human interference in promotion decisions. Another advantage of this evaluation is that it incentivises faculty to produce international publications, as the recent regulations award higher points to international journals than to local journals. Using Clarivate's InCites, a prior study revealed a positive efect of scientometric evaluation on Egypt's international publications, raising Egypt's standing in InCites from 40 in 2016 to 28 in 2021 (Ali, [2024](#page-34-7)). However, this analysis did not compare international publications to local ones or Arabic papers (the native language) to English papers. To bridge this gap, the current research analyses scientometric reports over 5 years to capture data refecting the changing publication patterns across the subject areas served by the scientifc committees. Accordingly, the study investigates the extent to which the publication patterns of faculty in Egypt changed after the launch of the scientometric evaluation. The following hypotheses are formulated:
+
+RH1: There is a signifcant increase in international publications compared with local publications.
+
+RH2: There is a signifcant increase in publications in WoS journals compared with Scopus journals.
+
+![LR.R36 fig02](../figures/LR/LR.R36_fig02.jpg)
+
+<!-- page 3 -->
+
+RH3: There is a signifcant increase in publications in journals classifed under the quartiles of Scopus (SJR/CiteScore) compared with journals with insufcient citations to be assigned to a quartile.
+
+RH4: There is a signifcant increase in Q1 and Q2 publications in WoS journals compared with other WoS rankings.
+
+RH5: There is a signifcant increase in publications in English compared with other languages.
+
+RH6: There is a signifcant increase in articles compared with other document types.
+
+## **Literature review**
+
+## **Overview**
+
+RESs are afected by radical reforms, whether in the Global North or South, such as the democratic transition in Poland (Korytkowski & Kulczycki, [2019a](#page-35-7)) and Egypt's anticorruption (Ali, [2024)](#page-34-7). RESs are also shaped by governing HE regulations such as German university autonomy and academic sovereignty (Schneijderberg et al.,[ 2022](#page-36-2)) or science policy developments such as in Kazakhstan (Amirbekova et al., [2022](#page-34-8)) and Ukraine (Abramo et al., [2023)](#page-34-9). These shifts generally yield novel evaluation techniques, which rely mostly on bibliometrics. Despite the merits of this evaluation and its positive impact on publication patterns, as highlighted below, it imposes requirements that researchers may not be able to aford, especially in developing countries, such as the "publish or perish" policy in Uzbekistan (Eshchanov et al., [2021)](#page-34-10) and the WoS and Scopus publication requirements in Kazakhstan (Kudaibergenova et al., [2022;](#page-35-2) Kuzhabekova & Ruby, [2018](#page-35-8)). The reasons are the inability of researchers to pay for publishing due to their low salaries and the insufcient support provided by their weak economies (Eshchanov et al.,[ 2021](#page-34-10); Pajić et al.,[ 2019](#page-35-9)), unlike their counterparts in developed countries. As a result, certain adverse consequences can arise, including publishing in predatory and fraudulent journals or academic misconduct (Eshchanov et al., [2021)](#page-34-10). Another challenge is the "epistemological injustice" (Rowlands & Wright, [2022)](#page-36-3) that social sciences and humanities (SSH) researchers face when fulflling scientometric evaluation prerequisites that confict with the publication patterns of these disciplines, such as writing in national languages, addressing national issues, and publishing in venues other than journal articles (Engels et al.,[ 2018](#page-34-11)). This suggests the concept of "citizen bibliometrics"—the ethical and careful use of metrics without harming the community being evaluated (Hammarfelt & Rushforth, [2017)](#page-34-6). International initiatives have also emphasised the concept of "responsible metrics," whose most signifcant dimensions are transparency and diversity, ensuring the appropriate use of quantitative measurements in research evaluation (DORA, [2012](#page-34-12); Hicks et al., [2015;](#page-35-10) Wilsdon, [2015](#page-36-1)). Considering these aspects, scientometricians have investigated scientometric evaluation implementation and implications for publication patterns.
+
+## **The intensity of international publications as a refection of RESs**
+
+Owing to the globalisation of national universities, publication in the WoS and Scopus has often been required for promotion and tenure or funding. This has prompted scientists to produce more international publications. Numerous studies across all disciplines have corroborated this result (Amirbekova et al., [2022](#page-34-8); Korytkowski & Kulczycki,
+
+![LR.R36 fig03](../figures/LR/LR.R36_fig03.jpg)
+
+<!-- page 4 -->
+
+[2019a;](#page-35-7) Kudaibergenova et al., [2022](#page-35-2)). Although this requirement is not mandatory, Ali ( 2024) 's analysis explored a signifcant increase in the international publications of WoS in Egyptian universities. Focusing on SSH, Korytkowski and Kulczycki ([2019b)](#page-35-11) showed that the publication counting approaches in Poland did not afect these felds, in contrast to the hard sciences, owing to disparities in publication patterns between both. This aligns with the fndings of Pajić et al. ([2019)](#page-35-9), who revealed that Serbian SSH authors were more oriented towards national publication and citation patterns. In contrast, sociologists responded to Italian RESs and published more research in Scopus (Akbaritabar et al.,[ 2021)](#page-34-13). A German investigation further revealed a signifcant rise in SSH research in the WoS and recommended additional strategies for improving the international visibility of this feld (Gumpenberger et al., [2016](#page-34-14)).
+
+## **Changes in document types and languages**
+
+Policies and RESs have also infuenced publication languages and types. Some works reported a substantial rise in articles, especially in SSH. Articles in this discipline experienced a 37% rise in Denmark (Ingwersen & Larsen, [2014](#page-35-1)), a result afrmed later by Deutz et al. ([2021](#page-34-3)), while the growth was 24.5% in South Africa (Inglesi-Lotz & Pouris, [2011](#page-35-0)). At National Taiwan University, the article proportions signifcantly differed, ranging from 20.8 to 95.4% (Chang & Su, [2022](#page-34-15)). Peer-reviewed articles represented 64% of all Finnish publications in 2012 and grew steadily to more than 69% in 2016 (Mathies et al., [2020](#page-35-3)). Additionally, while German scholars prioritise articles over books (Schneijderberg et al., [2022)](#page-36-2), fve European countries continue to rely on books (Engels et al., [2018](#page-34-11)). This article spike is undoubtedly a consequence of the growing trend towards international journals. In addition, the number of articles written in the English language has grown because it is the primary route to international visibility. The Ukrainian study by Abramo et al. [(2023](#page-34-9)) revealed a signifcant shift in publishing in English journals in response to the WoS and Scopus requirements, an earlier-mentioned result by Chang and Su ([2022](#page-34-15)); Gumpenberger et al. ([2016](#page-34-14)); and Mathies et al. ([2020](#page-35-3)).
+
+## **Analysing promotion and tenure reports**
+
+Scholars have rarely attempted to analyse evaluation reports related to promotion procedures because they are confdential and hard to access. These reports often use metrics to evaluate the publication outlets or nominees themselves. Marzolla ([2016](#page-35-12)) examined systematic performance in the Italian National Scientifc Qualifcation reports, whereas Hylmö ([2018)](#page-35-13) relied on Swedish expert assessments in economics to monitor the shift from qualitative peer review evaluations to publication volume in the highest international journals. Moreover, Pajić et al. [(2019)](#page-35-9) screened promotion and tenure reports submitted at a Serbian university to discover publication and citation behaviour in SSH. In Poland, Kulczycki ([2019](#page-35-14)) targeted self-presentation documents across various promotion procedures to analyse candidates' use of scientometric indicators. Most recently, Madera et al. ([2024](#page-35-15)) verifed the validity and objectivity of promotion and tenure external review letters and evaluation elements, including metrics, at Carnegie-classifed R1 universities (USA).
+
+![LR.R36 fig04](../figures/LR/LR.R36_fig04.jpg)
+
+<!-- page 5 -->
+
+## **Background**
+
+Academic promotion procedures are implemented based on two main pillars in Egyptian universities. The frst pillar is Law No. 49 of 1972 and its subsequent amendments regulating Egyptian universities ("The University Organisation Law (Egypt)," [1972)](#page-36-4). According to this law, lecturers holding PhDs are eligible to apply for an associate professorship after remaining in their positions for at least 5 years, and likewise, associate professors can apply for a full professorship after serving for at least 5 years. Promotion is awarded after completing the required research and performing the scientifc, teaching, and community activities. Associate professorships and full professorships are considered tenured posts in Egyptian universities. Conversely, demonstrator and teaching assistant positions are terminated after a maximum of 5 years from the appointment date if the demonstrator fails to hold a master's degree and the teaching assistant fails to have a PhD. These posts are substituted with non-academic jobs at the university. Faculty members who fail to be promoted to full professors or associate professors are not dismissed; instead, they remain in their current positions and have the opportunity to reapply several times after a minimum of one year from the previous application, provided they submit the research required to achieve the scores necessary for promotion. The second pillar is the unifed academic promotion regulation established by the Supreme Committee of Scientifc Committees afliated with the SCU. This national regulation is revised every 3 years, coinciding with the start of each new round of convening scientifc committees to promote faculty. The regulation details the formation procedures of scientifc committees for promotion and the criteria for selecting their members and external reviewers. They also describe the candidates' evaluation methods. The evaluation includes three basic items: scientifc productivity (5–8 papers) (70 points), academic activities (teaching, environmental service, and scientifc activity) (20 points), and a presentation about the state of the art in the applicant's feld (for an associate professorship) or a vision for developing the applicant's feld (for a full professorship) (10 points). Each paper is evaluated according to the following equation: [the score of the journal or proceedings (10 points or less)×the score of participation (weighted by the number of co-authors and the order of their names on the paper) (1 point or less)×the score graded by 3 experts (100 points or less)] /50.
+
+Since the 12th round (2016–2019), bibliometric indicators have been used for the frst time, and the scientometric report has been a mandatory document for submitting promotion applications (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities, [2016](#page-35-16)). The report is generated by referencing WoS and Scopus, as it records the classifcation of international journals and proceedings papers where applicants' works were published. For each source, the title, ISSN, ISBN (in the case of books and book chapters), publisher, and classifcation (international or local) are included. The international journals in this report indicate that they are indexed in the WoS and/or Scopus (including Egyptian journals), whereas the local journals (whether Egyptian or foreign journals) indicate that they are nonindexed. For each international journal, the data include the values of JIF and/or Scimago (SJR), the quartiles (Q1, Q2, Q3, and Q4, or only "indexed" in the case of a journal with no quartile), and the rank of the journal in its subject category. The data are extracted according to the publication year. In that round, the scientifc committees were responsible for grading the journals according to their classifcation in the scientometric report.
+
+In the 13th round (2019–2022), major changes have occurred in the promotion regulation (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities,
+
+![LR.R36 fig05](../figures/LR/LR.R36_fig05.jpg)
+
+<!-- page 6 -->
+
+[2019](#page-35-17)). First, scientifc committees have adhered to a mandatory list of scores for each quartile on WoS or Scopus (Appendix 1). Second, the regulation has used the CiteScore indicator instead of SJR (SJR remains used for reapplying candidates who failed to receive a promotion on their initial application during the 12th round). Third, the regulation has exempted papers published in the WoS Q1 and Q2 journals from expert review. Fourth, a list of grades has been imposed for local and international proceedings papers (Appendix 2), as the committee is responsible for choosing the appropriate grade from the regulation based on the classifcation of this source in the scientometric report (International/Local). Fifth, seven uniform criteria have been adopted for evaluating local journals (Appendix 3). The regulation of the 14th round (2022–2025) also incorporated these changes (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities, [2022](#page-35-18)). The evaluation of other outlets, such as books or book chapters, is not mentioned in these regulations and is delegated to each committee according to its standards. The most supportive factor for the scientometric report service of the Digital Libraries Unit is subscribing to WoS and Scopus via the Egyptian Knowledge Bank, the national digital library, which provides free access to international databases. As described below, the rich data extracted from the scientometric reports helped to reveal the changes in the publication patterns of Egyptian faculty.
+
+## **Data and methods**
+
+## **Data source**
+
+This investigation analysed the scientometric reports issued over a 5-year period from 9/2017 to 9/2022, which included 2 years (9/2017–9/2019) of the 12th round, since these reports became obligatory, and the entire 13th round (9/2019–9/2022[)1](#page-5-0) . Before the scientometric evaluation, there was no centralised repository for publications submitted by promotion applicants. Afterwards, the Digital Libraries Unit was the sole recipient of these submissions to perform this evaluation. Accordingly, the lack of promotion publications before this evaluation prevented comparisons between before and after the new intervention. Additionally, the PDF format of the reports, hosted by a computing cloud, made it difcult to collect data, necessitating manual analysis of these reports to recognise the applicants' publication patterns. Almost 2 years were spent gathering data from 23,153 reports, which included 160,840 papers submitted to the 131 scientifc committees. The author received much support from the SCU General Secretary (2019–2022) to conduct this investigation.
+
+## **Processing data for analysis**
+
+The data were collected in spreadsheets. One sheet was assigned to each year, and each row contained data that represented each publication pattern (if any) for a single report as follows:
+
+<!-- page 7 -->
+
+Report No./Committee name/Subject area/classifcation (sub-subject area)/No. of local publications (all types)/No. of international publications (all types)/No. of WoS publications (Q1, Q2, Q3, Q4, indexed without quartile (Emerging Sources Citation Index (ESCI))/No. of Scopus publications with quartiles (SJR/CiteScore), No. of Scopus publications without quartile/No. of articles (International/local)/No. of proceedings papers (International/local)/No. of book chapters (International/local)/No. of books (International/ local)/No. of patents/No. of publications according to languages (Arabic, English, other).
+
+The Scopus scheme, which includes subject areas and their classifcations, was the most appropriate and concise method for classifying scientifc committees. As shown in Appendix 4, these committees were classifed using all Scopus subject areas and most of their classifcations. This scheme classifes the humanities and arts under the social sciences. Concerning the Scopus indicator, in the 12th round, SJR was used in the scientometric report without identifying the quartile, whereas the following round utilised the CiteScore with its four quartiles. To unify the Scopus data, the journal quartiles were excluded. To perform statistical analyses, totals were gathered for each classifcation and then collected by their subject areas each year.
+
+## **Statistical models**
+
+Statistical analysis was performed via the R programming language (v.4.3) (R Core Team, [2024)](#page-36-5) and Microsoft Excel 365 (2021). Counts and growth rates (GRs) of publications were used to summarise the data. The study adopted a linear regression model with an interaction term between the examined publication patterns (e.g., quartiles, document types, and languages) and years. This model allowed for assessing the linear trends of GRs and whether these trends difered between the publication patterns. The dependent variable is the GR of each year relative to the baseline year 2017/2018. The GRs were computed to ensure a fair comparison, as the values of the succeeding years were standardised relative to the baseline value to represent the relative increase. The GR was calculated as follows:
+
+```
+GR at year x = number of publications in year x − number of publications in 2017/2018
+ number of publications in 2017/2018
+```
+
+The independent variables in this model are the linear term for the time, the publication patterns, and the interaction between both variables. Additionally, the overall GR was calculated as follows:
+
+```
+Overall GR = number of publications in year 2021/2022 − number of publications in 2017/2018
+ number of publications in 2017/2018
+```
+
+The following formula was then used to represent the model:
+
+where: GR *i*, *t* = *𝛽*0 + *𝛽*1(Time *t*) + *𝛽*2 (publication pattern *i*) + *𝛽*3 (Time t × publication pattern i) + *𝜀**i*, *t*
+
+(GR *i,t*) is the dependent variable, representing the growth for publication pattern *i* at time *t.*
+
+*β*0 is the intercept term.
+
+*β*1 is the coefcient for the linear term for time.
+
+*β*2 is the coefcient for the publication pattern.
+
+*β*3 is the coefcient for the interaction term between time and publication pattern.
+
+![LR.R36 fig06](../figures/LR/LR.R36_fig06.jpg)
+
+<!-- page 8 -->
+
+*ϵi,t* is the error term accounting for the variation in publication numbers not explained by the model.
+
+This model setup was critical for identifying whether the GR was consistent across the pattern subgroups or if one subgroup exhibited a stronger linear trend. By assessing the coefcient β3, which represents the interaction between the pattern and year, it was possible to identify how and the extent to which the subgroups impacted the linear trends in publications. The signifcance of the relationship between the year and the GR was determined by the p value associated with β; a *p* value<0.05 confrmed a signifcant trend over the years. The model's performance was evaluated via *R*^2^ , which measures the proportion of variance in the dependent variable that was predictable from the independent variables. A higher *R*^2^ value indicated that the model explained a larger portion of the variability in the GR or growth relative to the baseline.
+
+The linear regression model relies on several key assumptions tested to ensure the model's validity (Poole & O'Farrell, [1971](#page-36-6)). The linearity assumption was checked by plotting residuals versus ftted values and scatter plots between each independent variable and the dependent variable, confrming a linear relationship. The normality of the residuals was also evaluated via *Q–Q* plots. Any outliers were removed. Log transformation and regression using ranks were attempted if the residuals were not normally distributed, and the results were compared to those of the original untransformed model. If no diference was observed, the results from the untransformed model were used to enhance interpretability. The Durbin-Watson test was used to evaluate the independence of the residuals, which indicated no signifcant autocorrelation. The assumption that residuals have constant variance across all levels of the independent variables was verifed by plotting residuals versus ftted values showing no patterns implying heteroscedasticity. Furthermore, multicollinearity among the independent variables was checked via the variance infation factor (VIF), with all the VIF values found to be below the threshold of 10, refecting no signifcant multicollinearity. The model's correct specifcation was ensured by including all relevant predictors based on theoretical justifcation and performing the Ramsey RESET test to assert the absence of omitted variable bias. Together, these tests support the robustness and reliability of this model.
+
+For a more detailed comparison between publication patterns, it was crucial to apply the concept of estimated marginal means (EMMs) with 95% confdence intervals (CIs), an appropriate technique for models with interactions (Searle et al.,[ 1980](#page-36-7)). Here, the means of each publication pattern were adjusted to account for variations introduced by other factors in the model, providing a fair comparison across these patterns. This was accomplished via the EMMs package in R, which estimates the marginal means based on the previously ftted linear regression model. The EMMs function computes these means from the ftted regression model with their standard errors and CIs, allowing for rigorous comparisons between diferent time points or conditions (Lenth et al.,[ 2023](#page-35-19)). This enabled the testing of the statistical signifcance of the linear trend. EMMs were also employed to statistically compare the linear trends (contrasts) between the patterns via pairwise comparisons of linear trends. The EMMs were calculated to obtain the adjusted means of each pattern, accounting for other factors in the model. The theoretical formula for EMMs in this model is as follows:
+
+where: EMM *i,t* represents the estimated marginal mean for publication pattern *i* at time *t*. *β*0, *β*1, *β*2, and *β*3 are the estimated coefcients from the linear regression model. EMM *i*, *t* = *𝛽*0 + *𝛽*1(Time t) + *𝛽*2(publication pattern i) + *𝛽*3(Time t × publication pattern i)
+
+To compare the linear trends between two publication patterns *i* and *j*, the pairwise comparisons of the EMMs were performed using the following formula:
+
+![LR.R36 fig07](../figures/LR/LR.R36_fig07.jpg)
+
+<!-- page 9 -->
+
+$$
+\Delta i, j = (\beta 2 \text{ publication pattern i}) + \beta 3 \text{ (Time } t \times \text{publication pattern i}) - (\beta 2 \text{ (publication pattern j)} + \beta 3 \text{ (Time t} \times \text{publication pattern j)})
+$$
+
+where: \Delta i, j is the difference in the linear trends between publication patterns i and j.
+
+The terms \beta2 (publication pattern i) and \beta2 (publication pattern j) represent the main effects of the publication patterns.
+
+The terms \beta3 (Time t \times publication pattern i) and \beta3 (Time t \times publication pattern j) represent the interaction effects between time and publication patterns.
+
+The statistical significance of the pairwise comparisons was assessed using hypothesis testing. The null hypothesis for the pairwise comparison is:
+
+$$ H0: \ \Delta i, j=0 $$
+
+The test statistic was calculated as follows: t = \frac{\Delta i,j}{\text{var}(\sqrt{\Delta i,j})} Where Var (\Delta i,j) is the variance of the difference in linear trends. The p value was then obtained to determine the statistical significance. Hypothesis testing was performed at a 5% level of significance.
+
+## Results
+
+This section begins with the overall growth in publications submitted to the scientific committees after launching the scientometric evaluation and then reports the results related to the study's hypotheses.
+
+## Overall growth according to subject areas
+
+Table 1 and Fig. 1 reveal a remarkable upwards trend in publications submitted to scientific committees across all subject areas and classifications. The number of publications increased substantially from 17,483 (2017/2018) to 42,511 (2021/2022). This is attributed primarily to the twofold increase in the number of candidates from 2628 to 5950. Moreover, there was significant growth in publications between 2017/2018 and 2018/2019, followed by 2 years of a plateau, then a substantial rise in 2021/2022. The year 2018/2019 was the last year of the 12th round (2016–2019), while 2021/2022 represented the last year of the 13th round (2019–2022). The final year of any promotion round usually experiences an extensive influx of applicants before launching the new subsequent round, which typically has more challenging requirements for promotion than those of the previous round. Compared with other subject areas, health sciences recorded the greatest volume and considerable distinctions, with medicine being the top classification. Nevertheless, the social sciences had the highest GR (168%) among other subject areas. The overall GR (approximately 143%) was significant (p value < 0.001), as proven by the EMMs analysis. However, there was no significant difference in the GR between the subject areas throughout the period (p values > 0.05 for all comparisons); that is, all of them experienced consistent growth.
+
+## International publications compared with local publications
+
+Unexpectedly, all the international publications' GRs outperformed those of the local publications and were also significant in contrast to their local counterparts, as indicated by the *P *
+
+![LR.R36 fig08](../figures/LR/LR.R36_fig08.jpg)
+
+<!-- page 10 -->
+
+![LR.R36 fig09](../figures/LR/LR.R36_fig09.jpg)
+
+<!-- page 11 -->
+
+linear trend. The p value for comparison illustrates substantial differences between the international publications and the local ones in all subject areas other than the life sciences (p value for comparison=0.209). Surprisingly, the social sciences presented the greatest international publications' GR (366%), although their volumes were considerably smaller than those of other areas. Conversely, as predicted, far fewer local publications were produced in these areas than in the social sciences (Table 2 and Fig. 2). The results of the linear regression analysis identified several significant predictors for the GRs, as depicted in Table 3. The time predictor showed a positive GR (\beta=78.86), with a 95% CI ranging from 63.25 to 94.47 and a significant p value of less than 0.001, demonstrating that the international publications increased significantly throughout the period. The interaction term between time and publication pattern was also substantial (\beta=-66.19, 95% CI-88.27 to -44.11, p<0.001). This suggests that the local publications' GR was significantly slower than that of international publications over time. The model explained a considerable portion of the variability in publication growth, with an R^2 value of 0.428 and an adjusted R^2 value of 0.419.
+
+For this pattern, tracking the change each year is necessary to recognise the start of the actual change after the scientometric evaluation. Appendix 5 details this regression across years. The coefficients from 2018/2019 to 2021/2022 revealed significant increases in the international publications' GRs relative to the baseline (2017/2018). There was also a progressively larger increase each subsequent year, with the growth in 2021/2022 being the most pronounced at 232.24%. The GRs were significant in all years (p < 0.05). In the baseline year, the coefficient comparing local with international publications was insignificant (p value = 1.000). The interaction terms between year and publication pattern showed that the differences between the local publications and international ones changed over time. The interaction terms had no significance (p values of 0.580 and 0.317, respectively) in 2018/2019 and 2019/2020. In contrast, for 2020/2021 and 2021/2022, the interaction terms were significant (\beta = -109.80\%, p value = 0.023, and \beta = -149.54, p value = 0.003, respectively), i.e., the growth significantly differed between both patterns in these years. The negative coefficients indicated that local publications' growth was significantly lower than that of international publications. The R^2 value of 0.740 indicated that the model explained approximately 74% of the variability in publication volume, indicating a strong model fit. The adjusted R^2 of 0.662 accounted for the number of predictors in the model, indicating general effectiveness, but it did not capture all the variability.
+
+## WoS journals compared with Scopus journals
+
+As observed in Table 4 and Fig. 3, although the number of Scopus publications was greater than that of WoS publications all years across subject areas, the GRs of the second group were higher than those of the first group except for the social sciences. That is, there was a general increasing trend towards publishing in WoS journals. Furthermore, the overall international publications in WoS and Scopus had significant GRs (p value <0.001). This holds across all subject areas except for the life sciences. However, there was no significant difference between the two databases (all p values for comparisons >0.05). Table 5 shows that the time coefficient was 63.18% (95% CI 11.29 to 115.08, p value =0.017). This reflects significant growth, increasing by approximately 63% each year. The interaction term between time and database was estimated at -3.34 (95% CI -76.74 to 70.05, p value =0.928). This nonsignificant interaction term implies that the growth differences between the outputs in the two databases were insignificant and had no change over time, even though there was a significant positive trend in both. The values of R^2 (0.056) and the adjusted R^2 (0.041) were
+
+![LR.R36 fig10](../figures/LR/LR.R36_fig10.jpg)
+
+<!-- page 12 -->
+
+![LR.R36 fig11](../figures/LR/LR.R36_fig11.jpg)
+***Fig. 1** The growth of publications submitted to scientific committees for all subject areas (2017/2018–2021/2022 (*x*-axis)). **a** The absolute number of publications (*y*-axis) increases over the 5 years. **b** The GRs of publications relative to the baseline year 2017/2018 (*y*-axis) show how the publication growth changed proportionally over time compared with the baseline*
+
+low, meaning that the model interpreted only a small fraction of the variability in publication growth. This pattern also requires measuring variations to determine whether there was an actual shift in the years following the scientometric evaluation. As demonstrated in Appendix 6, the intercept was 0.00, with a 95% CI of -67.40 to 67.40 and a p value of 1.000, indicating no significant difference in the international publications of the WoS and Scopus databases during the baseline year of 2017/2018. In the subsequent years, the growth coefficients demonstrated a clear upwards trend. The coefficients indicate a nonsignificant increase in 2018/2019 (p values > 0.05) and significant growth in the following years (p values \le 0.001). The interaction terms between year and database (WoS vs. Scopus) were insignificant (p values > 0.05). That is, there were no significant differences in growth between the two databases across these years. The model explained approximately 38-41% of the variability in this pattern because the R^2 and adjusted R^2 values were 0.410 and 0.380, respectively.
+
+## Journals classified under the quartiles of Scopus (SJR/CiteScore) compared with journals without quartiles<sup>2</sup>)
+
+The two Scopus rankings adopted by this study showed notable growth trends. Table 6 and Fig. 4 show that far fewer international publications were published in Scopus journals without quartiles (indexed journals) than in other journals with quartiles (SJR/CiteScore). Nonetheless, the first ranking achieved higher and significant GRs across all
+
+<!-- page 13 -->
+
+![LR.R36 fig12](../figures/LR/LR.R36_fig12.jpg)
+
+<!-- page 14 -->
+
+![LR.R36 fig13](../figures/LR/LR.R36_fig13.jpg)
+***Fig.** **2 **The growth of the international publications compared with the local publications according to subject areas (2017/2018–2021/2022 (*x*-axis)). **a** The number of international and local publications (*y*-axis). **b** The GRs of the international and local publications relative to the baseline year 2017/2018 (*y*-axis). Overall, all subject areas exhibit fuctuations in the local publications and an uptrend in the international publications*
+
+β represents the GR Signifcance level (*α*)=0.05 ×refers to the interaction
+
+subject areas, except for the social sciences (*p* value>0.05). This contrasts with the second ranking, which had lower and insignifcant GRs. The overall diference between the two rankings was substantial (*p* value for comparison<0.05), but they did not difer signifcantly from each other across the subject areas (*p* value for comparison>0.05) other than the health sciences. The relative increase of the SJR/CiteScore journals was signifcantly lower than that of the indexed journals. The coefcient for the interaction term (time×SJR/CiteScore vs. indexed) was−171.28 (95% CI−291.43 to−51.13, *p*=0.005), refecting a greater increase in the indexed journals than in the other journals for each one-year increase (Table [7)](#page-18-1).
+
+![LR.R36 fig14](../figures/LR/LR.R36_fig14.jpg)
+
+<!-- page 15 -->
+
+## **WoS journals classifed under Q1 and Q2 compared with other WoS rankings**
+
+Similar to Scopus, WoS-indexed journals (ESCI journals) reached the highest GRs overall and across the subject areas, except for the physical and social sciences. The GRs of international publications in Q2 and Q1 journals ranked second and third, respectively, overall and in the life sciences. Conversely, in the health sciences, the GRs of publications in Q1 and Q2 ranked second and third, respectively. The Q2 and Q1 journals ranked first and third in the physical sciences, whereas the top two ranks were Q2 and Q3, respectively, in the social sciences. All the GRs were significant other than those of the publications in the Q3 and Q4 journals in the life and physical sciences. (Table [8 ](#page-20-0)and Fig. [5)](#page-22-0). As shown in Table [9,](#page-22-1) the GR of publications in the WoS-indexed journals increased significantly compared with those in the Q3 and Q4 journals (*p* value < 0.05). Additionally, the increase in GR was significantly greater for the Q2 journals than for the Q4 journals (*p* value = 0.05).
+
+## **English compared with other languages**
+
+As illustrated in Table [10 ](#page-23-0)and Fig. [6](#page-24-0), English publications dominated in terms of the number of publications across all subject areas except in the social sciences, where Arabic was the predominant language. The other languages presented far lower volumes and less growth, with no significance. Among the overall GRs, the GR of Arabic publications was the highest (179%) but was insignificant, and this held across all subject areas other than the social sciences (GR: approximately 177%, *p* value < 0.05). In contrast, all English publications had significant GRs (*p* value < 0.05), with the highest GR observed in the health and social sciences (approximately 143%). Nevertheless, the volume of publications in the health sciences noticeably outpaced those in the social sciences and other areas. No comparisons were performed across languages, as a significant trend was only present for English publications (*p* value < 0.05).
+
+## **Articles compared with other document types**
+
+Overall, articles (GR=152.04%, *p* value=0.005) and proceedings papers (GR=4.13%, *p* value=0.05) showed signifcant linear growth, whereas other document types did not. Except for life sciences, the number of articles substantially increased across all subject areas; thus, articles had a dominant increasing trend. The social sciences hit the highest articles GR (approximately 194%). In the case of proceedings papers, only the life sciences achieved a signifcant increase. No comparisons were performed across document types, as signifcant growth was mostly found for articles (*p* value<0.05), as shown in Table [11](#page-25-0) and Fig.[ 7.](#page-26-0)
+
+Tables [12 ](#page-27-0)and [13](#page-28-0) summarise the findings based on the study hypotheses. Remarkably, there was a significant increase in the international publications relative to the local publications; the local publications did not rise considerably. Although there was growth in publications in both WoS and Scopus for most subject areas, there was no difference between them. The publications in Scopus-indexed journals increased relative to those in SJR/CiteScore journals. Moreover, the publications in the WoS Q1, Q2, and indexed journals achieved a significant increase in all subject areas, and the relative growth was experienced by indexed vs. Q3 and Q4 journals as well as Q2
+
+![LR.R36 fig15](../figures/LR/LR.R36_fig15.jpg)
+
+<!-- page 16 -->
+
+![LR.R36 fig16](../figures/LR/LR.R36_fig16.jpg)
+
+<!-- page 17 -->
+
+![LR.R36 fig17](../figures/LR/LR.R36_fig17.jpg)
+***Fig.** **3 **The growth of the WoS publications compared with the Scopus publications, according to subject areas (2017/2018–2021/2022 (*x*-axis)). **a** The number of publications in the WoS and Scopus databases (*y*-axis). **b** The GRs of publications in WoS and Scopus relative to the baseline year 2017/2018 (*y*-axis). This fgure generally refects the superiority of the GRs of the WoS publications over those of Scopus publications, although there are no signifcant diferences in the growth between them*
+
+β represents the GR Signifcance level (*α*)=0.05
+
+×refers to the interaction
+
+vs. Q4 journals. Finally, English publications in all subject areas and articles in most areas increased significantly.
+
+## **Discussion**
+
+This study hypothesised that the incentives introduced in the latest promotion regulations adopting scientometric evaluation would positively infuence publication patterns among Egyptian faculty members. This belief stems from earlier eforts showing that scientifc
+
+![LR.R36 fig18](../figures/LR/LR.R36_fig18.jpg)
+
+<!-- page 18 -->
+
+![LR.R36 fig19](../figures/LR/LR.R36_fig19.jpg)
+
+<!-- page 19 -->
+
+![LR.R36 fig20](../figures/LR/LR.R36_fig20.jpg)
+***Fig.** **4 **The growth of publications according to the two Scopus rankings for all subject areas (2017/2018– 2021/2022 (*x*-axis)). **a** The numbers of publications by Scopus rankings (*y*-axis). **b** The GRs of publications by Scopus rankings relative to the baseline year 2017/2018 (*y*-axis). The GRs of the indexed journals fuctuated across the years, with an increasing trend compared with those of other journals (SJR/Cite Score)*
+
+β 2 represents the growth rate
+
+Signifcance level (*α*)=0.05
+
+policies and RESs developed to improve research quality and international visibility altered research practices (Abramo et al., [2023;](#page-34-9) Akbaritabar et al., [2021](#page-34-13); Gumpenberger et al., [2016;](#page-34-14) Korytkowski & Kulczycki, [2019a)](#page-35-7). Similarly, the present exploratory fndings suggest that promotion regulations have increased the number of publications and signifcantly redirected faculty publication patterns across all subject areas, representing a milestone in the history of Egyptian universities. However, other auxiliary stimuli have certainly supported Egyptian researchers in increasing international publications and changing their publication behaviour (Ali, [2024)](#page-34-7). The most important stimulus is the Egyptian Knowledge
+
+![LR.R36 fig21](../figures/LR/LR.R36_fig21.jpg)
+
+<!-- page 20 -->
+
+Bank, which provides access to international databases including WoS and Scopus. This digital library helps researchers gather prestigious references and verify journal classifcation before publication. International publishing centres at Egyptian universities also disseminate scientometric culture to all academic stakeholders and provide courses on international publication.
+
+The models developed herein confrmed that the signifcant shifts in publication patterns align with promotion regulations' inducements. Assigning higher scores to research published in international journals is the most prominent incentive. The international publications underwent signifcant growth in all the years relative to the baseline year of 2017/2018. Moreover, the interaction terms indicated considerable overall variation between local and international publications during the last two years of the period, as the growth of local publications slowed and declined dramatically compared with that of international publications, implying that scientometric evaluation began to bear fruit in 2020/2021. Similar results have been reported in other nations, including Finland (Mathies et al., [2020)](#page-35-3) and Ukraine (Abramo et al., [2023)](#page-34-9), where RES stimuli led to substantial increases in international publications. Confrming the success of this evaluation in the Egyptian universities, the number of international publications across all subject areas increased signifcantly, whereas the number of local publications did not, with signifcant disparities between the two in all subject areas except the life sciences. Despite being extremely dependent on local journals, the social sciences presented the highest GR of overall international publications (366%), as did the GRs of publications in both Scopus (431%) and WoS (428%). This is consistent with previous fndings revealing the outperformance of these sciences in the WoS, with the highest GR of 47% in 2021, after adopting this evaluation in the Egyptian universities (Ali, [2024](#page-34-7)). Hence, there was a positive response from these sciences, which typically have fewer international publications than other subject areas, as well as an intention to abandon the local pattern and move towards the international pattern to reap the promotion regulation**s** advantages. Scientists were divided regarding this transformation. Gumpenberger et al. [(2016](#page-34-14)) and Mathies et al. ([2020)](#page-35-3) concluded that using metrics positively infuences international publications in the social sciences, whereas others have indicated that this usage has no signifcant efect and that there is still adherence to local publications (Korytkowski & Kulczycki, [2019b](#page-35-11); Pajić et al., [2019](#page-35-9)). It is argued that bibliometrics were developed for the hard sciences and are unsuitable for the soft sciences, resulting in unfair research evaluations. Researchers in this feld also lack faith in the globalisation of science because the social sciences serve mainly national issues. However, when the stimuli for international publication in RESs are powerful, those researchers are more likely to embrace this mode of publication.
+
+Overall, both WoS and Scopus showed signifcant p linear trends across all subject areas, except for the life sciences; however, there was no signifcant diference between the two databases. Notably, although the volume of research published in Scopus journals was greater than that published in WoS journals, the GRs of WoS journals outperformed those of Scopus journals across all subject areas, except for the social sciences. This is due to the promotion regulation**s** awarding more points to WoS journals, motivating researchers to submit their work to these journals regardless of whether they are also indexed in Scopus. Therefore, outstanding faculty should avoid journals indexed solely in Scopus. Such journals are highly probable, given that the number of Scopus journals (45,806) (Elsevier, [2024)](#page-34-16) exceeds that of WoS journals (21,762) (Clarivate, [2024)](#page-34-17), which may explain why Scopus papers were superior to those indexed in WoS in this analysis. Ali ( 2024) reported a signifcant increase in WoS papers produced by Egyptian universities after the scientometric evaluation launch compared with before introducing this evaluation, supporting
+
+![LR.R36 fig22](../figures/LR/LR.R36_fig22.jpg)
+
+<!-- page 21 -->
+
+![LR.R36 fig23](../figures/LR/LR.R36_fig23.jpg)
+
+<!-- page 22 -->
+
+these results. Appreciating publication in WoS journals also yielded positive efects in Poland (Korytkowski & Kulczycki, [2019a)](#page-35-7) and Taiwan (Chang & Su, [2022](#page-34-15)). Shu et al. ([2020)](#page-36-8) further highlighted the prestigious standing of WoS papers, as they receive exceptional treatment during promotion and tenure procedures and exempt applicants from other prerequisites. Nevertheless, Grinev et al. [(2021](#page-34-18)) were surprised to note that one publication in a Q1 WoS journal is approximately equivalent to 20 papers recorded in Scopus. The present case reported signifcant jumps in all WoS quartiles across all the subject areas, except for Q3 and Q4 in the life and physical sciences. This confrms the shift towards publishing in WoS journals, which have the highest scores, specifcally Q1 (10/10) and Q2 (9.5/10), along with the highest ratings (Q1: 90/100, Q2: 80/100) without peer review. Similarly, although the number of papers published in Scopus-indexed journals has signifcantly increased compared with that published in SJR/CiteScore journals, the number of papers published in the frst group remains much lower than that published in the second one. This emphasises that researchers prefer to publish in journals classifed under quartiles because they obtain higher scores. Recently, the regulation of the 14th round excluded articles published in the Q1-Scopus journals from peer review and assigned them a 75/100 score.
+
+The fndings are highly aligned with previous research that explored the evolution of English use relative to national languages and articles versus other document types as a refection of new RESs, particularly in the SSH (Abramo et al., [2023;](#page-34-9) Chang & Su, [2022;](#page-34-15) Mathies et al., [2020](#page-35-3); Schneijderberg et al., [2022)](#page-36-2). Here, actual growth was observed in English-language papers across all specialisations. In contrast, Arabic research has increased substantially only in the social sciences, which was anticipated considering that Arabic is the primary language of publication in these sciences in Egypt. The upwards trend in English research is attributed to the rise of international publications and research published in English local journals. In this context, many researchers wrongfully believe that publishing in foreign English journals represents international publication and that conferences held outside Egypt, especially in the USA and Europe, are international; however, this is a defciency in scientometric culture. Other languages achieved insignifcant GR in the social sciences. Only two committees serve these languages: the committee for Eastern, Slavic, and Far Eastern Languages and the committee for Greek, Latin, Italian, Russian, and Spanish. For document types, articles and proceedings papers demonstrated signifcant overall GRs. Articles showed a dominant increasing trend and achieved real growth in all subject areas, except life sciences, which had a considerable GR in proceedings papers. This result was predicted because the promotion regulation focuses on determining scores for both types, helping faculty select the appropriate publication source based on its rating. The low number of other types is an interesting result refecting faculty members' reactions to the regulations discouraging these types, whose scores are unidentifed. Kulczycki et al. ([2019)](#page-35-20) and Engels et al. ([2018)](#page-34-11) also confrmed the depreciation of these document types in Poland, pointing to a decrease in monographs, particularly in the SSH, after the 2011 promotion reforms that prioritised articles. Furthermore, Australian and Swedish researchers switched from books and book chapters to articles in response to the use of metrics (Hammarfelt & Haddow, [2018](#page-34-19)).
+
+Despite the variation in the scope and the data source, the current results closely resemble those of a study by Ali ( 2024). Both confrmed that Egyptian researchers were diverted to international publications, particularly in the top quartiles of the WoS, and that there was a strong trend towards publishing articles. Most remarkably, these transformations have also emerged in the social sciences, indicating the efectiveness of metrics-based regulations in reshaping publication patterns in this area. Nevertheless, these positive efects represent preliminary indicators
+
+![LR.R36 fig24](../figures/LR/LR.R36_fig24.jpg)
+
+<!-- page 23 -->
+
+![LR.R36 fig25](../figures/LR/LR.R36_fig25.jpg)
+***Fig.** **5 **The growth of publications according to WoS rankings for all subject areas (2017/2018–2021/2022 (*x*-axis)). **a** The numbers of publications by WoS rankings (*y*-axis). **b** The GRs of publications in WoS rankings relative to the baseline year 2017/2018 (*y*-axis). The fgure demonstrates the increase in publications across all WoS rankings and how publication volumes changed proportionally over time compared with the baseline*
+
+P comparison: The* p*-value for the comparison of linear contrasts
+
+Signifcance level (*α*)=0.05
+
+SE: standard error
+
+DF: degrees of freedom
+
+*t*:* t*-value (a ratio of the diference between the means of two samples)
+
+and have been observed following a 5-year implementation of the novel evaluation. After a decade, the impact should be re-evaluated to verify these results. Until then, several opportunities would strengthen the positive infuence. These include the interest in improving the international
+
+![LR.R36 fig26](../figures/LR/LR.R36_fig26.jpg)
+
+<!-- page 24 -->
+
+![LR.R36 fig27](../figures/LR/LR.R36_fig27.jpg)
+
+<!-- page 25 -->
+
+![LR.R36 fig28](../figures/LR/LR.R36_fig28.jpg)
+***Fig.** **6 **The growth of the publications according to the publication language for all subject areas (2017/2018–2021/2022 (*x*-axis)). **a** The numbers of publications by language (*y*-axis). **b** The GRs of publications by language relative to the baseline year 2017/2018 (*y*-axis). Overall, English publications tend to have more consistent and higher GRs across the examined subject areas compared with Arabic and other language publications, while Arabic publications experience signifcant fuctuations*
+
+rankings of Egyptian universities, particularly by increasing the number of international publications; the sustainability of the EKB's provision of international databases, including WoS and Scopus; and the adoption of the scientometric evaluation by the Ministry of HE&SR in various scientifc evaluations, such as granting scientifc awards and academic leadership positions. However, previous studies reported several threats that are relevant to Egyptian circumstances. Inadequate remuneration for faculty (Habib & Morrow, [2006](#page-34-20)) may reduce scientifc output, particularly the number of international publications. This is highly probable given the global economic crisis in which Egypt has been sufering since the Ukraine-Russian war. This can be addressed by the collaboration between the Egyptian universities and the Science, Technology, and Innovation Funding Authority in Egypt to expand the fnancing resources of international publications. Academics' insufcient understanding of metrics (Ma & Ladisch, [2019)](#page-35-21) is another threat necessitating the growing proliferation of metric culture among faculty, particularly in the social sciences, through seminars and discussions. Finally, the growing trend towards English international publications may threaten local journals that issue in the national language (Kulczycki et al., [2019;](#page-35-20) Mathies et al., [2020;](#page-35-3) Rowlands & Wright, [2022](#page-36-3)); as a result, high-quality research would shift to international journals. This requires an efective strategy for balancing international publications and Arabic local publications in Egypt.
+
+## **Implications**
+
+This study stands out as one of the few that use an unpublished national source to generate unique data that are unavailable via international databases. This study also bridges a major gap in the literature in which local and international publications are
+
+![LR.R36 fig29](../figures/LR/LR.R36_fig29.jpg)
+
+<!-- page 26 -->
+
+![LR.R36 fig30](../figures/LR/LR.R36_fig30.jpg)
+
+<!-- page 27 -->
+
+![LR.R36 fig31](../figures/LR/LR.R36_fig31.jpg)
+***Fig.** **7 **The growth of the publications according to the document type for all subject areas (2017/2018– 2021/2022 (*x*-axis)). **a** The numbers of publications by type (*y*-axis). **b** The GRs of publications by type relative to the baseline year 2017/2018 (*y*-axis). Articles tend to show consistent and steady growth across the subject areas, whereas other document types experience more variability and fuctuations*
+
+compared. Practically, the Supreme Committee of Scientifc Committees, which is responsible for formulating and revising promotion regulations, can assess scientometric evaluation's impact on publication patterns in Egyptian universities depending on these outcomes. The scientifc committee chairs can also monitor the changes in the publication patterns in their felds after performing this evaluation. The study might serve other national and regional academic markets that use or intend to use this evaluation, particularly in the promotion context.
+
+## **Limitations and future work**
+
+Owing to the data constraints caused by the study's short coverage, future research must consider a longer period. Repeating this study later will be easier and faster than the present one because a management information system has automated the current procedures for generating the scientometric reports since March 2023. Another limitation is the absence of citations in these reports, as the promotion regulation does not consider them and relies only on the JIF and CiteScore as indicators for source quality. A subsequent investigation could measure the scientometric evaluation's impact on citations via WoS and Scopus. Furthermore, comparing the current fndings to those from countries with comparable scientifc research contexts would have been valuable. Therefore, this research calls for similar analyses to be conducted in Arab nations and other developing countries implementing this novel evaluation. This study may also stimulate
+
+![LR.R36 fig32](../figures/LR/LR.R36_fig32.jpg)
+
+<!-- page 28 -->
+
+![LR.R36 fig33](../figures/LR/LR.R36_fig33.jpg)
+
+<!-- page 29 -->
+
+![LR.R36 fig34](../figures/LR/LR.R36_fig34.jpg)
+
+<!-- page 30 -->
+
+research on academic partners' attitudes towards this novel evaluation, such as faculty, university administrators, and peer reviewers.
+
+## **Conclusion**
+
+Egypt is striving to increase the quality and visibility of its research to enhance its international prestige. The fndings of this study revealed signifcant changes in publication practices following the implementation of the scientometric evaluation, indicating that this approach represents an efective means of accomplishing the state's objectives. Egyptian faculty responded efectively to this intervention by shifting towards international publications, writing in English, and increasing the number of articles. The most prominent positive transformation was the social sciences' response to this evaluation, despite some contradictions in their patterns. Nevertheless, although the success of this evaluation has been proven, the present fndings acknowledge the potential resistance or scepticism about employing metrics, whether by evaluators or those being evaluated. Therefore, it is imperative to disseminate the metrics culture among all stakeholders in academia. Finally, this novel evaluation will take longer and more measures to represent a robust foundation for evaluating research performance in Egypt.
+
+## **Appendix 1**
+
+See Table [14.](#page-29-0)
+
+Source:(Ministry of Higher Education and Scientifc Research. Supreme Council of Universities 2019)
+
+![LR.R36 fig35](../figures/LR/LR.R36_fig35.jpg)
+
+<!-- page 31 -->
+
+See Table [15.](#page-30-0)
+
+Source: (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities, 2019)
+
+Note: International proceedings papers indicate that they are indexed in the WoS and/or Scopus, whereas local proceedings papers indicate that they are not indexed in any of the two databases
+
+## **Appendix 3**
+
+See Table[ 16.](#page-30-1)
+
+Source: (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities, 2019)
+
+![LR.R36 fig36](../figures/LR/LR.R36_fig36.jpg)
+
+<!-- page 32 -->
+
+See Table [17.](#page-31-0)
+
+![LR.R36 fig37](../figures/LR/LR.R36_fig37.jpg)
+
+> ^**^The numbers of scientifc committees are according to (Ministry of Higher Education and Scientifc Research. Supreme Council of Universities, 2019)
+
+<!-- page 33 -->
+
+See Table [18.](#page-32-0)
+
+β represents the GR
+
+Signifcance level (*α*)=0.05
+
+×refers to the interaction
+
+![LR.R36 fig38](../figures/LR/LR.R36_fig38.jpg)
+
+<!-- page 34 -->
+
+See Table [19.](#page-33-0)
+
+β represents the GR
+
+Signifcance level (*α*)=0.05
+
+×refers to the interaction
+
+**Acknowledgements** I am so grateful to Prof. Mohammed Lotyf, the former SCU General Secretary (2019– 2022) and Prof. Omaima Naim, the former SCU General Secretary's assistant (2020–2023) for their support and help—many thanks to Mr. Hassan Ashry at the Supreme Council of Universities for his valuable consultations. I am grateful to Springer Nature Author Services for language editing.
+
+**Funding** Open access funding provided by The Science, Technology & Innovation Funding Authority (STDF) in cooperation with The Egyptian Knowledge Bank (EKB). No funds, grants, or other support was received.
+
+## **Declarations**
+
+**Confict of interest** "The author has no conficts of interest to declare that are relevant to the content of this article".
+
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+
+![LR.R36 fig39](../figures/LR/LR.R36_fig39.jpg)
+
+<!-- page 35 -->
+
+## **References**
+
+- Abramo, G., & D'Angelo, C. A. (2021). The diferent responses of universities to introduction of performance-based research funding. *Research Evaluation,* *30*(4), 514–528.[ https://doi.org/10.1093/resev](https://doi.org/10.1093/reseval/rvab022) [al/rvab022](https://doi.org/10.1093/reseval/rvab022)
+- Abramo, G., D'Angelo, C. A., & Hladchenko, M. (2023). Assessing the efects of publication requirements for professorship on research performance and publishing behaviour of Ukrainian academics. *Scientometrics*, 1–21.[ https://doi.org/10.1007/s11192-023-04753-y](https://doi.org/10.1007/s11192-023-04753-y)
+- Akbaritabar, A., Bravo, G., & Squazzoni, F. (2021). The impact of a national research assessment on the publications of sociologists in Italy. *Science and Public Policy,* *48*(5), 662–678. [https://doi.org/10.](https://doi.org/10.1093/scipol/scab013) [1093/scipol/scab013](https://doi.org/10.1093/scipol/scab013)
+- Ali, M. F. (2024). Is there a "diference-in-diference"? The impact of scientometric evaluation on the evolution of international publications in Egyptian universities and research centres. *Scientomet**rics,* *129*(2), 1119–1154. [https://doi.org/10.1007/s11192-023-04911-2](https://doi.org/10.1007/s11192-023-04911-2)
+- Amirbekova, D., Narbaev, T., & Kussaiyn, M. (2022). The research environment in a developing economy: Reforms, patterns, and challenges in Kazakhstan. *Publications,* *10*(4), 37. [https://doi.org/10.](https://doi.org/10.3390/publications10040037) [3390/publications10040037](https://doi.org/10.3390/publications10040037)
+- Ball, R., & Tunger, D. (2006). Bibliometric analysis-a new business area for information professionals in libraries? Support for scientifc research by perception and trend analysis. *Scientometrics,* *66*(3), 561–577. [https://doi.org/10.1007/s11192-006-](https://doi.org/10.1007/s11192-006-)
+- Bloch, C., & Schneider, J. W. (2016). Performance-based funding models and researcher behavior: An analysis of the infuence of the Norwegian Publication Indicator at the individual level. *Research * *Evaluation,* *25*(4), 371–382.[ https://doi.org/10.1093/reseval/rvv047](https://doi.org/10.1093/reseval/rvv047)
+- Chang, Y. W., & Su, Y. C. (2022). Comparison of trends in the degree of publication diversity among felds of social sciences and humanities at National Taiwan University. *Journal of Library and Information * *Studies,* *20*(2), 29–54.[ https://doi.org/10.6182/jlis.202212_20(2).029](https://doi.org/10.6182/jlis.202212_20(2).029)
+- Clarivate. (2024). *Journal citation reports*. Clarivate,. Retrieved 20-5-2024 from [https://jcr.clarivate.com/jcr/](https://jcr.clarivate.com/jcr/browse-journals) [browse-journals](https://jcr.clarivate.com/jcr/browse-journals)
+- de Rijcke, S., Wouters, P. F., Rushforth, A. D., Franssen, T. P., & Hammarfelt, B. (2016). Evaluation practices and efects of indicator use-a literature review. *Research Evaluation,* *25*(2), 161–169. [https://doi.org/10.](https://doi.org/10.1093/reseval/rvv038) [1093/reseval/rvv038](https://doi.org/10.1093/reseval/rvv038)
+- Demetrescu, C., Finocchi, I., Ribichini, A., & Schaerf, M. (2020). On bibliometrics in academic promotions: A case study in computer science and engineering in Italy. *Scientometrics,* *124*(3), 2207–2228. [https://doi.](https://doi.org/10.1007/s11192-020-03548-9) [org/10.1007/s11192-020-03548-9](https://doi.org/10.1007/s11192-020-03548-9)
+- Deutz, D. B., Drachen, T. M., Drongstrup, D., Opstrup, N., & Wien, C. (2021). Quantitative quality: A study on how performance-based measures may change the publication patterns of Danish researchers. *Scientomet**rics,* *126*(4), 3303–3320.[ https://doi.org/10.1007/s11192-021-03881-7](https://doi.org/10.1007/s11192-021-03881-7)
+- DORA. (2012). *San Francisco Declaration on Research Assessment*. Retrieved 7/12/2023 from [https://sfdora.](https://sfdora.org/read/) [org/read/](https://sfdora.org/read/)
+- Elsevier. (2024). *Scopus. Sources*. Elsevier. Retrieved 20-5-2024 from [https://www.scopus.com/sources.uri?](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=searchbasic) [zone=TopNavBar&origin=searchbasic](https://www.scopus.com/sources.uri?zone=TopNavBar&origin=searchbasic)
+- Engels, T. C. E., Starcic, A. I., Kulczycki, E., Polonen, J., & Sivertsen, G. (2018). Are book publications disappearing from scholarly communication in the social sciences and humanities? *Aslib Journal of Informa**tion Management,* *70*(6), 592–607.[ https://doi.org/10.1108/ajim-05-2018-0127](https://doi.org/10.1108/ajim-05-2018-0127)
+- Eshchanov, B., Abduraimov, K., Ibragimova, M., & Eshchanov, R. (2021). Efciency of "Publish or Perish" policy-some considerations based on the Uzbekistan Experience. *Publications, 9*(3). [https://doi.org/10.](https://doi.org/10.3390/publications9030033) [3390/publications9030033](https://doi.org/10.3390/publications9030033)
+- Grinev, A. V., Bylieva, D. S., & Lobatyuk, V. V. (2021). Russian university teachers' perceptions of scientometrics. *Publications,* *9*(2), 16.[ https://doi.org/10.3390/publications9020022](https://doi.org/10.3390/publications9020022)
+- Gumpenberger, C., Sorz, J., Wieland, M., & Gorraiz, J. (2016). Humanities and social sciences in the bibliometric spotlight–Research output analysis at the University of Vienna and considerations for increasing visibility. *Research Evaluation,* *25*(3), 271–278. [https://doi.org/10.1093/reseval/rvw013](https://doi.org/10.1093/reseval/rvw013)
+- Habib, A., & Morrow, S. (2006). Research, research productivity and the state in South Africa. *Transformation: * *Critical Perspectives on Southern Africa,* *62*(1), 9–29. [https://doi.org/10.1353/trn.2007.0006](https://doi.org/10.1353/trn.2007.0006)
+- Hammarfelt, B., & Haddow, G. (2018). Conficting measures and values: How humanities scholars in Australia and Sweden use and react to bibliometric indicators. *Journal of the Association for Information Science * *and Technology,* *69*(7), 924–935.[ https://doi.org/10.1002/asi.24043](https://doi.org/10.1002/asi.24043)
+- Hammarfelt, B., & Rushforth, A. D. (2017). Indicators as judgment devices: An empirical study of citizen bibliometrics in research evaluation. *Research Evaluation,* *26*(3), 169–180. [https://doi.org/10.1093/reseval/](https://doi.org/10.1093/reseval/rvx018) [rvx018](https://doi.org/10.1093/reseval/rvx018)
+
+![LR.R36 fig40](../figures/LR/LR.R36_fig40.jpg)
+
+<!-- page 36 -->
+
+- Hicks, D., Wouters, P., Waltman, L., De Rijcke, S., & Rafols, I. (2015). Bibliometrics: The Leiden Manifesto for research metrics. *Nature News,* *520*(7548), 429–431.[ https://doi.org/10.1038/520429a](https://doi.org/10.1038/520429a)
+- Hylmö, A. (2018). *Disciplined reasoning: Styles of reasoning and the mainstream-heterodoxy divide in Swedish * *economics*. Lund University. [https://portal.research.lu.se/en/publications/disciplined-reasoning-styles-of](https://portal.research.lu.se/en/publications/disciplined-reasoning-styles-of-reasoning-and-the-mainstream-hete)[reasoning-and-the-mainstream-hete](https://portal.research.lu.se/en/publications/disciplined-reasoning-styles-of-reasoning-and-the-mainstream-hete)
+- Inglesi-Lotz, R., & Pouris, A. (2011). Scientometric impact assessment of a research policy instrument: The case of rating researchers on scientifc outputs in South Africa. *Scientometrics,* *88*(3), 747–760.[ https://doi.](https://doi.org/10.1007/s11192-011-0440-8) [org/10.1007/s11192-011-0440-8](https://doi.org/10.1007/s11192-011-0440-8)
+- Ingwersen, P., & Larsen, B. (2014). Infuence of a performance indicator on Danish research production and citation impact 2000–12. *Scientometrics,* *101*(2), 1325–1344.[ https://doi.org/10.1007/s11192-014-1291-x](https://doi.org/10.1007/s11192-014-1291-x)
+- Korytkowski, P., & Kulczycki, E. (2019a). Examining how country-level science policy shapes publication patterns: The case of Poland. *Scientometrics,* *119*(3), 1519–1543. [https://doi.org/10.1007/](https://doi.org/10.1007/s11192-019-03092-1) [s11192-019-03092-1](https://doi.org/10.1007/s11192-019-03092-1)
+- Korytkowski, P., & Kulczycki, E. (2019b). Publication counting methods for a national research evaluation exercise. *Journal of Informetrics,* *13*(3), 804–816.[ https://doi.org/10.1016/j.joi.2019.07.001](https://doi.org/10.1016/j.joi.2019.07.001)
+- Kudaibergenova, R., Uzakbay, S., Makanova, A., Ramadinkyzy, K., Kistaubayev, E., Dussekeev, R., & Smagulov, K. (2022). Managing publication change at Al-Farabi Kazakh National University: a case study. *Scien**tometrics*, 1–27. [https://doi.org/10.1007/s11192-021-04139-y](https://doi.org/10.1007/s11192-021-04139-y)
+- Kulczycki, E. (2019). Field patterns of scientometric indicators use for presenting research portfolio for assessment. *Research Evaluation, 28*(2), 169–181. [https://doi.org/10.1093/reseval/rvy043](https://doi.org/10.1093/reseval/rvy043)
+- Kulczycki, E., Rozkosz, E. A., & Drabek, A. (2019). Internationalization of polish journals in the social sciences and humanities. *The Canadian Journal of Sociology/Cahiers Canadiens de Sociologie,* *44*(1), 9–38. [https://doi.org/10.29173/cjs28794](https://doi.org/10.29173/cjs28794)
+- Kuzhabekova, A., & Ruby, A. (2018). Impact factor publication requirement in Kazakhstan. *European Educa**tion,* *50*(3), 266. [https://doi.org/10.1080/10564934.2018.1444942](https://doi.org/10.1080/10564934.2018.1444942)
+- Lenth, R., Singmann, H., Love, J., Buerkner, P., & Herve, M. (2023). *emmeans: Estimated marginal means, aka * *least-squares means (Version 1.3. 4)*. Retrieved 4/6/2024 from[ https://rdrr.io/cran/emmeans/](https://rdrr.io/cran/emmeans/)
+- Ma, L., & Ladisch, M. (2019). Evaluation complacency or evaluation inertia? A study of evaluative metrics and research practices in Irish universities. *Research Evaluation,* *28*(3), 209–217. [https://doi.org/10.1093/resev](https://doi.org/10.1093/reseval/rvz008) [al/rvz008](https://doi.org/10.1093/reseval/rvz008)
+- Madera, J. M., Spitzmueller, C., Yu, H., Edema-Sillo, E., & Clarke, M. S. (2024). External review letters in academic promotion and tenure decisions are refective of reviewer characteristics. *Research Policy,* *53*(2), 104939. [https://doi.org/10.1016/j.respol.2023.104939](https://doi.org/10.1016/j.respol.2023.104939)
+- Marzolla, M. (2016). Assessing evaluation procedures for individual researchers: The case of the Italian National Scientifc Qualifcation. *Journal of Informetrics,* *10*(2), 408–438. [https://doi.org/10.1016/j.joi.](https://doi.org/10.1016/j.joi.2016.01.009) [2016.01.009](https://doi.org/10.1016/j.joi.2016.01.009)
+- Mathies, C., Kivistö, J., & Birnbaum, M. (2020). Following the money? Performance-based funding and the changing publication patterns of Finnish academics. *Higher Education,* *79*(1), 21–37. [https://doi.org/10.](https://doi.org/10.1007/s10734-019-00394-4) [1007/s10734-019-00394-4](https://doi.org/10.1007/s10734-019-00394-4)
+- Matveeva, N., & Ferligoj, A. (2020). Scientifc collaboration in Russian universities before and after the excellence initiative Project 5–100. *Scientometrics,* *124*(3), 2383–2407. [https://doi.org/10.1007/](https://doi.org/10.1007/s11192-020-03602-6) [s11192-020-03602-6](https://doi.org/10.1007/s11192-020-03602-6)
+- Ministry of Higher Education and Scientifc Research. Supreme Council of Universities. (2016). *Rules and sys**tem of work of the scientifc committees to examine the scientifc production of applicants for the positions * *of professors and associate professors: the twelfth round 2016–2019. (in Arabic)*. [http://www.du.edu.eg/](http://www.du.edu.eg/faculty/app/up/ViewNews.aspx?n=2662) [faculty/app/up/ViewNews.aspx?n=2662](http://www.du.edu.eg/faculty/app/up/ViewNews.aspx?n=2662)
+- Ministry of Higher Education and Scientifc Research. Supreme Council of Universities. (2019). *Rules and sys**tem of work of the scientifc committees to examine the scientifc production of applicants for the positions * *of professors and associate professors: the thirteenth round 2019–2022. (in Arabic)*. [https://scu.eg//News/](https://scu.eg//News/168) [168](https://scu.eg//News/168)
+- Ministry of Higher Education and Scientifc Research. Supreme Council of Universities. (2022). *Rules and sys**tem of work of the scientifc committees to examine the scientifc production of applicants for the positions * *of professors and associate professors: the forteenth round 2022–2025. (in Arabic)*.[ https://scu.eg/News/2](https://scu.eg/News/2)
+- Moed, H. F. (2017). *Applied Evaluative Informetrics: Part 1* (Vol. 1). [https://doi.org/10.48550/arXiv.1705.](https://doi.org/10.48550/arXiv.1705.06110) [06110](https://doi.org/10.48550/arXiv.1705.06110)
+- Oswald, A. J. (2007). An examination of the reliability of prestigious scholarly journals: Evidence and implications for decision-makers. *Economica,* *74*(293), 21–31.[ https://doi.org/10.1111/j.1468-0335.2006.00575.x](https://doi.org/10.1111/j.1468-0335.2006.00575.x)
+- Pajić, D., Jevremov, T., & Škorić, M. (2019). Publication and citation patterns in the social sciences and humanities. *The Canadian Journal of Sociology/Cahiers canadiens de sociologie, 44*(1), 67–94. [https://www.](https://www.jstor.org/stable/26633543) [jstor.org/stable/26633543](https://www.jstor.org/stable/26633543)
+
+![LR.R36 fig41](../figures/LR/LR.R36_fig41.jpg)
+
+<!-- page 37 -->
+
+- Poole, M. A., & O'Farrell, P. N. (1971). The assumptions of the linear regression model. *Transactions of the * *Institute of British Geographers*, 145–158. [https://www.jstor.org/stable/621706](https://www.jstor.org/stable/621706)
+- R Core Team. (2024). *The R Project for Statistical Computing*. Retrieved 30/4/2024 from [https://www.r-proje](https://www.r-project.org/) [ct.org/](https://www.r-project.org/)
+- Reymert, I. (2021). Bibliometrics in academic recruitment: A screening tool rather than a game changer. *Min**erva,* *59*(1), 53–78.[ https://doi.org/10.1007/s11024-020-09419-0](https://doi.org/10.1007/s11024-020-09419-0)
+- Rowlands, J., & Wright, S. (2022). The role of bibliometric research assessment in a global order of epistemic injustice: A case study of humanities research in Denmark. *Critical Studies in Education,* *63*(5), 572–588. [https://doi.org/10.1080/17508487.2020.1792523](https://doi.org/10.1080/17508487.2020.1792523)
+- Schneijderberg, C., Götze, N., & Müller, L. (2022). A study of 25 years of publication outputs in the German academic profession. *Scientometrics,* *127*(1), 1–28. [https://doi.org/10.1007/s11192-021-04216-2](https://doi.org/10.1007/s11192-021-04216-2)
+- Searle, S. R., Speed, F. M., & Milliken, G. A. (1980). Population marginal means in the linear model: An alternative to least squares means. *The American Statistician,* *34*(4), 216–221. [https://doi.org/10.1080/00031](https://doi.org/10.1080/00031305.1980.10483031) [305.1980.10483031](https://doi.org/10.1080/00031305.1980.10483031)
+- Shu, F., Quan, W., Chen, B. K., Qiu, J. P., Sugimoto, C. R., & Lariviere, V. (2020). The role of Web of Science publications in China's tenure system. *Scientometrics,* *122*(3), 1683–1695. [https://doi.org/10.1007/](https://doi.org/10.1007/s11192-019-03339-x) [s11192-019-03339-x](https://doi.org/10.1007/s11192-019-03339-x)
+- The University Organisation Law (Egypt), 49 (1972). [https://www.du.edu.eg/fles](https://www.du.edu.eg/files)
+- Wilsdon, J. (2015). The metric tide: Report of the independent review of the role of metrics in research assessment and management., 163p.[ https://doi.org/10.13140/RG.2.1.4929.1363](https://doi.org/10.13140/RG.2.1.4929.1363)
+
+**Publisher's Note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional afliations.
+
+![LR.R36 fig42](../figures/LR/LR.R36_fig42.jpg)

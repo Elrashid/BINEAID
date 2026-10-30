@@ -1,0 +1,685 @@
+<paper source_file="LR.R37" title="**Closing the door behind: metric‑based research evaluation ** **systems and gatekeeping towards young researchers**" total_pages="20" figures="13" figures_with_images="13">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 13 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<figure page="1" section="" source="author" id="/page/0/Picture/1" image="LR.R37_fig01.jpg">[FIGURE: see LR.R37_fig01.jpg]</figure>
+
+
+<heading page="1" section="**Closing the door behind: metric‑based research evaluation ** **systems and gatekeeping towards young researchers**" source="author" id="/page/0/SectionHeader/2" level="1">
+# **Closing the door behind: metric‑based research evaluation ** **systems and gatekeeping towards young researchers**
+</heading>
+
+<text page="1" section="**Closing the door behind: metric‑based research evaluation ** **systems and gatekeeping towards young researchers**" source="author" id="/page/0/Text/3">
+**Hakan Soner Şener1** ** · İdris Semih Kaya2** ** · Mücella Sena Köksal2** ** · Zehra Taşkın2,****[3](http://orcid.org/0000-0001-7102-493X)**
+</text>
+
+<text page="1" section="**Closing the door behind: metric‑based research evaluation ** **systems and gatekeeping towards young researchers**" source="author" id="/page/0/Text/4">
+Received: 28 August 2024 / Accepted: 4 March 2025 / Published online: 28 March 2025 © The Author(s) 2025
+</text>
+
+
+<heading page="1" section="**Abstract**" source="author" id="/page/0/SectionHeader/5" level="4">
+#### **Abstract**
+</heading>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/6">
+The competitive nature of academia has led to the establishment of rigorous criteria by  decision-makers for evaluating researchers' performances. Title and tenure systems have  been implemented based on these specifc criteria. This study aims to examine how these  criteria are fulflled, identify which groups of researchers are required to meet these performance indicators, and assess the extent to which they do so. Data were collected from 98  academics in the feld of library and information science via the Web of Science and the  main academic platform of the Council of Higher Education, Turkey. A total of 1641 articles and 999 books or book chapters were subjected to analysis. The fndings suggest that  early-career researchers are disproportionately compelled to adhere to the "publish or perish" paradigm and are expected to meet higher performance expectations. When normalized for years of experience, the results indicate that professors exhibit the lowest publication output, while faculty members with a Ph.D. who hold the title of Associate Professor  demonstrate the highest output. While this study primarily focuses on comparing the fulfllment of criteria between decision-makers and early-career researchers, future research  will explore the observed infation in book and book chapter publications within the same  feld.
+</text>
+
+<text page="1" section="**Abstract**" source="author" id="/page/0/Text/7">
+**Keywords** Title system · Academic performance evaluation · Academic career ·  Gatekeeping · Higher education · Turkey
+</text>
+
+
+<heading page="1" section="**Introduction**" source="author" id="/page/0/SectionHeader/8" level="2">
+## **Introduction**
+</heading>
+
+<text page="1" section="**Introduction**" source="author" id="/page/0/Text/9">
+In the competitive and demanding world of academia, early-career researchers often face  the daunting challenge of navigating the "publish or perish" paradigm. To successfully  publish their research in academic journals, these researchers are expected to meet specifc criteria (Gardner, [2008;](#page-17-0) Janger &amp; Nowotny, [2013;](#page-18-0) Mantai, [2017;](#page-18-1) Stewart &amp; Kirkbride,
+</text>
+
+<footnote page="1" section="**Introduction**" source="author" id="/page/0/Footnote/10">
+^(*) Zehra Taşkın  ztaskin@hacettepe.edu.tr
+</footnote>
+
+<footnote page="1" section="**Introduction**" source="author" id="/page/0/Footnote/11">
+^(1) Faculty of Communication, Hacettepe University, Ankara, Turkey
+</footnote>
+
+<footnote page="1" section="**Introduction**" source="author" id="/page/0/Footnote/12">
+^(2) Department of Information Management, Hacettepe University, Ankara, Turkey
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/2">
+[2019)](#page-19-0). However, these criteria are constantly evolving, introducing new barriers to career  advancement (Austin &amp; Rice, [1998](#page-17-1); Laudel, [2017;](#page-18-2) Miller, [2022](#page-18-3)). Consequently, the issue  of gatekeeping in academic careers has become increasingly concerning and warrants critical examination (Nästesjö, [2021;](#page-18-4) Önder &amp; Erdil,[ 2015](#page-18-5); Tütüncü, [2023,](#page-19-1)[ 2024](#page-19-2)).
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/3">
+The primary objective of this study is to assess whether decision-makers adhere to the  research evaluation criteria expected of early-career researchers. Our focus is on the associate professor title system employed by the Interuniversity Board of the Higher Education  Council in Turkey. Specifcally, the study addresses the following research questions:
+</text>
+
+<list page="2" section="**Introduction**" source="author" id="/page/1/ListGroup/169">
+- To what extent do decision-makers (panel evaluators) in the higher education system  meet the criteria expected of early-career researchers?
+- Which type of criterion is most frequently fulflled?
+- When comparing early-career researchers with decision-makers, which group demonstrates a higher rate of criterion fulflment?
+</list>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/7">
+An important aspect of research evaluation systems lies in their epistemological underpinnings, particularly regarding what constitutes a "proper" measurement in education  (Hefernan, [2021)](#page-18-6). The reliance on publication counts, citation metrics, and journal impact  factors refects certain assumptions about academic productivity and quality that may not  fully capture the breadth of scholarly contributions, especially in diverse felds such as  library and information science. A critical examination of these epistemological issues is  essential to understand the broader implications of such metrics for academic evaluation  systems globally (Huang et al.,[ 2022](#page-18-7)).
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/8">
+While this study focuses on the evolving associate professorship system in Turkey,  similar patterns of metric-based evaluation and its unintended consequences are evident  in other cultures and regions, such as Europe and Latin America (Krawczyk &amp; Kulczycki,  [2021;](#page-18-8) Vessuri et al., [2014)](#page-19-3). In these contexts, the increasing emphasis on quantitative metrics to evaluate academic performance has similarly led to challenges, including the prioritization of high-impact journals, the proliferation of questionable publishing practices, and  heightened pressures on early-career researchers. By acknowledging these parallels, this  study aims to situate its fndings within a broader global context, enhancing its relevance  for international scholars.
+</text>
+
+<text page="2" section="**Introduction**" source="author" id="/page/1/Text/9">
+An examination of Turkey's associate professorship system ofers a historical perspective that facilitates comprehension of the present situation. As time has passed, the criteria  for obtaining this title have placed increasing emphasis on publications as a primary measure of academic merit. This shift can be attributed to the evolution of higher education  policies and priorities. The 2024 revisions to the criteria, which were implemented with the  objective of enhancing research standards and productivity, have brought to light the unintended consequences of metric-based systems. These unintended consequences include  pressures to publish in questionable venues. These reforms underscore the systemic challenges confronting early-career researchers (Bülbül,[ 2021](#page-17-2)), thereby connecting the empirical fndings of this study to broader theoretical discourses on gatekeeping and academic  evaluation.
+</text>
+
+
+<heading page="2" section="**Gatekeeping in academia**" source="author" id="/page/1/SectionHeader/10" level="4">
+#### **Gatekeeping in academia**
+</heading>
+
+<text page="2" section="**Gatekeeping in academia**" source="author" id="/page/1/Text/11">
+Gatekeeping, a well-established concept in the social sciences, refers to individuals or  groups with the authority to control access to resources or positions (Cook &amp; Fonow, [1984;](#page-17-3)
+</text>
+
+<figure page="2" section="**Gatekeeping in academia**" source="author" id="/page/1/Picture/12" image="LR.R37_fig02.jpg">[FIGURE: see LR.R37_fig02.jpg]</figure>
+
+</page>
+<page number="3">
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/2">
+Husu &amp; de Cheveigné, [2010)](#page-18-9). In academia, gatekeeping occurs through both internal and  external mechanisms, infuencing everything from hiring and promotion to funding and  publishing (Forsberg et al., [2022](#page-17-4)). This study focuses on ongoing academic gatekeeping,  particularly in the context of panel evaluation processes.
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/3">
+The implications of gatekeeping extend beyond individual researchers, shaping systemic  issues within academia. The pressure to meet rigid evaluation criteria has exacerbated  job insecurity and led to the casualization of academic labor, particularly for early-career  researchers. This environment, driven by metrics and competition, often intensifes stress  and mental health challenges among scholars. Furthermore, current practices that prioritize  quantity over quality and established networks over emerging voices risk stifing innovation and reducing diversity in research (McFadyen &amp; Rankin,[ 2016](#page-18-10)).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/4">
+To understand the persistence of these gatekeeping mechanisms, it is crucial to examine  their historical and systemic roots. The emergence of precarious academic working conditions and the growing reliance on metrics are closely tied to the rise of neoliberal policies  (Zhang &amp; Gong, [2024)](#page-19-4). Neoliberalism, which gained prominence in the 1980s under leaders like Reagan and Thatcher, introduced external actors—politicians, policymakers, and  decision-makers—into academia, shaping its outputs and defning "quality" in academic  work (Mula-Falcón &amp; Caballero,[ 2022](#page-18-11); Rosa, [2010)](#page-18-12).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/5">
+University ranking systems, citation metrics, and performance indicators have become  hallmarks of the neoliberal academic system, infuencing career trajectories and institutional success (Westerheijden, [2022](#page-19-5)). Scholars now feel compelled to relentlessly pursue  publications as a measure of success, raising questions about the long-term value of these  criteria and their potential evolution (Lee, [2014;](#page-18-13) Posselt,[ 2016](#page-18-14); Rosa, [2020)](#page-18-15).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/6">
+Beyond neoliberalism, managerialism and bureaucratic rationalization have further  entrenched metric-based governance in academia. These frameworks emphasize operational efciency, accountability, and performance measurement, often embedding quantitative evaluations to justify funding decisions. While these practices aim to enhance governance, they frequently align with external socio-economic pressures, including global  competition among universities and national strategies prioritizing international rankings  (Dutta et al., [2022;](#page-17-5) Hammarfelt &amp; Hallonsten,[ 2022](#page-18-16); Zhang,[ 2024](#page-19-6)). These dynamics underscore the complexity of gatekeeping, refecting not only market-oriented priorities but also  broader systemic forces in higher education (Fanelli, [2010](#page-17-6); Marginson &amp; van der Wende,  [2007)](#page-18-17).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/7">
+Internal gatekeeping within academia is equally signifcant, involving a range of actors  such as research councils, panels, editors, reviewers, and senior faculty members (Husu &amp;  de Cheveigné, [2010;](#page-18-9) Montgomery, [2020)](#page-18-18). This process is especially prominent in higher  education admissions, hiring, tenure, and promotion decisions. Modern academic expectations for productivity surpass those of previous generations, creating precarious conditions  for early-career researchers (Austin &amp; Rice, [1998](#page-17-1); Bieber, [1997;](#page-17-7) Massy &amp; Wilger, [1995;](#page-18-19) Sorcinelli,[ 1994](#page-18-20)).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/8">
+Gatekeeping also manifests across various domains of academic life, including publications, funding, employment, ideas, and social networks (Cook &amp; Fonow, [1984](#page-17-3)). These  networks—formal and informal—play a pivotal role in shaping access to opportunities like  collaborations, funding, and publication venues (Hefernan, [2021;](#page-18-6) Mishra, [2020](#page-18-21)). Earlycareer researchers, often lacking established connections, are disproportionately disadvantaged, which perpetuates existing inequalities and limits diverse perspectives in academic  discourse (McFadyen &amp; Rankin, [2016)](#page-18-10).
+</text>
+
+<text page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Text/9">
+Furthermore, the actions of journal editors, reviewers, and policymakers are central to  academic gatekeeping but are often fraught with unintended consequences. For example,
+</text>
+
+<figure page="3" section="**Gatekeeping in academia**" source="author" id="/page/2/Picture/10" image="LR.R37_fig03.jpg">[FIGURE: see LR.R37_fig03.jpg]</figure>
+
+</page>
+<page number="4">
+<text page="4" section="**Gatekeeping in academia**" source="author" id="/page/3/Text/2">
+journal editors and reviewers may favor articles published in high-impact journals, sidelining innovative research from emerging or interdisciplinary felds (Taşkın et al., [2022](#page-19-7)).  Similarly, policymakers who enforce rigid promotion criteria may inadvertently incentivize  practices such as publishing in questionable journals to meet quantitative targets (Öztürk &amp;  Taşkın,[ 2024](#page-18-22)).
+</text>
+
+<text page="4" section="**Gatekeeping in academia**" source="author" id="/page/3/Text/3">
+An illustrative example of gatekeeping's evolving nature is the associate professorship  system in Turkey. The Interuniversity Board of the Higher Education Council periodically  revises criteria for achieving this rank to uphold academic standards. However, these frequent changes can create uncertainty and additional challenges for academics, refecting  the dynamic and often unpredictable nature of gatekeeping in academia.
+</text>
+
+<text page="4" section="**Gatekeeping in academia**" source="author" id="/page/3/Text/4">
+Gatekeeping mechanisms—spanning publication requirements, funding allocations, and  employment opportunities—shape academic careers, particularly for early-career researchers. Understanding these dynamics and addressing their systemic roots is essential for fostering a more equitable and innovative academic environment.
+</text>
+
+
+<heading page="4" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/3/SectionHeader/5" level="2">
+## **Ever‑shifting landscape of Turkey's associate professor title system**
+</heading>
+
+<text page="4" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/3/Text/6">
+Turkey's associate professorship system is a two-stage process. In the frst stage, the title  of associate professor is conferred by the Council of Higher Education. Once this title is  obtained, candidates can apply for associate professor positions at individual universities  (Öztürk &amp; Taşkın, [2024](#page-18-22)). While the criteria for obtaining the title are standardized across  Turkey, the criteria for specifc positions are determined by the universities ofering them.  Since the title criteria are uniform nationwide, the path to achieving associate professorship  title in Turkey has been shaped by a series of reforms and adaptations over time.
+</text>
+
+<text page="4" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/3/Text/7">
+The associate professorship system in Turkey dates back to 1934, with its inception in  the Instructions of Istanbul University. Since then, the landscape has continuously evolved  (Baltacı, [2022](#page-17-8); Demirbilek &amp; Çetin, [2022)](#page-17-9). Various criteria—such as foreign language  profciency, teaching experience, oral interviews, a requisite number of publications, and  panel evaluations—have been integrated into the system. Prior to the establishment of the  Higher Education Council in 1981, changes focused on criteria like test lectures, age limits, experience, and foreign language profciency. However, following the Council's establishment, the most signifcant changes centered on the number of publications and panel  evaluations (Demirbilek &amp; Çetin, [2022](#page-17-9)). Since the 2000s, the number of publications has  become the most important—and sometimes the sole—criterion for associate professorship title appointments.
+</text>
+
+<text page="4" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/3/Text/8">
+One of the most signifcant changes occurred in 2024, when the criteria points were  radically altered, sparking widespread debate within Turkey's academic community[.1](#page-3-0)  The  rationale behind these revisions has been twofold: to enhance the number of scientifc  research and to elevate the standards expected of those conferred with the title of associate  professor. However, against the backdrop of a burgeoning academic landscape, heightened  competition, and the pervasive infuence of publishing conglomerates, evaluating the scholarly credentials of researchers has become increasingly complex. Consequently, numerical metrics have gained prominence, fostering a culture of rapid and expedited publishing
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/4/Text/2">
+(Tonta, [2017)](#page-19-8). Alarmingly, studies have indicated that these promotion and appointment  systems have inadvertently incentivized researchers in Turkey to publish in questionable  journals (Öztürk &amp; Taşkın, [2024)](#page-18-22).
+</text>
+
+<text page="5" section="**Ever‑shifting landscape of Turkey's associate professor title system**" source="author" id="/page/4/Text/3">
+This phenomenon has ensnared early-career researchers in a relentless cycle of "publish or perish," from the completion of their doctoral studies to the application for associate professorship, inadvertently perpetuating the neoliberal ethos within academia. As they  navigate these challenges, the pursuit of academic excellence becomes intertwined with the  exigencies of survival in an increasingly competitive scholarly environment.
+</text>
+
+
+<heading page="5" section="**Data and methods**" source="author" id="/page/4/SectionHeader/4" level="1">
+# **Data and methods**
+</heading>
+
+
+<heading page="5" section="**Data collection**" source="author" id="/page/4/SectionHeader/5" level="4">
+#### **Data collection**
+</heading>
+
+<text page="5" section="**Data collection**" source="author" id="/page/4/Text/6">
+To address the research questions of this study, we selected the feld of library and information science, a domain where scientometrics and research evaluation studies are also conducted. Until the mid-1950s, this feld in Turkey was largely based on a master-apprentice  model, with training provided through courses. Formal university education in this feld  began with the establishment of the Librarianship Institute at Ankara University in 1954  (Atılgan, [1995](#page-17-10)). Over the years, the department has evolved to include specializations such  as librarianship, archival studies, and documentation/information. Today, it is consolidated  under the name "Department of Information and Records Management." As of 2024, the  feld ofers undergraduate, graduate, and doctoral programs at 14 universities, including 13  state universities and one foundation university, with a total of 275 academic staf[.2](#page-4-0)
+</text>
+
+<text page="5" section="**Data collection**" source="author" id="/page/4/Text/7">
+The 98 academics included in this study were selected based on their afliation with  state universities ofering programs in library and information science in Turkey. The  selection criteria focused on academics holding titles such as professor, associate professor,  and faculty members with Ph.D.s, while excluding research assistants and lecturers, as they  are not required to publish under the associate professorship evaluation system. Detailed  information about 98 academics was collected from the main academic platform/database  of the Council of Higher Education.[3](#page-4-1)  The platform of the Council of Higher Education is  an ofcial database listing all academics working in Turkey. All academics in the higher  education system are recorded in this database by the Council. Applications for the title  of associate professor and the publication-based academic incentive allowance system for  academics at state universities are processed through records entered by academics in this  database. Thus, the database is crucial as it provides access to the publications of all academics working in Turkey, along with their declarations in promotion and incentive fles.  Information about the academic careers of 98 academics, their publications, and the theses  they supervised was obtained from this database. Additionally, the Web of Science profles  of these academics were accessed through individual queries conducted in March 2024.
+</text>
+
+<text page="5" section="**Data collection**" source="author" id="/page/4/Text/8">
+After collecting all publications and other relevant information, a thorough data cleaning and standardization process was conducted. Non-refereed publications and works published in 2024 were excluded from the study as these entries could introduce variability  unrelated to the established criteria for academic evaluation. This focus on peer-reviewed
+</text>
+
+<figure page="5" section="**Data collection**" source="author" id="/page/4/Picture/11" image="LR.R37_fig04.jpg">[FIGURE: see LR.R37_fig04.jpg]</figure>
+
+<footnote page="5" section="**Data collection**" source="author" id="/page/4/Footnote/9">
+^(2) [https://yokatlas.yok.gov.tr/lisans-bolum.php?b=10021 ](https://yokatlas.yok.gov.tr/lisans-bolum.php?b=10021)|[ https://akademik.yok.gov.tr/](https://akademik.yok.gov.tr/)
+</footnote>
+
+<footnote page="5" section="**Data collection**" source="author" id="/page/4/Footnote/10">
+^(3) [https://akademik.yok.gov.tr/AkademikArama/](https://akademik.yok.gov.tr/AkademikArama/)
+</footnote>
+
+</page>
+<page number="6">
+<text page="6" section="**Data collection**" source="author" id="/page/5/Text/2">
+and completed works provides a consistent and robust analytical framework. Additionally, two publications belonging to the same researcher, which were falsely declared to be published in certain journals but were not included in those journals, were removed from the dataset.
+</text>
+
+<text page="6" section="**Data collection**" source="author" id="/page/5/Text/3">
+For journal quartile information, we used the quartiles of the latest available year, as journal ranking systems undergo periodic changes, and some journals may no longer be indexed. If a journal was no longer indexed, the last available quartile was used. This approach was necessary due to data availability issues, as impact factors are not consistently accessible for all years, particularly for journals that have ceased indexing. Additionally, using a uniform time frame ensured comparability across all journals, avoiding inconsistencies that arise from fluctuating rankings. It is important to note that quartile information was used solely in the Article Criteria Fulfillment Scores by Titles section for point calculations, which had minimal impact on our overall findings. As emphasized throughout the paper, our primary focus is on the inequalities inherent in point-based systems, and we did not use Journal Impact Factor (JIF) or quartile rankings as a direct analytical component of our study.
+</text>
+
+
+<heading page="6" section="**Analysis **" source="author" id="/page/5/SectionHeader/4" level="3">
+### **Analysis **
+</heading>
+
+<text page="6" section="**Analysis **" source="author" id="/page/5/Text/5">
+In this study, we calculated the point scores of academics based on relevant policies and then implemented statistical tests to determine significant differences. The Kruskal–Wallis test and the Mann–Whitney U test were employed to analyze the data and identify statistically significant differences between the groups. Additionally, effect sizes were calculated to quantify the magnitude of these differences, using the formulas provided by Cohen (2013).
+</text>
+
+<equation page="6" section="**Analysis **" source="author" id="/page/5/Equation/6">
+$$
+Kruskal Wallis \eta_H^2 = (H - k + 1)/(n - k) (1)
+$$
+</equation>
+
+<equation page="6" section="**Analysis **" source="author" id="/page/5/Equation/7">
+$$
+Mann Whitney Ur_G = 2(\overline{R}_A - \overline{R}_B)/N_T (2)
+$$
+</equation>
+
+<text page="6" section="**Analysis **" source="author" id="/page/5/Text/8">
+For data visualization, we utilized various tools. Sankey diagrams were created using Flourish Studio&lt;sup&gt;4&lt;/sup&gt; to illustrate the flow and relationships within the data. Violin plots were generated using the R Commander kmggplot&lt;sup&gt;5&lt;/sup&gt; plugin to display the distribution of point scores across different academic ranks. Scatterplots were produced in Excel to examine correlations and trends within the data. All statistical tests were conducted using IBM SPSS 23, ensuring robust and reliable analysis. The combination of these tools and statistical methods allowed for a comprehensive examination of the point scores and the identification of key patterns and differences among the academic groups.
+</text>
+
+<text page="6" section="**Analysis **" source="author" id="/page/5/Text/9">
+The study employed diverse data visualization methods, including Sankey diagrams, violin plots, and scatterplots, to enhance the interpretability of the findings. Sankey diagrams effectively illustrate the flow and relationships within the data, making complex interactions between variables more accessible. Violin plots were chosen for their ability to display the distribution and density of point scores across different academic ranks, while
+</text>
+
+<footnote page="6" section="**Analysis **" source="author" id="/page/5/Footnote/10">
+^(4 )https://flourish.studio/
+</footnote>
+
+</page>
+<page number="7">
+<text page="7" section="**Analysis **" source="author" id="/page/6/Text/2">
+scatterplots provided intuitive representations of correlations and trends within the dataset.  These visualizations collectively ensure a nuanced and transparent analysis.
+</text>
+
+<text page="7" section="**Analysis **" source="author" id="/page/6/Text/3">
+Despite the rigor of the methodology, certain limitations warrant acknowledgment. The  reliance on data extracted from a single academic database, while comprehensive, may not  encompass all relevant academic outputs. Additionally, self-reported publication data could  introduce biases; however, the rigorous data cleaning and verifcation processes employed  aimed to minimize such risks.
+</text>
+
+
+<heading page="7" section="**Findings**" source="author" id="/page/6/SectionHeader/4" level="2">
+## **Findings**
+</heading>
+
+
+<heading page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/SectionHeader/5" level="4">
+#### **Web of science profles of information science academics**
+</heading>
+
+<text page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/Text/6">
+Web of Science is the essential research evaluation tool in Turkey and most points are  given to Web of Science publications in almost all research evaluation systems. According  to the latest changes in the associate professorship title criteria, a researcher has to collect  10 points from Web of Science publications as an obligatory rule, also the criteria points  are determined by using Web of Science quartiles. For example, an article indexed in Web  of Science Q1 is worth 30 points, while an ESCI-indexed publication is worth 10 points  (The Council of Higher Education, Turkey, [2024)](#page-19-9).
+</text>
+
+<text page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/Text/7">
+Figure  [1](#page-6-0) shows Web of Science profles of researchers working in library and information science in Turkey. The analysis indicates that early-career researchers face disadvantages in terms of publication and citation metrics, particularly when compared to more  established academics. While this fnding aligns with existing literature on the challenges  faced by early-career researchers, it is important to acknowledge that these observations  are based on quantitative data and may not fully capture the nuances of individual career  trajectories. As the literature already mentioned, the h-index is not an efective tool for
+</text>
+
+<figure_group page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/FigureGroup/93">
+<figure page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/Figure/8" image="LR.R37_fig05.jpg">[FIGURE: see LR.R37_fig05.jpg]</figure>
+<caption page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/Caption/9">
+**Fig.** **1 **Web of science profles of researchers
+</caption>
+</figure_group>
+
+<figure page="7" section="**Web of science profles of information science academics**" source="author" id="/page/6/Picture/10" image="LR.R37_fig06.jpg">[FIGURE: see LR.R37_fig06.jpg]</figure>
+
+</page>
+<page number="8">
+<text page="8" section="**Web of science profles of information science academics**" source="author" id="/page/7/Text/2">
+evaluating researchers' careers, especially for early-career researchers (de Rijcke et al., 2021). However, having a 5 h-index indicates 5 points in the associate professorship title system (The Council of Higher Education, Turkey, 2024). Figure 1a shows that only 9 people meet that criterion (10%). Four of them are professors, two are associate professors, and three are faculty members with Ph.D. with associate professor titles. Six of these academics work for the same institution. All these findings indicate that the h-index is not an accurate tool to evaluate the library and information science field, while publication and citation density is low. On the other hand, some senior scholars achieve high h-index scores, which may be influenced by their established reputations and networks within their fields or sub-disciplines. However, it is essential to recognize that the h-index does not exclusively reflect research impact but may also be shaped by factors such as career duration and disciplinary norms. These inequalities were confirmed by statistical test results. According to Kruskal Wallis test, there is a significant difference between the h-index and titles (H(3) = 18.499, p &lt; 0.001, \eta^{\rm H}_2 = 0.144). While there is no significant difference between professors and associate professors, when four groups are compared in pairs using the Mann Whitney U test, the results for comparisons covering faculty members with Ph.D. were statistically significant.6
+</text>
+
+<text page="8" section="**Web of science profles of information science academics**" source="author" id="/page/7/Text/3">
+Although the number of publications by professors seems high in Fig. 1b, and it is statistically significant (H(3) = 14.968, p = 0.002, \eta_2^H = 0.106), when it is normalized using experience years, there is no difference by title (p = 0.556). The lowest Web of Science publication output is identified for professors (average = 0.34, median = 0.24), followed by Associate Professors (average = 0.66, median = 0.25), Faculty members with Ph.D. (average = 0.69, median = 0.33) and Faculty members with Ph.D. with Associate Professor title (average = 0.73, median = 0.66).
+</text>
+
+<text page="8" section="**Web of science profles of information science academics**" source="author" id="/page/7/Text/4">
+Citations are an important part of the associate professorship system of Turkey, especially citations from the Web of Science. While a citation in Web of Science equals 3 points, it is 1 or 2 for other sources. While the average number of citations per Professor is 1.55 (median=0.32), it is 1.42 for Faculty members with Ph.D. (median=0.8), 10.3 for Faculty members with Ph.D. with Associate Professor title (median=1.46), and 4.44 for associate professors (median=1.06). These scores are expected for faculty members with Ph.D. since they have short experience in the field and do not have sufficient time to get enough citations, however, it is an interesting result for professors while they will be the panel evaluators of these early-career researchers.
+</text>
+
+
+<heading page="8" section="All articles published in library and information science" source="author" id="/page/7/SectionHeader/5" level="4">
+#### All articles published in library and information science
+</heading>
+
+
+<heading page="8" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/7/SectionHeader/6" level="4">
+#### Differences on author declarations: conceptualisation problem
+</heading>
+
+<text page="8" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/7/Text/7">
+Before investigating the distribution of articles based on titles, it's crucial to highlight a significant aspect of the associate professorship title system in Turkey: the weighting of international publications. As the term "international" lacks a precise definition, allowing authors to categorize articles published in Turkey-addressed and Turkish language journals as international. This phenomenon stems from the criteria, which prioritize a journal's
+</text>
+
+</page>
+<page number="9">
+<figure_group page="9" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/8/FigureGroup/126">
+<figure page="9" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/8/Figure/2" image="LR.R37_fig07.jpg">[FIGURE: see LR.R37_fig07.jpg]</figure>
+<caption page="9" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/8/Caption/3">
+**Fig.** **2 **Languages and publisher types of articles and author declarations
+</caption>
+</figure_group>
+
+<text page="9" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/8/Text/4">
+inclusion in international indexes over factors like language, thematic focus, or publisher  location.
+</text>
+
+<text page="9" section="Differences on author declarations: conceptualisation problem" source="author" id="/page/8/Text/5">
+Figure[ 2](#page-8-0) illustrate authors' statements regarding their articles. These declarations reveal  that authors earn points by designating their Turkish-language articles, published by local  or regional publishers, as international. Conversely, despite being published in English or  by international publishing houses, some articles are labeled as national due to the system's  requirement for a minimum of three national publications. This practice persists even when  such articles yield low scores, underscoring a conceptual defcit within the system.
+</text>
+
+
+<heading page="9" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/8/SectionHeader/6" level="4">
+#### **Huge increase in the number of articles after 2015**
+</heading>
+
+<text page="9" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/8/Text/7">
+There are two major journals in the feld of library and information science in Turkey:  *Turkish Librarianship (Türk Kütüphaneciliği—since 1952)*[7](#page-8-1)  and *Information World (Bilgi * *Dünyası—since 2000)*. [8](#page-8-2)  Both journals are published by associations—the Turkish Librarians' Association and the University and Research Librarians' Association, respectively.  These journals accounted for 38% of the works published in the feld up until 2023, highlighting their signifcant role.
+</text>
+
+<text page="9" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/8/Text/8">
+However, since 2015, there has been a notable increase in the number of articles published by university journals, which has even surpassed the publications from associations  over the past fve years. Additionally, 2015 saw the emergence of individually run local  journals. One of the main reasons for this shift is likely the academic incentive allowance  regulation started to be implemented in 2015 which aims to grant academics at state universities annual salary bonuses based on the number of publications they produce (Akademik Teşvik Ödeneği Yönetmeliği [Academic Incentive Allowance Code], [2020)](#page-17-13).[9](#page-8-3)  As a  result, the landscape of library and information science in Turkey, which had remained
+</text>
+
+<footnote page="9" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/8/Footnote/9">
+^(7) [https://dergipark.org.tr/tk](https://dergipark.org.tr/tk)
+</footnote>
+
+<footnote page="9" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/8/Footnote/10">
+^(8) [https://bd.org.tr/](https://bd.org.tr/)
+</footnote>
+
+</page>
+<page number="10">
+<figure_group page="10" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/9/FigureGroup/162">
+<figure page="10" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/9/Figure/2" image="LR.R37_fig08.jpg">[FIGURE: see LR.R37_fig08.jpg]</figure>
+<caption page="10" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/9/Caption/3">
+**Fig.** **3 **Increase in number of articles by year
+</caption>
+</figure_group>
+
+<text page="10" section="**Huge increase in the number of articles after 2015**" source="author" id="/page/9/Text/4">
+relatively consistent from 1980 to 2010, has undergone signifcant changes. Figure[ 3 ](#page-9-0)shows  increase in number of articles by year and publisher type.
+</text>
+
+
+<heading page="10" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/9/SectionHeader/5" level="4">
+#### **Article criteria fulfllment scores by titles**
+</heading>
+
+<text page="10" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/9/Text/6">
+Figure [4](#page-10-0) shows the scores that library and information science academics could receive in  2023 and 2024 for the articles they produced between their doctorate and associate professorship years. According to the fgure, the highest average score belongs to faculty members with Ph.D. with associate professor title, with a mean of 54.6 points (median: 45.0).  This is followed by associate professors (mean: 53.7, median: 52.1). The diference in  medians is notable, indicating a wide range of scores among faculty members with Ph.D.  with associate professor title, with some scoring very high and others very low. Professors  in 2023 have an average score of 46.8 (median: 45). As expected, the lowest scores belong  to faculty members with Ph.D., who are at the beginning of their careers. Kruskal–Wallis  test results confrm a signifcant diference between the 2023 scores across diferent academic ranks (*H*(3)=22.110, *p*&lt;0.001, *η*^(H) 2=0.194), with the primary source of diference  being the scores of the faculty members with Ph.D[.10](#page-9-1)
+</text>
+
+<text page="10" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/9/Text/7">
+A similar pattern can be observed in the scores for 2024. The average score for professors is 44.2 (median: 43.3), for associate professors it is 51.4 (median: 48.8), for faculty members with Ph.D. with associate professorship title is 50.5 (median: 41.3), and  for faculty members with Ph.D. is 22 (median: 20). There is also a signifcant diference between the 2024 scores across diferent academic ranks (*H*(3)=21.379, *p*&lt;0.001,  *η*H 2=0.186), with the primary source of this diference being the scores of the doctoral  faculty members[.11](#page-9-2)
+</text>
+
+<footnote page="10" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/9/Footnote/8">
+^(10) Professor and Faculty member with Ph.D.: *U*=244.000, *p*=0.001, *rG*=0.490; Associate professor and  Faculty member with Ph.D.: *U*=90.000, *p*&lt;0.001, *rG*=0.689; Faculty member with Ph.D. with Associate  professor title and Faculty member with Ph.D.: *U*=41.500, *p*&lt;0.001, *rG*=0.713).
+</footnote>
+
+</page>
+<page number="11">
+<figure_group page="11" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/10/FigureGroup/25">
+<figure page="11" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/10/Figure/2" image="LR.R37_fig09.jpg">[FIGURE: see LR.R37_fig09.jpg]</figure>
+<caption page="11" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/10/Caption/3">
+**Fig.** **4 **Criteria point diferences by year and title for articles
+</caption>
+</figure_group>
+
+<text page="11" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/10/Text/4">
+Although changes have been made to the criteria, there is no signifcant change in the  scores received from the articles or in the distribution of these scores across titles. The  main reason for this stability is that the changes regarding the articles align with the
+</text>
+
+<figure page="11" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/10/Picture/5" image="LR.R37_fig10.jpg">[FIGURE: see LR.R37_fig10.jpg]</figure>
+
+</page>
+<page number="12">
+<text page="12" section="**Article criteria fulfllment scores by titles**" source="author" id="/page/11/Text/2">
+publishing practices of the feld. While the scores in the 2023 criteria ranged from 5 to 20,  the 2024 criteria award points ranging from 3 to 30. The maximum of 30 points is reserved  for articles published in journals included in SCI and SSCI First Quartile (Q1). The total  number of Q1 publications in the feld of library and information science is 24 (1.5%). The  possibility of getting the highest score is hard to achieve for most of the scholars working  in the feld. Additionally, the requirement for national articles increased from three in 2023  to fve in 2024, with three of these fve publications needing to be single-authored. Since  these changes are in line with the publishing practices of the feld of library and information science, which is a small branch of social sciences, it is inevitable that there are no  signifcant diferences in scores between the criteria. However, important diferences are  found for books and book chapters published in the feld.
+</text>
+
+
+<heading page="12" section="**Books and book chapters**" source="author" id="/page/11/SectionHeader/3" level="2">
+## **Books and book chapters**
+</heading>
+
+
+<heading page="12" section="**Book infation in library and information science**" source="author" id="/page/11/SectionHeader/4" level="3">
+### **Book infation in library and information science**
+</heading>
+
+<text page="12" section="**Book infation in library and information science**" source="author" id="/page/11/Text/5">
+As shown in Fig.[ 5,](#page-11-0) there has been a remarkable increase in the number of books and book  chapters published, especially since 2015. This surge can be attributed to the academic  incentive allowance regulation introduced in 2015, similar to the one for articles. The
+</text>
+
+<figure_group page="12" section="**Book infation in library and information science**" source="author" id="/page/11/FigureGroup/68">
+<figure page="12" section="**Book infation in library and information science**" source="author" id="/page/11/Figure/6" image="LR.R37_fig11.jpg">[FIGURE: see LR.R37_fig11.jpg]</figure>
+<caption page="12" section="**Book infation in library and information science**" source="author" id="/page/11/Caption/7">
+**Fig.** **5 **Number of books/book chapters in library and information science feld by publisher type and year
+</caption>
+</figure_group>
+
+<figure page="12" section="**Book infation in library and information science**" source="author" id="/page/11/Picture/8" image="LR.R37_fig12.jpg">[FIGURE: see LR.R37_fig12.jpg]</figure>
+
+</page>
+<page number="13">
+<text page="13" section="**Book infation in library and information science**" source="author" id="/page/12/Text/2">
+impact of the 2015 change is evident in the rise in published books and book chapters. Figure [5 ](#page-11-0)illustrates that 999 books or book chapters were published between 1980 and 2023,  based on data collected from academics' declarations. Of these, 710 publications (71%)  were published after 2015.
+</text>
+
+<text page="13" section="**Book infation in library and information science**" source="author" id="/page/12/Text/3">
+A similar conceptualization problem defned for articles' audiences (national/international) is observed with books and book chapters. Until 2023, the criteria required that a  book publishing house must have been operating for at least four years to be recognized.  A national publishing house must be cataloged in university libraries in Turkey, while  an international publishing house must be cataloged in the library of a university ranked  among the top 500 by any ranking organization. This can be seen as a practice related  to LibCitation. However, the main purpose of LibCitation is to reveal the cultural impact  of books and determine the bestsellers in libraries. It is concerned with how many diferent libraries catalog a book, not whether a book is cataloged in a single library (White  et al., [2009)](#page-19-10). Furthermore, this measure does not refect the quality of the book but rather  the prestige of the publisher and the popularity of the book. Additionally, factors such as  libraries' cataloging policies, donation policies, and reader demands may afect a book's  availability in libraries.
+</text>
+
+<text page="13" section="**Book infation in library and information science**" source="author" id="/page/12/Text/4">
+Recognizing these issues, the Higher Education Council revised the criteria and adopted  the Book Citation Index (BKCI) as a "quality" scale for books. Books indexed in BKCI  now receive 20 points, and book chapters receive 10 points, while other books and book  chapters receive 5 and 3 points, respectively. However, as of September 2023, only three  books from Turkey are indexed in BKCI, along with 10,494 book chapters (Taşkın, [2023](#page-19-11)),  and the criteria does not ft the publication practices of Turkey, especially for SSH felds.
+</text>
+
+<text page="13" section="**Book infation in library and information science**" source="author" id="/page/12/Text/5">
+The new system also requires a minimum of two books or book chapters. Due to the  infationary efects of previous policies, a maximum limit of 20 points for all books and  5 points for locally published books was introduced in the 2024 update. It is too early to  monitor the efects of the current scoring system on book publishing, but future studies are  needed to understand the efects of metric and index-based research evaluation systems on  scientifc felds.
+</text>
+
+<text page="13" section="**Book infation in library and information science**" source="author" id="/page/12/Text/6">
+Figure [3 ](#page-9-0)shows that more than half of the books and book chapters in the library and  information science feld are published by local commercial publishers. However, it should  be noted that a declaration from the publisher stating that the publishing house is international is sufcient to classify Turkish-language and Turkey-based publishers as international publishers. The book infation after 2015 requires in depth analysis of the published  books.
+</text>
+
+
+<heading page="13" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/12/SectionHeader/7" level="3">
+### **Book criteria fulfllment scores by titles**
+</heading>
+
+<text page="13" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/12/Text/8">
+According to Fig. [6](#page-13-0), current associate professors have the highest scores in the book and  book chapter sections, according to both the old and new criteria. Table [1](#page-13-1) shows the mean  and median values of the book and book chapter scores for both 2023 and 2024. The significant diference between titles and scores was confrmed by the Kruskal–Wallis test. There  is a signifcant relationship between the scores for both 2023 (*H*(3)=22.938, *p*&lt;0.001,  *η*H 2=0.212) and 2024 (*H*(3)=20.971, *p*&lt;0.001, *η*^(H) 2=0.191) and the academic titles.  This time, the source of the signifcant diference is academics with the title of associate
+</text>
+
+<figure page="13" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/12/Picture/9" image="LR.R37_fig13.jpg">[FIGURE: see LR.R37_fig13.jpg]</figure>
+
+</page>
+<page number="14">
+<figure page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Figure/2" image="LR.R37_fig14.jpg">[FIGURE: see LR.R37_fig14.jpg]</figure>
+
+<figure page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Figure/4" image="LR.R37_fig15.jpg">[FIGURE: see LR.R37_fig15.jpg]</figure>
+
+<caption page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Caption/6">
+**Fig.** **6 **Criteria point diferences by year and title for books &amp; book chapters
+</caption>
+
+<table_group page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/TableGroup/99">
+<caption page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Caption/7">
+**Table** **1 **Mean and median values  of the book and book chapter  scores
+</caption>
+<table page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Table/8">
+| Title | 2023 | 2024 |
+| --- | --- | --- |
+|  | Mean | Median | Mean | Median |
+| Professor | 23.3 | 23.5 | 9.5 | 8.9 |
+| Associate professor | 55.1 | 52.0 | 20.3 | 19.5 |
+| Faculty member with Ph.D.with associate professortitle | 31.0 | 33.9 | 13.0 | 12.6 |
+| Faculty member with Ph.D | 18.4 | 15.0 | 7.0 | 5.0 |
+</table>
+</table_group>
+
+<figure page="14" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/13/Picture/9" image="LR.R37_fig16.jpg">[FIGURE: see LR.R37_fig16.jpg]</figure>
+
+</page>
+<page number="15">
+<figure_group page="15" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/14/FigureGroup/116">
+<figure page="15" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/14/Figure/2" image="LR.R37_fig17.jpg">[FIGURE: see LR.R37_fig17.jpg]</figure>
+<caption page="15" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/14/Caption/3">
+**Fig.** **7 **Point diferences between 2023 and 2024, articles and books
+</caption>
+</figure_group>
+
+<text page="15" section="**Book criteria fulfllment scores by titles**" source="author" id="/page/14/Text/4">
+professor.[12](#page-14-0) All these fndings indicate that academics who currently hold the title of associate professor have largely benefted from the book/book chapter option while obtaining  this title. However, the decrease in scores after policy change, which was not observed in  the articles, was noted in the books (see Fig. [7](#page-14-1)). While the article criteria have remained  relatively unchanged, signifcant revisions have been made to the book criteria. It is important to monitor the efects of these revisions in the future.
+</text>
+
+
+<heading page="15" section="**Supervising the next generation academics**" source="author" id="/page/14/SectionHeader/5" level="2">
+## **Supervising the next generation academics**
+</heading>
+
+<text page="15" section="**Supervising the next generation academics**" source="author" id="/page/14/Text/6">
+Supervising the next generation of academics is crucial for the continued growth and  advancement of academia. As important as the books, book chapters, and articles written by academics are, the theses they supervise are of great importance as students generally tend to copy the practices they have experienced with their advisors. These experiences enable students to pursue careers in academia, perpetuating this cycle throughout  their lives. A total of 67 academics (35 professors, 16 associate professors, and 16 faculty  members with Ph.D.s) have supervised at least one master's or doctoral thesis to date. Up  until the research data was collected, 638 thesis studies (153 doctoral dissertations and 485  master's theses) supervised by academics in our data were conducted. These theses were  written by 572 diferent students. Of these students, 94 now work at universities with academic titles. Looking at the distribution of titles, 3 of these students are now professors, 6  are associate professors, 26 are faculty members with Ph.D.s, 16 are research assistants,  and 43 are lecturers. Almost all of these 94 academics (91.5%) completed their thesis/dissertations in 2010 or later.
+</text>
+
+</page>
+<page number="16">
+
+<heading page="16" section="**Discussion**" source="author" id="/page/15/SectionHeader/2" level="2">
+## **Discussion**
+</heading>
+
+<text page="16" section="**Discussion**" source="author" id="/page/15/Text/3">
+The diferences between early-career researchers and more established scholars extend  beyond publication and citation metrics to include the networks the latter have built over  the years. These networks often provide access to opportunities, collaborations, and  resources that are less readily available to ECRs. This disparity highlights the critical role  of mentorship and support structures in academia. Advisors and mentors not only ofer  guidance but also facilitate connections to broader academic networks, which can signifcantly infuence career trajectories and mitigate some of the challenges faced by ECRs.
+</text>
+
+<text page="16" section="**Discussion**" source="author" id="/page/15/Text/4">
+The fndings of this study address critical questions about the dynamics within Turkey's  associate professorship system, particularly as they afect early-career researchers compared to more established academics. By analyzing the criteria fulfllment and research  outputs of various academic ranks, we can discern how well decision-makers meet the  expectations set for newer entrants into the academic feld.
+</text>
+
+
+<heading page="16" section="**Meeting the criteria expected of early‑career researchers**" source="author" id="/page/15/SectionHeader/5" level="4">
+#### **Meeting the criteria expected of early‑career researchers**
+</heading>
+
+<text page="16" section="**Meeting the criteria expected of early‑career researchers**" source="author" id="/page/15/Text/6">
+The fndings of this study reveal signifcant challenges faced by early-career researchers  in meeting the criteria expected by the associate professorship system in Turkey. Despite  a higher overall publication output among professors, when adjusted for years of experience, there is no signifcant diference in output across academic titles, underscoring the  disadvantage faced by ECRs. The data indicates that ECRs exhibit lower publication and  citation counts, with the lowest Web of Science publication output and average citation  scores observed among faculty members with Ph.D.s, who are at the beginning of their  academic careers. The fndings suggest that the h-index may amplify the challenges faced  by early-career researchers in felds with low publication and citation densities, such as  library and information science. However, it is imperative to acknowledge that this metric ofers a constrained perspective on scholarly contributions and should be interpreted  with caution, particularly when assessing researchers at varying stages of their careers. The  system's emphasis on international publications, which are often ambiguously defned, disproportionately afects ECRs, who may lack the resources or opportunities to publish in  high-impact journals or prestigious international venues. The increase in publications post-2015, driven by academic incentive regulations, underscores systemic issues that prioritize  quantity over impact, further complicating the landscape for ECRs striving to meet these  evolving expectations.
+</text>
+
+
+<heading page="16" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/15/SectionHeader/7" level="4">
+#### **Comparison of criterion fulfllment between groups**
+</heading>
+
+<text page="16" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/15/Text/8">
+When comparing criterion fulfllment between decision-makers and early-career researchers, the study identifes stark contrasts. Professors, who often serve as evaluators, display a  signifcantly higher publication output, but this advantage diminishes when normalized by  years of experience, suggesting that experience plays a crucial role in meeting these criteria. Interestingly, associate professors and faculty members with Ph.D. who have recently  obtained associate professorship show the highest citation averages, suggesting that they  may be more aligned with current academic expectations. However, the study also uncovers a critical issue: while professors are expected to evaluate ECRs, their own fulfllment of
+</text>
+
+<figure page="16" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/15/Picture/9" image="LR.R37_fig18.jpg">[FIGURE: see LR.R37_fig18.jpg]</figure>
+
+</page>
+<page number="17">
+<text page="17" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/16/Text/2">
+citation-based criteria is surprisingly low, with the lowest average citation scores among all  groups. This discrepancy raises concerns about the fairness and consistency of the evaluation process.
+</text>
+
+<text page="17" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/16/Text/3">
+Furthermore, the practice of categorizing Turkish-language articles as international due  to system loopholes suggests a conceptual gap that could disproportionately afect ECRs,  who may not have the same strategic understanding or opportunities to navigate these  ambiguities. The results underscore the need for a more equitable evaluation system that  accurately refects the contributions and potential of ECRs, rather than perpetuating systemic advantages held by more experienced academics.
+</text>
+
+<text page="17" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/16/Text/4">
+This study is based on quantitative analysis of publication and citation data, which provides valuable insights into patterns and disparities across academic ranks. However, these  fndings should be interpreted with caution, as they do not account for qualitative aspects  of academic contributions, such as the content, context, or signifcance of individual works.  Future research could complement this analysis with textual or qualitative methods to provide a more comprehensive understanding of these dynamics.
+</text>
+
+<text page="17" section="**Comparison of criterion fulfllment between groups**" source="author" id="/page/16/Text/5">
+Taking these limitations into account, the discussion synthesizes the study's fndings  and connects them to the broader context of academic gatekeeping. The analysis highlights  the systemic challenges faced by early-career researchers in meeting the associate professorship criteria, particularly the disparities in publication output and citation counts. Additionally, the ambiguity surrounding the defnition of 'international' publications exacerbates these challenges, creating further uncertainty for ECRs. These fndings underscore  the need for more equitable evaluation systems that address the structural disadvantages  faced by ECRs and provide clearer, fairer criteria for academic progression.
+</text>
+
+
+<heading page="17" section="**Conclusion**" source="author" id="/page/16/SectionHeader/6" level="2">
+## **Conclusion**
+</heading>
+
+<text page="17" section="**Conclusion**" source="author" id="/page/16/Text/7">
+The fndings of this study reveal critical disparities in how the associate professorship criteria impact early-career researchers compared to more established academics. ECRs face  signifcant disadvantages due to systemic factors, including lower publication outputs,  fewer citations, and challenges arising from the ambiguous defnition of 'international'  publications. These disparities highlight the pressing need for a more balanced and equitable evaluation system that better accommodates the diverse contributions of academics at  diferent career stages.
+</text>
+
+<text page="17" section="**Conclusion**" source="author" id="/page/16/Text/8">
+This study underscores the importance of critically examining the unintended consequences of the current research evaluation system. Overemphasis on quantitative metrics  such as the h-index and publication counts risks encouraging practices like publishing in  questionable venues and prioritizing quantity over quality. These challenges not only afect  ECRs disproportionately but also have broader implications for academic integrity and  innovation.
+</text>
+
+<text page="17" section="**Conclusion**" source="author" id="/page/16/Text/9">
+To address these issues, future reforms should prioritize evaluation frameworks that  value diverse research outputs and contributions. This includes developing clearer and  more inclusive defnitions for 'international' publications, recognizing collaborative and  interdisciplinary work, and incorporating qualitative metrics into the evaluation process.  By fostering a more inclusive and supportive academic environment, institutions can mitigate systemic disadvantages and promote equity across career stages.
+</text>
+
+<figure page="17" section="**Conclusion**" source="author" id="/page/16/Picture/10" image="LR.R37_fig19.jpg">[FIGURE: see LR.R37_fig19.jpg]</figure>
+
+</page>
+<page number="18">
+<text page="18" section="**Conclusion**" source="author" id="/page/17/Text/2">
+**Author contributions** HSŞ: Conceptualization, methodology, data curation, writing—original draft. İSK:  Conceptualization, methodology, data curation, data cleaning and standardization, writing—review &amp;  editing. MSK: Conceptualization, methodology, data curation. ZT: Conceptualization, methodology, data  curation, data cleaning and standardization, formal analysis, visualization, supervision, writing—review &amp;  editing.
+</text>
+
+<text page="18" section="**Conclusion**" source="author" id="/page/17/Text/3">
+**Funding** Open access funding provided by the Scientifc and Technological Research Council of Türkiye  (TÜBİTAK). No funding.
+</text>
+
+
+<heading page="18" section="**Declarations**" source="author" id="/page/17/SectionHeader/4" level="1">
+# **Declarations**
+</heading>
+
+<text page="18" section="**Declarations**" source="author" id="/page/17/Text/5">
+**Confict of interest** Authors declare no confict of interest.
+</text>
+
+<text page="18" section="**Declarations**" source="author" id="/page/17/Text/6">
+**Open Access** This article is licensed under a Creative Commons Attribution 4.0 International License,  which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long  as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article  are included in the article's Creative Commons licence, unless indicated otherwise in a credit line to the  material. If material is not included in the article's Creative Commons licence and your intended use is not  permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly  from the copyright holder. To view a copy of this licence, visit [http://creativecommons.org/licenses/by/4.0/.](http://creativecommons.org/licenses/by/4.0/)
+</text>
+
+
+<heading page="18" section="**References**" source="author" id="/page/17/SectionHeader/7" level="2">
+## **References**
+</heading>
+
+<list page="18" section="**References**" source="author" id="/page/17/ListGroup/236">
+- Akademik Teşvik Ödeneği Yönetmeliği [Academic Incentive Allowance Code], Law No. 2043. (2020).  [https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=21&amp;MevzuatNo=](https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=21&amp;MevzuatNo=201811834&amp;MevzuatTertip=5) [201811834&amp;MevzuatTertip=5](https://www.mevzuat.gov.tr/anasayfa/MevzuatFihristDetayIframe?MevzuatTur=21&amp;MevzuatNo=201811834&amp;MevzuatTertip=5)
+- Atılgan, D. (1995). Türkiye'de kütüphaneciliğin gelişimi [The development of librarianship in Turkey]. *Türk * *Kütüphaneciliği*, *9*(1), Article 1.
+- Austin, A. E., &amp; Rice, R. E. (1998). Making tenure viable: Listening to early career faculty. *American * *Behavioral Scientist,* *41*(5), 736–754. [https://doi.org/10.1177/0002764298041005009](https://doi.org/10.1177/0002764298041005009)
+- Baltacı, A. (2022). Doçentlik başvuru ve değerlendirme sürecinde yaşanan sorunlar: Fenomenolojik bir  araştırma [The problems experienced in associate professorship application and evaluation process: A  phenomenological study]. *Yükseköğretim Ve Bilim Dergisi*.[ https://doi.org/10.5961/higheredusci.10546](https://doi.org/10.5961/higheredusci.1054604) [04](https://doi.org/10.5961/higheredusci.1054604)
+- Bieber, J. P. (1997). Review of Review of faculty work and public trust: Restoring the value of teaching  and public service in American academic life, by J.S. Fairweather. *The Journal of Higher Education,* *68*(2), 233–234.[ https://doi.org/10.2307/2959959](https://doi.org/10.2307/2959959)
+- Bülbül, S. (2021). Glass ceiling in academia revisited: Evidence from the higher education system of Turkey. *International Journal of Sociology,* *51*(2), 87–104. [https://doi.org/10.1080/00207659.2021.18818](https://doi.org/10.1080/00207659.2021.1881872) [72](https://doi.org/10.1080/00207659.2021.1881872)
+- Cohen, B. H. (2013). *Statistical tests for ordinal data*. Wiley.
+- Cook, J. A., &amp; Fonow, M. M. (1984). Am I my sister's gatekeeper? Cautionary tales from the academic hierarchy. *Humanity &amp; Society,* *8*(4), 442–452. [https://doi.org/10.1177/016059768400800408](https://doi.org/10.1177/016059768400800408)
+- de Rijcke, S., Waltman, L., &amp; van Leeuwen, T. (2021, May 19). Halt the h-index. *Leiden Madtrics*.[ https://](https://www.leidenmadtrics.nl/articles/halt-the-h-index) [www.leidenmadtrics.nl/articles/halt-the-h-index](https://www.leidenmadtrics.nl/articles/halt-the-h-index)
+- Demirbilek, M., &amp; Çetin, M. (2022). Cumhuriyetten günümüze yükseköğretimde akademik yükselme ve  atama süreci [Academic promotion and appointment process in higher education since the proclamation of the Turkish Republic]. *Yükseköğretim Dergisi*.[ https://doi.org/10.2399/yod.21.810002](https://doi.org/10.2399/yod.21.810002)
+- Dutta, S. J., Knafo, S., &amp; Lovering, I. A. (2022). Neoliberal failures and the managerial takeover of governance. *Review of International Studies,* *48*(3), 484–502.[ https://doi.org/10.1017/S0260210521000619](https://doi.org/10.1017/S0260210521000619)
+- Fanelli, D. (2010). Do pressures to publish increase scientists' bias? An empirical support from US States  data. *PLoS ONE,* *5*(4), e10271.[ https://doi.org/10.1371/journal.pone.0010271](https://doi.org/10.1371/journal.pone.0010271)
+- Forsberg, E., Geschwind, L., Levander, S., &amp; Wermke, W. (Eds.). (2022). *Peer review in an era of evalua**tion: Understanding the practice of gatekeeping in academia*. Springer.
+- Gardner, S. K. (2008). "What's too much and what's too little?": The process of becoming an independent  researcher in doctoral education. *The Journal of Higher Education,* *79*(3), 326–350.[ https://doi.org/10.](https://doi.org/10.1080/00221546.2008.11772101) [1080/00221546.2008.11772101](https://doi.org/10.1080/00221546.2008.11772101)
+</list>
+
+<figure page="18" section="**References**" source="author" id="/page/17/Picture/22" image="LR.R37_fig20.jpg">[FIGURE: see LR.R37_fig20.jpg]</figure>
+
+</page>
+<page number="19">
+<list page="19" section="**References**" source="author" id="/page/18/ListGroup/293">
+- Hammarfelt, B., &amp; Hallonsten, O. (2022). Are evaluative bibliometrics neoliberal? A historical and theoretical problematization. *Social Science Information,* *61*(4), 414–438.[ https://doi.org/10.1177/0539018423](https://doi.org/10.1177/05390184231158195) [1158195](https://doi.org/10.1177/05390184231158195)
+- Hefernan, T. (2021). Academic networks and career trajectory: 'There's no career in academia without networks.' *Higher Education Research &amp; Development,* *40*(5), 981–994. [https://doi.org/10.1080/07294](https://doi.org/10.1080/07294360.2020.1799948) [360.2020.1799948](https://doi.org/10.1080/07294360.2020.1799948)
+- Huang, H., Zhu, D., &amp; Wang, X. (2022). Evaluating scientifc impact of publications: Combining citation  polarity and purpose. *Scientometrics,* *127*(9), 5257–5281.[ https://doi.org/10.1007/s11192-021-04183-8](https://doi.org/10.1007/s11192-021-04183-8)
+- Husu, L., &amp; de Cheveigné, S. (2010). Gender and gatekeeping of excellence in research funding: European perspectives. In B. Riegraf, B. Aulenbacher, E. Kirsch-Auwärter, &amp; U. Müller (Eds.), *Gen**derChange in Academia: Re-mapping the felds of work, knowledge, and politics from a gender * *perspective* (pp. 43–59). VS Verlag für Sozialwissenschaften.
+- Janger, J., &amp; Nowotny, K. (2013). Career choices in academia. WWWforEurope Working Paper No. 36.  *WIFO Studies*.[ https://ideas.repec.org//b/wfo/wstudy/46922.html](https://ideas.repec.org//b/wfo/wstudy/46922.html)
+- Krawczyk, F., &amp; Kulczycki, E. (2021). On the geopolitics of academic publishing: The mislocated centers of scholarly communication. *Tapuya: Latin American Science, Technology and Society,* *4*(1),  1984641. [https://doi.org/10.1080/25729861.2021.1984641](https://doi.org/10.1080/25729861.2021.1984641)
+- Laudel, G. (2017). How do national career systems promote or hinder the emergence of new Research  lines? *Minerva,* *55*(3), 341–369. [https://doi.org/10.1007/s11024-017-9314-4](https://doi.org/10.1007/s11024-017-9314-4)
+- Lee, I. (2014). Publish or perish: The myth and reality of academic publishing. *Language Teaching,* *47*(2), 250–261. [https://doi.org/10.1017/S0261444811000504](https://doi.org/10.1017/S0261444811000504)
+- Mantai, L. (2017). Feeling like a researcher: Experiences of early doctoral students in Australia. *Studies * *in Higher Education,* *42*(4), 636–650. [https://doi.org/10.1080/03075079.2015.1067603](https://doi.org/10.1080/03075079.2015.1067603)
+- Marginson, S., &amp; van der Wende, M. (2007). To rank or to be ranked: The impact of global rankings in  higher education. *Journal of Studies in International Education,* *11*(3–4), 306–329. [https://doi.org/](https://doi.org/10.1177/1028315307303544) [10.1177/1028315307303544](https://doi.org/10.1177/1028315307303544)
+- Massy, W. F., &amp; Wilger, A. K. (1995). Improving productivity: What faculty think about it—and it's  efect on quality. *Change: the Magazine of Higher Learning,* *27*(4), 10–20. [https://doi.org/10.1080/](https://doi.org/10.1080/00091383.1995.9936431) [00091383.1995.9936431](https://doi.org/10.1080/00091383.1995.9936431)
+- McFadyen, J., &amp; Rankin, J. (2016). The role of gatekeepers in research: Learning from refexivity and  refection. *GSTF: Journal of Nursing and Health Care,* *4*(1), 82–88.
+- Miller, S. (2022). The tenure and promotion standards used to evaluate creative scholarship in the media  and communication felds. *Journalism &amp; Mass Communication Educator,* *77*(4), 376–392. [https://](https://doi.org/10.1177/10776958221113153) [doi.org/10.1177/10776958221113153](https://doi.org/10.1177/10776958221113153)
+- Mishra, S. (2020). Social networks, social capital, social support and academic success in higher education: A systematic review with a special focus on 'underrepresented' students. *Educational * *Research Review,* *29*, 100307. [https://doi.org/10.1016/j.edurev.2019.100307](https://doi.org/10.1016/j.edurev.2019.100307)
+- Montgomery, B. (2020). Academic leadership: Gatekeeping or groundskeeping? *The Journal of Values-**Based Leadership*.[ https://doi.org/10.22543/0733.132.1316](https://doi.org/10.22543/0733.132.1316)
+- Mula-Falcón, J., &amp; Caballero, K. (2022). Neoliberalism and its impact on academics: A qualitative  review. *Research in Post-Compulsory Education,* *27*(3), 373–390. [https://doi.org/10.1080/13596](https://doi.org/10.1080/13596748.2022.2076053) [748.2022.2076053](https://doi.org/10.1080/13596748.2022.2076053)
+- Nästesjö, J. (2021). Navigating uncertainty: Early career academics and practices of appraisal devices.  *Minerva,* *59*(2), 237–259.[ https://doi.org/10.1007/s11024-020-09425-2](https://doi.org/10.1007/s11024-020-09425-2)
+- Önder, Ç., &amp; Erdil, S. E. (2015). Aynı kurumsal beklentilere tabi aktörlerin farklılaşan davranışları:  Öğretim üyelerinin bilimsel yayın üretkenliklerinin üniversite, bölüm ve birey düzeyindeki  yordayıcıları [Varying behaviors of actors subject to the same institutional expectations: Predictors  of faculty members' scientifc publication productivity at the university, department, and individual  levels]. *ODTÜ Gelişme Dergisi,* *42*(3), 481–519.
+- Öztürk, O., &amp; Taşkın, Z. (2024). How metric-based performance evaluation systems fuel the growth  of questionable publications? *Scientometrics,* *129*(5), 2729–2748. [https://doi.org/10.1007/](https://doi.org/10.1007/s11192-024-04991-8) [s11192-024-04991-8](https://doi.org/10.1007/s11192-024-04991-8)
+- Posselt, J. R. (2016). *Inside graduate admissions: Merit, diversity, and faculty gatekeeping*. Harvard  University Press.
+- Rosa, H. (2010). *Alienation and acceleration: Towards a critical theory of late-modern temporality*.  NSU Press.
+- Rosa, H. (2020). *The uncontrollability of the world*. Polity Press.
+- Sorcinelli, M. D. (1994). Efective approaches to new faculty development. *Journal of Counseling &amp; * *Development,* *72*(5), 474–479.[ https://doi.org/10.1002/j.1556-6676.1994.tb00976.x](https://doi.org/10.1002/j.1556-6676.1994.tb00976.x)
+</list>
+
+<figure page="19" section="**References**" source="author" id="/page/18/Picture/25" image="LR.R37_fig21.jpg">[FIGURE: see LR.R37_fig21.jpg]</figure>
+
+</page>
+<page number="20">
+<list page="20" section="**References**" source="author" id="/page/19/ListGroup/172">
+- Stewart, H. A., &amp; Kirkbride, M. P. (2019). Special issue for early career researchers: Editorial. *Scottish * *Journal of Geology,* *55*(2), 73–74.[ https://doi.org/10.1144/sjg2019-029](https://doi.org/10.1144/sjg2019-029)
+- Taşkın, Z. (2023, September 6). *"Evaluation Game" in Book Publishing—Information Matters*. [https://](https://informationmatters.org/2023/09/evaluation-game-in-book-publishing/) [informationmatters.org/2023/09/evaluation-game-in-book-publishing/](https://informationmatters.org/2023/09/evaluation-game-in-book-publishing/), [https://informationmatters.](https://informationmatters.org/2023/09/evaluation-game-in-book-publishing/) [org/2023/09/evaluation-game-in-book-publishing/](https://informationmatters.org/2023/09/evaluation-game-in-book-publishing/)
+- Taşkın, Z., Taşkın, A., Doğan, G., &amp; Kulczycki, E. (2022). Factors afecting time to publication in information science. *Scientometrics,* *127*(12), 7499–7515. [https://doi.org/10.1007/s11192-022-04296-8](https://doi.org/10.1007/s11192-022-04296-8)
+- The Council of Higher Education, Turkey. (2024). *ÜAK 2024 Ekim Dönemi Doçentlik Başvuru Şartları * *[The Interuniversity Board 2024 october term associate professorship criteria]*. [https://www.uak.](https://www.uak.gov.tr/Sayfalar/docentlik/basvuru-sartlari/2024/2024-ekim-donemi-docentlik-basvuru-sartlari.aspx) [gov.tr/Sayfalar/docentlik/basvuru-sartlari/2024/2024-ekim-donemi-docentlik-basvuru-sartlari.aspx](https://www.uak.gov.tr/Sayfalar/docentlik/basvuru-sartlari/2024/2024-ekim-donemi-docentlik-basvuru-sartlari.aspx)
+- Tonta, Y. (2017). *TÜBİTAK Türkiye Adresli Uluslararası Bilimsel Yayınları Teşvik (UBYT) Programının * *Değerlendirilmesi*. TÜBİTAK ULAKBİM. [http://yunus.hacettepe.edu.tr/~tonta/yayinlar/tonta-tubitak](http://yunus.hacettepe.edu.tr/~tonta/yayinlar/tonta-tubitak-ubyt-programinin-degerlendirilmesi.pdf)[ubyt-programinin-degerlendirilmesi.pdf](http://yunus.hacettepe.edu.tr/~tonta/yayinlar/tonta-tubitak-ubyt-programinin-degerlendirilmesi.pdf)
+- Tütüncü, L. (2023). Editorial board publication strategy and acceptance rates in Turkish national journals.  *Journal of Data and Information Science,* *8*(4), 49–83.[ https://doi.org/10.2478/jdis-2023-0019](https://doi.org/10.2478/jdis-2023-0019)
+- Tütüncü, L. (2024). Gatekeepers or gatecrashers? The inside connection in editorial board publications of Turkish national journals. *Scientometrics,* *129*(2), 957–984. [https://doi.org/10.1007/](https://doi.org/10.1007/s11192-023-04905-0) [s11192-023-04905-0](https://doi.org/10.1007/s11192-023-04905-0)
+- Vessuri, H., Guédon, J.-C., &amp; Cetto, A. M. (2014). Excellence or quality? Impact of the current competition  regime on science and scientifc publishing in Latin America and its implications for development.  *Current Sociology,* *62*(5), 647–665. [https://doi.org/10.1177/0011392113512839](https://doi.org/10.1177/0011392113512839)
+- Westerheijden, D. F. (2022). Gatekeepers on campus: Peer review in quality assurance of higher education  institutions. In E. Forsberg, L. Geschwind, S. Levander, &amp; W. Wermke (Eds.), *Peer review in an era of * *evaluation: understanding the practice of gatekeeping in academia* (pp. 79–106). Springer.
+- White, H. D., Boell, S. K., Yu, H., Davis, M., Wilson, C. S., &amp; Cole, F. T. H. (2009). Libcitations: A measure for comparative assessment of book publications in the humanities and social sciences. *Journal of * *the American Society for Information Science and Technology,* *60*(6), 1083–1096. [https://doi.org/10.](https://doi.org/10.1002/asi.21045) [1002/asi.21045](https://doi.org/10.1002/asi.21045)
+- Zhang, L. E., &amp; Gong, Y. F. (2024). A systematic review of research on early career academics' identity in  neoliberal higher education from 2008 to 2022. *Higher Education Research &amp; Development,* *43*(7),  1662–1678. [https://doi.org/10.1080/07294360.2024.2354288](https://doi.org/10.1080/07294360.2024.2354288)
+- Zhang, X. (2024). How does neoliberalism infuence the growing trend of higher education? *International * *Journal of Educational Reform*. [https://doi.org/10.1177/10567879241255316](https://doi.org/10.1177/10567879241255316)
+</list>
+
+<text page="20" section="**References**" source="author" id="/page/19/Text/14">
+**Publisher's Note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and  institutional afliations.
+</text>
+
+<figure page="20" section="**References**" source="author" id="/page/19/Picture/15" image="LR.R37_fig22.jpg">[FIGURE: see LR.R37_fig22.jpg]</figure>
+
+</page>
+</paper>

@@ -1,0 +1,411 @@
+<!-- LR.R08 | source: papers_json/LR.R08/ -->
+
+![LR.R08 fig01](../figures/LR/LR.R08_fig01.jpg)
+
+## **Leadership practices and policy directive in ** **revitalizing academia research publication at ** **Ethiopian public university**
+
+![LR.R08 fig02](../figures/LR/LR.R08_fig02.jpg)
+
+**Maruf** **Abdela Abibaker****^a^** **| Dereje Demissie** **Feye****^a^** **|** **Bahar** **Adem Abdulahi****^a^** **|** **Fayera Dinsa Hundessa****^a^**
+
+**^a^**College of Education and Behavioral Sciences, Haramaya University, Ethiopia.
+
+**Abstract** The study explored leadership practices and policy directives in revitalizing academic research publications at Ethiopian public universities. An explanatory sequential mixed-method was adopted. A total of 378 academic staff and 142 leaders were selected through multistage sampling, alongside 18 academic leaders and 3 research publication experts chosen from MoE using purposive sampling from six Ethiopian Public universities. Qantatitative data were collected through questionnaires while qualitative data were collected through semi-strctured interviews. Multiple regressions and the thematic method of analysis were used. The study revealed that policy directives and leadership practices were strongly and positively correlated with academic research publications. With F (2,542) = 672.316, P <.001, the R2 value of 0.722 showed that 72.2% of the revitalization of academic research publications was attributed to policy directives and leadership practice consquatively.The findings showed that leadership and policy directives significantly contributed to the revitalization of research publications (B = 0.380, P <0.001), with both variables playing crucial roles, although policy directives had a slightly weaker effect (B = 0.270).Among leadership practice model the way emarged as strong pridictor with positive and significant effect (B = 0.505, P <0.001) revitalize academia research publication. However, enable the other to act (B = -0.049) and challenge the process (B = -0.128) exhibted negative and statistically insignificant which means challenged to translate this type of leadership behaviour to revitalize the academia research publication.The qualitative results highlighted the importance of funding, skill development, collaboration, incentives, equitable resource distribution, journal indexing.Furthermore,gap in implementation of research policies were identified in Ethiopian Public Universites.This study recommended organizing awareness workshops and training should provided to leaderships and policy makers.Additional recommendations were made to University leaderships and Policy makers in the area of the factors that require attention and action to improve academia research publication.
+
+**Keywords:** leadership practice, policy directives, academic research publication, revitalizing, higher education institution
+
+## **1.** **Introduction**
+
+Many institutes with greater degrees of learning acknowledge the value of research and publication. Research publications are vital to academic institutions' efforts to expand their knowledge, improve their reputation, and promote and retain faculty (Madikizela-Madiya, 2023). The importance of research and the sharing of knowledge through scholarly publicationsin promoting science, creating new concepts, and enhancing teaching and learning methods has been emphasized in several studies (Altbach, 2009; Gebrewold, 2014).
+
+Universities in the United States have put in place procedures and policies that promote and enhance research production because of the country's strong academic culture in terms of research publications (Schimanski and Alperin, 2018). According to Boshoff (2017), research publications are seen as an essential component of higher education in Africa that supports national growth.
+
+The publication status of academic staff at Ethiopian and African higher education institutions has been a source of concern in recent years. Even while the number of academic institutions and staff is increasing, there is a discernible disparity in the quantity and caliber of articlesthese institutions produce. Research production in Ethiopian higher education institutions is low, according to Sewagegn and Diale (2021) study on academic publishing in Ethiopia. This restricts African scholars' contributions to the global body of knowledge in addition to harming institutions' standing and reputation.
+
+Just 1% of global research output comes from sub-Saharan African nations, per a report by Fuglie and Rada (2013). Furthermore, Ethiopia, one of the largest countries in sub-Saharan Africa, is expected to play a significant role in improving research output on the continent, but the research productivity of Ethiopia's public universities has been relatively low in
+
+<!-- page 2 -->
+
+comparison with international standards (Weldemichael, 2014). A thorough analysis of Ethiopian universities' publication output by Yalew & Dereb (2023) revealed that their productivity is lower than that of other African nations.
+
+Moreover, several studies have identified the challenges faced by Ethiopian public universities in producing research publications, including those by Salmi et al. (2017), AlehegnDiale (2021), and Yallew & Dereb (2023), such as a lack of research culture, limited funding, poor researchers, limited collaboration, and limited publication outlets, which are the most challenging methods for publishing research in academia, and scholars suggest that leadership practices and policy directives play crucial roles in improving the research publication status of academic staff in higher education.
+
+Thus, from a worldwide standpoint, successful strategies for reviving research and publication in universities frequently combine strong leadership techniques with thoughtfully crafted policy directives (Teichler, 2015; Uslu, 2017). Fostering a research-oriented culture, offering the required resources and support, and establishing an atmosphere that promotes faculty participation in research and publication are all characteristics of effective leadership in academic settings (Maswanku, 2024). Similarly, a study conducted in Africa by Sabwami (2025) revealed that good leadership practices such as offering resources and assistance are essential for encouraging research publications at African universities.
+
+The Ethiopian government has implemented several research-focused policies to increase research productivity at national universities. These policy directives are vital in revitalizing academic research publications within Ethiopian public universities. According to Beyene et al. (2022), initiatives such as the Ethiopian government's Higher Education Proclamation and the National Research and Innovation Strategy have significantly increased research productivity in these institutions.
+
+These directives offer essential guidelines and support for research activities, resulting in an increase in research publications(MoE, 2019). Additionally, the Ethiopian Ministry of Education has enacted various policies to encourage research and publication in universities. For example, Higher Education Proclamation No. 650/2019 requires universities to conduct research and publish their findings in reputable journals (Ministry of Education, 2019). Thus, understanding leadership practices and policy directives at Ethiopian public universities is key to enhancing the quality of research and publication at Ethiopian public universities.
+
+## 2. Research Questions
+
+To achieve the objective of this study, the researchers developed the following two research questions in the following manner:
+
+To what extent do EPU leadership practices and policy directives predict the revitalization of research publications by academic staff using LPIs?
+
+How are policy directives revitalizing academic research publications at EPUs?
+
+## **3.** **Theoretical** **Framework**
+
+## *3.1.* *Distributed* *Leadership* *Model*
+
+Scholars and practitioners can better comprehend and study the intricate dynamics of leadership in academic institutions by using theoretical models pertaining to leadership in higher education (Gallos & Bolman, 2021). These models offer a theoretical framework for leadership development and practice by drawing on a variety of fields, such as organizational behavior, psychology, sociology, and education.
+
+The distributed leadership model, which highlights the value of shared leadership and cooperation among individuals and teams within an organization, is one example of a theoretical model connected to leadership practice in reviving academic research publications in Ethiopian public higher education for this study (Harris & Spillane, 2008). The transformational leadership approach, which emphasizes the leader's capacity to inspire and encourage followers to accomplish a shared objective, serves as another illustration (Bass &Avolio, 1994).
+
+The distributed leadership model in higher education institutions encourages a culture of cooperation and creativity, allowing a range of viewpoints and areas of expertise to contribute to the results ofresearch publications(Spillane et al., 2018). This approach acknowledges that department heads, research teams, faculty members, and other levels and areas within an organization can all coordinately exhibit leadership to achieve the objectives of higher education.
+
+Research productivity and quality at higher education institutions are positively impacted by the distributed leadership model, according to a recent study by Young and Kim (2024). The study demonstrated that dividing leadership duties among several people stimulates team members' motivation, involvement, and sense of ownership, which in turn improves research results.
+
+Additionally, for research publishing reasons, Jones & Harvey (2017) investigated the application of the distributed leadership model in higher education institutions. The results demonstrated how dispersed leadership techniques, including mutual support, a shared vision, and cooperative decision-making, enhanced the inclusiveness and effectiveness of the research setting.
+
+<!-- page 3 -->
+
+Overall, all the studies on the distributed leadership model in higher education offer a framework that encourages cooperation,shared accountability, and team and individual empowerment. Adopting this paradigm enablesinstitutionsto use the combined knowledge and innovativeness of their constituents, resulting in increased research output and caliber.
+
+## *3.2.* *Transformational* *Leadership*
+
+The focus of transformational leadership is on a leader's capacity to uplift and encourage followers toward a common goal. This strategy promotes idealized influence, personalized attention, and intellectual stimulation. The effects of transformative leadership on faculty development, organizational culture, and student engagement in HEIs have been studied recently (Sahib &Wilderom, 2024; Basham, 2012).
+
+Transformational leadership theory emphasizes the importance of inspiring and motivating followers toward a shared vision, promoting innovation and creativity, and achieving academic goals. Scholarssuch as Bass& Avolio (1994) have proposed models that consider the importance of charisma, vision, intellectual stimulation, and individualized consideration in effective leadership.
+
+Effective leadership is essential for establishing a culture of research quality, encouraging teamwork and creativity, and accomplishing academic objectives in the setting of higher education academy research publications. In this context, leaders need to be able to inspire and drive their followers toward a common goal while also having a blend of interpersonal and intellectual abilities. According to Bass (2006), transformational leadership theory emphasizes the importance of inspiring and motivating followers toward a shared vision, promoting innovation and creativity, and achieving academic goals.
+
+## *3.3.* *Kouzes* *and* *Posner's* *leadership* *model*
+
+Kouzes and Posner's leadership model is a widely recognized framework for effective leadership. The model consists of five practices that leaders can use to inspire and motivate their followers. These practices model the way, inspire a shared vision, challenge the process, enable others to act, and encourage the heart. In the context of higher education academic research publications, this model can be applied to revitalize research publications by providing a framework for academic leaders to follow. By implementing these practices, academic leaders can create a culture of innovation and collaboration that encourages researchers to produce high-quality publications.
+
+Kouzes and Posner's leadership style has been effectively used in nursing academia to foster research productivity and collaboration, per a study by Ajanaku & Lubbe (2021). According to the study, nursing faculty members were able to increase their research output and increase the caliber of their publications by putting the model's five activities into effect. Similarly, Kouzes and Posner's leadership approach can be used in higher education to encourage faculty collaboration and innovation, according to a study by Diaz et al. (2019). According to the study, faculty members were able to collaborate more successfully and generate research articles of a higher caliber by putting the model's five strategies into reality.
+
+The importance ofresearch publication in higher education institutions cannot be overstated. Research publications are not only a means of disseminating knowledge but also a measure of academic success. However, many public higher education institutions struggle with low research productivity and poor-quality publications. In recent years, Kouzes and Posner's leadership practice model has gained popularity as a framework for effective leadership in academia.
+
+Kouzes and Posner's leadership practice model consists of five practices that leaders can use to inspire and motivate their followers. These practices are "Model the Way," "Inspire a Shared Vision," "Challenge the Process," "Enable Others to Act," and "encencage the Heart." According to Kouzes and Posner (2019), these practices are essential for effective leadership in any organization, including higher education institutions.
+
+## *3.4.* *Advocacy* *coalition* *framework* *(ACF)* *model*
+
+Theoreticalmodels or frameworksrelated to policy directivesin higher education are conceptual toolsthat help scholars and practitioners understand and analyze the complex dynamics of policy development and implementation within academic institutions. These models draw on various disciplines, including political science, public administration, and education, to provide a theoretical foundation for policy analysis and decision-making (Birnbaum, 2000).
+
+The Advocacy Coalition Framework (ACF) model is a theoretical model that emphasizes the role of advocacy coalitions in shaping policy decisions. Advocacy coalitions are groups of individuals and organizations that share common beliefs and values and work together to influence policy outcomes. In the context of revitalizing academic research publications, the ACF model suggeststhat advocacy coalitions can play a critical role in shaping research policies and funding decisions. One example of a theoretical model related to policy directives in higher education is the advocacy coalition framework, which emphasizes the importance of stakeholder engagement and collaboration in policy development and implementation (Weible, 2007).
+
+According to Sabatier and Weible (2014), the ACF model provides a framework for understanding the complex interactions between actors involved in policy-making, including policymakers, interest groups, and researchers. The model suggests that advocacy coalitions can influence policy outcomes by providing scientific evidence, mobilizing public support, and building relationships with policymakers.
+
+<!-- page 4 -->
+
+In a recentstudy by Quiddington (2010), the ACF model was applied to the context of higher education research funding in Australia. The study revealed that advocacy coalitions play a critical role in shaping research funding decisions, with different coalitions advocating for different priorities and values. The study highlighted the importance of understanding the dynamics of advocacy coalitions in shaping policy outcomes.
+
+Furthermore, a study by Daimer (2022) applied the ACF model to the context of higher education research policy in Europe. The study revealed that advocacy coalitions play a critical role in shaping policy decisions related to research funding, internationalization, and open science. The study highlighted the importance of understanding the diverse interests and values of different advocacy coalitions in shaping policy outcomes.
+
+Overall, the ACF model provides a valuable framework for understanding the complex interactions between actors involved in policy-making related to revitalizing higher education academic research publications. By understanding the role of advocacy coalitions in shaping policy decisions, researchers and policymakers can work together to promote research policies that align with their values and priorities.
+
+## *3.5.* *Research* *Policy*
+
+According to Quimbo, et al. (2014), "Research policy provides guidelines, procedures, and regulations for decisionmaking and action in research organizations." Furthermore, research policy refers to policies related to the funding and dissemination of research. In the context of higher education academic research publications, research policies can have a significant effect on the quality and quantity of research produced. A study by Aagaard& Schneider (2016) explored the impact of research policy on academic publishing in Denmark. The study revealed that changes in research policy, including funding priorities and open access requirements, had a significant effect on the publishing behavior of Danish researchers. The study highlighted the importance of understanding the impact of research policy on academic publishing behavior.
+
+## *3.6.* *Promotion* *Policy*
+
+The promotion and development of academic research publications is critical to the advancement of knowledge, innovation, and economic growth. Policy directives have been recognized as essential tools to support the promotion and development of research publications in higher education institutions worldwide. This comprehensive literature review aims to examine the impact of policy directives on the promotion and development of academic research publications, with a specific focus on Ethiopian higher education institutions.
+
+Several studies have highlighted the positive impact of policy directives on the promotion and development of academic research publications. For example, Marshall (2018) emphasized the importance of policy directives in shaping the future of higher education institutions in a postmassive world. They argued that policies that promote research and innovation are essential for institutions to remain relevant and competitive. Similarly, Tiwari (2023) analyzed the impact of policy directives on research and innovation in Indian higher education institutions. They found that policies that provide funding, infrastructure, and incentives for research can significantly enhance research productivity and quality.
+
+## *3.7.* *Research* *Policy* *Implementation* *in* *Ethiopia*
+
+Policy implementation refersto the process of translating policy decisionsinto action. In the context of higher education academic research publications, policy implementation involves putting research policies into practice, including funding decisions, publication requirements, and ethical guidelines (Viennet& Pont, 2017). The implementation of research policies is crucial for the success of higher education institutions.
+
+According to Weimer & Vining (2017) and Umer (2020), policy implementation is a complex process that involves multiple actors and factors, including policy design, the context in which the policy is implemented, and the capacity of the implementing organizations. These authors suggested that successful policy implementation requires a comprehensive understanding of these factors and the development of effective implementation strategies.
+
+The policy implementation steps and processes with different steps and processes are as follows:
+
+Policy Formation: The first step in policy implementation is to formulate a clear research policy that aligns with the institution's vision and mission. The policy should be developed with input from various stakeholders, including faculty members, students, and administrators (Stensaker, 2020). Once the policy is formulated, it is essential to communicate it effectively to all stakeholders. This can be accomplished through various channels, such as newsletters, emails, and meetings (Fürst et al., 2022).
+
+Training and Capacity Building: Institutions should provide training and capacity building to faculty members and students to help them understand the policy and its implications. This can include workshops, seminars, and online courses (Stensaker, 2020). Regular monitoring and evaluation of the policy'simplementation are necessary to ensure that itis achieving itsintended goals. This can be accomplished through surveys, focus groups, and other feedbackmechanisms(Fürst et al., 2022).
+
+Overall, policy implementation and research policy play critical roles in shaping the quality and quantity of research produced in higher education academic research publications. By understanding the factors that influence policy
+
+<!-- page 5 -->
+
+implementation and developing effective implementation strategies, policymakers can promote policies that align with their values and priorities and ultimately enhance research outcomes (Khan & Khandaker, 2016).
+
+Ethiopia has made significant efforts in recent years to revitalize academic research publications in its higher education system, including initiatives to increase research productivity and quality. However, the implementation of research policiesin Ethiopian public higher education institutions has faced several challenges. According to Kinde & Abebe (2021), the implementation of research policies in Ethiopian public higher education institutions has been hindered by several factors, including limited resources, inadequate infrastructure, and a lack of research culture. The authors suggest that successful implementation of research policies requires addressing these challenges and developing effective implementation strategies.
+
+A study by Enyew & Wildemariam (2017) explored the impact of research policy implementation on research productivity in Ethiopian public higher education institutions. The study revealed that the effective implementation ofresearch policies, including funding mechanisms and publication requirements, had a significant effect on research productivity and quality.
+
+## **4.** **Materials** **and** **Methods**
+
+The researcher utilized a mixed-methods explanatory sequential approach to examine leadership practices and policy directives for revitalizing academic research publications at Ethiopian public universities. The study collected both quantitative and qualitative data from 378 academic staff members, 142 leaders across six randomly selected public institutions, three leaders from each university, and two research-related specialists from the Ministry of Education (Creswell and Clark, 2017).
+
+## *4.1.* *Sources* *of* *Data*
+
+The main data sources included academic staff and leaders, the Ministry of Education research document, the strategic planning document, the education roadmap for 2018--2030, the national research strategy 2020, higher education proclamation number 1152/2019, the 2019 guideline for evaluating journals in Ethiopia, the 2019 guideline for academic publishing and promotion,the 2020 national higher education policy and strategy, the university research policy and guidelines, and the sampled university senate academic year 2019.
+
+## *4.3.* *Sampling*
+
+From the list ofresearch universitiesidentified by Hunde et al., (2023) namely, BaharDar, Makalle, Gonder, Addis Abeba, Haramaya, Hawassa, Jimma, and ArbaMinch, two universities located in the Amhara administrative region (BaharDar and Gonder University) and one university in the Trigray administrative region (Makalle University) were excluded from the study for security reasons. Academic staff and leadersfrom six EPU universities participated in the study. Researchers have employed cluster sampling techniques and differentiation criteria on the basis of potential capacity to obtain representative samples. Specifically, Hawassa University (HU) and Haramaya University (HrU) were selected from research universities; Wollega University (WU) and Waliyita Sodo University (WSU) were selected from comprehensive universities; and Dire Dawa University (DDU) and Jigjigga University (JJU) were selected from applied universities.
+
+This method ensures equal opportunities for participants selected through simple random sampling, considering the limitations of the time and resources needed to study the entire population (Brewer et al., 2019). Furthermore, 18 leaders from these universities and colleges, along with three directors from the MOE research office, were intentionally chosen for semistructured interviews because of their significant experience in managing university research and publications.
+
+## *4.4.* *Tools* *of* *Data* *Collection*
+
+This study employed questionnaires, interviews, and document reviewsto collect data from 378 academic staff and 142 leaders regarding leadership practices and policy directives aimed at revitalizing academic research publications. Additionally, 18 leadersfrom six sampled universities and 3 expertsfrom the Ministry of Education were interviewed. The interviews enabled participants to freely express their views, and thematic analysis was utilized to identify common
+
+The Leadership Practices Inventory (LPI) is a 30-item questionnaire developed with permission from the authors of leadership challenge tools and designed to assess five key leadership practices. Each practice consists of six statements organized into sections that align with the five leadership constructs identified by Kouzes and Posner: modeling the way, inspiring a shared vision, challenging the process, enabling others to act, and encouraging the heart. The respondents rated each statement on a Likert scale from 1 ("Almost Never") to 10 ("Almost Always"). The score for each practice is calculated by averaging the corresponding statements, while the overall score is the average of all 30 items (Kouzes and Posner, 2019). Additionally, researchers have created 25 policy-related questionnaires using a 4-point Likert scale ranging from 1 ("never") to 4 ("very often"), derived from the literature for measurement purposes.
+
+The Leadership PracticesInventory (LPI) is a 30-item questionnaire adapted with the permission of authors of leadership challenge tools that is designed to evaluate five key leadership practices. Each practice includes six statements, which are organized into sections corresponding to the five leadership constructs identified by Kouzes and Posner: modeling the way,
+
+<!-- page 6 -->
+
+inspiring a shared vision, challenging the process, enabling others to act, and encouraging the heart. The statements are rated on a Likert scale from 1 (meaning "Almost Never") to 10 (meaning "Almost Always"). The score for each practice is calculated by averaging the corresponding statements, while the overall score is the average of all 30 items (Kouzes and Posner, 2019).
+
+## *4.5.* *Reliability* *and* *validity*
+
+The reliabilities for the LPI, as measured by Cronbach's alpha coefficients, are consistently strong, which is above 0.80 to be very strong. The LPIs are investigated via both the LPI normative database, with nearly 2.8 million respondents, and the pertinent findings ofseveral hundred studies conducted worldwide by scholars utilizing the LPIs in their research are reviewed. Both reliability and validity issues are considered, with the conclusion that the LPI is quite robust and applicable across a variety of settings and populations (Posner, 2016).
+
+The researcher conducted a small-scale analysis on 25 academic staff membersto assessthe reliability of policy directive questionnaire items at Addis Abeba University College of Education and Behavioral Science. The items related to exploring policy directive revitalizing academic research publications had a reliability score of 0.964.
+
+To ensure the content validity of the policy directive questionnaire, the authors selected five foreign language and literature PhD students who had studied at Addis Abeba University and had experience in publishing manuscripts and distributed the questionnaire for them. They were requested to fill out the questionnaire and consider their comments and suggestions to improve the policy directive questionnaire.
+
+## **5.** **Results**
+
+In this section, the researchers analyze and present leadership practices and policy directives for revitalizing academic research publications at Ethiopian public universities. The quantitative data from questionnaires, along with qualitative data from interviews, were used for discussion.
+
+The results of the regression analysis are summarized in Table 1. The analysis aimed to examine the effects of two independent variables, leaders and policy, on a research publication.
+
+Note. *P<0.05, LP: Leadership practice PR: Policy Directive; Academia publication, Dependent variable: Research publication.
+
+Table 1: The regression model examines two independent variables, leadership practices and policy directives, with academic publications as the dependent variable. The unstandardized coefficient for the constant term is B = 0.674, with a standard error of SE = 0.076, suggesting that when both policy directives and leadership practices are zero, the expected value of the research publication is 0.674. The t value for the constant is T = 8.823, which is statistically significant at p < .001.
+
+For leadership practices, the unstandardized coefficient is B = 0.380, with a standard error of SE = 0.023. The standardized coefficient (β) is 0.632, indicating a strong positive relationship with research publications. The t value for leadership practices is t = 16.712, which is also statistically significant at p <.001. This implies that for each one-unit increase in leadership practices, the number of research publications increases by 0.380 units, assuming that policy directives remain constant.
+
+For policy directives, the unstandardized coefficient is B = 0.270, with a standard error of SE = 0.040. The standardized coefficient (β) is 0.257, indicating a moderately positive relationship with research publications. The t value for policy directives is t = 6.785, which is statistically significant at p < .001. This means that for each one-unit increase in policy directives, the number of research publications increases by 0.270 units, assuming that leadership practices remain constant.
+
+The model explains a substantial amount of variance in the research publication, with R² = 0.722, indicating that approximately 72.2% of the variance can be explained by the two independent variables. The F statistic for the model is F(2, 517) = 672.316, with a significance level of p <.001, confirming that the model is statistically significant and that at least one predictor (leadership or policy) has a nonzero coefficient. In conclusion, both leadership practices and policy directives significantly revitalize academic research publications at Ethiopian public universities. Among the leadership practice model the way emarged as the strongest predictors with posotive and significant effect B = 0.505, p <.001.Thisresults underscore the importance of exemplary leadership,where leaders set a visible standerds through their actions in crating an environment conducive to research productivity.In contrast challenge the process B = -0.128 and enable other to act B = -0.049 exhibited
+
+<!-- page 7 -->
+
+negative statistically insignificant effect, indicating potential challenges in translating these leadership behaviours into meaurable out come for research revitalization.
+
+## *5.1.* *Policy* *directives* *revitalize* *academic* *research* *publications*
+
+Regarding "policy directives that revitalize academic research publication in public higher education" from leaders of higher education and the MoE, the interviewees said the following:
+
+As for the majority of the interviewees, the main policy directive that revitalizes academic research publications at Ethiopian public universitiesis providing research fundsto researchers, which include publishing charges, improving researcher skills through training, assigning newly recruited instructors to experienced ones, creating an opportunity for collaboration partnerships of researcher experience with international higher education, providing incentives for researchers in terms of their accomplishments related to the quality and quantity of their publications, implementing follow-up and research publication evaluation policies to improve equity of resource distribution to researchers and universities, and encouraging national journalsto be internationally indexed to improve (R1, R3, R4, R5, R6, R8, R10, R12, R13, R14, R16 and R18, 2/10//2024**).**
+
+The interviewees described policy directives that revitalized academic staff to publish their research works at Ethiopian public universities in the following ways:
+
+Most interviewees highlighted the importance of providing dedicated research funds, especially to cover article publishing charges(APCs). Thisfinancial support is crucial for enabling researchers to share their findings in reputable journals. Allocating funds specifically for APCs can ease the financial burden on researchers, promoting a culture of publication and enhancing visibility in the global academic community.
+
+Additionally, enhancing researchers'skillsthrough targeted training programs was another key theme. The interviewees suggested pairing newly recruited instructors with experienced faculty members to facilitate knowledge transfer and mentorship. Such training initiatives can equip researchers with essential skills in research design, methodology, and publication strategies, ultimately leading to improved publication outcomes.
+
+Creating opportunities for collaboration and exchange of experience with international institutions was identified as a vital strategy. Many interviewees noted that partnerships with foreign universities could enhance research quality through shared resources and expertise. These partnerships can also provide access to advanced research methodologies and technologies.
+
+Providing incentives for researchers on the basis of their publication quality and quantity has emerged as a significant directive. The interviewees argued that recognizing and rewarding academic achievements could motivate faculty to improve their research output. The implementation of a structured incentive system could foster a competitive academic environment, ultimately leading to increased research output.
+
+The need for robust follow-up and evaluation policies to assess research publication outcomes was highlighted as essential for ensuring equitable resource distribution among researchers and institutions. By establishing clear evaluation criteria, universities can ensure that support is directed toward researchers who demonstrate excellence in their research and publication efforts.
+
+An examination of documents from the Ministry of Education and Higher Education, including the strategic planning document, the 2018--2030 Education Roadmap, the 2020 National Research Strategy, the Higher Education Proclamation No. 1152/2019, the 2019 Guidelinesfor Journal Evaluation in Ethiopia, the 2019 Guidelinesfor Academic Publishing and Promotion, the 2020 National Higher Education Policy and Strategy, and the University Research Policy and Guidelines, alongside a sample of university senate documents, indicatesthat effortsto enhance academic research publication at Ethiopian public universities have not been fully realized. Despite the existence of these written policies, there is a need for awareness workshops and training for various administrative levels and academic staff to ensure full implementation.
+
+## **6.** **Discussion**
+
+The unstandardized coefficient for leadership practicesis B = 0.380, and the standard error is SE = 0.023. A high positive correlation with study publications is indicated by the standardized coefficient (β), which is 0.632. This implies that there is a strong positive relationship between leadership practices and the revitalization of academic research publications. The significant influence of leadership practices on revitalization efforts indicates that effective leadership is a crucial catalyst for change in these institutions. A t value of 16.712 and a p value of 0.001 confirm the statistical significance of this relationship. Recentstudiessupportthis view, noting that transformational leadership styles,marked by vision and inspiration, are especially effective in driving institutional change (Northouse, 2021; Avolio et al., 2020).
+
+The policy directive variable also has a positive relationship with academic revitalization (B = 0.270). Although its influence is somewhat less significant than that of leadership, it remains important (β = 0.257). The t value of 6.785 and the p value of 0.001 indicate statistical significance, suggesting that well-crafted policies are vital for supporting academic initiatives. This finding is consistent with recent studies, which assert that effective policy frameworks can enhance institutional performance and promote innovation in higher education (Mok, 2021; Teferra, 2017).
+
+<!-- page 8 -->
+
+With an R² value of 0.772, approximately 77.2% of the variance in the academic revitalization of research publications is explained by the combined effects of leadership practices and policy directives. The adjusted R² of 0.721, accounting for the number of predictors in the model, continues to demonstrate strong explanatory power.
+
+Furthermore, the qualitative insights gathered from leaders in higher education and the Ministry of Education (MoE) regarding policy directives to increase academic research publications provide a comprehensive understanding of the strategies deemed essential for revitalization in Ethiopian public universities. The responses highlightseveral key areas of focus that align with the current literature on effective academic policies.
+
+A predominant theme among interviewees is the necessity of providing research funds, which includes covering article publishing charges. This aligns with findings of Snowball & Shackleton (2018), who argue that financial support is critical for enabling researchers to publish their work. Access to funding not only alleviates financial burdens but also incentivizes highquality research output. The interviewees emphasized the importance of enhancing researcher skills by training programs. This is supported by research indicating that targeted training can significantly improve the quality of research outputs (Mafindi, 2024). By pairing newly recruited instructors with experienced mentors, universities can foster an environment of learning and knowledge transfer, which is essential for building research capacity.
+
+The creation of opportunities for collaboration and exchange of experience with international institutions emerged as crucial directives. The literature underscoresthe benefits of international partnershipsin broadening researchers' perspectives and enhancing the quality of their work (Payumo, 2019). Such collaborations can facilitate access to global research networks, resources, and methodologies. Providing incentivesfor researchers on the basis of the quality and quantity of their publications was highlighted as a motivational strategy. This approach is supported by studies showing that recognition and rewards can significantly enhance researchers' productivity and commitment to publishing (Patience, 2023). Incentives can take various forms, including financial bonuses, promotions, or public recognition.
+
+The implementation of follow-up and evaluation policies to ensure equitable resource distribution among researchers and universities is critical. This aligns with findings from El Hajj et al. (2020), who stressed the importance of accountability in resource allocation to promote fairness and enhance research outcomes. Finally,the interviewees noted the need to encourage national journals to achieve international indexing. This is vital for improving the visibility and credibility of local research. Recent studies indicate that indexed journals often have a broader reach and impact, which can significantly enhance the reputation of the research conducted within Ethiopia (Yalew & Dereb, 2022).
+
+The qualitative results reveal a multifaceted approach to revitalizing academic research publications in Ethiopian public universities, emphasizing the importance of funding, skill development, collaboration, incentives, equitable resource distribution, and journal indexing.
+
+## **7.Conclusions**
+
+Effective leadership practices have a strong positive impact on research publications, while policy directives also play a supportive role, albeit to a lesser degree. By integrating robust leadership strategies with well-defined policy frameworks, academic research can be revitalized, leading to increased publication rates and a more productive academic environment. Although the Ministry of Education has developed comprehensive policies and strategic documents to enhance research publication, there remains a significant gap in their implementation.
+
+## **8. Implications**
+
+On the basis of the findings and conclusions of the study, the present study has the following implications:
+
+Effective leadership practices and policy directives revitalize academic research publications in national and international journals. They equip researchers with tools, funding, and support while facilitating collaboration and networking. This cultivates a culture of research and development, contributing to the university's growth and success, and efforts should be made to improve the policy awareness of leaders and academic staff to increase the utilization of policy and the number of research publications. Overall, these findings emphasize the critical role of leadership and policy in driving academic revitalization and suggest actionable steps for institutions aiming to enhance their research capabilities.
+
+The findings suggest several key implications for revitalizing academic research publications in Ethiopian public universities, such as funding. Increased financial support is crucial for research activities and enables universities to invest in necessary resources, infrastructure, and personnel. There is a need for targeted training programs to increase the research and publication skills of faculty and students, ensuring that they are equipped to produce high-quality work. Encouraging partnerships between universities, both locally and internationally, can facilitate knowledge exchange, resource sharing, and joint research initiatives. Establishing reward systems for researchers who publish can motivate faculty and students to engage more actively in research activities. Ensuring that resources are fairly distributed among universities can help level the playing field, allowing all institutions to enhance their research capabilities. Improving the visibility and accessibility of research outputs through better indexing in reputable journals can increase the impact of Ethiopian research on a global scale. Overall, these
+
+<!-- page 9 -->
+
+implications highlight the need for a comprehensive strategy that addresses multiple factors to strengthen the research landscape in Ethiopian public universities.
+
+## **Acknowledgment**
+
+We thank the six public university research directorates and the Ministry of Education experts for their support. Appreciation goesto Rift Valley University forstudy permission and Haramaya University's Department of Educational Planning and Management for their encouragement. Lastly, we are grateful to the reviewers for their valuable feedback
+
+## **Ethical considerations**
+
+This study adheres to ethical research principles to protect the rights of all participants. Before participating, respondents received clear information about the study's purpose, the nature of the questionnaire, and their voluntary involvement. Confidentiality and anonymity were rigorously maintained, and all data were used solely for academic purposes.
+
+## **Conflict of Interest**
+
+As the corresponding author, the authors declare that there are no conflicts of interest.
+
+## **Funding**
+
+This research did not receive any financial support.
+
+## **References**
+
+Aagaard, K., & Schneider, J. W. (2016). Research funding and national academic performance: Examination of a Danish success story. *Science and Public * *Policy*, *43*(4), 518-531[. https://doi.org/10.1093/scipol/scv058](https://doi.org/10.1093/scipol/scv058)
+
+Abramo, G., D'Angelo, C. A., & Di Costa, F. (2011). Research productivity: Are higher academic ranks more productive than lower ones?. *Scientometrics*, *88*(3), 915-928[. https://doi.org/10.1007/s11192-011-0426-6](https://doi.org/10.1007/s11192-011-0426-6)
+
+Ahvo, J. (2023). *Finnish Interest Representation in EU Research and Innovation Policy: Case of European Framework Programme Horizon Europe* (Master's thesis).
+
+Ajanaku, O. J., &Lubbe, W. (2021).Applying transformational leadership in nursing through the lens of Kouzes and Posner leadership practices. *Gender and * *Behaviour*, *19*(2),17788-17794[. https://hdl.handle.net/10520/ejc-genbeh_v19_n2_a7](https://hdl.handle.net/10520/ejc-genbeh_v19_n2_a7)
+
+Alehegn, A., &Diale, B. M. (2021). Academic Staff Practices and Challenges of Publishing:: Evidence from an Ethiopian University. *International Journal of * *African Higher Education*, *8*(1), 27-42. [https://doi.org/10.6017/ijahe.v8i1.13375](https://doi.org/10.6017/ijahe.v8i1.13375)
+
+Altbach, P. G. (2009). Peripheries and centers: Research universities in developing countries. *Asia Pacific Education Review*, *10*, 15-27. [https://link.springer.com/article/10.1007/s12564-009-9000-9](https://link.springer.com/article/10.1007/s12564-009-9000-9)
+
+Altbach, P. G., & Salmi, J. (Eds.). (2009). *The road to academic excellence: The making of world-class research universities*. World Bank Publications.
+
+Avolio, B. J., Keng-Highberger, F. T., Lord, R. G., Hannah, S. T., Schaubroeck, J. M., & Kozlowski, S. W. (2022). How leader and follower prototypical and antitypical attributes influence ratings of transformational leadership in an extreme context. *Human Relations*, *75*(3), 441-474. [https://doi.org/10.1177/0018726720958040](https://doi.org/10.1177/0018726720958040)
+
+Basham, L. M. (2012). Transformational leadership characteristics necessary for today's leaders in higher education. *Journal of International Education * *Research*, *8*(4), 343. http://www.cluteinstitute.com/2012
+
+Bass, B. M., & Riggio, R. E. (2006). *Transformational leadership*. Psychology press.
+
+Bass, B. M., &Avolio, B. J. (1994).Transformational leadership and organizational culture. *The International journal of public administration*, *17*(3-4), 541-554. [https://doi.org/10.1080/01900699408524907](https://doi.org/10.1080/01900699408524907)
+
+Berry, F. S., & Berry, W. D. (2018).Innovation and diffusion models in policy research. *Theories of the policy process*, 253-297. [https://www.taylorfrancis.com/chapters/edit/10.4324/9780429494284-8/](https://www.taylorfrancis.com/chapters/edit/10.4324/9780429494284-8/)
+
+Beyene, M., Tekle, S. M., &Alemneh, D. G. (2022). Open Access Initiatives in Ethiopia's Higher Learning Institutions. In *Handbook of Research on the Global * *View of Open Access and Scholarly Communications* (pp. 23-43).IGI Global. [: http://www.igi-global.com](http://www.igi-global.com/)
+
+Birnbaum, R. (2000). The life cycle of academic management fads. *The journal of higher education*, *71*(1), 1-16. [https://doi.org/10.1080/00221546.2000.11780813](https://doi.org/10.1080/00221546.2000.11780813)
+
+Boshoff, N. (2017). South African corresponding authors on perceived beneficiaries and the nature of university research. *South African Journal of Higher * *Education*, *31*(3), 46-62.[ https://hdl.handle.net/10520/EJC-8042ef204](https://hdl.handle.net/10520/EJC-8042ef204)
+
+Brewer, D. J., & Hunter, A. B. (2019). Foundations of Multimethod Research: Synthesizing Styles. Sage Publications.
+
+Creswell, J. W., & Clark, V. L. P. (2017). *Designing and conducting mixed methods research*. Sage publications.
+
+Daimer, S., Berghäuser, H., & Lindner, R. (2022).The institutionalisation of a new paradigm at policy level. In *Putting responsible research and innovation into * *practice: A Multi-* *Stakeholder approach* (pp. 35-56). Cham: Springer International Publishing.[ https://hdl.handle.net/10520/EJC-8042ef204](https://hdl.handle.net/10520/EJC-8042ef204)
+
+Díaz, E. R., Sánchez-Vélez, C. G., & Santana-Serrano, L. (2019).Integrating the Five Practices of Exemplary Leadership model into entrepreneurship education. *International Journal for the Scholarship of Teaching and Learning*, *13*(3), 10. https://doi.org/10.20429/ijsotl.2019.130310
+
+El Hajj, T., Gregorius, S., Pulford, J., & Bates, I. (2020). Strengthening capacity for natural sciences research: a qualitative assessment to identify good practices, capacity gaps and investment priorities in African research institutions. *PLoS One*, *15*(1), e0228261[. https://doi.org/10.1371/journal.pone.0228261](https://doi.org/10.1371/journal.pone.0228261)
+
+Enyew, T. A., & Woldemariam, H. Z. (2017). Research communication: Enhancing academic capital or Influencing educational policy in the Ethiopian higher education context?.https://ir.nust.na/bitstream/10628/681/1/
+
+<!-- page 10 -->
+
+Fuglie, K., & Rada, N. (2013). Resources, policies, and agricultural productivity in sub-Saharan Africa. *USDA-ERS Economic Research Report*, (145). [http://dx.doi.org/10.2139/ssrn.2266459.](https://dx.doi.org/10.2139/ssrn.2266459)
+
+Fürst, S., Volk, S. C., Schäfer, M. S., Vogler, D., &Sörensen, I. (2022).Assessing changes in the public communication of higher education institutions: A survey of leaders of Swiss universities and colleges. *Studies in Communication Sciences*, Epub-ahead.[ https://www.zora.uzh.ch/cgi/oai2](https://www.zora.uzh.ch/cgi/oai2)
+
+Gallos, J. V., &Bolman, L. G. (2021). *Reframing academic leadership*.Johnwiley& sons.
+
+Gebremariam, G. W., & Delesa, T. M. (2014). ASSESSMENT OF LEADERSHIP PRACTICES AND EFFECTIVENESS IN ETHIOPIAN UNIVERSITIES. *CLEAR International * *Journal of Research in Commerce & Management*, *5*(7). https://www.academia.edu/85634350/
+
+Gebrewold, L. (2014). *The Status and Challenges of Educational Research Undertaking and Dissemination at College of Education and Behavioral Studies, * *Addis Ababa University* (Doctoral dissertation, Addis Ababa University Addis Ababa, Ethiopia).
+
+Hagos, T. G. (2023). Governance mechanism in research and innovation in Ethiopian higher education institutions: The case of Mekelle University. *Journal of * *Research and Innovation in Higher Education*, *4*(1), 115-145[. https://rihe-journal.com/index.php/rihe/article/view/36](https://rihe-journal.com/index.php/rihe/article/view/36)
+
+Harris, A., & Spillane, J. (2008).Distributed leadership through the looking glass. *Management in education*, *22*(1), 31-34. [https://doi.org/10.1177/0892020607085623](https://doi.org/10.1177/0892020607085623)
+
+Hunde, A. B., Yacob, E. T., Tadesse, G. A., Guesh, K., Gobaw, M. K., Dechassa, N., ... & Wondie, Y. (2023). Differentiating the Higher Education System of Ethiopia. *A National Study Report: Springer Nature*[. https://link.springer.com/content/pdf/10.1007/978-3-658-39082-2.pdf.](https://link.springer.com/content/pdf/10.1007/978-3-658-39082-2.pdf)
+
+Jones, S., & Harvey, M. (2017). A distributed leadership change process model for higher education. *Journal of Higher Education Policy and Management*, *39*(2), 126-139[. https://doi.org/10.1080/1360080X.2017.1276661](https://doi.org/10.1080/1360080X.2017.1276661)
+
+Khan, A. R., &Khandaker, S. (2016). A critical insight into policy implementation a implementation performance. *Public Policy & Administration/Viesoji * *PolitikairAdministravimas*, *15*(4)[. https://www.researchgate.net/publication/313360341](https://www.researchgate.net/publication/313360341)
+
+Kim, D., Jung, S., & Kim, E. (2024). Distributed leadership in inter-organizational public research and development teams. *European Journal of Innovation * *Management*[. https://doi.org/10.1108/EJIM-07-2023-0591](https://doi.org/10.1108/EJIM-07-2023-0591)
+
+Kinde, A. A., Addis, A. C., & Abebe, G. G. (2021).Research data management practice in higher education institutions in Ethiopia. *Public Services Quarterly*, *17*(4), 213-230[. https://doi.org/10.1080/15228959.2021.1879707](https://doi.org/10.1080/15228959.2021.1879707)
+
+Kouzes, J. M., & Posner, B. Z. (2019). The leadership challenge: How to make extraordinary things happen in organizations. John Wiley & Sons.
+
+Kouzes, J. M., & Posner, B. Z. (2023). *The leadership challenge: How to make extraordinary things happen in organizations*. John Wiley & Sons.
+
+Kouzes, J., & Posner, B. (2019). *Leadership in higher education:Practices that make a difference*. Berrett-Koehler Publishers.
+
+Madikizela-Madiya, N. (2023). Transforming higher education spaces through ethical research publication: a critique of the publish or perish aphorism. *Higher * *Education Research & Development*, *42*(1), 186-199. Commerce & Management, 5(7)[. https://doi.org/10.1080/07294360.2022.2048634](https://doi.org/10.1080/07294360.2022.2048634)
+
+Mafindi, K. A. (2024). Training and Staff Development a Vital Means for Academic Productivity in Nigerian Colleges of Education. *Maktabah Reviews on * *Sustainable Development Goals*, *1*(01), 119-132. https://journal.walideminstitute.com/index.php/mrsdgs/article/view/212
+
+Marginson, S. (2013).The impossibility of capitalist markets in higher education. *Journal of Education Policy*, *28*(3), 353-370. [https://doi.org/10.1080/02680939.2012.747109.](https://doi.org/10.1080/02680939.2012.747109)
+
+Marshall, S. J. (2018). Shaping the University of the Future. *Springer*, *10*, 978-981.https://scholar.google.com/
+
+Maswanku, L. M. (2024). Fostering Academic Excellence In Challenging Contexts: General Perspective On Research And Leadership In Faculties Of Arts And Social Sciences across Universities. *Islamic University Journal of Social Sciences*, *3*(1), 110-129.[ https://orcid.org/0009-0005-5859-7449](https://orcid.org/0009-0005-5859-7449)
+
+Mensah, K. (2024). Challenges and Opportunities of Implementing Open Access Policies. *African Journal of Information and Knowledge Management*, *3*(1), 40- 52. https://journals.iuiu.ac.ug/index.php/iujss/article/view/424
+
+Ministry of Education Ethiopia (2019).Higher Education Proclamation No. 650/2019. Addis Ababa: Ministry of Education.
+
+Mok, K. H. (2021). Higher education transformations for global competitiveness: Policy responses, social consequences and impact on the academic profession in Asia. *Higher education policy*, *28*, 1-15. https://link.springer.com/article/10.1057/hep.2014.27
+
+Moshtari, M., &Safarpour, A. (2024).Challenges and strategies for the internationalization of higher education in low-income East African countries. *Higher * *Education*, *87*(1), 89-109. https://doi.org/10.1007/s10734-023-00994-1
+
+Northouse, P. G. (2021). *Leadership: Theory and practice*. Sage publications.
+
+Oyelaran-Oyeyinka, B., &Lal, K. (2022). *Industrialization and economic diversification: post-* *crisis development agenda in Asia and Africa*. Routledge.
+
+Pandita, R., & Singh, S. (2022). Research deficit across continents: A study. *Publishing Research Quarterly*, *38*(1),150-167. [https://link.springer.com/article/10.1007/s12109-022-09865-6](https://link.springer.com/article/10.1007/s12109-022-09865-6)
+
+Patience, O. (2023). An assessment of lecturers' motivation and commitment in the Nigerian public universities. *International Journal of Multidisciplinary * *Research and Growth Evaluation*, *4*(04), 258-265. https://doi.org/10.54660/.IJMRGE.2023.4.4.258-265
+
+Payumo, J., Moore, D., Evans, M., &Arasu, P. (2019).An evaluation of researcher motivations and productivity outcomes in international collaboration and partnerships at a US research-intensive university. *Interdisciplinary Journal of Partnership Studies*, *6*(2), 4-4[. https://doi.org/10.24926/ijps.v6i2.2012](https://doi.org/10.24926/ijps.v6i2.2012)
+
+Posner, B. Z. (2016). Investigating the reliability and validity of the Leadership Practices Inventory®. *Administrative Sciences*, *6*(4), 17. [https://doi.org/10.3390/admsci6040017](https://doi.org/10.3390/admsci6040017)
+
+Quiddington, P. (2010). The new politics of Australian higher education: Why universities get rumbled in the budget. *Higher Education Research & * *Development*, *29*(4), 475-487.[ https://doi.org/10.1080/07294361003601867](https://doi.org/10.1080/07294361003601867)
+
+Quimbo, M. A. T., & Sulabo, E. C. (2014). Research productivity and its policy implications in higher education institutions. *Studies in Higher Education*, *39*(10), 1955-197[1.https://doi.org/10.1080/03075079.2013.818639.](https://doi.org/10.1080/03075079.2013.818639)
+
+Quimbo, S., Wagner, N., Florentino, J., Solon, O., & Peabody, J. (2014). Long-term effects of a randomized policy experiment on quality improvement in the Philippines. In *Abstracts of the Third Global Symposium on Health Systems Research*.
+
+Sabatier, P. A., &Weible, C. M. (Eds.).(2014). *Theories of the policy process*.Westview press.
+
+Sabwami, K. M. (2025). Transformational Leadership in Higher Education. In *Artificial Intelligence, Digital Learning, and Leadership: Redefining Higher * *Education* (pp. 219- 252). IGI Global. https://doi.org/ 10.4018/979-8-3373-0025-2.ch009
+
+<!-- page 11 -->
+
+Sahib, H. M. A., &Wilderom, C. (2024). Transformational Leadership of School Administrators and High Team Engagement: Mediated by Team Efficacy and Citizenship Behavior. *The International Journal of Educational Organization and Leadership*, *31*(1), 93. https://doi.org/10.18848/2329-1656/CGP/v31i01/93- 122
+
+Salmi, J., Sursock, A., &Olefir, A. (2017).Improving the performance of Ethiopian universities in science and technology: A policy note. *Improving the * *Performance of Ethiopian Universities in Science and Technology: A Policy Note, World Bank Group*.
+
+Schimanski, L. A., & Alperin, J. P. (2018). The evaluation of scholarship in academic promotion and tenure processes: Past, present, and future. *F1000Research*, *7*. https://doi.org[/10.12688/f1000research.16493.1](https://doi.org/10.12688/f1000research.16493.1)
+
+Sewagegn, A. A., & Diale, B. M. (2021). Academic Staff Practices and Challenges of Publishing: Evidence from an Ethiopian University. *International Journal of * *African Higher Education*, *8*(1), 27-42.
+
+Snowball, J. D., &Shackleton, C. M. (2018). Factors enabling and constraining research in a small, research-intensive South African University. *Research * *Evaluation*, *27*(2), 119-131[. https://doi.org/10.1093/reseval/rvy002](https://doi.org/10.1093/reseval/rvy002)
+
+Stensaker, B. (2020). Policy Implementation in higher education. In *The international encyclopedia of higher education systems and institutions* (pp. 2252- 2259). Dordrecht: Springer Netherlands[.https://link.springer.com/content/pdf/10.1007/978-94-017-8905-9_138.pdf](https://link.springer.com/content/pdf/10.1007/978-94-017-8905-9_138.pdf)
+
+Stensaker,B.(2020).Policy Implementation in higher education. In *The international encyclopedia of higher education systems and institutions* (pp. 2252-2259). Dordrecht: Springer Netherlands.
+
+Teferra, D. (Ed.). (2017). *Flagship universities in Africa*. Cham, Germany: Springer International Publishing.
+
+Teichler, U. (2015). Higher education research in Europe. *The European higher education area: Between critical reflections and future policies*, 815-847.
+
+Tiwari, N. (2023). *Innovative Approaches to Research in Higher Education*. Academic Guru Publishing House.
+
+Umer, U. A. (2020). *Exploring the link between higher education research and policy in Ethiopia: Contributions of Universities* (Master's thesis).
+
+Uslu, B. (2017). The influence of organisational features in high-ranked universities: the case of Australia. *Journal of Higher Education Policy and * *Management*, *39*(5), 471-486.[ https://doi.org/10.1080/1360080X.2017.1354755](https://doi.org/10.1080/1360080X.2017.1354755)
+
+Weible, C. M. (2007).An advocacy coalition framework approach to stakeholder an Understanding the political context of California marine protected area policy. *Journal of public administration research and theory*, *17*(1), 95-117.[ https://doi.org/10.1093/jopart/muj015](https://doi.org/10.1093/jopart/muj015)
+
+Weimer, D., & Vining, A. (2017). *Policy analysis: Concepts and practice*. Routledge.
+
+Weldemichael, D. G. (2014). *Research Practice in Public Universities of Ethiopia the Case of Mekelle University* (Master's thesis).
+
+Wies, R. (1994, October). Policy definition and classification: aspects, criteria and examples In *Proceedings of the IFIP/IEEE international workshop on * *distributed systems: operation and management* (pp. 10-12).
+
+WWW[.World | Ranking Web of Universities: Webometrics ranks 30000 institutions](https://www.webometrics.info/en/WORLD) *disciplinary Research and Growth Evaluation*, *4*(04), 258-265
+
+Yalew, A. T., &Dereb, A. (2022). Publication output of Bahir Dar University: A Scopus-based bibliometric overview. *Bahir Dar Journal of Education*, *23*(2), 6-21. [https://doi.org/10.4314/bdje.v23i2.2](https://doi.org/10.4314/bdje.v23i2.2)
+
+Young, H. J., & Kim, J. (2024). Assessing Distributed Leadership Practice in Korea: An Exploratory Study on Scale Development. *KEDI Journal of Educational * *Policy*, *21*(1)[. https://doi.org/10.22804/kjep.2024.21.1.001](https://doi.org/10.22804/kjep.2024.21.1.001)

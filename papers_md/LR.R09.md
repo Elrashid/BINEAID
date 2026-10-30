@@ -1,0 +1,375 @@
+<!-- LR.R09 | source: papers_json/LR.R09/ -->
+
+![LR.R09 fig01](../figures/LR/LR.R09_fig01.jpg)
+
+![LR.R09 fig02](../figures/LR/LR.R09_fig02.jpg)
+
+*Article*
+
+## **Leadership in Private Universities for the Sustainable** **Performance of Research: A System Dynamics Approach**
+
+**Alejandra N****ú****ñez-Acosta and Jacqueline Y. S****á****nchez-Garc****í****a ****[*](https://orcid.org/0000-0002-8328-6256)**
+
+Universidad Panamericana, Facultad de Ciencias Económicas y Empresariales, Álvaro del Portillo 49, Zapopan 45010, Jalisco, Mexico; anunez@up.edu.mx
+
+***** Correspondence: jsanchezg@up.edu.mx
+
+**Abstract:** In the context of private universities, improving researchers' performance is critical for universities to remain competitive. This article utilizes system dynamics to analyze how key variables related to leadership, such as satisfaction, motivation, efficiency, research capabilities, and morale, interact and influence each other. We use causal loop diagrams to illustrate these relationships based on the priority assessments of 86 private university researchers, evaluated using the Analytic Hierarchical Process (AHP). Our findings emphasize the critical importance of a balanced approach to strategy and policy design, suggesting that improving one factor may inadvertently affect others, thereby influencing the outcomes for leadership in educational settings. This study provides valuable insights for decision-makers and leaders who aim to foster and enhance their academic staff's sustainable performance.
+
+**Keywords:** system dynamics; effective organization; research capabilities; AHP
+
+## **1. Introduction**
+
+In the academic context, researchers' performance is an essential component of institutional success and long-term sustainability. As a developing country, Mexico faces specific challenges impacting its higher education and academic research [(Perales](#page-15-0) [Franco and McCowan](#page-15-0) [2021)](#page-15-0). In an increasingly competitive academic environment, these institutions must find ways to optimize academic performance and the well-being of their research staff to remain relevant and competitive [(Cervantes et al.](#page-14-0) [2021)](#page-14-0).
+
+Sustainability in Mexican higher education is not limited to the management of physical and financial resources but also encompasses human sustainability, including academic staff's development and well-being. Universities having the capability to create a working environment that promotes high-quality research and continuous professional development is necessary and holds the potential to improve the academic landscape significantly. Implementing policies and leadership strategies that consider these dynamics can improve academic performance, researcher satisfaction, and morale, thus contributing to institutional sustainability.
+
+Despite the vast literature available about school leadership, research, and accreditations, there is a significant gap in the research in terms of exploring how researchers' perceptions about these topics could influence school leadership [(Edgerton and McKechnie](#page-14-1) [2023;](#page-14-1) [Tan](#page-15-1) [et al.](#page-15-1) [2024)](#page-15-1). Our study aims to fill this gap using system dynamics (SD) to incorporate the final priority that participating researchers assigned to the factors assessed through the Analytic Hierarchy Process (AHP), methodologies that, despite being well established, have not been widely applied in this specific context. This methodological combination allows for a deep and structured comprehension of the interactions and dependencies between the different factors involved, providing a solid base for decision-making and the implementation of improvements in school leadership. By connecting academic research priorities with effective school leadership practices, this study aims to contribute to developing more robust educational strategies aligned with the needs of the Mexican context.
+
+![LR.R09 fig03](../figures/LR/LR.R09_fig03.jpg)
+
+**Citation:** Núñez-Acosta, Alejandra, and Jacqueline Y. Sánchez-García. 2024. Leadership in Private Universities for the Sustainable Performance of Research: A System Dynamics Approach. *Administrative* *Sciences* 14: 166. [https://doi.org/](https://doi.org/10.3390/admsci14080166) [10.3390/admsci14080166](https://doi.org/10.3390/admsci14080166)
+
+Received: 25 June 2024 Revised: 23 July 2024 Accepted: 31 July 2024 Published: 2 August 2024
+
+![LR.R09 fig04](../figures/LR/LR.R09_fig04.jpg)
+
+**Copyright:** © 2024 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license [(https://](https://creativecommons.org/licenses/by/4.0/) [creativecommons.org/licenses/by/](https://creativecommons.org/licenses/by/4.0/) 4.0/).
+
+<!-- page 2 -->
+
+*Adm. Sci.* **2024**, *14*, 166 2 of 16
+
+Considering the above, the variables assessed in this study were defined in terms of leadership, considering the elements prioritized by 86 private university researchers using the AHP approach. These elements include work–life balance, institutional support, professional development programs, financial incentives, and recognition programs. The relationships between these variables are illustrated using causal loop diagrams, providing a comprehensive view of the factors that should be considered in designing leadership strategies and policies in the Mexican educational environment. The findings of this study have significant implications for decision-makers and university leaders in Mexico, who must adopt a balanced approach to improve academic performance and research staff's well-being.
+
+Our article strives to offer a comprehensive perspective on how different interrelated factors influence leadership and sustainability in private Mexican universities. Through an in-depth analysis using system dynamics tools, it aims to provide insights that can guide university leaders in creating more effective and balanced strategies. Our results can help design policies that improve a specific aspect of the academic environment and consider its overall impact on the institution.
+
+This study proposes a framework that assesses the relationship between the factors researchers consider a priority for their development and the leadership decision-makers adopt in private universities. Specifically, we seek to (a) establish the research priorities of academics in private universities using the AHP. (b) Assess the relationships between the factors each researcher considers a priority for their development using the systems dynamics approach. (c) Determine the effect of key factors and decision-makers' leadership. (d) Propose strategies, guided by dynamic systems, to improve the alignment between research priorities and the school leadership adopted in private universities.
+
+In the Mexican context, where resources for education and research may be limited, maximizing the positive impact of any intervention is essential. Improving the performance and well-being of researchers will not only strengthen the scientific production of private universities but also contribute to the country's development, promoting greater equity and quality in higher education.
+
+## **2. Literature Review**
+
+Leadership in higher education has been studied in educational administration because of its impact on academic performance and staff well-being. Effective leadership is characterized by leaders' ability to inspire and motivate their teams, promote a positive working environment, and support continuous professional development [(Haar et al.](#page-15-2) [2014;](#page-15-2) [Khan et al.](#page-15-3) [2023)](#page-15-3). Within this context, two types of leadership have been identified as effective in the educational setting.
+
+Transformational leadership is based on inspiring and motivating academics and students through a shared vision and mutual commitment [(Elshaer et al.](#page-14-2) [2024)](#page-14-2). This approach fosters the development of individual and collective capabilities within the institution, promoting a culture of collaboration and continuous improvement (B. [Bass](#page-14-3) [and Avolio](#page-14-3) [1994;](#page-14-3) [Hallinger](#page-15-4) [2003;](#page-15-4) [Marks and Printy](#page-15-5) [2003)](#page-15-5). Transformational leaders can generate a high level of enthusiasm and commitment among academic community members, resulting in an environment conducive to learning and innovation.
+
+Instructional leadership, on the other hand, is a collaborative effort that focuses on monitoring curricula and teaching, with the aim of enhancing teaching practices and academic outcomes [(Burns](#page-14-4) [1978)](#page-14-4). This type of leadership involves paying careful attention to the quality of education, ensuring that teachers receive the necessary support and guidance to improve their teaching practice. Instructional leaders work hand in hand with teachers to develop effective teaching and learning strategies, which significantly contribute to raising the educational standards of the institution.
+
+Studies such as those by [Almutairi](#page-14-5) [(2020)](#page-14-5) and [Cruz-Bohorquez et al.](#page-14-6) [(2024)](#page-14-6) have explored how effective school leadership can influence the educational environment. These studies highlight the importance of strong and clear leadership in achieving academic
+
+<!-- page 3 -->
+
+*Adm. Sci.* **2024**, *14*, 166 3 of 16
+
+success, underlining that leaders who combine transformational and instructional leadership elements are particularly effective. [Cruz-Bohorquez et al.](#page-14-6) [(2024)](#page-14-6) examined the impact of institutional support and professional development programs on academic performance, while [Almutairi](#page-14-5) [(2020)](#page-14-5) investigated the role of financial incentives and recognition programs in academic staff's motivation and satisfaction.
+
+Sustainability in higher education involves the efficient management of physical and financial resources and the creation of an environment that promotes the well-being and continuous development of academic staff. [Sterling](#page-15-6) [(2001)](#page-15-6) argues that sustainability in higher education must include a holistic approach that considers environmental, social, and economic sustainability. This approach ensures that educational institutions are sustainable not only in terms of their resources but also in terms of the quality of life of their staff and students. [Wals and Jickling](#page-15-7) [(2002)](#page-15-7) highlight the importance of integrating sustainability principles into the curriculum and institutional management, promoting sustainable practices that can positively impact the academic community and beyond. [Yanniris](#page-15-8) [(2021)](#page-15-8) proposed an integrative approach to sustainability, peace, and global citizenship education, emphasizing the importance of leadership that fosters these areas for long-term sustainable impact.
+
+[Gunnulfsen](#page-14-7) [(2023)](#page-14-7) explored how higher education institutions can address socioeconomic and environmental challenges through sustainable practices, highlighting the importance of leadership in promoting these efforts. [Hashim et al.](#page-15-9) [(2022)](#page-15-9) provided strategies and perspectives on leadership for sustainability in higher education, highlighting the need for integrated and collaborative approaches. [Constantinides](#page-14-8) [(2023)](#page-14-8) discussed innovative approaches to sustainable development in higher education, including case studies and the successful practices implemented in various institutions.
+
+[Ghasemy et al.](#page-14-9) [(2024)](#page-14-9) identify several essential practices for sustainability in educational institutions. These practices include institutional support, professional development programs, financial incentives, and recognition programs. In addition, they highlight the importance of community involvement, the integration of sustainability into the curriculum, and commitment to reducing the institution's carbon footprint. The major contribution of this study lies in its holistic approach to addressing sustainability, suggesting that higher education institutions should adopt a comprehensive strategy that encompasses both operational and educational aspects to achieve lasting impact.
+
+[Aleixo et al.](#page-14-10) [(2018)](#page-14-10) provide a conceptual model that analyses how the academic system influences the adoption of research-based instructional strategies, emphasizing the role of institutional support and professional development programs in academic performance in Mexican private universities. This study underlines the importance of understanding the internal dynamics that affect the adoption of new teaching practices. This approach is particularly relevant for analyzing how to improve leadership and sustainability in private universities in Mexico.
+
+[Jørgensen and Hanssen](#page-15-10) [(2018)](#page-15-10) investigated the role of financial incentives and recognition programs in the motivation and satisfaction of academics, showing that these factors are essential for fostering a positive and productive work environment.
+
+The system dynamics (SD) methodology, introduced by Forrester [(Sterman](#page-15-11) [2000)](#page-15-11), has been utilized in educational studies to analyze the effects of educational policies, resource management, and academic performance enhancement [(Coyle](#page-14-11) [2000;](#page-14-11) [Richardson](#page-15-12) [1997)](#page-15-12). This methodology provides an innovative way to address the complexities of school leadership and research in private universities. It allows for modeling interactions and dependencies among different components in a system, making it easier to identify leverage points and develop more effective intervention strategies.
+
+## **3. Methodology**
+
+According to [Duggan](#page-14-12) [(2016)](#page-14-12) and [Meadows et al.](#page-15-13) [(1982)](#page-15-13), problems with a high social component can fall into the category of unstructured problems because it is difficult to find a single root cause, while, at the same time, multiple visions converge on a given
+
+<!-- page 4 -->
+
+*Adm. Sci.* **2024**, *14*, 166 4 of 16
+
+problem and, commonly, each participant wants his or her solution to be the one that is implemented. In his model of science, [Warfield](#page-15-14) [(2006)](#page-15-14) proposed adopting the framework of systems science and the analytical tools that comprise it to enrich research processes and overcome the limitations of conventional tools, i.e., to include the relationships between components and the structure and context of a given system and propose courses of action that promote change [(Forrester](#page-14-13) [2009)](#page-14-13).
+
+Based on the above, the methodological framework supporting this article's development is Forrester's SD [(Forrester](#page-14-14) [1971)](#page-14-14). The selection of SD is because this approach allows researchers to understand the structure of any system using causal loop diagrams (CLDs) and, at the same time, facilitates an understanding of the complex interactions present in the structure through the visualization of Forrester or Stock and Flow diagrams. Together, these elements help to identify and model the causal relationships within the system, allowing us to understand how the effect influences the cause.
+
+The following is a brief description of the stages of SD applied in this study, considering [Cole](#page-14-15) [(2012)](#page-14-15) and [J. Forrester](#page-14-16) [(1989)](#page-14-16):
+
+- 1. Frame and articulate the problem: According to [Duggan](#page-14-12) [(2016)](#page-14-12), this phase demands identifying key aspects of the problem and exploring the reasons for or aspects of the problem that are worth addressing. In other words, this step allows for capturing the underlying aspects of the problem's structure by representing the feedback loops between system elements. To accomplish this step, the results of the final prioritization that the participating researchers assigned to AHP-assessed factors and leadership elements were taken as the base input.
+- 2. Design a conceptual model based on a CLD: Subsequently, a model is proposed using a Forrester diagram, which distinguishes essential resources as stocks of assets or shares, recognizes the nature of the relationships between these resources and the possible levers that change their state, and establishes feedback structures.
+- 3. Build a simulation model: The process of building the simulation model is iterative and thorough. It involves identifying resources and their states and expressing the structure using flows, stocks, and feedback. That is, expressing the equations that formalize key resources as accumulations, potential drivers of those resources or flows, and potential feedback structures and lag effects [(Duggan](#page-14-12) [2016)](#page-14-12).
+- 4. Running the simulation model: Once the elements established in the Forrester diagram are parameterized, this model simulates the system's behavior in different scenarios to evaluate how variations in internal and external factors affect system performance.
+- 5. Evaluation and validation: The simulated scenarios are compared with accurate data to validate the model. If the predictions do not match observations, the model is adjusted until it adequately represents reality. Finally, the validated model is used to formulate informed policies and strategies.
+
+The AHP technique complements the SD approach by facilitating decision-making within complex problems by decomposing them into simpler components. Using an algorithm based on paired comparisons, the AHP allows for the prioritization of alternatives and assessing their relative importance [(Saaty](#page-15-15) [1987)](#page-15-15). The AHP has been applied for diverse purposes, including evaluating and prioritizing critical factors in strategic decision-making, selecting educational programs, allocating resources, and identifying research priorities (Timó[teo et al.](#page-15-16) [2024;](#page-15-16) [Vaidya and Kumar](#page-15-17) [2006)](#page-15-17). The ability of the AHP to decompose complex problems and evaluate multiple criteria simultaneously makes it an invaluable tool for educational leaders who seek to make informed and balanced decisions. This approach provides a deep understanding of complex and dynamic systems, facilitating the making of strategic decisions and evaluating systemic interventions [(Bloodgood et al.](#page-14-17) [2015;](#page-14-17) [Conz and Magnani](#page-14-18) [2020;](#page-14-18) [Fisuno˘glu](#page-14-19) [2018;](#page-14-19) [Gharajedaghi](#page-14-20) [2011;](#page-14-20) [Lane and Oliva](#page-15-18) [1998;](#page-15-18) [Rebs et al.](#page-15-19) [2019;](#page-15-19) Sá[nchez-Garc](#page-15-20)ía et al. [2023;](#page-15-20) Sá[nchez-Garc](#page-15-21)ía and López-Hernández [2020;](#page-15-21) [Wolstenholme](#page-15-22) [1990)](#page-15-22).
+
+<!-- page 5 -->
+
+Adm. Sci. **2024**, 14, 166 5 of 16
+
+## Information Collection
+
+The information in this study was collected with the participation of a group of academics belonging to private universities. According to the National System of Researchers of the National Council of Humanities, Sciences, and Technologies, the regulatory body of scientific policy in Mexico, researchers from private universities generate almost 50% of the national high-impact indexed academic production (CONACHYT 2022). Subsequently, we used purposive sampling, and the study participants were selected based on the following characteristics: having a doctoral degree, being full-time employees of private universities, and dedicating at least 50% of their working day to scientific research, as well as belonging to the National System of Researchers, which grants them recognition by the Mexican government and assigns them a level based on their years of experience and research impact. Based on the above, eighty-six academics participated in the study. This sample size, 86, is adequate in the AHP framework since this tool does not take a parametric perspective. Due to the diversity and representativeness of this number, this sample size ensures comprehensive perspectives and opinions, which reduces bias and increases the reliability of the results.
+
+## 4. Results
+
+In an SD analysis, a causal loop diagram is essential to represent and understand complex system interactions and feedback. Figure 1 describes the causal relationships between the problem structure's critical aspects. This step is fundamental to capture the interactions and feedback between system elements, using the paired-wise comparisons from 86 academics affiliated with private Mexican universities, who prioritized factors that could increase their research performance through the AHP.
+
+![LR.R09 fig05](../figures/LR/LR.R09_fig05.jpg)
+***Figure 1.** Causal loops based on researchers' prioritization of leadership factors. Source: elaborated using Vensim (Ventana Systems 2023).*
+
+It is considered appropriate that our article does not aim to show the development of the AHP algorithm but to incorporate the final priority that participating researchers gave as the foundation for the conceptual model.
+
+<!-- page 6 -->
+
+*Adm. Sci.* **2024**, *14*, 166 6 of 16
+
+Table [1](#page-5-0) shows the results of this evaluation and highlights the following five factors:
+
+Source: Self-elaborated based on prioritization factors of academics.
+
+The top priority for researchers is "Work-life balance". This suggests that offering academics and scientists the opportunity to balance their work responsibilities with their personal lives is essential to achieving an effective and productive research environment. This balance can include flexible work schedules, support for work–family balance, and time for leisure activities. [(Xu et al.](#page-15-24) [2021)](#page-15-24) highlight the need to value academics as researchers and educators, and [(Alsuwailem](#page-14-22) [2023;](#page-14-22) and [Jindal-Snape and Snape](#page-15-25) [2006)](#page-15-25) also support the importance of this balance for health, creativity, and talent retention.
+
+In second place are the "financial incentives", which indicates their significant influence on the productivity of researchers. [Daumann et al.](#page-14-23) [(2023)](#page-14-23) and [Franzoni et al.](#page-14-24) [(2011)](#page-14-24) point out that although financial incentives could be important motivators, they could also create problems like competition and dependence on immediate income. For this reason, an efficient research policy must balance these incentives with research quality.
+
+"Institutional support" is the third most important factor. According to [Lundwall](#page-15-26) [(2019)](#page-15-26), providing the necessary resources is crucial for researchers to significantly impact their academic community and discipline. This support could improve the profile and reputation of researchers.
+
+"Research and professional development" and "Professional recognition" are also essential components of the system, although with lower weights. These elements show the need for continuous development and opportunities for recognition to foster a motivating and productive research environment.
+
+To comprehensively address aspects of leadership, this study proposes integrating additional critical factors that show the impact of university leadership. Therefore, we incorporated other fundamental factors like satisfaction, research capacities, morale, efficiency, and motivation, aligning with the Transformational Leadership Theory. This theory, developed by James MacGregor Burns and later expanded by Bernard M. Bass, focuses on a leader's capacity to inspire and motivate followers to reach objectives beyond their interest, promoting their development and well-being (B. M. [Bass and Riggio](#page-14-25) [2006)](#page-14-25). In the educational context, transformational leadership has been demonstrated to effectively improve educational culture and academic performance [(Leithwood et al.](#page-15-27) [2010)](#page-15-27). Additionally, research such as that of [Hallinger](#page-15-4) [(2003)](#page-15-4) and [Marks and Printy](#page-15-5) [(2003)](#page-15-5) shows that transformational leaders can positively influence researchers' commitment and professional development. For this reason, the integration of these critical factors not only provides a more comprehensive assessment of university leadership but also fosters a more dynamic and practical academic environment.
+
+This integrative perspective not only seeks to add leadership to educational institutions but also promotes an environment that fosters academic excellence and the well-being of the university community. Researchers' satisfaction is fundamental, since a satisfied staff tends to be more motivated and committed, improving their morale and efficiency at
+
+<!-- page 7 -->
+
+Adm. Sci. 2024, 14, 166 7 of 16
+
+work. Their research capabilities reflect the university's ability to produce new and relevant knowledge, a key factor in its reputation and international competitiveness. The morale of the academic staff is an indicator of well-being and cohesion within the institution, which directly impacts the productivity and quality of the work performed. The efficiency in using resources and time is crucial to maximize research results and minimize waste, ensuring that the university can maintain high levels of scientific production with the available resources. Finally, motivation drives performance and innovation through recognition, appropriate incentives, and continuous professional development.
+
+Therefore, considering these additional elements provides a better understanding of leadership in Mexican higher education, thus allowing for a better evaluation of its capacity to participate in research at a global level. This integrative perspective improves leadership within educational institutions and promotes an environment that fosters academic excellence and well-being in the university community.
+
+Vensim software helped model and simulate complex systems by creating causality diagrams and stock flows. This CLD shows how these factors are interrelated and are essential for effective leadership in a university context. For instance, recognition programs supported by committed leadership increase researchers' motivation. This increase in motivation could foster higher work satisfaction, increasing staff morale. High morale contributes to a better work–life balance, which increases the research work's efficiency (reinforcing loop R1). Improved efficiency strengthens research capabilities, closing a positive feedback loop essential to maintaining a productive and motivated research environment (reinforcing loop R2). In addition, professional development programs increase researchers' motivation, satisfaction and morale, work–life balance and efficiency, and research capabilities in a virtuous cycle (reinforcing loop R4). According to J. Forrester (1989) and Sterman (2000), positive feedback loops are critical for growth and sustainable innovation in complex systems like private universities.
+
+## 4.1. Model
+
+The CLD provides an initial approximation that helps create a model using a Forrester diagram. This diagram is a crucial tool in dynamic systems, and it is used to illustrate how resource levels (stocks) in a system change over time due to input and output, as well as the possible factors that affect these changes (Figure 2).
+
+![LR.R09 fig06](../figures/LR/LR.R09_fig06.jpg)
+***Figure 2.** Forrester diagram of leadership factors in private universities in Mexico. Source: elaborated using Vensim (Ventana Systems 2023).*
+
+<!-- page 8 -->
+
+Adm. Sci. 2024, 14, 166 8 of 16
+
+The model's simulation uses numeric integration to solve differential equations over time. The input parameters include work–life balance, financial incentives' structure, institutional support level, professional development programs, and recognition programs. We simulated five scenarios with a specific increase in the key variables (satisfaction, motivation, efficiency, research capabilities, and morale) to assess their impact on the other system variables. This allows us to understand the feedback dynamics and the interrelations among variables in the context of private Mexican universities.
+
+## 4.2. Level (Stocks), Flow, and Auxiliary Variables
+
+These variables represent the accumulated states in the system and are updated through the integration of flows. Tables 2 and 3 describe the variables that conform to the proposed model.
+
+Source: self-elaborated based on the conceptual model.
+
+Source: self-elaborated based on conceptual model.
+
+The flow variables represent the exchange rate in the level variables; that is, they influence the evolution of the stock variable over time.
+
+Table 4 presents the auxiliary variables used for intermediate calculations, which do not have an accumulative state in the system.
+
+<!-- page 9 -->
+
+Adm. Sci. 2024, 14, 166 9 of 16
+
+| Table 4. Descri | ntion of | auxiliary | variables | in the model. |
+| --- | --- | --- | --- | --- |
+| Table 4. Descri | Duon or | auxiliai y | variabics | mi tiit mitatti. |
+
+| Auxiliary Variables | Definition | Value Example |
+| --- | --- | --- |
+| Work_Life_Balance_Policies | Policies of work-life balance | 0.8 |
+| Financial_Incentives_Structure | Financial incentives structure | 0.7 |
+| Institutional_Support_Level | Level of institutional support | 0.9 |
+| Professional_Development_Programs | Professional development programs | 0.85 |
+| Recognition_Programs | Recognition programs | 0.75 |
+
+Source: self-elaborated based on conceptual model.
+
+These definitions and equations cover the main variables used in this model, providing a clear perspective on how they are calculated and interact.
+
+## 4.3. The "What If" Approach to Scenario Simulation
+
+The following interpretations provide a vision of how these variables evolve and are mutually affected and how decision-makers or leaders can address these aspects to enhance research in private universities.
+
+First scenario—the response of variables to an increase in satisfaction: When decision-makers in private universities in Mexico opt for a significant increase in satisfaction, a characteristic dynamic behavior is observed in the system. Satisfaction significantly increases during the intervention period, reflecting the effectiveness of the applied policy. This improvement in satisfaction drives moderated increments in motivations and research capabilities due to the positive correlation among these factors. However, efficiency and morale tend to relax, suggesting that although satisfaction is crucial, it is not the only determinant of efficiency and research capabilities (Figure 3). SD could explain this behavior, where the effects of the level variables could have direct and indirect impacts. However, the magnitude of these impacts could vary depending on the system's interactions.
+
+![LR.R09 fig07](../figures/LR/LR.R09_fig07.jpg)
+*Figure 3. Response of variables to an increase in satisfaction.*
+
+<!-- page 10 -->
+
+Adm. Sci. 2024, 14, 166
+
+Second scenario—the response of variables to an increase in motivation: In the scenario where motivation is increased, the motivation itself shows a pronounced increase, depending on the intervention applied. This increase in motivation generates positive feedback that also increases satisfaction and morale, since motivated researchers tend to feel more satisfied and keep high morale. The efficiency and research capabilities also show improvements, although less significantly (Figure 4). This suggests that motivation is a critical factor for general performance, but its impact on efficiency may be mediated by other factors such as resources and the institutional environment.
+
+![LR.R09 fig08](../figures/LR/LR.R09_fig08.jpg)
+*Figure 4. Response of variables to an increase in motivation.*
+
+Third scenario—the response of variables to an increase in efficiency: When decision-makers at private universities opt for a significant increase in the efficiency variable, their behavior is consistent with the exogenous intervention applied, demonstrating that the increase in efficiency is directly reflected in its level. This increase in efficiency results in a notable improvement in the satisfaction and motivation of researchers due to the improvement in institutional processes and the perception of productivity. Additionally, although researchers' research capabilities also increase, this is less pronounced, suggesting a positive indirect effect due to the better utilization of resources and a more productive environment for research. However, morale does not show an increase in behavior since, although efficiency could improve certain aspects of the work environment, other factors like recognition and professional development programs have a more direct influence over research morale (Figure 5).
+
+Fourth scenario—the response of variables to an increase in research capabilities: In the scenario where research capabilities are increased, a considerable increase is observed in this variable, reflecting the applied intervention. Increasing research capabilities improves satisfaction and motivation since a robust research environment can increase the perception of value and employee commitment. The efficiency shows a moderate increase, suggesting that research capabilities positively affect efficiency. The morale increases, but not as steeply as satisfaction and motivation (Figure 6).
+
+<!-- page 11 -->
+
+Adm. Sci. 2024, 14, 166
+
+![LR.R09 fig09](../figures/LR/LR.R09_fig09.jpg)
+*Figure 5. Response of variables to an increase in efficiency.*
+
+![LR.R09 fig10](../figures/LR/LR.R09_fig10.jpg)
+*Figure 6. Response of variables to an increase in research capabilities.*
+
+Fifth scenario—the response of variables to an increase in morale: When decision-makers opt for an increase in morale, this variable shows a significant increase during the intervention period. Satisfaction and motivation also significantly increase, creating a more favorable environment for ethical research and the recognition of researchers. Their efficiency and research capabilities, however, show moderate increases. This may be attributed to the influence of other factors not directly related to morale, like extra pressure or high expectations resulting from the new environment (Figure 7).
+
+<!-- page 12 -->
+
+Adm. Sci. 2024, 14, 166
+
+![LR.R09 fig11](../figures/LR/LR.R09_fig11.jpg)
+*Figure 7. Response of variables to an increase in morale.*
+
+## 5. Discussion
+
+Studies by Haar et al. (2014) and Khan et al. (2023) agree on the importance of leadership in the performance of employees. These authors believe that leaders, academics, and administrators should guide the design of policies and practices for work efficiency based on organizational justice. Understanding the dynamics of organizational justice can help academics better navigate their work environments and seek conditions that favor or positively impact their performance or productivity. In a sense, this includes implementing fair and equitable procedures and fostering fair interactions among staff. Our approach differs slightly in this regard because when decision-makers or university leaders choose one of these variables as the focus of their strategies, the impact can be profound and multifaceted. The above scenarios lead us to the following key considerations.
+
+The impact could be significant and sustained if leadership, particularly university managers, recognizes that increasing satisfaction is a critical objective in any academic environment. In the academic context, researcher satisfaction could arise from a variety of factors, including positive work, institutional support, and adequate resources. Higher satisfaction among researchers often translates into higher motivation, which in turn translates into higher efficiency and productivity. These ideas coincide with those put forward by Elshaer et al. (2024), Hallinger (2003) and Marks and Printy (2003), who state that under the perspective of transformational and instructional leadership, the active participation of researchers should be encouraged to lead their efforts toward the development of collaborative networks that maximize the benefits without neglecting the personal dimension. Based on the results obtained through SD, it is possible to say that satisfied researchers are more likely to improve their research capacity, which reinforces their morale and their commitment to the institution. Therefore, university managers, in particular, should consider satisfaction a crucial variable that drives a cycle of improvement in critical areas.
+
+On the other hand, the proposals of Almutairi (2020) and Cruz-Bohorquez et al. (2024) stress the relevance of leadership and the organizational support and backing that should be provided to researchers. For example, Almutairi's (2020) ideas focus on the self-efficacy that leadership should foster and its impact on the organizational commitment of academic staff members, suggesting that high self-efficacy fostered by the support of leaders would
+
+<!-- page 13 -->
+
+*Adm. Sci.* **2024**, *14*, 166 13 of 16
+
+translate into higher levels of loyalty and job satisfaction, while [Cruz-Bohorquez et al.](#page-14-6) [(2024)](#page-14-6) developed a system dynamics model to analyze how the academic system influences faculty's motivation to adopt research-based instructional strategies. Both works agree that institutional support and the perception of available resources are crucial factors for success in implementing changes and improvements in education. Our results for the scenario in which motivation is increased agree that motivation is a crucial factor driving researchers' performance and that an increase in motivation is positively associated with personal and professional satisfaction, which can influence the adoption of a culture of continuous improvement in researchers. This is considered fundamental to maintaining a positive and sustainable work environment. Moreover, efficiency in the daily work of researchers is also increased by adopting a motivational approach, which can translate into higher productivity and the optimization of available resources. This can lead to an improvement in capabilities, reflected in the quality and impact of research. On the other hand, researcher morale, which also increases with motivation, contributes to a more dynamic and positive working environment. A high level of morale can foster collaboration and innovation within the team, which is essential for research progress. However, while adopting or implementing a motivation-focused approach has several benefits, decision-makers must be careful not to generate unrealistic expectations among researchers. If incentives and rewards are not properly managed, an over-reliance on these external stimuli may arise, which could diminish researchers' intrinsic motivation in the long run. In addition, if motivation programs are not equitable or fair, they can create a feeling of favoritism or unfair competition, which can deteriorate the work environment and cause tension among team members. Another risk is work overload. To increase motivation, researchers may take on more responsibilities or projects than they can handle.
+
+Efficiency is a direct indicator of researcher performance. In this sense, [Aleixo et al.](#page-14-10) [(2018)](#page-14-10), [Constantinides](#page-14-8) [(2023)](#page-14-8), and [Hashim et al.](#page-15-9) [(2022)](#page-15-9) converge in describing efficiency as a critical factor of performance in both teaching and high-performance academic research. [Hashim et al.](#page-15-9) [(2022)](#page-15-9) accentuate that higher education institutions should adopt emerging strategies that promote adaptability and innovation, thus improving efficiency in their administration and research processes. This approach would enable institutions to respond quickly to technological changes and emerging demands in scientific research, optimizing resources and improving academic results. Similarly, [Constantinides](#page-14-8) [(2023)](#page-14-8) stresses that efficiency in management and the implementation of research practices is fundamental to achieving high levels of research performance without neglecting the satisfaction of academics. At the same time, [Aleixo et al.](#page-14-10) [(2018)](#page-14-10) emphasize efficiency in the context of institutional authorities. The authors argue that for institutions to achieve high research performance, leaders must implement efficient resource management practices and create a structure to facilitate high-quality research. In this sense, our results agree with [Aleixo et al.](#page-14-10) [(2018)](#page-14-10) in that when efficiency improves, satisfaction increases due to the perception of achievement and meaningful contribution. Efficiency also motivates researchers to maintain their high performance and develop their research capabilities. This continuous improvement process boosts researcher morale, creating a positive cycle of high performance and satisfaction. Leaders should implement systems and processes that facilitate efficiency, such as access to advanced technologies and the simplification of administrative procedures.
+
+The last ideas suggest that developing research capabilities is vital for the professional development of researchers. Increased capabilities often lead to greater satisfaction, as researchers feel more capable and confident in their abilities. Improved research capabilities also motivate researchers to face new challenges and become more efficient. This professional growth strengthens their morale and commitment to the institution. University leaders should invest in continuing education and professional development programs to keep their researchers current and competent. High morale reflects a positive and cohesive environment. When morale increases, researcher satisfaction and motivation are observed, translating into greater effectiveness and the development of research
+
+<!-- page 14 -->
+
+*Adm. Sci.* **2024**, *14*, 166 14 of 16
+
+capabilities. High morale fosters a sense of commitment, motivating researchers to actively contribute to the institution's success. Decision-makers should promote a collaborative and supportive work environment in which researchers' efforts are recognized.
+
+## **6. Conclusions**
+
+This article contributes to developing and validating theoretical models that integrate diverse critical factors such as satisfaction, research capabilities, morale, efficiency, and motivation within the context of university leadership. These models provide a robust theoretical framework for understanding the complex and dynamic relations within educational institutions.
+
+The research results give university leaders and administrators a solid base for informed decision-making. When identifying the key factors that affect research, leaders could design more effective strategies to improve research productivity and sustainability practices.
+
+When comparing the different scenarios, it is evidenced that all variables are interrelated and mutually influenced. Satisfaction, motivation, efficiency, research capabilities, and morale conform to a dynamic system where a variable's increase tends to affect the other variables positively. This virtuous cycle of continuous improvement highlights the importance of a comprehensive focus on managing research strategies in private universities. Leaders should consider strategies that address several aspects simultaneously, creating an environment that favors the sustainable development of researchers.
+
+Decision-makers in private universities should understand that the effective management of researchers cannot focus on a single variable in isolation. Instead, they should adopt a systemic perspective recognizing the interdependence of satisfaction, motivation, efficiency, research capabilities, and morale. When implementing policies and practices that comprehensively favor these variables, leaders can create a work environment that maximizes researchers' potential.
+
+For researchers, this approach means working in an environment where they feel appreciated and supported, which increases their satisfaction and motivation. Their research capabilities and efficiency could significantly improve with adequate institutional support, increasing their morale and commitment to the institution. This positive cycle benefits researchers individually and boosts their general performance and the university's reputation. Decision-makers in private universities should consider dynamic systems when developing management strategies and supporting their researchers. Understanding and managing the interrelation between satisfaction, motivation, efficiency, research capabilities, and morale could foster a favorable context for the success and continuous growth of their researchers and, consequently, the institution as a whole.
+
+Finally, this work is not without limitations, so we shall mention some of them: (1) Although AHP and SD can provide valid results with groups as small as three individuals, we consider it possible that increasing the number of participants would capture more information. (2) The context in which our work was applied was private Mexican universities. To overcome this limitation, leaders or researchers interested in developing policies to increase performance could make minor adjustments to the proposed model to adapt it to other regions or even extend it to public institutions to generate comparisons between groups. In terms of future research avenues, we suggest applying a multivariate network analysis to map organizational structures and predict the shape of their network by considering the scenarios obtained through SD.
+
+**Author Contributions:** Conceptualization, A.N.-A.; methodology, J.Y.S.-G.; data collection, A.N.-A.; validation, A.N.-A. and J.Y.S.-G.; formal analysis, J.Y.S.-G.; writing (original draft preparation), A.N.-A. and J.Y.S.-G.; writing (editing), supervision and final writing, J.Y.S.-G. All authors have read and agreed to the published version of the manuscript.
+
+**Funding:** This research was funded by the Universidad Panamericana through the scholarship for doctoral studies grant: UP-GDL-0088815-EMP.
+
+**Institutional Review Board Statement:** Not applicable.
+
+<!-- page 15 -->
+
+*Adm. Sci.* **2024**, *14*, 166 15 of 16
+
+**Informed Consent Statement:** Not applicable.
+
+**Data Availability Statement:** The data presented in this study are available on request from the corresponding author due to the participants' universities not consenting to data sharing.
+
+**Conflicts of Interest:** The authors declare no conflict of interest.
+
+## **References**
+
+Aleixo, Ana Marta, Susana Leal, and Ulisses Miranda Azeiteiro. 2018. Conceptualization of sustainable higher education institutions, roles, barriers, and challenges for sustainability: An exploratory study in Portugal. *Journal of Cleaner Production* 172: 1664–73. [[CrossRef]](https://doi.org/10.1016/j.jclepro.2016.11.010)
+
+Almutairi, Yousef Mubrik N. 2020. Leadership Self-Efficacy and Organizational Commitment of Faculty Members: Higher Education. *Administrative Sciences* 10: 66. [[CrossRef]](https://doi.org/10.3390/admsci10030066)
+
+Alsuwailem, Maha. 2023. Sustaining Work–Home Enrichment Experience in the Academic Sector: The Role of Intrinsic versus Extrinsic Motivations. *Sustainability* 15: 6145. [[CrossRef]](https://doi.org/10.3390/su15076145)
+
+Bass, Bernard, and Bruce Avolio. 1994. *Improving Organizational Effectiveness through Transformational Leadership*. Thousand Oaks: Sage Publications.
+
+Bass, Bernard M., and Ronald E. Riggio. 2006. *Transformational Leadership*. London: Psychology Press. [[CrossRef]](https://doi.org/10.4324/9781410617095)
+
+Bloodgood, James M., Jeffrey S. Hornsby, Andrew C. Burkemper, and Hessam Sarooghi. 2015. A system dynamics perspective of corporate entrepreneurship. *Small Business Economics* 45: 383–402. [[CrossRef]](https://doi.org/10.1007/s11187-015-9634-4)
+
+Burns, James M. 1978. Leadership. In *Leadership*. New York: Harper & Row.
+
+Cervantes, Brenda Imelda Boroel, José Alfonso Jiménez Moreno, Salvador Ponce Ceballos, and José Sánchez Santamaría. 2021. An Evaluation of the Formative Experiences of Students Enrolled in Postgraduate Studies in Education: Case Study in Northern Mexico. *Sustainability* 13: 4790. [[CrossRef]](https://doi.org/10.3390/su13094790)
+
+Cole, Sam. 2012. Synergy and congestion in the tourist destination life cycle. *Tourism Management* 33: 1128–40. [[CrossRef]](https://doi.org/10.1016/j.tourman.2011.11.018)
+
+CONACHYT. 2022. *Padr**ó**n de Sistema Nacional de Investigadoras e Investigadores-2022*. Ciudad de México: Consejo Nacional de Humanidades, Ciencias y Tecnologías.
+
+Constantinides, Michalis. 2023. Successful School Leadership in New Zealand: A Scoping Review. *Education Sciences* 13: 1189. [[CrossRef]](https://doi.org/10.3390/educsci13121189)
+
+Conz, Elisa, and Giovanna Magnani. 2020. A dynamic perspective on the resilience of firms: A systematic literature review and a framework for future research. *European Management Journal* 38: 400–12. [[CrossRef]](https://doi.org/10.1016/j.emj.2019.12.004)
+
+Coyle, Geoff. 2000. Qualitatie and quantitative modelling in system dynamics: Some research questions. *System Dynamics Review* 16: 225–44. [[CrossRef]](https://doi.org/10.1002/1099-1727(200023)16:3%3C225::AID-SDR195%3E3.0.CO;2-D)
+
+Cruz-Bohorquez, Juan Manuel, Stephanie G. Adams, and Flor Angela Bravo. 2024. The Academic System Influence on Instructional Change: A Conceptual Systems Dynamics Model of Faculty Motivation to Adopt Research-Based Instructional Strategies (RBIS). *Education Sciences* 14: 544. [[CrossRef]](https://doi.org/10.3390/educsci14050544)
+
+Daumann, Frank, Florian Follert, and Alfred Wassermann. 2023. The Road to Hell Is Paved with Good Intentions: Modeling Grant Competition between Universities. *Economies* 11: 81. [[CrossRef]](https://doi.org/10.3390/economies11030081)
+
+Duggan, Jim. 2016. An Introduction to System Dynamics. In *System Dynamics Modeling with R*. Cham: Springer International Publishing, pp. 1–24. [[CrossRef]](https://doi.org/10.1007/978-3-319-34043-2_1)
+
+Edgerton, Edward, and Jim McKechnie. 2023. The relationship between student's perceptions of their school environment and academic achievement. *Frontiers in Psychology* 13: 959259. [[CrossRef]](https://doi.org/10.3389/fpsyg.2022.959259) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/36817376)
+
+Elshaer, Ibrahim A., Alaa M. S. Azazz, Yahdih Semlali, Mahmoud A. Mansour, Mohammed N. Elziny, and Sameh Fayyad. 2024. The Nexus between Green Transformational Leadership, Employee Behavior, and Organizational Support in the Hospitality Industry. *Administrative Sciences* 14: 107. [[CrossRef]](https://doi.org/10.3390/admsci14060107)
+
+Fisuno˘glu, Ali. 2018. System Dynamics Modeling in International Relations. *All Azimuth: A Journal of Foreign Policy and Peace* 8: 231–53. [[CrossRef]](https://doi.org/10.20991/allazimuth.476884)
+
+Forrester, J. 1971. *World Dynamics*. New York: Productivity Press.
+
+Forrester, J. 1989. The bengining of System Dynamics. *International Meeting of the System Dynamics Society* 15: 1–16.
+
+Forrester, J. 2009. Learning through System Dynamics as Preparation for the 21st Century. Available online: [http://static.clexchange.](http://static.clexchange.org/ftp/documents/whyk12sd/Y_2009-02LearningThroughSD.pdf) [org/ftp/documents/whyk12sd/Y_2009-02LearningThroughSD.pdf](http://static.clexchange.org/ftp/documents/whyk12sd/Y_2009-02LearningThroughSD.pdf) (accessed on 23 July 2024).
+
+Franzoni, Chiara, Giuseppe Scellato, and Paula Stephan. 2011. Changing Incentives to Publish. *Science* 333: 702–3. [[CrossRef]](https://doi.org/10.1126/science.1197286)
+
+Gharajedaghi, Jamshid. 2011. *Systems Thinking, Managing Chaos and Complexity. A Platform for Designing Business Architecture*, 3rd ed. San Francisco: Morgan Kaufman.
+
+Ghasemy, Majid, James A. Elwood, and Geoffrey Scott. 2024. Approaches to education for sustainability leadership development in higher education: An international comparative study in the Asia Pacific region. *International Journal of Sustainability in Higher* *Education*. [[CrossRef]](https://doi.org/10.1108/IJSHE-11-2023-0558)
+
+Gunnulfsen, Ann Elisabeth. 2023. Conceptualizing Successful School Leadership in Norway: Political and Cultural Practices. *Education* *Sciences* 13: 787. [[CrossRef]](https://doi.org/10.3390/educsci13080787)
+
+<!-- page 16 -->
+
+*Adm. Sci.* **2024**, *14*, 166 16 of 16
+
+Haar, Jarrod M., Marcello Russo, Albert Suñe, and Ariane Ollier-Malaterre. 2014. Outcomes of work–life balance on job satisfaction, life satisfaction and mental health: A study across seven cultures. *Journal of Vocational Behavior* 85: 361–73. [[CrossRef]](https://doi.org/10.1016/j.jvb.2014.08.010)
+
+- Hallinger, Philip. 2003. Leading Educational Change: Reflections on the practice of instructional and transformational leadership. *Cambridge Journal of Education* 33: 329–52. [[CrossRef]](https://doi.org/10.1080/0305764032000122005)
+- Hashim, Mohamed Ashmel Mohamed, Issam Tlemsani, Robin Matthews, Rachel Mason-Jones, and Vera Ndrecaj. 2022. Emergent Strategy in Higher Education: Postmodern Digital and the Future? *Administrative Sciences* 12: 196. [[CrossRef]](https://doi.org/10.3390/admsci12040196)
+- Jindal-Snape, Divya, and Jonathan B. Snape. 2006. Motivation of scientists in a government research institute. *Management Decision* 44: 1325–43. [[CrossRef]](https://doi.org/10.1108/00251740610715678)
+- Jørgensen, Finn, and Thor-Erik Sandberg Hanssen. 2018. Research incentives and research output. *Higher Education* 76: 1029–49. [[CrossRef]](https://doi.org/10.1007/s10734-018-0238-1)
+- Khan, Irfan Ullah, Gerald Goh Guan Gan, Mohammad Tariqul Islam Khan, and Naveed Saif. 2023. Role of Organizational Justice in Linking Leadership Styles and Academics' Performance in Higher Education. *Administrative Sciences* 13: 101. [[CrossRef]](https://doi.org/10.3390/admsci13040101)
+- Lane, David C., and Rogelio Oliva. 1998. The greater whole: Towards a synthesis of system dynamics and soft systems methodology. *European Journal of Operational Research* 107: 214–35. [[CrossRef]](https://doi.org/10.1016/S0377-2217(97)00205-1)
+- Leithwood, Kenneth, Karen Seashore Louis, Kyla Wahlstrom, Stephen Anderson, Blair Mascall, and Molly Gordon. 2010. How Successful Leadership Influences Student Learning: The Second Installment of a Longer Story. In *Second International Handbook of* *Educational Change*. Dordrecht: Springer, pp. 611–29. [[CrossRef]](https://doi.org/10.1007/978-90-481-2660-6_35)
+- Lundwall, Rebecca A. 2019. Changing institutional incentives to foster sound scientific practices: One department. *Infant Behavior and* *Development* 55: 69–76. [[CrossRef]](https://doi.org/10.1016/j.infbeh.2019.03.006) [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/30933839)
+- Marks, Helen M., and Susan M. Printy. 2003. Principal Leadership and School Performance: An Integration of Transformational and Instructional Leadership. *Educational Administration Quarterly* 39: 370–97. [[CrossRef]](https://doi.org/10.1177/0013161X03253412)
+- Meadows, Donella, John Richardson, and Gerhart Bruckmann. 1982. Groping in the Dark: The First Decade of Global Modelling. *Population and Development Review* 8: 858. [[CrossRef]](https://doi.org/10.2307/1972486)
+- Perales Franco, Cristina, and Tristan McCowan. 2021. Rewiring higher education for the Sustainable Development Goals: The case of the Intercultural University of Veracruz, Mexico. *Higher Education* 81: 69–88. [[CrossRef]](https://doi.org/10.1007/s10734-020-00525-2)
+- Rebs, Tobias, Marcus Brandenburg, and Stefan Seuring. 2019. System dynamics modeling for sustainable supply chain management: A literature review and systems thinking approach. *Journal of Cleaner Production* 208: 1265–80. [[CrossRef]](https://doi.org/10.1016/j.jclepro.2018.10.100)
+- Richardson, George. 1997. Problems in causal loop diagrams revisited. *System Dynamics Review* 13: 247–52. [[CrossRef]](https://doi.org/10.1002/(SICI)1099-1727(199723)13:3%3C247::AID-SDR128%3E3.0.CO;2-9)
+- Saaty, Thomas. 1987. The Analytic Hierarchy Process—What it is and How it is used. *Mathematical Modelling* 9: 161–76. [[CrossRef]](https://doi.org/10.1016/0270-0255(87)90473-8)
+- Sánchez-García, J. Y., and Carlos López-Hernández. 2020. Applying System Dynamics to a Negotiation Diagram. In *Strategy, Power and* *CSR: Practices and Challenges in Organizational Management*. Bingley: Emerald Publishing Limited, pp. 85–99. [[CrossRef]](https://doi.org/10.1108/978-1-83867-973-620201004)
+- Sánchez-García, Jacqueline Y., Juan E. Núñez-Ríos, Carlos López-Hernández, and Alejandro Rodríguez-Magaña. 2023. Modeling Organizational Resilience in SMEs: A System Dynamics Approach. *Global Journal of Flexible Systems Management* 24: 29–50. [[CrossRef]](https://doi.org/10.1007/s40171-022-00322-z)
+- Sterling, Stephen. 2001. *Sustainable Education: Re-Visioning Learning and Change*. Bristol: Schumacher UK.
+- Sterman, J. 2000. *Bussines Dynamics. Systems Thinking and Modeling for a Complex World*. New York: Mc Graw Hill Higher Education.
+- Tan, Cheng Yong, Clive Dimmock, and Allan Walker. 2024. How school leadership practices relate to student outcomes: Insights from a three-level meta-analysis. *Educational Management Administration & Leadership* 52: 6–27. [[CrossRef]](https://doi.org/10.1177/17411432211061445)
+- Timóteo, Thiago Rodrigues, Gustavo Tietz Cazeri, Gustavo Hermínio Salati Marcondes de Moraes, Tiago F. A. C. Sigahi, Lucas Gabriel Zanon, Izabela Simon Rampasso, and Rosley Anholon. 2024. Use of AHP and grey fixed weight clustering to assess the maturity level of strategic communication management in Brazilian startups. *Grey Systems: Theory and Application* 14: 69–90. [[CrossRef]](https://doi.org/10.1108/GS-06-2023-0052)
+- Vaidya, Omkarprasad S., and Sushil Kumar. 2006. Analytic hierarchy process: An overview of applications. *European Journal of* *Operational Research* 169: 1–29. [[CrossRef]](https://doi.org/10.1016/j.ejor.2004.04.028)
+- Ventana Systems, Inc. 2023. *Vensim: Software for system Dynamics and Strategic Modelling [Software] (9.42 x64)*. Harvard: Ventana Systems, Inc. Wals, Arjen E. J., and Bob Jickling. 2002. "Sustainability" in higher education. *International Journal of Sustainability in Higher Education* 3: 221–32. [[CrossRef]](https://doi.org/10.1108/14676370210434688)
+- Warfield, J. 2006. *An Introduction to Systems Science (Ilustrada)*. London: World Scientific.
+- Wolstenholme, E. 1990. *Systems Enquiry: A System Dynimics Approach*. Edited by U. de Michigan Ilustrada. Hoboken: Wiley.
+- Xu, Xin, Alis Oancea, and Heath Rose. 2021. The Impacts of Incentives for International Publications on Research Cultures in Chinese Humanities and Social Sciences. *Minerva* 59: 469–92. [[CrossRef]](https://doi.org/10.1007/s11024-021-09441-w)
+- Yanniris, Constantinos. 2021. Education for Sustainability, Peace, and Global Citizenship: An Integrative Approach. *Education Sciences* 11: 430. [[CrossRef]](https://doi.org/10.3390/educsci11080430)
+
+**Disclaimer/Publisher's Note:** The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.

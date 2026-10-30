@@ -1,0 +1,473 @@
+<!-- LR.R27 | source: papers_json/LR.R27/ -->
+
+![LR.R27 fig01](../figures/LR/LR.R27_fig01.jpg)
+
+## **Journal** **of** **Cultural** **Economy**
+
+![LR.R27 fig02](../figures/LR/LR.R27_fig02.jpg)
+
+**ISSN: 1753-0350 (Print) 1753-0369 (Online) Journal homepage:****[ www.tandfonline.com/journals/rjce20](https://www.tandfonline.com/journals/rjce20?src=pdf)**
+
+## **The formalisation of academic subjectivity under** **constant performance assessment**
+
+## **Ming-Te** **Peng**
+
+**To** **cite** **this** **article:** Ming-Te Peng (2025) The formalisation of academic subjectivity under constant performance assessment, Journal of Cultural Economy, 18:4, 590-607, DOI: [10.1080/17530350.2024.2320124](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/17530350.2024.2320124)
+
+**To** **link** **to** **this** **article:** [https://doi.org/10.1080/17530350.2024.2320124](https://doi.org/10.1080/17530350.2024.2320124)
+
+| Published online: 22 Mar 2024. |
+| --- |
+| Submit your article to this journal |
+| Article views: 353 |
+| View related articles |
+| View Crossmark data |
+| Citing articles: 4 View citing articles |
+|  |
+
+<!-- page 2 -->
+
+![LR.R27 fig03](../figures/LR/LR.R27_fig03.jpg)
+
+![LR.R27 fig04](../figures/LR/LR.R27_fig04.jpg)
+
+## **The formalisation of academic subjectivity under constant ** **performance assessment**
+
+Ming-Te Peng
+
+Department of Sociology, Goldsmiths, University of London, London, UK
+
+## **ABSTRACT **
+
+This paper considers the part played by measuring instruments in academic subjectivity. Higher education in many regions has undergone procedures of marketisation. Because competitive mechanisms entail calculable and comparable data, performance measurement contributes indispensably to procedures of marketisation. This study aims to explore how the neoliberal discourse has been enacted and has eventually overwhelmed Taiwanese higher education as regards academic management and institutional practices. This scenario begins by the issue of promotion evaluations, which is the most important concern for most interviewees, then delineates the ubiquity of performance measurement, demonstrated by Key Performance Indicators (KPI) and principles of accountability, followed by other internal evaluations, university rankings and honours systems. Taking the case of universities in Taiwan, this study illustrates how academic subjectivity, as a locus of power relations, was established in the neoliberal era.
+
+## **ARTICLE HISTORY**
+
+Received 4 May 2022 Accepted 13 February 2024
+
+## **KEYWORDS **
+
+Bibliometrics; key performance indicators; subjectification; higher education; neoliberalism; governmentality
+
+## **Introduction**
+
+New Public Management (NPM) is a paradigm by which the public sector has been transformed and operated, aiming to replace hierarchical bureaucracy with markets. This self-regulating and self-organising system was introduced by 'quasi-market' mechanisms, inducing market behaviour even in the public sector. In the light of NPM all expenditure in the public sector should be accountable, while the wasting of resources becomes a critical problem to be solved. Hence, although it may be far from cheap, the promotion of transparency and accountability in the diverse public sector institutions around the world has been regarded as a hallmark (Elzinga [2012](#page-16-0); Strathern [2000;](#page-17-0) Power [1997;](#page-17-1) Muller [2018](#page-17-2)).
+
+Universities, as part of the public sector, are subject to this neoliberal reformation. The first reason is the pressure of financial control or budget cuts that seek to maintain quality by a model of pseudo-markets in higher education that is held to improve cost-effectiveness (Strathern [2000](#page-17-0); Skelton[ 2005](#page-17-3)). Second, while the concern about the accountability and transparency of public organisations increases, traditional autonomic models of peer review mechanisms and collegiality in academia have gradually lost public trust under the pressure of 'democratisation' (Weingart [2005](#page-17-4); Hallonsten [2021)](#page-16-1). Yet, while knowledge-based economics plays a more important role than previously, the university – where novel knowledge is produced – is deemed an indispensable economic resource as 'the oil of the 21th century' that must be measured and managed by governments to encourage productivity (Strathern [2000;](#page-17-0) Ross [2008;](#page-17-5) Wright [2016;](#page-18-0) Berman[ 2014)](#page-15-0). In consequence, the competitiveness and visibility of universities have been safeguarded by academic
+
+<!-- page 3 -->
+
+audits such as the Research Assessment Exercise and Teaching Quality Assessment (Strathern [2000;](#page-17-0) Skelton [2005](#page-17-3)).
+
+In neoliberal discourse, 'performing institutions should receive more income than lesser performing institutions, which would provide performers with a competitive edge and would stimulate less performing institutions to perform' (Herbst [2007,](#page-16-2) 90). With this rationale, various national research evaluation systems have been introduced to regulate funding, rewards and prestige (Hicks [2012)](#page-16-3). Rating entails a universal criterion which reduces the diverse outputs of researchers to comparable data (Beer [2016;](#page-15-1) Muller [2018)](#page-17-2). Hence, apart from their original functions, bibliometric indicators have been deployed in performance-based funding systems as objective and accountable measures for monitoring and quantifying scholars' efforts.
+
+The trajectory of neoliberal universities, characterised by competition-based funding, has featured East Asia since the 1990s (Shin et al. [2020)](#page-17-6). In late-developing countries, scientific achievement is not only for the sake of knowledge, but also a crucial component of modern nationbuilding; competitive academia has been perceived as a means to international recognition (Kim [2008](#page-16-4)). Taiwan's socio-political context has made this tendency more prominent. Since the Chinese Civil War, Taiwan has struggled with China and encountered diplomatic frustrations for more than half a century. Once bibliometrics and university rankings made quantitative comparisons available, an eager desire for being seen in global communities has engendered great enthusiasm for the notion of 'world-class' universities in Taiwan. As a result, the agenda of competitive funds and university assessments are adopted by Taiwan's government as strategies for not only economic growth but also international visibility (Hsieh [2016;](#page-16-5) Song and Tai [2007](#page-17-7)).
+
+Numerous studies have illustrated the development of neoliberalism, its introduction into the educational sector and its broad influences (Mirowski [2011;](#page-17-8) Evans [2004](#page-16-6); Elzinga [2012](#page-16-0); Apple [2013](#page-15-2)). For instance, marketisation transformations are criticised for treating universities as a private and not a public good, which undermines the contribution of university education to citizenship and democratic societies (Marginson [2011](#page-17-9); Giroux [2016](#page-16-7)); the managerial approach is criticised for a lack of educational concerns, undermining the Humboldtian university (Taylor [2003)](#page-17-10). In addition, intensifying the focus on competitiveness and university rankings may lead to hierarchies, stratification and exclusion for institutions as well as individuals (Watermeyer and Olssen [2016;](#page-17-11) Schulze-Cleven et al. [2017)](#page-17-12). The clamour for performance and casualization of university employment provokes concerns over the security, wellbeing and serenity lost when working conditions deteriorate (Loveday [2018;](#page-17-13) Waaijer et al. [2017;](#page-17-14) Kinman [2014)](#page-16-8). Some scholarships relocate global academic rankings and audit culture in the context of neoliberal capitalism with an analytical eye on the accumulation of capital in the world system (Welsh [2020a](#page-17-15); Welsh [2021b](#page-17-16)). In this approach, the global academic rankings are characterised by their political role in reinforcing the established advantages of North Atlantic universities; meanwhile, metric assemblages are interpreted as a zone of appropriation for further commodification in the procedure of capitalising academia (Welsh [2020a](#page-17-15); Welsh [2021b](#page-17-16)).
+
+Some scholarships focus on the changes in academic identity enforced by enterprise universities (Henkel [2005;](#page-16-9) Winter and O'Donohue [2012;](#page-18-1) Watermeyer and Olssen[ 2016](#page-17-11)). This article argues that the changes in academic identity do not merely result from the neoliberal transformations; conversely, the formation of academic subjectivity leads to the neoliberalised university. It has been said that academic identity is threatened by marketisation. However, treating neoliberalism as a macrostructural force may produce a generalised analysis of the transformation of higher education, at the expense of 'everyday neoliberalism' (Cannizzo [2018](#page-16-10); Cannizzo [2015)](#page-16-11). Yet academic identity may not be such a discrete entity for market forces to work on (Clegg [2008)](#page-16-12). This article examines the impact of performance evaluation on academic subjectivity; the subject is understood as both a result and a locus of the operation of power in Foucault's sense. As previous research suggests, taking the quantifiable metrics as an infrastructure for capital accumulation provides a lens through which we may articulate how macro-political goals have been translated into micro-political techniques (Davies [2017](#page-16-13); Miller and Rose [2008;](#page-17-17) Welsh [2021b;](#page-17-16) Welsh [2020b)](#page-17-18).
+
+<!-- page 4 -->
+
+To examine whether neoliberalised universities can best be understood through a notion of governmentality, this study focuses on the material conditions and institutional strategies through which the technology of self-governance is daily diffused to scholars: in Hall's words, 'the practices within institutions for dealing with the subjects' [(2001](#page-16-14), 73). In addition, by taking those evaluation metrics as a genre of governmental apparatus, this study aims to go beyond the institutions and managers into those which social relations of academic life comprise (Welsh [2021a)](#page-17-19). From this, I infer how the neoliberal regime has been implemented to prevent individuals from escaping its influence.
+
+## **Theoretical approach**
+
+This research draws on Foucault's perspectives on subjectivity to investigate how the neoliberal movement has been lived out in practice. As Foucault [(2000](#page-16-15)) argues, all knowledge is founded within its systems of inquiry, registration, communication, standardisation and displacement, where the form of power functions; conversely, the exercise of power also involves procedures for applying knowledge, such as extraction, management and distribution. If something is approached as a field of exploration, it is 'only because relations of power [have] established it as a possible object' (Foucault[ 1978,](#page-16-16) 98). But 'if power was able to take it as a target, this was because techniques of knowledge and procedures of discourse were capable of investing it' (Foucault [1978,](#page-16-16) 98). He thus regards the essence of both power and knowledge as forms of power-knowledge (Foucault [1979](#page-16-17); Foucault [1980](#page-16-18)). Further, when knowledge, along with these techniques and institutions – or when called discourse – is applied, it produces a 'true' impact on the world and becomes part of reality (Hall [2001)](#page-16-14).
+
+The procedure by which given attributes are assigned to a target of the exercise of power is subjectification: conferring the attributes on a subject that people expect it to have. The procedure of subjectification needs the accumulation of knowledge about the subject by a series of techniques and instruments consisting of means of observation, registration, investigation, research and control; i.e. discourse (Foucault [1980)](#page-16-18). 'Discourse' here refers not only to linguistic practices but also material conditions, where performance indicators play key roles as instruments. Previous studies of quantification and number show how reality is reshaped and translated by measurement parameters (Power [1997;](#page-17-1) Muller [2018](#page-17-2)). For example, Beer ([2016)](#page-15-1) illustrates the power mechanisms of neoliberalism as a discourse; he examines the deployment of metric devices in aspects of everyday life and names it 'metric power'.
+
+In Butler's interpretation, repression and subordination produce for Foucault, a social field which is to be regulated; 'the suppression of body not only requires and produces the very body it seeks to suppress, it goes further by extending the bodily domain to be regulated, proliferating sites of control, discipline, and suppression' (Butler[ 1997](#page-15-3), 59). This applies equally to governing academics. In discussing neoliberalised universities, I call this extended social domain generated by discursive practices the 'academic body': the social body of academics and the territory where power operations take place.
+
+The meaning of 'institutions' is to a certain extent ambiguous. According to Foucault, in forming discourse institutions play two roles: first, to produce knowledge; and second, to produce and maintain power relations (Foucault [1978](#page-16-16); Foucault [2000;](#page-16-15) Foucault[ 1981](#page-16-19)). For example, in the case of the discourse on sexuality, clinics and hospitals are where medical data are engendered and accumulated, but also where a new model of doctor-patient relations was embodied. Throughout the present study I use the word 'institution' to refer in particular to academic organisations, such as universities, colleges, departments or panels. By the phrase 'institutional practices', I mean managerial strategies deployed in academic organisations.
+
+With the notion of governmentality, Foucault suggests that the modality of disciplinary power also plays a key role in managing a population, linking the regulation of individual bodies with the regulation of a population (Foucault [1991;](#page-16-20) Foucault [2003)](#page-16-21). In the societies of control that transit
+
+<!-- page 5 -->
+
+from space-as-place to space-as-flow, the object of the pastoral power is the population in the sense of biopolitics rather than the docile body (Deleuze [1992;](#page-16-22) Gane [2012](#page-16-23); Foucault [2003;](#page-16-21) Welsh [2018](#page-17-20)). However, the disciplinary mode is not excluded from governmental power; by contrast, 'the given population cannot be governed, and the field of political economy cannot be intervened in, without the mereonomic establishment of individuals within the population and a particular characterisation of social relations between them' (Welsh [2017](#page-17-21), 93). This is what Foucault calls 'collective individual' formulated via the mechanism of measurement metrics.
+
+Taken together, when it comes to governing academics, the goal of discourse analysis is to explore the material and institutional aspects that were involved in forming the new domain: the academic body. I examine the deployment of discourse on the academic body within academic organisations by asking 'What kinds of instrument or indicator were used to measure the data?' 'How had these measurements and evaluations circulated in their organisations?' 'How had individual scholars been submerged by these measurement devices and then aligned with institutional strategic goals?' 'How had the academic body and the academic population been simultaneously produced by the particular set of social relation?'
+
+## **Materials and methods**
+
+## *Data collection*
+
+This empirical study was designed as a qualitative case study of 41 interviewees, undertaken for my PhD research project in 2017. Those interviewed were scholars in four academic disciplines from 12 public universities, 5 private universities and 1 private college in Taiwan (see [Table 1)](#page-4-0). In terms of representativeness, the researchers who were interviewed worked in four disciplines: natural science (labelled 'B, plus a number'), engineering (labelled 'M, plus a number), the humanities (labelled 'H, plus a number) and social science (labelled 'S, plus a number') which were compared to show the differences and similarities of the impact of academic evaluation across different areas. The four academic disciplines were biomedicine, material engineering, history and sociology. This sample was chosen to explore the richness of the social world and to avoid a monotonous perspective favouring fields of science, technology, engineering, and mathematics (STEM) or those traditional elite universities. Specifically, this sample attempted to be representative in terms of gender, career
+
+<!-- page 6 -->
+
+position (professor, associate professor and assistant professor), regions, and university types. In order to protect interviewees from being identified, their personal administrative experience was listed without detailed personal information. Details of administrative experience are not exclusive. For example, a scholar may have experience of working on an editorial board as well as being a departmental director.
+
+Interviews included four main topics: (1) scholars' idealisations of higher education; (2) factors involved in the process of research design; (3) experiences of being assessed or assessing; and (4) detailed publication strategies. All the interviews were recorded, transcribed, and coded for further analysis. The first topic may partially reflect current discourses about the ideal model of higher education and academic practices by which we may be able to explore how the academy body is constructed. The other three topics might account for the role of bibliometrics as one genre of apparatus in university management.
+
+## *The national context: university management in Taiwan*
+
+Two governmental agencies in Taiwan are in charge of research evaluation and funding in higher education. Nominally, universities are governed by the Ministry of Education, which regularly evaluates departments and allocates funding to defray the costs of maintenance, such as expenditure on staff, water, and electricity. The Higher Education Evaluation and Accreditation Council of Taiwan (HEEACT) was founded in 2005 to implement formal university evaluation. The first round of evaluations was launched in 2006, and the second in 2012. University evaluation was conducted with academic departments as the unit. Due to the intense criticism from academics, in February 2017, the Minister of Education announced that HEEACT would conduct no more compulsory university evaluations. Quality assurance in Taiwan has entered a period of 'self-improvement' (Chan et al. [2021](#page-16-24): chap. 4).
+
+Beside this basic support, the Ministry advertises competitive projects, for instance, The Aim for the Top University Project, and funds a few universities by distributing block grants to the winner. The financial amounts vary, as does the time taken for each project. For example, the first round of the Aim for the Top University Project lasted from 2006 to 2007 and funded 17 universities. The second round lasted from 2008 to 2010 and funded 15 universities. The latest round started in 2018 and is funding 24 universities (Chan et al. [2021](#page-16-24): Chapters 3 and 5).
+
+Although departments or universities offer grants to some researchers, the main resources to support a project or a laboratory come from the Ministry of Science and Technology (2014– 2022), which is in charge of developing the nation's science and technology. MOST was reorganised into the National Science and Technology Council in 2022. Since these interviews were conducted during the period when the entity was MOST, this paper coherently adopts the phrase MOST. MOST Research Project Grants are available for all research topics. Research proposals are examined by panels of this Ministry every year; the projects generally run for one to three years. Applicants can be either individuals or teams, and must submit research proposals, resumes, intellectual property lists, publication lists, and a table that shows five significant recent publications with explanations and additional information: i.e. citation numbers and impact factors. The number of publications and of approvals is highly positively correlated, but not linear. Apart from the MOST Research Projects, MOST sporadically operates National Sci-Tech Programs, which focus on particular topics, such as energy or AI.
+
+When the role of bibliometrics in measuring academic communities was introduced to Taiwan in the early 1990s, the National Science Council (the predecessor of MOST) invented the Research Performance Indicator (RPI) formula. The SCI-based formula of RPI is:
+
+$$ RPI = (C*J*A)*N/M $$
+
+C: Classification of publications.
+
+J: SCI- or SSCI-based Journal ranks.
+
+<!-- page 7 -->
+
+![LR.R27 fig05](../figures/LR/LR.R27_fig05.jpg)
+
+A: Authorship.
+
+N: the number of outputs counted in this calculation, which depends on the length of career.
+
+M: the maximum of (C*J*A)*N.
+
+It was applied to evaluations for research awards as well as project-based fund applications managed by the National Science Council. Similarly, because of the intense criticism from academics, MOST stopped using the RPI formula for internal evaluations in the 2000s. Nevertheless, the RPI formula and its variants are still used in several universities to quantify the productivity of scholars. An example of an RPI is a performance-based fund distribution.
+
+## **Practices of accountability by academics: key performance indicator systems**
+
+## *Faith in numbers*
+
+The interview process revealed the theme of Key Performance Indicators. Academic assessments generally take four forms: internal evaluations, promotion evaluations, grant applications and university evaluations. For individual scholars, the important ones are promotion evaluations and grant applications, then internal evaluations and university evaluations. But despite the varying criteria in these evaluations, they all have the same feature: the use of Key Performance Indicators (KPI).
+
+In this respect, 18 of my interviewees across all disciplines mentioned the use of KPI systems in promotion evaluation. Promotion evaluation comprises three areas: research, teaching and service. As numerous interviewees suggested, people are unlikely to fail in their teaching or service, so their research performance takes centre stage. Although the requirements for promotion differ, most departments use a KPI system including formulas, charts or tables that categorise the valid academic efforts and then, in a display of meritocracy, quantify scholars' performances.
+
+In the disciplines of social sciences and humanities (SSH), the criteria are more flexible than those in the natural sciences and engineering (NSE); the valid output may include books, chapters, conference papers, workshop papers, journal articles which are either registered in the Social Sciences Citation Index (SSCI) and Taiwan Social Science Citation Index (TSSCI), or non-indexed journals. In some departments, conference papers and workshop papers do not qualify as publications. Each item adds to the score, and the sum determines whether the candidate meets the criteria for promotion. Several SSH interviewees mentioned that indexed journal articles were not necessary; theoretically, monographs were admissible for promotion. S5, a professor who used to be a department director, also gave the example of a colleague who had recently been promoted by a monograph. Indeed, publishing at least one monograph was sometimes an essential condition for H10.
+
+In the NSE field, the criteria for promotion are nearer uniform. This is where a bibliometric index (the Sciences Citation Index, SCI) becomes more influential. In some institutes, the numbers of patents or industrial collaboration projects were invoked in promotion evaluations. Usually, the requirement for a certain number of publications was clear: two papers in the case of M10, five papers in the case of B8, M7 and M8, 6 papers in the case of M1, 7 papers in the case of M6 or 15 papers in the case of B7.
+
+Besides research, 7 interviewees indicated that KPI systems are also used to assess service. The element of service covers recruitment matters, tutorials, interviewing entry candidates, curriculum design, public speeches, adult education, on-line courses, directing programmes, taking part in university evaluations, holding conferences, joining academic associations, taking part in committees and being journal editors or reviewers. As with research output, all acceptable instances of service are shown in charts or tables with corresponding grades. Applicants have to collect enough points to meet the requirements.
+
+Teaching assessments have attracted a rich literature on its origin, design and consequences, in the UK, Taiwan or elsewhere (Skelton [2005;](#page-17-3) Morley [2003](#page-17-22)). Paralleling the emergence of research
+
+<!-- page 8 -->
+
+![LR.R27 fig06](../figures/LR/LR.R27_fig06.jpg)
+
+evaluations, the model of neoliberal universities in order to become accountable and eventually competitive also aims by quantitative surveys to render teaching quality transparent, calculable and comparable (Strathern [2000)](#page-17-0). Nevertheless, because the teaching assessment is not the *de * *facto *key in promotion evaluations or any others, this article focuses on research assessments.
+
+## *Academic life overwhelmed by metrics*
+
+Another format of assessment within universities is that of internal evaluation. This has two subdivisions, one at the level of individual scholars and one at the departmental level. Almost all interviewees agreed that individual internal evaluations were only routine and had little overall effect. Because of its unimportance, quite a few interviewees were not very sure how frequently it occurred. The standards in internal evaluations more or less copy those in promotion and university evaluations, including the KPI measures. 'Essentially, [internal evaluation] … is meant to make staff prepare data for the next evaluation' (S6).
+
+Publications, apart from their use in promotion and internal evaluations, served honour systems in private and state universities, according to several interviewees. Detailed standards differ between institutions, but the spirit of bibliometric-based meritocracy is coherent. After publishing journal articles, a university or college may reward scholars by grants. The amount of the grant, like the level of the honour, relies on bibliometrics. SCI, SSCI and A&HCI (Arts & Humanities Citation Index) journals were rated more valuable than non-indexed journals and high impact journals were more prestigious than low impact journals. In M7's case, more citations could also translate into a reward, but for S8, books and chapters did not count in the competition. This mechanism of reward shows how the academic body is normalised by bibliometric ratings in the hands of disciplinary power (Foucault [1979)](#page-16-17).
+
+## **Duplication of performance criteria from policy to everyday academic life** *Transmitting pressure on performance from university centres to colleges and * *departments*
+
+Besides individual internal evaluations, university bureaucracies hold informal or formal evaluations of departments or colleges. This kind of internal evaluation involves transmitting the pressure to be productive while circulating neoliberal discourse from university centres to colleges and departments. Five interviewees referred to their experience of being directors or deans, where they had a chance to observe the power relations between university bureaucracies and colleges.
+
+The first example shows how an academic leader played an active role in enhancing academic competitiveness through institutional management. M5 was respectively a high manager of a national university and a private university. While there, he listed the performance indicators measuring departments in the same college. The result was shown to all departmental directors, and then the most productive department was rewarded. In this way, faculty and departments were encouraged to augment their performance. The criteria used in these internal evaluations (even if slightly modified to reflect a department's orientation) were a copy of the official university evaluation, such as its average number of publications, industrial research projects and grants. According to M5, few alternative standards exist, 'because this is a top-down policy' from the state bureaucracy. This case illustrates the importation of criteria from national schemes to academic routines.
+
+However, H4, S5, S7 and S8, who had been department directors, offered passive resistance when in committees with high-ranking officials and bureaucrats, 'high bureaucracy' had pressurised them to enhance their overall academic performance. H4 (a senior professor) disagreed with the model of competition-based research grants. He said that in such committees, topics about indicators, globalisation and industrial collaboration continued to be highlighted and each department's
+
+<!-- page 9 -->
+
+![LR.R27 fig07](../figures/LR/LR.R27_fig07.jpg)
+
+performance was ranked. Nevertheless, he never subscribed to the orthodox view. H4's insight suggested that:
+
+The Ministry of Education now and then has provided plenty of project grants like the golden apple of discord, to spur universities to compete against each other. Then the Ministry of Education may define some indicators of performance and if a university plans to compete for these resources, it must follow the rules. Hence, the university would expect its colleges and departments to strive for the grant together by fitting the indicator.
+
+Similarly, the three other former directors did not think that they had the right to transfer this pressure to faculty. Therefore, they chose not to show enthusiasm for faculty credited with many publications, projects or grants. As with internal evaluations for individuals, the mechanism of punishment and reward makes the internal evaluation of departments seem important. In S5's experience, because the university bureaucracy had the right to declare vacancies, the departments that could not meet the given requirements may have been punished by losing some faculty positions. This example of institutional management features not only the 'rivalising effects': a new form of competition created by rankings (Pollock, D'Adderio, and Kornberger[ 2021)](#page-17-23); but also the formation of subjectivity embedded in the biopolitical community (Welsh [2018;](#page-17-20) Welsh [2021b)](#page-17-16).
+
+As Marginson and Considine ([2000)](#page-17-24) note, when promoting university ranking through performance, evaluation turns into a common object for all faculty and university managers to gain more legitimacy for their central policy-making. However, because each academic institution may own interests and missions which were formalised by their history and tradition, department heads may try to resist the stress from their upper bureaucracy by adopting a passive attitude.
+
+## *The influence of state policy on academic organisations via evaluations*
+
+Overall, state grant agencies play a fundamental role in shaping all assessment methods. For instance, my interview data indicate that the Research Performance Indicator (RPI) formula and its variants are still used in several universities to quantify scholars' productivity. Five interviewees representing private and public universities mentioned that they might calculate a score according to impact factors and authorships, inferring the use of the RPI formula. The example of the RPI formula shows how a standard of measurement has been duplicated from the government to universities, and then influences individual scholars. Once the RPI formula became an element of 'common sense', simply removing it from an official organisation (in this case MOST) did not challenge the whole discourse of bibliometrics.
+
+Furthermore, MOST research projects represent a desirable outcome as well as expectations, and then turn into an indicator which seems undoubtedly objective. Scholars who continue to obtain research grants from MOST can sometimes be free from internal evaluation. Academic organisations might adopt MOST research projects as performance criteria in their hiring practice. For example,
+
+According to requirements for hiring, you can see obviously that what they want is not someone with experience of teaching but research … If one has MOST projects, that's wonderful. (Interviewee H7)
+
+When I'd just got job … a senior professor told me ' … we hired you due to your outstanding record of MOST projects.' (Interviewee H5)
+
+This signifies that an approved research project is considered as a verified performance indicator, showing how an indicator is formalised. Several scholars argue that, although the pursuit of objectivity through quantification is assumed to exclude subjective judgement and personal bias, subjective intentions are intrinsic to the design of parameters, as this example shows (Power [1997](#page-17-1); Porter [1996](#page-17-25); Beer [2016)](#page-15-1).
+
+For official university evaluation implemented by HEEACT, most interviewees considered university evaluation a routine matter of paperwork and doubted if it could engender any substantially constructive changes. Paperwork and formality are the main themes arising from university
+
+<!-- page 10 -->
+
+evaluation. Some interviewees mentioned that university evaluation left them with endless forms to fill in, and at times they had no idea where these forms originated. The experience of a senior scholar showed how meaningless university evaluation was.
+
+When I was the director, I happened to encounter the first round of evaluation run by HEEACT … We had to do a lot of activities and record everything as proof. If we had no record, we had to fabricate one. In order to fit these indicators of department evaluation, we suffered significant pressure. (Interviewee S8)
+
+In general, compared to the previous evaluation systems, university evaluations seem less influential to the interviewees. However, the discussion about internal departmental rankings demonstrates that official university evaluation still played an indirect role in circulating neoliberal discourse in Taiwan, since its standards have been adopted in university managers' strategies. Gradually, the standards used in the state university evaluation have infiltrated into internal valuations, from universities' central bureaucracy to college offices, from colleges to departments, and eventually to individual researchers. Even though it may not bring considerable reward or punishment, this procedure assimilated universities into what Foucault calls the 'administrative state'. Like the tendency of the RPI formula, HEEACT evaluation is no longer compulsory due to the intense criticism it received. Nevertheless, as universities' internal evaluations become regular practices in the name of competitiveness, the spirit of competitiveness has already turned into a norm.
+
+## **How academics respond to evaluation metrics**
+
+## *Subjective experience of working in an enterprising university*
+
+In the process of interviewing, several interviewees spontaneously revealed a personal emotional response to the unstable academic milieu. This directed my attention to the subjective experience of working in an enterprising university. I categorised these emotional responses into two types. The first was caused by precarious career conditions; the second was triggered by the precarious research environment.
+
+Worry about promotion is a common phenomenon among associate professors and assistant professors, especially in the disciplines of history (H1, H3, H8, H9, M7, and B6). The conditions of hyper-intense competition, such as intensive timeframes for promotion put unreasonable pressure on wellbeing and a negative impact on family life. The experience of an unstable personal life implies the effect of neoliberal precariousness on academics.
+
+The second type of anxiety reflects the neoliberal precarity in research conditions, especially for the NSE disciplines. Because resource distribution is based on performance evaluation and competition, scholars have to take responsibility for sourcing their research grants. Under these circumstances, scholars commonly worried about either research funds (M3, M8, B3, B5, and B8), or research projects (M8, B3, H10, S1, and S10). Because the costs of maintaining a laboratory are considerable, worries about research funds and projects were more prevalent in those of NSE areas than in SSH.
+
+The concern over research projects was expressed in subtler ways than the concern over grants. Because the research project was the format for obtaining research funds, concerns among NSE researchers about the research project were also concerns about grants. However, SSH scholars were worried about research projects because approval for a MOST research project was itself an indicator of value as an academic activity. For instance, H10 (a professor) applied for MOST grant projects because of the pressure transmitted from the university. H7 illustrated the stress of securing MOST research projects by mentioning that some scholars submit an application for MOST research projects, but claim no funds. In other words, what they needed was nominal approval for a project rather than substantial financial support. This phenomenon indicates the alienating nature of research projects, corroborating previous discussions, where projects are seen as indicators; scholars may pursue a research project not for research needs but for external validation.
+
+<!-- page 11 -->
+
+## *Gaming, conformance and refusal*
+
+In a society of ranking, there are two kinds of strategies for actors to deal with assessments: gaming, which improves appearances but keeps internal practices intact by managing ranking factors; and conformance, which adopts ranking standards into internal practices(Sauder and Espeland [2009;](#page-17-26) Pollock, D'Adderio, and Kornberger [2021](#page-17-23)). Anderson ([2008)](#page-15-4) suggests that academics may employ various responses to the introduction of entrepreneurial culture into universities, and much of the resistance appears in a routine form of everyday practice. This routine form of academic resistance consists of refusal, avoidance, and minimal compliance. This case study identifies these approaches of resistance, conformance and gaming in enterprising universities.
+
+While SCI is conceived as the main standard for performance measures in the fields of natural sciences and engineering (NSE), it is not surprising that NSE researchers prioritised indexed journals over other publishing forms. Although the criteria are more flexible in the fields of social sciences and humanities (SSH), bibliometrics still take a centre stage for SSH scholars in publishing strategies. For instance, two junior assistant professors did not see publishing books as a practical strategy for promotion. Even when indexed journal papers were not officially required, two associate professors were reminded of the importance to themselves of publishing in an indexed journal. S3, a middle-aged associate professor working at a private university, admitted that SSCI or TSSCIindexed journal papers were less risky publishers, even when his department did not deem them necessary for promotion.
+
+For research grant projects, some researchers would consider 'policy needs' when constructing a research proposal for MOST grant schemes. For instance, M6 developed a new research theme because he was advised to compete for a grant scheme with a given topic. In addition, both the MOST and the Ministry of Education have released collaborative projects to prompt domestic academic collaboration or international cooperation. Under these competitive projects, some (S2, S5, and B8) launched interdisciplinary research topics. These academics' strategies show how the state governs the intellectual practices from a distance by establishing a set of rules for competitive funds.
+
+In terms of refusal and avoidance, the case of S8 (a senior scholar) is a significant example; as a personal non-cooperation movement against the neoliberalised university, S8 did not consider publishing in those indexed journals, at the expense of remaining in the position of associate professor. Sometimes academics were able to employ the strategy of refusal and avoidance but paid a lesser price than S8. Several historians and sociologists were reluctant to apply for MOST grant schemes. This difference in attitudes to grants represents a difference in financial dependence across various disciplines. For instance, H5 had a bachelor's degree in chemistry commented, 'The reason why I switched to history is simple; I want to do research which doesn't overly rely on resources' (Interviewee H5).
+
+When these managerial demands are unavoidable, scholars may comply with it in minimal ways as a pragmatic strategy of resistance. This strategy is often employed by academics in the case of appraising services; academics complied minimally with KPI requests instead of devoting their energy to it. In the previous section on managerial experience, department directors featured a strategy of minimal compliance by taking a less meticulous attitude to cope with pressure from upper bureaucrats. In the case of university appraisal schemes, academics just produced documents required by the eve of university ranking 'to fit these indicators'. Hence, the strategy of minimal compliance leads to decoupling between what has been done and what has been measured, subverting the managerial course.
+
+In addition to resistance in every day practices, this case study also identifies collective resistance. It is said that the introduction of self-enterprise culture and individualistic practices into universities would break down academic communities as an entity (Miller and Rose [2008;](#page-17-17) Gill [2009)](#page-16-25). It is partially true that individualising practices, such as promotion assessments and personal project application, have taken centre stage in academic life. Nevertheless, higher education unions in Taiwan proliferated after the 2010s, against a backdrop of increasing pressure of evaluations.
+
+<!-- page 12 -->
+
+According to one of my interviewees (a core member of Taiwan Higher Education Union), 'we launched the union because we were fed up with those endless evaluations'. Taiwan Higher Education Union was founded in 2012, with branches established in numerous universities. The appearance of unions manifests a faith in academic communities and solidarity. My empirical data suggests that both heterogeneity and agency of academics should not be underestimated nor simplified under neoliberalism. As scholars intend to cope with the game by employing a range of pragmatical and minimal ways, the academic body, formalised from the neoliberal discourse, is still its own agent.
+
+## *Multiplicity of academic subjectivities and the ones against governmental rationality*
+
+In general, when objects of exploitation are under discussion intellectual labour is likely to be excluded. This is because scholarly production, like cultural and creative work, rather than alienated labour, is considered a way of expressing oneself, self-actualisation or affective labour (Gill [2014;](#page-16-26) Gill and Pratt [2008](#page-16-27)). However, within the neoliberal discourse, the role of the entrepreneurial self, characterised by autonomy, flexibility, ambition, calculation, accountability, self-regulation and personal responsibility has been allocated to brainworkers and cultural workers, including academic professionals (Ross [2008](#page-17-5); Gill [2014](#page-16-26)). Hence, universities have been transformed into what Gill terms 'the neoliberal university' that typifies the 'cultural and creative industries' (Gill [2009;](#page-16-25) Gill [2014)](#page-16-26). As Gill and Pratt ([2008)](#page-16-27) point out, the emphasis on subjectivity may provide a lens not only to theorise the experience of academics and the feature of self-exploitation, but also to illustrate the parts of subjectivity which can resist capitalist relations.
+
+Apart from the utilitarian narrative of national development, industrial innovation, and economic growth, this research also identifies alternative imaginaries of higher education in Taiwan by interviewing 41 scholars. According to the alternative narratives, universities' missions include liberal arts education, training students for the ability of critical thinking, popularising knowledge, and improving social mobility, cultural diversity, and democracy and human rights. For instance, Interviewee H10 listed several social movements initially launched by university students to underline the role of the university in Taiwan's democratic development.
+
+This research identifies the strategies of resistance and alternative imaginaries of higher education. From this, I suggest that the parts of academic subjectivity which are produced via the interrelation with civil societies and students rather than the governmental apparatuses exhibit potential for resisting the neoliberal university.
+
+## **Circulation of the neoliberal discourse within academia**
+
+The previous discussion follows a bottom-up route from pertinent individual experiences, such as promotion and grant applications, to remote experiences, such as university valuations. This section summarises the deployment of neoliberal discourse throughout academic organisations; that is, the ubiquity of performance measurement ([Figure 1](#page-12-0)). It provides a detailed landscape of all the methods of measuring performance to explore how the institutions of knowledge production in our 'knowledge society' have been penetrated by the interests of other social sectors (Hallonsten [2021](#page-16-1)). All the means of performance evaluation amplify the role of the executive layers within academic organisations, regulating the everyday lives of academics. Growing administrative layers and paperwork routines have built more compatibility with state bureaucracy, assimilating academics within national apparatuses.
+
+My analysis of interviewees' narratives features the role of funding agencies which are central to shaping all the ways of evaluation. Glôser et al. [(2002](#page-16-28)) posit two kinds of evaluation-based funding: to organisations and to projects. The former resembles quality-related research (QR) funding in the UK, which is tied to REF, and the latter resembles ESRC funding. In Taiwan, the Ministry of Education provides university-based blocks of money, as in The Aim for Top University Project. The
+
+<!-- page 13 -->
+
+![LR.R27 fig08](../figures/LR/LR.R27_fig08.jpg)
+***Figure 1. **Circulation of neoliberal discourse within academia.*
+
+Ministry of Science and Technology offers project funds, such as MOST Research Project Grants, which are open to all projects, and the National Sci-Tech Project, which funds specific topics. All these funding schemes are allocated on the basis of performance, thus demonstrating the principle of accountability. In terms of discourse circulation, both types – competitive block grants and project funds – make an impact on the perceptions and managerial practices of research organisations. These managerial practices have several aspects but follow one principle: they apply external performance standards internally. Universities may introduce a similar performance-based system of distributing resources from central funds to departments or duplicate external performance criteria in their hiring practice. Regarding personnel practices, this case study identifies that adopting KPI, RPI, and bibliometrics in promotion evaluations plays a significant role in transferring pressure and performance criteria from organisations to individuals.
+
+The audit society is characterised by distrust in professional judgements and personal experience (Muller [2018)](#page-17-2). My empirical analysis also grapples with a faith that evaluating and ranking can be objective. By tracing the process of designing the indicators used in resource allocation, such as the cases of RPI and internal estimation, this research illustrates how subjective judgements are concealed within numbers. As Latour ([1999](#page-16-29)) argues, behind every measurement device there is a set of indicators. Davies [(2017](#page-16-13)) further characterises this 'power of translation' under advanced neoliberalism as 'a type of elite power which interprets what is on the screen, explains what it means, converts it into narrative, but possesses no authorship or authority over it' (4). When the research grant is translated into an indicator, a set of diverse standards used to estimate research proposals is simplified into one standard for other evaluations. Because biopolitical power is authorised by the truth produced in discourse, 'quantification is a way of making decisions without seeming to decide' (Porter [1996](#page-17-25), 8). Hence, university management is guided by statistics, whilst academic management is subject to KPI, a concept borrowed from business management.
+
+Taking Bentham's panopticon as the paradigm of disciplinarity, Foucault ([1979](#page-16-17)) argues that two factors play major roles in the exercise of power: surveillance and normalisation. The panopticon is an ideal apparatus that can audit everything constantly though its subjects do not know whether
+
+<!-- page 14 -->
+
+they are being observed at any given moment, which guarantees the automatic and impersonal functioning of power as a permanent field (Foucault[ 1979)](#page-16-17). While the constant audit functions successfully, to normalise conditions all activities are automatically recorded and simultaneously sorted into two categories: evil and good, making it possible to quantify an individual's performance. With these assessment criteria, punishment or rewards are used to lead individuals towards the supposed model behaviours (Foucault [1979)](#page-16-17). In this way, governance becomes invisible, automatic, functional and anonymous, and makes individuals self-disciplining instead of having to be subject to direct command. In Beer's words, 'governance here is not something that happens after they (things and people) are measured, it is built into the design and structure of the very systems that produce those measurements' ([2016](#page-15-1), 152). When the mode of discipline is situated from a space of enclosure to a social factory and the target of power exercise is extended from disciplined individuals to collective lives, these measurement apparatuses have also constituted a population as a discursive field where governmental power is able to make interventions (Welsh [2018](#page-17-20); Welsh [2021b](#page-17-16); Welsh[ 2017](#page-17-21)).
+
+My analysis of empirical data illustrates how the bibliometric device has played an indispensable role as a technology of self-governance in the subjectification of academic practices. It renders them thinkable, visible, tangible, comparable and eventually manageable, which the neoliberal governmentality depends on. As bibliometrics became adopted in all forms of organisational strategy, such as promotion evaluations, internal evaluations and university ranking, the bibliometric device, to some degree, functioned like a panopticon in academia, contributing to both knowledge regarding researchers' performances and academic governance. The bibliometrics manifested the dual roles of a knowledge/power complex in the Foucauldian sense. Furthermore, the deployment of bibliometric instruments provides the grounds for normalising academic activities with routines of punishment and rewards, which coordinate the interests of scholars with the objectives of the university bureaucracy and governmental bodies. It not only accumulates information about the academic body but constructs new dimensions of space and time – the community – which the academic body inhabits.
+
+In addition to the Faucaudian perspective of the governmental body, this research describes how the academic subjectivity is assigned to the entrepreneurial self via the institutional production of lack. As Deleuze and Guattari [(2013)](#page-16-30) argue,
+
+'Lack is created, planned, and organised in and through social production […] The deliberate creation of lack as a function of market economy is the art of a dominant class. This involves deliberately organising wants and needs[…]making all of desire teeter and fall victim to the great fear of not having one's needs satisfied' (41).
+
+By introducing lack into desire, academic subjects are channelled into an entrepreneur self, characterised as productive and competitive. This sense features in the narratives that emphasise the object of academic careers, such as more grants to ensure research or more publications to ensure promotion. According to Deleuze and Guattari ([2013](#page-16-30)), this operation of power relation entails procedures of symbolisation and representation. Representation, by definition, is a set of codes that determines what sort of flows will pass through and what sort will not be allowed. Only by introducing lack into desire can real desire be displaced by a desire for the symbolic: the bibliometrics in this case. However, neoliberalisation is different from oedipalisation. As the universality of Oedipus is achieved by the procedure of colonisation, the paradigm of neoliberal subjectivities is enacted by spreading global science with those international performance metrics into Taiwan.
+
+In the era of 'global science', several interpretive approaches attempt to account for the agent of individuals, institutions, and states (Marginson [2022](#page-17-27)). This study suggests that drivers of global science can best be framed in terms of an arms race in innovation between nations and global inequality structured in a centre-periphery mode. Specially, by articulating the academic body as the field of struggle and resistance, this research indicates that the profound role of institutions and national policy – how power relations take place – can also be understood via a focus on the itinerary of academic subjectivities.
+
+<!-- page 15 -->
+
+![LR.R27 fig09](../figures/LR/LR.R27_fig09.jpg)
+
+## **Does managerial governance lead the neoliberal university into capitalist markets ** **and competitiveness?**
+
+After this research examines the formalisation of the academic body within the biopolitical population, this research moves to question the fundamental neoliberal imperative of marketisation. That is, to what extent the managerial governance has led the neoliberal university into capitalist markets and competitiveness?
+
+In '*The impossibility of capitalist markets in higher education*', Marginson [(2013)](#page-17-28) points out that the nature of academia is pivoted on competition mainly for prestige, which research projects or funds serve. The university sector indeed provides private goods, and the private goods are degrees, whose symbolic value is secured by its academic prestige, rested in knowledge production. Considering the fact that the nature of knowledge is one of typical non-profitable public goods, what the university sector can supply in markets is graduates, which may be seen as quality human resources. However, to remain its scarcity value, one prestigious university is unlikely to expand its student numbers without limitation. Thus, while individual scholars, teams, or departments may be able to expand their capacity for knowledge production, the university as a whole cannot continue to expand itself. Because the winner can not expand its supply to realise all demand from the market, this nature of higher education contradicts the market model. Additionally, the role of demand itself in such state-regulated markets is more like governmental interferences. Therefore, the ideal market might not be theoretically realised in higher education.
+
+By taking the neoliberal imperative of marketisation and competitiveness as strategic rhetoric, researchers suggest that managerial practices mainly comprising competition are intended to empower high bureaucrats for the regime of mobilisation rather than realising 'quasi-market' mechanisms or market behaviours (Knafo et al. [2019](#page-16-31); Welsh [2021b](#page-17-16); Welsh [2021a;](#page-17-19) Welsh [2020b)](#page-17-18).
+
+My analysis of empirical data identifies the introduction of enterprise self into the academic body competing with others constituted in the same numerical imagination. In light of Marginson's perspective, it is difficult to assert that these transformations contribute to so-called capitalist markets. Does the neoliberal transformation in higher education promote competitiveness? If the phrase competitiveness means state strength which entails the regime of mobilisation, the answer is probably yes. Does the marketisation policy enhance the state's influence on academia via the metric apparatuses? Definitely yes.
+
+## **Conclusion**
+
+This study aimed to investigate how neoliberal subjectivity is lived out by analysing academic management in Taiwan. Previous studies of neoliberalism argued that the core of neoliberalist thought rests on a competitive mechanism by which a true value is verified (Foucault [2008;](#page-16-32) Gane [2012](#page-16-23)). Other neoliberal principles – of accountability, audit, transparency, visibility and enterprise – pivot on accelerating a competitive atmosphere (Gane [2012)](#page-16-23). Because the competitive mechanism entails calculable and comparable data, performance measurements play an indispensable role in the procedures of marketisation (Beer [2016)](#page-15-1).
+
+The role of measures is more prominent in the case of marketising the educational sector. Because academic architecture is unlike that of prisons but closer to a social factory without gates, no actual panopticon allows all cells to be consistently monitored. Hence, academic visibility rests on the circulation of metrics. In deploying the neoliberal discourse on the academic body, bibliometric indicators function as a major instrument of knowing as well as governing. Therefore, to investigate neoliberal governmentality in academia is to explore the circulation of bibliometrics in academic organisations. This theoretically informed analysis of empirical data identifies how bibliometric devices are circulated via all methods of evaluation, such as promotion assessments, grant applications, internal valuations and honouring systems. The standards employed in evaluation are transmitted from university bureaucrats to departmental officers, layer by layer, showing
+
+<!-- page 16 -->
+
+academic organisations and, eventually, individuals as they internalise external governmentdesigned criteria. In this way, the academic body and academic population are simultaneously produced, featuring what Foucault names collective individual (Foucault [2003](#page-16-21)). With an analytic eye on the academic body as a key territory of political struggle, this research suggests that what the metric assemblages have essentially achieved is governable subjectivity, representing contemporary modalities of labour control rather than mere marketizing or globalising academia.
+
+While knowledge production had not been supervised by bibliometrics yet, scholars noted that research and intelligence were inclined to conform to established patterns built on commercial cultures (Horkheimer [1974;](#page-16-33) Marcuse[ 2002](#page-17-29)). This is because, under the principle of operationalism and technological reasoning, the content of concepts is reduced to a set of practical operations. By contrast, critical thought entails value judgement which dissociates actuality from potentiality – the ones ought to be. As Deleuze [(2006](#page-16-34)) points out, the will to power is exactly the will to evaluate. In other words, when the value of knowledge production seems substantially synonymous with the bibliometric value, state policy and other utilitarian purposes, researchers as the will to knowledge yield the will to power to the established pattern. By studying museums of contemporary art under neoliberalisation – another example of cultural industries, Bishop ([2014](#page-15-5)) criticises that the museums of contemporary art that conform with the commercial culture merely prolong what has been repetitively reproduced – the contemporary, failing to lead to other imagined futures where equality takes place. Would the same be said for ways of knowledge production guided by performance metrics? I hope this study of everyday neoliberalism in practice will contribute to our understanding of the contemporary role of knowledge production in modes of being.
+
+## **Disclosure statement**
+
+No potential conflict of interest was reported by the author(s).
+
+## **Declarations**
+
+This study is part of my PhD project which received the Government Scholarships for Overseas Study from Taiwan.
+
+## **Notes on contributor**
+
+*Ming-Te Peng's *research interests focus on knowledge production, university management, higher education policy, and science governance. Having completed his PhD study in the Department of Sociology at Goldsmiths in 2020, his PhD project attempted to illustrate procedures by which academic reality has been established in the neoliberal era.
+
+## **ORCID**
+
+*Ming-Te Peng *[http://orcid.org/0000-0001-7507-2701](http://orcid.org/0000-0001-7507-2701)
+
+## **References**
+
+Anderson, G.[ 2008.](#page-10-0) "Mapping Academic Resistance in the Managerial University." *Organization *15: 251–270.[ https://](https://doi.org/10.1177/1350508407086583) [doi.org/10.1177/1350508407086583.](https://doi.org/10.1177/1350508407086583)
+
+Apple, M. W. [2013.](#page-2-0) *Educating the Right Way: Markets, Standards, God, and Inequality*. New York, London: Routledge.
+
+Beer, D. [2016.](#page-2-1) *Metric Power*. London: Palgrave Macmillan.
+
+Berman, E. P. [2014.](#page-1-0) "Not Just Neoliberalism." *Science, Technology, & Human Values *39: 397–431. [https://doi.org/10.](https://doi.org/10.1177/0162243913509123) [1177/0162243913509123](https://doi.org/10.1177/0162243913509123).
+
+Bishop, C. [2014](#page-15-6). *Radical Museology: Or What's Contemporary in Museums of Contemporary Art? *London: Dan Perjovschi and Koenig Books.
+
+Butler, J. [1997](#page-3-0). *The Psychic Life of Power: Theories in Subjection*. Stanford: Stanford University Press.
+
+<!-- page 17 -->
+
+![LR.R27 fig10](../figures/LR/LR.R27_fig10.jpg)
+
+Cannizzo, F.[ 2015.](#page-2-2) "Academic Subjectivities: Governmentality and Self-Development in Higher Education." *Foucault * *Studies*, 199–217.
+
+Cannizzo, F. [2018](#page-2-2). "Tactical Evaluations: Everyday Neoliberalism in Academia." *Journal of Sociology *54: 77–91. [https://doi.org/10.1177/1440783318759094.](https://doi.org/10.1177/1440783318759094)
+
+Chan, S.-J., D.-F. Chang, K. H.-J. Chen, L.-C. Chiang, T.-L. Chiang, Y. C. Fu, C. Hill, et al. [2021.](#page-5-0) *Higher Education in * *Taiwan: Global, Political and Social Challenges and Future Trends*. Singapore: Springer.
+
+Clegg, S. [2008.](#page-2-3) "Academic Identities Under Threat?" *British Educational Research Journal *34: 329–345. [https://doi.](https://doi.org/10.1080/01411920701532269) [org/10.1080/01411920701532269.](https://doi.org/10.1080/01411920701532269)
+
+Davies, W. [2017](#page-2-4). "Elite Power Under Advanced Neoliberalism." *Theory, Culture & Society *34: 227–250. [https://doi.](https://doi.org/10.1177/0263276417715072) [org/10.1177/0263276417715072.](https://doi.org/10.1177/0263276417715072)
+
+Deleuze, G. [1992.](#page-4-1) "Postscript on the Societies of Control." *October *59: 3–7.
+
+Deleuze, G. [2006.](#page-15-7) *Nietzsche and Philosophy*. Columbia University Press.
+
+Deleuze, G., and F. Guattari. [2013](#page-13-0). *Anti-Oedipus*. London, New York: Bloomsbury Academic.
+
+Elzinga, A. [2012](#page-1-1). "Features of the Current Science Policy Regime: Viewed in Historical Perspective." *Science and * *Public Policy *39: 416–428. [https://doi.org/10.1093/scipol/scs046.](https://doi.org/10.1093/scipol/scs046)
+
+Evans, M. [2004](#page-2-0). *Killing Thinking: Death of the University*. Bloomsbury Publishing.
+
+Foucault, M. [1978.](#page-3-1) *The Will to Knowledge: The History of Sexuality. Volume 1*. London: Penguin.
+
+Foucault, M. [1979.](#page-3-2) *Discipline and Punish: The Birth of the Prison*. London: Penguin.
+
+Foucault, M. [1980](#page-3-3). *Power/Knowledge: Selected Interviews and Other Writings, 1972–1977*. Brighton: Harvester Press.
+
+Foucault, M. [1981](#page-3-1). "Orders of Discourse." In *Untying the Text: A Post-Structuralist Reader*, edited by R. Young. Boston: Routledge & Kegan Paul.
+
+Foucault, M.[ 1991.](#page-3-4) "Governmentality." In *The Foucault Effect: Studies in Governmentality: With Two Lectures by and * *an Interview with Michel Foucault*, edited by M. Foucault, Graham Burchell, Colin Gordon, and Peter Miller. Chicago: University of Chicago Press.
+
+Foucault, M. [2000](#page-3-1). *The Essential Works of Michel Foucault, 1954–1984. Vol. 1, Ethics*. London, Penguin: *Subjectivity * *and Truth*.
+
+Foucault, M. [2003.](#page-3-4) *"Society Must Be Defended": Lectures at the Collège de France, 1975–1976*. Picador.
+
+Foucault, M.[ 2008.](#page-14-0) "The Birth of Biopolitics: Lectures at the Collège de France, 1978–79 / Michel Foucault." In *trans**lated by Graham Burchell*, edited by Michel Senellart. Basingstoke: Palgrave Macmillan.
+
+Gane, N. [2012.](#page-4-1) "The Governmentalities of Neoliberalism: Panopticism, Post-Panopticism and Beyond." *The * *Sociological Review *60: 611–634. [https://doi.org/10.1111/j.1467-954X.2012.02126.x](https://doi.org/10.1111/j.1467-954X.2012.02126.x).
+
+Gill, R.[ 2009.](#page-10-1) "Breaking the Silence: The Hidden Injuries of the Neoliberal University." In *Secrecy and Silence in the * *Research Process*, edited by R. G. Roisin Ryan-Flood. London: Routledge.
+
+Gill, R. [2014.](#page-11-0) "Academics, Cultural Workers and Critical Labour Studies." *Journal of Cultural Economy *7: 12–30. [https://doi.org/10.1080/17530350.2013.861763.](https://doi.org/10.1080/17530350.2013.861763)
+
+Gill, R., and A. Pratt. [2008](#page-11-0). "In the Social Factory?" *Theory, Culture & Society *25: 1–30. [https://doi.org/10.1177/](https://doi.org/10.1177/0263276408097794) [0263276408097794](https://doi.org/10.1177/0263276408097794).
+
+Giroux, H. A. [2016](#page-2-5). "Writing the Public Good Back Into Education: Reclaiming the Role of the Public Intellectual." In *The New Public Intellectual*, edited by J. R. D. Leo, and P. Hitchcock. New York: Springer.
+
+Glôser, J., G. Laudel, S. Hinze, and L. Butler. [2002](#page-11-1). *Impact of Evaluation-Based Funding on the Production of Scientific * *Knowledge: What to Worry About, and How to Find Out*. Germany: Fraunhofer ISI Karlsruhe.
+
+Hall, S.[ 2001](#page-3-5). "Foucault: Power, Knowledge and Discourse." In *Discourse Theory and Practice: A Reader*, edited by M. Wetherell, S. Taylor, and S. J. Yates. London: SAGE.
+
+Hallonsten, O. [2021.](#page-1-2) "Stop Evaluating Science: A Historical-Sociological Argument." *Social Science Information *60: 7–26. [https://doi.org/10.1177/0539018421992204.](https://doi.org/10.1177/0539018421992204)
+
+Henkel, M. [2005](#page-2-6). "Academic Identity and Autonomy in a Changing Policy Environment." *Higher Education *49: 155– 176. [https://doi.org/10.1007/s10734-004-2919-1](https://doi.org/10.1007/s10734-004-2919-1).
+
+Herbst, M. [2007](#page-2-7). *Financing Public Universities: The Case of Performance Funding*. Dordrecht: Springer.
+
+Hicks, D.[ 2012.](#page-2-8) "Performance-Based University Research Funding Systems." *Research Policy *41: 251–261.[ https://doi.](https://doi.org/10.1016/j.respol.2011.09.007) [org/10.1016/j.respol.2011.09.007.](https://doi.org/10.1016/j.respol.2011.09.007)
+
+Horkheimer, M. [1974](#page-15-8). *Eclipse of Reason*. New York: Oxford University Press.
+
+Hsieh, C.-C. [2016.](#page-2-9) "A Way of Policy Bricolage or Translation: The Case of Taiwan's Higher Education Reform of Quality Assurance." *Policy Futures in Education *14: 873–888. [https://doi.org/10.1177/1478210316645250](https://doi.org/10.1177/1478210316645250).
+
+Kim, T.-H. [2008.](#page-2-10) "How Could a Scientist Become a National Celebrity? Nationalism and Hwang Woo-Suk Scandal." *East Asian Science, Technology and Society: An International Journal *2: 27–45.
+
+Latour, B.[ 1999.](#page-12-1) "Circulating Reference: Sampling the Soil in the Amazon Forest." In *Pandora's Hope: Essays on the * *Reality of Science Studies. *Cambridge, MA: Harvard University Press.
+
+Kinman, G. [2014.](#page-2-11) "Doing More with Less? Work and Wellbeing in Academics." *Somatechnics *4: 219–235.[ https://doi.](https://doi.org/10.3366/soma.2014.0129) [org/10.3366/soma.2014.0129](https://doi.org/10.3366/soma.2014.0129).
+
+Knafo, S., S. J. Dutta, R. Lane, and S. Wyn-Jones. [2019.](#page-14-1) "The Managerial Lineages of Neoliberalism." *New Political * *Economy *24: 235–251. [https://doi.org/10.1080/13563467.2018.1431621](https://doi.org/10.1080/13563467.2018.1431621).
+
+<!-- page 18 -->
+
+![LR.R27 fig11](../figures/LR/LR.R27_fig11.jpg)
+
+Loveday, V. [2018](#page-2-11). "'Luck, Chance, and Happenstance? Perceptions of Success and Failure Amongst Fixed-Term Academic Staff in UK Higher Education'." *The British Journal of Sociology *69: 758–775. [https://doi.org/10.](https://doi.org/10.1111/1468-4446.12307) [1111/1468-4446.12307](https://doi.org/10.1111/1468-4446.12307).
+
+Marcuse, H. [2002](#page-15-8). *One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society*. New York: Routledge.
+
+Marginson, S. [2011](#page-2-5). "Higher Education and Public Good." *Higher Education Quarterly *65: 411–433. [https://doi.org/](https://doi.org/10.1111/j.1468-2273.2011.00496.x) [10.1111/j.1468-2273.2011.00496.x.](https://doi.org/10.1111/j.1468-2273.2011.00496.x)
+
+Marginson, S. [2013.](#page-14-2) "The Impossibility of Capitalist Markets in Higher Education." *Journal of Education Policy *28: 353–370. [https://doi.org/10.1080/02680939.2012.747109](https://doi.org/10.1080/02680939.2012.747109).
+
+Marginson, S.[ 2022.](#page-13-1) "What Drives Global Science? The Four Competing Narratives." *Studies in Higher Education *47: 1566–1584. [https://doi.org/10.1080/03075079.2021.1942822](https://doi.org/10.1080/03075079.2021.1942822).
+
+Marginson, S., and M. Considine. [2000](#page-8-0). *The Enterprise University: Power, Governance and Reinvention in Australia*. Cambridge, New York: Cambridge University Press.
+
+Miller, P., and N. Rose. [2008.](#page-2-4) *Governing the Present: Administering Economic, Social and Personal Life*. Cambridge: Polity.
+
+Mirowski, P. [2011.](#page-2-0) *Science-Mart*. Cambridge, Mass.: Harvard University Press.
+
+Morley, L. [2003.](#page-6-0) *Quality and Power in Higher Education*. Buckingham: SHRE & Open University Press.
+
+Muller, J. Z. [2018.](#page-1-3) *The Tyranny of Metrics*. Princeton, Oxford: Princeton University Press.
+
+Pollock, N., L. D'Adderio, and M. Kornberger. [2021](#page-8-1). *Ranking Strategy: How Organizations Respond to the new * *Competitive Battlefields*. *Worlds of Rankings. *Emerald Publishing Limited.
+
+Porter, T. M. [1996.](#page-8-2) *Trust in Numbers: The Pursuit of Objectivity in Science and Public Life*. Princeton, Princeton University Press.
+
+Power, M. [1997.](#page-1-3) *The Audit Society: Rituals of Verification*. New York: Oxford University Press.
+
+Ross, A. [2008.](#page-1-0) "The New Geography of Work." *Theory, Culture & Society *25: 31–49. [https://doi.org/10.1177/](https://doi.org/10.1177/0263276408097795) [0263276408097795](https://doi.org/10.1177/0263276408097795).
+
+Sauder, M., and W. N. Espeland. [2009](#page-10-2). "The Discipline of Rankings: Tight Coupling and Organizational Change." *American Sociological Review *74: 63–82. [https://doi.org/10.1177/000312240907400104](https://doi.org/10.1177/000312240907400104).
+
+Schulze-Cleven, T., T. Reitz, J. Maesse, and J. Angermuller. [2017.](#page-2-12) "The New Political Economy of Higher Education: Between Distributional Conflicts and Discursive Stratification." *Higher Education *73: 795–812. [https://doi.org/10.](https://doi.org/10.1007/s10734-017-0114-4) [1007/s10734-017-0114-4](https://doi.org/10.1007/s10734-017-0114-4).
+
+Shin, J. C., S. P. Watanabe, R. J.-C. Chen, S. S.-H. Ho, and J.-K. Lee. [2020.](#page-2-13) "Institutionalization of Competition-Based Funding Under Neoliberalism in East Asia." *Studies in Higher Education *45: 2054–2062. [https://doi.org/10.1080/](https://doi.org/10.1080/03075079.2020.1823641) [03075079.2020.1823641](https://doi.org/10.1080/03075079.2020.1823641).
+
+Skelton, A. [2005.](#page-1-4) *Understanding Teaching Excellence in Higher Education: Towards a Critical Approach*. London: Routledge.
+
+Song, M.-M., and H.-H. Tai. [2007](#page-2-9). "Taiwan's Responses to Globalisation: Internationalisation and Questing for World Class Universities." *Asia Pacific Journal of Education *27: 323–340. [https://doi.org/10.1080/](https://doi.org/10.1080/02188790701594067) [02188790701594067](https://doi.org/10.1080/02188790701594067).
+
+Strathern, M. [2000](#page-1-0). *Audit Cultures: Anthropological Studies in Accountability, Ethics, and the Academy*. London: Routledge.
+
+Taylor, P. J. E. P. S. [2003.](#page-2-14) "Humboldt's Rift: Managerialism in Education, and Complicit Intellectuals." 3: 75–84.
+
+Waaijer, C. J., R. Belder, H. Sonneveld, C. A. van Bochove, and I. C. van der Weijden. [2017.](#page-2-11) "Temporary Contracts: Effect on Job Satisfaction and Personal Lives of Recent PhD Graduates." *Higher Education *74: 321–339.[ https://doi.](https://doi.org/10.1007/s10734-016-0050-8) [org/10.1007/s10734-016-0050-8.](https://doi.org/10.1007/s10734-016-0050-8)
+
+Watermeyer, R., and M. Olssen. [2016](#page-2-6). "'Excellence' and Exclusion: The Individual Costs of Institutional Competitiveness." *Minerva *54: 201–218. [https://doi.org/10.1007/s11024-016-9298-5.](https://doi.org/10.1007/s11024-016-9298-5)
+
+Weingart, P.[ 2005.](#page-1-5) "Impact of Bibliometrics Upon the Science System: Inadvertent Consequences?" *Scientometrics *62: 117–131. [https://doi.org/10.1007/s11192-005-0007-7](https://doi.org/10.1007/s11192-005-0007-7).
+
+Welsh, J. [2017](#page-4-2). "Governing Academics: The Historical Transformation from Discipline to Control." *International * *Journal of Politics, Culture, Society *30: 83–106.
+
+Welsh, J.[ 2018](#page-4-1). "The Meta-Disciplinary: Capital at the Threshold of Control." *Critical Sociology *44: 29–44.[ https://doi.](https://doi.org/10.1177/0896920516628308) [org/10.1177/0896920516628308.](https://doi.org/10.1177/0896920516628308)
+
+Welsh, J.[ 2020](#page-2-15). "'Globalizing' Academics? Ranking and Appropriation in the Transformations of the World-System." *Globalizations *17: 126–145. [https://doi.org/10.1080/14747731.2019.1638150](https://doi.org/10.1080/14747731.2019.1638150).
+
+Welsh, J. [2020](#page-2-4). "Subjectivising Academics: The Ranking Apparatus, Social Transformation, and a 'crisis of Subjectivity'." *Subjectivity *13: 153–178. [https://doi.org/10.1057/s41286-020-00096-8.](https://doi.org/10.1057/s41286-020-00096-8)
+
+Welsh, J. [2021](#page-3-6). "A Power-Critique of Academic Rankings: Beyond Managers, Institutions, and Positivism." *Power * *and Education *13: 28–42. [https://doi.org/10.1177/1757743820986173](https://doi.org/10.1177/1757743820986173).
+
+Welsh, J.[ 2021](#page-2-4). "Stratifying Academia: Ranking, Oligarchy and the Market-Myth in Academic Audit Regimes." *Social * *Anthropology *29: 907–927. [https://doi.org/10.1111/1469-8676.13097.](https://doi.org/10.1111/1469-8676.13097)
+
+<!-- page 19 -->
+
+![LR.R27 fig12](../figures/LR/LR.R27_fig12.jpg)
+
+Winter, R. P., and W. O'Donohue. [2012.](#page-2-6) "Academic Identity Tensions in the Public University: Which Values Really Matter?" *Journal of Higher Education Policy and Management *34: 565–573. [https://doi.org/10.1080/1360080X.](https://doi.org/10.1080/1360080X.2012.716005) [2012.716005.](https://doi.org/10.1080/1360080X.2012.716005)
+
+Wright, S. [2016.](#page-1-0) "Universities in a Knowledge Economy or Ecology? Policy, Contestation and Abjection." *Critical * *Policy Studies *10: 59–78. [https://doi.org/10.1080/19460171.2016.1142457](https://doi.org/10.1080/19460171.2016.1142457)

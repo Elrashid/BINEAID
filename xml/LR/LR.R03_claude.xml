@@ -1,0 +1,681 @@
+<paper source_file="LR.R03" title="Social Sciences &amp; Humanities Open" total_pages="9" figures="7" figures_with_images="7">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+- This paper has 7 figure images saved as separate files.
+  When a figure is referenced, look at the image file listed in the image="" attribute.
+  Figures may contain charts, graphs, or diagrams with data not in the text.
+
+<page number="1">
+<text page="1" section="" source="author" id="/page/0/Text/1">
+ELSEVIER
+</text>
+
+<text page="1" section="" source="author" id="/page/0/Text/2">
+Contents lists available at ScienceDirect
+</text>
+
+
+<heading page="1" section="Social Sciences &amp; Humanities Open" source="author" id="/page/0/SectionHeader/3" level="4">
+#### Social Sciences &amp; Humanities Open
+</heading>
+
+<text page="1" section="Social Sciences &amp; Humanities Open" source="author" id="/page/0/Text/4">
+journal homepage: www.sciencedirect.com/journal/social-sciences-and-humanities-open
+</text>
+
+<figure page="1" section="Social Sciences &amp; Humanities Open" source="author" id="/page/0/Picture/5" image="LR.R03_fig01.jpg">[FIGURE: see LR.R03_fig01.jpg]</figure>
+
+
+<heading page="1" section="Regular Article" source="author" id="/page/0/SectionHeader/6" level="4">
+#### Regular Article
+</heading>
+
+<figure page="1" section="Regular Article" source="author" id="/page/0/Picture/7" image="LR.R03_fig02.jpg">[FIGURE: see LR.R03_fig02.jpg]</figure>
+
+
+<heading page="1" section="The effects of the publish or perish culture on publications in the field of educational administration in Türkiye" source="author" id="/page/0/SectionHeader/8" level="2">
+## The effects of the publish or perish culture on publications in the field of educational administration in Türkiye
+</heading>
+
+<text page="1" section="The effects of the publish or perish culture on publications in the field of educational administration in Türkiye" source="author" id="/page/0/Text/9">
+Aysel Çakir&lt;sup&gt;a,*&lt;/sup&gt;, Dilan Kuyurtar&lt;sup&gt;b&lt;/sup&gt;, Aydın Balyer&lt;sup&gt;c&lt;/sup&gt;
+</text>
+
+<list page="1" section="The effects of the publish or perish culture on publications in the field of educational administration in Türkiye" source="author" id="/page/0/ListGroup/161">
+- &lt;sup&gt;a&lt;/sup&gt; Bağlarbaşı m, Sakızağacı sk, No:26/10 Maltepe, İstanbul, Turkiye
+- &lt;sup&gt;b&lt;/sup&gt; Emek m, Şermin sk, No: 13 Darıca Science and Art Center, Darıca, Kocaeli, Turkiye
+- &lt;sup&gt;c&lt;/sup&gt; Yıldız Technical University Educational Administration Department, Davutpaşa Kampüsü, Esenler, İstanbul, Turkiye
+</list>
+
+
+<heading page="1" section="ARTICLE INFO" source="author" id="/page/0/SectionHeader/13" level="4">
+#### ARTICLE INFO
+</heading>
+
+
+<heading page="1" section="Keywords:
+Publish or perish
+Educational administration
+Bibliometric analysis
+SSCI
+Publishing" source="author" id="/page/0/SectionHeader/14" level="1">
+# Keywords:
+Publish or perish
+Educational administration
+Bibliometric analysis
+SSCI
+Publishing
+</heading>
+
+
+<heading page="1" section="ABSTRACT" source="author" id="/page/0/SectionHeader/15" level="4">
+#### ABSTRACT
+</heading>
+
+<text page="1" section="ABSTRACT" source="author" id="/page/0/Text/16">
+This study aims to reveal the effects of publish or perish culture, which is a product of the marketization of science, in the field of educational administration in Türkiye. For this purpose, a bibliometric analysis of 253 publications written in the field of education management in Türkiye, included in the SSCI index in the Web of Science database, was performed. The distribution of publications by years, type of publication, and the subjects they focus on were examined, and at the same time, the journals published were evaluated according to their impact factors, rankings, and whether they were paid or not. As a result of the analysis, it has been revealed that the effects of the publish or perish culture on the field of educational administration are parallel to its effects on other fields.
+</text>
+
+
+<heading page="1" section="1. Introduction" source="author" id="/page/0/SectionHeader/17" level="4">
+#### 1. Introduction
+</heading>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/18">
+Academic publishing is facing an increasingly untenable situation with the publish-or-perish rallying cry, and there is no denying the emotional and mental pressure on those who produce in this budding crisis environment (Fernandez- Patron &amp; Hardy, 2017). As it is seen in the 'publish or perish' slogan itself, it is clear that those who want to get promoted in academia and consolidate their careers have no choice but to publish to survive (Génova &amp; De la Vara, 2019).
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/19">
+This concept is quite common in higher education institutions around the world (Amutuhaire, 2022) because the increasing competition in educational institutions due to the neoliberal education policies leads to a quantitative competition among academicians in higher education institutions (Olssen, 2021). In an environment of increasing scientific competition and pressure, there has been an explosion in scientific publishing in recent decades (Grimes et al., 2018). Even though academic publications are expected to represent scientific productivity and talent (Bornmann &amp; Mutz, 2015), the credibility of publications has not increased at the same rate as the output has increased significantly.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/20">
+The effectiveness of science depends on the publication of research, which serves as a source of new knowledge. At this point, the criterion that makes a scientific publication valuable is that it is published in qualified and important journals (Atılgan, 2005). However, the number
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/21">
+of citations is also important. Acar and Bektaş (2021) found that only 51.34% of the papers published in Türkiye in the period 2010–2014 were cited. Based on this data, it can be said that the quantity of studies published in the mentioned period is not an indicator of scientific progress.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/22">
+Another issue that does not attract much attention, but is important, is the retraction of published articles after a while. It will be important to evaluate the data on the retraction of publications that appear to be a mistake or an unethical situation to understand the contribution of academic publishing to scientific development. Kocyigit and Akyol (2022) examined retracted articles in the field of biomedicine in Türkiye and concluded that the reasons for retraction between 2000 and 2022 were plagiarism and duplication rather than errors.
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/23">
+There are a large number of studies on publish or perish culture in both national and international literature, and these studies mostly focus on academics views on the pressure felt on academic publishing (Balyer &amp; Tabancali, 2023; Cole, 2000; Miller et al., 2011; Van Dalen &amp; Henkens, 2012). There are also conceptual (Bello, Azubuike, &amp; Akande, 2023; Frederick, 2020) and systematic analysis (Davies &amp; Felappi, 2017; McGrail et al., 2006) studies that focus on the beneficial and harmful effects of publish or perish on the teaching-research dilemma. Considering that existing studies focus on contexts such as the academic pressure created by the publish or perish culture in a general perspective
+</text>
+
+<text page="1" section="1. Introduction" source="author" id="/page/0/Text/25">
+E-mail addresses: aysel.cakir@std.yildiz.edu.tr (A. Çakir), dilan.kuyurtar@std.yildiz.edu.tr (D. Kuyurtar), balyer@yildiz.edu.tr (A. Balyer).
+</text>
+
+<footnote page="1" section="1. Introduction" source="author" id="/page/0/Footnote/24">
+^(* )Corresponding author.
+</footnote>
+
+</page>
+<page number="2">
+<text page="2" section="1. Introduction" source="author" id="/page/1/Text/2">
+rather than focusing on a specific disciplinary field, the fact that this  study focuses on the publish and perish culture in the field of educational administration in Türkiye using descriptive analysis makes it  important.
+</text>
+
+
+<heading page="2" section="*1.1.* *The publish or perish dilemma *" source="author" id="/page/1/SectionHeader/3" level="4">
+#### *1.1.* *The publish or perish dilemma *
+</heading>
+
+<text page="2" section="*1.1.* *The publish or perish dilemma *" source="author" id="/page/1/Text/4">
+The characteristics that distinguish the knowledge produced by the  scientific method from other types of knowledge are objectivity,  completeness, verification, simple explanation, empiricism, and probabilistic thinking ([Balcı, 2008](#page-7-0)). When these features are analyzed, it is  concluded that the information obtained as a result of research or  experiment in a field should be a part of the knowledge in the field with  the common opinions of scientists in the field. This brings us to the  conclusion that a field must be institutionalized to become a science. The  institutionalization of a field depends not only on the existence of departments in universities but also on the creation of organizations to  pool knowledge and transfer the activities of scientists to each other. For  this, scientific journals have an important place in the institutionalization of science [(Balcı, 2008](#page-7-0); [Demir, 2018;](#page-7-0) Ertas¸ &amp; [Kozak, 2020;](#page-7-0) [Gas](#page-7-0)[paryan et al., 2016;](#page-7-0)[ Lawrence, 2008)](#page-8-0).
+</text>
+
+<text page="2" section="*1.1.* *The publish or perish dilemma *" source="author" id="/page/1/Text/5">
+[Gasparyan et al. (2016) ](#page-7-0)state that the first scientific journal was the  Philosophical Transactions of the Royal Society, which began to be  published in 1665, and that scientific papers were sent by mail. With  more than 350 years of history, scientific publishing today is very  different from the Philosophical Transactions of the Royal Society.  Today, quantitative evaluations have become more important than the  content of scientific articles (Adler &amp; [Harzing, 2009;](#page-7-0) [Gasparyan et al., ](#page-7-0) [2016)](#page-7-0). The biggest impact of the growing importance of quantitative  evaluation is that it brought the slogan to publish or perish to academia.  Publish or Perish is more than a slogan, it reflects a culture in academia.  This culture started in the 1960s. First in the US, then in the UK, as it was  considered a necessity to increase the intellectual activity of academics  in business and management education (Derond &amp; [Miller, 2005](#page-7-0); [Çıtak, ](#page-7-0) [2022)](#page-7-0) publish or perish has become a race against time for academics  today (Derond &amp; [Miller, 2005](#page-7-0); [Kaygusuz, 2012)](#page-8-0). It can be said that the  biggest factor in this is the orientation of academia worldwide. To understand this orientation, it is necessary to look at the characteristics of  the neoliberal era.
+</text>
+
+
+<heading page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/SectionHeader/6" level="4">
+#### *1.2.* *A brief look at the effects of neoliberalism on publishing *
+</heading>
+
+<text page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/Text/7">
+With the neoliberal era that began in the 1970s, as public expenditures were cut, academia, like almost every other field, became subject  to market conditions ([Akıs¸, 2020](#page-7-0);[ Ugurlu, ](#page-8-0)˘ 2015). As a result, the criteria  for academic success began to be expressed in the language of the  market: competition, prestige, entrepreneurship, and performance  ([Akıs¸, 2020,](#page-7-0) p. 355). Due to the effort to monopolize commercialized  knowledge, knowledge also became centralized. Therefore, international institutions emerged to oversee and even direct academic production. The most influential of these institutions are databases where  scientific journals are evaluated and ranked. In major databases such as  Web of Science (WoS), Scopus, and Google Scholar, journals and articles  are evaluated using quantitative criteria. These institutions, which are  companies themselves, shape scientific production in various ways  (Dogan, ˘ Dyhı &amp; [Al, 2018](#page-7-0)). For example, WoS, the database that the  Council of Higher Education (CoHE) values most in academic incentives,  decided to expand regionally due to commercial concerns and quickly  accepted many journals from Türkiye. Over time, performance criteria  in higher education in Türkiye have changed according to international  standards. Scoring is done based on the criteria set for the appointment  of doctoral faculty members, associate professors, and professors at a  university. According to the scoring table determined by CoHE, scoring  for academic articles is as follows: Full research articles (excluding letters to the editor, abstracts, reviews, technical notes, and book reviews),  articles published in journals within the scope of SCI, SCI-E, SSCI, or
+</text>
+
+<text page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/Text/8">
+AHCI receive 25 points in Q1, 20 points in Q2, 15 points in Q3, and 12  points in Q4.
+</text>
+
+<text page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/Text/9">
+The most important bibliographic criteria determining the prestige  of journals are citation indexes and impact factors. The priority for academics is to publish in prestigious journals. However, the fact that a  journal has a high impact factor does not necessarily mean it is more  scientific (Adler &amp; [Harzing, 2009](#page-7-0); [Beall, 2018; Demir, 2018](#page-7-0);[ Gasparyan ](#page-7-0) [et al., 2016](#page-7-0);[ Çıtak, 2022](#page-7-0)). Similarly, academics are ranked based on their  h-index scores. The h-index is a measurement determined by the number  of papers published and the number of citations received by a scientist or  a research group. An h-index is necessary to receive various awards,  incentives, and permanent employment. To achieve this, a scientist  needs not only to produce influential papers but also to publish a large  number of articles. These rapid changes are observed to occur by  increasing the number of publications in a short period.
+</text>
+
+<text page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/Text/10">
+At this point, it is crucial to address the issue of predatory journals.  Predatory journals are publications with dubious scientific value that  charge fees for publishing articles. In countries like Türkiye, Nigeria, and  India, the fear of job loss and the obligation to publish force academics to  contribute to predatory journals [(Demir, 2018](#page-7-0)). When academics in  developing countries face financial difficulties and the imperative to  publish immediately to avoid falling behind in support ([Lawrence, ](#page-8-0) [2008)](#page-8-0), this tendency increases towards turning to predatory journals.  The number of predatory journals blacklisted by Beall in 2016 increased  from 18 in 2011 to 923 in 2016 [(Gasparyan et al., 2016)](#page-7-0). Although the  Council of Higher Education (CoHE) has published the Beall List and  warns academics about journals on this list, it does not consider journals  in the Q4 category that charge fees as predatory if they are affiliated  with a foundation.
+</text>
+
+<text page="2" section="*1.2.* *A brief look at the effects of neoliberalism on publishing *" source="author" id="/page/1/Text/11">
+In countries with advanced and substantial scientific knowledge,  scientific activities can progress independently of external conditions  like market. However, in countries like Türkiye, higher education tends  to adapt more quickly to international regulations, and efforts are made  to comply with rules set in place rather than adopting a critical  perspective.
+</text>
+
+
+<heading page="2" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/1/SectionHeader/12" level="4">
+#### *1.3.* *Educational administration in Türkiye *
+</heading>
+
+<text page="2" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/1/Text/13">
+The field of educational administration finds its historical origins in  the early 1800s ([Balcı, 2008)](#page-7-0); however, it can be contended that its  emergence as a systematic discipline occurred during the latter part of  the 19th century, characterized by the notable contributions of William  Payne through his pedagogical discourse on school administration at the  esteemed University of Michigan [(Hyung, 2001; Takmak, 2019](#page-8-0)). During  the 1950s, the field of educational administration experienced a transformative phenomenon known as the Theory Movement [(Hyung, 2001](#page-8-0)),  which was substantially influenced by the prevailing positivist paradigm  (English, 2002). This movement witnessed a significant shift in scholarly  attention, as researchers and practitioners directed their focus toward  exploring and implementing Frederick.
+</text>
+
+<text page="2" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/1/Text/14">
+Taylor's concepts of effectiveness and efficiency within educational  contexts. Consequently, the studies conducted during this period were  primarily concerned with establishing frameworks and strategies aimed  at optimizing the performance and productivity of schools [(Takmak, ](#page-8-0) [2019)](#page-8-0). Although these studies faced critical scrutiny in the following  years, prompting scholars to raise concerns about the limited scope and  potential unintended consequences of an overemphasis on effectiveness  and efficiency in educational administration [(Hyung, 2001](#page-8-0)), they undoubtedly contributed greatly to the institutionalization of the field.
+</text>
+
+<text page="2" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/1/Text/15">
+In the latter half of the 20th century, there was a notable surge in  criticism towards endeavors aimed at the technicalization and standardization of school management. This criticism prompted a significant  diversification in the epistemological and methodological foundations  of the field of educational administration, as scholars embraced approaches commonly characterized as post-positivism [(Takmak, 2019](#page-8-0)).  This intellectual shift brought forth a range of alternative perspectives
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/2/Text/2">
+and research methods that departed from the positivist tradition,  fostering a more nuanced and multifaceted understanding of educational administration.
+</text>
+
+<text page="3" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/2/Text/3">
+The inception of the field of educational administration in Türkiye is  widely acknowledged to have commenced in the 1960s, primarily  attributed to the scholarly contributions of Prof. Dr. Ziya Bursalıoglu ˘ and Prof. Dr. Mahmut Adem ([Yılmaz, 2018)](#page-8-0). The onset of education at  Ankara University Faculty of Education marks a significant milestone in  the scientization process of the field of educational administration in  Türkiye [(Balcı, 2008](#page-7-0)). [Balcı et al. (2009) ](#page-7-0)assert that the process of professionalization in the field of educational administration in Türkiye,  which began in the 1960s, is still in its nascent stages, and the developmental trajectory of educational administration in Türkiye differs  from that of advanced countries. The progress of the field in advanced  countries has been relatively slow, whereas, in Türkiye, there has been a  relatively rapid advancement [(Balcı, 2008](#page-7-0);[ Turan et al., 2014)](#page-8-0).
+</text>
+
+<text page="3" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/2/Text/4">
+Studies in the field of educational administration in Türkiye, as in  other countries, often lack originality and creativity; studies are repetitive and simplistic [(Balcı et al., 2009](#page-7-0)). Problems arise in terms of  representativeness, sample selection, and the quality of data collection  tools. Especially in recent years, qualitative research has gained  importance and the use of single or mixed research designs has increased  in Türkiye ([Balcı, 2008)](#page-7-0). Despite having a history of approximately 80  years in Türkiye, the field of educational administration has a limited  number of studies dedicated to its examination [(Yılmaz, 2018](#page-8-0)). This  suggests a relative dearth of scholarly attention and research endeavors  directed toward exploring the intricacies, challenges, and developments  within the field. The scarcity of studies on educational administration in  Türkiye indicates a knowledge gap in comprehending the distinctive  context, challenges, and practices that influence the administrative aspects of education [(Turan et al., 2014](#page-8-0)). The field of educational  administration is characterized by a predominance of studies that prioritize the replication and control of existing knowledge, leading to a  lack of originality and this can be attributed, in part, to the career  advancement pressures faced by academics in the field ([Yılmaz, 2018](#page-8-0)).  Consequently, research endeavors in educational administration often  gravitate towards popular subjects, driven by the pursuit of academic  promotion.
+</text>
+
+<text page="3" section="*1.3.* *Educational administration in Türkiye *" source="author" id="/page/2/Text/5">
+The limited number of studies on educational administration in  Türkiye, coupled with the prevalent "publish or perish" culture, highlights the necessity for increased scholarly engagement and research  output to address the knowledge gap and advance educational policy,  practice, and decision-making in the field. Although there are many  studies on the 'publish or perish' motto in the Western world, this issue  has gained importance in Türkiye in recent years and there has been an  increase in the number of studies on the subject. To measure the impact  of the motto publish or perish on the field of education management,  publications in this field should be subjected to bibliometric analysis.  Bibliometric analysis is one of the methods that has attracted attention  in recent years. There are some studies in which educational publications examine with bibliometric analysis [(Gülmez et al., 2021;](#page-8-0) [Selçuk ](#page-8-0) [et al., 2014)](#page-8-0). [Gümüs¸ et al. (2019),](#page-8-0) analyzed the improvement of  educational management and leadership in Türkiye. For this aim, they  analyzed only the articles that were published on the WoS database and  used scientific mapping and they focused on articles published in the  most prestigious journals.
+</text>
+
+
+<heading page="3" section="*1.4.* *Purpose of the research *" source="author" id="/page/2/SectionHeader/6" level="4">
+#### *1.4.* *Purpose of the research *
+</heading>
+
+<text page="3" section="*1.4.* *Purpose of the research *" source="author" id="/page/2/Text/7">
+The main purpose of the current study is to analyze the impact of the  'publish or perish' culture on the publication process in the field of  educational administration in Türkiye. Within this scholarly context, our  study aims to provide an overview of the state of Turkish research  published in internationally indexed journals, specifically focusing on  those included in the Web of Science: Social Sciences Citation Index  (SSCI). Through employing basic bibliometric analyses, we also aim to
+</text>
+
+<text page="3" section="*1.4.* *Purpose of the research *" source="author" id="/page/2/Text/8">
+answer the following questions:
+</text>
+
+<list page="3" section="*1.4.* *Purpose of the research *" source="author" id="/page/2/ListGroup/442">
+- What is the distribution of related publications by year, author, and  affiliation?
+- How do the published journals distribute according to their impact  factors, ranking, and whether they are paid or not?
+- What are the citation rankings of the authors of the relevant  publications?
+- How is the distribution of the topics cited in the publications?
+</list>
+
+
+<heading page="3" section="**2.** **Method **" source="author" id="/page/2/SectionHeader/13" level="4">
+#### **2.** **Method **
+</heading>
+
+
+<heading page="3" section="*2.1.* *Design of the study *" source="author" id="/page/2/SectionHeader/14" level="4">
+#### *2.1.* *Design of the study *
+</heading>
+
+<text page="3" section="*2.1.* *Design of the study *" source="author" id="/page/2/Text/15">
+The study employed a bibliometric analysis method to analyze the  data, which in its simplest sense is a statistical and quantitative  description of the literature and the literature here means that only  relevant documents whose specific characteristics can be identified (e.g.  subject matter, document format, language, country of publication, etc.)  are treated as a group (Nicholas &amp; Ritchie, 1978 as cited in [Broadus, ](#page-7-0) [1987)](#page-7-0). It is considered a very useful and practical method for analyzing  large bibliographic datasets (Ramos-Rodrígue &amp; [Ruíz-Navarro, 2004](#page-8-0)).  Bibliometric analysis examines the social and structural connections  between various research elements such as authors, countries, institutions, and topics to provide a summary of the bibliometric and intellectual framework of a particular field [(Donthu et al., 2021)](#page-7-0). The  choice of utilizing bibliometric analysis was driven in this study by the  desire to uncover the emerging patterns in research components within  the educational administration field, as well as to investigate the intellectual structure of the field. In addition to its role in scientific mapping,  bibliometric analysis serves another crucial purpose known as performance analysis, which involves evaluating the research and publication  performance of individuals and institutions (Zupic &amp; [Cater, ](#page-8-0)ˇ 2014). In  this study, the analysis of performance encompassed an examination of  pertinent data extracted from the WoS (Web of Science) database,  encompassing variables including the publication year, authorship,  affiliated institution, journal characteristics (e.g., impact factor and  ranking), citation count, and bibliographic information of the accessed  articles.
+</text>
+
+
+<heading page="3" section="*2.2.* *Data collection procedure *" source="author" id="/page/2/SectionHeader/16" level="4">
+#### *2.2.* *Data collection procedure *
+</heading>
+
+<text page="3" section="*2.2.* *Data collection procedure *" source="author" id="/page/2/Text/17">
+To retrieve relevant scholarly data, a search query was executed in  the Web of Science database using the following terms in the subject title  field: "educational administration" OR "educational leadership" OR  "educational supervision" OR "educational economics" OR "educational  finance" OR "educational planning". The reason why this method was  chosen is that the field of educational administration in Türkiye traditionally encompasses educational administration, inspection, planning,  and economics, and also leadership is the most important topic in the  field.
+</text>
+
+<text page="3" section="*2.2.* *Data collection procedure *" source="author" id="/page/2/Text/18">
+The country of focus for this investigation was Türkiye, thereby  Türkiye was selected. Subsequently, a systematic search within the Web  of Science database was conducted, resulting in the identification of a  total of 276 studies about educational research within the education  category. No restrictions were imposed concerning the publication year  or language of the studies. It should be noted that the 276 documents  were not subjected to any exclusion based on their type. Acknowledging  that scientific production extends beyond research articles alone, an  endeavor was made to comprehensively examine the general characteristics of publications relevant to Türkiye in this context.
+</text>
+
+<text page="3" section="*2.2.* *Data collection procedure *" source="author" id="/page/2/Text/19">
+To this end, 276 articles were analyzed. The boundaries of the field of  educational administration in Türkiye are not fully defined. Moreover,  recognizing the potential inclination of academics to submit their publications to journals across various disciplines due to the imperative of  publishing, an inclusive approach was adopted by scrutinizing articles
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/2">
+encompassing multiple categories within the Web of Science database,  in addition to the Education category specifically focusing on educational research. As a result of this examination, 12 articles that were  deemed unrelated to educational administration were excluded from the  subsequent analysis, ensuring a more refined and relevant dataset for  the study. Furthermore, to maintain a focus on academic contributions  and account for potential variations in research motivations and pressures, articles authored by non-academic teachers affiliated with the  Ministry of National Education (MoNE) were also excluded from the  analysis. As the investigation primarily aimed to assess the publication  pressures experienced by academics, it was deemed appropriate to  restrict the study to scholarly works produced exclusively by academic  authors. Consequently, a total of 11 publications authored by nonacademic individuals were identified and subsequently excluded from  the analysis. Taking these exclusions into account, a total of 23 articles  were deemed unsuitable for inclusion in the analysis.
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/3">
+The data collection steps are shown below.
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/4">
+*Description: *Total documents retrieved using the WoS database (n = 276)
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/5">
+*Screening: *Documents excluded due to category, author not being an  academic (n = 23)
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/6">
+*Relevance: *Documents assessed for appropriateness (n = 253)
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/7">
+*Included: *Documents included in the analysis (n = 253)
+</text>
+
+<text page="4" section="*2.2.* *Data collection procedure *" source="author" id="/page/3/Text/8">
+The 253 studies were transferred to an Excel table using the WoS  system. On May 13, 2023, the data collection process ended.
+</text>
+
+
+<heading page="4" section="*2.3.* *Analysis of the data *" source="author" id="/page/3/SectionHeader/9" level="4">
+#### *2.3.* *Analysis of the data *
+</heading>
+
+<text page="4" section="*2.3.* *Analysis of the data *" source="author" id="/page/3/Text/10">
+After the search in the WoS database, the data related to the articles  obtained were transferred to an excel file. This was done by selecting the  excel format from the export command in WoS. The data in the excel file  was examined by two other authors and it was decided that it met the  inclusion criteria. Only the Number of Publications and Citations by  Year graph was taken from the Analyze Result pane in WoS, the other  graphs were created using the excel file.
+</text>
+
+<text page="4" section="*2.3.* *Analysis of the data *" source="author" id="/page/3/Text/11">
+A separate excel file was prepared for the data on the paid status of  the journals after a search on their websites. The findings are presented  in the next section.
+</text>
+
+
+<heading page="4" section="*2.4.* *Findings *" source="author" id="/page/3/SectionHeader/12" level="4">
+#### *2.4.* *Findings *
+</heading>
+
+<text page="4" section="*2.4.* *Findings *" source="author" id="/page/3/Text/13">
+Accordingly, 253 articles in the sample were analyzed according to  the year of publication, authors, and the journal in which they were  published. At the same time, information on the most published author  and universities was also included. In addition, analyses such as journal  impact factor, and author citation information are also included in this  section.
+</text>
+
+
+<heading page="4" section="*2.5.* *Distribution of the studies by publication years *" source="author" id="/page/3/SectionHeader/14" level="4">
+#### *2.5.* *Distribution of the studies by publication years *
+</heading>
+
+<text page="4" section="*2.5.* *Distribution of the studies by publication years *" source="author" id="/page/3/Text/15">
+The number of studies in the field of educational administration  published in journals included in the Social Science Citation Index  reviewed in the Web of Science database is 253 in total. Numerical data  on publications are presented in Fig. 1.
+</text>
+
+<text page="4" section="*2.5.* *Distribution of the studies by publication years *" source="author" id="/page/3/Text/16">
+When the distribution by years is analyzed, it is seen that there is no  general increase or decrease. The fluctuations in the number of publications can be evaluated as the fact that the productions in the field of  educational administration do not have a standard or continuity. The  WoS search is not restricted by year. Therefore, the first article meeting  the inclusion criteria is dated 2005.
+</text>
+
+
+<heading page="4" section="*2.6.* *Distribution of the document types *" source="author" id="/page/3/SectionHeader/17" level="4">
+#### *2.6.* *Distribution of the document types *
+</heading>
+
+<text page="4" section="*2.6.* *Distribution of the document types *" source="author" id="/page/3/Text/18">
+The analysis of document types revealed that the majority of studies  conducted in the field of educational administration in Türkiye consisted  primarily of research articles. it becomes evident that out of the total  253 studies, a majority of 238 studies are classified as articles.  Conversely, there is a notably lower representation of other study types,  such as editorial materials, proceeding papers, review articles and book  reviews. This observation may be attributed to the fact that articles carry  more weight in the evaluation criteria for academic promotions. To  facilitate comparative analysis, a search was conducted within the Web  of Science database using the search terms employed in this study,  resulting in the identification of 25 different document types. Notably,  certain document types such as letters, book chapters, and discussions  were not found in the studies conducted within the context of Türkiye.  This discrepancy highlights the prevalence and emphasis placed on  article-based publications within the academic landscape in Türkiye.
+</text>
+
+
+<heading page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/SectionHeader/19" level="4">
+#### *2.7.* *Distribution of authors *
+</heading>
+
+<text page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Text/20">
+The authors who have at least 5 publications, the number of studies,
+</text>
+
+<table_group page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/TableGroup/316">
+<caption page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Caption/21">
+**Table 1 ** Authors by number of publications.
+</caption>
+<table page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Table/22">
+| Authors | Record Count | Times Cited | Average per Item |
+| --- | --- | --- | --- |
+| Bellibas MS | 25 | 468 | 18.72 |
+| Gumus S | 17 | 360 | 21,17 |
+| Kilinc AC | 15 | 145 | 9.66 |
+| Ozdemir N | 11 | 45 | 4,09 |
+| Polatcan M | 10 | 35 | 3,5 |
+| Karadag E | 7 | 83 | 11,85 |
+| Ozdemir M | 7 | 31 | 4,42 |
+| Bektas F | 6 | 69 | 11,5 |
+| Kondakci Y | 5 | 59 | 11,8 |
+</table>
+</table_group>
+
+<text page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Text/23">
+**Source: **Adopted from database
+</text>
+
+<figure_group page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/FigureGroup/317">
+<figure page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Figure/24" image="LR.R03_fig03.jpg">[FIGURE: see LR.R03_fig03.jpg]</figure>
+<caption page="4" section="*2.7.* *Distribution of authors *" source="author" id="/page/3/Caption/25">
+**Fig. 1.** Distribution of the studies by publication dates.
+</caption>
+</figure_group>
+
+</page>
+<page number="5">
+<text page="5" section="*2.7.* *Distribution of authors *" source="author" id="/page/4/Text/2">
+and citation numbers are shown in [Table 1.](#page-3-0) In the table, citation  numbers without self-citation are taken into account. Citing an author's  work in a study cannot always be considered unethical. However, we  preferred to leave out self-citations completely in this study, as it is used  unethically to increase the number of self-citations and the h-index.
+</text>
+
+<text page="5" section="*2.7.* *Distribution of authors *" source="author" id="/page/4/Text/3">
+When the table is examined, it is observed that the order made for the  number of publications changes when the number of citations per article  is taken into account. However, it is seen that the first three authors who  produce the most are Bellibas¸, M, Gümüs¸, S. and Kılınç, A.
+</text>
+
+
+<heading page="5" section="*2.8.* *Distribution of universities *" source="author" id="/page/4/SectionHeader/4" level="4">
+#### *2.8.* *Distribution of universities *
+</heading>
+
+<text page="5" section="*2.8.* *Distribution of universities *" source="author" id="/page/4/Text/5">
+The 20 universities with the highest production are shown in Fig. 2.  When Fig. 2 is examined, it is seen that the MoNE, Education University of Hong Kong, and Aarhus University are among the 20 institutions that publish the most. This is because of co-authored articles.  We actually excluded articles published by MONE, because the authors  of those articles were not academics. The articles here are multiauthored and at least one of the authors is an academic.
+</text>
+
+
+<heading page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/SectionHeader/6" level="4">
+#### *2.9.* *Distribution of Journals *
+</heading>
+
+<text page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Text/7">
+Table 2 shows the journals in which at least five articles were published, the journals in which the studies were published, the number of  articles in the journal, the 5-year impact factors and quartile values of  the journals.
+</text>
+
+<text page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Text/8">
+Upon examining Table 2, the four most frequently selected publications were Egitim ˘ Bilim, Educational Management Administration &amp;  Leadership (EMAL), Educational Sciences in Theory and Practice, and  Hacettepe UniversityJournal of Faculty of Education. Collectively, these  four journals accounted for the publication of 121 studies, constituting  47.8% of the total studies analyzed. The remaining 52 journals encompassed the remaining 52% of the studies. Notably, except for EMAL, the  inclusion of these journals within the most preferred publications can be  attributed to their esteemed reputation within the Turkish academic  community. It is plausible to suggest that academics opt to publish in  Turkish journals as a solution to challenges stemming from the use of
+</text>
+
+<table_group page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/TableGroup/305">
+<caption page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Caption/9">
+**Table 2 ** Findings in the journals.
+</caption>
+<table page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Table/10">
+| Publication Titles | RecordCount | % of253 | ImpactFactor(IF) | Quartile(Q) |
+| --- | --- | --- | --- | --- |
+| Egıtım Ve Bılım Education AndScıence | 51 | 20.158 | 0,65 | Q 4 |
+| Educatıonal ManagementAdmınıstratıon Leadershıp | 27 | 10.672 | 2.596 | Q 2 |
+| Kuram Ve Uygulamada EgıtımBılımlerı | 26 | 10.277 | 0.532 | Q 4 |
+| Hacettepe Unıversıtesı EgıtımFakultesı Dergısı | 17 | 6.719 | 0.141 | Q 4 |
+| Hacettepe Unıversıty Journal OfEducatıon |  |  |  |  |
+| Educatıonal Scıences TheoryPractıce | 15 | 5.929 | 0.532 | Q 4 |
+| Educatıonal Studıes | 10 | 3.953 | 1.631 | Q 4 |
+| Asıa Pacıfıc Educatıon Revıew | 8 | 3.162 | 1.825 | Q 3 |
+| Eurasıan Journal Of EducatıonalResearch | 8 | 3.162 | 2.152 | Q 3 |
+| Journal Of EducatıonalAdmınıstratıon | 6 | 2.372 | 2.152 | Q 3 |
+| Egıtım Arastırmaları EurasıanJournal Of EducatıonalResearch | 5 | 1.976 | 0.47 | Q 3 |
+| Energy Educatıon Scıence AndTechnology Part B Socıal AndEducatıonal Studıes | 5 | 1.976 |  |  |
+| South Afrıcan Journal OfEducatıon | 5 | 1.976 | 1.204 | Q 4 |
+</table>
+</table_group>
+
+<text page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Text/11">
+foreign languages, which may be a contributing factor in their selection.  In addition, the 5-year impact factor (IF) and quartile (Q) of the  journals are given in the table. Although Energy Education Science and  Technology Part B is included in the WoS SSCI index of Social and  Educational Studies journal, IF and Q values are not seen.[ Al and Soydal ](#page-7-0) [(2012) ](#page-7-0)subjected this journal to bibliometric analysis and found that  94% of the citations were self-citations. [Gülmez et al. (2021)](#page-8-0), in their  study where they analyzed international publications in the field of  education through the WoS database, found that 332 articles were
+</text>
+
+<figure_group page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/FigureGroup/306">
+<figure page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Figure/12" image="LR.R03_fig04.jpg">[FIGURE: see LR.R03_fig04.jpg]</figure>
+<caption page="5" section="*2.9.* *Distribution of Journals *" source="author" id="/page/4/Caption/13">
+**Fig. 2.** University ranking by number of publications.
+</caption>
+</figure_group>
+
+</page>
+<page number="6">
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/2">
+published from Türkiye in the journal Energy Education Science and  Technology Part B Social and Educational Studies, and 12.69 citations  were received per article. Since it is still included in the SSCI index in the  WoS database, the articles published in this journal were included in the  analysis. However, it was not included in the analyzes of the journals  according to the Quartile. As 5 articles published in this journal were  excluded from the analysis in this section, they were reviewed for 248  articles. Fig. 3 shows the distribution of journals by quartile.
+</text>
+
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/3">
+The majority of the 55 journals analyzed according to Fig. 4 are in  the Q4 category. Although the distribution of the four categories was not  equal, the results were close to each other. It can be said that a special  weight is not given to the top-ranking journals in Türkiye. However, it is  necessary to consider the number of articles. In Fig. 4, the quartile distribution of the journals according to the number of articles is given.
+</text>
+
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/4">
+When the number of articles according to 55 journals is examined in  Fig. 4, it is seen that 57% of the publications are in the journals in the Q4  category. The fact that the journals in the bottom quartile are predominant makes us think that the 'publish or perish' culture is followed and  that the journals in the Q4 category are preferred for rapid publication  rather than the studies that will be published in the journals in the Q1  category.
+</text>
+
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/5">
+Of the 56 reviewed journals, 35 charge a publication fee. In addition  to the journals that charge a fee only when printed in color, some  journals charge fees of up to 3000 pounds. Parallel to the marketization  of science, paid publishing is increasing all over the world. The distribution of 253 studies examined in this study according to paid publication status is given in Fig. 5.
+</text>
+
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/6">
+When Fig. 5 is examined, it is seen that 63% of the publications are  published in journals that do not charge a fee. 95 of the reviewed studies  were published in paid journals. Fig. 6 shows the distribution of these 95  studies by Q category.
+</text>
+
+<text page="6" section="*2.9.* *Distribution of Journals *" source="author" id="/page/5/Text/7">
+When Fig. 6 is examined, it is seen that 40% of the paid publications  are in Q4 and 35% are in Q3 journals. The fact that 40% of the examined  publications were published in paid Q4 journals is a result of the impact  of quantitative evaluations on the field before the scientific quality of  the studies.
+</text>
+
+
+<heading page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/SectionHeader/8" level="4">
+#### *2.10.* *Citation analysis *
+</heading>
+
+<text page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Text/9">
+Another indicator of performance analysis through the bibliometric  method is citation analysis.[ Fig. 7](#page-6-0) shows the number of publications and  citations by year.
+</text>
+
+<text page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Text/10">
+When [Fig. 7 ](#page-6-0)is examined, it is seen that although the number of  publications increases, the number of citations received does not increase at the same rate. This situation shows that the quality of studies in  the field of educational administration in Türkiye has increased.
+</text>
+
+<text page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Text/11">
+An important issue to be examined in bibliometric analysis is what  the general research topics of the publications are and the relations  between the fields. The subjects that the examined studies are interested
+</text>
+
+<figure_group page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/FigureGroup/207">
+<figure page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Figure/12" image="LR.R03_fig05.jpg">[FIGURE: see LR.R03_fig05.jpg]</figure>
+</figure_group>
+
+<figure_group page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/FigureGroup/208">
+<figure page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Figure/14" image="LR.R03_fig06.jpg">[FIGURE: see LR.R03_fig06.jpg]</figure>
+<caption page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Caption/15">
+**Fig. 4.** Distribution of publications by quartile.
+</caption>
+</figure_group>
+
+<figure_group page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/FigureGroup/209">
+<figure page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Figure/16" image="LR.R03_fig07.jpg">[FIGURE: see LR.R03_fig07.jpg]</figure>
+<caption page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Caption/17">
+**Fig. 5.** Distribution of journals by paid status.  **Source: **Adopted from WoS database
+</caption>
+</figure_group>
+
+<figure_group page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/FigureGroup/210">
+<figure page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Figure/18" image="LR.R03_fig08.jpg">[FIGURE: see LR.R03_fig08.jpg]</figure>
+<caption page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Caption/19">
+**Fig. 6.** Distribution of studies on paid journals by Q category.
+</caption>
+</figure_group>
+
+<text page="6" section="*2.10.* *Citation analysis *" source="author" id="/page/5/Text/20">
+in and related to through citation issues were analyzed in the Citation  Topics Micro section of the WoS database. The first five most cited  topics, out of a total of 46 topics, are given in [Table 3](#page-6-0). **Fig. 3.** Distribution of journals by quartile.
+</text>
+
+</page>
+<page number="7">
+<figure_group page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/FigureGroup/294">
+<figure page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/Figure/2" image="LR.R03_fig09.jpg">[FIGURE: see LR.R03_fig09.jpg]</figure>
+<caption page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/Caption/3">
+**Fig. 7.** Number of publications and citations by year.
+</caption>
+</figure_group>
+
+<table_group page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/TableGroup/295">
+<caption page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/Caption/4">
+**Table 3 ** The first five most cited topics.
+</caption>
+<table page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/Table/5">
+| Citation Topics | Record Count | % of 253 |
+| --- | --- | --- |
+| School Leadership | 104 | 41.107 |
+| Job Satisfaction | 52 | 20.553 |
+| Technology Acceptance Model | 12 | 4.743 |
+| Social Movements | 11 | 4.348 |
+| Teacher Education | 10 | 3.953 |
+</table>
+</table_group>
+
+<text page="7" section="*2.10.* *Citation analysis *" source="author" id="/page/6/Text/6">
+When Table 3 is examined, it is seen that 41.1% of the studies published in international journals in the field of educational administration  are related to leadership. It can be said that it is possible to focus on a  single subject in a wide area such as educational administration. This  situation creates question marks in terms of the development of the field  of educational administration in Türkiye. Leadership is followed by job  satisfaction (20.5%), technology adaptation model (4.74%), social  movements (4.35%), and teacher education (3.95%).
+</text>
+
+
+<heading page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/SectionHeader/7" level="4">
+#### **3.** **Discussion and conclusion **
+</heading>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/8">
+When the findings regarding the publication dates of the studies are  analyzed, it can be said that the increasing number of academic publications in the 2000s (Gu &amp; [Blackmore, 2016](#page-8-0)) has progressed in the same  way for academic studies in the field of educational administration.  During the first decade of the 2000s, the average number of academic  publications in SSCI journals related to educational administration is  less than 10. However, it can be observed that although there have been  fluctuations from time to time, the number of publications has gradually  increased since 2010. However, the reason for the fluctuation may be  the removal of some Turkish journals from the SSCI index since 2012  ([Gülmez et al., 2021](#page-8-0)).
+</text>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/9">
+The study contains a similar output of bringing the publish or perish  culture to educational administration with other fields. All areas of  fluctuation, which have spread to be published according to years, are  seen (Akçigit ˘ &amp; [Ozcan-Tok, ](#page-7-0)¨ 2020). This situation is related to the  acceptance and removal of the WoS archives of the journals addressing  Türkiye as their basis. When WoS decided to expand its scope, the  number of journals accepted from Türkiye was written all at once. This  situation gives the impression that there is an increase in productivity in  Türkiye. While the sample and viewers who look at the decrease in the  number of publications are evaluated as superior, the fact that the  mechanism that measures the productivity of the manager has been
+</text>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/10">
+taken over by a big computer, which emerged as a result of the marketization of science and monopolizes scientific publishing, and makes a  profit for these larges is ignored.
+</text>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/11">
+When the types of publications were analyzed in the study, it was  found that the most common type of publication in the SSCI index was  research articles. Other types of production such as review articles, book  reviews and proceedings are negligible. The reason for this is that the  Council of Higher Education gives the most weight to article production  in academic incentives and promotions. Articles are so important or  other types of publications are so scarce that even bibliometric analyses  are often based on articles alone. Scientific progress in a field is not just  about a research paper. Activities such as congresses and reviewing  books written in the field are essential for the epistemological development of the field, with scholars working collectively and discussing  and examining field-specific questions. As can be seen, the publish or  perish culture limits academic activities in educational administration,  as in other fields, to writing research articles.
+</text>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/12">
+When the academicians and universities with the highest number of  publications are examined, it is seen that the number of publications of  co-authored studies and even international collaborations is higher. This  result is in agreement with other studies (Akçigit ˘ &amp; [Ozcan-Tok, ](#page-7-0)¨ 2020;  [Gülmez et al., 2021](#page-8-0); [Lawrence, 2008](#page-8-0)). Publish or perish culture can be  said to increase co-authored studies. Although this situation is accepted  as positive, it is not sufficient to evaluate the quality of the production.  In the study, it was observed that the ordering according to the number  of publications changed when the number of citations was taken into  account.
+</text>
+
+<text page="7" section="**3.** **Discussion and conclusion **" source="author" id="/page/6/Text/13">
+When the journals published are examined, it is seen that the majority of the articles are generally in the lower ranking journals. Qualified scientific production is a risky endeavor that requires time and  serious effort. Unexpected results can be obtained in research, and these  results can take the academician to very different places in the production of knowledge. The researcher has assumptions at the beginning  and seeks information accordingly. However, he does not know from the  beginning what will happen in the end. However, since the publish-orperish culture imposes rapid and highly cited publications, academics  tend to publish according to the general trends in the field and to do  'easy' research in this respect, for which they know or predict the  outcome. In addition, since there is a high demand for high-quality  journals that are accepted in the field, it is necessary to wait a long  time to get answers from them. It does not allow waiting in the 'publish  or perish' world.
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="**3.** **Discussion and conclusion **" source="author" id="/page/7/Text/2">
+In addition to this, it has been revealed that there is a great interest in journals addressed to Türkiye. This is an indication that the field of educational administration remains at the local level. This result is compatible with various bibliometric analysis results (Acar &amp; Bektaş, 2021; Doğan, Dyhı &amp; Al, 2018; Ertaş &amp; Kozak, 2020; Gümüş et al., 2019; Gülmez et al., 2021). The concentration of publications in a limited number of journals implies a certain level of preference and recognition accorded to these specific outlets within the field of educational administration in Türkiye. This finding underscores the importance placed on disseminating research within the domestic scholarly ecosystem and the significance assigned to the reputation and visibility of these journals within the academic community.
+</text>
+
+<text page="8" section="**3.** **Discussion and conclusion **" source="author" id="/page/7/Text/3">
+As a result of the publish or perish culture is the emergence of predator journals, one of the questions our study sought to answer was about predatory journals. As a result of the analysis, it was revealed that 40% of the publications made by paying money were in the journals in the Q4 category. It is not easy to identify which of these journals are predatory journals. Academics may not know whether the journal they send their publications to is a predator. Whether a journal is a predator or not is understood over time as the articles it publishes are seen. A journal can be considered a predator and removed from the indexes, then after a while re-entered.
+</text>
+
+<text page="8" section="**3.** **Discussion and conclusion **" source="author" id="/page/7/Text/4">
+In addition to predator journals, journals in the Q1 category may also charge a fee for publication. Demanding high wages is an indication that the academician is making a profit on their labor. In an environment where science is marketed, academicians have to pay money to have their quality studies published to advance in their careers and gain prestige. In low-income countries, the income of academics is also low. In this case, they have to find various incentives
+</text>
+
+<text page="8" section="**3.** **Discussion and conclusion **" source="author" id="/page/7/Text/5">
+To meet the high wages. It is difficult to say that academics who have to receive incentives from both the government and private institutions can produce freely.
+</text>
+
+<text page="8" section="**3.** **Discussion and conclusion **" source="author" id="/page/7/Text/6">
+When we look at the issues related to the publications in the field of educational administration, the prominent topics are mainly leadership and job satisfaction. The field of educational administration should be in a close relationship with many disciplines such as economics, planning, politics, social theory, and sociology. However, there are very few productions on these subjects in international publications from Türkiye. It can be said that this situation poses a threat to the future of the field of educational administration.
+</text>
+
+
+<heading page="8" section="3.1. Suggestions" source="author" id="/page/7/SectionHeader/7" level="4">
+#### 3.1. Suggestions
+</heading>
+
+<text page="8" section="3.1. Suggestions" source="author" id="/page/7/Text/8">
+It is not easy to protect the publishing adventure in the field of educational administration in Türkiye from the negative effects of the publish-or-perish culture. The end of these pressures surrounding academics will be possible through the joint efforts of academics. We recommend that academics increase their communication and interaction with each other regarding their research, focus on the information a research reveals rather than which journal it is published in, and strive to create an academic culture that enables this.
+</text>
+
+<text page="8" section="3.1. Suggestions" source="author" id="/page/7/Text/9">
+We think that this problem can be overcome when discussions on how this can be achieved are carried out by academics and when research is conducted using more diverse perspectives and different methods on publication printing.
+</text>
+
+
+<heading page="8" section="CRediT authorship contribution statement" source="author" id="/page/7/SectionHeader/10" level="4">
+#### CRediT authorship contribution statement
+</heading>
+
+<text page="8" section="CRediT authorship contribution statement" source="author" id="/page/7/Text/11">
+**Aysel Çakir:** Writing – review &amp; editing, Writing – original draft, Methodology, Investigation, Formal analysis, Data curation, Conceptualization. **Dilan Kuyurtar:** Writing – review &amp; editing, Writing – original draft, Visualization, Methodology, Investigation, Data curation, Conceptualization. **Aydın Balyer:** Project administration, Methodology.
+</text>
+
+
+<heading page="8" section="Declaration of generative AI and AI-assisted technologies in the writing process" source="author" id="/page/7/SectionHeader/12" level="3">
+### Declaration of generative AI and AI-assisted technologies in the writing process
+</heading>
+
+<text page="8" section="Declaration of generative AI and AI-assisted technologies in the writing process" source="author" id="/page/7/Text/13">
+During the preparation of this work, the authors used [CHATGPT] in order to [TRANSLATION]. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+</text>
+
+
+<heading page="8" section="Declaration of competing interest" source="author" id="/page/7/SectionHeader/14" level="4">
+#### Declaration of competing interest
+</heading>
+
+<text page="8" section="Declaration of competing interest" source="author" id="/page/7/Text/15">
+The authors have no conflict of interest to declare.
+</text>
+
+
+<heading page="8" section="References" source="author" id="/page/7/SectionHeader/16" level="4">
+#### References
+</heading>
+
+<list page="8" section="References" source="author" id="/page/7/ListGroup/344">
+- Acar, H. V., &amp; Bektaş, M. (2021). Türkiye'nin bilimsel yayın üretimi. *Ankara Eğitim ve Araştırma Hastanesi Tıp Dergisi*, 54(2), 331–340.
+- Adler, N., &amp; Harzing, A. (2009). When knowledge wins: Transcending the sense and nonsense of academic rankings. The Academy of Management Learning and Education, 8(1), 72–95.
+- Akçığıt, U., &amp; Özcan-Tok, E. (2020). *Türkiye Bilim Raporu, No* p. 43). TÜBA Raporları. Akış, I. (2020). Günümüzde bilim emekçisi olmak. *Madde, Diyalektik ve Toplum, 3*(4), 355–359
+- Al, U., &amp; Soydal, İ. (2012). Dergi kendine atıfının etkisi: Energy education science and technology örneği. Türk Kütüphaneciliği, 26(4), 699–714. https://dergipark.org.tr/tr/pub/tk/issue/48835/622148.
+- Amutuhaire, T. (2022). The reality of the 'publish or perish' concept, perspectives from the Global South (Vol. 38, pp. 281–294). Publishing Research Quarterly. https://doi.org/ 10.1007/s12109-022-09879-0
+- Atılgan, D. (2005). Bilimsel yayınlarda üniversitelerin yeri. Türk Kütüphaneciliği, 19, 97–104.
+- Balcı, A. (2008). Türkiye'de eğitim yönetiminin bilimleşme düzeyi. Kuram ve Uygulamada Eğitim Yönetimi Dergisi, 54, 181–209.
+- Balcı, A., Şimşek, H., Gümüşeli, A.İ., &amp; ve Tanrıöğen, A. (2009). Eğitim yönetimi araştırmaları ve yayın hakkında rapor. EYEDDER Rapor Serisi. http://eyedder.org/be lgeler/Egitim-Yonetimi-Arastirmalari-Yayin-Hakkinda-Rapor.pdf.
+- Balyer, A., &amp; Tabancali, E. (2023). Publication fetishism at higher education: Academician views. *Journal of Educational Leadership and Policy Studies*, 7(1), 1–19.
+- Beall, J. (2018). Predatory journals exploit structural weaknesses in scholarly publishing. EDP Sciences, 1(1), 1-3. https://doi.org/10.1051/fopen/2018001
+- Bello, S. A., Azubuike, F. C., &amp; Akande, O. A. (2023). Reputation disparity in teaching and research productivity and rewards in the context of consequences of institutionalization of Publish or Perish culture in academia. *Higher Education Quarterly*, 77(3), 574–584. https://doi.org/10.1111/hequ.12417
+- Bornmann, L., &amp; Mutz, R. (2015). Growth rates of modern science: A bibliometric analysis based on the number of publications and cited references. *Journal of the *Association for Information Science and Technology, 66, 2215–2222. https://doi.org/ 10.1003/psi.32320
+- Broadus, R. N. (1987). Toward a definition of "bibliometrics". *Scientometrics*, 12(5–6), 373–379.
+- Çıtak, N. (2022). Bilimsel tıbbi dergilerin ipleri sermayenin elinde. *Madde, Diyalektik ve Toplum*, 5(2), 102–118.
+- Cole, A. L. (2000). Academic freedom and the publish or perish paradox in schools of education. *Teacher Education Quarterly*, 27(2), 33–48. https://www.jstor.org/stable/ 23478254.
+- Davies, B., &amp; Felappi, G. (2017). Publish or perish. *Metaphilosophy*, 48(5), 745–761. https://doi.org/10.1111/meta.12269
+- Demir, S. B. (2018). Predatory journals: Who publishes in them and why? *Journal of Infometrics*, 12, 1296–1311. https://doi.org/10.1016/j.joi.2018.10.008, 2018.
+- Derond, M., &amp; Miller, A. N. (2005). Publish or perish: Bane or boon of academic life? Journal of Management Inquiry, 14(4), 321–329. https://doi.org/10.1177/ 1056492605276850
+- Doğan, G., Dhyı, S. M. M. A., &amp; Al, U. (2018). Web of Science'tan çıkarılan Türkiye adresli dergiler üzerine bir araştırma. Türk Kütüphaneciliği, 32(3), 151–162. https://doi.org/10.24146/tkd.2018.35
+- Donthu, N., Kumar, S., Mukherjee, D., Pandey, N., &amp; Lim, W. M. (2021). How to conduct a bibliometric analysis: An overview and guidelines. *Journal of Business Research*, 133, 285–296. https://doi.org/10.1016/j.jbusres.2021.04.070
+- Ertaş, M., &amp; Kozak, M. (2020). Publish or perish: The proportion of articles versus additional sections in tourism and hospitality journals. *Journal of Hospitality and Tourism Management*, 43, 149–156. https://doi.org/10.1016/j.jhtm.2020.03.001
+- Fernandez- Patron, C., &amp; Hardy, E. (2017). A new science publishing system for a budding science publishing crisis. Science and Engineering Ethics, 24(2), 805–808. https://doi.org/10.1007/s11948-017-9902-6
+- Frederick, D. E. (2020). Scholarly communications, predatory publishers and publish or perish culture in the 2020s. Library Hi Tech News, 37(5), 1–11. https://doi.org/ 10.1108/LHTN-01-2020-0007
+- Gasparyan, A. Y., Nurmashev, B., Voronov, A. A., Gerasimov, A. N., Koroleva, A. M., &amp; Kitas, G. D. (2016). The pressure to publish more and the scope of predatory publishing activities. *The Korean Academy of Medical Sciences*, 2016(31), 1874–1878. https://doi.org/10.3346/jkms.2016.31.12.1874
+</list>
+
+</page>
+<page number="9">
+<list page="9" section="References" source="author" id="/page/8/ListGroup/189">
+- Génova, G., &amp; De la Vara, J. L. (2019). The problem is not professional publishing, but the publish-or-perish culture. Science and Engineering Ethics, 25(2), 617–619. https://doi.org/10.1007/s11948-017-0015-z
+- Grimes, D. R., Bauch, C. T., &amp; Ioannidis, J. P. A. (2018). Modeling science trustworthiness under publish or perish pressure. Royal Society Open Science, 5(1), Article 171511. https://doi.org/10.1098/rsos
+- Gu, X., &amp; Blackmore, K. L. (2016). Recent trends in academic journal growth. Scientometrics, 108(2), 693–716. https://doi.org/10.1007/s11192-016-1985-3
+- Gülmez, D., Özteke, İ., &amp; Gümüş, S. (2021). Uluslararası dergilerde yayımlanan Türkiye kaynaklı eğitim araştırmalarının genel görünümü: Bibliyometrik analiz. Eğitim ve Bilim, 46(206), 213–239. https://doi.org/10.15390/EB.2020.9317
+- Gümüş, S., Bellibaş, M.Ş., Gümüş, E., &amp; Hallinger, P. (2019). Science mapping research on educational leadership and management in Turkey: A bibliometric review of international publications. School Leadership &amp; Management, 40(1), 1–22. https:// doi.org/10.1080/13632434.2019.1578737
+- Hyung, P. S. (2001). Epistemological underpinnings of theory developments in educational administration. *Australian Journal of Education*, 45(3), 237–248.
+- Kaygusuz, A. (2012). Makale nasıl değerlendirilir? ANKEM Dergi, 26(4), 228–232. https://doi.org/10.5222/ankem.2012.228
+- Kocyigit, B. F., &amp; Akyol, A. (2022). Analysis of retracted publications in the biomedical literature from Turkey. *Journal of Korean Medical Science*, 37(18), e142. https://doi:10.3346/jkms.2022.37.e142.
+- Lawrence, P. A. (2008). Lost in publication: How measurement harms science. Ethics in Science and Environmental Politics, 8, 9–11. https://doi.org/10.3354/esep00079
+- McGrail, M. R., Rickard, C. M., &amp; Jones, R. (2006). Publish or perish: A systematic review of interventions to increase academic publication rates. *Higher Education Research *and Development, 25(1), 19–35. https://doi.org/10.1080/ 07294360500453053Amuth
+</list>
+
+<list page="9" section="References" source="author" id="/page/8/ListGroup/190">
+- Miller, A. N., Taylor, S. G., &amp; Bedeian, A. G. (2011). Publish or perish: Academic life as management faculty live it. *Career Development International*, 16(5), 422–445. https://doi.org/10.1108/13620431111167751
+- Olssen, M. (2021). Neoliberal competition in higher education today: Research, accountability, and impact. In *A normative Foucauldian* (pp. 307–327). Brill.
+- Ramos-Rodrígue, A. R., &amp; Ruíz-Navarro, J. (2004). Changes in the intellectual structure of strategic management research: A bibliometric study of the strategic management journal, 1980–2000. Strategic Management Journal, 25(10), 981–1004.
+- Selçuk, z., Palancı, M., Kandemir, M., &amp; Dündar, H. (2014). Eğitim ve bilim dergisinde yayınlanan araştırmaların eğilimleri: Içerik analizi. Eğitim ve Bilim, 39(173), 430-449
+- Takmak, H. (2019). Eğitim yönetiminin özgünleşme ve özerkleşme sorunsalı. Ege Eğitim Dergisi, 20(1), 113–126.
+- Turan, S., Karadağ, E., Bektaş, F., &amp; ve Yalçın, M. (2014). Türkiye'de eğitim yönetiminde bilgi üretimi: Kuram ve Uygulamada Eğitim Yönetimi Dergisi 2003-2013 yayınlarının incelenmesi. Kuram ve Uygulamada Eğitim Yönetimi, 20(1), 93–119.
+- Uğurlu, G. (2015). Emek hareketinde yeni arayışlara bir örnek: Piyasalaşan akademide asistan dayanışmaları. Vira-Verita E- dergi, 2, 45–64.
+- Van Dalen, H. P., &amp; Henkens, K. (2012). Intended and unintended consequences of a publish-or-perish culture: A worldwide survey. *Journal of the American Society for Information Science and Technology*, 63(7), 1282–1293. https://doi.org/10.1002/ asi.22636
+- Yılmaz, K. (2018). Türkiye'deki eğitim yönetimi alanı ile ilgili çalışmalara eleştirel bir bakış. *Journal of Human Sciences*, 15(1), 123–154. https://doi.org/10.14687/jhs. v15i1 4833
+- Zupic, I., &amp; Čater, T. (2014). Bibliometric methods in management and organization.  *Organizational Research Methods*, 18(3), 429–472. https://doi.org/10.1177/1094428114562629
+</list>
+
+</page>
+</paper>

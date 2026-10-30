@@ -1,0 +1,368 @@
+![LR.R22 fig01](../figures/LR/LR.R22_fig01.jpg)
+
+*Article*
+
+Sociology 2026, Vol. 60(4) 929–951 © The Author(s) 2026
+
+![LR.R22 fig02](../figures/LR/LR.R22_fig02.jpg)
+
+https://doi.org/10.1177/00380385251406882 Article reuse guidelines: [sagepub.com/journals-permissions](https://uk.sagepub.com/en-gb/journals-permissions) DOI: 10.1177/00380385251406882 [journals.sagepub.com/home/soc](https://journals.sagepub.com/home/soc)
+
+![LR.R22 fig03](../figures/LR/LR.R22_fig03.jpg)
+
+**English or Perish? The Value of ** **Linguistic Capital in the Social ** **Sciences and Humanities**
+
+**Julien Larregue** Université Laval, Canada
+
+![LR.R22 fig04](../figures/LR/LR.R22_fig04.jpg)
+
+## **Abstract**
+
+This article examines the relationship between linguistic practices and funding success in Canadian social sciences and humanities. Through a mixed-methods approach combining data on 56,680 successful and unsuccessful grant applications submitted to the Canadian Social Sciences and Humanities Research Council and 45 interviews with past members of review committees, we analyse how language intersects with knowledge hierarchies and disciplinary cultures. Our findings show that writing a grant proposal in English rather than in French is associated with slightly higher chances of securing funding, mostly reflecting the greater recognition of applicants who have published in prestigious anglophone journals. However, the worth of this linguistic capital varies significantly across disciplines. These differences stem from how each discipline defines scientific value – whether through a more universal or context-dependent perspective and according to singular or plural hierarchies.
+
+## **Keywords**
+
+disciplines, English, French, funding, grants, hierarchies, inequalities, language, linguistic capital, social sciences
+
+## **Introduction**
+
+As the academic *lingua franca*, English is now ubiquitous in science. It helps build bridges between national fields and facilitates the diffusion of knowledge across nonoverlapping linguistic areas. But as we know well, language is also intimately related to
+
+## **Corresponding author:**
+
+Julien Larregue, Département de sociologie, Université Laval, Pavillon Charles-De Koninck, 1030 avenue des Sciences-Humaines, bureau 3465, Québec QC G1V 0A6, Canada. Email:[ julien.larregue@ulaval.ca](mailto:julien.larregue@ulaval.ca)
+
+<!-- page 2 -->
+
+power dynamics within and across societies (Bourdieu, 1977; Casanova, 2015; de Swaan, 2013; Phillipson, 1992). Science is no exception, and yet the repercussions of the domination of the English language on the repartition of resources within academia have yet to be fully explored. While the various material and emotional costs of working in English for non-native speakers have begun to be documented (Amano et al., 2023; Powell, 2012), it is less clear how linguistic dynamics translate into scientific (de) valuation.
+
+To date, most studies on the matter have focused on publishing, highlighting the difficulties that non-English speakers often face in the process (Beigel and Digiampietri, 2023; Cui et al., 2023; Fox et al., 2023). Access to funding, however, has seldom been considered in relation to linguistic inequalities. As government support for research is waning in many countries, with core funding being partially or entirely supplanted by competitive project-based systems, it becomes essential to examine the various factors shaping researchers' ability to secure grants.
+
+Linguistic capital is one of them. Competence and ease in English – or any socially valued, widespread language – is a form of cultural capital (Casanova, 2015; de Swaan, 2013) upon which scientific success is, in many ways, dependent. Yet, the social value and stakes surrounding the use of a given language are not constant across research domains and areas (Beigel et al., 2023; Gingras, 1984: 289). Put otherwise, the worth of different languages will vary depending on the structure and culture of given disciplines. One important aspect of this value determination is, of course, that of the scientific publication system and, consequently, the level of unification (Bourdieu, 1977: 23) of a field's journal market. In biology or physics, scientific visibility cannot be achieved outside of the English domination. This is, however, less clear in the social sciences and humanities, where distinct and partly autonomous publication markets coexist at the national, regional, and international levels (Beigel and Gallardo, 2021; Cui et al., 2023).
+
+To estimate the value of linguistic capital across disciplines, this article analyses how linguistic practices influence funding outcomes in the Canadian social sciences and humanities. In Canada, access to federal funding from the *Social Sciences and * *Humanities Research Council* (hereafter SSHRC) is based on a peer-review process involving researchers from all over the country. The peculiarity of the linguistic situation, in which the State recognizes two official languages (English and French), is rooted in a long and often conflictual history between the two linguistic communities. This history reflects the legacy of colonial rivalry, the institutional predominance of English in most provinces and the persistent struggles of francophone minorities outside Québec to maintain visibility and recognition (Cardinal et al., 2008). As a result, language in Canada carries strong symbolic and political weight, making the country a quasi-experimental setting in which to investigate the way language intersects with knowledge hierarchies and disciplinary cultures (Larregue and Nielsen, 2024) in the evaluation of projects and candidates.
+
+This article fills a gap in the literature by addressing two main questions: *How does * *language shape access to funding from one discipline to another?* *To what extent does * *the evaluative framework and the definition of scientific value inherent to each discipline * *explain the variations observed?*
+
+<!-- page 3 -->
+
+To answer these questions, the article draws on a mixed methodology. First, we used an original dataset of 56,680 successful and unsuccessful applications submitted to SSHRC between 2000 and 2021 to analyse how language preferences shape funding outcomes in different disciplines. Second, we conducted 45 interviews with professors who had served on SSHRC evaluation committees in the last 10 years or so – including in economics, political science, sociology, history and psychology – to understand how linguistic dynamics might shape the evaluation process.
+
+Our results highlight the dominance of English in the Canadian funding landscape: writing in English is associated with slightly higher chances of securing funding, mostly reflecting the greater recognition of applicants who have published in prestigious anglophone journals. However, the worth of this linguistic capital varies across disciplines: it is particularly high in economics and psychology, less significant in political science and sociology, and virtually inconsequential in history. These differences stem from how each discipline defines scientific value – whether through a more universal or contextdependent perspective and according to singular or plural hierarchies.
+
+## **Language and Science in a Global Context**
+
+Canada's linguistic situation echoes challenges faced by many multilingual countries such as India, Belgium, Switzerland or South Africa. Even in some monolingual countries, English has gradually become the dominant professional language of the scientific field at large, and in funding schemes specifically. In Denmark, for instance, the *Independent Research Fund* usually requests that applicants submit their project description and CV in English. And this trend is not limited to 'small nations'. While not (yet) mandatory, the French *Agence nationale de la recherche* similarly encourages applicants to use English, with the proclaimed objective of facilitating the work of international reviewers.
+
+The shifting linguistic policies of funding bodies are connected to broader trends. The use of English has been on a steady rise in academia for several decades (Gordin, 2015), including in the social sciences (Larivière, 2018). Far from being restricted to a linguistic component – language as a mere tool of communication – this phenomenon is closely connected to the symbolic hegemony of the United States within the scientific field. As a result, scholars from this country are in a preferential position to impose their views of what science is and should be. For instance, the expectations of flagship US social science journals when it comes to the formatting and epistemological style of articles can be quite different from what is valued in countries like Mexico (Abend et al., 2013) or France (Pontille, 2003). Thus, non-US researchers who want to publish in such reputable venues must incorporate norms and categories that might be foreign to their scientific habitus (Järvinen and Mik-Meyer, 2025).
+
+This also impacts the kinds of topics and geographical areas that researchers investigate: when they publish in US journals, Canadian, French and German scholars are about 50% less likely to mention their country in the abstract than when they publish in national journals (Larivière, 2018: 354–355). The globalization of the scientific field has also led sociologists to research more and more 'upward'. The interest in their own society decreases as they shift their attention to more dominant ones, first
+
+<!-- page 4 -->
+
+and foremost the US (Warren, 2014: 93–95). These various mechanisms explain why the hierarchical, normative ranking of journals in disciplines like economics is one of the main pathways through which US symbolic domination is reproduced in national fields (Pontille and Torny, 2010).
+
+The coexistence of national languages and English sometimes gives way to the emergence of unequal academic pathways within countries: one that is internationalized and oriented towards prestigious research collaborations, and one that is depicted as national and focused on the training of professionals. This phenomenon has aptly been described as a case of diglossia (Calaresu, 2011; Fray and Lebaron, 2022: 105), a linguistic situation where a given community organizes its communication practices around a distinction between a 'high' and a 'low' language, with each having different social functions.
+
+Nevertheless, instances of scientific diglossia do not equate to a total domination of English in academia (Ferguson, 2000: 61). But the fact that national languages are still used in some professional areas should not lead one to conclude that scientific diglossia does not exist, or that it is a reductive notion (Vila, 2021: 66). The asymmetric and unequal relationship between English and other languages is, for instance, clearly visible in the citation practices of Canadian social scientists. While English speakers submit grant applications or publish articles where they cite almost exclusively English-speaking references, about half of French speakers' bibliographies are made up of English sources (Marcoux, 2019). In the same vein, translation practices demonstrate that while the US exports their cultural products all over the world, they import very few foreign books (Heilbron et al., 2017: 17–18).
+
+## **Linguistic Capital and Disciplinary Cultures**
+
+To analyse these patterns, we mobilize the concept of linguistic capital, which treats language as a resource that can be deployed strategically to gain recognition and authority within a field. As Bourdieu (1977: 19) underlined: 'All specific linguistic transactions depend on the structure of the linguistic field, which is itself an expression of the relationship of power between groups possessing the corresponding skills'. As with other kinds of capital, the value of linguistic resources fluctuates across social spaces. Within the scientific field, disciplinary structures and cultures shape how linguistic hierarchies are experienced and negotiated. Some fields, such as history, sociology or philosophy, have long-standing national traditions that continue to confer legitimacy on scholarship written in French, German or other languages. Their intellectual canons, often rooted in influential European centres of knowledge production, make it possible for non-English publications to retain symbolic value and professional recognition, even in a globalized academic environment. By contrast, disciplines more tightly aligned with processes of standardization and international benchmarking (such as economics or psychology) display stronger incentives to publish in English, as their evaluation criteria are more closely tied to global hierarchies of journals and citation practices. Resistance to the symbolic domination of English is thus uneven, depending not only on the relative size of linguistic communities but also on the historical weight, internal diversity and degree of internationalization of each discipline.
+
+<!-- page 5 -->
+
+It is within these contexts that individual strategies unfold. In academia, linguistic practices are strategies of distinction, akin to choices over research objects or methods. Scholars who are non-native English speakers face a trade-off: adopt English and compete in a larger, internationalized market – the 'cosmopolitan strategy' – or publish in their national language and engage a smaller, local audience – the 'local strategy' (de Swaan, 2013: 41). The merit of these strategies is intricately connected to the amount of 'collective cultural capital' (de Swaan, 2013: 42); that is, the totality of reputable publications available that different languages can claim in specific disciplines.
+
+We thus expect that the prestige of, and rewards resulting from, the use of English will be greater in disciplines whose publication system is homoarchical (e.g. economics, psychology) – that is, based on a single hierarchy collectively recognized as legitimate (Valentino, 2021: 1396), which translates into the formal ranking of the field's journals. At the other end of the spectrum, some disciplines are heterarchical (e.g. sociology, history) in that their practitioners use different and competing logics to assign value to social scientific products depending on their own social position. Following this, the symbolic domination of English should be more important in homoarchical disciplines than it is in heterarchical disciplines. Within any given discipline, we would further expect variation between individuals: scholars' access to resources, networks and training in English – as well as their career stage and institutional affiliation – could condition their adoption of cosmopolitan versus local strategies. Similarly, even in heterarchical disciplines, certain subfields or intellectual traditions might confer greater legitimacy on English publications than others, creating intra-disciplinary differences in the symbolic and material rewards of language choice. In sum, diglossia in academia would thus operate both across disciplines and among researchers within given disciplines, reflecting a complex interplay of symbolic hierarchies, disciplinary cultures and personal trajectories.
+
+## **Data and Methods**
+
+## *Funding Data*
+
+Our investigations are grounded in a database of 56,680 grant applications that were submitted to the SSHRC between 2000 and 2021. This dataset was obtained through a data sharing agreement with the SSHRC. Ethical approval was obtained at Université Laval. The study adhered to standards governing research on academia and science. Institutions were named only when doing so served an analytic purpose and when the information posed no particular risk for grant applicants. These grants are restricted to individuals who are affiliated to a Canadian postsecondary institution, mainly university professors. Our data include applications to three funding programmes: *Standard * *Research Grants* (2000–2011), which can be valued at up to $250,000 over three years (success rate of 38%); *Insight Grants* (2012–2021), which can be valued at up to $400,000 over two to five years (success rate of 34%); and *Insight Development Grants* (2012–2021), which are valued between $7000 and $75,000 over one to two years (success rate of 38%).
+
+<!-- page 6 -->
+
+Our dataset includes detailed information on each application, including the submission year, language of the application, primary discipline of the project and outcome of each proposal (acceptance or rejection). Additionally, the dataset provides information on the institution, gender and age of all applicants at the time of submission. Only the main applicant was considered for analysis. Using the initial dataset, we designed several additional independent variables. At the applicant level, we calculated the total number of applications that a given candidate has submitted, and the size of the team for each project. At the university level, we further coded and included the geographical location (province), the primary working language (English, French, bilingual), the size as based on the number of students (large: 20,000+; medium: 10,000–20,000; small: fewer than 10,000; very small: fewer than 1000) and the level of prestige (categorized as U3, U12, or extra U15). Prestige categories were based on affiliation to the U15 group, an association of Canadian research universities established in the early 1990s. Within that group, we isolated three universities (U3) that are often considered – including during our interviews – to be the most prestigious in the country (McGill University, University of British Columbia, University of Toronto).
+
+Following these various steps, we conducted a binomial logistic regression to estimate the effects of the following 11 independent variables on the funding success of SSHRC applicants: gender of the main applicant, age of the main applicant, total number of SSHRC applications of the main applicant, team size of the project, funding programme, year of application, university prestige, university province, university language, university size and language of the project. Our dependent variable is a binary measure of whether a given application received funding or not.
+
+## *Interview Material*
+
+To understand the mechanisms underlying the unequal allocation of funding, these statistical analyses were complemented by semi-structured interviews with professors who had served on SSHRC evaluation committees in the last 10 years or so for the *Insight* and *Insight Development Grants* programmes. The composition of the review committees for each type of funding is publicly accessible on the SSHRC website. We were unable to identify, and thus could not conduct interviews with, committee members for the *Standard Research Grants* (2000–2011). Although this limited our capacity to qualitatively document possible evolutions of review practices across periods, our statistical analyses allowed us to test the effect of time and grant types on funding outcomes.
+
+To ensure a diversity of perspectives, we selected interviewees from different disciplines, career stages (assistant, associate and full professors), university affiliations and levels of prestige, geographical locations and socio-demographic characteristics (including gender, age and language). We sent emails to committee members where we explained our research project and invited them for an interview.
+
+Interviews were conducted in English or French depending on the interviewees' preferences. Most were held online, with a few held in person at the interviewee's university. They lasted an hour on average. All interviews were recorded, fully transcribed and anonymized. The qualitative material was thematically coded using NVivo. A total of 45 researchers were interviewed, spanning five disciplines: political science (15), sociology (13), economics (seven), history (seven) and psychology (three).
+
+<!-- page 7 -->
+
+These disciplines were selected due to their contrasting positions within the scientific field (Renisio, 2015), the diversity of their evaluative cultures (Lamont, 2009) and their divergent linguistic practices. In economics and psychology, English is unquestionably the dominant language, largely because all prestigious journals are published in English (Card and DellaVigna, 2013). Both disciplines are characterized by a quantitative orientation and formalism, which facilitate the use of a standardized language. However, while economics is highly centralized – with a strict, unified hierarchy of publications and an internationalized hiring system (Fourcade et al., 2015) – psychology remains more decentralized, relying primarily on national recruitment (Han, 2003; Khelfaoui and Gingras, 2024).
+
+In contrast, history – a 'literary' discipline employing predominantly qualitative methods to study geographically contextualized subjects – follows national patterns in both scientific production and recruitment (Heilbron and Bokobza, 2015; Mangset, 2009).
+
+Political science and sociology occupy intermediate positions. In Canada, both disciplines exhibit internal polarization (Larregue and Warren, 2024), reflected in divisions between qualitative and quantitative approaches (Platt, 2005), French- and Englishlanguage literatures (Cornut and Roussel, 2011) and tensions between national and international dynamics in publication (van Bellen and Larivière, 2024) and recruitment (Cornut et al., 2012; Khelfaoui and Gingras, 2024).
+
+The interviews focused mainly on the practical organization of the evaluation process, the criteria employed by committee members to assess funding applications and the nature of the discussions that take place at committee meetings. In particular, questions were asked about language considerations relating to the evaluation: the language in which discussions were held; any debates surrounding literature reviews of projects, notably the presence or absence of citations of non-anglophone research; and the journals valued by the evaluator and the existence of a hierarchy common to the discipline, in relation to the language of publication.
+
+## **Findings**
+
+## *The Adjudication Process*
+
+Before delving into the linguistic dimension, it is important to describe the process and organization of the SSHRC evaluations. In each of the three funding schemes analysed in this article, applications are peer-reviewed by committees. While committees for the smaller *Insight Development Grants* are usually interdisciplinary, committees for the more generous *Insight Grants* are usually focused on one or two proximate disciplines (for instance, political science and public administration, or sociology and demography).
+
+The review process itself is composed of two main steps. First, each committee member conducts a preliminary evaluation of a subset of applications, with two or three evaluators assigned per file. The distribution of applications among members – managed by a SSHRC administrator – is loosely based on their own research interests, although the average committee size (about 10 professors) makes it impossible to assign only files that align perfectly with members' expertise. As a result, committee members often evaluate applications that do not closely match their own research. While external reviews
+
+<!-- page 8 -->
+
+are also conducted for the larger *Insight Grants*, our interview material suggests they rarely play a central role in committees' assessment and decision-making.
+
+In this first stage of the review process, committee members score applications based on three evaluation criteria: Challenge, Feasibility and Capability. Challenge refers to the purpose and importance of the project; Feasibility refers to the methods and means used to carry it out; and Capability refers to the applicant's expertise, as demonstrated by their CV. The scores attributed by each reviewer are then averaged and used to establish a provisional ranking that will constitute the basis of the second step of the process.
+
+When they meet collectively to validate the final ranking, members do not typically review and discuss all applications. Unless significant discrepancies arise in individual reviews (e.g. one member scores an application very high while another gives it a low grade), top- and bottom-scored applications are usually not examined collectively. The discussions will instead focus on the applications that are close to the funding line. After discussing each of these applications – rarely for more than 15 minutes – the committee finalizes the ranking. This is left to the discretion of the committee, and no quotas are applied (whether for language, gender, institutions, etc.). The final list categorizes applications into those recommended for funding and the rest.
+
+## *Suspicions of Linguistic Bias*
+
+Theoretically, the SSHRC guarantees the bilingual setting of the evaluation process. Projects can be submitted in either English or French, and they are supposed to be evaluated by bilingual researchers who can express themselves in the language of their choice during committee discussions. Nevertheless, the minority nature of francophones across Canada1 makes it difficult to ensure complete bilingualism at all three stages (project submission, committee composition, deliberation). While Canada is home to numerous anglophone and francophone scientific institutions, universities and journals, English maintains a dominant position, as evidenced by a clear asymmetry in the citation of French and English publications, notably between researchers inside and outside Québec (Rocher, 2007).
+
+This asymmetry is reflected at the SSHRC level. Most projects are submitted in English, and this trend is increasing (Figure 1). In 2000, around 78% of all projects were submitted in English, compared with almost 86% in 2021. Figure 1 shows that the proportion of projects submitted in English is also systematically higher than the proportion of applicants who choose English as their language of correspondence. This gap, importantly, has widened over time: the proportion of applicants who use French for personal correspondence but English for their application (project and CV) has doubled in the last 20years, from around 2% to 4%.
+
+Regarding the composition of committees, francophones appear to be under-represented, with the result that French-written projects are assigned to them rather than distributed among all members. During adjudication meetings, discussions predominantly take place in English. French is sometimes used by some francophones, though with hesitation and concerns about not being fully understood by other committee members.
+
+Interviews with committee members – all of whom are professors who have previously secured SSHRC funding – reveal a variety of beliefs about the effects of language on an application's chances of success. Here, we concentrate on the field of political
+
+<!-- page 9 -->
+
+![LR.R22 fig05](../figures/LR/LR.R22_fig05.jpg)
+***Figure 1.** Evolution of the use of English in applications submitted to SSHRC, 2000–2021.*
+
+science to illustrate how contradictory perspectives can coexist within the same discipline. On the one hand, it is suspected that the limited understanding of French-language applications by anglophone reviewers may influence their evaluations, potentially skewing the ratings both negatively and positively:
+
+The person is less able to appreciate the nuances of a project in French. This is to be expected. But what's the result? There are serious consequences. Francophones are underfunded. (Political scientist, francophone university, Québec)
+
+I think that, in general, when anglophones who have some knowledge of French evaluate French applications, it's in favour of the application. Francophone applications, in my experience, tend to be more successful. Since they may not be completely fluent, they have some doubts about their understanding. So they may attack the application less than if it were in English. (Political scientist, francophone university, Québec)
+
+On the other hand, francophones are sometimes suspected of favouritism towards French-written applications:
+
+Francophone reviewers at Québec universities are the most generous scorers overall I've found [. . .] And they score very high on francophone applications too. So it's almost like there's a little francophone mafia or something. (Political scientist, anglophone university, New Brunswick)
+
+Conversely, some argue that there is a specific francophone 'evaluation culture' characterized by greater severity, which is ultimately unfavourable to projects written in French since they are more often evaluated by French native speakers:
+
+<!-- page 10 -->
+
+![LR.R22 fig06](../figures/LR/LR.R22_fig06.jpg)
+***Figure 2.** Score distribution by language.*
+
+Perhaps there's a linguistic and cultural issue. I've seen a lot of my French-speaking colleagues be much stricter in their grading [. . .] For anglophones, everything's pretty good. (Political scientist, bilingual university, Ontario)
+
+These views, whether empirically supported or not, are interesting insofar as they reveal an implicit collective consensus: one way or another, language matters in scientific evaluation. It is a form of capital. Yet, committee members do not agree on how much it matters and why: the precise value of this capital is uncertain. Our funding data allow us to assess this more precisely.
+
+## *The Benefits of Writing in English*
+
+Descriptive statistics show that success in funding is indeed correlated with language, and that English applications are slightly advantaged. Over the whole period, 35.5% of projects written in French received funding, compared with 37.6% of those written in English. Projects written in French represent 17.3% of all projects, but 16.5% of the funded ones. Moreover, as shown in Figure 2, projects written in English score on average about 0.1 points higher (out of 6) on all three evaluation criteria, with *t*-tests confirming that these differences are statistically significant.
+
+However, this correlation might be linked to the characteristics of projects submitted in French rather than to the language of application itself. Submitting a project in French reveals a connection to the francophone scientific community, associated with specific professional positions: 80% of projects filed in French are submitted by professors affiliated to francophone universities, mainly in Québec. The use of French is also more widespread among professors from smaller and less prestigious universities. While, overall,
+
+<!-- page 11 -->
+
+![LR.R22 fig07](../figures/LR/LR.R22_fig07.jpg)
+***Figure 3.** Binomial logistic regression predicting funding success in SSHRC applications, 2000–2021 (*n*=56,680).*
+
+18.7% of applicants submitted at least one project in French between 2000 and 2021, this was the case for 26.5% of those from small universities, and 41% of those from very small universities. While the top three universities (McGill University, University of British Columbia, University of Toronto) are English-speaking, variations in the use of French also reflect hierarchies within francophone universities. For instance, at the Université de Montréal, a member of the U12 group, 68% of submitted projects are in French – a lower proportion than at Université du Québec à Montréal and Université du Québec à Trois-Rivières (80% and 91%, respectively), which are not part of this group.
+
+Still, the effect of application language persists even when accounting for other factors. A binomial logistic regression was performed to predict the success of funding applications between 2000 and 2021 (Figure 3). All the variables related to the characteristics of the applicant's university – size, prestige, geographic localization – are significantly correlated to funding outcomes. Other control variables were also significantly correlated with funding success: being a woman, being relatively young and having submitted several applications reduced the chances of success, while having received
+
+<!-- page 12 -->
+
+funding in the past or applying to the *Insight Development Grants* and *Standard Research * *Grants* programmes, rather than *Insight*, increased them.
+
+When it comes to language, several interesting effects can be highlighted. First, writing in English remains slightly positively correlated with obtaining funding (OR = 1.1, 95% CI: 1.0 to 1.3). Second, once controlling for the language in which the project was written, the language of correspondence no longer has a significant effect. This may suggest that there is no direct discrimination against French-speaking researchers, but rather an undervaluation of projects written in French, due to some of their scientific characteristics not measured here, as we will discuss later. Yet, paradoxically, applicants affiliated to francophone universities have higher chances of being successful (OR = 1.3, 95% CI: 1.1 to 1.4). This seemingly contradictory result can be explained by the constitution of the group of French-speaking universities. Three universities – Université de Montréal, Université du Québec à Montréal and Université Laval – account for 68% of applications from French-speaking universities, with 25.7%, 22.5% and 19.4% of applications, respectively. These three universities, and Université de Montréal in particular, are overrepresented among funded applications: while 37.7% of all applications are funded, the success rate of Université de Montréal applicants is 44%. We can thus hypothesize that the positive effect associated with French-speaking universities is in fact partly due to the comparative advantage of these three research-intensive universities.
+
+## **Linguistic Practices Across Disciplines**
+
+## *The Variable Worth of English*
+
+In the Canadian context, as in the broader scientific field, writing in English appears to offer advantages. However, accounting for the disciplinary focus of the projects complexifies how language influences funding outcomes. First, linguistic practices vary across disciplines. In economics, the use of French for project submission is extremely rare (3%) and is associated with a much lower funding rate than projects written in English (17% versus 41%). Conversely, in criminology, over a quarter of projects are written in French, and these have a higher average funding rate than projects written in English (41% versus 33%).
+
+However, other disciplines show more contrasted situations: in history, the proportion of applications in French is relatively low (11%), but their success rate is higher than that of applications in English (46% versus 39%); in linguistics, although projects in French account for a quarter of the total, their chances of success are on average six percentage points lower.
+
+Overall, a moderate positive correlation (0.37) is observed between the percentage of French projects and the difference in funding rates between French and English projects: the more projects submitted in French in a discipline, the less the use of French seems to be penalized (Figure 4). However, this correlation is not statistically significant at the 0.05 level (95% CI: –0.05 to 0.68).
+
+Controlling for gender of the applicant, number of applications, size of the research team, as well as programme and year of submission, the statistical correlation between language and funding chances varies drastically from one discipline to
+
+<!-- page 13 -->
+
+![LR.R22 fig08](../figures/LR/LR.R22_fig08.jpg)
+***Figure 4.** Difference in funding rates between English and French applications across disciplines.*
+
+another (Figure 5). In disciplines like economics (OR = 0.23, 95% CI: 0.13 to 0.40), psychology (OR = 0.62, 95% CI: 0.46 to 0.82) or management (OR = 0.64, 95% CI: 0.49 to 0.83), projects submitted in French are significantly less likely to be successful. However, in literature (OR = 1.11, 95% CI: 0.92 to 1.34), history (OR = 1.32, 95% CI: 0.96 to 1.81) or criminology (OR = 1.42, 95% CI: 0.82 to 2.47), francophone applications seem to have a slight advantage. There is also a correlation between funding chances and the size of grants (Figure 6). In economics, for instance, successful francophone applicants get on average about $15,000 less than anglophone applicants. In criminology, this trend is reversed.
+
+Our data enable us to delve deeper and to pinpoint the source of the disparity between anglophone and francophone applications across disciplines. During the evaluation process, committee members are asked to grade applications on three main criteria: *Capability* refers to the applicant's expertise, as demonstrated by their
+
+<!-- page 14 -->
+
+![LR.R22 fig09](../figures/LR/LR.R22_fig09.jpg)
+***Figure 5.** Odds ratios of the funding success of francophone projects across disciplines (2000–2021).*
+
+CV; *Challenge* refers to the objectives and significance of the project; *Feasibility* focuses on the methods and resources used to carry it out. For the larger *Insight * *Grants*, Challenge accounts for 40% of the final score; the Feasibility of the project accounts for 20%; lastly, the CV, or Capability, makes up the last 40%. For the smaller *Insight Development Grants*, which are primarily targeting early-career scholars, the weight given to the CV is lower (30%).
+
+Figure 7 shows that writing in French is associated with lower scores for all three evaluation criteria in just over half of the disciplines, although the greatest differences in scores relate to Capability. This is particularly visible among the disciplines that significantly underfund francophone projects, where reviewers constantly attribute lower scores to the CVs of scholars who submit their applications in French. In economics or psychology, for instance, the grading of the CV is where the gap between francophone and anglophone applications is the widest. The project's scientific worth (Challenge) and its feasibility (Feasibility) seem, by contrast, less important in the devaluation of francophone applications, although some gaps persist in several disciplines.
+
+<!-- page 15 -->
+
+![LR.R22 fig10](../figures/LR/LR.R22_fig10.jpg)
+***Figure 6.** Average difference in grant size between francophone and anglophone applications, in Canadian dollars.*
+
+## *Contextual and Global Disciplines*
+
+Some of the statistical patterns observed here relate how different committees, across disciplines, interpret and implement the generic rules of evaluation communicated by the funding agency. Our interview material demonstrates that historians, for instance, focus primarily on the project's content, its methodological soundness, and feasibility (for similar observations in the US, see Lamont, 2009: 82). When they review applicants' CVs, they welcome bilingualism in publishing practices if it is associated with scientific prestige:
+
+For books, if you publish with Cambridge, Oxford, or Princeton, UCLA. In French, I'd say it's . . . No, there are some, if you publish with presses from France, Gallimard for example [. . .] [For journals] in general you'd be more impressed if someone had managed to publish in *American Historical Review*, or, I don't know, the *Annales*. (Historian, francophone university, New Brunswick)
+
+Their relative openness to bilingual publishing practices also reflects the fact that history has long been organized around strong national traditions, where legitimacy could be derived from canonical schools of thought (e.g. the French Annales school, German
+
+<!-- page 16 -->
+
+![LR.R22 fig11](../figures/LR/LR.R22_fig11.jpg)
+***Figure 7.** Difference between the average scores of francophone and anglophone applications across disciplines (2000–2021).*
+
+<!-- page 17 -->
+
+historiography). In such contexts, publishing in French can still carry significant symbolic value, especially when the research object is rooted in francophone or Canadian history.
+
+Comparatively, in economics, there is a significant focus on applicants' CVs and a more restricted understanding of which publications are valuable. The field's structure depends on clear rankings – of journals, departments, subfields and methodologies – and widely recognized indicators of quality (Fourcade et al., 2015). Consequently, committee members often utilize these standardized hierarchies to evaluate applications. Specifically, past publications in a restricted list of English-speaking journals – the 'tyranny of the top five' (Heckman and Moktan, 2020) – is considered to be the prime signal of scientific worth:
+
+There's like a set of five big journals and they are very, very hard to publish in. So if people publish in them, that will give your CV a boost that is hard to compete with. So there's a fair bit of agreement about what makes a good CV. You can ask any economist and they will give you the same five journals. It's going to be *Econometrica*. It's going to be the *Journal of Political * *Economy*. It's going to be the *American Economic Review*, the *Quarterly Journal of Economics*, and *Restud* [*Review of Economic Studies*]. Those are going to be the five. And then within the fields, there are going to be the top field journals or top two or three field journals. (Economist, anglophone university, Québec)
+
+This orientation reflects the dominance of US universities since the mid-20th century, which has reinforced English as the field's sole legitimate language. The situation of economics is similar to that found in psychology, where the h-index and journal rankings also favour publications in English-speaking journals:
+
+We are really in a disciplinary field where if we do not publish in English, even at the level of promotion, tenure, it is like our work has no impact. (Psychologist, francophone university, Québec)
+
+Despite differences in how much importance is given to the CV versus the project, historians, psychologists and economists do share a similar perspective on research dissemination. When they review applicants' projects, they try to gauge the likelihood that the results will be published in respected academic venues, be it in the form of a book in a prestigious press (historians) or an article in a top journal (economists). The difference is that historians, to some extent, espouse contextual hierarchies, leaving space to publications in French:
+
+I mean, if you're doing Canadian history, especially Québec, French America, the *Revue * *d'histoire de l'Amérique française*, it only publishes in French. And it's probably the best in the field. So, I don't think, just because a journal is published in French, that it's any less good. (Historian, anglophone university, Alberta)
+
+Hence, for historians, whether a given venue is valuable depends on the research's topic and geography. As one interviewee underlined, 'there's a recognition that [. . .] there's two different publishing spheres': one in French and one in English (historian,
+
+<!-- page 18 -->
+
+anglophone university, Ontario). Conversely, economists, as part of a 'global profession' (Fourcade, 2006), only recognize one set of prestigious journals, and they all are English-speaking.
+
+Most disciplines are torn between these two poles of contextual and absolute hierarchies. These tensions mirror the dual intellectual heritage of disciplines such as sociology and political science. On the one hand, their roots in strong national traditions (notably French sociology) continue to legitimate non-English publications; on the other hand, pressures towards internationalization and journal rankings push scholars closer to the globalized model exemplified by economics. This explains why the views expressed by committee members tend to be more varied in those disciplines. To some extent, this overlaps with epistemological styles, including one's positioning on the quantitative–qualitative methodological spectrum. For instance, political scientists who specialize in quantitative approaches tend to recognize the existence of top journals, while leaving some room for alternative publishing patterns if justified by the 'localized' nature of the topic:
+
+The journal's ranking is omnipresent, with a certain flexibility. A top journal is a top journal. It's the fireworks, that's obvious. There are very, very few of them, but when there are, that can explain the fact that there are just one or two [articles on someone's CV]. And for me, a top journal, in terms of work, is worth like five to six times the time it takes to write an article for an average journal. [. . .] When it comes to journals that I don't know, I go and check. *Politique * *et Sociétés* [i.e. the main political science journal in Québec], for me, it's not excellent, but it's good or very good. But I don't punish as much as its actual ranking when there's an interesting fit. If the person works on elections in Québec, and publishes in *Politique et Sociétés*, that seems perfectly fine to me. If the article is good, it's fine to me. So there's a ranking, and also the research object. (Political scientist, francophone university, Québec)
+
+Although differences with political scientists can be tenuous, sociologists less frequently recognize the existence of rankings. They do believe that some journals are particularly prestigious, usually because they consider that it takes more work to publish in selective venues like the *American Sociological Review*. Still, most sociologists believe that CVs should not be, and are effectively not, evaluated on these grounds:
+
+[Language of publication] was never an issue, in my opinion. As far as I can remember, I've never seen anything like it. We don't judge journal types either. There's been a kind of . . . I'd say, a space of trust is created. We don't verify that people have published in blind journals, with blind reviews. We take it for granted that people are honest and present their CV as it is. (Sociologist, francophone university, Alberta)
+
+To be sure, linguistic issues are not restricted to the CV. They can sometimes surface during the evaluation of the project, especially when it comes to the literature that is discussed and mobilized in the proposal. In many ways, English has become symbolically attached with the idea of internationalization. Conversely, some reviewers may perceive the inadequate inclusion of English-language sources as an indication of insularity among francophone applicants:
+
+<!-- page 19 -->
+
+There's a certain profile of researchers trained almost exclusively in Québec, in Québec and in France, who have had no international experience, who read little international literature in English. Sometimes, and this isn't a criticism, but the result of this is that there are certain research questions whose treatment becomes rather hermetic. And sometimes, it's surprising to see that there's a whole literature by, say, German, Swedish, American and Mexican researchers in English on this issue, which is completely ignored by researchers who work mainly in French with francophone literature. (Sociologist, francophone university, Québec)
+
+As this example illustrates, even in disciplines that do not endeavour to become as globalized as economics, it has become virtually impossible to work without giving centrality to English, if only to connect with researchers from other non-anglophone areas. More broadly, these disciplinary differences point to the weight of traditional academic centres. Fields that were historically structured around national schools of thought, such as history or sociology, still leave some space for non-English publications to retain symbolic capital, while disciplines like economics or psychology, long dominated by US institutions, display much stronger alignment with English-only standards of excellence.
+
+## **Discussion and Conclusion**
+
+This article analyses how language functions as a specific form of capital for scholars and researchers, thus actively shaping academic careers and the production of knowledge in social sciences and humanities. While our study confirms that linguistic inequalities impact access to funding in the social sciences and humanities in Canada, findings suggest that these differences remain relatively small at the global level. SSHRC data indicate that 35.5% of projects submitted in French received funding, compared with 37.6% of those submitted in English. On average, English-written applications score slightly higher across all evaluation criteria. Our logistic regression analysis confirms that language remains a significant factor even when controlling for other variables, with applications in English having a higher probability of success (OR = 1.1, 95% CI: 1.0 to 1.3).
+
+Yet, examining disciplinary variations provides a more nuanced understanding of this disparity. The prevalence of English varies considerably across fields: in economics, it is nearly universal, while a quarter of projects in sociology are submitted in French. Importantly, our findings reveal that the advantage associated with English is only weakly correlated with the proportion of projects submitted in this language. For instance, despite French being relatively uncommon in history (around 10% of projects), its use does not seem to reduce funding chances (OR = 1.32, 95% CI: 0.96 to 1.81). In contrast, French is more frequently used in psychology (nearly 15% of projects) but is significantly disadvantaged (OR = 0.62, 95% CI: 0.46 to 0.82).
+
+While some observers attribute this disparity to evaluators' difficulty in assessing projects written in French, our results suggest that in disciplines where the penalty is particularly pronounced, the primary issue lies in the evaluation of applicants' CVs. Certain disciplines, such as history, accommodate contextual knowledge hierarchies, allowing room for publications in French. Others, like economics and psychology, rely predominantly on journal rankings, favouring publications in English-language journals.
+
+<!-- page 20 -->
+
+Sociology and political science occupy an intermediate position, navigating between these contextual and absolute knowledge hierarchies (Larregue and Nielsen, 2024). This shows that disciplines retain significant autonomy in defining and evaluating scientific worth, thereby reshaping the value attributed to linguistic capital.
+
+This is important as linguistic capital and its connection to publishing hierarchies may be an overlooked factor in studies of academic inequalities. Quantitative studies, in particular, often assume that the sheer number of publications captures one's research output, and thus, scientific performance (see, for instance, Bol et al., 2018). Our interview material raises serious questions about such assumptions. None of our interviewees in economics, history, political science, psychology or sociology reported relying solely on publication counts to evaluate applicants' CVs. Even in disciplines where quantitative indicators of performance may be more prevalent, not all publications are deemed equal. In economics, for instance, publishing an article in a top five journal is worth multiple publications in less prestigious venues. Conversely, an article written in French (or any other language), even if indexed in Scopus or the Web of Science, would probably not be considered like it would in sociology or history. It is thus not enough to control for scientific output to get closer to the 'actual' roots of inequalities in science.
+
+Conversely, strictly qualitative approaches might be ill-equipped to grasp the full extent of inequalities and hierarchies within science. In her classic ethnographic study, Lamont (2009: 5) underlined that 'Evaluators are most concerned with disciplinary and institutional diversity, that is, ensuring that funding not be restricted to scholars in only a few fields or at top universities'. However, committee members' explicit commitment to diversity does not necessarily lead to increased funding opportunities for applicants whose CV does not fully correspond to disciplinary expectations. A disconnect may exist between individual reviewers' meritocratic beliefs and the actual outcome of evaluations. The hierarchical nature of scientific publishing, and its close connection with linguistic practices and capital, calls for a more fine-grained and methodologically balanced approach that is attentive to evaluation practices across disciplines.
+
+## **Acknowledgements**
+
+We are very grateful to Fernanda Beigel and Vincent Larivière for their comments and suggestions.
+
+## **Ethics statement**
+
+The dataset used in this article was obtained through a data sharing agreement with the SSHRC. Ethical approval was obtained at Université Laval.
+
+## **Funding**
+
+The authors disclosed receipt of the following financial support for the research, authorship, and/ or publication of this article: Julien Larregue received the financial support of the SSHRC (Social Sciences and Humanities Research Council of Canada) (grant number 435-2023-0882) and FRQSC (Fonds de recherche du Québec – Société et culture) (grant number 328913).
+
+<!-- page 21 -->
+
+## **ORCID iDs**
+
+Julien Larregue [https://orcid.org/0000-0003-4319-1129](https://orcid.org/0000-0003-4319-1129)
+
+Alice Pavie [https://orcid.org/0009-0001-7073-7660](https://orcid.org/0009-0001-7073-7660)
+
+## **Note**
+
+1. In 2021, Francophones represented 22% of the Canadian population and 3.5% of the population of Canada outside Québec, according to Statistics Canada census data.
+
+## **References**
+
+- Abend G, Petre C and Sauder M (2013) Styles of causal thought: An empirical investigation. *American Journal of Sociology* 119(3): 602–654.
+- Amano T, Ramírez-Castañeda V, Berdejo-Espinola V, et al. (2023) The manifold costs of being a non-native English speaker in science. *PLoS Biology* 21(7): e3002184.
+- Beigel F and Digiampietri L (2023) The battle of the languages in national publishing a comparative study of the publishing performance by CNPQ (Brazil) and Conicet (Argentina). *Tempo * *Social* 34: 209–230.
+- Beigel F and Gallardo O (2021) Productividad, bibliodiversidad y biolingüismo en un corpus completo de producciones científicas. *Revista Iberoamericana de Ciencia, Tecnología y * *Sociedad-CTS* 16(46): 41–71.
+- Beigel F, Almeida AM and Piovani JI (2023) Linguistic capital and international circulation: A comparative study between Argentina, Brazil and Chile. *Tempo Social* 34: 17–32.
+- Bol T, de Vaan M and van de Rijt A (2018) The Matthew effect in science funding. *Proceedings * *of the National Academy of Sciences* 115(19): 4887–4890.
+- Bourdieu P (1977) L'économie des échanges linguistiques. *Langue Française* 34: 17–34.
+- Calaresu E (2011) The declining status of Italian as a language of scientific communication and the issue of diglossia in scientific communities. *International Journal of the Sociology of * *Language* 2011(210): 93–108.
+- Card D and DellaVigna S (2013) Nine facts about top journals in economics. *Journal of Economic * *Literature* 51(1): 144–161.
+- Cardinal L, Lang S and Sauvé A (2008) Les minorités francophones hors Québec et la gouvernance des langues officielles: Portrait et enjeux. *Francophonies d'Amérique* 26: 209–233.
+- Casanova P (2015) *La langue mondiale. Traduction et domination*. Paris: Seuil.
+- Cornut J and Roussel S (2011) Un champ et deux univers ? Les francophones dans l'étude de la politique étrangère canadienne. *Politique et Sociétés* 30(1): 139–164.
+- Cornut J, Simard C, Jegen M, et al. (2012) L'embauche dans les départements de science politique francophone au Québec et au Canada. Un bilan des années 2000–2010. *Politique et Sociétés* 31(3): 87–108.
+- Cui J, Qiu C and Wang Z (2023) Publishing in English or Chinese: A qualitative analysis of Chinese researchers' academic language choice. *Frontiers in Psychology* 14: 1249857.
+- de Swaan A (2013) *Words of the World: The Global Language System*. Cambridge: Polity.
+- Ferguson CA (2000) Diglossia. In: Li W (ed.) *The Bilingualism Reader*. London: Routledge, 58–73.
+- Fourcade M (2006) The construction of a global profession: The transnationalization of economics. *American Journal of Sociology* 112(1): 145–194.
+- Fourcade M, Ollion E and Algan Y (2015) The superiority of economists. *Journal of Economic * *Perspectives* 29(1): 89–114.
+
+<!-- page 22 -->
+
+Fox CW, Meyer J and Aimé E (2023) Double-blind peer review affects reviewer ratings and editor decisions at an ecology journal. *Functional Ecology* 37(5): 1144–1157.
+
+- Fray P and Lebaron F (2022) L'anglais, langue de la science et instrument de domination symbolique. Le cas des sciences économiques. *Savoir/Agir* 61–62(2): 89–109.
+- Gingras Y (1984) La valeur d'une langue dans un champ scientifique. *Recherches Sociographiques* 25(2): 286–296.
+- Gordin MD (2015) *Scientific Babel: How Science Was Done Before and After Global English*. Chicago, IL: University of Chicago Press.
+- Han S-K (2003) Tribal regimes in academia: A comparative analysis of market structure across disciplines. *Social Networks* 25(3): 251–280.
+- Heckman JJ and Moktan S (2020) Publishing and promotion in economics: The tyranny of the top five. *Journal of Economic Literature* 58(2): 419–470.
+- Heilbron J and Bokobza A (2015) Transgresser les frontières en sciences humaines et sociales en France. *Actes de la recherche en sciences sociales* 210(5): 108–121.
+- Heilbron J, Boncourt T, Schögler R, et al. (2017) *European Social Sciences and Humanities (SSH) * *in a Global Context Preliminary findings from the INTERCO-SSH Project*. CNRS. Available at: [https://shs.hal.science/halshs-01659607/ ](https://shs.hal.science/halshs-01659607/)(accessed 30 December 2025).
+- Järvinen M and Mik-Meyer N (2025) Gaming and performance metrics in higher education: The consequences of journal lists. *Sociology* 59(4): 725–742.
+- Khelfaoui M and Gingras Y (2024) Dynamique et structure du marché de l'emploi universitaire québécois dans les disciplines des sciences sociales, 1900–2020. *Recherches Sociographiques* 65(1): 37–66.
+- Lamont M (2009) *How Professors Think: Inside the Curious World of Academic Judgment*. Cambridge, MA: Harvard University Press.
+- Larivière V (2018) Le français, langue seconde? De l'évolution des lieux et langues de publication des chercheurs au Québec, en France et en Allemagne. *Recherches Sociographiques* 59(3): 339–363.
+- Larregue J and Nielsen MW (2024) Knowledge hierarchies and gender disparities in social science funding. *Sociology* 58(1): 45–65.
+- Larregue J and Warren J-P (2024) Une discipline clivée: la sociologie au Québec. *Recherches * *Sociographiques* 65(1): 7–14.
+- Mangset M (2009) *The discipline of historians: A comparative study of historians' constructions * *of the discipline of history in English, French and Norwegian universities*. Thèse de doctorat, Institut d'études politiques, Paris, France.
+- Marcoux R (2019) Deux solitudes ou One and a half ? La langue des articles cités en bibliographie comme illustration des pratiques scientifiques en sciences humaines au Canada et au Québec. *Recherches Sociographiques* 59(3): 435–449.
+- Phillipson R (1992) *Linguistic Imperialism*. Oxford: Oxford University Press.
+- Platt J (2005) La spécificité du Québec et du Canadadans les méthodologies en sociologie. *Sociologie et sociétés* 37(2): 91–118.
+- Pontille D (2003) Authorship practices and institutional contexts in sociology: Elements for a comparison of the United States and France. *Science, Technology, & Human Values* 28(2): 217–243.
+- Pontille D and Torny D (2010) Revues qui comptent, revues qu'on compte: Produire des classements en économie et gestion. *Revue de la régulation. Capitalisme, institutions, pouvoirs* 8: 1–32.
+- Powell K (2012) Publishing: Foreign tongues. *Nature* 487(7405): 129–131.
+- Renisio Y (2015) L'origine sociale des disciplines. *Actes de la recherche en sciences sociales* 210(5): 10–27.
+
+<!-- page 23 -->
+
+Rocher F (2007) The end of the "two solitudes"? The presence (or absence) of the work of Frenchspeaking scholars in Canadian politics. *Canadian Journal of Political Science/Revue cana**dienne de science politique* 40(4): 833–857.
+
+- Valentino L (2021) The heterarchy of occupational status: Evidence for diverse logics of prestige in the United States. *Sociological Forum* 36(S1): 1395–1418.
+- van Bellen S and Larivière V (2024) Les revues canadiennes en sciences sociales et humaines: Entre diffusion nationale et internationalisation. *Recherches Sociographiques* 65(1): 15–35.
+- Vila FX (2021) The hegemonic position of English in the academic field. *European Journal of * *Language Policy* 13(1): 47–73.
+- Warren J-P (2014) The end of National Sociological Traditions? The fates of sociology in English Canada and French Quebec in a globalized field of science. *International Journal of Canadian * *Studies* 50: 87–108.
+
+Julien Larregue is Associate Professor at the Department of Sociology, Université Laval. His research interests revolve around the scientific and legal fields. He has published a book on the revival of biocriminology (*Hereditary: The Persistence of Biological Theories of Crime*, Stanford University Press, 2024).
+
+Alice Pavie is Assistant Professor at the Centre de Recherche en Éducation de Nantes, Nantes Université. She holds a doctorate in sociology from the Aix-Marseille Université. Her research focuses on elite school admissions and research funding, with the aim of contributing to the understanding of social and epistemic inequalities within the scientific field.
+
+**Date submitted **March 2025 **Date accepted **November 2025

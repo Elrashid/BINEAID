@@ -1,0 +1,396 @@
+<!-- LR.R24 | source: papers_json/LR.R24/ -->
+
+The current issue and full text archive of this journal is available on Emerald Insight at: https://www.emerald.com/insight/2046-9012.htm
+
+## Determinants of research performance of university academics and the moderating and mediating roles of organizational culture and job crafting
+
+Determinants of research performance
+
+711
+
+Received 25 November 2021 Revised 19 March 2022 4 April 2022 Accepted 21 April 2022
+
+Roziah Mohd Rasdi, Siti Zainab Tauhed, Zeinab Zaremohzzabieh and Sevedali Ahrari
+
+Department of Professional Development and Continuing Education, Universiti Putra Malaysia, Serdang, Malaysia
+
+## Abstract
+
+**Purpose** – This paper aims to identify the role of organizational and individual factors in predicting the research performance of academics when job crafting is a mediator variable and organizational culture is a moderating variable.
+
+**Design/methodology/approach** – This study was conducted by collecting responses from academics at five Malaysian research-based universities. The sample size was 273. Standard questionnaires were used to collect the data. The data were analyzed using partial least squares structural equation modeling.
+
+**Findings** – The most significant predictors of research performance were organizational culture, individual effort and professional development, whereby job crafting was most optimally predicted by work engagement and transformational leadership. While organizational culture moderated the relationship between transformational leadership and research performance, the mediating role of job crafting was insignificant between work engagement and research performance.
+
+**Research limitations/implications** – The findings have important implications for human resource development practitioners (HRD) in terms of improving overall academic research performance. Practical interventions are suggested to assist academics in enhancing their performance. This study highlights how academic performance can be managed more effectively.
+
+**Originality/value** — The findings extend the HRD literature in higher education and offer a framework that enhances the understanding of the organizational and individual factors that influence academics' research performance within a specific context of research universities in a non-Western context.
+
+**Keywords** Professional development, Transformational leadership, Organizational culture, Work engagement, Job crafting, Research performance of academics, Individual effort
+
+Paper type Research paper
+
+## Introduction
+
+In the past decade, organizations across all sectors have been facing globalization challenges of a multitude of complexities, including demographic shifts and higher expectations of performance (El-Kot and Leat, 2008). To survive current market demands, the management of human capital is vital to establish a competitive advantage to enhance organizational resilience. Therefore, organizations are called to manage their human resources more
+
+![LR.R24 fig01](../figures/LR/LR.R24_fig01.jpg)
+
+European Journal of Training and Development Vol. 47 No. 7/8, 2023 pp. 711-728 © Emerald Publishing Limited 2046-9012 DOI 10.1108/EJTD-11-2021-0192
+
+<!-- page 2 -->
+
+effectively, with organizational performance as a key area for development [(Fiorito](#page-14-0) et al., [2007](#page-14-0)). The ongoing debate in the higher education (HE) sector is the impact of global challenges on the performance of research academics in universities. Researchers have highlighted the adaptability of universities' faculty members around the world; despite the changing landscape, academics have not only managed to preserve a high sense of autonomy and professional identity but are also highly satisfied and committed to their jobs [(Teichler](#page-16-0) et al., 2013).
+
+The mentioned global changes are significantly pronounced in Malaysia and in certain non-Western countries. However, its research performance at both private and public universities is still considered low in the region (Janib et al.[, 2021](#page-14-1); [Yaakub and](#page-17-0) [Mohamed, 2019)](#page-17-0). [Chandran](#page-13-1) et al. (2021) argued that this is because of the inability to realize and convert research resources efficiently into potential outputs in the form of publications, patents and income generation. Therefore, current sluggish research productivity among academics underscores the important role of research universities' leaders in understanding the individual and organizational factors that influence and motivate active research academics. As the current literature remains limited, it is extremely essential to conduct a research on the determinants of research productivity of academics in research universities in Malaysia.
+
+Many institutions of HE understand that individual performance is not dependent on solid resources deployed. On the contrary, it is dependent on the individual's knowledge resources, and this becomes an organization's most prized asset ([Masa](#page-15-0)'deh et al.[, 2016)](#page-15-0). According to [Kamali (2014)](#page-14-2), individual performance is highly dependent on the organization's leaders. Therefore, organizations become performance leaders when the focus is placed on the outcomes of leadership styles. Several research findings support the close association between transformational leadership and favorable outcomes, which is vital to organizational function at the individual level, of performance ([Wan Omar and Hussin, 2013)](#page-17-1). Despite robust research on individual performance in the literature of transformational leadership ([Avolio and Yammarino,](#page-13-2) [2013](#page-13-2)), research on predicting academics' higher levels of research performance remains limited.
+
+Other aspects to consider for academics include improvement of research performance through work engagement and job crafting. Typically, workforces initiate job crafting behavior, but researchers have acknowledged that organizations and managers can stimulate such crafting behaviors too ([Wrzesniewski](#page-17-2) et al., 2013). Additionally, studies have highlighted beneficial organizational outcomes as a result of job crafting, namely, individual performance [(Rudolph](#page-16-1) et al., 2017). Associated with job crafting, work engagement is a positive mental state that seeks fulfillment in the workplace. It manifests in various behaviors, such as vigor, dedication and absorption [(Schaufeli, 2012)](#page-16-2). Moreover, it was observed that a highly engaged staff may improve productivity, creativity and bottom-line results, which can lead to cost reduction in the field of hiring and help to retain highly talented employees ([Bhatnagar, 2008](#page-13-3)). Therefore, there is a need to examine if job crafting mediates the path of work engagement and performance of academics. In tandem, leaders of organizations come into play as they authorize freedom and provide resources to stimulate crafting behaviors among employees (Wang et al.[, 2017)](#page-17-3). Therefore, the importance of transformative leadership as an antecedent of job designing behavior should not be overlooked.
+
+In terms of organizational factors that might improve the research performance of academics, organizational culture has been identified as not only a vital variable in improving organizational performance but also in improving university innovation
+
+<!-- page 3 -->
+
+activities. Therefore, there is a need to consider the role of organizational culture in Malaysian universities. Although the value of organizational culture is widely researched and recognized in Western countries (Golden and Shriner, 2019), there is a notable gap in the study of its effect on the interactions between transformational leadership and research performance of university academics in Asian cultures. Thus, researchers of this study attempted to provide empirical evidence of the advantages of organizational culture on the research performance of Malaysian academic staff. Investigation was conducted to examine whether organizational structure operate as a moderator in the association between transformational leadership and research performance.
+
+Furthermore, individual factors have received attention in most past studies as one of the aspects that contribute toward research performance. Among the individual factors are individual effort and professional development. Baer et al. (2015) asserted that the study of employee performance in organizations should also address individual efforts because an academician's effort involves concentration and strategizing resources toward achieving a goal. On the other hand, a lack of individual effort translates into poor management and a loss of resources. Creswell (1985) observed a healthy work cycle among research academics, whereby as their work gets published and cited by peers, they get a boost of self-confidence and motivation, which results in them investing more effort into their works. Although researchers found that individual effort significantly influences job performance (Krishnan et al., 2002), this variable remains underexamined in the context of academic staff performance. Organizations are also in need of human resource professionals in their workplace because developing skills, qualities and competencies define employee outcomes. Previous researchers have showed that professional development has a significant impact on job performance (Menguc et al., 2013). Because of its global implication, various studies have sought to explain the factors that influence academics' research performance (Kassim et al., 2019; Said et al., 2015; Teoh and Kee, 2020). To the best of knowledge of this study's researchers, there are no earlier studies to date that investigate all the above-mentioned factors in a single conceptual framework to understand the research performance of academics. Consequently, the current research attempted to fill a gap in the literature on the impact of individual and organizational variables on the university academics' research performance.
+
+## Literature review
+
+Human resource development and research performance
+
+The most important role of research universities, apart from teaching, is the development of new knowledge and research work. This cannot be achieved without proper planning of human resource development (HRD) (Pausits, 2015). Although HRD and human resource management (HRM) practices overlap, HRM includes practices aimed at acquiring and maintaining human resources, whereas HRD is concerned with the individual and intellectual development of each employee and seeks to link their growth with the aims of organization (Werner, 2014). However, practically every organization and its employees face the challenge of meeting the ongoing demand for high performance (Swanson and Holton, 2001). Given that HRD's primary goal is to improve individual and organizational performance (Swanson and Holton, 2001), failing to address this issue could limit HRD's ability to create a healthy and productive workplace. Because of these considerations, it is suggested that specific psychological theories be chosen to define HRD theory. Using the job demands—resources (JD—R) model as one of the dominant work psychological models may result in valuable study findings that HRD professionals can employ to address the issue
+
+<!-- page 4 -->
+
+more holistically (Moon et al.[, 2020](#page-15-5)). JD–R is a helpful model for analyzing organizational productivity, which is a major concern among HR professionals.
+
+## Theoretical framework and hypotheses
+
+In this study, JD–R model was used to determine which factors were linked to the research performance among Malaysian academics in research universities. The JD–R depicts dynamic interactions between a variety of job demands and resources, which have an impact on staff performance [(Bakker and Demerouti, 2008)](#page-13-6). The strength of this model lies in its ability to explain motivational considerations on the effect of resources in shaping employees' perspectives in performing their work. Previous research has revealed that employees' job resources have an impact on their working conditions, which can then affect their performance on both organizational and individual levels ([Lee, 2019)](#page-15-6). According to JD–R model, interventions that encourage participants to optimize their job demands and resources can also increase work engagement and performance. Job crafting interventions, according to [Van Wingerden](#page-17-5) et al. (2017), can be used to adjust and enhance the demands and resources in employees' work environments, enabling them to attain their work-related objectives.
+
+In line with the JD–R's motivational process, it is also debated that transformational leadership nurtures job resources, which are later linked to increased work outcomes [(Hawkes](#page-14-4) et al., 2017). Another study showed that there is an impact of organizational culture on the association between job resources and employees' outcomes ([Lopez-Martin and Topa,](#page-15-7) [2019](#page-15-7)). Acknowledging the JD–R model and related literature, following three sets of potential factors were developed in this study to provide insights into the relationships between the influencing factors on academics and research performance:
+
+- the relationships between individual factors (work engagement, job crafting, individual effort and professional development) and organizational factors (organizational culture and transformational leadership) with the academic research performance;
+- the mediating effect of job crafting on the relationship between work engagement and research performance; and
+- the moderating effect of organizational culture on the transformational leadership– research performance relationship.
+
+## Work engagement, job crafting and research performance
+
+Work engagement is described as a variety of mental states that consist of independence, persistence, pervasiveness, positivity and fulfillment toward work-related outcomes, in affective–cognitive and motivational–psychological states (Lee et al.[, 2021)](#page-15-8). Work engagement determines how employees immerse themselves in their work, whether they feel stimulated, energetic and devoted (the vigor component), pursue work with a sense of importance and meaning (dedication) and are engrossed with full concentration (absorption) [(Bakker, 2008)](#page-13-7). Meanwhile, many researchers found connection between work engagement and job crafting (Kooij et al.[, 2017;](#page-15-9) Oprea et al.[, 2019;](#page-15-10) [Pari and Azalea, 2020](#page-15-11)). [Tims and](#page-16-6) [Bakker (2010)](#page-16-6) defined job crafting as employees undertaking chances to seek an equilibrium balance between job demands, resources, abilities and needs. Although employees may intensify work engagement via job crafting by job demands and resources optimization, any direct relationship between work engagement in an academic context and job crafting has not been identified. Consequently, in this study, it was hypothesized that:
+
+<!-- page 5 -->
+
+H1. Work engagement will be positively related to job crafting among academics.
+
+Wrzesniewski and Dutton (2001) posited that job crafting essentially unleashes a double-edged sword effect in organizations. When job creation is done correctly, it generates pleasant working conditions that lead to improved performance. Conversely, when poorly done, employees may either not focus on work effort or pursue it for self-interest, neglecting organizational goals. Lee and Lee (2018) discovered a significant link between job crafting and performance in the HRD sector after evaluating 28 empirical researches. In Malaysia, Esmaeili *et al.* (2019) found that job crafting has a significant impact on job performance. Therefore, it was hypothesized that:
+
+H2. Job crafting will be positively related to the research performance of academics.
+
+In addition, a previous study acknowledged work engagement as a mediator in the job crafting–employee performance relationship (Pari and Azalea, 2020). However, the mediating effect of job crafting has received little attention in the past studies. Interestingly, a recent study demonstrated how job crafting mediates the path of employees' HRM perceptions and work engagement (Meijerink et al., 2020). A previous meta-analysis of 122 studies demonstrated that job crafting has significant associations with engagement, satisfaction and performance (Robledo et al., 2019). The JD–R model predicted that the job crafting behavior of employees yields greater work engagement and job performance levels (Petrou et al., 2012). Therefore, it was expected in this study that work engagement would boost employee performance via enhancement of behavior of job crafting. Therefore, it was hypothesized that:
+
+H3. Job crafting has a mediating role between work engagement and the research performance of academics.
+
+Transformational leadership, job crafting and research performance
+
+Transformational leadership is defined as a leadership style that motivates employees to achieve corporate goals by changing their beliefs and customs (Yukl, 2013). This leadership style allows leaders to realign employee behavior toward organizational goals, steering employees away from self-interest goals. Many empirical studies have found links between transformational leadership and organizational outcomes. Verbree et al. (2015) demonstrated that leadership has a strong association with organizational performance among health and biomedical research group leaders who are working at university medical centers or public biomedical research organizations in The Netherlands. Alsayyed et al. (2020) illustrated that transformational leadership affects organizational performance significantly, along with idealized influence and intellectual stimulation, at the University of Jordan. Therefore, it was hypothesized that:
+
+H4. Transformational leadership will be positively related to the research performance of academics.
+
+As stated by Hetland *et al.* (2018), transformational leadership is positively linked to job crafting, and that transformational leaders may also initiate job crafting behavior among their employees daily. Naeem *et al.* (2020) further illustrated that transformational leadership is positively related to increasing job resources. Naeem *et al.* (2020) explained the underlying workings of transformational leadership and job crafting among pharmaceutical
+
+<!-- page 6 -->
+
+## EJTD 47,7/8
+
+716
+
+salespeople in Pakistan. They predicted that job-based psychological ownership plays a mediating role in the link between transformational leadership and job crafting. According to Buil et al. [(2019),](#page-13-10) transformational leadership transferred more power to subordinates, which may relate to decreased job demand behavior at work. Building on these findings, it was hypothesized that:
+
+H5. Transformational leadership will be positively related to job crafting among academics.
+
+Transformational leadership, organizational culture and research performance
+
+Organizational culture is defined as a set of expectations, experiences, philosophy and values that shape an employee's behavior, identity, inner workings, external interactions and future expectations. Previous research indicated that organizational culture affects any aspect of an organization and impacts various organizational outcomes, such as performance ([Al-Musadieq](#page-12-0) et al., 2018). As stated by [Hemmelgarn](#page-14-6) et al. (2006), culture shapes employees' attitudes and behaviors at work and in the workplace, impacting the performance of organizations. [Potnuru](#page-16-9) et al. (2018) found that organizational culture has a moderating effect on the linkages between team building, employee empowerment and employee competencies. In addition, [Jaskyte (2004)](#page-14-7) revealed that investigating the relationship between transformational leadership and organizational culture is vital for understanding how leadership and innovation performance are associated. Therefore, it was hypothesized that:
+
+- H6. Organizational culture will be positively related to the research performance of academics.
+- H7. Organizational culture will have a moderating effect on the relationship between transformational leadership and research performance of academics.
+
+## Individual effort and research performance
+
+Individual effort has been considered a reliable performance predictor. The effort represents the easily operationalized actions of employees that denote the number of resources used for the work [(Yeo and Neal, 2004)](#page-17-9). It simply means that most employees consider high levels of effort are achieved through hard work [(Jordan](#page-14-8) et al., 2019). A significant and positive link between work and effort performance or contribution has been observed in several studies (Byrne et al.[, 2005)](#page-13-11). A research by [Hardré](#page-14-9) et al. (2011) also found that research effort influences the research performance of academics in research universities in the United States. Subsequently, it can be stated that there is strong support for the path of work effort to performance. Therefore, it was hypothesized that:
+
+H8. Individual effort will be positively related to the research performance of academics.
+
+## Professional development and research performance
+
+HE has an ambivalent relationship with professional development ([Clegg, 2003)](#page-13-12). The objective of professional development is to build upon current knowledge and skills, held up by the academic's value–attitude pillars that define the scholarly identity [(Frick and Kapp,](#page-14-10) [2009](#page-14-10)). This is an organizational-based construct where responsibility is placed on the organization, rather than the individual, in terms of needs, purposes and provision of
+
+<!-- page 7 -->
+
+development programs. Harris and Ramos (2013) extended this construct by defining it as taking stock of work-related knowledge, skills and learning for future career progression. Shahzad *et al.* (2008) found that effective professional development helped HE employees showcase a high level of work performance. Therefore, it was hypothesized that:
+
+H9. Professional development will be positively related to the research performance of academics.
+
+The study model and hypotheses based on the previous review are depicted in Figure 1.
+
+## Materials and methods
+
+Participants and procedures
+
+This research was carried out in Malaysia. A stratified random sampling procedure was carried out to select the academics as respondents from five research universities. The three academic posts selected were: lecturer/senior lecturer, associate professor and professor; whereas the five research universities were: Universiti Malaya, Universiti Kebangsaan Malaysia, Universiti Putra Malaysia (UPM), Universiti Sains Malaysia and Universiti Teknologi Malaysia.
+
+The ethics committee of UPM for research involving humans approved the study [Ref: UPM/TNCPI/RMC/1.418.2 (JKEUPM)]. The research objectives were explained to the respondents. The respondents' participation in this study was anonymous and voluntary, and they were allowed to withdraw from the study at any time. All respondents gave their written informed consent, which was kept in record. Researchers used the "drop-and-pick later" technique to distribute and collect the questionnaires. Next, stratified random sampling was used to target academics who had worked up to seven years in the research university. They were classified according to their positions.
+
+A total of 273 respondents were recruited by stratified random sampling technique (145 males and 128 females) with ages ranging from 30 to above 61 years (SD = 7.55, M = 46.97). Regarding academic positions, there were 25 academic tutors (9.2%), 136 senior lecturers (49.8%), 56 associate professors (20.5%) and 56 professors (20.5%). Based on the
+
+![LR.R24 fig02](../figures/LR/LR.R24_fig02.jpg)
+***Figure 1.** Study framework*
+
+<!-- page 8 -->
+
+respondents' experience levels, 78 respondents had experience of 3–9 years (28.6%), 68 had experience of 10–16 years (25%), 69 had experience of 17–23 years (25.40%), 36 respondents had experience of 24–30 years (13.10%) and 22 had 31–37 years of experience (7.90%). The research fields were humanities, technology, psychology, natural science and economics which were represented by 73 (26.7%), 29 (10.6%), 35 (12.8%), 59 (21.6%) and 77 (28.3%) respondents, respectively.
+
+## Measures
+
+Apart from the measure of research performance of academics, respondents were asked to respond to all the measures using a five-point Likert-like scale ranging from strongly disagree to strongly agree.
+
+Research performance. Academics' research performance was defined and quantified by six research outputs in a year, consisting of the number of publications, funds obtained as a principal researcher and conference presentations. Each item was counted individually. The scale was demonstrated in a previous study to be valid [(Jung, 2012)](#page-14-12). The reliability for this scale was 0.80.
+
+Transformational leadership. A ten-item scale, developed by [Carless](#page-13-13) et al. (2000), was used in this study in which seven components were included, namely, being charismatic, expressing the vision, developing personnel, offering assistance, empowering staff, being inventive and leading by example. Sample items are "It conveys a clear and hopeful image of the future" and "Encourage team members' trust, engagement, and collaboration." A prior study found that the measure is acceptable for use in HE in South Korea (Kim et al.[, 2021)](#page-15-15). The reliability for this scale was 0.98.
+
+Organizational culture. The study adopted a ten-item scale from [Sarros](#page-16-11) et al. (2005). Sample items are "achievement orientation," "emphasizes on innovation" and "being competitive." This scale has been validated by previous research [(Sarros](#page-16-12) et al., 2011), and Cronbach's alpha (a) for this scale was 0.73.
+
+Job crafting. The measure of a 15-item scale was adopted from Tims et al. [(2012)](#page-16-13), which has been validated by a researcher ([Bakker](#page-13-14) et al., 2012). The scale contains four subdimensions (increasing structural job resources, increasing social job resources, increasing challenging job demands and decreasing hindering job demands). Two examples of the subdimensions are: "I strive to advance professionally" and "I ask others for comment on research performance." The Cronbach's ^a^ for this scale was 0.77.
+
+Work engagement. The measure of a 12-item scale was adopted from [Schaufeli (2012).](#page-16-2) This scale evaluates the three components of work engagement, namely, vigor, dedication and absorption. Sample items are "I'm bursting at the seams with enthusiasm at work," "I find that the work I perform has a lot of significance and purpose" and "It's tough for me to separate myself from my job." Prior research conducted in Malaysia validated the scale [(Suan and Nasurdin, 2014)](#page-16-14). The Cronbach's ^a^ for this scale was 0.82.
+
+Individual effort. The measure of a seven-item scale was adopted from [Brown and Leigh](#page-13-15) [(1996)](#page-13-15). Sample items are "When there's a task to be done, I give it all I've got" and "When I work, I give it everything I've got." The scale was validated in a previous northern Cyprus study ([Karatepe](#page-14-13) et al., 2006). The Cronbach's ^a^ for this scale was 0.87.
+
+Professional development. The measure of a ten-item scale was adopted from [Grobler](#page-14-14) et al. [(2014)](#page-14-14) and validated with a previous study conducted in the Philippines ([Asio and](#page-13-16) [Jimenez, 2020](#page-13-16)). Sample items are "My faculty provides specialized training programs for researchers" and "My faculty sends staff to relevant conferences." The Cronbach's ^a^ for this scale was 0.80.
+
+<!-- page 9 -->
+
+## Analytical strategy
+
+The research model was validated using partial least squares structural equation modeling (PLS-SEM). Using Smart-PLS 3.3.7 software, researchers examined the data with a bootstrapping set at 5,000 subsamples. The moderating role of organizational culture in the transformational leadership—research performance connection was examined using the moderation—interaction technique. Confidence intervals that did not include zero had significant mean effects at 0.05. The standardized root mean square residual was used to assess the discrepancies between actual and predicted correlations, whereas the normed fit index was used to reflect the incremental measure of model fit.
+
+## Preliminary analysis
+
+The study evaluated the measuring scales' reliability, convergent validity and discriminant validity to check the properties of the model. All factor loading values were more than 0.70, suggesting that each research construct had adequate convergent validity. All composite reliability (CR) and Cronbach's \alpha estimations, as well as average variance extracted (AVE) values, were greater than their respective cutoff values of 0.7 and 0.5 (Hair *et al.*, 2017), as shown in Table 1. The Fornell–Larcker and heterotrait-monotrait ratio of correlations (HTMT) criteria were used to measure discriminant validity. The findings of the Fornell–Larcker criteria showed that the square root of each construct's AVE was greater than the correlation values of the other constructs. The findings of the HTMT were within the suggested threshold of 0.359–0.846.
+
+## Structural model
+
+The PLS-SEM findings showed that five of the seven hypotheses were supported by significant associations at p=0.01 level of significance (see Table 2). Work engagement was found to be significantly and positively associated with job crafting (\beta=0.18, t=2.93, SD = 0.063, f^2=0.035, p<0.003). Consequently, this finding confirmed H1. In contrast, job crafting and transformational leadership were not significantly related to research performance. Regarding this, the results rejected hypotheses H2 and H4. The results also displayed that organizational culture (\beta=-0.221, t=3.191, SD = 0.057, f^2=0.056, p=0.0015), individual effort (\beta=0.329, t=5.957, SD = 0.071, f^2=0.108, p=0.0) and professional development (\beta=0.141, t=3.013, SD = 0.045, f^2=0.0188, p=0.0027) were significantly associated with research performance. Furthermore, the path coefficient of transformational leadership was also relatively significant with job crafting among academics (\beta=0.169, t=2.710, SD = 0.0624, f^2=0.029, p=0.0069). Therefore, the findings confirmed H5, H6, H8 and H9. According to the current research, the R^2 value was considerably low at 0.21.
+
+## Mediation test of job crafting
+
+The association between work engagement and research performance was not significant in the direct model (\beta=0.11,t=0.957,p=0.345), as displayed in Table 3. In the presence of job crafting, the relationship between work engagement and research performance was also insignificant (\beta=0.072,t=0.922,p=0.077). However, the size of the standard regression weight decreased. Given the indirect effect, job crafting did not mediate the relationship between work engagement and research performance (\beta=0.032,t=1.491,p=0.136), thus the results rejected H3. With the inclusion of job crafting as a mediator, the R^2 values for the job crafting and research performance were 0.07 and 0.27, respectively.
+
+<!-- page 10 -->
+
+*Table 1. Latent and observed variables' reliability and validity*
+
+|  | AVE | 0.62 | 0.71 | 0.67 | 0.69 | 0.72 | 0.80 | 0.72 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HTMT | CR | 0.86 | 0.88 | 0.91 | 0.87 | 0.84 | 0.97 | 0.88 |
+| rho_A | 0.81 | 0.82 | 0.88 | 0.78 | 0.76 | 0.98 | 0.87 |  |
+| a | 0.80 | 0.80 | 0.87 | 0.77 | 0.73 | 0.97 | 0.82 |  |
+| 6 | – | – | – | – | – | – | 0.25 |  |
+| 5 | – | – | – | – | – | 0.31 | 0.43 |  |
+|  | 4 | – | – | – | – | 0.19 | 0.09 | 0.39 |
+|  | 3 | – | – | – | 0.67 | 0.14 | 0.07 | 0.28 |
+|  | 2 | – | – | 0.49 | 0.57 | 0.08 | 0.05 | 0.28 |
+| Fornell–larcker criterion | 1 | – | 0.34 | 0.43 | 0.36 | 0.24 | 0.03 | 0.12 |
+| 7 | – | – | – | – | – | – | 0.85 |  |
+| 6 | – | – | – | – | – | 0.89 | 0.23 |  |
+| 5 | – | – | – | – | 0.85 | 0.249 | 0.313 |  |
+| 4 | – | – |  | 0.84 | 0.123 | 0.08 | 0.33 |  |
+| 3 | – | – | 0.80 | 0.56 | 0.062 | 0.052 | 0.24 |  |
+| 2 | – | 0.84 | 0.41 | 0.46 | 0.032 | 0.013 | 0.238 |  |
+| 1 | 0.79 | 0.27 | 0.38 | 0.29 | 0.17 | 0.004 | 0.104 |  |
+|  | Constructs | 1. RP | 2. PD | 3. IE | 4. JC | 5. OC | 6. TL | 7. WE |
+
+Notes: Research performance = RP; professional development = PD; individual effort = IE; job crafting = JC; organizational culture = OC; transformational
+
+leadership = TL; work engagement = WE; heterotrait–monotrait ratio = HTMT
+
+<!-- page 11 -->
+
+| Н | IV | DV | Path coefficient | Critical ratio | Sig | Conclusion |
+| --- | --- | --- | --- | --- | --- | --- |
+| H1 | WE | JC | 0.187 | 2.931 | 0.003 | Significant |
+| H2 | JC | RP | 0.034 | 0.473 | 0.636 | Not significant |
+| H4 | TL | RP | 0.066 | 1.153 | 0.249 | Not significant |
+| H5 | TL | IC | 0.169 | 2.710 | 0.006 | Significant |
+| Н6 | OC | ŘP | 0.22 | 3.192 | 0.001 | Significant |
+| Н8 | ΙE | RP | 0.329 | 5.957 | 0.000 | Significant |
+| Н9 | PD | RP | 0.141 | 3.013 | 0.002 | Significant |
+
+Determinants of research performance
+
+721
+
+**Notes:** Work engagement = WE; job crafting = JC; transformational leadership = TL; organizational culture = OC; individual effort = IE; professional development = PD; research performance = RP; independent variable = IV; dependent variable = DV
+
+Table 2. Results of the path analysis: direct effect
+
+| Path direction | β | Þ | 95% Bootstra LB |  |
+| --- | --- | --- | --- | --- |
+| \begin{array}{c} \hline \textit{Direct model} \\ \text{WE} \rightarrow \text{RP} \end{array} | 0.119 | 0.345 | -0.127 | 0.121 |
+| \begin{array}{l} \textit{Mediation model} \\ \text{WE} \rightarrow \text{RP} \\ \text{WE} \rightarrow \text{JC} \rightarrow \text{RP} \end{array} | 0.0.032 0.097 | 0.135 0.401 | -0.029 -0.049 | 0.204 0.140 |
+
+**Table 3.** Mediating effect of iob crafting
+
+Notes: Work engagement = WE; job crafting = JC; research performance = RP; BC = bias-corrected; confidence Interval = CI; lower boundary = LB; upper boundary = UB
+
+## Moderating test of organizational culture
+
+The interaction–moderation results revealed that there was no significant relationship between transformational leadership and research performance (\beta=0.0756, t=1.132, p=0.257) and a significant association between organizational culture and research performance (\beta=0.265, t=3.009, p=0.0027). The interaction effect of organizational culture and transformational leadership had a significant association with the research performance (\beta=0.170, t=2.74, p=0.00618). Therefore, organizational culture played a moderating role in the association between work engagement and research performance of academics and H7 is supported.
+
+## Discussion
+
+The primary aim of this article was to identify the role of organizational and individual factors in predicting research performance and investigate the moderated mediation roles of organizational culture and job crafting in a sample of university academics. The findings of this study showed that both organizational and individual factors were associated with job crafting and research performance of academic staff, respectively. The most important individual factors were individual efforts and professional development. Both results were consistent with the previous studies (Bentley, 2015; Czajka and McConnell, 2016; Hedjazi and Behravan, 2011), which found that individual effort and professional development were significantly associated with research performance (H8 and H9 were accepted). The results explained the underlying psychological mechanisms of the motivational process of the
+
+<!-- page 12 -->
+
+JD – R model in which the supply of job resources activates academics' effort and professional development and makes them feel more capable of controlling their work environment. This study also showed that there is an important association between organizational culture and research performance, supporting *H6*. This result coincides with a previous study (Ramachandran *et al.*, 2011). The results imply that the values and philosophy adopted within Malaysian academics contribute positively to the research performance.
+
+The findings also support Hetland *et al.*'s (2018) findings that organizational factors, such as transformational leadership, are the most important drivers of job crafting. This result highlights that transformational leadership nurtures resourcefulness in the workplace, which provides the ideal environment for job crafting behaviors to thrive (*H5* was accepted). Similarly, the findings demonstrated that work engagement encourages job crafting outcomes, supporting *H1*. The findings supported the observation that academics who are highly engaged tend to display acts of job crafting and innovation. The results also supported organizational culture as a moderator that impacts transformational leadership and academics' research performance and were consistent with earlier studies that examined the construct as a moderator toward employee performance (*H7* was supported). Specifically, this leadership style can potentially develop high-performance expectations within groups (achievement cultural orientation) that translate into elevated performance levels. This explanation is aligned with Jung *et al.*'s (2003) view on transformational leadership, whereby it has an indirect influence on organizational innovation when a supportive culture is created in the workplace.
+
+However, the results showed that job crafting exerts an insignificant influence on academics' research performance (*H3* was rejected). Therefore, the hypothesis on the job crafting–performance link remains proven and not significant enough, which is supported by the past studies (Leana *et al.*, 2009). Although the literature highlights the mediating effect of job crafting between work engagement and work outcomes, such as performance and flourishing (Robledo *et al.*, 2019), the findings of this study found it to be otherwise with work engagement and academics' research performance.
+
+## Limitations and future directions
+
+The cross-sectional aspect of this study is a key limitation. Therefore, prospect studies are recommended to use the longitudinal method. Second, the study should also be improved for better outcomes, and a comparative study with other countries should be conducted for future research. To make broader generalizations, more research work would need to be carried out in all public and private universities in Malaysia. Third, the study is restricted to Malaysian research universities and the findings cannot be generalized to other industries. Future research can explore different industries to test the research model across diverse contexts.
+
+## Theoretical contributions
+
+The current study contributes to the body of knowledge in four ways. First, we proposed and produced empirical evidence for JD–R model by incorporating organizational and individual constructs into the study of academic research performance. The goal of this study was to stimulate HRD practitioners' interest because performance is not only the result of factors at the individual level but also at the organizational level (Bakker and Demerouti, 2018). Several studies have also provided support for this claim, although the empirical evidence is still limited (Bakker and Demerouti, 2018; Schaufeli, 2015). Second, this study underlined the value of work engagement and transformational leadership in job
+
+<!-- page 13 -->
+
+crafting, allowing expansion of JD–R model. Third, the present research extended the limited literature on the effect of transformational leadership on research performance by examining the moderating role of organizational culture. Finally, the framework for the performance of academics in research at Malaysian research universities was presented. Because the vast majority of performance studies have been conducted in the context of Western culture or developed countries, Malaysian sample results provide compelling evidence of cross-cultural comparability of individual and organizational determinants of the research performance.
+
+Implications for human resource development research and practice
+
+This study highlights those individual factors are pertinent factors that contribute toward research performance. As an implication for HRD research and practice, universities could work to better understand and build on individual factors by conducting varying levels of needs analyses. A needs analysis, according to [Stevahn and King (2009),](#page-16-17) is a systematic examination of an organization's weaknesses and strengths to determine and meet existing challenges as well as make future improvements. Findings reported in this study also suggested that job crafting can hold practical implications for HRD practitioners. This may suggest that the job crafting intervention program (composed of a task, relational and cognitive crafting) could effectively enhance academic performance. Job crafting intervention might be a viable technique for fostering a resourceful work environment that allows academics to meet their individual and organizational objectives. Finally, it is argued that these HE institutions require organizational culture and transformational leadership to enhance and sustain the reputation of a research university status. The implication is that universities should concentrate on HRD initiatives that require a transformational leadership perspective to champion and facilitate learning. For greater research performance, university administrators must develop strategies that support a learning organization culture. Coaching and mentoring-based initiatives which appear to leverage organizational resources can be introduced or strengthened to support organizational culture in a purposeful and constructive way.
+
+## Conclusion
+
+In conclusion, the JD–R model is an effective model that can be used to investigate the relationship between individual and organizational factors and the research performance of academics in Malaysian research universities. The results contribute to HRD literature by providing additional empirical support for the capacity of individual effort, professional development and organizational culture in predicting research performance, along with the significant effects of work engagement and transformational leadership in predicting job crafting among academics. The results also indicate that organizational culture moderates the transformational leadership–research performance relationship. It is hoped that research universities and HRD practitioners will make use of these factors to facilitate environmental change in an attempt to enhance the research performance of academics.
+
+## References
+
+Al-Musadieq, M., Nurjannah, N., Raharjo, K., Solimun, S. and Fernandes, A.A.R. (2018), "The mediating effect of work motivation on the influence of job design and organizational culture against HR performance", Journal of Management Development, Vol. 37 No. 6, pp. 452-469.
+
+<!-- page 14 -->
+
+- Alsayyed, N.M., Suifan, T.S., Sweis, R.J. and Kilani, B.A. (2020), "The impact of transformational leadership on organisational performance case study: the University of Jordan", International Journal of Business Excellence, Vol. 20 No. 2, pp. 169-190.
+- Asio, J.M.R. and Jimenez, E. (2020), "Professional development, organizational climate, supervisory rapport and overall satisfaction of employees: an attitudinal study", International Journal of Scientific Research in Multidisciplinary Studies, Vol. 6 No. 4, pp. 34-40.
+- Avolio, B.J. and Yammarino, F.J. (2013), Transformational and Charismatic Leadership: The Road Ahead, 10th ed., Vol. 5, Emerald Group Publishing, Bingley.
+- Baer, M.D., Dhensa-Kahlon, R.K., Colquitt, J.A., Rodell, J.B., Outlaw, R. and Long, D.M. (2015), "Uneasy lies the head that bears the trust: the effects of feeling trusted on emotional exhaustion", Academy of Management Journal, Vol. 58 No. 6, pp. 1637-1657.
+- Bakker, A.B. (2008), "The work-related flow inventory: construction and initial validation of the WOLF", Journal of Vocational Behavior, Vol. 72 No. 3, pp. 400-414.
+- Bakker, A.B. and Demerouti, E. (2008), "Towards a model of work engagement", Career Development International, Vol. 13 No. 3, pp. 209-223.
+- Bakker, A.B. and Demerouti, E. (2018), Multiple Levels in Job Demands-Resources Theory: Implications for Employee Well-Being and Performance, in Diener, E., Oishi, S. and Tay, L. (Eds), Handbook of Well-Being, Eindhoven University of Technology, Eindhoven.
+- Bakker, A.B., Tims, M. and Derks, D. (2012), "Proactive personality and job performance: the role of job crafting and work engagement", Human Relations, Vol. 65 No. 10, pp. 1359-1378.
+- Bentley, P.J. (2015), "Cross-country differences in publishing productivity of academics in research universities", Scientometrics, Vol. 102 No. 1, pp. 865-883.
+- Bhatnagar, J. (2008), "Managing capabilities for talent engagement and pipeline development", Industrial and Commercial Training, Vol. 40 No. 1, pp. 19-28.
+- Brown, S.P. and Leigh, T.W. (1996), "A new look at psychological climate and its relationship to job involvement, effort, and performance", Journal of Applied Psychology, Vol. 81 No. 4, pp. 358-368.
+- Buil, I., Martínez, E. and Matute, J. (2019), "Transformational leadership and employee performance: the role of identification, engagement and proactive personality", International Journal of Hospitality Management, Vol. 77, pp. 64-75.
+- Byrne, Z.S., Stoner, J., Thompson, K.R. and Hochwarter, W. (2005), "The interactive effects of conscientiousness, work effort, and psychological climate on job performance", Journal of Vocational Behavior, Vol. 66 No. 2, pp. 326-338.
+- Carless, S.A., Wearing, A.J. and Mann, L. (2000), "A short measure of transformational leadership", Journal of Business and Psychology, Vol. 14 No. 3, pp. 389-405.
+- Chandran, V.G.R., Nourani, M., Selvarajan, S.K. and Baskaran, A. (2021), "Selective research funding policy and catching up the ladder in university research performance in Malaysia", Managerial and Decision Economics, Vol. 42 No. 3, pp. 539-550.
+- Clegg, S. (2003), "Problematising ourselves: continuing professional development in higher education", International Journal for Academic Development, Vol. 8 Nos 1/2, pp. 37-50.
+- Creswell, J.W. (1985), "Faculty Research Performance: Lessons from the Sciences and the Social Sciences", Higher Education Report No. 4, ERIC, Washington, DC.
+- Czajka, C.D. and McConnell, D. (2016), "Situated instructional coaching: a case study of faculty professional development", International Journal of STEM Education, Vol. 3 No. 1, pp. 1-14.
+- El-Kot, G. and Leat, M. (2008), "A survey of recruitment and selection practices in Egypt", Education, Business and Society: Contemporary Middle Eastern Issues, Vol. 1 No. 3, pp. 200-212.
+- Esmaeili, H.K., Mohammad, J. and Soltani, I. (2019), "The relationship between job crafting and job performance: empirical evidence from the automobile industry", International Journal of Business Innovation and Research, Vol. 19 No. 1, pp. 109-124.
+
+<!-- page 15 -->
+
+Determinants
+
+- Fiorito, J., Bozeman, D.P., Young, A. and Meurs, J.A. (2007), "Organizational commitment, human resource practices, and organizational characteristics", Journal of Managerial Issues, Vol. 19 No. 2, pp. 186-207.
+- Frick, L. and Kapp, C. (2009), "The professional development of academics: in pursuit of scholarship", in Bitzer, E. (Ed.), Higher Education in South Africa: A Scholarly Look behind the Scenes, SUN MeDIA, Stellenbosch, pp. 369-408.
+- Golden, III., J.H. and Shriner, M. (2019), "Examining relationships between transformational leadership and employee creative performance: the moderator effects of organizational culture", The Journal of Creative Behavior, Vol. 53 No. 3, pp. 363-376.
+- Grobler, A., Bezuidenhout, M.L. and Hyra, A. (2014), "Governance and HR: the development of a framework for South African organisations", Journal of Contemporary Management, Vol. 11 No. 1, pp. 164-184.
+- Hair, J.F., Hult, G.T.M., Ringle, C.M. and Sarstedt, M. (2017), A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM), 2nd ed., Sage, Singapore.
+- Hardré, P.L., Beesley, A.D., Miller, R.L. and Pace, T.M. (2011), "Faculty motivation to do research: across disciplines in research-extensive universities", Journal of the Professoriate, Vol. 5 No. 1, pp. 35-69.
+- Harris, R. and Ramos, C. (2013), "Building career capital through further study in Australia and Singapore", International Journal of Lifelong Education, Vol. 32 No. 5, pp. 620-638.
+- Hawkes, A.J., Biggs, A. and Hegerty, E. (2017), "Work engagement: investigating the role of transformational leadership, job resources, and recovery", The Journal of Psychology, Vol. 151 No. 6, pp. 509-531.
+- Hedjazi, Y. and Behravan, J. (2011), "Study of factors influencing research productivity of agriculture faculty members in Iran", Higher Education, Vol. 62 No. 5, pp. 635-647.
+- Hemmelgarn, A.L., Glisson, C. and James, L.R. (2006), "Organizational culture and climate: implications for services and interventions research", Clinical Psychology: Science and Practice, Vol. 13 No. 1, pp. 73-89.
+- Hetland, J., Hetland, H., Bakker, A.B. and Demerouti, E. (2018), "Daily transformational leadership and employee job crafting: the role of promotion focus", European Management Journal, Vol. 36 No. 6, pp. 746-756.
+- Janib, J., Mohd Rasdi, R., Omar, Z., Alias, S.N., Zaremohzzabieh, Z. and Ahrari, S. (2021), "The relationship between workload and performance of research university academics in Malaysia: the mediating effects of career commitment and job satisfaction", Asian Journal of University Education, Vol. 17 No. 2, pp. 85-99.
+- Jaskyte, K. (2004), "Transformational leadership, organizational culture, and innovativeness in nonprofit organizations", Nonprofit Management and Leadership, Vol. 15 No. 2, pp. 153-168.
+- Jordan, S.L., Ferris, G.R., Hochwarter, W.A. and Wright, T.A. (2019), "Toward a work motivation conceptualization of grit in organizations", Group and Organization Management, Vol. 44 No. 2, pp. 320-360.
+- Jung, J. (2012), "Faculty research productivity in Hong Kong across academic discipline", Higher Education Studies, Vol. 2 No. 4, pp. 1-13.
+- Jung, D.I., Chow, C. and Wu, A. (2003), "The role of transformational leadership in enhancing organizational innovation: hypotheses and some preliminary findings", The Leadership Quarterly, Vol. 14 Nos 4/5, pp. 525-544.
+- Kamali, H. (2014), "Studying the relationship between transformational leadership style and gain competitive advantage", Reef Resources Assessment and Management Technical Paper, Vol. 40 No. 1, pp. 518-532.
+- Karatepe, O.M., Uludag, O., Menevis, I., Hadzimehmedagic, L. and Baddar, L. (2006), "The effects of selected individual characteristics on frontline employee performance and job satisfaction", Tourism Management, Vol. 27 No. 4, pp. 547-560.
+
+<!-- page 16 -->
+
+- Kassim, M.S.A., Ismail, R., Yusoff, H.M. and Ismail, N.H. (2019), "How do academicians cope with occupational stressors to alleviate burnout? The experience of a research university", Journal of Public Mental Health, Vol. 19 No. 1, pp. 35-45.
+- Kim, S.J., Jang, Y., Yoo, M. and Song, J.H. (2021), "The mutual impact of university president's leadership and organizational justice on knowledge sharing: the mediating effect of communication", Industrial and Commercial Training, Vol. 53 No. 3, pp. 268-282.
+- Kooij, D.T.A.M., van Woerkom, M., Wilkenloh, J., Dorenbosch, L. and Denissen, J.J.A. (2017), "Job crafting towards strengths and interests: the effects of a job crafting intervention on person–job fit and the role of age", Journal of Applied Psychology, Vol. 102 No. 6, pp. 971-981.
+- Krishnan, B.C., Netemeyer, R.G. and Boles, J.S. (2002), "Self-efficacy, competitiveness, and effort as antecedents of salesperson performance", Journal of Personal Selling and Sales Management, Vol. 22 No. 4, pp. 285-295.
+- Leana, C., Appelbaum, E. and Shevchuk, I. (2009), "Work process and quality of care in early childhood education: the role of job crafting", Academy of Management Journal, Vol. 52 No. 6, pp. 1169-1192.
+- Lee, Y. (2019), "JD-R model on psychological well-being and the moderating effect of job discrimination in the model: findings from the MIDUS", European Journal of Training and Development, Vol. 43 Nos 3/4, pp. 232-249.
+- Lee, J.Y. and Lee, Y. (2018),"Job crafting and performance: literature review and implications for human resource development", Human Resource Development Review, Vol. 17 No. 3, pp. 277-313.
+- Lee, Y., Lee, J.Y. and Lee, J. (2021), "The relationship between work engagement and workaholism: a systematic review and meta-analysis", European Journal of Training and Development, doi: [10.1108/EJTD-03-2021-0036](http://dx.doi.org/10.1108/EJTD-03-2021-0036).
+- Lopez-Martin, E. and Topa, G. (2019), "Organizational culture and job demands and resources: their impact on employees' wellbeing in a multivariate multilevel model", International Journal of Environmental Research and Public Health, Vol. 16 No. 17, pp. 1-17.
+- Masa'deh, R., Obeidat, B.Y. and Tarhini, A. (2016), "A Jordanian empirical study of the associations among transformational leadership, transactional leadership, knowledge sharing, job performance, and firm performance: a structural equation modelling approach", Journal of Management Development, Vol. 35 No. 5, pp. 681-705.
+- Meijerink, J., Bos-Nehles, A. and de Leede, J. (2020), "How employees' pro-activity translates high-commitment HRM systems into work engagement: the mediating role of job crafting", The International Journal of Human Resource Management, Taylor & Francis, Vol. 31 No. 22, pp. 2893-2918.
+- Menguc, B., Auh, S., Fisher, M. and Haddad, A. (2013), "To be engaged or not to be engaged: the antecedents and consequences of service employee engagement", Journal of Business Research, Vol. 66 No. 11, pp. 2163-2170.
+- Moon, T.-W., Youn, N., Hur, W.-M. and Kim, K.-M. (2020), "Does employees' spirituality enhance job performance? The mediating roles of intrinsic motivation and job crafting", Current Psychology, Vol. 39 No. 5, pp. 1618-1634.
+- Naeem, R.M., Channa, K.A., Hameed, Z., Arain, G.A. and Islam, Z.U. (2020), "The future of your job represents your future: a moderated mediation model of transformational leadership and job crafting", Personnel Review, Vol. 50 No. 1, pp. 207-224.
+- Oprea, B.T., Barzin, L., Vîrga, D., Iliescu, D. and Rusu, A. (2019), "Effectiveness of job crafting interventions: a meta-analysis and utility analysis", European Journal of Work and Organizational Psychology, Vol. 28 No. 6, pp. 723-741.
+- Pari, B. and Azalea, A. (2020), "The mediating role of work engagement between job crafting and job performance among national secondary school teachers", Jurnal Psikologi Malaysia, Vol. 33 No. 3, pp. 12-21.
+- Pausits, A. (2015), "The knowledge society and diversification of higher education: from the social contract to the mission of universities", The European Higher Education Area, Springer, Cham, pp. 267-284.
+
+<!-- page 17 -->
+
+Determinants of research
+
+- Petrou, P., Demerouti, E., Peeters, M.C., Schaufeli, W.B. and Hetland, J. (2012), "Crafting a job on a daily basis: contextual correlates and the link to work engagement", Journal of Organizational Behavior, Vol. 33 No. 8, pp. 1120-1141.
+- Potnuru, R.K.G., Sahoo, C.K. and Sharma, R. (2018), "Team building, employee empowerment and employee competencies: moderating role of organizational learning culture", European Journal of Training and Development, Vol. 43 Nos 1/2, pp. 39-60.
+- Ramachandran, S.D., Chong, S.C. and Ismail, H. (2011), "Organisational culture: an exploratory study comparing faculties' perspectives within public and private universities in Malaysia", International Journal of Educational Management, Vol. 25 No. 6, pp. 615-634.
+- Robledo, E., Zappalà, S. and Topa, G. (2019), "Job crafting as a mediator between work engagement and wellbeing outcomes: a time-lagged study", International Journal of Environmental Research and Public Health, Vol. 16 No. 8, pp. 1-15.
+- Rudolph, C.W., Katz, I.M., Lavigne, K.N. and Zacher, H. (2017), "Job crafting: a meta-analysis of relationships with individual differences, job characteristics, and work outcomes", Journal of Vocational Behavior, Vol. 102, pp. 112-138.
+- Said, A.-M.A., Rasdi, R.M., Samah, B.A., Silong, A.D. and Sulaiman, S. (2015), "A career success model for academics at Malaysian research universities", European Journal of Training and Development, Vol. 39 No. 9, pp. 815-835.
+- Sarros, J.C., Cooper, B.K. and Santora, J.C. (2011), "Leadership vision, organizational culture, and support for innovation in not-for-profit and for-profit organizations", Leadership and Organization Development Journal, Vol. 32 No. 3, pp. 291-309.
+- Sarros, J.C., Gray, J., Densten, I.L. and Cooper, B. (2005), "The organizational culture profile revisited and revised: an Australian perspective", Australian Journal of Management, Vol. 30 No. 1, pp. 159-182.
+- Schaufeli, W. (2012), "Work engagement: what do we know and where do we go?", Romanian Journal of Applied Psychology, Vol. 14 No. 1, pp. 3-10.
+- Schaufeli, W.B. (2015), "Engaging leadership in the job demands-resources model", Career Development International, Vol. 20 No. 5, pp. 446-463.
+- Shahzad, K., Bashir, S. and Ramay, M.I. (2008), "Impact of HR practices on perceived performance of university teachers in Pakistan", International Review of Business Research Papers, Vol. 4 No. 2, pp. 302-315.
+- Stevahn, L. and King, J.A. (2009), Needs Assessment Phase III: Taking Action for Change (Book 5), Sage Publications, Los Angeles, CA.
+- Suan, C.L. and Nasurdin, A.M. (2014), "An empirical investigation into the influence of human resource management practices on work engagement: the case of customer-contact employees in Malaysia", International Journal of Culture, Tourism and Hospitality Research, Vol. 8 No. 3, pp. 345-360.
+- Swanson, R.A. and Holton, E. (2001), Foundations of Human Resource Development, Berrett-Koehler Publishers, San Francisco, CA.
+- Teichler, U., Arimoto, A. and Cummings, W.K. (2013), The Changing Academic Profession, Springer, Dordrecht.
+- Teoh, K.B. and Kee, D.M.H. (2020), "Psychosocial safety climate and burnout among academicians: the mediating role of work engagement", International Journal of Society Systems Science, Vol. 12 No. 1, pp. 1-14.
+- Tims, M. and Bakker, A.B. (2010), "Job crafting: towards a new model of individual job redesign", SA Journal of Industrial Psychology, Vol. 36 No. 2, pp. 1-9.
+- Tims, M., Bakker, A.B. and Derks, D. (2012), "Development and validation of the job crafting scale", Journal of Vocational Behavior, Vol. 80 No. 1, pp. 173-186.
+
+<!-- page 18 -->
+
+## EJTD 47,7/8
+
+728
+
+- Van Wingerden, J., Derks, D. and Bakker, A.B. (2017), "The impact of personal resources and job crafting interventions on work engagement and performance", Human Resource Management, Vol. 56 No. 1, pp. 51-67.
+- Verbree, M., Horlings, E., Groenewegen, P., Van der Weijden, I. and van den Besselaar, P. (2015), "Organizational factors influencing scholarly performance: a multivariate study of biomedical research groups", Scientometrics, Vol. 102 No. 1, pp. 25-49.
+- Wan Omar, W.A. and Hussin, F. (2013), "Transformational leadership style and job satisfaction relationship: a study of structural equation modeling (SEM)", International Journal of Academic Research in Business and Social Sciences (IJARBSS), Vol. 3 No. 2, pp. 346-365.
+- Wang, H.-J., Demerouti, E. and Le Blanc, P. (2017), "Transformational leadership, adaptability, and job crafting: the moderating role of organizational identification", Journal of Vocational Behavior, Vol. 100, pp. 185-195.
+- Werner, J.M. (2014), "Human resource development=human resource management: so what is it?", Human Resource Development Quarterly, Vol. 25 No. 2, pp. 127-139.
+- Wrzesniewski, A. and Dutton, J.E. (2001), "Crafting a job: revisioning employees as active crafters of their work", The Academy of Management Review, Vol. 26 No. 2, pp. 179-201.
+- Wrzesniewski, A., LoBuglio, N., Dutton, J.E. and Berg, J.M. (2013), "Job crafting and cultivating positive meaning and identity in work", in Bakker, A.B. (Ed.), Advances in Positive Organizational Psychology, Vol. 1, Emerald Group Publishing Limited, Bingley.
+- Yaakub, M.H. and Mohamed, Z.A. (2019), "Measuring the performance of private higher education institutions in Malaysia", Journal of Applied Research in Higher Education, Vol. 12 No. 3, pp. 425-443.
+- Yeo, G.B. and Neal, A. (2004), "A multilevel analysis of effort, practice, and performance: effects; of ability, conscientiousness, and goal orientation", Journal of Applied Psychology, Vol. 89 No. 2, pp. 231-247.
+- Yukl, G. (2013), Leadership in Organizations, 7th ed., Prentice Hall, NJ.
+
+## Corresponding author
+
+Roziah Mohd Rasdi can be contacted at: [roziah.mr@gmail.com](mailto:roziah.mr@gmail.com)

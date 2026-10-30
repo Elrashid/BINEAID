@@ -1,0 +1,543 @@
+<!-- LR.R10 | source: papers_json/LR.R10/ -->
+
+## **Journal of Education and e-Learning Research**
+
+*Vol. 12, No. 1, 64-81,* *2025* *ISSN(E) 2410-9991 / ISSN(P) 2518-0169* *DOI:* *10.20448/jeelr.v12i1.6446* * © 2025* *by the authors; licensee Asian Online Journal Publishing Group*
+
+![LR.R10 fig01](../figures/LR/LR.R10_fig01.jpg)
+
+## **Research engagement and its predictors among university academics: A comparison ** **of two Arabian Gulf countries**
+
+**Khulod Aljehani****^1^*** * **Laila Mohebi****^2^**
+
+*^1^**University of Jeddah, Kingdom of Saudi Arabia.*
+
+*Email**[: kjaljehani@uj.edu.sa](mailto:kjaljehani@uj.edu.sa)*
+
+*^2^**Zayed University, Dubai, United Arab Emirates.*
+
+*Email**[: Laila.mohebi@zu.ac.ae](mailto:Laila.mohebi@zu.ac.ae)*
+
+*(* *Corresponding Author)*
+
+## **Abstract**
+
+Challenges remain in achieving world-class standards in teaching and research while higher education has recently developed rapidly in Arabian Gulf countries. This mixed-methods study compared research engagement among academics in the Kingdom of Saudi Arabia (KSA) and the United Arab Emirates (UAE) about demographics, institutional support, and collaborative practices. Data were collected through an online survey sent to 44 university academics. The quantitative and qualitative data were analyzed statistically and thematically. KSA universities had a balanced gender distribution while the UAE's had a slight male majority. UAE academics reported being more motivated to conduct research than those in KSA. Regression analysis showed that forms of institutional support significantly predict research engagement in KSA but not in the UAE. Paired-sample t-tests revealed significant differences in research motivation and co-authorship with UAE academics collaborating more frequently. However, these countries had no significant differences in research engagement or institutional support. Thematic analysis indicated KSA academics were motivated more by extrinsic than intrinsic motivators. These findings suggest KSA universities need tailored policies to improve support mechanisms while UAE universities should sustain collaborative initiatives. Future research should use larger samples and longitudinal designs to explore more factors.
+
+**Keywords: **Collaboration, Gulf countries, Higher education, Motivation, Research engagement.
+
+**Citation** | Aljehani, K., & Mohebi, L. (2025). Research engagement and its predictors among university academics: A comparison of two Arabian Gulf countries. *Journal of Education and E-Learning * *Research*, *12*(1), 64–81. 10.20448/jeelr.v12i1.6446 **History:**
+
+Received: 9 December 2024 Revised: 17 January 2025 Accepted: 30 January 2025 Published: 25 February 2025
+
+**Licensed:** This work is licensed under a [Creative Commons ](https://creativecommons.org/licenses/by/4.0/)
+
+[Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+
+**Publisher:** Asian Online Journal Publishing Group
+
+**Funding:** This study received no specific financial support.
+
+**Institutional Review Board Statement**: The Ethical approval for this study was given by the University of Jeddah, Saudi Arabia on 11 July 2023 (Ref. No. 04102754) and the Zayed University, United Arab Emirate on 15 June 2023 (Ref. No. RP202306_2).
+
+**Transparency:** The authors confirm that the manuscript is an honest, accurate, and transparent account of the study; that no vital features of the study have been omitted; and that any discrepancies from the study as planned have been explained. This study followed all ethical practices during writing.
+
+**Competing Interests:** The authors declare that they have no competing interests.
+
+**Authors' Contributions:** Both authors contributed equally to the conception and design of the study. Both authors have read and agreed to the published version of the manuscript.** **
+
+## **Contents**
+
+1. Introduction 652. Literature Review and Theoretical Framework 663. Research Methodology 694. Results 705. Discussion 786. Conclusion 79References 79
+
+<!-- page 2 -->
+
+## **Contribution of this paper to the literature**
+
+This study contributes to the literature by providing a comparative analysis of research engagement among academics in KSA and the UAE, highlighting the influence of institutional support, motivation and collaboration on research productivity. It addresses gaps in understanding region-specific motivators and challenges, offering insights for policy development in Gulf universities.
+
+## **1. Introduction**
+
+Three factors recognized as predicting the productivity and performance of university faculty are research engagement, motivation and institutional support [(Boufarss & Laakso, 2020;](#page-16-0)[ Guraya, Khoshhal, Yusoff, & Khan, ](#page-16-1) [2018;](#page-16-1)[ Karabchuk, Shomotova, & Chmel, 2022)](#page-16-2). Research engagement encompasses not only the outcomes such as conducting studies, publishing papers and attending conferences but also the factors that enable these activities. These include motivation such as career aspirations and intellectual curiosity as well as institutional support such as access to resources, mentorship and funding opportunities [(Ghabban et al., 2019)](#page-16-3). Motivational factors may be intrinsic such as personal interest or professional development or extrinsic such as the need to advance one's career, earn more money, and meet institutional demands. Faculty research productivity and satisfaction also critically depend on the provision of resources and supportive policies [(Fernandez, Al Radaideh, Singh Sisodia, ](#page-16-4) [Mathew, & Jimber del Río, 2022;](#page-16-4)[ Kuwaiti, Bicak, & Wahass, 2020)](#page-16-5).
+
+Within the Arabian Gulf specifically, the Kingdom of Saudi Arabia (KSA) and the United Arab Emirates (UAE) have invested in higher education and research infrastructure to develop world-class universities and boost research productivity [(Karabchuk et al., 2022;](#page-16-2)[ Schmoch, Fardoun, & Mashat, 2016)](#page-16-6). However, they have distinct research cultures that may challenge academic researchers [(Sellami, Arar, & Sawalhi, 2022)](#page-16-7). Notably, academic engagement in KSA and UAE is significantly affected by language barriers, institutional policies, and access to research grants and collaborations [(Boufarss & Laakso, 2020;](#page-16-0)[ Guraya et al., 2018)](#page-16-1).
+
+Despite the significant investments mentioned above, research productivity and engagement vary significantly between countries, institutions and individual academics, and in some cases lag behind their counterparts in other regions. As for the reasons for these differences, [Ghabban et al. (2019)](#page-16-3) report that the sustainability of academics' research productivity depends on personal and organizational factors. [Boufarss and Laakso (2020)](#page-16-0) and[ Fernandez ](#page-16-4) et al. (2022) suggest that open access and e-learning environments are important. [Schmoch et al. (2016)](#page-16-6) and [Karabchuk et al. (2022)](#page-16-2) identify several difficulties that Gulf region institutions face in developing world-class universities. However, no studies have yet investigated motivational factors comparatively in the KSA and UAE and little is known about how the research engagement of academics in the region is affected by intrinsic and extrinsic motivators.
+
+While previous studies on faculty research engagement have focused on institutional support and challenges, they have not adequately addressed international collaborations and motivational factors [(Guraya et al., 2018;](#page-16-1) [Subbarayalu & Al Kuwaiti, 2018)](#page-16-8). Given that the research cultures in KSA and UAE differ,[ Sellami et al. (2022)](#page-16-7) argue that these two contexts should be analyzed comparatively to understand the particular motivators of and challenges facing academics working there. In addition, comparative research is needed regarding the effects of these motivational factors on research culture and faculty engagement in both contexts. To reiterate, the difference in research productivity and engagement between academics in KSA and the UAE presents a significant challenge. Despite the improvements in both countries' higher education systems, it remains unclear which motivational factors determine academics' scientific research in the two contexts. Without such comparative data, it remains difficult to develop appropriately targeted policies and interventions to boost research engagement and productivity.
+
+Rather than publish a paper without "contributing to transforming the real world" [(Kubota, 2023)](#page-16-9) the main goal of the study is to uncover the challenges that university academics face in research engagement in two KSA and the UAE [(Xu, 2014)](#page-17-0). The present study adopts a post-structural and critical lens to uncover university academics' perspectives regarding their research engagement about institutional policies. Through this approach, it is possible to examine how teachers navigate the institutional expectations, policies and power relations that shape their research involvement. It also becomes possible to identify both the challenges and opportunities for fostering a research-informed teaching practice.
+
+In both KSA and the UAE, universities follow an English only policy which creates pressure on academics to meet Western research standards and publish in English [(Kubota, 2023)](#page-16-9). Furthermore, academics must conduct research to gain promotions within a certain number of years in their profession. Being involved in research as a compulsory component of the promotion process in addition to their teaching workload creates a challenge for these academics [(Alhassan & Ali, 2020;](#page-15-2)[ Nguyen & Marjoribanks, 2021;](#page-16-10)[ Peng & Gao, 2019;](#page-16-11)[ Pham, Chau, & Nguyen, ](#page-16-12) [2023;](#page-16-12)[ Xu, 2014)](#page-17-0). Yet, while such policies are imposed top down, they can also change academics' attitudes towards research engagement [(Chau & Pham, 2022;](#page-16-13)[ Tien, 2000;](#page-17-1)[ Xu, 2014)](#page-17-0).
+
+As previously mentioned,[ Schmoch et al. (2016)](#page-16-6) and[ Karabchuk et al. (2022)](#page-16-2) identified significant challenges in creating an environment conducive to research in the Gulf region. They also noted a lack of research into the motivational effects of financial incentives, career advancement and institutional support. The lack of a detailed understanding of how these factors affect research engagement differently in KSA and the UAE prevents policymakers and academic institutions from strengthening their research culture. It is necessary to address this gap in knowledge to increase university academics' research engagement and productivity in these two countries.
+
+The present study aims to fill this gap by exploring how university academics' are motivated to conduct scientific research in KSA and the UAE. The study aims to identify the unique challenges and opportunities in each context by comparing motivations and international collaborations in the two countries. Its findings will significantly contribute to the literature by deepening understanding of each country's specific research culture. In turn, this can inform policymakers and academic institutions about how they can increase research engagement and
+
+<!-- page 3 -->
+
+productivity, thereby enabling Arab Gulf universities to become world-class. The study has the following three main research objectives based on the research gaps and problem statement:
+
+- 1. To analyze the impact of various motivators on academics' research engagement within universities in KSA and the UAE.
+- 2. To compare the impact of various motivators on academics' research engagement in KSA and the UAE.
+- 3. To explore and compare the motivational factors, international collaborations and challenges that affect the research culture in KSA and the UAE.
+
+## **2. Literature Review and Theoretical Framework**
+
+The present study draws on two theoretical approaches to develop its critical framework: engagement theory and human resource development theory.
+
+## *2.1. Engagement Theory and Human Resource Development Theory*
+
+[Kahn (1990)](#page-16-14) identifies three key psychological conditions—physical, cognitive, and emotional provide an appropriate theoretical framework for examining the research engagement of UAE and KSA academics. Engagement theory posits that various motivational factors and collaborations can impact employees' feelings of value, support and psychological safety which determine engagement [(Kahn, 1990;](#page-16-14) [Kahn & Heaphy, 2013)](#page-16-15). Researchers can explore in-depth how different motivators influence academics' research engagement by drawing on the differences between cognitive, emotional, and physical engagement [(Huang, Huang, & Chang, 2022)](#page-16-16). For instance, emotional engagement in the UAE and KSA may be more closely affected by institutional support and cultural elements whereas cognitive engagement may be increased by international collaborations because they are more intellectually stimulating.
+
+Human resource development theory [(Kwon & Park, 2019)](#page-16-17) explains the lifecycle of employee engagement in terms of its development and significance in fostering productive work environments. Applying this theory to academic settings suggests that higher education institutions need to understand and promote engagement if they wish to see innovative research outcomes [(Kahn & Heaphy, 2013)](#page-16-15). In particular, international research collaborations are important for promoting innovation [(Chen, Zhang, & Fu, 2019)](#page-16-18). Research on employee engagement [(Kahn & Fellows, 2013)](#page-16-19) shows that engagement is fostered by conducting meaningful work within a supportive workplace environment that emphasizes positive relationships, trust and effective communication. These factors are especially relevant when comparing KSA and the UAE academics in terms of their motivations and challenges because having meaningful work and effective workplace relationships depend on the institutional and cultural characteristics of these academic settings. Accordingly, the present study's theoretical framework draws on theory and human resources development theory to analyze how cultural context, international collaboration and specific motivators interact to shape academics' research engagement in the UAE and KSA.
+
+## *2.2. Research Culture in the UAE and KSA*
+
+The attitudes and productivity of academic researchers in the UAE and KSA are shaped by the interaction of personal, organizational and external factors. In particular, the sustainability of research productivity in KSA universities is significantly influenced by both personal and organizational factors [(Ghabban et al., 2019)](#page-16-3). Appropriate research funding, administrative support and personal motivation are required to improve the research output of KSA academics. In addition, research engagement and productivity are increased by good work conditions [(Subbarayalu & Al Kuwaiti, 2018)](#page-16-8). These findings suggest that improving research engagement in KSA universities requires stronger institutional support and better academic work conditions.
+
+Several studies have identified challenges in the UAE's and KSA's efforts to develop world-class universities. For example,[ Schmoch et al. (2016)](#page-16-6) found that KSA's rapid development program has had both intended and unintended effects. They conclude that the country needs more balanced strategies to develop its research capacity in the longer term rather than prioritize merely short-term improvements. The UAE has also faced dilemmas in that its investments have frequently failed to increase research productivity [(Karabchuk et al., 2022)](#page-16-2). This indicates that there is a conflict between achieving rapid academic development and the organic growth needed to achieve a stable research culture. One recent development that has incentivized research engagement by increasing its visibility is open access publication.[ Boufarss and Laakso (2020)](#page-16-0) discuss how this has significantly benefitted academics in the UAE by raising the international rankings of UAE universities and enabling them to become more competitive in the international academic market. Meanwhile, the research cultures of the UAE and KSA are being changed due to various strategic initiatives and challenges. Accordingly, policymakers and academic leaders who want vibrant and productive research communities must understand these dynamics.
+
+## *2.3. Educational Research Policies in the UAE*
+
+Recent rankings and indices show that scientific research and academic publishing in the UAE have improved. According to the Global Knowledge Index 2018 [(Boufarss & Laakso, 2020)](#page-16-0) and the Arab Knowledge Index 2016 [(Boufarss & Laakso, 2020)](#page-16-0) the UAE leads Arab nations in multiple categories. The increase in the UAE's research output and publications was due to an ambitious plan—the UAE National Innovation Strategy [(UAE PMO, 2015)](#page-17-2) to improve education and research, particularly in STEM fields to enable the UAE to become a knowledge-based economy by 2021 [(UAE PMO, 2015)](#page-17-2). In support of this transformation, the plan includes a National Agenda for Scientific Research and the Preparing for a Nobel Program. According to the UAE Ministry of Education and Commission for Academic Accreditation (CAA), the UAE currently has over 70 licensed universities offering over 300 licensed master's and doctoral programs [(Mitterlehner, 2013)](#page-16-20). In 2019, Abu Dhabi launched a $4 billion research and development fund to support research through the creation of research-oriented educational institutions and funding mechanisms [(Sanderson & Khan, 2019)](#page-16-21).
+
+Despite these advances,[ Ryan and Daly (2019)](#page-16-22) note a need for more research-intensive institutions while [Chapman, Austin, Farah, Wilson, and Ridge (2014)](#page-16-23) found that expatriate faculty needs better research productivity
+
+<!-- page 4 -->
+
+conditions. Faculty in the UAE often teach 70–80% of the time which reduces their research output [(Austin, ](#page-15-3) [Chapman, Farah, Wilson, & Ridge, 2014)](#page-15-3) and the number of Web of Science-indexed publications [(Miller, Coble, & ](#page-16-24) [Lusk, 2013)](#page-16-24). Another issue is that the UAE academic workforce tends to be transient with UAE nationals comprising only 7.19% of the total workforce including university staff in 2017 [(UAE PMO, 2019)](#page-17-3). For example, most academics in UAE universities like Zayed University, the Higher Colleges of Technology, and UAE University are expatriates [(Spender & Bardsley, 2009)](#page-16-25). In 2014, 92% and 98% of public and private universities had expatriate faculty [(GFH, 2016)](#page-16-26) thereby reducing stability in higher education which[ Ryan (2017)](#page-16-27) identifies as essential for research productivity.
+
+Academics in the UAE also face a "publish or perish" environment in that faculty promotion and tenure are increasingly based on research output. This shift has raised questions about institutions using journal impact factor (JIF) to assess research quality. For example, the San Francisco Declaration on Research Assessment (DORA) and the Leiden Manifesto have promoted more nuanced evaluation metrics [(Bales, Hubbard, Sare, & Olivarez, 2019;](#page-15-4) [Moher et al., 2018)](#page-16-28). Nevertheless, a key criterion for many institutions is still publication in Scopus or Web of Science-indexed journals [(Pudovkin, 2018)](#page-16-29). UAE University and Zayed University currently offer financial incentives for publication in prestigious journals to boost research output despite the challenges facing academics.
+
+## *2.4. Educational Research Policies in KSA*
+
+KSA has 26 government-run universities [(Alzuman, 2015)](#page-15-5) with those founded since 2005 remaining underdeveloped and 18 universities receiving government funding for information and communication technology (ICT) and research equipment. Nevertheless, these institutions aim to advance national research and development [(Al-Khalifa, 2014;](#page-15-6) [Ministry of Education Higher Education Saudi Arabia, 2018)](#page-16-30). To keep up with global trends and improve teaching and research, KSA is also adopting cloud-based educational systems [(Al-Ghamdi & Tight, 2013)](#page-15-7). This shift toward ICT aims to increase academic staff research productivity and international collaborations [(Al-](#page-15-7)[Ghamdi & Tight, 2013)](#page-15-7). ICT helps Saudi universities and staff share knowledge which is crucial in academia [(Yassin, Salim, & Sahari, 2013)](#page-17-4). Yet, there is little research on the effects of ICT on international academic publication productivity, particularly in KSA and the Middle East more generally compared to teaching and student performance [(Al-Khalifa, 2014)](#page-15-6). Similarly,[ Alturise and Alojaiman (2013)](#page-15-8) recommended further research into ICT-use factors for university staff.
+
+Regarding research outputs,[ Al-Khalifa (2014)](#page-15-6) reported low publication rates and impact factors among KSA researchers emphasizing the need for further investigation.[ Alrahlah (2016)](#page-15-9) concluded that it is essential to develop strategies to boost productivity among KSA academics and identify drivers of high-impact journal publication from his examination of the motivational factors explaining research productivity among Taibah University dental faculty. Regarding the role of ICT in research productivity,[ Al-Kahtani, Ryan, and Jefferson (2006)](#page-15-10) found that female KSA academics used ICT the least indicating the need to encourage all academic staff, including women to use ICT for research. According to[ Eid and Nuhu (2011)](#page-16-31) further research is needed to identify other factors affecting knowledge sharing among KSA universities. Next, according to[ Alghanim and Alhamali (2011)](#page-15-11) research should examine academic staff publication rates.
+
+## *2.5. Research Engagement *
+
+Research engagement has been defined in various ways such as involvement in an investigation to collect and analyze data and draw conclusions from it [(Dornyei, 2007)](#page-16-32) or involvement in reading and using research [(Borg, ](#page-15-12) [2010)](#page-15-12). As already mentioned, academics face increasing pressure to publish, especially in peer-reviewed journals. As [Borg (2010)](#page-15-12) notes, "research engagement is commonly recommended as a potentially productive form of professional development and a source of improved professional practice" (p*.* 391). Engaging in research practice in a particular community of practice is essential for personal and professional growth [(Nguyen & Marjoribanks, ](#page-16-10) [2021)](#page-16-10).
+
+Strategic initiatives to improve education in the UAE and KSA have strongly influenced research engagement, demonstrating the two countries' commitment to becoming knowledge-based economies. Both nations have invested heavily in academic infrastructure, particularly IT and research equipment to boost research productivity and innovation. New universities in KSA receive significant government funding to build their research capabilities as part of a national research and development agenda [(Alzuman, 2015)](#page-15-5) while the UAE has encouraged academic innovation through its national innovation strategy and provision of significant research and development funds [(Sanderson & Khan, 2019;](#page-16-21)[ UAE PMO, 2015)](#page-17-2).
+
+As outlined earlier, universities in KSA are adopting new technologies like cloud-based educational systems to improve teaching and research [(Al-Ghamdi & Tight, 2013)](#page-15-7). However, both countries have struggled to increase research productivity despite these advances. For example, it is concerning that the UAE's heavy investments in higher education institutions have only sometimes yielded proportional increases in research quality and quantity [(Karabchuk et al., 2022)](#page-16-2).
+
+Research engagement and productive research environments also depend on the selection, development and motivation of high-quality academic staff (Al-Ghamdi [& Tight, 2013;](#page-15-7)[ Alrahlah, 2016)](#page-15-9). This emphasizes the need to understand and implement the drivers that increase faculty engagement in research. In particular, the fact that academics in KSA produce few publications with low impacts highlights the need for strategies to increase both the quantity and quality of their research outputs [(Al-Khalifa, 2014)](#page-15-6).
+
+Another factor is differing cultural and gender perspectives in these two academic settings. For example, female academics in KSA use internet technology less than male faculty [(Al-Kahtani et al., 2006)](#page-15-10) highlighting the need for inclusive policies that encourage equal participation in research and technology use by all faculty. Organizational factors and ICT usage significantly impact knowledge sharing among academics which is important to enhance collaborative research and interdisciplinary studies [(Yassin et al., 2013)](#page-17-4). Thus, while the UAE and KSA are already investing heavily in infrastructure and technology to improve their research and academic sectors, they must continue to address faculty development, publication pressures and gender equality in research. These efforts are necessary to sustain growth and meet their ambitious educational goals.
+
+<!-- page 5 -->
+
+## *2.6. Barriers to Research Engagement in Western Academic Journals*
+
+The most frequently reported factor preventing teachers from conducting research is time. [Borg and Liu ](#page-16-33) (2013) reported that over 79% only occasionally engage in research and this is driven by promotion rather than pedagogical motives. Barriers to conducting research include a lack of advisors, knowledge, time, and difficulty in publishing. Similarly, Leite, [Sousa-Pereira, and Marinho (2023)](#page-16-34) identified various reasons academics rarely publish articles, especially in high-impact journals indexed in Scopus or the Web of Science. These included a lack of time, collaboration, and partnerships. Therefore, it is important to raise awareness among academics regarding the value of research for their pedagogical practices [(Alhassan & Ali, 2020;](#page-15-2)[ Borg, 2010;](#page-15-12)[ Borg & Alshumaimeri, 2012;](#page-16-35)[ Borg & ](#page-16-33) [Liu, 2013;](#page-16-33)[ Chau & Pham, 2022)](#page-16-13).
+
+## *2.7. Barriers to Research Engagement in the UAE and KSA*
+
+Studies of teacher's research engagement in the UAE and KSA have revealed a complicated web of barriers and challenges that affect scholarly productivity and quality (see[ Table 1)](#page-4-0). These difficulties are multifaceted, including problems with policy, motivation, culture, and infrastructure. First, in both countries, infrastructure problems severely limit researchers' ability to conduct research. These technologies need to be used more effectively for research despite investments in educational technology and infrastructure [(Alshihri, 2017)](#page-15-13). Similarly, because of a lack of resources such as training or the right support systems, the integration of cloud computing and other digital tools have not yet been fully implemented across all aspects of academic practice, including administration, teaching, and research [(Alshihri, 2017)](#page-15-13).
+
+Second, the explosive expansion of universities in KSA has meant that many remain underdeveloped. These universities frequently struggle to develop a research culture because of insufficient funding and newly established research programs [(Alzuman, 2015)](#page-15-5). Similarly, while the UAE is pushing to become a knowledge-based economy, its universities have not developed consistently with some falling behind in developing strong research environments [(UAE PMO, 2015)](#page-17-2).
+
+Third, the heavy teaching loads that faculty members frequently face reduce their capacity for research. When hiring expatriate faculty, UAE institutions frequently emphasize teaching over research [(Austin et al., 2014)](#page-15-3). Similarly, the focus on speeding up education in KSA has frequently prioritized quantity over quality, thereby reducing research output [(Al-Khalifa, 2014)](#page-15-6).
+
+Fourth, research engagement significantly depends on motivational factors.[ Alrahlah (2016)](#page-15-9) concluded that the problem may be more general in that institutional and personal incentives conflict with each other, thereby reducing research engagement from his examination of the effect of motivational factors hindering research engagement among dental faculty in KSA universities.
+
+Fifth, cultural factors, particularly regarding gender are extremely important. For example,[ Al-Kahtani et al. ](#page-15-10) (2006) found a large difference in KSA between male and female faculty members' internet usage suggesting a larger cultural barrier to women's full integration into the research community. Such gender disparities can make research less diverse [(Al-Kahtani et al., 2006)](#page-15-10).
+
+Sixth, research engagement is crucially affected by academics' working conditions. For example, [Subbarayalu ](#page-16-8) and Al Kuwaiti (2018) found that work-life quality was a key determinant of academic productivity among academics in KSA. Their engagement was more likely to be higher if they believed that they had a work environment that supported research.
+
+Seventh, institutional policies also affect research engagement. For example,[ Ryan and Daly (2019)](#page-16-22) found that academics in the UAE may become discouraged from conducting research if their institution's tenure and promotion policies strongly emphasize teaching metrics rather than research. This suggests that academics are likely to devalue research unless institutions have explicit and consistent policies that reward research productivity.
+
+The eighth factor is internationalization. According to [Alsharari (2018)](#page-15-14) the internationalization of KSA's higher education sector presents opportunities and difficulties. Although it creates opportunities for international research networks and collaboration, it also puts more pressure on local faculty to meet international standards which may not always be backed locally by sufficient resources and infrastructure. Organizational factors can also either help or prevent academics from using ICT to share knowledge. Consequently, research engagement may decline even where knowledge sharing is structurally and actively supported [(Yassin et al., 2013)](#page-17-4). Finally, external variables like political and economic stability also affect research engagement. Research funding and priorities can change quickly in areas with high levels of political or economic instability which affects the continuity and scope of scholarly inquiry [(Khan et al., 2022)](#page-16-36).
+
+Overall, although both KSA and the UAE have made progress in improving their educational systems, they will require a multifaceted strategy to remove the obstacles outlined above to create an atmosphere in which research engagement can flourish.
+
+<!-- page 6 -->
+
+| Categories | Subcategories | N | % |
+| --- | --- | --- | --- |
+|  | Financial incentives | 7 | 15.2 |
+| Belief in the relationship between research engagement and | Yes | 41 | 89.1 |
+| instructional practice. | No | 5 | 10.9 |
+| Level of support for research from institutional policies. | Non supportive | 4 | 8.7 |
+|  | Slightly supportive | 12 | 26.1 |
+|  | Moderately supportive | 16 | 34.8 |
+|  | Very supportive | 12 | 26.1 |
+|  | Highly supportive | 2 | 4.3 |
+| Types of institutional support for research | Research grants | 19 | 41.3 |
+|  | Time allocation | 3 | 6.5 |
+|  | Professional development opportunities | 15 | 32.6 |
+|  | Recognition and awards | 7 | 15.2 |
+|  | Mentorship programs | 2 | 4.3 |
+| Frequency of collaboration with other academics in research | Never | 16 | 34.8 |
+| publications. | Rarely | 9 | 19.6 |
+|  | Sometimes | 4 | 8.7 |
+|  | Often | 7 | 15.2 |
+|  | Very often | 10 | 21.7 |
+| Research collaboration with native English speakers | Yes | 19 | 41.3 |
+|  | No | 27 | 58.7 |
+
+## **3. Research Methodology**
+
+## *3.1. Method *
+
+The study adopted a mixed-methods research design with data collected by survey questionnaires with openended questions targeting faculty members in KSA and UAE universities. Within quantitative research, questionnaires provide a structured and consistent data collection instrument that ensures that the same data points are collected from each respondent [(Babbie, 2010)](#page-15-15). This standardization is crucial when comparing variables across different groups such as different universities across KSA and the UAE. This enables clear, unbiased comparisons across different populations or groups [(Fink, 2003)](#page-16-37).
+
+## *3.2. Data Collection Procedures*
+
+This mixed-methods study carefully collected primary data from faculty members at universities in KSA and the UAE using identical questionnaires. By collecting quantitative data, the study enabled a broad and generalized understanding [(Creswell, 2014)](#page-16-38) of research engagement in the two academic communities. The questionnaires examined the participants' research motivations, perceived productivity barriers and perceived effects on their research productivity of various incentives such as promotion and financial bonuses. Demographic data was collected regarding the participants' country of affiliation (KSA or UAE) to enable comparisons by country to better understand motivational factors and barriers.
+
+Qualitative data were collected through qualitative open-ended questions with the same participants to support the quantitative survey data. The questions explored their personal narratives and experiences, specifically their research productivity and their interest in publishing their research and collaborating with international colleagues. The study's mixed-methods approach enriches the analysis by combining the statistical insights from the survey data with the qualitative comments from the interviews [(Tashakkori & Teddlie, 2003)](#page-17-5).
+
+Before use, the survey questionnaire was first reviewed by two colleagues who provided feedback on its content, clarity, and overall design to ensure it would effectively gather the necessary data. In addition, a pilot study was conducted to test its effectiveness with potential participants and identify any issues. The questionnaire included 11 questions of which three were open-ended questions regarding the participants' motivation for research engagement, collaboration with native English speakers and the challenges they face in publishing the research.
+
+## *3.3. Survey Questionnaire*
+
+A survey questionnaire was used to gather data on university academics' research motivations, barriers to research, and collaborative practices in KSA and the UAE. The questionnaire had both closed- and open-ended questions allowing for quantitative data collection through standardized responses and qualitative insights through descriptive answers. The participants responded to the open-ended questions. Some are close-ended questions using Likert scales, multiple-choice formats, and yes/no options. These item formats produce easily analyzable data that can reveal patterns and correlations across a large dataset [(Fowler, 2013)](#page-16-39).
+
+The open-ended questions collected further qualitative data on the participants' research motivations and the institutional challenges they face. This approach enriches the data and enables triangulation which in turn increases the reliability and validity of the findings by combining qualitative and quantitative items [(Creswell, ](#page-16-38) [2014)](#page-16-38). The survey was distributed electronically which optimizes efficiency and response rates to enable data collection from multiple universities in both countries, thereby ensuring a diverse sample [(Dillman, Smyth, & ](#page-16-40) [Christian, 2014)](#page-16-40).
+
+## *3.4. Data Analysis*
+
+The collected data were analyzed to identify the factors affecting research engagement among university academics in KSA and the UAE. Using the demographic variables, the data were analyzed by country of affiliation, years of teaching experience, and gender to determine the sample composition and the relation of the demographic variables to the participants' response regarding research engagement. The analyses were conducted using SPSS version 20.
+
+Following this demographic profiling, the central tendencies and dispersion of the responses were determined. These statistics provide an overview of the patterns in the data before further comparative analysis using ANOVA and independent samples t-tests. These tests revealed statistically significant differences between KSA and the
+
+<!-- page 7 -->
+
+UAE in the university academics' research motivations and perceived barriers. Finally, a regression analysis was conducted to identify how the participants' research motivation, access to financial bonuses, and international collaboration predicted research productivity.
+
+## **4. Results**
+
+## *4.1. Demographic Analysis*
+
+[Tables 2](#page-6-1) and[ 3](#page-7-0) present the demographic analysis for KSA and the UAE, respectively. For KSA, 50.0% of the sample were male (N=23) and 50.0% were female, thereby ensuring equal consideration of male and female perspectives. Most participants had 6-10 years (30.4%) or 11-15 years (43.5%) teaching experience while a few had just 1-5 years (13.0%) or over 16 years of teaching experience (13.0%). About 60% of KZA participants were either highly (37.0%) or very motivated (23.9%) to participate in research while a further 21.7%, 15.2% and 2.2%, respectively were moderately motivated, slightly motivated or unmotivated. This distribution indicates that many of the participants were strongly interested in conducting research. Regarding types of research motivation, 41.3% of participants cited personal interest, 37.0% career advancement, 15.2% financial incentives, and 6.5% institutional expectations. These findings highlight the role of both intrinsic motivation and professional growth in motivating research engagement.
+
+Most KSA participants (89.1%) believe there is a link between research engagement and instructional practice, emphasizing the value of research in improving instruction. The participants had mixed views on institutional support with 34.8% saying their institution is moderately supportive followed by 26.1%, 26.1%, 8.7%, and 4.3% saying very supportive, slightly supportive, non-supportive, or highly supportive. The main sources of institutional support were research grants (41.3%), professional development (32.6%), and time allocation (6.5%) whereas recognition and awards (15.2%) and mentorship programs (4.3%) were cited less frequently suggesting there is space for improvement in providing support to foster research engagement.
+
+Regarding research collaboration in KSA, responses varied between rarely (19.6%), sometimes (8.7%), often (15.2%), or very often (21.7%). Additionally, 41.3% of participants reported working with native English speakers on research projects indicating significant international collaboration. However, this term refers to collaboration with researchers of different nationalities regardless of their location meaning such collaboration could occur even if both researchers are based in KSA. However, 58.7% of participants reported that such collaboration is hindered by issues with language proficiency, accessibility and institutional policies. These findings emphasize the need to develop collaborative environments and resources in KSA to support cross-cultural and international research partnerships.
+
+**Table 2.** Demographic analysis (KSA).
+
+| Categories | Subcategories | N | % |
+| --- | --- | --- | --- |
+| Gender | Male | 24 | 52.2 |
+|  | Female | 22 | 47.8 |
+| Years of teaching experience | Less than a year | 3 | 6.5 |
+|  | 1-5 years | 5 | 10.9 |
+|  | 6-10 years | 16 | 34.8 |
+|  | 11-15 years | 9 | 19.6 |
+|  | 16 or more years | 13 | 28.3 |
+| Level of research motivation | Moderately motivated | 6 | 13.0 |
+|  | Very motivated | 19 | 41.3 |
+|  | Highly motivated | 21 | 45.7 |
+| Types of research motivation | Personal interest | 19 | 41.3 |
+|  | Career advancement | 19 | 41.3 |
+|  | Institutional expectations | 1 | 2.2 |
+|  | Financial incentives | 1 | 2.2 |
+|  | Contribution to the field | 6 | 13.0 |
+| Nationality | UAE | 7 | 15.2 |
+|  | Other countries | 39 | 84.8 |
+| Belief in relationship between research engagement and instructional practice. | Yes | 43 | 93.5 |
+|  | No | 3 | 6.5 |
+| Level of support for research from institutional policies. | Non supportive | 5 | 10.9 |
+|  | Slightly supportive | 8 | 17.4 |
+|  | Moderately supportive | 13 | 28.3 |
+|  | Very supportive | 11 | 23.9 |
+|  | Highly supportive | 9 | 19.6 |
+| Types of institutional support for research | Research grants | 16 | 34.8 |
+|  | Time allocation | 9 | 19.6 |
+|  | Professional development | 10 | 21.7 |
+|  | opportunities |  |  |
+|  | Recognition and awards | 3 | 6.5 |
+|  | Mentorship programs | 2 | 4.3 |
+|  | Others | 6 | 13.0 |
+| Frequency of collaboration with other academics in research publications | Never | 3 | 6.5 |
+| Research collaboration with native English speakers. | Rarely | 11 | 23.9 |
+|  | Sometimes | 12 | 26.1 |
+|  | Often | 8 | 17.4 |
+|  | Very often | 12 | 26.1 |
+| Research collaboration with native English speakers | Yes | 25 | 54.3 |
+|  | No | 21 | 45.7 |
+
+Turning to the UAE (see[ Table 3)](#page-7-0), there were slightly more male participants (52.2%) than female (47.8%). A third of UAE participants (34.8%) had 6-10 years of teaching experience. While over 15% had either less than a year (6.5%) or 1-5 years of experience (10.9%). A large proportion was experienced with 19.6% having 11-15 years
+
+<!-- page 8 -->
+
+and 28.3% having over 16 years of experience. Most research participants reported being either highly motivated (45.7%) or very motivated (41.3%) while 13.0% reported moderate motivation. The relatively high levels of motivation were reflected in the types cited, with 41.3% each citing personal interest and career advancement. Contribution to the field motivated 13.0%, while institutional expectations and financial incentives motivated 2.2%. This suggests intrinsic and professional growth motivates research among UAE-based academics.
+
+Regarding nationality, only 15.2% of the participants were UAE citizens. Almost all UAE participants (93.5%) agreed that research engagement affects instructional practice highlighting the importance of integrating research and teaching. Responses regarding the level of institutional research support in UAE institutions varied with 28.3% saying it was moderately supportive, 23.9% very supportive, 19.6% highly supportive, 17.4% slightly supportive, and 10.9% non-supportive. The main types of institutional support cited were research grants (34.8%), time allocation (19.6%), and professional development (21.7%) whereas recognition and awards (6.5%), mentorship programs (4.3%), and other forms (13.0%) were less common.
+
+Research collaboration with other academics varied among the UAE participants with 6.5% never coauthoring papers, 23.9% rarely doing so, 26.1% occasionally, 17.4% often, and 26.1% very frequently. Additionally, 54.3% of participants reported working with native English speakers on research projects indicating significant international collaboration. However, 45.7% do not collaborate, suggesting language, accessibility, or institutional policies are barriers. These findings emphasize the need in the UAE for more collaborative environments and resources to support cross-cultural and international research partnerships.
+
+**Table 3.** Demographic analysis (UAE).
+
+| Categories | Subcategories | N | % |
+| --- | --- | --- | --- |
+| Gender | Male | 24 | 52.2 |
+|  | Female | 22 | 47.8 |
+| Years of teaching experience | Less than a year | 3 | 6.5 |
+|  | 1-5 years | 5 | 10.9 |
+|  | 6-10 years | 16 | 34.8 |
+|  | 11-15 years | 9 | 19.6 |
+|  | 16 or more years | 13 | 28.3 |
+| Level of research motivation | Moderately motivated | 6 | 13.0 |
+|  | Very motivated | 19 | 41.3 |
+|  | Highly motivated | 21 | 45.7 |
+| Types of research motivation | Personal interest | 19 | 41.3 |
+|  | Career advancement | 19 | 41.3 |
+|  | Institutional expectations | 1 | 2.2 |
+|  | Financial incentives | 1 | 2.2 |
+|  | Contribution to the field | 6 | 13.0 |
+| Nationality | UAE | 7 | 15.2 |
+|  | Other countries | 39 | 84.8 |
+| Belief in relationship between research engagement and instructional | Yes | 43 | 93.5 |
+| practice | No | 3 | 6.5 |
+| Level of support for research from institutional policies | Non supportive | 5 | 10.9 |
+|  | Slightly supportive | 8 | 17.4 |
+|  | Moderately supportive | 13 | 28.3 |
+|  | Very supportive | 11 | 23.9 |
+|  | Highly supportive | 9 | 19.6 |
+| Types of institutional support for research | Research grants | 16 | 34.8 |
+|  | Time allocation | 9 | 19.6 |
+|  | Professional development | 10 | 21.7 |
+|  | opportunities |  |  |
+|  | Recognition and awards | 3 | 6.5 |
+|  | Mentorship programs | 2 | 4.3 |
+|  | Others | 6 | 13.0 |
+| Frequency of collaboration with other academics in research | Never | 3 | 6.5 |
+| publications | Rarely | 11 | 23.9 |
+| Research collaboration with native English speakers | Sometimes | 12 | 26.1 |
+|  | Often | 8 | 17.4 |
+|  | Very often | 12 | 26.1 |
+| Research collaboration with native English speakers | Yes | 25 | 54.3 |
+|  | No | 21 | 45.7 |
+
+Overall, the demographic analysis reported above indicates both similarities and differences among the participating university academics from KSA and the UAE. The gender balance among participants is very similar in each group while the UAE sample includes more participants with greater experience. A majority of the participants in both countries indicated that they are well motivated to conduct research. Personal interest and career advancement motivate research in both KSA and the UAE whereas KSA academics are slightly more influenced by financial incentives and institutional expectations. In both countries, institutional support for research and research collaboration vary. KSA and UAE academics both rely on research grants and professional development. UAE professors were more likely to cite support from research time allocation. UAE academics were slightly more likely to report collaborating with native English speakers, suggesting greater international collaboration in the UAE. However, many of the participating academics in both countries reported rarely collaborating with others. In short, despite some differences, KSA and UAE academics appear to face similar research engagement and institutional support challenges and opportunities.
+
+<!-- page 9 -->
+
+## *4.2. Descriptive Comparisons between KSA and UAE Academics*
+
+[Table 4](#page-9-0) presents the descriptive statistics for both KSA and the UAE which reveal significant differences between the two countries in research engagement. Regarding the level of research motivation, the mean research motivation score was higher in the UAE than the KSA suggesting that UAE academics are more motivated to research than KSA academics. Furthermore, the standard deviation was smaller in KSA (SD = 1.053) indicating a more consistent level of research motivation among participants. In contrast, scores in the UAE exhibited greater variability (SD = 1.316). The mean scores for research motivation were similar between the two groups (KSA = 1.96; UAE = 2.04) with the slightly higher mean in the UAE suggesting stronger overall engagement in research activities. However, the variability in UAE scores indicates that individual levels of motivation might differ more significantly, necessitating further exploration of the factors contributing to this variation. That is, while personal interest and career advancement motivate academics in both countries, UAE academics may be motivated by a greater range of motivational factors than KSA academics.
+
+Regarding the level of institutional support for research, mean scores were higher for the UAE academics (3.24) than KSA (2.91) although the higher standard deviation (1.268 versus 1.029) suggests that some UAE institutions may provide substantial support while others may lag. The mean score for types of institutional support was also higher in the UAE (mean = 2.65 and SD = 1.716, variance = 2.943) than in KSA (mean = 2.35 and SD = 1.286, variance = 1.654), suggesting that UAE academics receive more institutional support. The higher variance in the UAE suggests that academics receive a wider range of types and amounts of support than in KSA, indicating an uneven distribution of resources or opportunities within UAE institutions. Finally, UAE academics were more likely to report co-authoring research papers (mean = 3.33 and SD = 1.283, variance = 1.647) than KSA academics (mean = 2.70, SD = 1.604 and variance = 2.572). The lower standard deviation for the UAE score also indicates more consistent levels of collaboration across participants compared to KSA.
+
+Overall, these findings show that UAE academics tend to be more motivated to conduct research and better supported by their institutions, although unevenly, in terms of level and range than their KSA counterparts. Furthermore, UAE academics tend to collaborate more with peers than KSA academics indicating that the two countries have different institutional environments and cultural attitudes toward research.
+
+<!-- page 10 -->
+
+## *Journal of Education and e-Learning Research, 2025, 12(1): 64-81*
+
+**Table 4.** Descriptive statistics (KSA versus UAE).
+
+| Countries | Variables |  | KSA | UAE |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Statements |  | N | Mean | Std. | Variance | Mean | Std. | Variance |
+|  |  | (Both) |  | deviation |  |  | deviation |  |
+| How motivated are you to engage in research activities? | Research motivation | 46 | 3.78 | 1.172 | 1.374 | 4.33 | 0.701 | 0.491 |
+| What motivates you to engage in research? | Research engagement | 46 | 1.96 | 1.053 | 1.109 | 2.04 | 1.316 | 1.731 |
+| How supportive is your institution's policy towards | Research support | 46 | 2.91 | 1.029 | 1.059 | 3.24 | 1.268 | 1.608 |
+| research activities? |  |  |  |  |  |  |  |  |
+| What forms of institutional support do you receive for | Forms of institutional support | 46 | 2.35 | 1.286 | 1.654 | 2.65 | 1.716 | 2.943 |
+| research? |  |  |  |  |  |  |  |  |
+| How often do you co-author research papers with other | Frequency of co-authorship | 46 | 2.70 | 1.604 | 2.572 | 3.33 | 1.283 | 1.647 |
+| professors? |  |  |  |  |  |  |  |  |
+
+<!-- page 11 -->
+
+## *4.3. Regression Analysis *
+
+Separate regression analyses were conducted with the data from KSA and the UAE to determine the predictors (level of institutional research support, forms of research support, level of research motivation, and research collaboration) of the academics' research engagement. Regarding KSA (see[ Table 5)](#page-10-0), the model explained 42.8% of the variance in research engagement (R² =0.428). However, it did not reach statistical significance (F = 2.303 and p >.05).
+
+Regarding the individual predictors, institutional research support positively predicted research engagement, but not significantly (β =0.186, t = 1.253 and p =0.217). The confidence interval for B was -0.117 to .498, also indicating that the effect was not statistically significant. Tolerance was 0.902 and VIF was 1.109, indicating no multicollinearity. Therefore, it is not possible to reject the null hypothesis (H₀) that institutional research support does not significantly predict research engagement.
+
+In contrast, the type of level of research support significantly and positively predicted engagement (β =0.323, t = 2.221 and p =0.032). The confidence interval for B was 0.024 to 0.506, while the tolerance (0.939) and VIF values (1.065) indicated no multicollinearity. Therefore, the null hypothesis (H₀) could be rejected in favor of the alternative hypothesis (H₁) that research supports significantly predicts engagement.
+
+Research motivation negatively predicted engagement but not significantly (β = -0.254, t = -1.702 and p =0.096). The confidence interval for B was -0.499 to 0.043, while the tolerance (0.893) and VIF values (1.120) indicated no multicollinearity. Thus, the null hypothesis (H₀) that research motivation does not significantly predict engagement could not be rejected.
+
+Finally, research collaboration positively predicted engagement but not significantly (β =0.170, t = 1.180 and p =0.245). The confidence interval for B was -0.079 to 0.303. Multicollinearity was unlikely given the tolerance (0.959) and VIF values (1.043). Thus, it was not possible to reject the null hypothesis (H₀) that research coauthorship does not significantly predict research engagement.
+
+**Note:** F = 2.303, R^2^ = 42.8%.
+
+Regarding the UAE (see[ Table 6)](#page-10-1), the regression model did not reach statistical significance (F = 0.691, p >0.05) and explained only 25.1% of the variance in research engagement (R² =0.251).
+
+Regarding the individual predictors, institutional research support positively predicted research engagement but not significantly (β =0.149, t = 0.908 and p =0.369). The confidence interval of B was -0.189 to 0.498, while the tolerance (0.851) and VIF values (1.175) indicated no multicollinearity. Therefore, the null hypothesis (H₀) could not be rejected as institutional research support does not significantly predict research engagement among UAE academics. Research support had a positive but non-significant effect on research engagement (β =0.240, t = 1.388 and p =0.173). The confidence interval of B was -0.084 to 0.452 while the tolerance (0.763) and VIF values (1.310) indicated no multicollinearity. Therefore, the null hypothesis (H₀) could not be rejected as research support does not significantly predict engagement among UAE academics.
+
+Research motivation negatively predicted engagement, but not significantly (β = -0.156, t = -0.985 and p =0.330). The confidence interval of B was -0.895 to 0.308 while the tolerance (0.908) and VIF values (1.101) indicated not multicollinearity. Therefore, it was not possible to reject the null hypothesis (H₀) that research motivation does not significantly predict engagement among UAE academics.
+
+**Note:** F = 0.691, R^2^ = 25.1%.
+
+<!-- page 12 -->
+
+Finally, co-authorship negatively predicted research engagement, but not significantly (β = -0.038, t = -0.247, p =0.806). The confidence interval of B was -0.360 to .282. Tolerance (0.951) and VIF values (1.052) indicated no multicollinearity. Thus, the null hypothesis (H₀) could not be rejected as research co-authorship does not significantly affect research engagement among UAE academics.
+
+Overall, the two regression analyses KSA and the UAE indicate some differences in predicting academic research engagement in the two countries, although neither model was significant overall. For KSA, the model explains 42.8% of the variance in research engagement, although the only significant predictor was institutional research support. This suggests that institutional support mechanisms significantly increase research engagement in KSA. In contrast, types of institutional research support, motivation, and co-authorship did not significantly predict research engagement in KSA. This suggests that while support is essential, other institutional and personal factors may not be as important. For the UAE, the model explained only 25.1% of the variance in research engagement, and none of the individual predictors were significant. This suggests that other factors such as cultural differences, institutional policies, or external incentives, may be more influential than the factors included in the model regarding the UAE academics' research engagement. These differences indicate that each country's educational and institutional contexts require tailored research engagement strategies.
+
+## *4.4. Paired-Samples t-Test Results*
+
+Paired-samples t-tests were conducted to compare the mean scores for the research-related factors between KSA and UAE participants (see[ Table 7)](#page-12-0). KSA and UAE participants differed significantly in level of research motivation (mean difference = 0.543, SD = 1.242, t (45) = 2.968 and p = 0.005). This supports previous findings that UAE academics tend to be more research-motivated. In contrast, there was no significant difference in level of research engagement (mean difference = 0.087, SD = 1.658, t (45) = 0.356 and p = 0.724). This suggests that academics in both countries engage in research similarly despite differing levels of motivation to do so.
+
+There was also no significant difference in the level of institutional support (mean difference = 0.326, SD = 1.826, t (45) = 1.211 and p = 0.232) while the 95% confidence interval was -0.216 to 0.868, indicating no significant difference. This suggests that while institutional support varies between the two countries, KSA and UAE academics perceive support similarly. The 95% confidence interval was -0.378 to .987, indicating that academics in both countries receive similar support. In contrast, there was a significant difference in frequency of research coauthorship (mean difference = 0.630, SD = 1.970, t (45) = 2.170 and p =.035) with a confidence interval of .045 to 1.216. This suggests that UAE academics collaborate more with their colleagues on research projects than KSA academics.
+
+Overall, the paired-samples t-test results show that UAE academics tend to be more motivated and collaborative than KSA academics whereas research engagement, perceived institutional support, and support types are similar. These findings show the need for country-specific research engagement and collaboration strategies tailored to educational and institutional contexts.
+
+<!-- page 13 -->
+
+<!-- page 14 -->
+
+## *4.5. Qualitative Findings*
+
+The responses to the open-ended questions in the survey were subjected to thematic analysis using Braun and Clarke's (19%) approach. The analysis revealed six main themes for KSA and four main themes for the UAE (see[ Table 8)](#page-14-1). These main themes also contained subthemes.
+
+## *4.5.1. Career Development*
+
+In KSA, academic research is driven by career advancement, particularly promotion and advancement. KSA academics saw research as a path to professional advancement and institutional recognition. This focus on career progression suggests that research outputs directly affect career paths. In the UAE although career development was also essential, the main driver was personal interest. The UAE participants cited intrinsic motivational factors like passion for their field and a desire to advance knowledge. This suggests that personal satisfaction and intellectual curiosity motivate research in the UAE although career growth and a desire to contribute to the field were also cited, indicating a balance among UAE academics between personal and professional motivation.
+
+## *4.5.2. Financial Reasons*
+
+Only a few respondents in KSA mentioned financial incentives like salary increases and funding opportunities as research motivators. This suggests that while researchers in KSA value financial rewards, they are not the primary motivator. Among UAE respondents, personal interest and career development were more important than financial motivations. This difference may reflect each country's financial structures and researcher support systems. It may also suggest that UAE institutions provide enough funding, thereby eliminating the need for researchers to prioritize financial incentives.
+
+## *4.5.3. Institutional Support*
+
+Institutional support is crucial for research. The KSA respondents wanted clearer institutional policies and better research support to help them navigate the complexities of conducting academic research. Improvements in policy clarity and research support could boost research productivity and engagement. UAE academics were more likely to report a lack of support and funding which they considered significant challenges. This suggests that UAE researchers face significant institutional barriers that hinder their research engagement despite their strong intrinsic motivation. Policy implementation and funding must improve to support researchers.
+
+## *4.5.4. Time Constraints*
+
+Time constraints were a commonly reported issue in both the KSA and UAE samples. KSA respondents identified teaching loads and administrative burdens as significant barriers to conducting research because they leave little time for research activities, thereby limiting academics' ability to produce high-quality research outputs. Similarly, many UAE respondents reported time constraints due to heavy teaching loads and unrealistic research expectations. These findings suggest that academics in both countries face significant challenges in balancing teaching responsibilities and research activities. Addressing these time constraints through improved workload management and institutional support could increase research engagement.
+
+## *4.5.5. Research Impact*
+
+Respondents in both countries demonstrated a clear aspiration to create a significant influence through their research. KSA academics particularly identified contribution to the field and publication as significant motivating factors. The emphasis on publishing is an acknowledgement of the significance of sharing research findings to enhance academic knowledge and professional practices. UAE academics emphasized research impact as well as the opportunity to make valuable contributions to their field. This emphasizes on research impact highlights the significance of creating platforms and opportunities for researchers to publish and disseminate their work extensively.
+
+## *4.5.6. Personal Interest*
+
+UAE respondents commonly reported being motivated by personal interest and curiosity. This intrinsic motivation indicates a strong desire to improve education and knowledge. Career development and institutional support were more important while personal interest was also important among KSA academics. This suggests that these academic researchers seek both personal and professional satisfaction.
+
+## *4.5.7. Collaboration*
+
+Respondents in both countries valued collaboration with native English speakers for research quality and professional development. KSA academics noted that collaboration improves language clarity and precision while UAE respondents stated that it fosters networking and diverse perspectives. However, respondents in both countries also reported that institutional policies can hinder collaboration and research productivity.
+
+Overall, the thematic analysis of the qualitative data shows that KSA and UAE researchers have both similar and different motivations and challenges. In both countries, institutions can boost their research engagement and productivity through better institutional support, clearer policies, and more reasonable workload management.
+
+<!-- page 15 -->
+
+## **5. Discussion**
+
+The survey study was conducted with university academics from KSA and the UAE. The demographic analysis and paired-samples t-tests revealed the similarities and differences between their levels of research engagement and institutional support.[ Ghabban et al. (2019)](#page-16-3) reported that in KSA, personal and organizational factors strongly influence university researchers' attitudes toward sustainable research productivity.
+
+The regression analysis showed that research support significantly predicts research engagement among KSA academics whereas institutional support, motivation, and co-authorship do not. This suggests that KSA research engagement requires specific support mechanisms. Similarly,[ Schmoch et al. (2016)](#page-16-6) argue that targeted support can boost university research productivity in KSA. The regression analysis of the UAE data identified no significant predictors of research engagement, suggesting that other factors may be more critical. This contrasts with [Karabchuk et al. (2022)](#page-16-2) who found that organizational factors significantly affect UAE research productivity.
+
+The paired-samples t-tests revealed significant differences between the KSA and UAE samples regarding level of research motivation and frequency of co-authorship. More specifically, UAE academics collaborated more with peers and were more motivated to conduct research. This aligns with[ Fernandez et al. (2022)](#page-16-4) who reported that UAE academics have high motivation levels and collaborative research practices. Regarding research engagement, perceived institutional support, and forms of support, there were no significant differences between the two countries, indicating similar research support environments, as reported by previous studies [(Borg & Liu, 2013;](#page-16-33) [Ellis, 2009;](#page-16-41)[ Kostoulas, 2018)](#page-16-42).
+
+The demographic analysis and paired-samples t-test results align with previous literature on research engagement and institutional support in the Arabian Gulf. For example,[ Boufarss and Laakso (2020)](#page-16-0) highlighted the UAE's prioritization of open access research publications and institutional incentives which may help explain the high levels of motivation reported by UAE academics in this study.[ Subbarayalu and Al Kuwaiti (2018)](#page-16-8) found that poor work-life quality hinders research productivity in KSA which aligns with the KSA regression analysis findings. While academics in both KSA and the UAE professors reported struggling with research support, UAE academics are more motivated and collaborative.
+
+Finally, the thematic analysis of the survey responses shows that research engagement motivations and challenges are both similar and different in the two countries. KSA academics are more strongly motivated by career advancement and institutional support like policy clarity and research support while financial factors are less prominent. Important obstacles include high teaching loads, administrative burdens, and unclear institutional policies. UAE academics are driven more by curiosity and a passion for learning with career development and contributing to their field. Institutional issues, particularly funding and support are more often cited, as are time constraints due to heavy teaching. Academics in both countries value collaboration with native English speakers for research quality and professional networking but report that institutional policies often limit their research productivity. Overall, these findings suggest that research engagement in KSA and the UAE can be improved by better institutional support, clearer policies, and more effective workload management.
+
+## *5.1. Policy Implications*
+
+The present study's comparative analysis of research engagement between KSA and UAE academics has several policy implications for higher education institutions. In KSA, academics need improved and diversified institutional support for their research because this significantly determines their level of research engagement. Such support could include greater access to research grants, professional development opportunities, and more time allocated for research. Institutions should also develop structured mentorship and recognition programs to help motivate faculty to conduct research. According to [Schmoch et al. (2016)](#page-16-6) research environments can be improved by aligning support mechanisms with the needs of academics.
+
+<!-- page 16 -->
+
+In the UAE, research motivation and co-authorship are already at a higher level, so institutions should focus on enhancing their policies to support and improve them. In particular, these policies can encourage collaborative research projects both within and across institutions to capitalize on the high motivation expressed by these academics. Furthermore, these institutions can support the UAE government's innovation strategy by encouraging international collaboration and partnerships [(UAE PMO, 2015)](#page-17-2). UAE institutions also need to provide professional development opportunities to their researchers regarding collaborative research and interdisciplinary projects. According to [Karabchuk et al. (2022)](#page-16-2) such policies can foster research engagement and increase the UAE's international competitiveness.
+
+Academics themselves in KSA and the UAE must also actively seek institutional support and collaboration. In KSA, they should demand specific support mechanisms for their particular research requirements. By acting proactively, they can gain more institutional support to increase their research productivity [(Kumaravadivelu, ](#page-16-43) [2016)](#page-16-43). In the UAE, academics should draw on their already higher levels of motivation to engage in more collaborative and interdisciplinary projects that entail more dynamic and innovative research. Overall, by promoting a more supportive and collaborative research culture, these policy implications can make research productivity sustainable in both countries and promote academic excellence.
+
+The thematic analysis suggests several policy changes to boost research engagement in the UAE and KSA. First, institutions should develop research policies that are clear and supportive instead of obstructing academic research engagement. Institutions can approve research projects more quickly; increase their funding of projects, and revise workloads to enable academics to spend more time researching. Academics will also be more motivated and productive if institutions provide mentorship programs and research grants and simplify their access to resources. Finally, institutions can help their academics produce higher quality research and develop academic research networks through policies that encourage collaboration with native English speakers and international scholars. In short, institutions in both KSA and the UAE will be able to support their researchers more effectively, thereby increasing their research output and strengthening the country's academic advancement by addressing current weaknesses in the aforementioned policy areas.
+
+## **6. Conclusion**
+
+This study, which compared research engagement among KSA and UAE university academics revealed significant differences in research motivation and collaboration. UAE academics tend to be more motivated to collaborate on research than their KSA counterparts although academics in both countries have similar levels of research engagement and perceived institutional support and report similar types of institutional research support and support issues. The regression analysis showed that institutional support predicts research engagement in KSA but not the UAE. These findings emphasize the need for tailored institutional policies to improve research engagement in both countries through diverse targeted support mechanisms and sustained collaborative initiatives.
+
+This study provides several important insights but has several limitations. First, the small sample size may limit the generalizability of the findings. Second, the study draws on self-reported data which may bias responses. Third, the cross-sectional research design makes it difficult to determine causality between the predictors and research engagement. Future studies should use longitudinal designs and larger, more diverse samples to better understand research engagement dynamics. Qualitative methods may also reveal the unique challenges and needs of academics in both countries. Future research should also examine cultural, organizational, and policy factors affecting research engagement and the role of external collaborations, funding opportunities, and international partnerships to better explain research productivity in the Arabian Gulf universities. Finally, studies that incorporate more diverse regional perspectives and best practices from other Gulf Cooperation Council (GCC) countries may also be helpful. Such research can help in understanding and fostering a more productive research culture in higher education institutions in KSA, the UAE, and beyond.
+
+## **References**
+
+Al-Ghamdi, S., & Tight, M. (2013). Selecting and developing high-quality academic staff. In Higher education in Saudi Arabia: Achievements, challenges and opportunities. In (pp. 83-93). Dordrecht: Springer Netherlands.
+
+Al-Kahtani, N. K., Ryan, J. J., & Jefferson, T. I. (2006). How Saudi female faculty perceive internet technology usage and potential. *Information Knowledge Systems Management, 5*(4), 227-243.
+
+Al-Khalifa, H. S. (2014). Scientometric assessment of Saudi publication productivity in computer science in the period of 1978–2012 *International Journal of Web Information Systems, 10*(1), 194–208.
+
+Alghanim, S. A., & Alhamali, R. M. (2011). Research productivity among faculty members at medical and health schools in Saudi Arabia. *Saudi Medical Journal, 32*(12), 1297-1303.
+
+Alhassan, A., & Ali, H. (2020). EFL teacher research engagement: Towards a research-pedagogy nexus. *Cogent Arts & Humanities, 7*(1), 1-15. Alrahlah, A. A. (2016). The impact of motivational factors on research productivity of dental faculty members: A qualitative study. *Journal of * *Taibah University Medical Sciences, 11*(5), 448-455[. https://doi.org/10.1016/j.jtumed.2016.06.006](https://doi.org/10.1016/j.jtumed.2016.06.006)
+
+Alsharari, N. M. (2018). Internationalization of the higher education system: An interpretive analysis. *International Journal of Educational * *Management, 32*(3), 359-381[. https://doi.org/10.1108/ijem-04-2017-0082](https://doi.org/10.1108/ijem-04-2017-0082)
+
+Alshihri, B. A. (2017). *Using google applications as part of cloud computing to improve knowledge and teaching skills of faculty members at the university * *of Bisha, Bisha, Saudi Arabia.* Ph.D. Thesis, Wayne State University.
+
+Alturise, F., & Alojaiman, B. (2013). *Benefits and challenges of using ICT in Saudi Arabia* *universities: A literature review.* Paper presented at the In Proceedings of the International Conference on Advances in Computing, Engineering and Learning Technologies (pp. 2–46). Abu Dhabi, United Arab Emirates.
+
+Alzuman, A. (2015). *Faculty research productivity in Saudi Arabian public universities: A human capital investment perspective.* Ph.D. Thesis, Virginia Commonwealth University.
+
+Austin, A. E., Chapman, D. W., Farah, S., Wilson, E., & Ridge, N. (2014). Expatriate academic staff in the United Arab Emirates: The nature of their work experiences in higher education institutions. *Higher Education, 68*(4), 541-557.[ https://doi.org/10.1007/s10734-014-](https://doi.org/10.1007/s10734-014-9727-z) [9727-z](https://doi.org/10.1007/s10734-014-9727-z)
+
+Babbie, E. (2010). *The practice of social research* (12th ed.). Belmont, CA, London: Wadsworth Cengage Learning.
+
+Bales, S., Hubbard, D. E., Sare, L., & Olivarez, J. (2019). The use of departmental journal lists in promotion and tenure decisions at American research universities. *The Journal of Academic Librarianship, 45*(2), 153-161.[ https://doi.org/10.1016/j.acalib.2019.02.005](https://doi.org/10.1016/j.acalib.2019.02.005)
+
+Borg, S. (2010). Language teacher research engagement. *Language Teaching, 43*(4), 391-429.
+
+<!-- page 17 -->
+
+- Borg, S., & Alshumaimeri, Y. (2012). University teacher teachers' research engagement: Perspectives from Saudi Arabia. *Teaching and * *Teacher Education, 28*(3), 347-356.
+- Borg, S., & Liu, Y. (2013). Chinese college English teachers' research engagement. *TESOL Quarterly, 47*(2), 270-299.
+- Boufarss, M., & Laakso, M. (2020). Open sesame? Open access priorities, incentives, and policies among higher education institutions in the United Arab Emirates. *Scientometrics, 124*(2), 1553-1577[. https://doi.org/10.1007/s11192-020-03529-y](https://doi.org/10.1007/s11192-020-03529-y)
+- Chapman, D., Austin, A., Farah, S., Wilson, E., & Ridge, N. (2014). Academic staff in the UAE: Unsettled journey. *Higher Education Policy, * *27*, 131-151[. https://doi.org/10.1057/hep.2013.19](https://doi.org/10.1057/hep.2013.19)
+- Chau, N. N. T., & Pham, H. C. (2022). Investigating language teachers' agentive practices in their research engagement. *English Scholars * *Beyond Borders, 8*(1), 3–31.
+- Chen, K., Zhang, Y., & Fu, X. (2019). International research collaboration: An emerging domain of innovation studies? *Research Policy, 48*(1), 149-168[. https://doi.org/10.1016/j.respol.2018.08.005](https://doi.org/10.1016/j.respol.2018.08.005)
+- Creswell, J. W. (2014). *Research design: Qualitative, quantitative, and mixed methods approaches*. Thousand Oaks, CA: SAGE Publications.
+- Dillman, D. A., Smyth, J. D., & Christian, L. M. (2014). *Internet, phone, mail, and mixed-mode surveys: The tailored design method* (4th ed.). Hoboken, New Jersey: John Wiley & Sons.
+- Dornyei, Z. (2007). *Research methods in applied linguistics*. Oxford: Oxford University Press.
+- Eid, M., & Nuhu, N. A. (2011). Impact of learning culture and information technology use on knowledge sharing of Saudi students. *Knowledge Management* *Research & Practice, 9*(1), 48-57[. https://doi.org/10.1057/kmrp.2010.25](https://doi.org/10.1057/kmrp.2010.25)
+- Ellis, R. (2009). Corrective feedback and teacher development. *L2 Journal, 1*(1), 3–18.
+- Fernandez, A. I., Al Radaideh, A., Singh Sisodia, G., Mathew, A., & Jimber del Río, J. A. (2022). Managing university e-learning environments and academic achievement in the United Arab Emirates: An instructor and student perspective. *PloS One, 17*(5), e0268338.[ https://doi.org/10.1371/journal.pone.0268338](https://doi.org/10.1371/journal.pone.0268338)
+- Fink, A. (2003). *The survey handbook* (2nd ed.). Thousand Oaks, CA: SAGE Publications.
+- Fowler, F. J. (2013). *Survey research methods*. New York: SAGE Publications.
+- GFH. (2016). *GCC education: Sector report*. Retrieved from[ https://gfh.com/](https://gfh.com/)
+- Ghabban, F., Selamat, A., Ibrahim, R., Krejcar, O., Maresova, P., & Herrera-Viedma, E. (2019). The influence of personal and organizational factors on researchers' attitudes towards sustainable research productivity in Saudi universities. *Sustainability, 11*(17), 4804. [https://doi.org/10.3390/su11174804](https://doi.org/10.3390/su11174804)
+- Guraya, S. Y., Khoshhal, K. I., Yusoff, M. S. B., & Khan, M. A. (2018). Why research productivity of medical faculty declines after attaining professor rank? A multi-center study from Saudi Arabia, Malaysia and Pakistan. *Medical Teacher, 40*(sup1), S83-S89. [https://doi.org/10.1080/0142159x.2018.1465532](https://doi.org/10.1080/0142159x.2018.1465532)
+- Huang, S. Y., Huang, C.-H., & Chang, T.-W. (2022). A new concept of work engagement theory in cognitive engagement, emotional engagement, and physical engagement. *Frontiers in Psychology, 12*, 663440.[ https://doi.org/10.3389/fpsyg.2021.663440](https://doi.org/10.3389/fpsyg.2021.663440)
+- Kahn, W. A. (1990). Psychological conditions of personal engagement and disengagement at work. *Academy of Management Journal, 33*(4), 692-724[. https://doi.org/10.5465/256287](https://doi.org/10.5465/256287)
+- Kahn, W. A., & Fellows, S. (2013). Employee engagement and meaningful work. In B. J. Dik, Z. S. Byrne, & M. F. Steger (Eds.), Purpose and meaning in the workplace. In (pp. 105–126): American Psychological Association.[ https://doi.org/10.1037/14183-006.](https://doi.org/10.1037/14183-006)
+- Kahn, W. A., & Heaphy, E. D. (2013). Relational contexts of personal engagement at work. In C.Truss, R. Delbridge, K.Alfes, A.Shantz, & E. Soane (Eds.), Employee engagement in theory and practice. In (pp. 82–96). London: Routledge.
+- Karabchuk, T., Shomotova, A., & Chmel, K. (2022). Paradox of research productivity of higher education institutions in Arab Gulf countries: The case of the UAE. *Higher Education Quarterly, 76*(4), 759-785[. https://doi.org/10.1111/hequ.12347](https://doi.org/10.1111/hequ.12347)
+- Khan, I., Khan, N., Jazim, F., Al-Mamary, Y. H., Abdulrab, M., & Al-Ghurbani, A. M. (2022). The effect of external factors in use of technology among Ha'il university academic faculty: Evidence from Saudi Arabia. *Journal of Applied Research in Higher Education, * *14*(4), 1319-1339[. https://doi.org/10.1108/jarhe-04-2021-0140](https://doi.org/10.1108/jarhe-04-2021-0140)
+- Kostoulas, A. (2018). *A language school as a complex system: Complex systems theory and English language teaching*. Berlin: Peter Lang.
+- Kubota, R. (2023). Linking research to transforming the real world: Critical language studies for the next 20 years. *Critical Inquiry in * *Language Studies, 20*(1), 1-16.
+- Kumaravadivelu, B. (2016). The decolonial option in English teaching: Can the subaltern act? *TESOL Quarterly, 50*(1), 66-85.
+- Kuwaiti, A. A., Bicak, H. A., & Wahass, S. (2020). Factors predicting job satisfaction among faculty members of a Saudi higher education institution. *Journal of Applied Research in Higher Education, 12*(2), 296-310[. https://doi.org/10.1108/jarhe-07-2018-0128](https://doi.org/10.1108/jarhe-07-2018-0128)
+- Kwon, K., & Park, J. (2019). The life cycle of employee engagement theory in HRD research. *Advances in Developing Human Resources, 21*(3), 352-370[. https://doi.org/10.1177/1523422319851443](https://doi.org/10.1177/1523422319851443)
+- Leite, C., Sousa-Pereira, F., & Marinho, P. (2023). Teacher educators in Portugal: what is the research profile? what are the research conditions? *El Profesorado, 27*(1), 301–320.
+- Miller, J. C., Coble, K. H., & Lusk, J. L. (2013). Evaluating top faculty researchers and the incentives that motivate them. *Scientometrics, 97*(3), 519–533.[ https://doi.org/10.1007/s11192-013-0987-7](https://doi.org/10.1007/s11192-013-0987-7)
+- Ministry of Education Higher Education Saudi Arabia. (2018). *Ministry of education higher education, Saudi Arabia*. Retrieved from [https://www.moe.gov.sa/en/Pages/default.aspx](https://www.moe.gov.sa/en/Pages/default.aspx)
+- Mitterlehner, B. (2013). *Quality enhancement in tertiary education in the United Arab Emirates: An assessment of an international knowledge hub*. Saarbrucken: Akademiker Verlag.
+- Moher, D., Naudet, F., Cristea, I. A., Miedema, F., Ioannidis, J. P., & Goodman, S. N. (2018). Assessing scientists for hiring, promotion, and tenure. *PLoS Biology, 16*(3), e2004089.[ https://doi.org/10.1371/journal.pbio.2004089](https://doi.org/10.1371/journal.pbio.2004089)
+- Nguyen, L., & Marjoribanks, T. (2021). Developing a university research culture in Vietnam: A leadership conceptual framework. In J. Gillen, L. C. Kelley, & L. H. Phan (Eds.), Vietnam at the vanguard: New perspectives across time, space, and community. In (pp. 209-233): Springer.
+- Peng, J. E., & Gao, X. (2019). Understanding TEFL academics' research motivation and its relations with research productivity. *Sage Open, * *9*(3), 2158244019866295.
+- Pham, C., Chau, N., & Nguyen, K. (2023). Follow your research career or choose your family: Female language teachers' agency in their research engagement. *Cogent Education, 10*(2), 2236456.
+- Pudovkin, A. I. (2018). Comments on the use of the journal impact factor for assessing the research contributions of individual authors. *Frontiers in Research Metrics and Analytics, 3*(2), 2[. https://doi.org/10.3389/frma.2018.00002](https://doi.org/10.3389/frma.2018.00002)
+- Ryan, J. (2017). *Unleash power of scientific research to stimulate the UAE knowledge economy*. Retrieved from [https://www.thenational.ae/business/unleash-power-of-scientific-research-to-stimulate-the-uae-knowledge-economy-1.68716](https://www.thenational.ae/business/unleash-power-of-scientific-research-to-stimulate-the-uae-knowledge-economy-1.68716)
+- Ryan, J. C., & Daly, T. M. (2019). Barriers to innovation and knowledge generation: The challenges of conducting business and social research in an emerging country context. *Journal of Innovation & Knowledge, 4*(1), 47-54[. https://doi.org/10.1016/j.jik.2017.10.004](https://doi.org/10.1016/j.jik.2017.10.004)
+- Sanderson, D., & Khan, S. (2019). *Ghadan 21: Abu Dhabi to boost business and ecotourism with major new reforms*. Retrieved from [https://www.thenational.ae/uae/government/ghadan-21abu-dhabi-to-boost-business-and-ecotourism-with-major-new-reforms-](https://www.thenational.ae/uae/government/ghadan-21abu-dhabi-to-boost-business-and-ecotourism-with-major-new-reforms-1.878805#14)[1.878805#14](https://www.thenational.ae/uae/government/ghadan-21abu-dhabi-to-boost-business-and-ecotourism-with-major-new-reforms-1.878805#14)
+- Schmoch, U., Fardoun, H. M., & Mashat, A. S. (2016). Establishing a world-class University in Saudi Arabia: Intended and unintended effects. *Scientometrics, 109*, 1191-1207[. https://doi.org/10.1007/s11192-016-2089-9](https://doi.org/10.1007/s11192-016-2089-9)
+- Sellami, A., Arar, K., & Sawalhi, R. (2022). *Higher education and scientific research in the Arabian Gulf states: Opportunities, aspirations, and * *challenges*. London: Routledge.
+- Spender, T., & Bardsley, D. (2009). *University study faults lack of tenure*. Retrieved from [https://www.thenational.ae/uae/education/university-study-faults-lack-of-tenure-1.489374](https://www.thenational.ae/uae/education/university-study-faults-lack-of-tenure-1.489374)
+- Subbarayalu, A. V., & Al Kuwaiti, A. (2018). Quality of work life of teaching staff working at a higher education institution in Saudi Arabia: A cross-sectional study. *Journal of Social Service Research, 45*(4), 530–542.
+
+<!-- page 18 -->
+
+## *Journal of Education and e-Learning Research, 2025, 12(1): 64-81*
+
+- Tashakkori, A., & Teddlie, C. (2003). *Handbook of mixed methods in social and behavioral research*. Thousand Oaks: Sage.
+- Tien, F. F. (2000). To what degree does the desire for promotion motivate faculty to perform research? Testing the expectancy theory. *Research in Higher Education, 41*, 723-752.
+- UAE PMO. (2015). *UAE national innovation strategy*. Retrieved from [https://www.moei.gov.ae/assets/download/1d2d6460/National%20Innovation%20Strategy.pdf.aspx](https://www.moei.gov.ae/assets/download/1d2d6460/National%20Innovation%20Strategy.pdf.aspx)
+- UAE PMO. (2019). *Share of the UAE nationals in the workforce. The Prime Minister's Office*. Retrieved from[ https://uaecabinet.ae/en/prime](https://uaecabinet.ae/en/prime-ministers-office)[ministers-office](https://uaecabinet.ae/en/prime-ministers-office)
+- Xu, X. (2014). Becoming researchers: A narrative study of Chinese university EFL teachers' research practice and their professional identity construction. *Language Teaching Research, 18*(2), 242-259.
+- Yassin, F., Salim, J., & Sahari, N. (2013). The influence of organizational factors on knowledge sharing using ICT among teachers. *Procedia * *Technology, 11*, 272-280.[ https://doi.org/10.1016/j.protcy.2013.12.191](https://doi.org/10.1016/j.protcy.2013.12.191)
+
+**Asian Online Journal Publishing Group ***is not responsible or answerable for any loss, damage or liability, etc. caused in relation to/arising out of the use of the content. * *Any queries should be directed to the corresponding author of the article.*

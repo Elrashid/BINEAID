@@ -1,0 +1,253 @@
+<!-- LR.R17 | source: papers_json/LR.R17/ -->
+
+![LR.R17 fig01](../figures/LR/LR.R17_fig01.jpg)
+
+DOI: 10.1111/hequ.12417
+
+## **REVIEW ARTICLE**
+
+## **Reputation disparity in teaching and research ** **productivity and rewards in the context of ** **consequences of institutionalization of Publish or ** **Perish culture in academia**
+
+**Samuel Akande** **Bell****[o1](#page-0-0)** |** Felix Chimeziri** **Azubuike****[2](#page-0-1)** |** ** **Olumuyiwa A.** **Akand****[e3](#page-0-2)**
+
+## **Correspondence**
+
+Samuel Akande Bello, Head, Outreach, Reference and Information Services Section, Medical Library, College of Medicine, University of Ibadan, 5017 Ibadan, Oyo State, Nigeria. Email:[ samuel.bello@ui.edu.ng](mailto:samuel.bello@ui.edu.ng), [asamuelbello@gmail.com](mailto:asamuelbello@gmail.com)
+
+## **Abstract**
+
+The reputation disparity between teaching and research has stirred up an unending debate. The age-long notion that teaching and research overlap has become a controversial issue in academia. Consequences of the institutionalization of Publish OR Perish (POP) abound in the literature. This paper investigates the reputations disparity between teaching and research productivity and the rewards for these academic activities. It explores which, out of teaching activities and research publications receive higher or less attention and rewards. Relevant existing literature was reviewed to establish the institutionalization of POP and its consequences of the reputations disparity between teaching and research and its adverse effects on these activities. Evidence from the literature reviewed reveals the existence of POP reputation disparity as part of its consequences. A key finding is that teaching activities are insignificant and unrewarded as research publications. Neither the effectiveness nor the number of teaching loads counts like the numbers of publications.
+
+## **KEYWORDS**
+
+academia, consequences of POP, global, higher education, reputation disparity, teaching and research rewards
+
+> Medical Library, College of Medicine, University of Ibadan, Ibadan, Nigeria
+
+> Policy, Planning, Research & Statistics, Financial Reporting Council of Nigeria, Lagos, Nigeria
+
+> ^3^ Tourism Development Programme, Centre for Sustainable Development, University of Ibadan, Ibadan, Nigeria
+
+<!-- page 2 -->
+
+## **1 **|** INTRODUCTION**
+
+The origin of Publish Or Perish (POP) academic culture appears elusive. The documentation of the efforts devoted to tracing the emergence of POP in the United States was historical (Garfield, [1996](#page-8-0)). For instance, Garfield's efforts reveal lots of linkages that affected the identification of the actual person who first coined the phrase. However, further investigations documented a quotation credited to a sociologist (Garfield, [1996)](#page-8-0) about the POP's origin: 'The prevailing pragmatism forced upon the academic group is that one must write something and get it into print'. 'Situational imperative dictates a "Publish or Perish" credo within the ranks' (Wilson, [1942,](#page-10-0) p. 197). This gave impetus to the conceptualization of POP academic culture.
+
+The institutionalization period of POP in academia varies from country to country. To mention a few: The development of POP culture in the United States and Canadian academic community predated that of Europe (Van Dalen & Henkens, [2012,](#page-10-1) p. 1) and France (Rond & Miller, [2005](#page-9-0), p. 323). The acceptance of the POP principle as a mandatory requirement for an academic and financial reward in the United States came as a result of the implementation of two commissions of inquiries: The Ford Foundation (Gordon & Howell, [1959)](#page-9-1) and the Carnegie Corporation (Pierson et al., [1959](#page-9-2)). These developments in the US sensitized the United Kingdom and France (Rond & Miller, [2005](#page-9-0)) to revisit their countries' higher education (HE) practices, hence the Franks Commission (UK) and Foundation Nationale Pour I'Ensignement des Enterprise (FNEGE) were inaugurated in 1966 and 1968 respectively (Rond & Miller, [2005](#page-9-0), p. 323). The continent of Asia has been part of the global research turning point but entries into this sphere by the various countries in the region occurred at different times. Differences in the economic status, coupled with variations in these countries' social, economic, and political path dependencies on the global stage have been the reasons for this gradual development (Horta & Mok, [2020](#page-9-3)).
+
+Tracing the emergence of POP in the African continent appears cumbersome. Information seems to confirm its implementation in the region is traced to the following extract from the decisions taken at the conference of Ministers of Education of Independent States in 1962 (Yankholmes, [2014)](#page-10-2) about how universities in Africa could become the crucible of knowledge:
+
+To teach and advance knowledge via research; to maintain adherence and loyalty to world academic standards; to encourage elucidation and dispel misconceptions about Africa, through research and the teaching of African studies and to evolve over the years, truly African institutions of higher learning dedicated to Africa and its people. (p. 99)
+
+As the institutionalization of POP becoming more accepted in academia various provocative terminologies, associated with the maxim, are equally gaining popularity: 'publication pressure/stress', 'publication burnout', and 'publication rush' (Miller et al., [2011](#page-9-4); Van Dalen & Henkens, [2012](#page-10-1)). Descriptions like 'an academic game' that subjects faculty members to uncontrollable competition for publication records (Bedeian, [1996)](#page-8-1) and a scientific research enterprise' characterized by competition for priority, influence, prestige, faculty positions, funding, and students Bok (cited in Anderson et al., [2007](#page-8-2), p. 438) are parts of the development. Further, some emergent concepts such as 'Publish and Flourish', 'Perish or Publish' and 'Publish ethically or Perish' (Das, [2017;](#page-8-3) Tian et al., [2016;](#page-10-3) Warsy & Warsy, [2019)](#page-10-4) are also emerging. This development informs the first specific objective of this narrative review (1) to examine what is POP culture in higher education institutions (HEIs) and its beneficial effect of how it has become dominant and widely accepted in academia.
+
+The devotion and contributions of Ernest Leroy Boyer to the advancement of HE is historical. Of particular note and relevance to the present paper is the model of scholarship, thereafter known as Boyer's Model of Scholarship/Scholarship Reconsidered (Boyer, [1990)](#page-8-4). The Model of Scholarship classified Academic activities into four domains of scholarship: Discovery, Integration, Application, and Teaching (Boyer, [1990](#page-8-4)); where 'Discovery'
+
+<!-- page 3 -->
+
+(research) is described as 'commitment to knowledge for its own sakes for freedom of inquiry and to following, in a disciplined fashion; an investigation wherever it may lead' (p. 17); 'Integration' is defined as contextualization, organization, or synthesis. Integration paves the way to the growth of knowledge through new connections that open doors to the unconsidered fields of inquiry. As connected to Discovery, the Scholarship of Integration has to do with interpretation, which is the analytical task of fitting one's own research or the research of others (pp. 18– 19); 'Application', is described as an activity directed towards making academic scholarship relevant to the society, encompasses all intellectual enterprise of the academic; 'Teaching', defined as 'a scholarly activity, "comprises a scholarship that is integrated with the scholarship of discovery, integration, and application' (pp. 19–24) The model clarified Teaching and learning as not only a scholarly activity that promotes, enables but a part of the scholarship of discovery.
+
+The notion of higher returns attributed to research against teaching is in tandem with the position of Hill, who aggregated such returns as 'factors conspired to exacerbate the imbalance between teaching and research' (Hill, [2010](#page-9-5), p. 4) These perceptions inform the second and the third objectives of this narrative review: (2) to examine the channels of detrimental effects of research publications (under the institutionalization of Publish or Perish) on teaching and research and (3) to examine the reputation disparity between teaching and research productivity and rewards.
+
+Quite a several studies have investigated the POP phenomenon. However, three gaps were identified. First, the beneficial effects of POP as potential reasons for the evolution of research publications and its acceptability were scattered and not easily accessible in the literature on POP. Second, many of the studies previously carried out on the status of research and publications were not only limited by institutions and countries but mostly focused on the teaching-research nexus with the exclusion of other related aspects. However, the discussion of the model of scholarship, the genesis of the teaching-research dichotomy, and its positive (beneficial) and negative (detrimental) effects on the institutionalization of POP globally make this paper outstanding. Third, Quantitative study is the most common approach available in the literature regarding the practical application of POP maxim worldwide. Rather, the authors of the present study employed a qualitative method to examine the reputation disparity between teaching and research in the context of the consequences of the institutionalization of POP in HEIs across the globe. Addressing both beneficial and detrimental effects of research outputs in the context of POP globally in a single study is a breakthrough in easy access to knowledge regarding POP.
+
+This study is guided by the following objectives:
+
+- **•** To examine POP culture in higher education institutions (HEIs) and its beneficial effects.
+- **•** To examine the channels of detrimental effects of research publications as consequences, under the institutionalization of POP, on teaching and research in academia.
+- **•** To examine the reputation disparity between teaching and research academic productivity and rewards as consequences of POP.
+
+This narrative review has a simple structure. The introduction provides a historical background of POP and its institutionalization in HEIs across the world. This is followed by three headings, summary and Implications of findings, Conclusion, and recommendations.
+
+## **2 **|** WHAT IS PUBLISH OR PERISH CULTURE AND ITS INSTITUTIONALI** **ZATION?**
+
+Publish Or Perish (POP) culture is a phrase that entered the academic lexicon many years ago and has undergone a turbulent historical development to date. POP as rhetoric has been described in various ways and directions.
+
+<!-- page 4 -->
+
+POP culture connotes 'publish your research' (Bedeian et al., [2009](#page-8-5); Bird, [2006;](#page-8-6) Desai, [2012;](#page-8-7) Lucas, [2006;](#page-9-6) Miller et al., [2011;](#page-9-4) Smith, [1990](#page-9-7)) or facing the consequences of not getting a promotion, academic portfolio or dire the risk of losing the faculty job (Glick et al., [2007](#page-9-8); Mohan, [2013)](#page-9-9).
+
+The institutionalization of the culture has been described as a universal phenomenon that subjects scholars from around the world to pressure to publish many papers to remain academic (Oyinlola, [2013,](#page-9-10) p. 1). The practice has subjected scholars to a competition. For instance, POP is seen as a scientific research enterprise of 'a game characterized by a competition for priority, influence, prestige, faculty positions, funding, publications, and students' Bok (cited in Anderson et al., [2007](#page-8-2), p. 438). Briefly discussed, competition is a common phenomenon used in modern society with the notion that people generally seem to work harder under competition for the better person to emerge and be compensated accordingly (Carson et al., [2013)](#page-8-8). However, the authors expressed concern about competition in academia being more ambiguous than in other fields of human endeavour (p. 183). Although, this position contradicted the views of some others who argued in support of competition as a tool that empowers the faculty to be more productive, creative, and successful (Ben-David, [1960](#page-8-9); Ben-David & Zloczower, [1962](#page-8-10)). This leads to an important line of argument regarding POP: beneficial effects of research and publications.
+
+## **3 **|** BENEFICIAL EFFECTS OF PUBLISH OR PERISH CULTURE**
+
+Two lines of arguments are of note in the literature about the predominance nature of research publications: beneficial and detrimental effects of research productivity (Van Dalen & Henkens, [2012)](#page-10-1). However, this heading is concerned with the discussion of the beneficial effects of POP. This line of argument emphasizes the potential reasons why research publication is widely accepted in academia.
+
+Some studies found research acceptance as a means of earning reputation, recognition, prestige, bargaining power and mobility on an international scale, including opportunities for promotion (Bedeian, [1996;](#page-8-1) Bedeian et al., [2009;](#page-8-5) Rond & Miller, [2005](#page-9-0)). Funding is another significant reason and a publications record is mandatory for any faculty to benefit. Building a reputation for high-quality research in advanced knowledge economies has become an important strategic mission for HEIs as a mandatory response to the government's demand for accountability (Besley & Peters, [2006](#page-8-11)). This global competitiveness in the knowledge production game has given rise to the new reform regarding research productivity in academia (Tran et al., [2017)](#page-10-5). Specifically, a new public management reform (NPM) (Enders et al., [2015](#page-8-12); Horta & Mok, [2020](#page-9-3)) has been introduced to measure university efficiency.
+
+The reform has been interpreted in various ways: a desire to reform and control HE (Olssen, [2021](#page-9-11)), and a demand for more transparency and accountability for the public funding invested in HEIs (Horta & Mok, [2020](#page-9-3)). The policy, which emanated from the ideas of restructuring the public system worldwide and came into being around 1980 (Horta & Mok, [2020](#page-9-3)), has turned the universities into marketplaces (Enders et al., [2015](#page-8-12)) where excellence in research and publications is the key performance desired for the faculty identity. The new reform has faces. Part of this resonates with the pursuit of institutional recognition. Gaining individual faculty institutional recognition is one aspect of the outcome of the managerial imperative (Remmik et al., [2011](#page-9-12)). The pursuit of such recognition by the individual faculty has become a personal struggle that matters to the individuals more than the sense of collective efforts; a context where 'it is every person for himself or herself' (Kalfa et al., [2018](#page-9-13), p. 287) rather than for all in academia.
+
+## **4 **|** DETRIMENTAL EFFEC TS OF POP ON TE ACHING AND RESE ARCH ** **AS CONSEQUENCES**
+
+The performance-based funding focusing on research productivity as part of new HE reforms has not only given rise to a culture of measurement and competition but growing tensions in academia (Sutton, [2017](#page-9-14)). Horta and
+
+<!-- page 5 -->
+
+Santos ([2020](#page-9-15)) admitted that the current HE performance measurement, with exclusive attention to research and publications, has created competitive environments that resulted in the mass production of research outputs. The authors, however, raised substantial doubt about the ability of these research outputs fulfilling the actual innovative research agendas envisaged by policymakers when designing and implementing new reform.
+
+Most of the research outputs are not only generated merely to tick evaluative boxes but at the expense of high-quality research capable of leading to knowledge breakthroughs (Young, [2015](#page-10-6)). Young's argument concurred with three criticisms. One emanated from Horta and Mok ([2020](#page-9-3)), who complained that despite a large number of tangible research products the outcome of innovations capable of impacting and transforming society is rather decreasing. The second from Rawat and Meena ([2014](#page-9-16)) reported that only 25% of the papers published in 4500 top scientific journals studied were cited by others within the first 5 years of publication and concluded that most publications failed to make any meaningful contributions to knowledge but were merely carried out to enrich curriculum vitae (p. 3). The third from Rond and Miller ([2005](#page-9-0)) criticized the publishing principle under POP as a productivity function of a number and certain quality. As Oyinlola ([2013](#page-9-10)) also pointed out, scholars in some regions suffered the additional weight of publishing in international journals with exorbitant publication fees despite low earnings. Sykes [(1988)](#page-10-7) criticized the current academic publishing principle as a diversionary scheme serving only the purpose of advancing academic careers where many of its outcomes were found worthless, as they were neither read nor readable.
+
+What scholar writes no longer matters as the emphasis has shifted from quality to quantity. The only thing that matters, as Van Dalen and Henkens [(2012](#page-10-1)) rightly commented is 'how often, where, and with whom you write' (p. 2). It is hard to believe what the publication rush has become in science, reading a statement like this: 'You can fail to do everything else as long as you have lots and lots of paper' (Anderson et al., [2007](#page-8-2), p. 2). The trends in the production of publishable results in academia are in the rush at the expense of quality, validity, rigour, and personal integrity (Adler & Adler, [2000](#page-8-13)).
+
+A worldwide study on Intended and Unintended Consequences of Publishing or Perish Culture conducted by Van Dalen and Henkens [(2012](#page-10-1)) confirmed cases of severe publication pressures amongst academics. For instance, the authors reported that 74% of the US researchers admitted high rate of publication pressure whilst a very close number (71%) of the scholars residing in other Anglo-Saxon countries (Australia, Canada, and the UK) also confessed the pressure and 59% of the researchers from Western Europe agreed with the statement of pressure (p. 7). The coefficients of the US and the Anglo—Saxon of the study revealed: 'more or less the same levels' of pressure amongst the scholars from the two regions (p. 7).
+
+A survey of 278 faculty research productivity from various departments of a public university claimed that those with high levels of type A behaviour (Aggressively committed to achieving success (Friedman & Rosenman, [1974)](#page-8-14)) did better in response to publication pressure than type B's with respect to quantity and quality of research published (Taylor et al., [1984)](#page-10-8).
+
+Unethical behaviours and scientific misconduct are part of the unfortunate negative effects of POP. Scientific misconduct is classified into fraud, (fabrication and falsification), plagiarism, and questionable research practice (salami slicing, guest authorships) (Tijdink et al., [2014)](#page-10-9). Engler et al. [(1987)](#page-8-15) described fraud as an act involving 'intentional misrepresentation, where the perpetrator makes pronouncements that are intended to inspire others to believe things that the person knows to be untrue. Ethical problems in academic research have categories. Swazey et al. [(1993)](#page-9-17) categorized these behaviours into misconduct in science and questionable research practices (p. 542).
+
+## **5 **|** REPUTATION DISPARIT Y BET WEEN TE ACHING AND RESE ARCH ** **PRODUCTIVITY AND REWARDS**
+
+Some studies have debunked arguments like 'research activities bring about teaching accomplishments and that the former and the latter are inextricably entwined' (Cadez et al., [2017](#page-8-16); Hattie & Marsh, [1996)](#page-9-18). Rather, Hattie's
+
+<!-- page 6 -->
+
+meta-analysis found the two variables as 'unrelated enterprises'. Though, the zero relationships reported in the review were hotly contested and surprisingly sparked the anger and infuriated some teaching loyalists in academia (Robertson & Bond, [2001,](#page-9-19) p. 8).
+
+However, the confusion about the teaching and research complementariness lies in the contradictions between the findings from the extant literature and the validation of the scholarship model. For instance, in the Scholarship Reconsidered, Ernest Boyer validated the theory of scholarship of Teaching and Learning where the understanding of scholarship was expanded to holistically combine research and teaching and other activities in HEIs (Boyer, [1990)](#page-8-4). The fusion of teaching and research and other academic activities was undertaken to allow all the domains of scholarship to 'dynamically interact with each other (Hill, [2010)](#page-9-5). Specifically, the validation of the scholarship of teaching and learning (SoTL) repositioned the activity to be central and equally important in all the intellectual domains (Boyer, [1990,](#page-8-4) [1997;](#page-8-17) Elton, [2009;](#page-8-18) Humboldt, [2001](#page-9-20)).
+
+Time, energy, and commitment are essential commodities that are competitive in the discussion of the disparity between teaching and research productivity. For instance, the three major arguments that predicted a negative relationship between teaching and research performances are evident in the three models of 'scarcity', 'differential personality' and 'divergent reward system' (Hattie & Marsh, [1996)](#page-9-18). Hattie's review articulated three arguments supporting a negative relationship between teaching and research, two arguments supporting a positive relationship between the variables, and three arguments antagonizing any relationship between the two (p. 508). One of these models is 'scarcity' which has three dimensions: time, energy, and commitment. The model recognizes the deferential distribution of time allocation in teaching and research. According to the model, the negative correlation occurs when the time assigned to teaching and research is negatively correlated. Conversely, time in teaching is positively correlated to teaching productivity, and time in research is equally positively correlated to research productivity only.
+
+Part of the model (Hattie & Marsh, [1996](#page-9-18)) still relevant to this discussion is the 'divergent reward system' which posits that 'research and teaching are conflicting roles with different expectations and obligations that are motivated by differing reward systems' (p. 510). However, arguments about this indicate that the principle spelt out in the model has not been appropriately interpreted and followed. This negligence has rendered the system of awarding rewards and recognitions for academic activities to be both controversial and unsatisfactory (Braskamp et al., [1983](#page-8-19); Millman, [1981)](#page-9-21). Another argument indicated that, even where evidence of acceptable forms of scholarship exists, they were set aside, as research publication 'remains the coin of the realm for promotion and tenure decisions' (Braxton et al., [2002](#page-8-20), p. 4).
+
+Performance measurement systems in many universities have placed increasing priority indicators reflecting research performance for promotion, tenure, and compensation (Arnold, [2008](#page-8-21); Douglas, [2013](#page-8-22); Hopwood, [2008](#page-9-22); Parker, [2008](#page-9-23); Ter Bogt & Scapens, [2012](#page-10-10)). Many findings reported research as an activity highly valuable than teaching (Gomez-Mejia & Balkin, [1992](#page-9-24); Katz, [1973;](#page-9-25) Konrad & Pfeffer, [1990](#page-9-26); Newman, [2008](#page-9-27)) when it comes to academic compensation. So disheartening is a report that 'only the number of publications in top-tier journals determined the faculty pay' (Gomez-Mejia & Balkin, [1992](#page-9-24)). Even, where teaching effectiveness was found positively related to pay, as further reported by the author, it only affected the faculty with outstanding research records. More devastating about the value of teaching in the academic reward system is a negative relationship found between teaching performance and faculty salaries (Gomez-Mejia & Balkin, [1992)](#page-9-24).
+
+Reports from the European nations indicate that the academic job market pays higher attention to the employment and promotion of those with measurable research quality (Ter Bogt & Scapens, [2012](#page-10-10)). Many higher institutions in the UK utilize research excellence rather than teaching activities in the employment and promotions of the faculty (Parker, [2008](#page-9-23)). Many universities were also found rewarding quality research with financial bonuses. An investigation carried out in Norway found a reward of a 20000 euro bonus for a top publication, whereas, no such mention of compensation for teaching quality and effectiveness (Cadez et al., [2017](#page-8-16)).
+
+<!-- page 7 -->
+
+## 14682273, 2023, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/hequ.12417 by <Shibboleth>-member@bath.ac.uk, Wiley Online Library on [28/10/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+## **6 **|** SUMMARY AND IMPLICATIONS OF FINDINGS**
+
+POP can be described as an exogenous reinvigoration of publishing culture that has raised the value of research productivity beyond expectations. Finding reveals that the conceptualization and coinage of POP has a confusing origin and its implementations from around the world varied. A key finding from this review analysis identified research and publication as not only a leading academic activity but the most valuable scholarship in academia. It is very clear from the findings that opportunities for promotion, tenure, recognition, international mobility, internationalization and institutional ranking (Bedeian, [1996;](#page-8-1) Bedeian et al., [2009;](#page-8-5) Rond & Miller, [2005](#page-9-0)) constitute the key reasons for the evolvement and acceptability of the scholarship of discovery as an unquestionable academic activity. In addition, part of the finding identified performance-based efficiency in research as the only means that grant opportunities to research grants and government funding. This development, no doubt, has subjected academia to divert much attention to engaging more in research productivity than teaching. With these developments, the implication for the faculty is that they are likely to be more interested and fulfilled in an activity that will yield the most valuable returns to career advancement.
+
+The detrimental effects of POP, as pointed out in this review are alarming and call for concern. Evidence from this review shows that the excessive demands for research publications in academia have given rise to the mass production of research outputs. However, there have been worries about whether these outputs are fulfilling the actual innovative research agendas desired by policymakers and society (Horta & Santos, [2020](#page-9-15)). The review indicates that the outcome of most innovations capable of impacting and transforming society is rather decreasing (Horta & Mok, [2020](#page-9-3)) and that these publications failed to make any meaningful contributions to knowledge (Rawat & Meena, [2014](#page-9-16)). The implication is that HEIs research productivity is bound to lose relevance as the society may be pushed to source knowledge from more credible sources. The confidence reposed on HEIs as knowledge production factories are likely to be diminishing.
+
+The most discredited aspect of these findings reveals that a deficiency in research outputs attracted a punishment with more teaching loads, whilst research and publications in hi-impact journals attracted a compensation of 40 additional research working days (Newman, [2008](#page-9-27)). It implies that no amount of teaching loads and effectiveness can bring the commensurate value and opportunities that research and publication are capable of. The discrimination against teaching, if not cautioned, may lead to neglect that may affect the quality of graduates in HE.
+
+Time, energy and commitment have been reported as essential commodities which have a substantial influence on teaching and research productivity. Two important arguments are worthy of notes about these competing factors. One claims that time, energy and commitment assume a mutually excluded and competing character as scientific productivity is found positively influenced by time, energy and commitment expended in research activities but negatively influenced by time, energy, and commitment dispensed on teaching (Agasisti & Pérez-Esparrells, [2010;](#page-8-23) Armstrong & Sperry, [1994](#page-8-24); Horta, [2009](#page-9-28)). The second opinion group is quite antagonistic as it argues that success is not about harder work, rather it is more about intelligent ways of working with better time management (Collopy, [1992](#page-8-25); Sellers-Rubio et al., [2010)](#page-9-29). These results imply that academics are always confronted with the task of critical thinking and decision-making process about how to manage time, energy and commitment in the prosecution of teaching and research in such a way that both do not suffer expected attention. A further implication of this concerns the health of the faculty as taking a factual decision on these issues can result in emotional exhaustion, which may eventually lead to stress and burnout.
+
+There is a disparity between teaching and research academic rewards. The disparity appears controversial in one angle and a fully recognized policy in another. One aspect of this controversy complained about the unavailability and lack of consensus in determining the suitability of individual faculty for various academic-based activities awards like teaching and research (Badri & Abdulla, [2004](#page-8-26); McFerron et al., [1996](#page-9-30); Nevison, [1980](#page-9-31); Saaty & Ramanujam, [1983](#page-9-32); Zoffer, [1978)](#page-10-11). The second argument indicated that, even where evidence of acceptable forms of scholarship exists, these were set aside, as research publications 'remains the coin of the realm for promotion and tenure decision'
+
+<!-- page 8 -->
+
+(Braxton et al., [2002](#page-8-20), p. 4). Several reports from the literature, as pointed out in this review analysis, about efficiency and performance indicators in HE are unanimously in support of Braxton et al. ([2002](#page-8-20)) line of argument.
+
+This implies that the scholarship of teaching has begun to lose its original position to research. Research output has become more valuable than teaching as no faculty could be rewarded as being efficient with outstanding teaching but low performance in research. A further implication is that the academic job market is prone to a crisis as academic job seekers will prefer equipping themselves with outstanding experience in research than teaching to take a tenure where research is most valued and celebrated. As this struggle and advancement in research have the potential to raise the quality of postgraduate education, its resultant effect may be destructive to the future of undergraduate training in HE globally.
+
+## **7 **|** CONCLUSION AND RECOMMENDATIONS**
+
+In summary, the various reports from the literature indicate that research has taken an unquestionable position as the only activity that counts in assessing performance and efficiency for promotion, talent, internationalization, global ranking and rewards. Various reports suggest that faculty globally is yielding to the institutional pressure to publish as many papers as the institution demands. This is convincing evidence of academic reality.
+
+For instance, the literature clarifies that the perceived pressure for publishing activity is capable of propelling the faculty to experience greater psychological arousal that helps to increase job performance (Rond & Miller, [2005](#page-9-0)), whereas, the faculty without pressure to publish, as claimed by the authors tends to 'be bored, apathetic and less productive' (p. 325).
+
+However, what may remain a misery for a longer time and a significant phenomenon to be explored in future research is whether the acceptability of POP culture by the faculty in the various HEIs globally is satisfactory or coercive. Also, the faculty's degree of demoralization about teaching scholarship needs to be researched.
+
+This narrative review suggests that the current faculty assessment structure favours research productivity at the expense of teaching and that the agitations for equal recognition of teaching and research are likely to continue unabated.
+
+Given these findings, for higher education to sustain its immortal position as a 'knowledge factory' teaching and research should be given the utmost attention and equal recognition. The earlier HE authorities yield to the global cries for teaching redemption the better for the future of the new generation of scholars. One thing is incontestable about HE structures. Academia can neither have research-intensive institutions without teaching activities nor teaching institutions without research, as "either will suffer without the other" (Elton, [1986,](#page-8-27) p. 299).
+
+## **AUTHOR CONTRIBUTIONS**
+
+**Samuel Akande Bello**: Conceptualization (lead); Methodology (lead); review and editing (equal); writing original draft (equal); resources (lead) administration (equal). **Felix Chimeziri Azubuike**: Review and editing (equal); conceptualization (supporting); writing original draft (equal); resources (supporting); administration (equal), **Olumuyiwa ** **A. Akande**: Review and editing (equal); writing review and editing (equal); conceptualization (supporting); writing original draft (equal); resources (supporting); administration (equal).
+
+## **FUNDING INFORMATION**
+
+This manuscript is funded mainly by the authors.
+
+## **CONFLICT OF INTEREST**
+
+There is no conflict of interest.
+
+<!-- page 9 -->
+
+## **DATA AVAILABILITY STATEMENT**
+
+Data sharing is not applicable to this article as no new data were created or analyzed in this study.
+
+## **ORCID**
+
+*Samuel Akande Bello* [https://orcid.org/0000-0003-1784-021X](https://orcid.org/0000-0003-1784-021X)
+
+## **REFERENCES**
+
+- Adler, M., & Adler, M. J. (2000). *How to think about the great ideas: From the great books of western civilization*. Open Court.
+- Agasisti, T., & Pérez-Esparrells, C. (2010). Comparing efficiency in a cross-country perspective: The case of Italian and Spanish state universities. *Higher Education*, *59*(1), 85–103.
+- Anderson, M. S., Ronning, E. A., De Vries, R., & Martinson, B. C. (2007). The perverse effects of competition on scientists' work and relationships. *Science and Engineering Ethics*, *13*(4), 437–461.
+- Armstrong, J. S., & Sperry, T. (1994). The ombudsman: Business school prestige—Research versus teaching. *Interfaces*, *24*(2), 13–43.
+- Arnold, I. J. (2008). Course level and the relationship between research productivity and teaching effectiveness. *The * *Journal of Economic Education*, *39*(4), 307–321.
+- Badri, M. A., & Abdulla, M. H. (2004). Awards of excellence in institutions of higher education: An AHP approach. *International Journal of Educational Management*, *18*, 224–242.
+- Bedeian, A. G. (1996). Lessons learned along the way: Twelve suggestions for optimizing career success. In P. J. Frost, & M. S. Taylor (Eds.), *Rhythms of academic life: Personal accounts of careers in academia* (pp. 3–9). Sage Publications.
+- Bedeian, A. G., Van Fleet, D. D., & Hyman, H. H., III. (2009). *Scientific achievement and editorial board membership*. SAGE.
+- Ben-David, J. (1960). Scientific productivity and academic organization in nineteenth century medicine. *American * *Sociological Review*, *25*, 828–843.
+- Ben-David, J., & Zloczower, A. (1962). Universities and academic systems in modern societies. *European Journal of * *Sociology/Archives Européennes de Sociologie*, *3*(1), 45–84.
+- Besley, A., & Peters, M. A. (2006). Neoliberalism, performance and the assessment of research quality. *South African * *Journal of Higher Education*, *20*(6), 814–832.
+- Bird, S. J. (2006). Research ethics, research integrity and the responsible conduct of research. *Science and Engineering * *Ethics*, *12*(3), 411–412.
+- Boyer, E. L. (1990). *Scholarship reconsidered: Priorities of the professoriate*. ERIC.
+- Boyer, E. L. (1997). *Ernest L. Boyer: Selected speeches, 1979-1995*. ERIC.
+- Braskamp, L. A., Ory, J. C., & Mayberry, P. W. (1983). For evaluating teaching. *NACTA Journal*, 29.
+- Braxton, J. M., Luckey, W., & Helland, P. (2002). *Institutionalizing a broader view of scholarship through Boyer's four domains. * *ASHE-ERIC Higher Education Report. Jossey-Bass Higher and Adult Education Series*. ERIC.
+- Cadez, S., Dimovski, V., & Zaman Groff, M. (2017). Research, teaching and performance evaluation in academia: The salience of quality. *Studies in Higher Education*, *42*(8), 1455–1473.
+- Carson, L., Bartneck, C., & Voges, K. (2013). Over-competitiveness in academia: A literature review. *Disruptive Science and * *Technology*, *1*(4), 183–190.
+- Collopy, F. (1992). A comment of Hancock, T., Lane, J., Ray, R. y Glennon, D.(1992). *Interfaces*, *22*(5), 35–38.
+- Das, A. (2017). Publish and flourish: Take the road less travelled! *Medical Journal Armed Forces India*, *73*(2), 178–180.
+- Desai, C. (2012). Authorship issues. [editorial]. *Indian Journal of Pharmacology*, *44*(4), 433–434. [https://doi.](https://doi.org/10.4103/0253-7613.99294) [org/10.4103/0253-7613.99294](https://doi.org/10.4103/0253-7613.99294)
+- Douglas, A. S. (2013). Advice from the professors in a university social sciences department on the teaching-research nexus. *Teaching in Higher Education*, *18*(4), 377–388.
+- Elton, L. (1986). Research and teaching: symbiosis or conflict. *Higher Education*, *15*(3), 299–304.
+- Elton, L. (2009). Continuing professional development in higher education: The role of the scholarship of teaching and learning. *Arts and Humanities in Higher Education*, *8*(3), 247–258.
+- Enders, J., Kehm, B. M., & Schimank, U. (2015). Turning universities into actors on quasi-markets: How new public management reforms affect academic research. In D. Jansen & I. Pruisken (Eds.), *The changing governance of higher educa**tion and research* (pp. 89–103). Springer.
+- Engler, R. L., Covell, J. W., Friedman, P. J., Kitcher, P. S., & Peters, R. M. (1987). Misrepresentation and responsibility in medical research. *New England Journal of Medicine*, *317*(22), 1383–1389.
+- Friedman, M., & Rosenman, R. (1974). *Type A behavior and your heart*. Alfred A. Knopf.
+- Garfield, E. (1996). What is the primordial reference for the phrase 'Publish or Perish'. *The Scientist*, *10*(12), 11.
+
+<!-- page 10 -->
+
+- Glick, W. H., Miller, C. C., & Cardinal, L. B. (2007). Making a life in the field of organization science. *Journal of Organizational * *Behavior*, *28*(7), 817–835.
+- Gomez-Mejia, L. R., & Balkin, D. B. (1992). Determinants of faculty pay: An agency theory perspective. *Academy of * *Management Journal*, *35*(5), 921–955.
+- Gordon, R. A., & Howell, J. E. (1959). Higher education for business. *The Journal of Business Education*, *35*(3), 115–117.
+- Hattie, J., & Marsh, H. W. (1996). The relationship between research and teaching: A meta-analysis. *Review of Educational * *Research*, *66*(4), 507–542.
+- Hill, P. A. (2010). *Twenty years on: Ernest Boyer, scholarship and the scholarship of teaching*. Unpublished manuscript. The Ernest L. Boyer Center, Messiah College, Mechanicsburg, PA.
+- Hopwood, A. G. (2008). Changing pressures on the research process: On trying to research in an age when curiosity is not enough. *European Accounting Review*, *17*(1), 87–96.
+- Horta, H. (2009). Global and national prominent universities: Internationalization, competitiveness and the role of the state. *Higher Education*, *58*(3), 387–405.
+- Horta, H., & Mok, K.-H. (2020). *Challenges to research systems, academic research and knowledge production in East Asia: * *Learning from the past to inform future policy* (Vol. *42*, pp. 119–133). Taylor & Francis.
+- Horta, H., & Santos, J. M. (2020). Organisational factors and academic research agendas: An analysis of academics in the social sciences. *Studies in Higher Education*, *45*(12), 2382–2397.
+- Humboldt, W. v. (2001). On the spirit and organisational framework of intellectual institutions in Berlin, cited in: Elton L, Research and teaching: Conditions for a positive link. *Teaching in Higher Education*, *6*, 43–56.
+- Kalfa, S., Wilkinson, A., & Gollan, P. J. (2018). The academic game: Compliance and resistance in universities. *Work, * *Employment and Society*, *32*(2), 274–291.
+- Katz, D. A. (1973). Faculty salaries, promotions, and productivity at a large university. *The American Economic Review*, *63*(3), 469–477.
+- Konrad, A. M., & Pfeffer, J. (1990). Do you get what you deserve? Factors affecting the relationship between productivity and pay. *Administrative Science Quarterly*, *35*, 258–285.
+- Lucas, L. (2006). *Research game in academic life*. McGraw-Hill Education.
+- McFerron, J. R., Camp, R. C., Lynch, D. M., & Woods, J. L. (1996). Tenure standards within statewide systems of higher education: The collective bargaining milieu. *Journal of Collective Negotiations in the Public Sector*, *25*, 365–376.
+- Miller, A. N., Taylor, S. G., & Bedeian, A. G. (2011). Publish or perish: Academic life as management faculty live it. *Career * *Development International*, *16*(5), 422–445.
+- Millman, J. (1981). *Handbook of teacher evaluation*. Corwin.
+- Mohan, S. M. (2013). 'Publish-or-Perish' Syndrome. *3*(1). [https://www.researchgate.net/publication/271798835_'Publish](https://www.researchgate.net/publication/271798835_%27Publish-or-perish%27_Syndrome)[or-perish'_Syndrome](https://www.researchgate.net/publication/271798835_%27Publish-or-perish%27_Syndrome)
+- Nevison, C. H. (1980). Effects of tenure and retirement policies on the college faculty: A case study using computer simulation. *The Journal of Higher Education*, *51*(2), 150–166.
+- Newman, M. (2008). *Leeds rewards publication in top journals with bonus research time*. Times Higher Education.
+- Olssen, M. (2021). Neoliberal competition in higher education today: Research, accountability and impact. In *A normative * *Foucauldian* (pp. 307–327). Brill.
+- Oyinlola, M. A. (2013). Dependent scholarship and the economics of international publishing in Nigeria. *International * *Journal of Sociology*, *43*(1), 43–54.
+- Parker, J. (2008). Comparing research and teaching in university promotion criteria. *Higher Education Quarterly*, *62*(3), 237–251. Pierson, F., et al. (1959). *The education of American businessmen*. McGraw-Hill.
+- Rawat, S., & Meena, S. (2014). Publish or perish: Where are we heading? *Journal of Research in Medical Sciences*, *19*(2), 87–89. Remmik, M., Karm, M., Haamer, A., & Lepp, L. (2011). Early-career academics' learning in academic communities. *International Journal for Academic Development*, *16*(3), 187–199.
+- Robertson, J., & Bond, C. H. (2001). Experiences of the relation between teaching and research: What do academics value? *Higher Education Research & Development*, *20*(1), 5–19.
+- Rond, M., & Miller, A. N. (2005). Publish or perish: Bane or boon of academic life? *Journal of Management Inquiry*, *14*(4), 321–329.
+- Saaty, T. L., & Ramanujam, V. (1983). An objective approach to faculty promotion and tenure by the analytic hierarchy process. *Research in Higher Education*, *18*(3), 311–331.
+- Sellers-Rubio, R., Mas-Ruiz, F. J., & Casado-Díaz, A. B. (2010). University efficiency: Complementariness versus trade-off between teaching, research and administrative activities. *Higher Education Quarterly*, *64*(4), 373–391.
+- Smith, P. (1990). *Killing the spirit: Higher education in America*. ERIC.
+- Sutton, P. (2017). Lost souls? The demoralization of academic labour in the measured university. *Higher Education Research * *and Development*, *36*(3), 625–636.
+- Swazey, J. P., Anderson, M. S., Lewis, K. S., & Louis, K. S. (1993). Ethical problems in academic research. *American Scientist*, *81*(6), 542–553.
+
+<!-- page 11 -->
+
+- Sykes, C. J. (1988). *Profscam: Professors and the demise of higher education*. Regnery.
+- Taylor, M. S., Locke, E. A., Lee, C., & Gist, M. E. (1984). Type A behavior and faculty research productivity: What are the mechanisms? *Organizational Behavior and Human Performance*, *34*(3), 402–418.
+- Ter Bogt, H. J., & Scapens, R. W. (2012). Performance management in universities: Effects of the transition to more quantitative measurement systems. *European Accounting Review*, *21*(3), 451–497.
+- Tian, M., Su, Y., & Ru, X. (2016). Perish or publish in China: Pressures on young Chinese scholars to publish in internationally indexed journals. *Publications*, *4*(2), 9.
+- Tijdink, J. K., Verbeke, R., & Smulders, Y. M. (2014). Publication pressure and scientific misconduct in medical scientists. *Journal of Empirical Research on Human Research Ethics*, *9*(5), 64–71.
+- Tran, A., Burns, A., & Ollerhead, S. (2017). ELT lecturers' experiences of a new research policy: Exploring emotion and academic identity. *System*, *67*, 65–76.
+- Van Dalen, H. P., & Henkens, K. (2012). Intended and unintended consequences of a publish-or-perish culture: A worldwide survey. *Journal of the American Society for Information Science and Technology*, *63*(7), 1282–1293.
+- Warsy, A. S., & Warsy, I. A. (2019). Publish ethically or perish. *Journal of Nature and Science of Medicine*, *2*(4), 186.
+- Wilson, L. (1942). *The academic man: A study in the sociology of a profession*. Transaction Publishers.
+- Yankholmes, A. K. (2014). Publish or perish: African scholarship in the field of tourism and hospitality studies. *Tourism and * *Hospitality Research*, *14*(1–2), 97–107.
+- Young, M. (2015). Competitive funding, citation regimes, and the diminishment of breakthrough research. *Higher * *Education*, *69*(3), 421–434.
+- Zoffer, H. (1978). The consummate faculty person. *Academy of Management Review*, *3*(4), 901–906.
+
+**How to cite this article: **Bello, S. A., Azubuike, F. C., & Akande, O. A. (2023). Reputation disparity in teaching and research productivity and rewards in the context of consequences of institutionalization of Publish or Perish culture in academia. *Higher Education Quarterly*, *77*, 574–584.[ https://doi.org/10.1111/hequ.12417](https://doi.org/10.1111/hequ.12417)

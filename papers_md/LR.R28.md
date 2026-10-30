@@ -1,0 +1,214 @@
+<!-- LR.R28 | source: papers_json/LR.R28/ -->
+
+![LR.R28 fig01](../figures/LR/LR.R28_fig01.jpg)
+
+## **Accountability** **in** **Research**
+
+![LR.R28 fig02](../figures/LR/LR.R28_fig02.jpg)
+
+**Ethics, Integrity and Policy**
+
+**ISSN: 0898-9621 (Print) 1545-5815 (Online) Journal homepage:****[ www.tandfonline.com/journals/gacr20](https://www.tandfonline.com/journals/gacr20?src=pdf)**
+
+## **Perceptions** **of** **publication** **pressure** **among** **Hungarian** **researchers:** **Differences** **across** **career** **stage,** **gender,** **and** **scientific** **field**
+
+## **Anna** **Catharina** **Vieira** **Armond** **&** **Péter** **Kakuk**
+
+**To** **cite** **this** **article:** Anna Catharina Vieira Armond & Péter Kakuk (2023) Perceptions of publication pressure among Hungarian researchers: Differences across career stage, gender, and scientific field, Accountability in Research, 30:8, 766-775, DOI: [10.1080/08989621.2022.2081917](https://www.tandfonline.com/action/showCitFormats?doi=10.1080/08989621.2022.2081917)
+
+**To** **link** **to** **this** **article:** [https://doi.org/10.1080/08989621.2022.2081917](https://doi.org/10.1080/08989621.2022.2081917)
+
+Published online: 01 Jun 2022.Submit your article to this journalArticle views: 309View related articlesView Crossmark dataCiting articles: 9 View citing articles
+
+<!-- page 2 -->
+
+![LR.R28 fig03](../figures/LR/LR.R28_fig03.jpg)
+
+![LR.R28 fig04](../figures/LR/LR.R28_fig04.jpg)
+
+## **Perceptions of publication pressure among Hungarian ** **researchers: Differences across career stage, gender, and ** **scientific field**
+
+Anna Catharina Vieira Armond [a ](#page-1-0)and Péter Kakuk[b](#page-1-0)
+
+a Department of Public Health and Epidemiology, University of Debrecen, Debrecen, Hungary; b Center of Ethics and Law in Biomedicine, Central European University, Budapest, Hungary
+
+## **ABSTRACT**
+
+Excessive publication pressure has been associated with detrimental aspects for individual researchers and scientific integrity but has not been well-studied in Eastern European countries. The aim of this study is to assess perceived publication pressure and its relationship with career stage, scientific field, and gender in Hungary. The survey included demographic questions, such as gender, age, scientific field, career stage, and the Revised Publication Pressure Questionnaire (PPQr). A total of 408 respondents completed the survey, 46% were female, and 54% were male. 45% are PhD students, 17% are postdocs or assistant professors, and 38% are associate or full professors. 31% are from the Biomedical Sciences, 39% from Natural Sciences, 18% from Social Sciences, and 12% from Humanities. Our results showed no significant disciplinary differences in perceived publication pressure. PhD students perceived a greater lack of resources than postdocs and professors. The same applied to postdocs and assistant professors when compared to associate professors. The findings also showed that female researchers perceive greater stress than male researchers. Our study highlights the need to improve mentoring during the development of early-career researchers. It also emphasizes the importance of organizational structures developing policies or strategies to address gender differences in academia.
+
+## **KEYWORDS**
+
+Publication pressure; scientific misconduct; research integrity; gender differences; responsible conduct of research; research bias
+
+## **Introduction**
+
+Scientific publications are a vital part of scientific communication and progress. However, publishing has become a necessity in a competitive context where scientific output is used as a metric for promotion, funding, and tenure. Researchers are under pressure to publish and have to balance teaching or other academic activities with scientific production in most cases (Haven et al. [2019a](#page-9-0)).
+
+Publication pressure can be understood as the perceived culture where researchers feel they have to publish (Haven et al. [2019b](#page-9-1)). This feeling can be both external and self-inflicted. In a focus group study on publication
+
+<!-- page 3 -->
+
+![LR.R28 fig05](../figures/LR/LR.R28_fig05.jpg)
+
+pressure (Tijdink et al. [2016)](#page-10-0), participants reported that they feel their positions in academia depend on publishing articles in high-impact journals and obtaining funding. They have also reported that they feel judged based on their number of publications.
+
+Publication pressure and competitiveness can motivate scientific productivity and advancements (Fanelli, Costas, and Lariviere [2015](#page-9-2)). On the other hand, many studies have associated publication pressure with detrimental aspects for individual researchers and the whole science ecosystem. A recent systematic review found that publication pressure can be the main reason for choosing a predatory journal deliberately (Mills and Inouye [2021)](#page-9-3). Furthermore, pressure to publish was also associated with publication bias (Grimes, Bauch, and Ioannidis [2018](#page-9-4)), redundant publications (Yank and Barnes [2003](#page-10-1)), problems in reproducibility (Baker [2016)](#page-8-0), and low quality in other academic roles (Copeland [2022)](#page-8-1).
+
+Whether publication pressure can be associated or not with the likelihood of scientific misconduct remains unclear. No clear support was found in the association of duplicate images (Fanelli et al. [2018](#page-9-5)) or retracted papers (Fanelli, Costas, and Lariviere [2015](#page-9-2)) and publication pressure. Differently, publication pressure was reported as a reason for scientific misconduct in survey studies (Paruzel-Czachura, Baran, and Spendel [2021;](#page-9-6) Shamsoddin et al. [2021;](#page-10-2) Maggio et al. [2019)](#page-9-7).
+
+The reward systems in academia are significant contributors to the "publish or perish" culture. Therefore, the country, academic position, or even departments may perceive publication pressure differently. Many studies have investigated publication pressure in the US (Fanelli [2010)](#page-9-8) and western European countries (Haven et al. [2019a;](#page-9-0) Tijdink et al. [2016](#page-10-0)). To our knowledge, we are the first to assess perceived publication pressure and its relationship with career stage, disciplinary field, and gender in an Eastern European country. The study results will facilitate an evidencebased discussion on research integrity and publication pressure in the country. Therefore, this study aims to assess perceived publication pressure and its relationship with career stage, scientific field, and gender in a sample gathered from Hungarian universities.
+
+## **Materials and methods**
+
+The Scientific and Research Committee of the Medical Research Council in Hungary reviewed and approved this study (Approval number: IV8159-1/ 2020/EKU).
+
+<!-- page 4 -->
+
+![LR.R28 fig06](../figures/LR/LR.R28_fig06.jpg)
+
+## *Sample*
+
+We invited all the Doctoral Schools from three universities in Hungary (University of Debrecen, Pécs, and Szeged, with 65 Doctoral Schools in total). Sixteen Doctoral Schools agreed to take part in the study, with a total of 2557 registered PhD students, postdocs, and professors.
+
+## *Procedure*
+
+We contacted the Doctoral Council of each university and asked them to forward the invitation letter to each Doctoral School. The Doctoral Schools were then asked to send by e-mail the letter along with the survey link for every registered researcher (PhD students, postdoctoral trainees, assistant professors, associate professors, and full professors). The researchers also received by the Doctoral Schools two reminders, each one week apart. The data was collected between December 2020 and February 2021.
+
+We created the survey using Qualtrics (Qualtrics, Provo, UT, USA). The survey started with the informed consent and demographic questions (gender, age, career stage, and disciplinary field). The second part included the revised Publication Pressure Questionnaire and the Survey of Organizational Research Climate (SOURCE©) (Martinson, Thrush, and Crain [2013](#page-9-9)).
+
+## *Instrument*
+
+The publication pressure perception was assessed using the revised Publication Pressure Questionnaire (PPQr) (Haven et al. [2019b](#page-9-1)). The PPQr was translated into Hungarian, and it was also made available for the respondents in English. The translation of the questionnaire was conducted in four steps: (1) The original English version was translated by two different translators, emphasizing conceptual rather than literal translations and the need to use a natural and acceptable language for the most public audience; (2) A bilingual researcher, familiar with the terminology of the area covered by the instrument, together with the two translators, met to resolve any discrepancies; (3) The questionnaire in Hungarian was back-translated to English, and any linguistic discrepancies were discussed until a satisfactory version was reached; (4) The final Hungarian version was finalized.
+
+The PPQr is a reliable and validated instrument (Haven et al. [2019b)](#page-9-1) and includes three subscales, Publication Stress, Publication Attitude, and Publication Resources. The Publication Stress subscale assesses the perceived stress resulting from the researcher's pressure to publish. The Publication Attitude assesses researchers' attitudes regarding the publication pressure. The Publication Resources includes inhibitor factors and factors that prevent researchers to experience excessive publication pressure. The questionnaire
+
+<!-- page 5 -->
+
+consists of 18 items, and the items are scored on a 5-point Likert scale (1 = "totally disagree," 5 = "totally agree"). Positive items such as "I feel sufficiently capable of writing an academic paper" were inversely scored, so higher scores express high perceived publication stress, negative attitude toward publication climate, and lack of resources.
+
+## *Statistical analysis*
+
+We performed the analyses using IBM SPSS version 24.0. We calculated the mean scores for the three subscales (Stress, Attitude, and Resources) and stratified them for career stage, disciplinary field, and gender. The Kruskal-Wallis test, Bonferroni corrected, was used to analyze differences between and within groups. We performed multivariate regression analyses on the variables that were significant in univariate analysis to assess confounding interactions. The statistically significant associations were considered at the alpha level of 0.05.
+
+## **Results**
+
+A total of 2557 people were invited to participate, of which 1499 were research staff (professors and postdocs), and 1058 were PhD students. 758 researchers opened the survey (30%). Of those who opened, 408 completed at least one subscale of the survey (16%). Of the responding researchers, 46% were female, 54% were male, and two researchers did not disclose their gender. 45% are PhD students, 17% are postdocs or assistant professors, and 38% are associate or full professors. 31% are from the Biomedical Sciences, 39% from Natural Sciences, 18% from Social Sciences, and 12% from Humanities.
+
+Overall, the investigated researchers score highest for Stress (*M *= 3.06), followed by Attitude (*M *= 3.03) and Resources (*M *= 2.30). The reliability coefficient, expressed by Cronbach's alpha (α), ranged from 0.73 to 0.82.
+
+## *Publication pressure and scientific field*
+
+There were no statistically significant differences between the publication pressure subscales and the disciplinary fields [Table 1.](#page-4-0)
+
+<!-- page 6 -->
+
+## *Publication pressure and career stage*
+
+There was a statistically significant difference between groups in the Stress subscale as determined by the Kruskal-Wallis test [Table 2](#page-5-0). However, the adjusted pairwise analysis was not statistically significant. In Resources, both PhD students (mean score = 2.59, 95% CI 2.49–2.68, p < .001), postdocs and assistant professors (mean score = 2.25, 95% CI 2.09–2.40, p = .012) perceived significantly less Resources than associate professors (mean score = 1.97, 95% CI 1.88–2.07), even after corrected for confounding factors (gender and age). PhD students also perceived less Resources than postdoc and assistant professors (p = .002).
+
+## *Publication pressure and gender*
+
+Gender differences were found in two scales, Stress and Resources [Table 3](#page-5-1). In the Stress scale, female researchers (mean score = 3.28, 95% CI 3.15–3.40) scored significantly higher than male researchers (mean score = 2.88, 95% CI 2.76–3.00, p < .001), even after correction for confounding factors (age and career stage). In the Resources scale, female researchers also scored significantly higher than male researchers, but the difference was not significant after correction for confounding (career stage). [Table 4 ](#page-5-2)shows the stratified results of gender and career stage in the Resources scale.
+
+<!-- page 7 -->
+
+![LR.R28 fig07](../figures/LR/LR.R28_fig07.jpg)
+
+## **Discussion**
+
+Quantitative indicators of research output have been traditionally used to determine parameters to obtain research grants, promotions, and prestige. While competition and pressure to publish can be positively indicated as part of the academic endeavor and science growth, it should not be done at the expense of personal burden and research excellence.
+
+The researcher's assessment practices and the way publication outputs are evaluated differ across countries. In Hungary, there is no established or clear standardized framework to assess researcher's publication outputs in academic working environments. Universities rarely assess their academic staff on a yearly basis but typically apply a variety of research assessment practices in the case of promotion decisions (PhD degree, Habilitation procedures, or professorships). In the field of biomedical and life sciences, the use of scientometrics, especially the role of impact factor and the quantitative use of IF and other citation metrics, is a driving force of research assessment (Benedictus, Miedema, and Ferguson [2016;](#page-9-10) Curry [2018)](#page-9-11). In the highly centralized grant system of the country, the main research funding organization also emphasizes these "traditional" scientometrics in defining scientific excellence when reviewing grant applications. There were some scattered discussions regarding the limits and biases of the use of this scientometrics in defining academic careers (Seglen [1997)](#page-10-3). However, new initiatives for research assessment did not appear within the major research funding or performing organizations of the country.
+
+Pressure to publish is often mentioned as the motivational factor in misconduct cases and questionable research practices (Paruzel-Czachura, Baran, and Spendel [2021](#page-9-6); Davis, Riske-Morris, and Diaz [2007](#page-9-12)). Studies have also found personal negative effects, such as burnout syndrome (Tijdink, Vergouwen, and Smulders [2013](#page-10-4)). Therefore, our study aimed to investigate publication pressure factors in Hungarian universities and their differences according to the career stage, scientific field, and gender.
+
+Our findings showed no differences in perceptions of publication pressure between scientific fields. The study by Haven et al. [(2019)](#page-9-0) found small differences across scientific fields in Stress and Resources scales. However, the differences were greater when associated with the career stage.
+
+In the career stage analysis, our results showed that PhD students perceive a greater lack of resources than postdocs and professors. Likewise, postdocs and assistant professors also perceive a greater lack of resources than associate and full professors. This scale assesses the sense of academic competence and perceived help from colleagues, supervisors, and coauthors. This result is expected, as senior researchers have more experience to cope with publication procedures and pressure. However, in the face of these results, senior
+
+<!-- page 8 -->
+
+![LR.R28 fig08](../figures/LR/LR.R28_fig08.jpg)
+
+researchers should better assist junior researchers during the publication process and improve academic mentoring.
+
+The results also showed that female researchers perceive higher stress than male researchers, regardless of their career stage or scientific field. This result could be attributed to the fact that women respond differently than men to stressful events and are more prone to report greater distress than men (Schmaus et al. [2008;](#page-9-13) Purvanova and Muros [2010)](#page-9-14). In this questionnaire, the stress scale is mostly correlated with work-home interference and emotional exhaustion (Haven et al. [2019b](#page-9-1)). Gender differences in academia have been broadly documented from the perspectives of citations, publications, salary, recognition, and promotions (Holman, Stuart-Fox, and Hauser [2018](#page-9-15); Larivière et al. [2013;](#page-9-16) Shen [2013)](#page-10-5). Women are more likely to get less funding (Wadman [2019](#page-10-6)), work support (Else [2019](#page-9-17)), and be hit harder by the worklife imbalance. Moreover, a recently published study by Huang et al. ([2020](#page-9-18)) shows that career length can largely explain gender gaps in science. Women dropout rates in academia are higher at every career stage, subsequently affecting their productivity and increasing indicator disparities. The consequences of a gender-biased context on publication pressure may collaborate to a higher dropout rate and perpetuate gender inequality in academia. Accordingly, it is essential that organizational structures develop policies or strategies to address gender gaps in academia. Raising awareness of gender bias in academia and recognizing and supporting women researchers can be the first steps toward developing a work environment where all gender identities can thrive and build their careers (Casad et al. [2021)](#page-8-2).
+
+Our study has some limitations that should be addressed. First, there was a low participation rate of Doctoral Schools. We believe the sensitive nature of the survey might have affected the willingness to participate in the study. Second, although similar to other surveys (Cook, Heath, and Thompson [2000](#page-8-3)), our response rate was relatively low in Hungary (16%). One potential consequence is the underestimation of our results, as the invited researchers might not have answered because they were busy working on their publications. On the other hand, our data were collected in late 2020 and early 2021 amidst the COVID-19 pandemic. Evidence shows that some research fields have come under greater pressure for publication, in addition to the consequences of the home office, such as the balance of domestic tasks and work (Collins [2020)](#page-8-4). This scenario could have led to an overestimation of our results.
+
+## **Conclusion**
+
+Our findings show that pressure to publish similarly affects all scientific fields. However, PhD students and women researchers are affected differently. PhD students perceived a greater lack of resources than the other
+
+<!-- page 9 -->
+
+groups, and female researchers perceived more significant stress when compared to male researchers. Our study highlights the need to improve mentoring during the development of early-career researchers. It also emphasizes the importance of organizational structures developing policies or strategies to address gender differences in academia.
+
+## **Disclosure statement**
+
+No potential conflict of interest was reported by the author(s).
+
+## **Funding**
+
+*This work was supported by the Stipendium Hungaricum Programme*. The funder had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+## **Data availability statement**
+
+Data cannot be shared publicly due to participants' privacy. The pseudonymized data might be available under a data transfer agreement for only research purposes. The research protocol is available at [https://osf.io/n92z3/?view_only=72a073ebdb9c4f1992fd259b2ebb733b](https://osf.io/n92z3/?view_only=72a073ebdb9c4f1992fd259b2ebb733b)
+
+## **Ethics approval**
+
+The Scientific and Research Committee of the Medical Research Council in Hungary reviewed and approved this study (Approval number: IV8159-1/2020/EKU).
+
+## **ORCID**
+
+Anna Catharina Vieira Armond http://orcid.org/0000-0002-7121-5354
+
+## **References**
+
+Baker, M. 2016. "1,500 Scientists Lift the Lid on Reproducibility." *Nature *533 (7604): 452–454. doi:[10.1038/533452a](https://doi.org/10.1038/533452a).
+
+Casad, B. J., J. E. Franks, C. E. Garasky, M. M. Kittleman, A. C. Roesler, D. Y. Hall, and Z. W. Petzel. 2021. "Gender Inequality in Academia: Problems and Solutions for Women Faculty in STEM." 99 (1): 13–23. doi: [10.1002/jnr.24631.](https://doi.org/10.1002/jnr.24631)
+
+Colleen, C., F. Heath, and R. L. Thompson. 2000. "A Meta-Analysis of Response Rates in Web- or Internet-Based Surveys." *Educational and Psychological Measurement *60 (6): 821–836. doi:[10.1177/00131640021970934](https://doi.org/10.1177/00131640021970934).
+
+Collins, C. 2020. "Productivity in a Pandemic." *Science *369 (6504): 603. doi:[10.1126/science. ](https://doi.org/10.1126/science.abe1163) [abe1163.](https://doi.org/10.1126/science.abe1163)
+
+Copeland, P. 2022. "Stop Describing Academic Teaching as a 'Load.'" *Nature*. doi:[10.1038/](https://doi.org/10.1038/d41586-022-00145-z) [d41586-022-00145-z](https://doi.org/10.1038/d41586-022-00145-z).
+
+<!-- page 10 -->
+
+![LR.R28 fig09](../figures/LR/LR.R28_fig09.jpg)
+
+- Curry, S. 2018. "Let's Move beyond the Rhetoric: It's Time to Change How We Judge Research." *Nature *554 (7691): 147. doi:[10.1038/d41586-018-01642-w](https://doi.org/10.1038/d41586-018-01642-w).
+- Davis, M. S., M. Riske-Morris, and S. R. Diaz. 2007. "Causal Factors Implicated in Research Misconduct: Evidence from ORI Case Files." *Science and Engineering Ethics *13 (4): 395–414. doi:[10.1007/s11948-007-9045-2.](https://doi.org/10.1007/s11948-007-9045-2)
+- Else, H. 2019. "Female Scientists Get Less Money and Staff for Their First Labs." *Nature*. doi:[10.1038/d41586-019-00933-0](https://doi.org/10.1038/d41586-019-00933-0).
+- Fanelli, D. 2010. "Do Pressures to Publish Increase Scientists' Bias? An Empirical Support from US States Data." *PLOS ONE *5 (4): e10271. doi:[10.1371/journal.pone.0010271](https://doi.org/10.1371/journal.pone.0010271).
+- Fanelli, D., R. Costas, and V. Lariviere. 2015. "Misconduct Policies, Academic Culture and Career Stage, Not Gender or Pressures to Publish, Affect Scientific Integrity." *PLOS ONE * 10 (6): e0127556. doi:[10.1371/journal.pone.0127556](https://doi.org/10.1371/journal.pone.0127556).
+- Fanelli, D., R. Costas, F. C. Fang, A. Casadevall, and E. M. Bik. 2018. "Testing Hypotheses on Risk Factors for Scientific Misconduct via Matched-Control Analysis of Papers Containing Problematic Image Duplications." *Sci Eng Ethics*. doi:[10.1007/s11948-018-0023-7.](https://doi.org/10.1007/s11948-018-0023-7)
+- Grimes, D. R., C. T. Bauch, and J. P. A. Ioannidis. 2018. "Modelling Science Trustworthiness under Publish or Perish Pressure." *Royal Society Open Science *5 (1): 171511. doi:[10.1098/](https://doi.org/10.1098/rsos.171511) [rsos.171511.](https://doi.org/10.1098/rsos.171511)
+- Haven, T. L., L. M. Bouter, Y. M. Smulders, and J. K. Tijdink. 2019a. "Perceived Publication Pressure in Amsterdam: Survey of All Disciplinary Fields and Academic Ranks." *PLOS * *ONE *14 (6): e0217931. doi:[10.1371/journal.pone.0217931.](https://doi.org/10.1371/journal.pone.0217931)
+- Haven, T. L., M. E. E. de Goede, J. K. Tijdink, and F. J. Oort. 2019b. "Personally Perceived Publication Pressure: Revising the Publication Pressure Questionnaire (PPQ) by Using Work Stress Models." *Research Integrity and Peer Review *4 (1): 7. doi:[10.1186/s41073-019-0066-6.](https://doi.org/10.1186/s41073-019-0066-6)
+- Holman, L., D. Stuart-Fox, and C. E. Hauser. 2018. "The Gender Gap in Science: How Long until Women are Equally Represented?" *PLOS Biology *16 (4): e2004956. doi:[10.1371/](https://doi.org/10.1371/journal.pbio.2004956) [journal.pbio.2004956](https://doi.org/10.1371/journal.pbio.2004956).
+- Huang, J., A. J. Gates, R. Sinatra, and A.-L. Barabási. 2020. "Historical Comparison of Gender Inequality in Scientific Careers across Countries and Disciplines." *Proceedings of the * *National Academy of Sciences *117 (9): 4609–4616. doi:[10.1073/pnas.1914221117.](https://doi.org/10.1073/pnas.1914221117)
+- Larivière, V., N. Chaoqun, Y. Gingras, B. Cronin, and C. R. Sugimoto. 2013. "Bibliometrics: Global Gender Disparities in Science." *Nature *504 (7479): 211–213. doi:[10.1038/504211a](https://doi.org/10.1038/504211a).
+- Maggio, L., T. Dong, E. Driessen, and A. Artino Jr. 2019. "Factors Associated with Scientific Misconduct and Questionable Research Practices in Health Professions Education." *Perspectives on Medical Education *8 (2): 74–82. doi:[10.1007/s40037-019-0501-x.](https://doi.org/10.1007/s40037-019-0501-x)
+- Martinson, B. C., C. R. Thrush, and A. L. Crain. 2013. "Development and Validation of the Survey of Organizational Research Climate (SORC)." *Science and Engineering Ethics *19 (3): 813–834. doi:[10.1007/s11948-012-9410-7.](https://doi.org/10.1007/s11948-012-9410-7)
+- Mills, D., and K. Inouye. 2021. "Problematizing 'Predatory Publishing': A Systematic Review of Factors Shaping Publishing Motives, Decisions, and Experiences." *Learned Publishing * 34 (2): 89–104. doi:[10.1002/leap.1325.](https://doi.org/10.1002/leap.1325)
+- Paruzel-Czachura, M., L. Baran, and Z. Spendel. 2021. "Publish or Be Ethical? Publishing Pressure and Scientific Misconduct in Research." *Research Ethics *17 (3): 375–397. doi:[10.1177/1747016120980562](https://doi.org/10.1177/1747016120980562).
+- Purvanova, R. K., and J. P. Muros. 2010. "Gender Differences in Burnout: A meta-analysis." *Journal of Vocational Behavior *77 (2): 168–185. doi:[10.1016/j.jvb.2010.04.006.](https://doi.org/10.1016/j.jvb.2010.04.006)
+- Rinze, B., F. Miedema, and M. W. J. Ferguson. 2016. "Fewer Numbers, Better Science." *Nature *538 (7626): 453–455. doi:[10.1038/538453a](https://doi.org/10.1038/538453a).
+- Schmaus, B. J., K. K. Laubmeier, V. M. Boquiren, M. Herzer, and S. G. Zakowski. 2008. "Gender and Stress: Differential Psychophysiological Reactivity to Stress Reexposure in the
+
+<!-- page 11 -->
+
+![LR.R28 fig10](../figures/LR/LR.R28_fig10.jpg)
+
+- Laboratory." *International Journal of Psychophysiology *69 (2): 101–106. doi:[10.1016/j. ](https://doi.org/10.1016/j.ijpsycho.2008.03.006) [ijpsycho.2008.03.006](https://doi.org/10.1016/j.ijpsycho.2008.03.006).
+- Seglen, P. O. 1997. "Why the Impact Factor of Journals Should Not Be Used for Evaluating Research." *BMJ *314 (7079): 497. doi:[10.1136/bmj.314.7079.497.](https://doi.org/10.1136/bmj.314.7079.497)
+- Shamsoddin, E., Z. Torkashvand-Khah, A. Sofi-Mahmudi, L. Janani, P. Kabiri, E. Shamsi-Gooshki, and B. Mesgarpour. 2021. "Assessing Research Misconduct in Iran: A Perspective from Iranian Medical Faculty Members." *BMC Medical Ethics *22 (1): 74. doi:[10.1186/](https://doi.org/10.1186/s12910-021-00642-2) [s12910-021-00642-2](https://doi.org/10.1186/s12910-021-00642-2).
+- Shen, H. 2013. "Inequality Quantified: Mind the Gender Gap." *Nature *495 (7439): 22–24. doi:[10.1038/495022a.](https://doi.org/10.1038/495022a)
+- Tijdink, J. K., A. C. M. Vergouwen, and Y. M. Smulders. 2013. "Publication Pressure and Burn Out among Dutch Medical Professors: A Nationwide Survey." *PLOS ONE *8 (9): e73381–e. doi:[10.1371/journal.pone.0073381](https://doi.org/10.1371/journal.pone.0073381).
+- Tijdink, J. K., K. Schipper, L. M. Bouter, P. Maclaine Pont, J. de Jonge, and Y. M. Smulders. 2016. "How Do Scientists Perceive the Current Publication Culture? A Qualitative Focus Group Interview Study among Dutch Biomedical Researchers." *BMJ Open *6 (2): e008681. doi:[10.1136/bmjopen-2015-008681.](https://doi.org/10.1136/bmjopen-2015-008681)
+- Wadman, M. 2019. "NIH 'High Risk, High Reward' Awardees Skew male-again." *Science * 366 (6463): 290. doi:[10.1126/science.366.6463.290.](https://doi.org/10.1126/science.366.6463.290)
+- Yank, V., and D. Barnes. 2003. "Consensus and Contention regarding Redundant Publications in Clinical Research: Cross-sectional Survey of Editors and Authors." *Journal of Medical Ethics *29 (2): 109–114. doi:[10.1136/jme.29.2.109](https://doi.org/10.1136/jme.29.2.109).

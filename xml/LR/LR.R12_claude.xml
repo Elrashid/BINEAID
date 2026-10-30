@@ -1,0 +1,699 @@
+<paper source_file="LR.R12" title="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" total_pages="16" figures="0" figures_with_images="0">
+
+When answering questions about this paper:
+- Cite the page number and section from the XML tags
+- Distinguish AUTHOR findings (source="author") from CITED references (source="cited")
+- For tables, reference by caption (e.g., "Table 1")
+- If unsure whether a claim is the authors' own, check the source attribute
+
+<page number="1">
+<text page="1" section="" source="author" id="/page/0/Text/0">
+The current issue and full text archive of this journal is available on Emerald Insight at: https://www.emerald.com/insight/0959-6119.htm
+</text>
+
+
+<heading page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/SectionHeader/1" level="1">
+# Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society
+</heading>
+
+<text page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/Text/2">
+International
+Journal of
+Contemporary
+Hospitality
+Management
+</text>
+
+<text page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/Text/3">
+1449
+</text>
+
+<text page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/Text/4">
+Received 15 August 2024 Revised 9 October 2024 13 November 2024 6 January 2025
+</text>
+
+<text page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/Text/21">
+Accepted 9 January 2025
+</text>
+
+<text page="1" section="Beyond metrics: shifting measures of research impact from citations and journal rankings to meaningful impacts on society" source="author" id="/page/0/Text/5">
+John L. Crompton
+Department of Hospitality, Hotel Management and Tourism,
+Texas A&amp;M University College Station, College Station, Texas, USA
+</text>
+
+
+<heading page="1" section="**Abstract **" source="author" id="/page/0/SectionHeader/6" level="4">
+#### **Abstract **
+</heading>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/7">
+**Purpose** — The purpose of this paper is to point out that most research published in hospitality and tourism industry journals is of no value to the visitor industries or society. It argues that a primary reason is the academic practice of evaluating the utility of its research with the inappropriate metrics of journal impact factors and citation counts. To become relevant, academic leaders must refocus evaluation of the field's research on its meaningful impacts on society.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/8">
+**Design/methodology/approach** — This study reviews the literature that differentiates the constructs of research quality and research impact and identifies their limitations.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/9">
+**Findings** — The contention that either journal impact factors or citation counts adequately measure the usefulness of research is challenged. It is suggested that reliance on them has resulted in an academic self-serving "echo chamber." The author argues the field should refocus away from the echo chamber to shift the primary evaluation of research to societal impact. Illustrations are offered from the author's recent experiences that illustrate the fallacy of confusing citation counts with impact. The challenges of shifting to an impact assessment from the existing system are acknowledged, and a way forward is proposed.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/10">
+**Research limitations/implications** — Continuing to embrace beguiling measures that are invested with a conventional, but false, aura of truth inevitably means the field's scholarship will continue to be ignored.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/11">
+**Originality/value** – An analytical critique of the prevailing metrics is undertaken, and a five-step process to shift the emphasis to societal impact is offered.
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/12">
+**Keywords** Research quality, Journal impact factors, Citation counts, Metrics, Research impact
+</text>
+
+<text page="1" section="**Abstract **" source="author" id="/page/0/Text/13">
+Paper type Research paper
+</text>
+
+
+<heading page="1" section="Introduction" source="author" id="/page/0/SectionHeader/14" level="4">
+#### Introduction
+</heading>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/15">
+In a stunning two-page paper, McKercher and Dolnicar (2022) asked, "Are 10,752 journal articles per year too many?" They reported this was the number of papers published as "refereed tourism, hospitality, and event articles in 272 journals" in multiple languages in 2021. They asked, "How many of the 10,752 articles present a new idea, advance knowledge, or fill a genuine research gap?"
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/16">
+It is likely that few of these papers are viewed as relevant, interesting or inspiring by those working in the visitor industries. McCabe, the current editor of *Annals of Tourism Research*, mused, "One wonders about the usefulness of all the research and information being
+</text>
+
+<figure page="1" section="Introduction" source="author" id="/page/0/Picture/17" image="LR.R12_fig01.jpg">[FIGURE: see LR.R12_fig01.jpg]</figure>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/18">
+International Journal of Contemporary Hospitality Management Vol. 37 No. 5, 2025 pp. 1449-1464
+© Emerald Publishing Limited 0959-6119
+DOI 10.1108/IJCHM-08-2024-1201
+</text>
+
+<text page="1" section="Introduction" source="author" id="/page/0/Text/19">
+The author is very appreciative of the insights and suggestions that Dr Babak Taheri provided on drafts of this manuscript.
+</text>
+
+</page>
+<page number="2">
+<text page="2" section="Introduction" source="author" id="/page/1/Text/2">
+produced and whether it has any impact" (Jafari and McCabe, 2024, p. 4). In the same article, his distinguished predecessor, Jafari, drawing on his 35 years (1973–2008) as founding editor of the *Annals of Tourism Research* asked "What percentage of these 10,747 articles are read and used by those who think and act hospitality and tourism—the industry? Disappointingly, the answer to this question can be in the low end of a single digit" (p. 5) If his "low end" percentage is 1% that would be 107 articles and 2% would be 214 articles, resulting in 99% and 98%, respectively, making no contribution. Others suggest this estimate is too high:
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/3">
+When are we as an academic body going to recognize that the problem is not more publication for the sake of more publication? In the past, "publish or perish" meant contribute or die professionally. Today, it's more "publish as we perish." We have been producing more and more [material] of less and less quality for a generation. Face it, you've read thousands of articles in your career, and you've been influenced by at best a few dozen [...]. There is an increasing volume of theoretically and methodologically insipid publications in a proliferating web of unread outlets whose sole goal was merely to become a publication, not to enlighten (Alvesson and Gabriel, 2013, p. 246).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/4">
+If, for example, 10 of these articles made a difference, it means that 99.99% offered no meaningful contribution. Whatever the number of articles that are perceived to positively impact the effectiveness of the visitor industries in the field, it is likely most would accept that the vast majority of these papers are likely to have no value beyond improving the knowledge base of their authors.
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/5">
+In this paper, the author argues that much of the futility of this effort arises from researchers, academic institutions and administrators succumbing to the seductive power of journal impact factors (JIF) and citation counts (Nkomo, 2009). Their use is pervasive and has been entrenched for at least two decades (e.g. Adler and Harzing, 2009; Singh *et al.*, 2007). Lawrence's (2008) observations made over a generation ago are illustrative:
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/6">
+Measurement of scientific productivity is difficult. The measures used [...] are crude. But these measures are now so universally adopted that they determine most things that matter to scholars: tenure or unemployment, a postdoctoral grant or none, success or failure. As a result, scientists have been forced to downgrade their primary aim from making discoveries to publishing as many papers as possible—and trying to work them into high impact-factor journals. Consequently, scientific behavior has become distorted, and the utility, quality, and objectivity of articles have deteriorated. Changes [...] are urgently needed (p. 3).
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/7">
+The Merriam-Webster dictionary defines seduction as: "leading astray usually by persuasion or false promises." The present paper documents convincing evidence that seduction is an appropriate descriptor and explanation for the entrenchment of these metrics, since both journal impact factors and citation counts are "unfit for the purpose":
+</text>
+
+<text page="2" section="Introduction" source="author" id="/page/1/Text/8">
+• They are neither valid nor reliable measures of the *quality* of research undertaken in the visitor industries. Research is widely recognized as having three dimensions: plausibility, originality and scientific value (Polanyi, 1962). *Plausibility* requires that the research is based on well-founded data or evidence, used scientific methods and produced convincing results. *Originality* refers to it yielding new knowledge embracing new hypotheses, new methods, new theories or models or new results that may range from additions/improvements of established knowledge to radical novel/disruption of existing research. *Scientific value* means its findings have important implications for subsequent research. Each of these dimensions has multiple subdimensions, but they are the overarching criteria.
+</text>
+
+</page>
+<page number="3">
+<text page="3" section="Introduction" source="author" id="/page/2/Text/1">
+International Journal of Contemporary Hospitality Management
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/2">
+1451
+</text>
+
+<text page="3" section="Introduction" source="author" id="/page/2/Text/3">
+The first two sections of the paper provide an overview of the major issues discussed in the literature that refute the contention that either JIFs or citation counts adequately measure the *quality or impact* of research, despite becoming the "coin of the realm" for measuring the value of individual researchers' work. The third section suggests this has resulted in an academic self-serving "citation count echo chamber." The fourth section argues the field should refocus away from the echo chamber to shift the primary evaluation of research to *societal and/or industry impact*. The discussion identifies the challenges associated with operationalizing impact. The fifth section offers illustrations from the author's experiences in recent years that illustrate the fallacy and irresponsibility of confusing citation counts with impact. The final section recognizes the conundrum of shifting to an impact assessment from the existing system since it could adversely jeopardize promotions, status and research reputation. Supplementary material is provided that suggests a way forward for the field.
+</text>
+
+
+<heading page="3" section="**Journal impact factors **" source="author" id="/page/2/SectionHeader/4" level="4">
+#### **Journal impact factors **
+</heading>
+
+<text page="3" section="**Journal impact factors **" source="author" id="/page/2/Text/5">
+Researchers seek to publish in the most "prestigious" journals because those journals are likely to provide the most helpful reviews; provide the highest visibility for a researcher's work; and signal to external stakeholders that the work is relatively high quality. In past eras, the most prestigious journals, for the most part, were determined by reputation and tradition.
+</text>
+
+<text page="3" section="**Journal impact factors **" source="author" id="/page/2/Text/6">
+In recent years, several bibliometric measures have been proposed to provide a more objective measure of "prestige." In the visitor industries, the most popular measure in academia is widely recognized to be the JIF, which was launched in 1975. Originally, it was intended to be a tool to assist librarians in identifying journals that had the widest readership. However, over time it morphed into being an easy, but misleading, proxy for quality of research (Choi *et al.*, 2024).
+</text>
+
+<text page="3" section="**Journal impact factors **" source="author" id="/page/2/Text/7">
+Researchers' personal motivation to seek prestigious outlets is reinforced by university administrators who perceive that the reputation and ranking of their institution, department, etc. is based on publications that appear in journals with a high impact factor. This has implications for competitiveness, resource allocations and student recruitment. The implications extend to reviews of faculty performance on which hiring, retention, tenure, promotion, resources and merit salary decisions are made; publishers who seek high JIFs since this boosts the price they can charge libraries for their journal packages; and libraries that may use low JIFs as a criterion for selecting journals to discontinue when confronted by budget constraints.
+</text>
+
+<text page="3" section="**Journal impact factors **" source="author" id="/page/2/Text/8">
+The JIF is currently a proprietary product currently owned by Clarivate Analytics and based on their proprietary *Web of Science* database. In 2016, Elsevier launched its Scopusbased initiative which constructs an impact factor (CiteScore) based on that company's *Scopus* database. Both of these impact scores are determined by a journal's ratio. The JIF uses a two-year window, namely, number of citations of articles that appeared in journals in the 2024 year for articles published in that journal in 2022 and 2023/total number of "citable items" published in that journal during 2022 and 2023. The Scopus CiteScore adopts a similar approach but uses a three-year rather than a two-year window. Nine criticisms of these impact factors have consistently been articulated.
+</text>
+
+<text page="3" section="**Journal impact factors **" source="author" id="/page/2/Text/9">
+First, using a two or three-year timeframe for the ratio is arbitrary and inconsistent with the realities of diffusion in the social sciences, given that the lead time between submitting a paper and having it published may itself be two years. A review of the present author's most
+</text>
+
+</page>
+<page number="4">
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/2">
+cited articles indicates that, for the most part, they follow the typical product life cycle, i.e. an introductory two/three-year period of few citations as the field gradually becomes acquainted with the article; a take-off period of another three or four years of relatively exponential growth; before reaching maturity and peak citation status somewhere between six to nine years after publication. At some point, the annual number of citations begins to decline as newer research builds on the original findings and gradually displaces it. This is reasonably consistent with Mingers' (2008) research, which investigated 600 papers and reported that they reached their peak annual citation count after six years.
+</text>
+
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/3">
+Second, it is not possible to predict the eventual number of citations received by extrapolating from an article's early citation count. "Shooting stars" which address *la saveur du jour* may be relatively highly cited in the first years but then fade into obscurity. In contrast, "sleeping beauties" may be so innovative and outside the mainstream that their introduction and take-off stages take much longer. In refutation of the rationale underpinning the ratio, a strong case can be made that it is the "sleeping beauties" that should define the ratio's numerator, not the "shooting stars" (Mingers and Willmott, 2013).
+</text>
+
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/4">
+Third, the JIF and CiteScore are proprietary products. The denominators are defined as articles, review articles and proceedings papers indexed in their companies' respective databases, Web of Science and Scopus. (The limitations of these databases are discussed in the next section of this article). Any other types of documents, such as editorial material, short reviews, book reports, letters, and meeting abstracts, are not included in the denominator. However, the companies do not disclose information on journals' citable item sections. This results in ambiguity of what has been deemed a "citable item" making it impossible for users to know what is and is not included in the metric.
+</text>
+
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/5">
+Fourth, the ratio offers a mean number, but citation distributions are not normally distributed; invariably they are highly skewed with some articles receiving zero citations and others 100 or more citations within the given timeframe. Chang and McAleer (2012) reviewed "the leading 14 journals in Tourism and Hospitality" as identified in the Web of Science database and reported that over a five-year period "3 out of every 5 papers that are published in them are not cited" (p. 5). They suggested this constituted the field's rejection rate of editorial judgments. The JIF is not capable of conveying the quality, scientific accuracy or societal impact of any specific article published within that journal. It reflects citation patterns of the journal title as a whole, not the metrics of any individual research paper. Essentially, papers that are infrequently cited get a "free ride" on the backs of a relatively small number of highly cited articles which are the determining source of a journal's JIF (Mingers and Willmott, 2013).
+</text>
+
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/6">
+Fifth, Guthrie *et al.* (2019) ask: "What really is the difference between 4, 3, and 1 citations (on average) per paper over potentially two- or three-years exposure?" They answer their own question by concluding, "not very much" (p. 12).
+</text>
+
+<text page="4" section="**Journal impact factors **" source="author" id="/page/3/Text/7">
+Sixth, it has been noted that the JIF has been embraced as an expedient policy tool and has become a potent instrument of managerial decision-making for academic administrators responsible for making decisions pertaining to their colleagues' careers (Mingers and Willmott, 2013). Early career researchers are especially prone to having the quality of their research based on the perceived quality of the journals in which they have published, because other quality of impact measures have not had time to come to fruition. However, attributing quality to journals rather than individual articles is nonsensical, as point 4, relating to skewedness, indicates. Furthermore, editorial selection of articles that are published involves considerable randomness. All of this makes the JIF an inappropriate and misleading proxy of quality with no statistical validity (Adler and Harzing, 2009; Chang and McAleer, 2012;
+</text>
+
+</page>
+<page number="5">
+<text page="5" section="**Journal impact factors **" source="author" id="/page/4/Text/2">
+Choi *et al.*, 2024; Mingers and Willmott, 2013; Myers and Kahn, 2021; Singh *et al.*, 2007; Starbuck, 2005; Willmott, 2012).
+</text>
+
+<text page="5" section="**Journal impact factors **" source="author" id="/page/4/Text/3">
+Seventh, the ratio incentivizes editors to focus on secondary review articles ("curated articles") rather than primary research articles, because invariably they are the most cited since they serve as surrogates for earlier literature reviews and save researchers' labor.
+</text>
+
+<text page="5" section="**Journal impact factors **" source="author" id="/page/4/Text/4">
+Eighth, the JIF is strongly influenced by the breadth of research areas a journal covers. Narrowly targeted "niche" journals invariably have lower JIFs, which is not reflective of the relevance and impact of their content for their relatively small audience. This was empirically confirmed when researchers sought the peer-reviewed scientific academic articles that underpinned policy in the field of conservation and concluded that they emanated mostly from low-JIF or no-JIF journals that tended to focus on specific niches, rather than the high-JIF journals that had broader appeal (Choi *et al.*, 2024).
+</text>
+
+<text page="5" section="**Journal impact factors **" source="author" id="/page/4/Text/5">
+Ninth, journal editors are incentivized to enhance their numerators in the ratio by publishing editorials, short reports or book reviews that get cited but are not included in the count of papers; publishing overviews of the research published in each issue of a journal: or "persuading" authors to add gratuitous citations from their journal before publishing the author's article (Mingers and Yang, 2017). Adler and Harzing (2009) describe this process and illustrate the consequent dramatic increase in JIFs.
+</text>
+
+<text page="5" section="**Journal impact factors **" source="author" id="/page/4/Text/6">
+Clearly, the multiple flaws in the JIF render it invalid and unreliable. Nevertheless, its widespread acceptance and adoption serves to institutionalize a ranking list of journals. This sends a strong "market signal" that essentially results in an article's place of publication in the journal rankings being more valued than its content or impact on societal and/or industry stakeholders.
+</text>
+
+
+<heading page="5" section="**Citation counts **" source="author" id="/page/4/SectionHeader/7" level="4">
+#### **Citation counts **
+</heading>
+
+<text page="5" section="**Citation counts **" source="author" id="/page/4/Text/8">
+Citation count metrics have gained prominence in response to a shift by universities in recent decades to a "corporate model" of accountability that emphasizes quantity over quality, and believes quantification is central to accountability (Guthrie *et al.*, 2019). They measure the frequency with which an article is cited in other papers. The metric purports to assess the contribution an individual scholar makes to the visitor industries field by measuring the influence of that scholar on the published research of others (McKercher, 2008).
+</text>
+
+<text page="5" section="**Citation counts **" source="author" id="/page/4/Text/9">
+The sources of citation counts are the Web of Science, Scopus and Google Scholar. Both the *Web of Science* and *Scopus* are consistently criticized as lacking comprehensive coverage of the humanities and social science disciplines and "may lack justification in these fields" which, of course, includes the visitor industries (Aksnes *et al.*, 2019).
+</text>
+
+<text page="5" section="**Citation counts **" source="author" id="/page/4/Text/10">
+In contrast, *Google Scholar* is freely available and is a search engine rather than an indexed database. Importantly, it is inclusive of research in languages other than English and of policy-oriented research. However, it does not incorporate any controls on quality. Its scope and sources of inaccuracy are captured by Myers and Kahn (2021):
+</text>
+
+<text page="5" section="**Citation counts **" source="author" id="/page/4/Text/11">
+It contains many publications beyond journal articles, such as books, reports, patents, presentations, posters, and other materials. As it crawls the web, creating citation connections, sometimes it encounters incorrect or difficult-to-parse bibliographies and erroneously creates duplicate records for the same publication. Google Scholar's broad and opaque definition of scholarly content, as well as its automated citation record creation process, usually results in higher citation counts than Web of Science or Scopus. The reliability of Google Scholar is a challenge because of its all-in search engine and duplication (p. 1707).
+</text>
+
+<text page="5" section="**Citation counts **" source="author" id="/page/4/Text/12">
+Thus, in its list of his citations Google credit's the author of this paper with two articles authored by a scholar in the medical field who has the misfortune also be named "J.L. Crompton" with the titles: *Bilateral internuclear ophthalmoplegia—an unusual initial *
+</text>
+
+</page>
+<page number="6">
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/2">
+presenting sign of giant cell arteritis, and Vasculitis and ischaemic optic neuropathy associated with rheumatoid arthritis. Furthermore, he receives an undeserved boost to his h-index by his 1979 article, Motivations for pleasure vacation being wrongly named in three additional different ways so each is credited as an independent publication in calculating (and boosting) his h-index.
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/3">
+Because they source their citations from different populations of publications, metrics derived for a given author from each of these platforms are likely to differ, which is indicative of the measure's lack of reliability. The problem is compounded by the plethora of digital outlets providing alternative ways of communicating research such as preprints, blogs, podcasts, videocasts and social media posts. Should these channels be counted as research outputs? ([Ma, 2023)](#page-14-14). Five additional flaws that challenge the validity of citation counts are recognized.
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/4">
+First, if several authors' names appear in an article, each author is given the same credit for having a publication as an author who has published a single-authored article. Productivity is not adjusted to give partial credits for joint authorship or to the differential contributions of authors to the research. The inequity of this is obvious. Few are likely to disagree with the contention that fractional equivalents are more equitable and appropriate.
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/5">
+Second, no consideration is given to the importance of a citation to the work reported in each article. A central citation that may stimulate the whole article (e.g. [McKercher and](#page-14-0) [Dolnicar, 2022,](#page-14-0) in this article) receives no more recognition than a citation buried among many in the other thirty references in this article.
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/6">
+Third, citation rates are likely to be highest in journals that are long established, which publish topics that are widely researched, use methodologies that are frequently deployed and/or engage primarily with familiar theoretical frameworks ([Mingers and Willmott, 2013](#page-14-7)). For example, the author of this paper's research program in the field of parkland dedication led to the publication of seven papers which in aggregate received a total of 13 citations − most of which are self-citations. (This work is described in a later section of this article). A primary reason for the low count is that he is the only academic researcher working in this area in the USA. In contrast, his 1979 foundational paper on tourists' motives has received over 7,000 citations because tourists' motives are one of the most popular areas of research in the tourism field.
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/7">
+Fourth, an assumption of citation counts is that "all publicity is good publicity". The metric assumes the cited work contributed positively to knowledge. However, sometimes the citation arises because subsequent authors are demonstrating its weaknesses and shortcomings [(Huang](#page-14-15) et al., 2022).
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/8">
+Fifth, the focus on citations encourages strategic behaviors, such as extensive selfcitations to "game" the system [(Siler and Larivière, 2022](#page-15-5)). Twenty years ago, [Ryan (2005)](#page-15-6) drawing on his long experience as editor of Tourism Management bemoaned the lack of integrity and the "gaming" of the system that embracement of citation counts encouraged:
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/9">
+It encourages a shift toward "milking" research projects for publications, a tendency to produce material that makes little net contribution to knowledge other than perhaps reinforce some knowledge through repetition […]. It leads to what I term "games playing" by academics. The multiplicity of journals has meant that it has been relatively easy for researchers to gain publications […] which actually offer little in terms of new conceptualizations or are able to articulate any significant addition to the literature […]. Researchers are encouraged to subject the data sets to more than one technique and publish the results separately, or by withholding some variables to be introduced in a later paper (p. 658).
+</text>
+
+<text page="6" section="**Citation counts **" source="author" id="/page/5/Text/10">
+The current editor of Annals of Tourism Research confirms this trend is endemic:
+</text>
+
+</page>
+<page number="7">
+<text page="7" section="**Citation counts **" source="author" id="/page/6/Text/0">
+The system is often skewed towards prioritizing quantity rather than quality of research [...] We see the constant rise in number of new submissions not leading to a commensurate increase in the quality of the research being produced (Jafari and McCabe, 2024, p. 5).
+</text>
+
+<text page="7" section="**Citation counts **" source="author" id="/page/6/Text/1">
+Despite their flaws, citation counts have become the "coin of the realm". While there is obvious appeal to providing a simple unambiguous rating to evaluate complex professional work, the logic of featuring a single metric measure to accurately evaluate a multidimensional construct such as research quality is not apparent (Siler and Larivière, 2022). Clearly, there are multiple flaws that argue against acceptance of citation counts as valid and reliable proxies.
+</text>
+
+<text page="7" section="**Citation counts **" source="author" id="/page/6/Text/2">
+Furthermore, their intent is confined to measuring the quality of research (plausibility, originality and scientific value). They bear no relationship to the effectiveness of academic work in improving service delivery, company profitability or impact on society. Unfortunately, for the most part, this distinction has been discarded and in the eyes of many, citation counts have inappropriately become a proxy for "impact" falsely implying they measure societal value and impact when they were never intended to do so.
+</text>
+
+
+<heading page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/SectionHeader/3" level="4">
+#### Creation of the citation count echo chamber
+</heading>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/4">
+In a normal market, the ongoing creation of so much product that adds no value would lead to the closure of most journals and the bankruptcy of their producers. This is not happening. Indeed, counterintuitively, the number of journals continues to expand. Why? The answer is that while ostensibly the research work is based on the premise that the clients are those engaged in the visitor industries, in most cases this is a pretentious façade.
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/5">
+The real clients for this research output are the academics who publish in the journals, and their universities' administrators. The aim is not to enlighten, rather it is simply to see the work in print. It is researchers' response to "publish or perish" and the demands of their peers, administrators and funders that they demonstrate their research prowess, expertise and progress through their publication and citation record.
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/6">
+The field has in essence created an echo chamber in which citations reverberate, perhaps reiterating or reinforcing existing knowledge but rarely offering new insights. They represent an occupationally self-interested quest for status and legitimacy within academia (Willmott, 2012). The echo chamber effect explains the apparent conundrum of why so many researchers report relatively high citation counts which satisfy their academic administrators, while so few articles emerge that make a difference to professional practice. The echo chamber facilitates the façade of academic accountability as researchers cite each other's work, but nobody outside the closed echo chamber in the broader society pays any attention. Jafari and McCabe (2024) note:
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/7">
+Many journals pack their quarterly issues mostly with derivative articles, featuring old wines in new bottles [...]. The exponential growth of journals and articles is aided by "inbreeding," old and new knowledge being circulated and recirculated. This results in a high multiplier effect of the published articles, enjoying increased citation indexes [...]. The study of tourism has gradually built its own closed-circle universe in which its own accomplishments, inflated by high multiplier effects due to citations within the field, are recognized and celebrated internally (p. 5).
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/8">
+This echo chamber model is encouraged by the journal publishers (Abizadeh, 2024), especially the "big five" – Elsevier, Wiley, Taylor and Francis, Springer Nature and SAGE – whose profit margins approach 40%. These journals do not pay for the free product provided by academics; free quality control provided by editors, associate editors and reviewers; and, thanks to electronic advances, they incur minimal printing and distribution costs. In effect, "the tail is wagging the dog." The commercial publishing companies are driving the train;
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/9">
+International
+Journal of
+Contemporary
+Hospitality
+Management
+</text>
+
+<text page="7" section="Creation of the citation count echo chamber" source="author" id="/page/6/Text/10">
+1455
+</text>
+
+</page>
+<page number="8">
+<text page="8" section="Creation of the citation count echo chamber" source="author" id="/page/7/Text/2">
+even though academics provide their engine. As the number of annual issues per journal increases and the number of new journals entering the field proliferates, the commercial publishers can increase the prices charged for their packages to their clients. Jafari comments:
+</text>
+
+<text page="8" section="Creation of the citation count echo chamber" source="author" id="/page/7/Text/3">
+The mounting supply of "desk rejects" feeds into the expanding channels of the publishers [...] Publishers are delighted to learn from their editors about the avalanche of submissions mounting up, which are then ploughed into more issues, with the semi-annual journals becoming quarterly, quarterly appearing bi-monthly, or even more frequently. Before you know, the publishers suddenly dish out brand-new journals in and of tourism—and the massification game continues! (p. 5).
+</text>
+
+<text page="8" section="Creation of the citation count echo chamber" source="author" id="/page/7/Text/4">
+Not only do these journals not pay for the product, but they also subsequently sell access to the end product to the very same institutions that funded it in the first place. In some instances, "vanity" or "pay to play" publishers are even able to charge researchers to have their work produced in journals.
+</text>
+
+
+<heading page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/SectionHeader/5" level="2">
+## Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:
+</heading>
+
+<text page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/Text/6">
+Good research responds to the needs of society, improves its wellbeing. The vast body of tourism knowledge, warehoused in libraries worldwide, is collecting dust. Tourism knowledge, like in other fields, needs to be complemented by applications, to make tourism a sustainable industry, harmonious with and contributing to its natural and sociocultural settings (p. 4).
+</text>
+
+<text page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/Text/7">
+Impact recognizes that visitor industries' researchers have an implied social contract to ensure their research addresses "real world" issues of importance to the stakeholders who fund their academic positions and grants. The stakeholders expect accountability and evidence of impact that demonstrates their "money was well spent." They are not likely to be impressed by JIFs and citation count metrics.
+</text>
+
+<text page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/Text/8">
+In response to these concerns, an encouraging trend is emerging to focus on the *impact* of a publication, or more probably a program of research, and move away from the beguiling preoccupation with flawed metrics that purport to evaluate the *quality* of research. Impact is defined as the reach and significance of research findings. Reach is defined as "the extent and diversity of the communities, individuals, organizations, or other beneficiaries that have benefited or been affected"; while significance is defined as "the degree to which the impact has enriched, influenced, informed or changed policies, opportunities, perspectives or practices of communities, individuals or organizations" (Brauer *et al.*, 2019, p. 67).
+</text>
+
+<text page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/Text/9">
+The way forward is being blazed by the experience of those countries where universities are administered centrally by government (e.g. Australia, Italy, New Zealand, Norway, the UK). These governments are the primary grant funders for all types of research and allocate their resources to those university programs that are best equipped to address the most important issues in each field. They typically measure impact accountability through a regular Research Assessment Exercise (RAE) or Research Excellence Framework (REF). The United Kingdom's (UK) RAE has been in the vanguard of this genre. Its first assessment was undertaken in 1986, and it has been repeated every five to seven years. Details of its evolution and challenges are discussed by Brauer *et al.* (2019). Universities' performances on the assessments are used as the basis for the UK government to allocate its $2bn a year academic research budget.
+</text>
+
+<text page="8" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/7/Text/10">
+The REF's early focus was on research quality, but in 2014 it evolved to focus more on "research impact" and less on research quality with the goal of increasing accountability for public investment. The impact could be: "Any [societal], economic, or cultural impact or benefit beyond academia that has taken place during the assessment period" (Brauer *et al.*, 2019, p. 67).
+</text>
+
+</page>
+<page number="9">
+<text page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/Text/2">
+It could, for example, result in enhanced policy decisions, improved community outcomes or industry applications, but it explicitly stated that academic impact (measured by citations) and impact through teaching were not considered research impact metrics. This shift represented "a trailblazing new direction in research evaluation and to date [2019] no similar research impact evaluation has been conducted on this scale" ([Brauer](#page-14-17) et al., 2019, p. 64).
+</text>
+
+<text page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/Text/3">
+This shift's intent was to closely relate government funded research to the needs of "users" in industry, agencies and nonprofits. Accordingly, grant applications and project reports typically now require researchers to anticipate and report the impact outcomes that will accrue from the planned research, and to outline the "pathways" by which that impact is likely to be achieved. The term, "knowledge valorisation" has gained traction. It refers to the value of societal returns from academic research and/or through its commercialization ([Alla](#page-14-18) et al.[, 2017](#page-14-18)).
+</text>
+
+<text page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/Text/4">
+Unlike the governments who can use their leverage as funding agencies to change the accountability criteria, the company's controlling the journals have no incentive to change their measurement models. The leverage lies with academia's leaders in the institutions and the field's journal editors. If there is to be change, it is incumbent upon them to make it clear that they will not accept the JIF and citation counts as metrics for evaluations of a scholar's research and to insist upon measures of impact. To this end, the author's home department, The Department of Hospitality, Hotel Management and Tourism at Texas A&amp;M University (TAMU), has adapted the UK's RAE to its situational context. The adaptation requires each faculty member to respond to the following question:
+</text>
+
+<text page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/Text/5">
+What has been the impact of your research? Demonstrate how it has changed, or benefited the economy, society, culture, public policy/services, health, the environment or quality of life, beyond academia? Activities that demonstrate this impact may include (but are not limited to):
+</text>
+
+<list page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/ListGroup/255">
+- Direct contributions to the development of new or existing productive research partnerships with nonacademic organization(s) that evidence benefits to the organization(s). Examples include changes to the partner's policies, practice, processes or systems, or the development of technologies, treatments or techniques by (or in conjunction with) the partner.
+- Undertaking meaningful public and/or regional engagement activity that supports Texas A&amp;M University/College of Agriculture and Life Sciences priorities and TAMU's land grant mission, which results in new or enhanced collaborative activity, funded research or other significant external impacts − including changes in public understanding, attitudes or behavior at a local level.
+- Two-way engagement with policymakers which leads to changes in practice or policy that are directly influenced by the research outputs.
+- Evidence of sustained contribution to the dissemination of knowledge and research to national and international audiences (e.g. at national events or through television, radio, newspapers and social media) and/or taking a leading role in academic/ nonacademic conferences or symposia (e.g. keynote presentations).
+</list>
+
+<text page="9" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/8/Text/10">
+The author readily acknowledges the absence of a bibliometric measure of impact that characterizes the existing situation and recognizes that the evaluation of impact is problematic, ambiguous and subjective. Tentative efforts to develop instruments that measure impact of a research project on society are emerging (for example, [Sørensen](#page-15-7) et al., [2022)](#page-15-7) but the challenge is to develop metrics that are valid and reliable and have surmounted the failings that were listed earlier in the discussion of JIF and citation count measures.
+</text>
+
+</page>
+<page number="10">
+<text page="10" section="Transitioning from the internal echo chamber to an external focus on impact Jafari and McCabe (2024) noted:" source="author" id="/page/9/Text/2">
+At this stage, eschewing quantitative measures in favor of qualitative description of impact requires editors, reviewers and administrators to exercise judgment. However, their judgment is not arbitrary since it is informed by disinterestedness, experience and intuition (Alvesson and Gabriel, 2013) and will be evaluated by academic administrators in the same way that juries evaluate stories in a legal courtroom. The principle was famously espoused in 1964 when US Supreme Court Justice Potter Stewart confronted by the need to suggest a threshold test for categorizing an observable fact when the category was subjective and lacked clear definition famously wrote "I know it when I see it." Sometimes the judgments may be wrong, but this approach is arguably superior to using flawed quantitative metrics that lack validity and reliability so, by definition, they are almost always likely to be wrong.
+</text>
+
+
+<heading page="10" section="Personal differentiations between citation counts and impact" source="author" id="/page/9/SectionHeader/3" level="3">
+### Personal differentiations between citation counts and impact
+</heading>
+
+<text page="10" section="Personal differentiations between citation counts and impact" source="author" id="/page/9/Text/4">
+At the time of writing this article, Google Scholar showed the author of this paper's metrics were: 60,000 citations, h-index 91 and i10 index 251. To those inside the echo chamber these numbers suggest a successful career. However, they do not measure anything meaningful because they are unrelated to societal and/or industry impact. Three recent examples relating to the author's research programs highlight the disconnect between citation counts and impact.
+</text>
+
+
+<heading page="10" section="Parkland dedication ordinances" source="author" id="/page/9/SectionHeader/5" level="4">
+#### Parkland dedication ordinances
+</heading>
+
+<text page="10" section="Parkland dedication ordinances" source="author" id="/page/9/Text/6">
+Parkland dedication is essentially a user fee. The principle is that new residents who build a home create a demand for additional parks. Hence, a fee is imposed by a city council on each new residence that is built and "ring-fenced" in a separate fund that can be used only for capital investments in parks. The rules governing the principle and amount of the fee are vague because in most cases they derive from unified development ordinances adopted by a city and not from state enabling legislation. When ordinances are contested, past court case interpretations and decisions effectively define the rules.
+</text>
+
+<text page="10" section="Parkland dedication ordinances" source="author" id="/page/9/Text/7">
+The author has testified in multiple court cases and, incrementally over a 30-year period, has used their decisions to successfully expand the scope of these ordinances. He has published seven papers explaining the conceptual rationale and operational implications of these expansions in the *Journal of Recreation and Park Administration*. The journal is narrowly targeted at senior park and recreation administrators and has an unimpressive JIF of 1.5. In aggregate the citations generated by the seven papers total 13, almost all of which were self-citations. The prime reasons for the low citation count are that the author is the only academic in the USA doing research in this area and the targeted professional audience does not engage with academic research journals. Nevertheless, these metrics suggested to many university administrators that the scholarship was "second rate"; was an unproductive investment of time and resources; and not worthy of meaningful academic credit.
+</text>
+
+<text page="10" section="Parkland dedication ordinances" source="author" id="/page/9/Text/8">
+However, consistent with the empirical findings of Choi *et al.* (2024), this is a niche journal and the *impact* of the research in that niche has been immense. For example, the introductory rubric of the City of Austin Ordinance number 20160128-086 includes the following:
+</text>
+
+<list page="10" section="Parkland dedication ordinances" source="author" id="/page/9/ListGroup/90">
+- F. Professor John L Crompton, a Texas expert on Parkland Dedication ordinances, advised the Parks and Recreation Department that a fair parkland dedication fee should maintain existing residents' level of service and be based on a per-person assessment method.
+- G. The amendments adopted by this ordinance reflect the findings in the Report, as well as the advice of Professor Crompton, and will ensure that new growth and development contribute its fair share towards maintaining the City's park system.
+</list>
+
+</page>
+<page number="11">
+<text page="11" section="Parkland dedication ordinances" source="author" id="/page/10/Text/2">
+In fiscal year 2022–23, this ordinance raised $26m in parkland dedication fees for the city of Austin.
+</text>
+
+<text page="11" section="Parkland dedication ordinances" source="author" id="/page/10/Text/3">
+The author has developed parkland dedication fee ordinances for multiple US cities. Most professionals pursue best practices by "borrowing" ideas from other professionals. Hence, in addition to the author's direct impact, there is a multiplier as these ordinances are embraced by other professionals and communities without reference to the author. The total monetary annual *impact* on communities of this research program is well into nine figures. This contrasts with its failure to reverberate in the academic echo chamber where it is deemed a failure.
+</text>
+
+
+<heading page="11" section="The impact of parks and open spaces on property values" source="author" id="/page/10/SectionHeader/4" level="4">
+#### The impact of parks and open spaces on property values
+</heading>
+
+<text page="11" section="The impact of parks and open spaces on property values" source="author" id="/page/10/Text/5">
+This was a 20-year research program, comprised of 22 research publications which in aggregate generated 1,476 citations. However, 50% of those citations were attributable to two review articles summarizing the work. Thus, the other 20 publications generated approximately only 700 citations. At best, this is a mediocre academic return for the investment. However, a recent court case suggests the impact of the work has been substantial.
+</text>
+
+<text page="11" section="The impact of parks and open spaces on property values" source="author" id="/page/10/Text/6">
+In SHG Garage SPE et al. v City of Seattle, the appellants were appealing the imposition of an assessment levied by the City of Seattle to finance "park-like" waterfront improvements on 6,238 individual properties in a 26-block area. The city hired an appraiser who calculated that the aggregate benefits to the properties in the 26-block area to be approximately $414m. This was used by the city as the justification to raise $175m to fund the waterfront improvements. It claimed that the appellants would thus be paying only 42.3% of the benefits they received.
+</text>
+
+<text page="11" section="The impact of parks and open spaces on property values" source="author" id="/page/10/Text/7">
+Unbeknown to the author, the appraiser had used his work as the basis for the appraisal. The appellants' law firm contacted the author and asked if the research findings had been appropriately applied. They had not. Consequently, the author agreed to participate in the legal proceedings on the appellants' behalf to protect the integrity of his research.
+</text>
+
+<text page="11" section="The impact of parks and open spaces on property values" source="author" id="/page/10/Text/8">
+The case meandered for four years through various courts and appeals. In March 2023, the final judgment from the Superior Court of Washington State ruled in favor of the appellants: "The Court finds that the City's method of assessment was fundamentally flawed." The author's testimony was central to the court's decision. It was discussed in detail in the 117-page ruling. The Court noted: "The testimony was uncontroverted that Dr Crompton is the world's premier authority on a park's influence on property values. He testified that the appraiser "misinterpreted his research to expand the special district boundary, mischaracterized the improvements, and overstated potential benefits."
+</text>
+
+
+<heading page="11" section="Economic impact" source="author" id="/page/10/SectionHeader/9" level="4">
+#### Economic impact
+</heading>
+
+<text page="11" section="Economic impact" source="author" id="/page/10/Text/10">
+The author's research program in economic impact consisted of 19 published articles and a book over a 20-year period. Whereas most research can be characterized as a search for truth, most economic impact studies are commissioned to bolster a client's economic case for seeking financial support from the public sector. This encourages abuse of basic principles, and use of mischievous practices to enhance a position. The research program exposed these abuses.
+</text>
+
+<text page="11" section="Economic impact" source="author" id="/page/10/Text/11">
+A standard Google search quickly leads to the author's research program or some of his publications. In turn, this causes opponents of projects that are being justified by an economic impact study and the media who report on a community's projects to contact the author. This is a regular occurrence – typically three or four times a year. For example, late in 2023 the Disney organization announced a $2bn expansion for Disneyland, and they were
+</text>
+
+</page>
+<page number="12">
+<text page="12" section="Economic impact" source="author" id="/page/11/Text/2">
+seeking substantial capital investment from the city of Anaheim. An economic impact study was used to support the company's request to the city. The *Los Angeles Times* contacted the author and used his caveats in an article that was seized upon by the scheme's opponents.
+</text>
+
+<text page="12" section="Economic impact" source="author" id="/page/11/Text/3">
+Similarly, the State of Virginia and the City of Alexandria early in 2024 were being lobbied by team owners to invest $2bn in a new structure to accommodate the area's professional basketball and ice-hockey franchises. The center piece of their case was an economic impact study. The opposition was led by a retired navy admiral and former Congressman. He contacted the author and used the results from his research program to criticize the study in articles, press releases and public forums. The result was a reduction in public funds from $2bn to $500m. After the announcement, he wrote the author a note of thanks for the "wonderful work" which was "at the center" of the investment reduction.
+</text>
+
+
+<heading page="12" section="**Concluding comments **" source="author" id="/page/11/SectionHeader/4" level="4">
+#### **Concluding comments **
+</heading>
+
+<text page="12" section="**Concluding comments **" source="author" id="/page/11/Text/5">
+In the author's view, the field "worships at the altar of false idols." Validity refers to the extent to which a measure accurately measures what it is intended to measure. Continuing to embrace beguiling measures that are invested with a conventional, but false, aura of truth inevitably means the field's scholarship will continue to be ignored. The premise that citation counts are proxy measures of quality of a research paper is invalid, heroic and clearly flawed; but even if the validity of that premise was accepted, flaws both in the way the citations are assembled and the way they are counted by different platforms renders them as invalid and lacking reliability.
+</text>
+
+<text page="12" section="**Concluding comments **" source="author" id="/page/11/Text/6">
+The question McKercher and Dolnicar (2022) asked that was referenced in the introductory paragraph of this article referred to the impact of those 10,752 papers on research knowledge. The author of this paper argues that perspective is too narrow. Rather than focusing on research knowledge, the goal of the research should be on societal impact.
+</text>
+
+<text page="12" section="**Concluding comments **" source="author" id="/page/11/Text/7">
+A rough "back of the envelope" estimation illustrates the magnitude of the annual monetary investment in those publications. Assume each of the 10,752 papers had two authors, so that (say) 20,000 authors contributed effort to these papers. Further assume that each of the authors devoted 10% of their annual professional time to their paper, and that the average annual salary of the authors was $US100,000. With these assumptions the annual investment in this research would be 20,000 X $US10,000 = $US200m. The question then becomes: Did the visitor industries, other stakeholders, and society receive $200m annual value from this research investment? Would taxpayers be supportive of this huge investment of resources for so little return? The answer is self-evident.
+</text>
+
+<text page="12" section="**Concluding comments **" source="author" id="/page/11/Text/8">
+The hegemony of JIFs and citation counts serves only to obscure the importance of impact, not to facilitate it. Focusing on and tinkering with them is insufficient and wasteful when the real focus should be on impact. They mislead, rather than inform. Researchers in the visitor industries do not have the luxury of "game playing." In essence researchers and and their administrators are suspending their objective judgment and accepting inappropriate metrics, rather than focusing on what is important. Debates around these JIF and citation count issues are an irrelevant distraction which diverts attention from the central issue confronting visitor industries' researchers which is, what is the *impact* of their research on and/or service delivery and/or society.
+</text>
+
+<text page="12" section="**Concluding comments **" source="author" id="/page/11/Text/9">
+It is ironic and somewhat hypocritical that much research reported in the visitor industries literature is done by academics with a marketing background who consistently evoke the mantra of customer-orientation; yet most decisions relating to the value of the research are internally driven, remaining within the realm of academia and not embracing a customer-oriented approach which acknowledges that external societal and industry stakeholders, not other academics, are the clients.
+</text>
+
+</page>
+<page number="13">
+<text page="13" section="**Concluding comments **" source="author" id="/page/12/Text/2">
+While enrollments in undergraduate programs in the field have substantially declined in recent years, the programs will probably survive if departments move away from their silos and recognize that the elements comprising the visitor industries – attractions/destinations, tourism and hospitality – are an integrated system united by their common focus on the visitor experience. However, the threat to the viability of graduate programs in the major universities is existential. If the present author's own institution's reaction is typical, then reliance on volatile, arbitrary, metrics widely acknowledged as being invalid and unreliable is not going to be well-received.
+</text>
+
+<text page="13" section="**Concluding comments **" source="author" id="/page/12/Text/3">
+In academic Tier 1 (major research) institutions, the visitor services field consistently ranks in importance far behind the biological and physical sciences, STEM classes, business and the traditional professions. In the eyes of many in major universities, research emanating from departments with names such as hospitality, hotel management, tourism, recreation or special events connotates triviality. It appears this is a moment when the field's research future has a "rendezvous with destiny" and its survival, especially at the graduate level, is dependent on its research programs showing relevancy. There is a management aphorism that states, "Expect what you inspect." Unless the field shifts its focus to make *impact* the core of "success" for academic research, then it is likely to lose relevancy in the competitive academic environment.
+</text>
+
+<text page="13" section="**Concluding comments **" source="author" id="/page/12/Text/4">
+The current author's metrics in Google Scholar connote to the academic world that he has had an unusually successful career. However, they are merely irrelevant and distracting "noise" emanating from reverberations in the echo chamber; they simply do not matter because they are unrelated to societal impact. They do not measure anything meaningful. Surely, at the end of a professional career, a researcher's "success" and personal sense of relative self-worth should be measured by more than a set of meaningless and inaccurate numbers generated by "others' empty conformist counting games" (Guthrie *et al.*, 2019, p. 14).
+</text>
+
+
+<heading page="13" section="The conundrum" source="author" id="/page/12/SectionHeader/5" level="4">
+#### The conundrum
+</heading>
+
+<text page="13" section="The conundrum" source="author" id="/page/12/Text/6">
+The *prima facie* case for refocusing visitor services research on its industry and/or societal impacts is uncontestable. The spurious objectivity of these metrics offers research directors, deans, vice-presidents, other administrators and all stakeholders in the ecosystem indicators of their status vis-a-vis peers. Most researchers working in this field and their administrators probably are privately aware of the perverse and farcical nature of embracing the two flawed metrics used to value their work, but they continue to behave as if they did not know; they overlook and ignore the illusion. Because all academic stakeholders take these metrics seriously, the frustrating reality is that they remain enormously influential and thwart a refocusing and a restoration of academic integrity:
+</text>
+
+<text page="13" section="The conundrum" source="author" id="/page/12/Text/7">
+Here is the bind. Academics are increasingly no longer free to do as they please. They cannot escape the counting games of others. While individuals might preference the inherent value of the work they pursue, their academic masters increasingly live vicariously and parasitically through the external status tokens of the collective efforts of those they manage. Deans, vice-chancellors and others who prop up their organizational hierarchies are no less exercised by the relative standing and status of their academic units (Guthrie *et al.*, 2019, p. 14).
+</text>
+
+<text page="13" section="The conundrum" source="author" id="/page/12/Text/8">
+Flawed metrics are embedded in the research ecosystem. There is a herd mentality. JIFs and citation counts have become not merely one measure of research contribution, but *the only* measure of demonstrating the value of an individual's research. They have been institutionally normalized; their continued use strengthens and reinforces this embeddedness, which has created a strong conventional wisdom mind-set that is challenging to break.
+</text>
+
+</page>
+<page number="14">
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/2">
+Consequently, despite being aware of the blatant disfunction, most appear to have accepted the status quo with all its flaws as simply part of the cosmos.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/3">
+Failure to "play the game" and discount high JIFs and citation counts by shifting to impact comes with short-term risk. Some may regard it as an inappropriate facetious metaphor, but this behavior appears reminiscent of insecure adolescents who cling to their known world rather than to risk moving to a superior model for fear of failure.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/4">
+Breaking the self-serving "chokehold" that the publishing companies exert on academic evaluation criteria can only occur if it is top-down initiated, emanating from academic leaders and administrators who recognize the long-term, self-defeating futility of the existing short-term system. Acting alone, individual scholars cannot be change-agents. Academics, especially those in the early formative stages of their careers, must pursue "the currency of the realm." They do not have the luxury of responding to a different system from that which prevails since it would adversely jeopardize promotions, status and research reputation.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/5">
+The editors of top tier journals serve at the pleasure of the publishing companies who own the journals so their ability to force change is circumscribed. The journal owners have no incentive to change. As the aphorism states: "Turkeys do not vote for Christmas." Journals with high impact scores garner more citations because of those scores, so their advantage is cumulatively reinforced, and their existing status retained (Siler and Larivière, 2022). Moving to refocus on impact creates uncertainty, ambivalence and apprehension, which could jeopardize the status and standing of the commercial returns to the publishing houses who benefit most from these flawed measures.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/6">
+Nevertheless, journal editors can assist in forcing change over time by requiring that articles they publish focus on the societal and/or industry impact dimension and relegating evidence of an article's influence on the academic echo chamber as a secondary consideration. Such a public stance would aid academics in reinforcing their belief and self-satisfaction that they are engaging in a genuinely productive professional life, rather than one spent pursuing the meaningless "currency of the realm."
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/7">
+In the author's view, Macbeth's soliloguy pertains to this context:
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/8">
+Life's but a walking shadow, a poor player.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/9">
+That struts and frets his hour upon the stage.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/10">
+And then is heard no more: it is a tale.
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/11">
+Told by an idiot, full of sound and fury,
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/12">
+Signifying nothing (act 5, scene 5, lines 16–27).
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/13">
+The meaningless metrics purporting to measure impact enable researchers to claim they are doing something useful, but much of it has no impact and will quickly "be heard no more" because it has no significance. The author's aspiration is that the *cri de coeur* presented in this article will stimulate further discussion. His goal is to provoke a rethinking of the prevailing fragile, farcical edifice. Moving away from the publishers self-serving metrics will require the whole academic ecosystem establishment to be supportive; leaders of professional societies; journal editors; associate editors and review boards; as well as the institutions' administrative structures. It is a big ask, but without it the field's future, as Jafari (Jafari and McCabe, 2024) noted, will be dispiritingly defined as, *plus ça change*, *plus c'est la même chose? *
+</text>
+
+<text page="14" section="The conundrum" source="author" id="/page/13/Text/14">
+Doubtless, there will be widespread acceptance of the arguments presented in this paper, but the key question is: Will the beguiling seduction of misleading quantitative metrics continue to blind the field to the consequences of retaining the status quo? The decision of
+</text>
+
+</page>
+<page number="15">
+<text page="15" section="The conundrum" source="author" id="/page/14/Text/0">
+this respected hospitality journal to publish this article is a start. Hopefully, its editorial board will be supportive and act upon its arguments.
+</text>
+
+<text page="15" section="The conundrum" source="author" id="/page/14/Text/1">
+International Journal of Contemporary Hospitality Management
+</text>
+
+
+<heading page="15" section="**1463**" source="author" id="/page/14/SectionHeader/2" level="2">
+## **1463**
+</heading>
+
+
+<heading page="15" section="**References**" source="author" id="/page/14/SectionHeader/3" level="4">
+#### **References**
+</heading>
+
+<list page="15" section="**References**" source="author" id="/page/14/ListGroup/337">
+- Abizadeh, A. (2024), "Academic journals are a lucrative scam, and we're determined to change that", Guardian, July 16.
+- Adler, N.J. and Harzing, A.W. (2009), "When knowledge wins: transcending the senses and nonsense of academic rankings", Academy of Management Learning and Education, Vol. 8 No. 1, pp. 72-95.
+- Aksnes, D.W., Langfeldt, L. and Wouters, P. (2019), "Citations, citation indicators, and research quality: an overview of basic concepts and theories", Sage Open, Vol. 9 No. 1, pp. 1-17.
+- Alla, K., Hall, W.D., Whiteford, H.A., Head, B.W. and Meurk, C.S. (2017), "How do we define the policy impact of public health research? A systematic review", Health Research Policy and Systems, Vol. 15 No. 1, p. 84.
+- Alvesson, M. and Gabriel, Y. (2013), "Beyond formulaic research: in praise of greater diversity in organizational research and publications", Academy of Management Learning and Education, Vol. 12 No. 2, pp. 245-263.
+- Brauer, R., Dymitrow, M. and Tribe, J. (2019), "The impact of tourism research", Annals of Tourism Research, Vol. 77, pp. 64-78.
+- Chang, C.L. and McAleer, M. (2012), "Citations and impact of ISI tourism and hospitality journals", Tourism Management Perspectives, Vol. 1 No. 1, pp. 2-8.
+- Choi, J.J., Gaskins, L.C., Morton, J.P., Bingham, J.A., Blawas, A.M., Hayes, C., Hoyt, C., Halpin, P.N. and Silliman, B. (2024), "Role of low-impact-factor journals in conservation implementation", Conservation Biology: The Journal of the Society for Conservation Biology, p. e14391.
+- Guthrie, J., Parker, L.D., Dumay, J. and Milne, M.J. (2019), "What counts for quality in interdisciplinary accounting research in the next decade: a critical review and reflection", Accounting, Auditing and Accountability Journal, Vol. 32 No. 1, pp. 2-25.
+- Huang, H., Zhu, D. and Wang, X. (2022), "Evaluating scientific impact of publications: combining citation popularity and purpose", Scientometrics, Vol. 127 No. 9, pp. 5257-5281.
+- Jafari, J. and McCabe, P. (2024), "Emergence: annals and the evolving research and publishing landscape in tourism", Annals of Tourism Research, Vol. 104, p. 103720.
+- Lawrence, P.A. (2008), "Lost in publication: how measurement harms science", Ethics in Science and Environmental Politics, Vol. 8, pp. 1-3.
+- McKercher, B. (2008), "A citation analysis of tourism scholars", Tourism Management, Vol. 29 No. 6, pp. 1226-1232.
+- McKercher, B. and Dolnicar, S. (2022), "Are 10,752 journal articles per year too many?", Annals of Tourism Research, Vol. 94, p. 103398.
+- Ma, L. (2023), "Information, platformized", Journal of the Association for Information Science and Technology, Vol. 74 No. 2, pp. 273-282.
+- Mingers, J. (2008), "Exploring the dynamics of journal citations: modelling with s-curves", Journal of the Operational Research Society, Vol. 59 No. 8, pp. 1013-1025.
+- Mingers, J. and Willmott, H. (2013), "Taylorizing business school research: on the 'one best way' performative effects of journal ranking lists", Human Relations, Vol. 66 No. 8, pp. 1051-1073.
+- Mingers, J. and Yang, L. (2017), "Evaluating journal quality: a review of journal citation indicators and ranking in business and management", European Journal of Operational Research, Vol. 257 No. 1, pp. 323-337.
+- Myers, R.A. and Kahn, K.L. (2021), "Practical publication metrics for academics", Clinical and Translational Science, Vol. 14 No. 5, pp. 1705-1712.
+</list>
+
+</page>
+<page number="16">
+
+<heading page="16" section="IJCHM" source="author" id="/page/15/SectionHeader/0" level="1">
+# IJCHM
+</heading>
+
+
+<heading page="16" section="37,5" source="author" id="/page/15/SectionHeader/1" level="2">
+## 37,5
+</heading>
+
+<text page="16" section="37,5" source="author" id="/page/15/Text/17">
+**1464**
+</text>
+
+<list page="16" section="37,5" source="author" id="/page/15/ListGroup/179">
+- Nkomo, S.M. (2009), "The seductive power of academic journal rankings: challenges of searching for the otherwise", Academy of Management Learning and Education, Vol. 8 No. 1, pp. 108-112.
+- Polanyi, M. (1962), "The republic of science: its political and economic theory", Minerva, Vol. 1 No. 1, pp. 54-73.
+- Ryan, C. (2005), "The ranking and rating of academics and journals in tourism research", Tourism Management, Vol. 26 No. 5, pp. 657-662.
+- Siler, K. and Larivière, V. (2022), "Who games metrics and rankings? Institutional niches and journal impact factor inflation", Research Policy, Vol. 51 No. 10.
+- Singh, G., Haddad, K.M. and Chow, C.W. (2007), "Are articles in 'top' management journals necessarily of higher quality?", Journal of Management Inquiry, Vol. 16 No. 4, pp. 319-331.
+- Sørensen, O.H., Bjørner, J., Holtermann, A., Dyreborg, J., Sørli, J.B., Kristiansen, J. and Nielsen, S.B. (2022), "Measuring societal impact of research—developing and validating an impact instrument for occupational health and safety", Research Evaluation, Vol. 31 No. 1, pp. 118-131.
+- Starbuck, W.H. (2005), "How much better are the most prestigious journals? The statistics of academic publication", Organizational Science, Vol. 16 No. 2, pp. 180-200.
+- Willmott, H. (2012), "Journal list fetishism and the perversion of scholarship: reactivity and the ABS list", Organization, Vol. 18 No. 4, pp. 429-442.
+</list>
+
+
+<heading page="16" section="**Supplementary material**" source="author" id="/page/15/SectionHeader/10" level="4">
+#### **Supplementary material**
+</heading>
+
+<text page="16" section="**Supplementary material**" source="author" id="/page/15/Text/11">
+The supplementary material for this article can be found online.
+</text>
+
+
+<heading page="16" section="**Corresponding author**" source="author" id="/page/15/SectionHeader/12" level="4">
+#### **Corresponding author**
+</heading>
+
+<text page="16" section="**Corresponding author**" source="author" id="/page/15/Text/13">
+John L. Crompton can be contacted at: [jcrompton@tamu.edu](mailto:jcrompton@tamu.edu)
+</text>
+
+<text page="16" section="**Corresponding author**" source="author" id="/page/15/Text/14">
+For instructions on how to order reprints of this article, please visit our website: **www.emeraldgrouppublishing.com/licensing/reprints.htm**
+</text>
+
+<text page="16" section="**Corresponding author**" source="author" id="/page/15/Text/16">
+Or contact us for further details: **permissions@emeraldinsight.com**
+</text>
+
+</page>
+</paper>
