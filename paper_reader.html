@@ -478,8 +478,15 @@ async function loadManifest() {
     if (localStorage.getItem('ai503_dyslexia') === '1') document.body.classList.add('dyslexia');
     if (localStorage.getItem('ai503_wide') === '1') { document.body.classList.add('wide'); $('#wideBtn').classList.add('active'); }
     setLangButton();
+    const col = new URLSearchParams(location.search).get('collection');
+    const chip = [...document.querySelectorAll('#collectionFilters .filter-chip')].find(c => c.dataset.collection === col);
+    if (chip) {
+      document.querySelectorAll('#collectionFilters .filter-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+    }
     renderPaperList();
-    const initial = location.hash.replace('#', '') || manifest[0].rp_id;
+    const first = chip && col !== 'all' ? manifest.find(p => p.rp_id.startsWith(col + '.')) : null;
+    const initial = location.hash.replace('#', '') || (first || manifest[0]).rp_id;
     showPaper(initial);
   } catch (e) {
     $('#main').innerHTML = `<div class="empty">Failed: ${e.message}</div>`;
@@ -1203,6 +1210,12 @@ document.addEventListener('click', (e) => {
     const group = e.target.closest('.filter-chips');
     group.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
     e.target.classList.add('active');
+    if (group.id === 'collectionFilters') {
+      const url = new URL(location.href);
+      const c = e.target.dataset.collection;
+      if (c === 'all') url.searchParams.delete('collection'); else url.searchParams.set('collection', c);
+      history.replaceState(null, '', url);
+    }
     renderPaperList();
   }
 });
