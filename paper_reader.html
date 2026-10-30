@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-cache">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
 <meta name="theme-color" content="#fdf6e3">
 <title>BINEAID — Paper Reader</title>
@@ -470,7 +471,7 @@ function toast(msg) {
 
 async function loadManifest() {
   try {
-    manifest = await (await fetch('paper_reader.json')).json();
+    manifest = await (await fetch('paper_reader.json', { cache: 'no-cache' })).json();
     $('#paperCount').textContent = `· ${manifest.length} papers`;
     // Restore prefs
     if (localStorage.getItem('ai503_bionic') === '1') document.body.classList.add('bionic');
@@ -545,7 +546,7 @@ async function doCrossPaperSearch(q) {
   for (const p of manifest) {
     if (!p.md_path_en) continue;
     if (!mdCache[p.rp_id + '_en']) {
-      try { mdCache[p.rp_id + '_en'] = await (await fetch(p.md_path_en)).text(); } catch { continue; }
+      try { mdCache[p.rp_id + '_en'] = await (await fetch(p.md_path_en, { cache: 'no-cache' })).text(); } catch { continue; }
     }
     const text = mdCache[p.rp_id + '_en'].toLowerCase();
     const idx = text.indexOf(ql);
@@ -689,7 +690,7 @@ async function loadMarkdown(p) {
   if (!path) { pane.innerHTML = '<div class="empty">No content for this language.</div>'; return; }
   const cacheKey = p.rp_id + '_' + (currentLang === 'ar' && p.md_path_ar ? 'ar' : 'en');
   try {
-    if (!mdCache[cacheKey]) mdCache[cacheKey] = await (await fetch(path)).text();
+    if (!mdCache[cacheKey]) mdCache[cacheKey] = await (await fetch(path, { cache: 'no-cache' })).text();
     currentMd = mdCache[cacheKey];
     const isAr = currentLang === 'ar' && p.md_path_ar;
     const tocHtml = buildToc(currentMd);
@@ -866,7 +867,7 @@ async function renderCompare() {
   const sides = [[left, '#cmpL'], [right, '#cmpR']];
   for (const [p, sel] of sides) {
     if (p.md_path_en) {
-      const md = await (await fetch(p.md_path_en)).text();
+      const md = await (await fetch(p.md_path_en, { cache: 'no-cache' })).text();
       $(sel).innerHTML = `<div class="md">${markdownToHtml(md, p)}</div>`;
     } else {
       $(sel).innerHTML = '<div class="empty">No markdown.</div>';
@@ -930,7 +931,7 @@ async function downloadMd(rpId) {
   const cacheKey = p.rp_id + '_' + (useAr ? 'ar' : 'en');
   let text = mdCache[cacheKey];
   if (!text) {
-    try { text = await (await fetch(path)).text(); } catch { toast('Download failed'); return; }
+    try { text = await (await fetch(path, { cache: 'no-cache' })).text(); } catch { toast('Download failed'); return; }
   }
   const blob = new Blob([text], { type: 'text/markdown;charset=utf-8' });
   const url = URL.createObjectURL(blob);
