@@ -637,6 +637,8 @@ async function showPaper(rpId) {
           </select>
           <button class="iconbtn" onclick="copyBibtex('${p.rp_id}')" title="Copy BibTeX">{ }</button>
           <button class="iconbtn" onclick="downloadMd('${p.rp_id}')" title="Download markdown">⬇ MD</button>
+          ${p.xml_path ? `<a class="iconbtn" href="${p.xml_path}" download title="Download XML" style="text-decoration:none">⬇ XML</a>` : ''}
+          ${p.pdf_path ? `<a class="iconbtn" href="${p.pdf_path}" download title="Download PDF" style="text-decoration:none">⬇ PDF</a>` : ''}
           <button class="iconbtn" onclick="window.print()" title="Print">🖨</button>
           <button class="iconbtn" onclick="toggleTTS()" id="ttsBtn" title="Read aloud">🔊</button>
         </div>
@@ -648,7 +650,6 @@ async function showPaper(rpId) {
         ${p.method_family ? `<span class="pill">${escapeHtml(p.method_family)}</span>` : ''}
         ${p.traced_pct ? `<span class="pill">${p.traced_pct}% traced</span>` : ''}
         ${p.pdf_path ? `<a class="pill link" href="${p.pdf_path}" target="_blank">⬇ PDF</a>` : ''}
-        ${p.xml_path ? `<a class="pill link" href="${p.xml_path}" download>⬇ XML</a>` : ''}
         ${p.doi ? `<a class="pill link" href="https://doi.org/${escapeAttr(p.doi.replace(/^arXiv:/i, '10.48550/arXiv.'))}" target="_blank">DOI</a>` : ''}
         ${p.md_path_ar ? `<span class="pill" title="Arabic translation available">🌐 AR</span>` : ''}
       </div>
